@@ -67,7 +67,7 @@ def is_noun(tag):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Outputting .tchunk and .pos files. A list of the tchunk names will be provided as well.")
     parser.add_argument('-f', '--foreground', nargs = 1, help = "Please enter the input foreground directory", required = True)
-    parser.add_argument('-b', '--background', nargs = 1, help = "Please enter the output background directory", required = True)
+    parser.add_argument('-b', '--background', nargs = 1, help = "Please enter the input background directory", required = True)
 
     args = parser.parse_args()
 
@@ -80,6 +80,13 @@ if __name__ == "__main__":
         os.mkdir(out_foreground_path)
     if not os.path.exists(out_background_path):
         os.mkdir(out_background_path)
+
+    if os.path.exists("foreground_tchunk_list"):
+        file = open("foreground_tchunk_list", 'w+')
+        file.close()
+    if os.path.exists("background_tchunk_list"):
+        file = open("background_tchunk_list", "w+")
+        file.close()
     #output files from foreground
     for file in foreground_files:
         out_tchunk_file = "./output_foreground/" + file + ".tchunk"
@@ -88,6 +95,7 @@ if __name__ == "__main__":
         tagged_nouns = detect_noun(processed_data)
         print_tchunk(out_tchunk_file, tagged_nouns)
         print_pos(out_pos_file, tagged_nouns)
+
 
         to_write = open("foreground_tchunk_list", 'a+')
         to_write.write(out_tchunk_file + '\n')
