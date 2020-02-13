@@ -94,7 +94,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Outputting .tchunk and .pos files. A list of the tchunk names will be provided as well.")
     parser.add_argument('-f', '--foreground', nargs = 1, help = "Please enter the input foreground directory", required = True)
     parser.add_argument('-b', '--background', nargs = 1, help = "Please enter the input background directory", required = True)
-    parser.add_argument('-d', '--dict_filter', nargs=1, default= False, help="Please enter the input background directory", required=False)
+    parser.add_argument('-d', '--dict_filter', nargs=1, default= False, help="Please enter True or False for turning dictionary on or off", required=False)
     args = parser.parse_args()
 
     foreground_files = load_directory(args.foreground[0])
