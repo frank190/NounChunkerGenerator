@@ -1,0 +1,29 @@
+﻿中值_NN 滤波器_NN
+
+在_P 图像_NN 处理_NN 中_LC ，_PU 在_P 进行_VV 如_P 边缘_NN 检测_VV 这样_PN 的_DEG 进一步_JJ 处理_NN 之前_LC ，_PU 通常_AD 需要_VV 首先_AD 进行_VV 一定_JJ 程度_NN 的_DEC 降噪_NN 。_PU 中值_NN 滤波_NN 是_VC 一_CD 种_M 非线性_JJ 数字_NN 滤波器_NN 技术_NN ，_PU 经常_AD 用于_VV 去除_VV 图像_NN 或者_CC 其它_DT 信号_NN 中_LC 的_DEG 噪声_NN 。_PU 这_DT 个_M 设计_NN 思想_VV 就_AD 是_VC 检查_VV 输入_NN 信号_NN 中_LC 的_DEG 采样_VV 并_CC 判断_VV 它_PN 是否_AD 代表_VV 了_AS 信号_NN ，_PU 使用_VV 奇数个_NN 采样_VV 组成_VV 的_DEC 观察窗_NN 实现_VV 这_DT 项_M 功能_NN 。_PU 观察_VV 窗口_NN 中_LC 的_DEG 数值_NN 进行_VV 排序_NN ，_PU 位于_VV 观察窗_NN 中间_NN 的_DEG 中值_NN 作为_VV 输出_VV 。_PU 然后_AD ，_PU 丢弃_VV 最早_JJ 的_DEG 值_NN ，_PU 取得_VV 新_VA 的_DEC 采样_NN ，_PU 重复_NT 上面_LC 的_DEG 计算_NN 过程_NN 。_PU
+
+中值_NN 滤波_NN 是_VC 图像_NN 处理_NN 中_LC 的_DEG 一_CD 个_M 常用_JJ 步骤_NN ，_PU 它_PN 对于_P 斑点_NN 噪声_NN 和_CC 椒盐_NN 噪声_NN 来_MSP 说尤_VV 其_PN 有用_VA 。_PU 保存_VV 边缘_NN 的_DEG 特性_NN 使_VV 它_PN 在_P 不_AD 希望_VV 出现_VV 边缘_NN 模糊_NN 的_DEC 场合_NN 也_AD 很_AD 有用_VA 。_PU
+
+为了_P 演示_VV 中值_NN 滤波器_NN 的_DEG 工作_NN 过程_NN ，_PU 我们_PN 给_P 下面_NN 的_DEG 数组_NN 加上_VV 观察窗_NN 3_CD ，_PU 重复_JJ 边界_NN 的_DEG 数值_NN ：_PU
+
+x_NN =_NOI [_PU 28063_CD ]_PU
+
+y_NN [_PU 1_CD ]_PU =_NOI Median_NN [_PU 2280_CD ]_PU =_NN 2_CD <_PU br_NN >_PU
+y_NN [_PU 2_CD ]_PU =_NOI Median_NN [_PU 2806_CD ]_PU =_CC Median_NN [_PU 2680_CD ]_PU =_NN 6_CD <_PU br_NN >_PU
+y_NN [_PU 3_CD ]_PU =_NOI Median_NN [_PU 8063_CD ]_PU =_CC Median_NN [_PU 3680_CD ]_PU =_NN 6_CD <_PU br_NN >_PU
+y_NN [_PU 4_CD ]_PU =_NOI Median_NN [_PU 633_CD ]_PU =_CC Median_NN [_PU 336_CD ]_PU =_NN 3_CD <_PU br_NN >_PU
+
+于_P 是_VC <_PU br_NN >_PU
+y_NN =_NOI [_PU 2663_CD ]_PU
+
+其中_NN y_NN 是_VC x_NN 的_DEG 中值_NN 滤波_NN 输出_VV 。_PU
+
+在_P GIMP2_NN ._PU 8_CD ._PU 2_CD 中_LC 操作_VV 如下_VV ：_PU
+
+滤镜_NN -_PU >_PU 增强_NN -_PU >_PU 去除_VV 斑点_NN
+
+不_AD 要_VV 勾选_VV 适应_NN 和_CC 递归_NN ，_PU 设置_VV 黑色_JJ 水平_NN 为_VC -_PU 1_CD ，_PU 白色_JJ 水平_NN 为_VC 256_CD 。_PU 根据_P 需要_NN 调节_VV 半径_NN 。_PU 半径_NN 越_AD 大_VA ，_PU 细节_NN 越少_VA 。_PU
+
+
+
+

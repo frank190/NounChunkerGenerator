@@ -1,0 +1,17 @@
+﻿超临_VV 界流_NN
+
+超临_VV 界流_NN 是_VC 指_VV 流体_NN 的_DEC 速度_NN 已_AD 超过_VV 波速_NN ，_PU 在_P 气体_NN 动力学_NN 中_LC 类似_VA 的_DEC 情形_NN 称为_VV 超音速_NN 。_PU
+
+波_NN 的_DEG 资讯_NN 以_P 波速_NN 的_DEG 速度_NN 传递_VV ，_PU 例如_AD 将_BA 小_JJ 石头_NN 丟入_VV 水_NN 中_LC ．_PU 水_NN 中_LC 涟渏_NN 扩散_VV 的_DEC 速度_NN 即_AD 为_VC 波速_NN 。_PU 流体_NN 速度_NN 则_AD 是_VC 当_P 这_DT 个波_NN 扩散_VV 时_LC ，_PU 上面_NN 的_DEC 叶子_NN 移动_VV 的_DEC 速度_NN 。_PU 若_CS 小_JJ 石头_NN 丟到_VV 超临_NN 界流_NN 中_LC ，_PU 涟渏_NN 会_VV 全部_AD 往_P 下游_NN 方向_NN 扩散_VV ，_PU 若_CS 小_JJ 石头_NN 丟到_VV 亚临_NN 界流_NN 中_LC ，_PU 涟渏_NN 会_VV 同时_AD 往_P 上游_NN 及_CC 下游_NN 方向_NN 扩散_VV 。_PU 只有_AD 在_P 超临_VV 界流_NN 中_LC 才_AD 会_VV 出现_VV 水跃_NN 的_DEC 现象_NN 。_PU
+
+在_P 流体_NN 力学_NN ，_PU 由_P 两_CD 个_M 行为_VA 之间_LC 的_DEG 转变_NN 常_AD 会_VV 用_P 无_VE 因_P 次量_NN 来_MSP 描述_VV ，_PU 而_CC 转变_VV 多半_CD 发生_VV 在_P 此_DT 数字_NN 大于_VV 一_CD 或_CC 小于_VV 一_CD 的_DEC 情形_NN 下_LC 。_PU 是否_AD 为_VC 超临_NN 界流_NN 可以_VV 用_P 福禄数_NN 来_MSP 判断_VV 。_PU
+
+其中_NN
+
+若_CS formula_NN __NN 2_CD ，_PU 流体_NN 为_VC 亚临_NN 界流_NN ，_PU 若_CS formula_NN __NN 3_CD ，_PU 流体_NN 为_VC 超临_VV 界流_NN ，_PU 若_CS formula_NN
+
+因此_AD 若_CS 流_VV 速_AD 越_AD 大_VA ，_PU 深度_NN 越_AD 浅_VA ，_PU 越_AD 容易_AD 形成_VV 超临_VV 界流_NN 。_PU
+
+
+
+

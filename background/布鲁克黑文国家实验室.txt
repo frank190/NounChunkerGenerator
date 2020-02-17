@@ -1,0 +1,11 @@
+﻿布_NN 鲁_NOI 克_M 黑文_NN 国家_NN 实验室_NN
+
+布鲁克_NN 黑文_JJ 国家_NN 实验室_NN （_PU BrookhavenNationalLaboratory_NN ，_PU 简称_VV BNL_NN ）_PU 是_VC 美国_NR 的_DEG 一_CD 所_M 国家_NN 实验室_NN ，_PU 位于_VV 纽约_AD 州长_VV 岛苏福克_NN 县_NN 布鲁克_NN 黑_JJ 文_NN 镇_NN 的_DEG 阿普顿_NN ，_PU 1947_CD 年_M 在_P 前美_NN 国基_NN 地_DEC 阿普_NN 顿营_NN 原址_NN 建造_NN 。_PU 该_DT 实验室_NN 由_P 布鲁克_NN 黑_JJ 文_NN 镇_NN 而_MSP 得名_VV 。_PU
+
+实验室_NN 本来_AD 由_P 美国_NR 原子_NN 能委员_NN 会_VV 所_MSP 拥有_VV ，_PU 后来_VV 因_P 委员_NN 会_VV 被_SB 合并_VV 而_MSP 转交_VV 给_VV 美国_NR 能源部_NN 再_AD 外判_VV 予_VV 各_DT 大学_NN 及_CC 研究_NN 机构_NN 。_PU 现时_NT 实验室_NN 由_P 石溪_NN 大学_NN 及_CC 合伙_JJ 经营_NN 的_DEG 的_DEC 布_NN 鲁克_NR 黑文_NN 科学_NN 协会_NN 管理_VV 。_PU
+
+实验室_NN 约_AD 雇用_VV 3000_CD 名_M 科学家_NN 、_PU 工程师_NN 及_CC 其他_DT 技术_NN 人员_NN ，_PU 每_DT 年_M 接待_VV 4000_CD 名_M 访问_NN 学者_NN 。_PU 实验室_NN 的_DEC 研究_NN 共_AD 产生_VV 七_CD 名_M 诺贝_NN 尔奖_NN 得奖者_NN 。_PU
+
+实验_JJ 园区_NN 设有_VV 独立_VV 的_DEC 警署_NN 、_PU 消防局_NN 及_CC 邮递_NN 区号_NN (_PU 11973_CD )_PU 。_PU 园区_NN 共_AD 估_VV 。_PU
+
+

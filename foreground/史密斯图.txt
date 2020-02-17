@@ -1,0 +1,19 @@
+﻿史_NN 密斯图_NN
+
+史密斯_AD 图_NN （_PU ）_PU 是_VC 一_CD 款_NN 用于_VV 电子_NN 工程_NN 的_DEG 图表_NN ，_PU 主要_AD 用于_VV 传输线_NN 的_DEG 阻抗_NN 匹配_NN 上_LC 。_PU 一_CD 条_M 传输线_NN 的_DEG 阻抗_NN 会_VV 随_P 其_PN 物理_NN 长度_NN 而_MSP 改变_VV ，_PU 要_VV 设计_VV 一_CD 套_M 阻抗_NN 匹配_VV 的_DEC 电路_NN ，_PU 需要_VV 通过_P 不少_AD 繁复_VA 的_DEC 计算_NN 程序_NN ，_PU 史密_JJ 斯_DT 图_NN 的_DEG 特点_NN 便_AD 是_VC 省去_VV 一些_CD 计算_NN 程序_NN 。_PU
+
+该_DT 图表_NN 是_VC 由_P 菲利普_NN ·_PU 史密斯_AD 於_P 1939_CD 年_M 发明_NN 的_DEG ，_PU 当时_AD 他_VV 在_P 美国_NR 无线_NN 电公司_NN 工作_NN ，_PU 曾_AD 说过_VV ，_PU 「_PU 在_P 我_PN 能够_VV 使用_VV 计算尺_NN 的_DEC 时候_NN ，_PU 我_PN 对以_VV 图表_NN 方式_NN 来_MSP 表达_VV 数学_NN 上_LC 的_DEG 关联_NN 很_AD 有_VE 兴趣_NN 」_PU 。_PU 但_CC 的_DEC 水_NN 桥东_NN 作_VV 在_P 1937_CD 年_M 所_MSP 发表_VV 的_DEC 论文_NN 中_LC 就_AD 已_AD 提出_VV 这_DT 种_M 图表_NN ，_PU 比_P 菲利普_NN ·_PU 史密_NT 斯早_AD 2_CD 年_M 。_PU 因此_AD 在_P 日本_NR 有_VE 主张_JJ 此_DT 图_NN 应_VV 改名_NN 为_VC 「_PU 水桥图_NN 」_PU 或_CC 「_PU 水桥_NN -_PU 史密_NT 斯_DT 图_NN 」_PU 。_PU
+
+史密_AD 斯_DT 图_NN 的_DEG 基本_NN 在于_VV 以下_JJ 的_DEG 算式_NN
+
+当_NN 中_LC 的_DEG Γ代_NN 表其_NN 线路_NN 的_DEG 反射_NN 系数_NN ，_PU 即_AD 里_VV 的_DEC S_NN ，_PU formula_NN __NN 2_CD 是_VC 归_VV 一_CD 负载值_NN ，_PU 即_AD formula_NN
+图表_NN 中_LC 的_DEG 圆形_JJ 线代_NN 表电抗_NN 的_DEC 实数值_NN ，_PU 即_AD 电阻_NN 值_NN ，_PU 中间_NN 的_DEG 横线_NN 与_CC 向上_AD 和_CC 向下_AD 散出_VV 的_DEC 线_NN 则_AD 代表_VV 电阻_NN 抗力_NN 的_DEC 虚数值_NN ，_PU 即_AD 由_P 电容_NN 或_CC 电感_NN 在_P 高频_NN 下_LC 所_MSP 产生_VV 的_DEC 阻值_NN ，_PU 当中_AD 向上_VV 的_DEC 是_VC 正数_NN ，_PU 向下_VV 的_DEC 是_VC 负数_NN 。_PU 图表_NN 最_CC 中间_NN 的_DEC 点_NN （_PU 1_CD +_M j0_NN ）_PU 代表_VV 一_CD 个_M 已阻_NN 抗_VV 匹配_VV 的_DEC 电阻_NN 数值_NN （_PU formula_NN
+
+有_VE 一些_CD 图表_NN 是_VC 以_P 导纳值_NN 来_MSP 表示_VV ，_PU 把_BA 上述_JJ 的_DEG 阻抗值_NN 版本_AD 旋转_VV 180_CD 度_M 即_AD 可_VV 。_PU
+
+自从_AD 有_VE 了_AS 计算机_NN 后_LC ，_PU 此_DT 种_M 图表_NN 的_DEG 使用率_NN 随之_AD 而_MSP 下_LC ，_PU 但_AD 仍_AD 常_AD 用来_VV 表示_VV 特定_NN 的_DEC 资料_NN 。_PU 对于_P 就_AD 读电_VV 磁学_NN 、_PU 微波_NN 工程_NN 及_CC 射频_NN 电子_NN 学_NN 的_DEG 学生_NN 来说_LC ，_PU 在_P 解决_VV 课本_NN 问题_NN 仍然_AD 很_AD 实用_VA ，_PU 因此_AD 史密_VA 斯_DT 图_NN 至今_AD 仍_AD 是_VC 重要_VA 的_DEC 教学_NN 用具_NN 。_PU
+
+在_P 学术_NN 论文_NN 里_LC ，_PU 量度_NN 仪器_NN 的_DEG 结果_NN 也_AD 常_AD 会_VV 以_P 史密_JJ 斯_DT 图_NN 来_MSP 表示_VV 。_PU
+
+
+

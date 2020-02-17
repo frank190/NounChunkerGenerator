@@ -1,0 +1,32 @@
+﻿_CS 接触器_NN
+
+接触器_NN （_PU ）_PU ，_PU 指利_NN 用线_NN 圈流_NN 过_VV 电流_NN 产生_VV 磁场_NN ，_PU 使_VV 触头_NN 闭合_VV ，_PU 以_MSP 达到_VV 控制_VV 负载_NN 的_DEC 电器_NN 。_PU 因为_P 可_VV 快速_AD 切断_VV 交流_NN 与_CC 直流_NN 主_JJ 回路_NN 和_CC 可_VV 频繁_VA 地_DEV 接通_VV 与_P 大_JJ 电流_NN 控制_NN （_PU 某些_DT 型別_NN 可_VV 达_VV 800_CD 安培_NN ）_PU 电路_NN 的_DEC 装置_NN ，_PU 所以_AD 经常_AD 运用于_VV 电动机_NN 做为_AD 控制_VV 对象_NN ，_PU 也_AD 可_VV 用作_VV 控制_NN 工厂_NN 设备_NN 、_PU 电热器_NN 、_PU 工作_NN 母机_NN 和_CC 各_DT 样_M 电力_NN 机组_NN 等_ETC 电力_NN 负载_NN ，_PU 并_CC 作为_VV 远_JJ 距离_NN 控制_NN 装置_NN 。_PU
+
+交流_NN 接触器_NN 利用_VV 主_JJ 接点_NN 来_MSP 开闭_VV 电路_NN ，_PU 用_P 辅助_JJ 接点_NN 来_MSP 导通_VV 控制_NN 回路_NN 。_PU 主_JJ 接点_NN 一般_AD 只_AD 有_VE 常开_JJ 接点_NN ，_PU 而_CC 辅助_JJ 接点_NN 常_AD 有_VE 两_CD 对_P 具有_VV 常开_JJ 和_CC 常闭_JJ 功能_NN 的_DEC 接点_NN ，_PU 小型_JJ 的_DEG 接触器_NN 也_AD 经常_AD 作为_P 中间_NN 继电器_NN 配合_VV 主_JJ 电路_NN 使用_VV 。_PU 交流_NN 接触器_NN 的_DEG 接点_NN ，_PU 由_P 银钨_NN 合金_NN 制成_VV ，_PU 具有_VV 良好_VA 的_DEC 导电性_NN 和_CC 耐_VV 高温_NN 烧蚀性_NN 。_PU
+
+交流_NN 接触器_NN 的_DEG 动作_NN 动力_NN 来_MSP 源于_VV 交流_NN 电磁铁_NN ，_PU 电磁铁_NN 由_P 两_CD 个_M “_PU 山_NN ”_PU 字形_NN 的_DEC 幼硅_NN 钢片_NN 叠成_VV ，_PU 其中_NN 一_CD 个_M 固定_NN ，_PU 在_P 上面_NN 套上_VV 线圈_NN ，_PU 工作_NN 电压_NN 有_VE 多_CD 种_M 供_VV 选择_NN 。_PU 为了_P 使_VV 磁力_NN 稳定_VA ，_PU 铁芯_NN 的_DEG 吸合面_NN ，_PU 加上_VV 短路环_NN 。_PU 交流_NN 接触器_NN 在_P 失电_NN 后_LC ，_PU 依靠_P 弹簧_NN 复位_NN 。_PU 另_DT 一半_CD 是_VC 活动_JJ 铁芯_NN ，_PU 构造_VV 和_CC 固定_VV 铁芯_NN 一样_VA ，_PU 用以_VV 带动_VV 主接点_NN 和_CC 辅助_JJ 接点_NN 的_DEG 开关_NN 。_PU
+
+20_CD 安培_NN 以上_LC 的_DEG 接触器_NN 加有_VV 灭弧罩_NN ，_PU 利用_VV 断开_NN 电路_NN 时_LC 产生_VV 的_DEC 电磁力_NN ，_PU 快速_AD 拉断_VV 电弧_NN ，_PU 以_MSP 保护_VV 接点_NN 。_PU 接触器_NN 具有_VV 可_VV 高_JJ 频率_NN 的_DEG 做电源_NN 开启_NN 与_CC 切断_NN 控制_VV ，_PU 最_AD 高_VA 操作_NN 频率_NN 甚至_AD 可_VV 达_VV 每_DT 小时_M 1200_CD 次_M 也_AD 没_JJ 问题_NN 。_PU 而_CC 接触器_NN 的_DEG 使用_NN 壽命_NN 很_AD 高_VA ，_PU 机械_NN 壽命_NN 通常_AD 为数_P 百万_CD 次_M 至_CC 一千万_CD 次_M ，_PU 电流壽_NN 命_NN 一般_AD 则_AD 为数_P 十万_OD 次_M 至_CC 数百万_CD 次_M 。_PU
+
+电磁_NN 接触器_NN （_PU MagneticContactor_NN ）_PU 主要_AD 由_P 接点_NN 系统_NN 、_PU 电磁_NN 操动_NN 系统_NN 、_PU 支架_NN 、_PU 辅助_JJ 接点_NN 和_CC 外壳_NN （_PU 或_CC 底架_NN ）_PU 组成_VV 。_PU 因为_P 交流_NN 电磁_NN 接触器_NN 的_DEG 线圈_NN 一般_AD 采用_VV 交流_NN 电源_NN 供电_NN ，_PU 在_P 接触器_NN 激_JJ 磁_NN 之后_LC ，_PU 通常_AD 会_VV 有_VE 一_CD 声高_M 分贝_VV 的_DEC "_PU 咯_NN "_PU 的_DEG 噪音_NN ，_PU 这_PN 也_AD 成_VV 为_VC 电磁_NN 接触器_NN 的_DEG 特色_NN 。_PU
+
+虽然_CS 80_CD 年代_NN 后_LC ，_PU 各_DT 国_NN 有_VE 发展_NN 交流_NN 接触器_NN 电磁铁_NN 的_DEC 无声_JJ 和_CC 节电_VV ，_PU 基本_AD 的_DEV 可_VV 行_VV 方案_NN 之_DEC 一_CD 是_VC 将_BA 交流_NN 电源_NN 用_P 变压器_NN 降压_VV 后_LC ，_PU 再_AD 经_P 内部_NN 整流器_NN 转变_VV 成_VV 直流_JJ 电源_NN 后_LC 供电_VV ，_PU 但_CC 此_DT 复杂_JJ 控制_NN 方式_NN 并_AD 不_AD 多见_VV 。_PU
+
+真空_NN 接触器_NN 为_P 接点_NN 系统_NN 采用_VV 真空_NN 消_VV 磁室_NN 的_DEG 接触器_NN 。_PU
+
+半导体_NN 接触器_NN 使用_VV 改变_NN 电路_NN 回路_NN 的_DEC 导通_NN 状态_NN 和_CC 断路_NN 状态_NN 而_MSP 完成_VV 电流_NN 操作_NN 的_DEC 接触器_NN 。_PU
+
+根据_P 控制_JJ 线圈_NN 的_DEG 电压_NN 不同_VA ，_PU 可_VV 分为_VV （_PU 出处_VV 《_PU 实用_JJ 电气_NN 工程_NN 师手册_NN 》_PU ）_PU
+
+按_P 操作_NN 机构分_NN 为_VC
+
+按_P 动作_NN 方式_NN 分为_VV
+
+根据_P 接触器_NN 触点_NN 特性_NN 分为_VV ：_PU （_PU 《_PU 实用_JJ 电气_NN 工程_NN 师手册_NN 》_PU ，_PU 不_AD 含_VV 新_JJ 类别_NN “_PU 无弧_JJ 接触器_NN ”_PU ）_PU
+
+接触器_NN 原理_NN 与_P 电压_NN 继电器_NN 相同_VA ，_PU 只是_AD 接触器_NN 控制_VV 的_DEC 负载_NN 功率_NN 较_AD 大_VA ，_PU 故_AD 体积_NN 也_AD 较_AD 大_VA 。_PU 交流_NN 接触器_NN 广泛_AD 用作_VV 电力_NN 的_DEG 开断_NN 和_CC 控制_NN 电路_NN 。_PU
+
+交流_NN 接触器_NN 制作_VV 为_VC 一_CD 个_M 整体_AD ，_PU 外形_NN 和_CC 性能_NN 也_AD 在_VV 不断_AD 提高_VV ，_PU 但是_CC 功能_NN 始终_AD 不变_VA 。_PU 无论_JJ 技术_NN 的_DEG 发展_NN 到_VV 什么_PN 程度_NN ，_PU 普通_VA 的_DEC 交流_NN 接触器_NN 还_AD 是_VC 有_VE 其_PN 重要_VA 的_DEC 地位_NN 。_PU
+
+
+

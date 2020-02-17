@@ -1,0 +1,8 @@
+﻿机_NN 电耦合_NN 系数_NN
+
+机电_NN 耦合_NN 系数_NN （_PU ）_PU 是_VC 压电_NN 材料_NN 中量_NN 测_VV 电能_NN 和_CC 声学能_NN 之间_LC 转换_VV ，_PU 能量_NN 转换_NN 效率_NN 的_DEC 系数_NN 。_PU
+
+机电_NN 耦合_NN 系数_NN k_NN 可以_VV 表示_VV 如_P 下式_NN ：_PU
+
+
+

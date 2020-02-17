@@ -1,0 +1,8 @@
+﻿_CS 下降_VV 时间_NN
+
+下降_VV 时间_NN 是_VC 电子_NN 学名词_NN ，_PU 常用_JJ formula_NN
+
+在_P 标示_NN 下降_VV 时间_NN 的_DEG 允许_NN 范围_NN 时_LC ，_PU 一般_AD 也_AD 会_VV 标示_VV 下_JJ 冲_NN （_PU undershoot_NN ）_PU 及_CC 振铃_NN 的_DEG 允许_NN 范围_NN 。_PU
+
+
+

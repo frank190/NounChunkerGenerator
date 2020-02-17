@@ -1,0 +1,10 @@
+﻿熔点_NN
+
+熔点_NN 、_PU 液化点_NN （_PU M_NN ._PU P_NN ._PU ）_PU 是_VC 在_P 大气_NN 压_VV 下晶体_NN 将_BA 其_PN 物态_NN 由_P 固态_NN 转变_VV 为_VC 液态_NN 的_DEC 过程_NN 中_LC 固液_VV 共存_NN 状态_NN 的_DEC 温度_NN ；_PU 各_DT 种_M 晶体_NN 的_DEC 熔点_NN 不同_VA ，_PU 对_P 同_DT 一_CD 种_M 晶体_NN ，_PU 熔点_NN 又_AD 与_P 所_MSP 受_VV 压强_NN 有关_VV ，_PU 压_VV 强_DER 越_AD 大_VA ，_PU 熔点_NN 越_AD 高_VA 。_PU 不过_AD ，_PU 与_P 沸点_NN 不同_VA ，_PU 熔点_NN 受压_VV 强_VA 的_DEC 影响_NN 很_AD 小_VA ，_PU 因为_P 由_P 固态_NN 转变_NN （_PU 熔化_NN ）_PU 为_VC 液态_NN 的_DEC 过程_NN 中_LC ，_PU 物质_NN 的_DEG 体积_NN 几乎_P 不_AD 变化_VV 。_PU
+
+进行_VV 相反_JJ 动作_NN （_PU 即_AD 由_P 液态_NN 转为_VV 固态_NN ）_PU 的_DEG 温度_NN ，_PU 称之_AD 为_VC 凝固_NN 点_NN 、_PU 结晶点_NN （_PU 对_P 水_NN 而_MSP 言_VV 也_AD 称为_VV 冰点_NN ）_PU ，_PU 在_P 一定_JJ 大_JJ 气压_NN 下_LC ，_PU 任何_DT 晶体_NN 的_DEC 凝固点_NN 和_CC 熔点_NN 相同_VA 。_PU 习惯_NN 上_LC ，_PU 根据_P 常温_NN （_PU 25_CD ℃_M ）_PU 时_LC 物质_NN 的_DEC 状态_NN 使用_VV 凝固点_NN 或_CC 熔点_NN 称呼_VV 这_DT 一_CD 个_M 温度_NN ：_PU 对于_P 常温_NN 下_LC 为_VC 固态_NN 的_DEC 物质_NN ，_PU 这_DT 个_M 温度_NN 称为_VV 凝固点_NN ；_PU 对于_P 常温_NN 下_LC 为_VC 液态_NN 的_DEC 物质_NN ，_PU 这_DT 个_M 温度_NN 称为_VV 熔点_NN 。_PU
+
+一般_JJ 的_DEG ，_PU 非_JJ 晶体_NN 并_AD 没有_VV 固定_VV 的_DEC 熔点_NN 和_CC 凝固点_NN 对_VV 。_PU
+
+
+

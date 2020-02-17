@@ -1,0 +1,7 @@
+﻿极紫_NN 外光_NN 刻_NN
+
+极_AD 紫外光_NN 微影_NN 、_PU 超紫_NN 外线_NN 平版_NN 印刷术_NN （_PU ，_PU 亦称_JJ EUV_NN 或_CC EUVL_NN ）_PU 是_VC 一_CD 种_M 使用_VV 极_NN 紫外_NN （_PU EUV_NN ）_PU 波长_VV 的_DEC 技术_NN ，_PU 目前_NT 预期_NN 使用_VV 13_CD ._PU 5_CD 纳米_NN ，_PU 预计_VV 将_BA 于_P 2020_CD 年_M 得到_VV 广泛_JJ 应用_NN 用_VV 。_PU
+
+透过_P 高能量_NN 、_PU 波_NN 长短_VA 的_DEC 光源_NN ，_PU 将_BA 电路_NN 图案_NN 转印_VV 到_VV 晶圆_NN 。_PU EUV_NN 光源波_NN 长_AD 比_P 目前_NT 深紫_NR 外线_NN 微影_NN 的_DEC 光源波_NN 长_VA 短少_AD 约_AD 15_CD 倍_M ，_PU 因此_AD 能_VV 达到_VV 持续_VV 将_BA 线宽_NN 尺寸_NN 缩小_VV 的_DEC 目的_NN 。_PU 然而_AD EUV_NN 光罩_NN 与_CC 传统_JJ 的_DEG 光_NN 罩截_NN 然不_AD 同_VV ，_PU 当_P 采用_VV 13_CD ._PU 5_CD nm_M 波长_NN 的_DEC 极_JJ 紫外光_NN 微影_NN 技术_NN 时_LC ，_PU 所有_DT 的_DEG 光罩_NN 材料_NN 都_AD 是_VC 不_AD 透光_VA 的_DEC ，_PU 因此_AD 具_VV 复合_JJ 多涂层_NN 反射镜_NN 的_DEG 光罩_NN 可_VV 将_BA 电路_NN 图案_NN 反射_VV 到_VV 晶圆_NN 上_LC 。_PU 这_DT 种_M 多层膜_NN EUV_NN 光_AD 罩_VV 一_CD 方面_NN 可_VV 维持_VV 光_AD 罩_VV 的_DEC 反射率_NN ，_PU 但_CC 另_DT 一_CD 方面_NN 会_VV 在_P 临界线_NN 宽_VA 、_PU 轮廓_NN 、_PU 刻线_NN 边缘_NN 粗糙度_NN 、_PU 选择性_NN 和_CC 缺陷_NN 控制_NN 方面_NN 造成_VV 独特_VA 的_DEC 蚀刻_NN 晚_VV 了_AS 10_CD 多年_M 。_PU
+
+

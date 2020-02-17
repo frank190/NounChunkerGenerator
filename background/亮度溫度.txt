@@ -1,0 +1,7 @@
+﻿亮度_NN 温度_NN
+
+亮度_NN 温度_NN （_PU ）_PU 或_CC 亮_VV 温度_NN 是_VC 一_CD 种_M 表达_NN 物体_NN 在_P 特定_JJ 频率_NN ν_NN 的_DEG 辐射_NN 强度_NN 的_DEC 假想_NN 温度_NN 。_PU 当_P 一_CD 物体_NN 和_CC 一_CD 与_P 周围_NN 环境_NN 达成_VV 热_AD 平衡_VA 的_DEC 黑体_NN 在_P 特定_JJ 频率_NN 辐射_VV 出_VV 同_DT 强度_NN 电磁波_NN 时_LC ，_PU 黑体_NN 的_DEC 绝对_JJ 温度_NN 即_AD 为_VV 物体_NN 在_P 该_DT 频率_NN 下_LC 的_DEG 亮度_NN 温度_NN 。_PU 这_DT 个_M 概念_NN 被_SB 广泛_VA 地_DEV 用_VV 在_P 电波_NN 天文学_NN 和_CC 行星_NN 科学_NN 中_LC 。_PU
+
+亮度_NN 温度_NN 并_AD 不_AD 是_VC 通常_AD 意义_NN 上_LC 的_DEG 温度_NN 。_PU 其_PN 表征_VV 了_AS 辐射_NN 强度_NN ，_PU 且_CC 依_P 赖於_VV 辐射_NN 机制_NN ，_PU 因此_AD 与_P 辐射体_NN 的_DEC 物理_NN 温度_NN 有_VE 很_AD 大_JJ 差別_NN （_PU 尽管_CS 理论_NN 上_LC 可以_VV 构造_VV 一_CD 种_M 装置_NN 由_P 辐射源_NN 加热_VV 使得_VV 真实_VA 的_DEC 物理_NN 温度_NN 等于_VV 亮度_NN 温度_NN ）_PU 。_PU 非_VC 热_JJ 能源_NN 也_AD 可以_VV 拥有_VV 非常_AD 高_VA 的_DEC 亮_VV 温度_NN 。_PU 脉冲星_NN 的_DEC 亮_VV 温度_NN 可以_VV 达到_VV formula_NN __NN 1_CD K_NN 。_PU 对于_P 典型_VA 的_DEC 氦氖_NN 激光器_NN 的_DEG 辐射_NN ，_PU 其_PN 能量_NN 在_P 60_CD mW_M ，_PU 相干长度_AD 20_CD cm_M ，_PU 集中_VV 在_P 直径_NN 为_VC 10_CD μm_M 的_DEG 点_NN 上_LC ，_PU 它_PN 的_DEG 亮温度_NN 接近_VV formula_NN
+
+

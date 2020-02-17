@@ -1,0 +1,16 @@
+﻿标準_NN 画质_NN 电视_NN
+
+标準解_NN -_PU {}-_NN 析度_NN 电视_NN 、_PU 标準_NN 清_VA -_PU {}-_NN 晰度_NN 电视_NN （_PU standard_NN -_PU definitiontelevision_NN ）_PU ，_PU 又_CC 称_VV -_PU {zh_NN :_PU 标準_NN 画质_NN 电视_NN ;_PU zh_NN -_PU hant_NN :_PU 标準_NN 画质_NN 电视_NN ;_PU zh_NN -_PU hans_NN :_PU 标准_JJ 画质_NN 电视_NN }_PU -_PU 、_PU -_PU {zh_NN :_PU 标清_NN 电视_NN ;_PU zh_NN -_PU hant_NN :_PU 标清_NN 电视_NN ;_PU zh_NN -_PU hans_NN :_PU 标清_NN 电视_NN }_PU -_PU 、_PU SDTV_NN ，_PU 是_VC 指_VV 分辨率_NN 达到_VV 720x576_CD 像素_NN 的_DEG 标準_NN ，_PU 但_CC 还_AD 不_AD 足以_VA 称为_VV 高_JJ 分辨率_NN （_PU HighDefi_JJ nition_NN ）_PU 的_DEG 电视_NN 系统_NN 。_PU 这_DT 个_M 定义_NN 通常_AD 适用_VV 在_P 数位_NN 电视_NN 中_LC ，_PU 特別_NN 是_VC 指_VV 与_P 传统_JJ 类比_NN 系统_NN 有著_VA 相同_VA （_PU 或_CC 近似_VA ）_PU 分辨率_NN 的_DEG 播送_NN 讯号_NN 。_PU 而_MSP 录影_VV 的_DEC 媒体_NN 中_LC 以_P DVD_NN 碟片_NN VHS_NN 录影带_NN ，_PU 就_AD 是_VC 相当_P 这_DT 个_M 规格_NN 。_PU
+
+能够_VV 播送_VV SDTV_NR 的_DEG 标準_NN 包括_VV DVB_NN 、_PU ATSC_NN 和_CC ISDB_NN 。_PU 后_DT 两_CD 项_M 原本_NN 是_VC 为了_P 高_JJ 解析_NN 电视_NN （_PU HD_CD TV_M ）_PU 而_MSP 开发_VV ，_PU 但_CC 更常_AD 被_SB 用_VV 在_P 透过_JJ 多路复_NN 用_P （_PU multiplexing_NN ）_PU 传送_VV 多重_JJ SD_NN 影像_NN 和_CC 声音_NN 串流_NN 。_PU
+
+根据_P 美国_NR 国家_NN 电视_NN 系统_NN 委员会_NN （_PU N_CD TSC_M ）_PU 的_DEG 规范_NN ，_PU S_NT D_CD TV_NN 能_VV 以_P 720x480_CD 像素_NN （_PU pixels_NN ）_PU 的_DEG 宽高比_NN （_PU 40_CD :_PU 33_CD 矩形_JJ 像素_NN ）_PU ，_PU 720x480_CD 像素_NN 的_DEC 宽高比_NN （_PU 11_CD :_PU 10_CD 矩形_JJ 像素_NN ）_PU 及_CC 640x480_CD 像素_NN 的_DEC 4_CD :_PU 3_CD 纵横_NN 比_NN （_PU 正方形_JJ 像素_NN ）_PU 播送_VV 。_PU 画面_NN 帧率_NN （_PU framerate_NN ）_PU 可以_VV 为_VC 每_DT 秒_M 24_CD 、_PU 30_CD 或_CC 60_CD 格_M 画面_NN 。_PU
+
+以_P 4_CD :_PU 3_CD 长_M 宽比_NN 放送_VV 的_DEC 数位_NN SDTV_NN 和_CC 一般_JJ 的_DEG 类比_NN 电视_NN （_PU N_CD TSC_M 、_PU PAL_NN 、_PU SECAM_NN ）_PU 效果_NN 相同_VA ，_PU 但_AD 能够_VV 降低_VV 鬼影_NN （_PU ghosting_NN ）_PU 、_PU 雪花_JJ 影像_NN 和_CC 噪声_NN 的_DEG 发生_NN 。_PU 然而_AD ，_PU 若_CS 是_VC 接收端_NN 的_DEC 状况_NN 不_AD 佳_VA ，_PU 有_VE 可能_VV 出现_VV 方块_NN 效应_NN （_PU blockiness_NN ）_PU 或_CC 画面_NN 延迟_NN （_PU stuttering_NN ）_PU 的_DEC 现象_NN 。_PU
+
+对于_P 香港_NN 数码_NN 地面_NN 电视_NN 广播_NN 以及_CC 早期_JJ 欧美_NN 、_PU 日本_NR 和_CC 韩国_NR 等_ETC 国家_NN 和_CC 地区_NN 而言_LC ，_PU 标準分_NN 辨率_NN 电视_NN 的_DEC 分辨率_NN 为_VC 720x576i_CD 像素_NN （_PU pixels_NN ）_PU ，_PU 画面_NN 宽_AD 高_VA 比_P 为_VC 16_CD :_PU 9_CD ，_PU 注意_VV 像素_NN 并_AD 不_AD 呈_VV 正方形_NN 。_PU
+
+对于_P 中国_NR 大陆而言_AD ，_PU 标准_JJ 清晰度_NN 电视_NN 的_DEC 分辨率_NN 为_VC 720_CD x576i_NN 像素_NN ，_PU 画面_NN 宽_AD 高_VA 比_P 大多_CD 为_VC 4_CD :_PU 3_CD ，_PU 近年_AD 来正逐_VV 步向_NN 16_CD :_PU 9_CD 过渡_M ，_PU 但_AD 同_P 澳门_NR 、_PU 台湾_NR 一样_VA ，_PU 16_CD :_PU 9_CD 只_AD 是_VC 画面_NN 形式_NN 上_LC 的_DEC 过渡_NN ，_PU 真正_AD 传输_VV 的_DEC 比例_NN 格式_NN 还_AD 是_VC 4_CD :_PU 3_CD ，_PU 故_AD 在_P 标清_JJ 数字机_NN 顶盒_NN 上_LC 则_AD 是_VC 挤压_NN 传送_VV 。_PU 截至_AD 目前_NT ，_PU 除了_P 西藏_NN 电视台_NN 以外_LC 所有_DT 中央级_NN 和_CC 省级_NN 标清_NN 卫星_NN 电视_NN 频道_NN 已_AD 全部_AD 实现_VV 16_CD :_PU 9_CD 宽_AD 高_VA 比_P 传输_NN 。_PU
+
+
+

@@ -1,0 +1,15 @@
+﻿_CD OpenShot_NN
+
+OpenShot_NN 影片_NN 编辑器_NN 是_VC 自由_P 且_CC 开_VV 放源_NN 代码_NN 的_DEG 影片_NN 剪辑_NN 软体_NN ，_PU 支援_VV F_CD reeBSD_NN 、_PU Linux_NN 、_PU macOS_NN 与_CC Windows_NN 。_PU 该_DT 专案_NN 在_P 2008年_NT 8月_NT 由_P JonathanThomas_NN 发起_VV ，_PU 其_PN 目标_NN 是_VC 提供_VV 稳定_VA 、_PU 自由_VA 且_CC 易于_VV 使用_VV 的_DEC 影片_NN 编辑器_NN 。_PU
+
+OpenShot_NN 的_DEC 核心_JJ 影片_NN 编辑_VV 功能_NN 是_VC 以_P C_NN +_AD +_VV 函数库_NN 实_MSP 作_VV ，_PU 称之_AD 为_VC libopenshot_NN 。_PU OpenShot_NN 使用_VV Qt_NN 部件_NN 工具箱_NN 并_CC 提供_VV PythonAPI_NN 。_PU
+
+OpenShot_NN 支援_VV 大_JJ 部份_NN FFmpeg_NN 所_MSP 支援_VV 的_DEC 编_VV 解码器_NN ，_PU 如_P WebM_NN （_PU VP9_NN ）_PU 、_PU AVCHD_NN （_PU libx_NN 264_CD ）_PU 、_PU HEVC_NN （_PU libx_NN 265_CD ）_PU ，_PU 以及_CC 音讯_NN 编_VV 解码器_NN 如_P mp3_NN （_PU libmp_NN 3_CD lame_M ）_PU 与_P aac_NN （_PU libfaac_NN ）_PU 。_PU 这_DT 个_M 程式_NN 也_AD 可以_VV 彩现_VV 可_VV 上_NN 传至_VV 视讯_NN 网站_NN 的_DEG MPEG_NN -_PU 4_CD 、_PU ogv_NN 、_PU BD_NN 、_PU DVD_NN 影片_NN 与_CC FullHD_NN 影片_NN 。_PU
+
+大约_AD 在_P 2013_CD 年_M 时_LC ，_PU OpenShot_NN 被_SB 批评_VV 不_AD 够_AD 可靠_VA 。_PU 开发者_NN 回应_NN 表示_VV ，_PU OpenShot_NN 不_AD 稳定_VA 来_MSP 自於_VV MLT_NN 函数库_NN 与_CC GTK_NN 时间轴_NN 。_PU OpenShot2_NN 系列_NN 则_AD 编写_VV 了_AS 自己_PN 的_DEC 函数库_NN 来_MSP 供_VV 视讯_NN 处理_VV 使用_VV ，_PU 移除_VV 对_AD 不_AD 稳定_VA 函数库_NN 的_DEC 依赖_NN 。_PU 开发者_NN 则_AD 指出_VV 这_DT 会让_JJ 新版_NN 的_DEG 软体_NN 更_AD 稳定_VA 。_PU
+
+BryanLunduke_NN 在_P 2017年_NT 3月_NT 31日_NT 於_P NetworkWorld_NN 上_LC 撰写_VV 了_AS 一_CD 篇_M 评论_NN ，_PU 其_PN 指出_VV Openshot2_NN ._PU 3_CD 「_PU 新_JJ 转场_NN 工具_NN 与_CC 标题_NN 编辑器_NN 都_AD 有_VE 很_AD 滑顺_VV 的_DEC 效能_NN 。_PU 」_PU Lunduke_NN 也_AD 提到_VV 其_PN 提供_VV 了_AS 独立于_VV Linux_NR 发行_VV 版_NN 的_DEG 软体_NN 打包_NN 方式_NN ，_PU 如_P AppImage_NN 等_ETC 。_PU
+
+
+
+

@@ -1,0 +1,8 @@
+﻿流_NN 媒体_NN
+
+流媒体_NN （_PU ）_PU 是_VC 指_VV 将_BA 一_CD 连串_NN 的_DEC 多媒体_NN 资料_NN 压缩_VV 后_LC ，_PU 经过_P 网际_NN 网路_NN 分段_NN 传送_VV 资料_NN ，_PU 在_P 网际_NN 网路_NN 上_LC 即时_AD 传输_VV 影音_NN 以_MSP 供_VV 观赏_VV 的_DEC 一_CD 种_M 技术_NN 与_CC 过程_NN ，_PU 此_DT 技术_NN 使得_VV 资料封_NN 包得_VV 以_MSP 像_P 流水_NN 一样_AD 发送_VV ，_PU 如果_CS 不_AD 使用_VV 此_DT 技术_NN ，_PU 就_AD 必须_VV 在_P 使用_VV 前_JJ 下载_NN 整_DT 个_M 媒体_NN 文件_NN 。_PU
+
+一些_CD 流行_VV 的_DEC 串流_NN 媒体_NN 服务_NN 包括_VV Hulu_NN 、_PU Netflix_NN 、_PU AmazonPrimeVideo_NN 以及_CC 影片_NN 分享_VV 网站_NN YouTube_NN ，_PU
+音乐_NN 串流网_NN 站有_VV Spotify_NN 以及_CC AppleMusic_NN ，_PU 电子_NN 游戏_NN 串流网_NN 站有_VV Twitch_NN 以及_CC Mixer_NN 。_PU
+
+

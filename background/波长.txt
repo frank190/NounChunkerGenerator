@@ -1,0 +1,14 @@
+﻿波_NN 长_VA
+
+波长_NN 是_VC 一_CD 个_M 物理学_NN 的_DEG 名词_NN ，_PU 指_VV 在_P 某_DT 一_CD 固定_VV 的_DEC 频率_NN 里_LC ，_PU 沿着_P 波_PN 的_DEG 传播_NN 方向_NN 、_PU 在_VV 波_NN 的_DEC 图形_NN 中_LC ，_PU 离_P 平衡_NN 位置_NN 的_DEC 「_PU 位移_NN 」_PU 与_CC 「_PU 时间_NN 」_PU 皆_AD 相同_VA 的_DEC 两_CD 个_M 质点_NN 之间_LC 的_DEG 最短_JJ 距离_NN 。_PU 在_P 物理学_NN ，_PU 波长_NN 普遍_AD 使用_VV 希腊_VV 字母λ_NN 来_MSP 表示_VV 。_PU
+
+在_P 横波_NN 中_LC ，_PU 波长_NN 是_VC 指_VV 相邻_VV 两_CD 个_M 有_VE 相同_JJ 相位_NN 的_DEC 点_NN 的_DEG 距离_NN ，_PU 通常_AD 是_VC 相邻_VV 的_DEC 波峰_NN 、_PU 波谷_NN 或_CC 对应_VV 的_DEC 。_PU 在_P 纵波_NN 中_LC ，_PU 波长_NN 是_VC 指_VV 相邻_VV 两_CD 个_M 密部_NN 或_CC 疏部_NN 之间_LC 的_DEG 距离_NN 。_PU 在_P 这_DT 两_CD 种_M 波_NN ，_PU 「_PU 波峰_NN 是_VC 电场_NN 或_CC 磁场_NN 的_DEG 变化_NN 。_PU 波_NN 的_DEG 性质_NN 亦_AD 有_VE 其_PN 可量度_NN ，_PU 例如_AD ：_PU 声波_NN 可以_VV 从_P 它_PN 的_DEG 频率_NN 来_MSP 量度_VV ，_PU 人耳_NN 可_VV 听_VV 的_DEC 声波_NN 从_P 20_CD 赫到_VV 20千_CD 赫_M ；_PU 而_CC 波长_NN 从_P 17_CD 公尺_VV 到_VV 17_CD 毫米不等_M ；_PU 可_VV 见光_AD 从_P 深_JJ 红色_NN 的_DEG 700_CD 纳米波_NN 长_VA ，_PU 到_VV 紫色_NN 的_DEG 400_CD 纳米_NN 波长_NN 。_PU
+
+波长_NN formula_NN __NN 1_CD 与_P 频率_NN "_PU formula_NN
+当_NN 中_LC 的_DEG formulam_NN /_PU s_NR （_PU 準确_NR ）_PU ，_PU 大约_AD 是_VC 3_CD ×_PU 10m_CD /_PU s_NN 。_PU 对于_P 声波_NN 在_P 空气_NN 中_LC 传播_VV 的_DEC 速度_NN ，_PU 在_P 室温_NN 大约_AD 是_VC 344_CD m/s_M （_PU 即_AD 1238_CD km_NN /_PU h_NN ）_PU 。_PU
+
+波长_NN 的_DEC 单位_NN 一般_AD 是_VC 米及_VV 其_PN 导出_NN 单位_NN ；_PU 而_MSP 频率_VV 的_DEC 单位_NN 是_VC 赫兹_NN （_PU Hz_CD ）_PU 及_CC 其_PN 导出_NN 单位_NN 。_PU
+
+
+
+

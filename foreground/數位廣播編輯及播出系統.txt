@@ -1,0 +1,8 @@
+﻿数位_NN 广播_JJ 编辑_NN 及_CC 播出_NN 系统_NN
+
+数位_NN 广播_NN 编辑_NN 及_CC 播出_NN 系统_NN （_PU PassantDV_NN ，_PU 简_AD 写_VV PSDV_NN ）_PU 是_VC 嵘合科_NN 技_NN 的_DEG 产品_NN 之一_AD ，_PU 为_P 目前_NT 大爱_AD 电视台_NN 所_MSP 采用_VV 的_DEC 播映_NN 系统_NN 。_PU
+
+全_DT 系统_NN 由_P 多部_NN 特定_JJ 功能_NN 的_DEC 服务器_NN 经_P 网路_NN 连接_VV 形成_VV ，_PU 服务器_NN 均_AD 以_P IntelXeon_NN 双_NN CPU_NN 的_DEC 机架_NN 型_NN 电脑_NN 为_VC 底_LC ，_PU 装上_VV 不同_VA 的_DEC 软体_NN 与_CC 介面卡_NN ，_PU 而_CC 构成_VV 不同_VA 的_DEC 功能_NN ：_PU
+
+
+

@@ -1,0 +1,9 @@
+﻿球面_NN 科学_NN 展示_NN 系统_NN
+
+球面_NN 科学_NN 展示_NN 系统_NN （_PU ，_PU 简称_VV SOS_NN ，_PU 中文_NN 官方_NN 网站_NN 翻译_NN 为_VC 小球_NN 大_JJ 世界_NN ）_PU 是_VC 由_P NOAA_NN 开发_VV 的_DEC 球体_NN 投影_NN 系统_NN 。_PU 这_DT 个_M 系统_NN 可_VV 让高_VV 分辨率_NN 影像_VV 投影_VV 在_P 悬挂_VV 着_AS 的_DEC 球体_NN 萤幕_NN ，_PU 主要_AD 是_VC 针对_P 显示_VV 全_DT 地球_NN 变化影_NN 像_P 设计_VV ，_PU 在_P 表现_VV 地球_NN 环境_NN 变化_NN 上_LC 比_P 传统_JJ 平面_NN 萤幕_NN 有_VE 更_AD 好_VA 的_DEV 表现_VV 。_PU 该_DT 系统_NN 可_VV 将_BA 大气_NN 风暴_VA 、_PU 气候_NN 变化_NN 和_CC 海洋_NN 温度_NN 观测_VV 资料_NN 显示_VV 在_P 球体_NN 萤幕_NN 上_LC 以_P 解释_VV 复杂_VA 的_DEC 地球_NN 环境_NN 过程_NN 。_PU S_CD OS_M 系统_NN 主要_AD 装_VV 在_P 科学_JJ 博物馆_NN 、_PU 大学_NN 和_CC 研究_NN 机构_NN ，_PU 虽然_CS 已经_AD 有_VE 新_JJ 用途_NN 可_VV 应用_VV 。_PU
+
+目前_NT 全世界_AD 已_AD 有_VE 超过_VV 100_CD 个_M 博_NN 物馆_NN 装设_VV 。_PU
+
+球面_NN 科学_NN 展示_NN 系统_NN 目前_NT 装设_VV 在_P 美国_NR 各_DT 地多_CD 个_M 科学博_NN 物馆_NN 、_PU 动物园_NN 、_PU 水族馆_NN 和_CC NASA_NN 的_DEG 游客_NN 中心_NN 。_PU 美国_NR 以外_LC 目前_NT 有_VE 台湾_VA 、_PU 韩国_NR 、_PU 法国_NR 、_PU 芬兰_NR 、_PU 墨西_NR 哥_NN 、_PU 中国_NR 装设_VV 。_PU 装设_VV 位置_NN 仍_AD 在_P 增加_VV 中_LC ：_PU
+
+

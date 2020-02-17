@@ -1,0 +1,39 @@
+﻿劳_NN 斯_DT –赫_NN 尔维茨_NN 稳定性_NN 判据_NN
+
+劳斯_NR –赫_NN 尔维茨_NN 稳定性_NN 判据_NN （_PU ）_PU 是_VC 控制_VV 理论_NN 中_LC 的_DEG 一_CD 个_M 数学_NN 判据_NN ，_PU 是_VC 线性_JJ 时不变_NN 系统_NN （_PU LTI_NN ）_PU 稳定_VA 的_DEC 充分_JJ 必要_JJ 条件_NN 。_PU 劳_BA 斯_DT 测试_NN 是_VC 由_P 英国_JJ 数学家_NN 在_P 1876_CD 年_M 提出_VV 的_DEC 快速_JJ 演算法_NN ，_PU 可以_VV 判断_VV 一线性_NN 系统_NN 其_PN 特征_NN 方程式_NN 的_DEC 根_NN 是否_AD 都_AD 有负_VA 的_DEC 实部_NN 。_PU 德国_NR 数学家_NN 阿道夫_NN ·_PU 赫维_NN 兹_VV 在_P 1895_CD 年_M 独立_VA 的_DEV 提出_VV 将_BA 多项式_JJ 的_DEG 系数_NN 放到_VV 一_CD 个_M 方阵_NN 中_LC （_PU 此_DT 方阵_NN 称为_VV 赫维_NN 兹矩阵_NN ）_PU ，_PU 证明_VV 多项式_JJ 稳定_NN 当_P 且_CC 仅_AD 当_P 赫维_NN 兹矩阵_NN 的_DEG 主要_JJ 子矩_NN 阵其行_NN 列式_NN 形成_VV 的_DEC 数列_NN 均_AD 为_VC 正值_NN 。_PU 二_CD 个_M 程序_NN 是_VC 等价_JJ 的_DEG ，_PU 而_CC 劳_CS 斯_DT 测试_NN 提供_VV 一_CD 个_M 有效_AD 计算_VV 赫_CD 维兹_NN 行列式_JJ 的_DEG 方法_NN 。_PU 满足_VV 劳斯–赫_NN 尔_NN 维_NN 茨稳定性_NN 判据_VV 的_DEC 多项式_JJ 称为_JJ 赫尔维茨_NN 多_CD 项_M 式_NN 。_PU
+
+此_DT 稳定性_NN 判据_VV 之_DEC 所以_AD 重要_VA ，_PU 是_VC 因为_P 若线性_NN 系统_NN 之_DEC 特征_NN 方程式_NN 的_DEC 根_NN "_PU p_NN "_PU 均_AD 有负_VA 的_DEC 实部_NN ，_PU 表示_VV 其_PN 解_NN "_PU e_NN "_PU 为_VC 稳定_VA 的_DEC （_PU BIBO_NN 稳定_VA ）_PU 。_PU 因此_AD 稳定性_NN 判据_NN 提供_VV 了_AS 方式_NN ，_PU 可以_VV 在_P 不_AD 求_VV 解线性_NN 系统_NN 的_DEG 运动_NN 方程_NN 的_DEC 情形_NN 下_LC ，_PU 判断_VV 其_PN 是否_AD 只有_AD 稳定_VA 解_CC 。_PU 对于_P 离散_NN 系统_NN ，_PU 对应_AD 稳定性_NN 的_DEC 测试_NN 可以_VV 由_P Schur_NR –Cohn_NR 判据_NN 、_PU Jury_NN 稳定性_NN 判据_NN 及_CC 来_MSP 判断_VV 。_PU 随着_P 电脑_NN 的_DEC 进步_VV ，_PU 此_PN 稳定_JJ 性判_NN 据_AD 变_VV 的_DEC 较_AD 少_JJ 使用_NN ，_PU 另_DT 一_CD 种_M 判断_VV 的_DEC 方式_NN 则_AD 是_VC 用_P 数值_NN 方法_NN 直接_AD 求解_VV 多_CD 项_M 式_NN ，_PU 得到_VV 其_PN 解_VV 的_DEC 近似值_NN 。_PU
+
+劳_CS 斯_DT 测试_NN 可以_VV 由_P 辗转_NN 相_NN 除_P 法_NN 以及_CC 在_P 计算_VV 时_LC 用_P 施图姆_NN 定理_NN 来_MSP 推导_VV 。_PU 赫尔维茨_NN 利用_VV 另_DT 一_CD 种_M 方式_NN 来_MSP 推导_VV 其_PN 稳定性_NN 判据_NN 。_PU
+
+劳斯_NR –赫_NN 尔维茨_NN 稳定性_NN 判据_VV 和_CC 有关_VV 。_PU 由_P 定理_NN 的_DEC 陈述_NN ，_PU 可_VV 得_VV formula_NN
+根据_P 代数_NN 基本_AD 定理_VV ，_PU 每_DT 个_M "n"次_NN 的_DEC 多项式_JJ 在_VV 复数_NN 平面_NN 上_LC 会有_VV "_PU n_NN "_PU 个_M 根_M （_PU 也就是_AD ，_PU 对于_P 根_M 都_AD 不_AD 在_VV 虚轴_NN 上_LC 的_DEG "_PU ƒ_NN "_PU ，_PU "_PU p_NN "_PU  + _NN "_PU q_NN "_PU  = _NN "_PU n_NN "_PU ）_PU 。_PU 因此_AD 可_VV 得到_VV "_PU ƒ_NN "_PU 为_VC （_PU 稳定_VA 的_DEC ）_PU 赫尔维茨_VV 多_CD 项式_NN 当_P 且_CC 仅_AD 当_P "_PU p_NN "_PU  − _NN "_PU q_NN "_PU  = _NN "_PU n_NN "_PU 。_PU 利用_VV 劳斯–赫_NN 尔维茨_NN 定理_VV ，_PU 可以_VV 将_BA "_PU p_NN "_PU 和_CC "_PU q_OD "_PU 的_DEG 条件_NN 改为_VV 以_P 广_VA 义施图_NN 姆链_NN 组成_VV 的_DEC 条件_NN ，_PU 也就是_AD 以_P "_PU ƒ_NN "_PU 的_DEG 系数_NN 组合_VV 而_MSP 成_VV 的_DEC 条件_NN 。_PU
+
+令_NN "_PU f_NN "_PU ("z")_PU 为_VC 一_CD 个_M 复_AD 多_CD 项_M 式_NN 。_PU 过程_NN 如下_VV ：_PU
+
+注意_VV 在_P 第一_OD 次_M 除_P 法_NN 中_LC ，_PU 必须_VV 假设_VV "_PU b_NR "_PU 不_AD 为_VC 零_CD 。_PU 在_P 此_DT 情形_NN 下_LC ，_PU 广义_JJ 施图_NN 姆链_VV 为_VC formulaformula_NN __NN 20_CD ，_PU formula_NN 的_DEG 符号_NN 与_P "_PU a_NN "_PU 相反_AD ，_PU 而_AD "_PU by_NN "_PU 的_DEG 符号_NN 与_P "_PU b_NR "_PU 相同_VA 。_PU 当_P 令_VV formula_NN 时_LC ，_PU 该_DT 链_NN 的_DEG 第一_OD 部_M 分符号_NN 也_AD 与_P "_PU a_NN "_PU 相反_VA ，_PU 而_CC "_PU by_NN "_PU 的_DEG 符号_NN 与_P "_PU b_NR "_PU 相反_VA 。_PU 最终_VA ，_PU -"c"_PU 的_DEG 符号_NN 总_NN 与_CC "_PU c_NN "_PU 相反_VA 。_PU
+
+现在_NT 假设_VV "_PU f_NN "_PU 是_VC 赫尔维茨_NN 稳定_VA 的_DEC 。_PU 这_DT 意味_NN 着_VV formula_NN 的_DEC 阶数_NN ）_PU 。_PU 由_P 函数_NN "_PU w_NN "_PU 的_DEG 性质_NN ，_PU 这_PN 与_P formula_NN 及_CC formula_NN 相同_VA 。_PU 因此_AD ，_PU "_PU a_NN "_PU ,_PU "_PU b_NN "_PU 和_CC "_PU c_OD "_PU 必须_VV 符号_NN 相同_VA 。_PU 因此_AD 找到_VV 了_AS 二阶_CD 多项式_JJ 稳定_VA 的_DEC 必要_JJ 条件_NN ._PU
+
+在_P 下面_NN ，_PU 假设_VV 最_AD 高阶_JJ 的_DEG 系数_NN （_PU 例如_AD 二阶多_NN 项式_NN 中_LC 的_DEG formulaformula_NN 得到_VV 。_PU
+
+满足_VV 上述_JJ 判据_NN 的_DEC 系统_NN 称为_VV 闭环_NN 稳定_NN 系统_NN ，_PU 否则_AD 会_VV 由于_P 第一_OD 列元_NN 素符号_AD 改变_VV 而_CC 不_AD 稳定_VA 。_PU
+
+当_P 难以_AD 求得_VV 高阶_NN 特征_NN 多_CD 项式_NN 的_DEC 根_NN 的_DEG 时候_NN ，_PU 可以_VV 用_P 表格_VV 的_DEC 方法_NN 来_MSP 确定_VV 稳定性_JJ 。_PU 对_P 一_CD 个_M "_PU n_NN "_PU 阶_NN 多_CD 项_M 式_NN
+该_DT 表格_NN 由_P "_PU n_NN "_PU  + _NN 1_CD 行_M ，_PU 结构_NN 如下_VV ：_PU
+
+其中_NN 元素_NN formula_NN 和_CC formula_NN 可以_VV 计算_VV 如下_VV ：_PU
+算完_NN 之后_LC ，_PU 第一_OD 列_NN 中_LC 的_DEG 符号_NN 数_NN 的_DEG 变化_NN 将_AD 是_VC 非_JJ 负极点_NN 的_DEG 数目_NN 。_PU
+
+在_P 第一_OD 列_NN 中_LC ，_PU 有_VE 2_CD 个_M 符号_NN 的_DEG 变化_NN （_PU 0_CD ._PU 75_CD  _M →_PU  −_NN 3_CD ，_PU 以及_CC −_DT 3_CD  _NN →_PU  _NN 3_CD ）_PU ，_PU 因此_AD ，_PU 有_VE 2_CD 个_M 非_AD 负_VV 的_DEC 根_NN ，_PU 系统_NN 是_VC 不_AD 稳定_VA 的_DEC 。_PU
+
+有_VE 时虚_NN 轴_NN 上_LC 的_DEG 极点_NN 会_VV 造成_VV 临界_NN 稳定_VA 的_DEC 情形_NN 。_PU 在_P 那_DT 种_M 情形_NN 中_LC ，_PU “_PU 劳斯_NN 表_NN ”_PU 的_DEC 系数_NN 一_CD 整行都_AD 会_VV 变为_VV 零_CD ，_PU 因而_AD 不_AD 能_VV 进一步_AD 求解_VV 出_VV 符号_NN 的_DEG 改变_VV 了_AS 。_PU 然后_AD 另_DT 一_CD 种_M 方法_NN 可以_VV 发挥_VV 作用_NN 。_PU 含有_VV 零_CD 的_DEG 这_DT 一_CD 行_NN 的_DEG 上面_NN 一行_AD 叫做_VV “_PU 辅助_VV 多_CD 项_M 式_NN ”_PU 。_PU
+
+可_VV 得以_VV 下_LC 的_DEG 表格_NN ：_PU
+
+在_P 这_DT 个_M 例子_NN 中_LC ，_PU 辅助_VV 多_CD 项_M 式_NN 为_VC formula_NN 仍_AD 为_VC 零_CD 。_PU 下_DT 一_CD 步_M 是_VC 对_P 上面_NN 的_DEC 方程_NN 求导_VV ，_PU 得到_VV 下面_NN 的_DEG 多_CD 项_M 式_NN 。_PU formula_NN "_PU 8_CD "_PU 和_CC "_PU 24_CD "_PU 。_PU 使用_VV 这些_DT 值_NN 继续_VV 建立_VV 劳斯表_NN ，_PU 就_AD 会_VV 得出_VV 虚_JJ 轴_NN 上_LC 的_DEG 两_CD 个_M 点_NN 。_PU 这_DT 两_CD 个_M 虚轴_NN 上_LC 的_DEC 点_NN 是_VC 边缘_NN 稳定_VA 性_NN 的_DEG 主要_JJ 原因_NN 。_PU
+
+
+
+
+

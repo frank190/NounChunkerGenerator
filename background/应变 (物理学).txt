@@ -1,0 +1,13 @@
+﻿应变_NN (_PU 物理学_NN )_PU
+
+应变_VV 在_P 力学_NN 中_LC 定义_VV 为_VC 一_CD 微小_JJ 材料_NN 元素_NN 承受_VV 应力_NN 时_LC 所_MSP 产生_VV 的_DEC 变形_NN 强度_NN (_PU 或_CC 简称_VV 为_VC 单位_NN 长度_NN 变形_JJ 量_NN )_NOI ，_PU 因此_AD 是_VC 一_CD 个_M 无量_AD 纲量_VV 。_PU 公式_NN 记_VV 为_VC
+
+其中_NN formula_NN 是_VC 应变_NN ，_PU formula_NN 是_VC 材料_NN 元素_NN 的_DEG 长度_NN ，_PU formula_NN 是_VC 承受_VV 应力_NN 的_DEC 变形量_NN 。_PU
+
+应变_VV 又_CC 可以_VV 分为_VV 正交_JJ 应变_NN 与_CC 剪应变_NN ，_PU 正_AD 交_VV 应变_VV 的_DEC 物理_NN 意义_NN 为_VC 长度_NN 的_DEG 变形_NN 强度_NN ，_PU 剪_VV 应变_VV 的_DEC 物理_NN 意义_NN 为_VC 角度_NN 变化量_NN 。_PU
+
+在_P 直杆_NN 模型_NN 中_LC ，_PU 定义_NN 受_VV 外力_NN 的_DEG 长度_NN 方向_NN 为_VC 纵向_NN ，_PU 不_AD 受力_VV 的_DEC 长度_NN 方向_NN 为_VC 横向_NN ，_PU 当_P 纵向_NN 直接_AD 受力_VV 而_MSP 变形_VV 时_LC ，_PU 横向_NN 也_AD 会_VV 间接_VV 受_VV 影响_NN 而_MSP 变形_VV 。_PU 因此_AD 定义_VV 受力_NN 的_DEG 长度_NN 方向_NN (_PU 纵向_NN )_PU 由_P 长度_NN 变形量_NN 除以_VV 原长_NN 而_MSP 得_VV “_PU 纵向_JJ 正交_NN 应变_VV ”_PU ，_PU 不_AD 受力_NN 的_DEG 横向_NN 以_P 截面_NN 边长_NN （_PU 或_CC 直径_NN ）_PU 的_DEG 变形量_NN 除以_VV 原_JJ 边长_NN （_PU 或_CC 直径_NN ）_PU 而得_VV 的_DEC “_PU 横向_JJ 正交_NN 应变_VV ”_PU 。_PU 横向_AD 正_AD 交_VV 应变_VV 与_P 纵向_NN 正_AD 交_VV 应变_VV 之_DEC 比_NN 的_DEG 绝对值_NN 称作_VV “_PU 泊松_NN 系数_NN ”_PU ，_PU 对_P 大多数_CD 材料_NN ，_PU 此_DT 比_NN 值_VV 约_AD 为_VC 三_CD 分_M 之一_CD 至_CC 四分之一_CD 。_PU
+
+和_P 应力_NN 一样_VA 都_AD 是_VC 由_P 柯西_NN 提出_VV 。_PU
+
+

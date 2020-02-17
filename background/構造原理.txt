@@ -1,0 +1,11 @@
+﻿构造_NN 原理_NN
+
+构筑理论_NN （_PU ，_PU 又称_JJ 递建_NN 原理_NN 或_CC 马德_NN 隆_VV 规则_NN ）_PU 决定_VV 了_AS 原子_NN 、_PU 分子_NN 和_CC 离子_NN 中_LC 电子_NN 在_P 各_AD 能_VV 级_AS 的_DEC 排布_NN 。_PU 而_MSP 构造_VV 原理_NN 认为_VV 全部_DT 电子_NN 是_VC 一_CD 个_M 一_CD 个_M 地_DEV 依次_AD 进入_VV 电场_NN （_PU 低_JJ 能量_NN 轨域_NN ）_PU ，_PU 待_VV 低_JJ 能量_NN 轨域_NN 填满_VV 后_LC ，_PU 才_AD 填入_VV 高_JJ 能量_NN 轨域_NN ，_PU 并_CC 假设_VV 对_P 电场_NN 而_MSP 言_VV 它们_PN 是_VC 处_NN 於_P 最_AD 稳定_VA 的_DEC 情况_NN 中_LC 。_PU 假若_JJ 违反_NN 构筑_VV 理论_VA ，_PU 将_BA 导致_VV 电子_NN 组态_NN 的_DEG 不_AD 稳定_VA 。_PU 它_PN 是_VC 在_P 1920_CD 年_M 前后_LC 由_P 尼尔斯_NR ·_PU 波耳_NR 正式_NN 提出_VV ，_PU 主要_AD 是_VC 以_P 量子_NN 力学_NN 描述_NN 。_PU
+
+洪德_NN 规则_VA 的_DEC 特例_NN ：_PU
+
+简而_AD 言之_VV ，_PU 若有_VV ._PU ..nd(n+1)s或者...nd(n+1)s_PU 的_DEG 时候_NN ，_PU 排布_NN 应为_VV nd(n_NN +_PU 1_CD )_PU s_NN 和_CC nd_NN (_PU n_CD +_PU 1_CD )_PU s_NN
+
+
+
+

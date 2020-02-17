@@ -1,0 +1,62 @@
+﻿时频_NN 分布_VV 的_DEC 变形_NN
+
+时_LC 频_VV 分布_VV 的_DEC 变形_NN (_PU Motionsonthetime_NN -_PU frequencydistribution_NN )_PU 是_VC 指_VV 信号_NN 经过_VV 时频_NN 分析_NN （_PU Time_NN -_PU frequencyanalysis_NN ）_PU 的_DEG 结果_NN ，_PU 在_P 时频_NN 平面_NN （_PU time_NN -_PU frequencyplane_NN ）_PU 上_NOI 图形_NN 的_DEC 各_DT 种_M 变形_NN 。_PU
+
+对时_NT 频分布_NN 做_VV 各_DT 种_M 变形_NN ，_PU 皆_AD 有_VE 其_PN 对应_JJ 的_DEG 物理_NN 意义_NN 。_PU 常见_JJ 的_DEG 时_NN 频分布_NN 的_DEG 变形_JJ 有下_JJ 列几种_NN ：_PU -_PU {_PU 水平_NN }_PU -_PU 平移_NN 、_PU 铅_NN 直_AD 平移_VA 、_PU 扩张_NN 、_PU 斜推_NN 、_PU 旋转_NN 。_PU
+时_LC 频_VV 分布_VV 的_DEC 变形_JJ 在_NN 分离_NN 信号_NN 、_PU 滤波器_NN 设计_NN 、_PU 取样_NN 定理_VV 、_PU 调变_VV 及_CC 多_CD 工_M …_PU 等_VV 领域_NN 上_LC 都_AD 有_VE 相当_VV 的_DEC 帮助_NN 。_PU
+
+简单_VA 来说_VA ，_PU -_PU {_NN 水平_NN }_PU -_PU 平移_VV 就_AD 是_VC 信号_NN 在_P 时间轴_NN 上_LC 的_DEG 平移_NN 。_PU 例如_AD 一_CD 个_M 在_P 0_CD 秒_M 至_CC 3_CD 秒_M 之间_LC 大小_AD 为_VC 1_CD ，_PU 其_PN 他_PN 为_VC 0_CD 的_DEG 方波_NN 信号_NN ，_PU 被_SB 平移_VV 成为_VV 10_CD 秒_M 至_CC 13_CD 秒_M 之间_LC 大小_AD 为_VC 1_CD ，_PU 其_PN 他_PN 为_VC 0_CD 的_DEG 方波_NN 。_PU 若_CS 一_CD 个_M 信号_NN x_NN 经过_VV -_PU {_PU 水平_NN }_PU -_PU 平移_VV t0_CD 时间_NN 单位_NN 后_LC 得到_VV 的_DEC 信号_NN 为_VC y_NN ，_PU 则_AD x_NN 与_CC y_NN 的_DEG 时频分_NN 布关_NN 系_NN 为_VC ：_PU <_PU br_NN >_PU
+铅直_AD 平移_VV 就_AD 是_VC 信号_NN 在_P 频率轴_NN 上_LC 的_DEG 平移_NN ，_PU 在_P 通讯_NN 上_LC 也_AD 被_SB 称为_VV 调变_NN 。_PU 将_BA 一_CD 个_M 基频_NN 的_DEC 讯号_NN 经过_P 调变_VV 之后_LC 变换_VV 到_VV 射频_NN 来_MSP 传送_VV ，_PU 可以_VV 更加_AD 有效_VA 的_DEV 利用_VV 频率_NN 资源_NN 。_PU 若_CS 一_CD 个_M 信号_NN x_NN 经过_P 铅_NN 直_MSP 平移_VV f0_NN 频率_NN 单位_NN 后_LC 得到_VV y_NN ，_PU 则_AD <_PU br_NN >_PU
+
+扩张_NN 变形_NN 对_NN 时_LC 频分布_NN 图形_NN 造成_VV 的_DEC 影响_NN 是_VC ：_PU 在_P 时间_NN 轴_NN 拉伸_VV a_CD 倍_M ，_PU 而_CC 在_P 频率_NN 轴_NN 压缩_VV a_NN 倍_M 。_PU 扩张_NN 变形_VV 的_DEC 重要_JJ 特性_NN 是_VC 时频_JJ 分布_NN 占有_VV 的_DEC 面积_NN 不变_VA 。_PU 若_CS 一_CD 个_M 信号_NN x_NN 经过_P a_CD 倍_M 的_DEG 扩张_NN 变形_VV ，_PU 得到_VV 的_DEC 结果_NN 为_VC y_NN ，_PU 则_AD
+沿着_P 时间轴_NN 方向_NN 做斜_VV 推_VV 变形_NN ，_PU 造成_VV 的_DEC 影响_NN 是_VC ：_PU 时间轴_NN 方向_NN 的_DEG 位移量_NN 与_CC 频率_NN 大小_AD 成_VV 正比_NN 。_PU 反之_AD ，_PU 沿着_P 频率轴_NN 方向_NN 做斜_VV 推_VV 变形_NN ，_PU 则_AD 会_VV 使频_VV 率轴_NN 方向_NN 的_DEG 位移量_NN 与_CC 时间_NN 大小_AD 成_VV 正比_NN 。_PU 沿_P 时间轴_NN 的_DEG 斜推_NN 变形_VV ，_PU 是_VC 信号_NN 与_P chirp_NN 函数_NN 做_VV 折积_NN 运算_VV 的_DEC 结果_NN ；_PU 沿_P 频率_NN 轴_NN 的_DEG 斜推_NN 变形_VV ，_PU 是_VC 信号_NN 与_P chirp_NN 函数_NN 相乘_VV 的_DEC 结果_NN 。_PU 若_CS 一_CD 个_M 信号_NN x_NN 沿着_P 时间_NN 轴做_NN a_NN 倍_NN 的_DEC 斜推_NN 变形_VV 后_LC 得到_VV 的_DEC 结果_NN 为_VC y_NN ，_PU 则_AD
+formula_NN
+
+formula_NN
+
+formula_NN
+
+formula_NN
+
+旋转_VV 变形_NN 顾_VV 名_NN 思_VV 义_NN 就_AD 是_VC 把_BA 图形_NN 对着_P 原点_NN 旋转_NN 。_PU 对_P 信号_NN 做_VV 傅_NN 立_VV 叶_NN 变换_VV 会_VV 将_BA 图形顺_NN 时_LC 针_DEG 方向_NN 旋转_VV 90_CD 度_M ；_PU 同样_VA 的_DEC ，_PU 做_VV 傅利_NN 业反_NN 变换_VV 会_VV 将_BA 图形逆_NN 时_LC 钟_NN 旋转_NN 90度_NN 。_PU 而_CC 分数傅_NN 立_VV 叶_NN 变换_VV 可_VV 将_BA 图形_NN 旋转_NN 任意_VA 的_DEC 角度_NN 。_PU 若_CS 一_CD 个_M 信号_NN x_NN 做_VV 傅_NN 立_VV 叶_NN 变换_VV 后_LC 得到_VV 的_DEC 结果_NN 为_VC y_NN ，_PU 则_AD
+formula_NN
+
+formula_NN
+<_PU br_NN >_PU
+
+第一_OD 种_M 定义_VV :_PU
+
+第二_OD 种_M 定义_NN :_PU
+
+formulaformula_NN 为_VC 实数_NN 。_PU
+
+当_P formula_NN 时_LC (_PU 亦_AD 即_AD formula_NN )_PU ，_PU 分数傅_NN 立_VV 叶_NN 变换_VV 就_AD 成_VV 了_AS 傅立_VV 叶_NN 变换_NN 。_PU
+
+当_P 一_CD 个_M 讯号_NN 的_DEC 时频_NN 分布_VV 呈现_VV 不规_JJ 则形状_NN 时_LC ，_PU 会_VV 有_VE 许多_CD 不_AD 必要_VA 的_DEC 频_VV 宽浪费_NN ,_PU 此时_NT 可以_VV 将_BA 频率_NN 与_P 时间_NN 的_DEC 关系_NN 近似_VA 於_P 多_CD 项_M 式_NN ,_PU 只_AD 要_VV 将_BA 原讯_NN 号乘_NN 上_LC 原_NOI 讯号_NN 的_DEG 共轭_NN 函数_NN ，_PU 就_AD 可以_VV 将_BA 时_LC 频_VV 分布_VV 拉直_VV ，_PU 如同_CS 直_AD 流_VV 讯号_NN 或是_CC 单_AD 频_VV 讯号_NN 的_DEC 时_LC 频_VV 分布_VV ，_PU 这样_AD 除了_P 可以_VV 降低_VV 传输_NN 时_LC 的_DEG 频宽_NN 之外_LC ，_PU 因为_P 在_P 时频_JJ 分布_NN 上_LC 的_DEG 面积_NN 缩小_VV 所以_AD 亦_AD 可_VV 降低_VV 总_JJ 取样_NN 点数_NN 。_PU
+
+formula_NN
+formula_NN
+
+formula_NN
+
+formula_NN
+
+formula_NN
+
+利用_VV 线性_JJ 正则_JJ 变换_NN 可以_VV 把_BA 时频_NN 分布_VV 做_VV 任意_JJ 的_DEG 线性_JJ 变形_NN
+
+定义_NN
+
+线性_NN 正_AD 则_AD 变换_VV 有_VE 四_CD 个_M 参数_NN (_PU a_NN ,_PU b_NN ,_PU c_NN ,_PU d_NN )_PU 和_CC 一_CD 个_M 限制_NN ，_PU 也就是_AD 有_VE 三_CD 个_M 自由_JJ 参数_NN ，_PU 第四_OD 个_M 参数_NN 则_AD 由_P 另外_DT 三_CD 个_M 所_MSP 决定_VV 。_PU
+
+矩阵_NN formula_NN
+
+在_P 这里_PN 用_P formula_NN __NN 22_CD 表示_VV formula_NN __NN 23_CD 做线性_JJ 正则_JJ 变换_NN 的_DEC 结果_NN ，_PU formula_NN
+
+传统_JJ 的_DEG 滤波器_NN 设计_NN ，_PU 是_VC 在_P 频域_NN 对_P 不同_JJ 频率_NN 给定_VV 不同_VA 的_DEC 频率_NN 响应_NN ，_PU 借此_AD 压抑_VV 或是_CC 强化_VV 某些_DT 频率_NN 的_DEC 能量_NN 。_PU 因为_P 一般而言_AD 被_SB 处理_VV 的_DEC 信号_NN 都_AD 是_VC 时变_VV 的_DEC ，_PU 在_P 加入_VV 时频_NN 分析_NN 工具_NN 以及_CC 变形_VV 之后_LC ，_PU 可以_VV 对_P 信号_NN 做_VV 更_AD 复杂_VA 的_DEC 处理_NN ，_PU 得到_VV 更_AD 好_VA 的_DEC 效果_NN ，_PU 例如_AD :_PU 分数傅_NN 立_VV 叶_NN 变换_VV ，_PU 可以_VV 将_BA 讯号_NN 时_LC 频_VV 分布_VV 旋转_VV 至_VV 适当_JJ 角度_NN 让_VV 讯号_NN 及_CC 干扰_VV 的_DEC cut_NN -_PU offline_NN 与_CC 水平轴_NN 垂直_VV ，_PU 此时_NT 讯号_NN 再_AD 与_P 干扰_NN 会_VV 在_P 时间_NN 轴_NN 上_LC 分离_VV 只要_CS 在_P 时间_NN 轴_NN 上_LC 乘上_VV 一_CD 个_M 适当_VA 的_DEC windowfunction_NN ，_PU 就_AD 可_VV 以_P 分离_VV 讯号_NN 及_CC 噪声_NN 。_PU
+
+时频_JJ 分布_NN 所_MSP 佔_VV 的_DEC 面积_NN ，_PU 相当_VV 於_P 一_CD 个_M 信号_NN 所_MSP 需要_VV 取样_VV 的_DEC 次数_NN 。_PU 同_DT 上_NN 原因_NN ，_PU 对_P 信号_NN 的_DEC 时_LC 频_VV 分布_VV 进行_VV 适当_VA 地_DEC 旋转_NN ,_PU 变形_NN 及_CC 切割_NN 之后_LC ，_PU 可以_VV 使_VV 取样_NN 点数_NN 降低_VV 或是_CC 让取_VV 样_NN 方法_NN 更_AD 简单_VA 。_PU
+
+在_P 通讯_NN 系统_NN 中_LC ，_PU 我们_PN 为了_P 有效_VA 的_DEV 利用_VV 传输_JJ 资源_NN ，_PU 会_VV 进行_VV 分时_NN 多_CD 工_NN 或是_CC 分频_NN 多_CD 工_NN ，_PU 把_BA 时间_NN 或_CC 频率_NN 切割_VV 成_VV 小_VA 的_DEC 区块_NN 再_AD 将_BA 讯号_NN 载_VV 在_P 其中_NN 。_PU 同样_VA 的_DEC ，_PU 若_CS 利用_VV 时_LC 频_VV 分布_VV 的_DEC 变形_NN ，_PU 我们_PN 有机_JJ 会把_NN 信号_NN 调整_VV 成_VV 更_AD 适合_VV 小_JJ 区块_NN 的_DEG 形状_NN 再_AD 放入_VV ，_PU 进而_AD 节省_VV 通讯_NN 资源_NN 。_PU
+
+

@@ -1,0 +1,13 @@
+﻿马赫_NN 反射_NN
+
+马赫_NN 反射_NN （_PU 英语_NN ：_PU Machreflection_NN ）_PU 是_VC 一_CD 个_M 超音_NN 速流体_NN 动力_NN 中_LC 的_DEG 现象_NN ，_PU 以_P 恩斯特_NN ·_PU 马赫_NN 为名_LC ，_PU 是_VC 一_CD 个_M 包含_VV 有_VE 三_CD 种_M 模式_NN 的_DEG 反射震_NN 波_NN
+
+马赫_NN 反射_NN 可以_VV 在_P 非_AD 稳态_VA 、_PU 拟稳态_NN (_PU pseudosteady_NN )_PU 及_CC 稳态_NN 流动_NN 中_LC 出现_VV ._PU 当_P 一_CD 个_M 激波_NN 沿着_P 一_CD 个_M 固态_NN 的_DEG 边缘_NN 传导_VV 时_LC ，_PU 激_AD 波_VV 撞击_VV 所_MSP 形成_VV 沿着_P 边缘_NN 的_DEC 流场_NN 会_VV 产生_VV 一_CD 个_M 二_CD 次_M 反射激_NN 波_NN ，_PU 使_VV 的_DEC 该_DT 流场_NN 会_VV 平行_VV 於_P 边缘_NN 。_PU 在_P 反射点_NN 上_LC 的_DEG 流场_NN 在_P 该_DT 区域_NN 是_VC 稳定_VA 的_DEC ，_PU 而_CC 这样_PN 的_DEG 现象_NN 便_AD 称为_VV 拟_VV 稳_JJ 态流_NN 。_PU 当_P 边缘_NN 和_CC 主要_AD 激波_VV 的_DEC 角度_NN 大_VA 到_VV 一定_JJ 程度_NN ，_PU 单一_JJ 的_DEG 反射激_NN 波_AD 不_AD 足以_VV 使_VV 的_DEC 流场_NN 转为_VV 平行_JJ 於_NN 边缘_NN ，_PU 进而_AD 发生_VV 马赫_NN 反射_VV 的_DEC 现象_NN
+
+在_P 稳态_NR 流场_NN 中_LC ，_PU 如果_CS 一_CD 个_M 斜边_NN 被_SB 放入_VV 一_CD 个_M 稳定_VA 的_DEC 超音_NN 速流场_NN ，_PU 而_CC 该_DT 斜边_NN 所_MSP 产生_VV 的_DEC 激波_NN 冲击_VV 到_VV 平行_JJ 於_JJ 流场_NN 的_DEC 壁面_NN 上_LC 时_LC ，_PU 激_AD 波_NOI 会_VV 使得_VV 流场_NN 转向_VV 壁面_NN ，_PU 而_CC 会_VV 须要_VV 反射激_NN 波_NOI 将_BA 流场_NN 转回_VV 平行_AD 於_P 墙面_NN 的_DEC 状态_NN 。_PU 当_P 入射_VV 波_CS 超过_VV 某_DT 个_M 角度_NN 时_LC ，_PU 反射激_NN 波_VV 产生_VV 的_DEC 抵销_NN 作用_NN 不_AD 足以_VV 将_BA 流场_NN 转回_VV 来_VV ，_PU 便_AD 会_VV 产生_VV 一_CD 个_M 可以_VV 观察_VV 到_VV 的_DEC 马赫_NN 反射_VV 现象_NN
+马赫_NN 反射_NN 存在_VV 有_VE 三_CD 个_M 种类_NN 的_DEG 激波_NN ，_PU 也就_AD 是_VC 事件_NN 激_AD 波_VA (_PU incidentshock_NN )_NN 、_PU 反射激_NN 波_NN (_PU reflectedshock_NN )_PU 、_PU 和_CC 马赫杆_NN (_PU Machstem_NN )_PU 及_CC 滑动面_NN 。_PU 这_DT 三_CD 股_M 冲击波_NN 交会_VV 的_DEC 地方_NN 就_AD 是_VC 二_CD 维_NN 上_LC 的_DEG 「_PU 三角点_NN 」_PU ，_PU 或是_CC 三_CD 围上_VV 的_DEC 双重_JJ 激波_NN
+
+唯一_NT 可以_VV 存在_VV 于_P 稳态_JJ 流场_NN 中_LC 的_DEG 马赫_NN 反射_NN 是_VC 直接_AD 马赫_VV 反射_NN 。_PU 其中_NN ，_PU 马赫杆_NN (_PU Machstem_NN )_PU 是_VC 凸离_NN 流场_NN 来_MSP 向_VV ，_PU 而且_CC 滑动面_NN (_PU slipplane_NN )_PU 是_VC 斜向_JJ 反射面_NN 。_PU 在_P 不_AD 稳_JJ 态流_NN 中_LC ，_PU 三角点_NN (_PU triplepoint_NN )_PU 可能_VV 会_VV 远离_JJ 表面_NN ，_PU 也_AD 有_VE 可能_VV 产生_VV 三角点_NN 对_P 表面_NN 保持_VV 相对_AD 平稳_VA 的_DEC 状态_NN (_PU 平稳_JJ 马赫_NN 反射_NN stationaryMachreflection_NN )_NN ，_PU 或是_CC 朝向_P 表面_NN 移动_VV (_PU 反_VV 马赫_NR 反射_NN inverseMachreflection_NN )_NN ._PU 在_P 反马赫_NN 反射_NN 中_LC ，_PU 马赫干_NN 是_VC 曲_NN 向_P 流场_NN 来_MSP 向_VV ，_PU 而_CC 滑动面_NN 则_AD 是_VC 斜离_P 反射面_NN ._PU
+
+
+

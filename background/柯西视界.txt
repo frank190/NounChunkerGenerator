@@ -1,0 +1,9 @@
+﻿柯西_NN 视界_NN
+
+在_P 物理学_NN 中_LC ，_PU 柯西_NN 视界_NN （_PU ）_PU 是_VC 柯西_NN 问题_NN （_PU 偏_AD 微分_NN 方程_NN 理论_VA 的_DEC 特定_JJ 边值_NN 问题_NN ）_PU 有_VE 效域_NN 的_DEC 轻似_JJ 边界_NN 。_PU 视界_NN 的_DEG 一_CD 侧_NN 包含_VV 封闭_VV 的_DEC 类似_JJ 空间_NN 的_DEC 测地线_NN ，_PU 另_DT 一_CD 侧_NN 包含_VV 封闭_VV 的_DEC 类似_NN 时间_NN 的_DEC 测地线_NN 。_PU 这_DT 个_M 概念_NN 以_P 奥古_NN 斯_AD 丁_VA ·_PU 路易_NN ·_PU 柯西_NN 命名_NN 。_PU
+
+在_P 平均_JJ 弱_JJ 能量_NN 条件_NN （_PU AWEC_NN ）_PU 下_LC ，_PU 柯西_NN 视_VV 界_NN 本质_NN 上_LC 是_VC 不_AD 稳定_VA 的_DEC 。_PU 然而_AD ，_PU 确实_AD 存在_VV AWEC_NN 违规_NN 的_DEC 情况_NN ，_PU 例如_AD 由_P 周期_NN 性_NN 边界_NN 条件_NN 引起_VV 的_DEC Casimir_NN 效应_NN ，_PU 并且_CC 由于_P 柯西_NN 视界_NN 内_LC 的_DEG 时空_NN 区域_NN 具有_VV 闭合_VV 的_DEC 时间_NN 曲线_NN ，_PU 因此_AD 它_PN 受到_VV 周期性_NN 边界_NN 条件_NN 的_DEG 影响_NN 。_PU 如果_CS 我们_PN 可以_VV 假设_VV 柯_NOI 西视界_NN 内_LC 的_DEG 时空_NN 违反_VV AWEC_NN ，_PU 则_AD 视界_NN 变得_VV 稳定_NN ，_PU 并且_CC 频率_NN 增强_VV 效应_NN 将_AD 被_SB 时空_VV 趋势_NN 作为_P 发散_VV 透镜_NN 抵消_VV 。_PU 如果_CS 这_DT 个_M 猜想_VV 在_P 经验_NN 上_LC 是_VC 真实_VA 的_DEC ，_PU 它_PN 将_AD 为_VC 强大_VA 的_DEC 宇宙审_NN 查猜_VV 想_VV 提供_VV 一_CD 个_M 反例_NN 。_PU
+
+最_AD 简单_VA 的_DEC 例子_NN 是_VC 赖斯纳_VV -_PU 努德_NN 斯_DT 特伦度_NN 规黑洞_NN 的_DEC 内部_NN 视界_NN 。_PU
+
+

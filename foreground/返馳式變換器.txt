@@ -1,0 +1,22 @@
+﻿返驰式_VV 变换器_NN
+
+返驰式_JJ 变换器_NN （_PU F_CD l_M ybackconverters_NN ）_PU 也_AD 称为_VV 反激式_JJ 转换器_NN 或_CC Flyback_NN 变换器_NN ，_PU 是_VC 一_CD 种_M 输入_NN 及_CC 输出_NN 电路_NN 之间_LC 有_VE 电气_NN 隔离_VV 的_DEC 变换器_NN ，_PU 可以_VV 用_VV 在_P 交流_NN -_PU 直流_JJ 转换_NN 及_CC 直流_NN -_PU 直流_JJ 转换_NN 。_PU 返驰式_JJ 变换器_NN 可以_VV 视为_VV 是_VC 有_VE 变压器_NN 的_DEG 降压_NN -_PU 升压_NN 变换器_NN ，_PU 原理_NN 类似_NN 降压_NN -_PU 升压_NN 变换器_NN ，_PU 而_CC 将_BA 其_PN 电感器_NN 转换_VV 为_VC 变压器_NN ，_PU 因此_AD 除了_P 电压_NN 转换_NN 外_LC ，_PU 还_AD 有_VE 变压器_NN 隔离_VV 的_DEC 效果_NN 。_PU 若是_AD 驱动_VV 等离子_NN 灯_NN 或_CC 是_VC 多_JJ 倍压器_NN ，_PU 会_VV 省略_VV 输出端_NN 整_AD 流用_VV 的_DEC 二极体_NN ，_PU 此时_NT 会_VV 称为_VV 返驰式_JJ 变压器_NN 。_PU
+
+返驰式_JJ 变换器_NN 的_DEG 电路图_NN 如_P 图_NN 1_CD 所_MSP 示_VV ，_PU 类似_JJ 降压_NN -_PU 升压_NN 变换器_NN 的_DEG 架构_NN ，_PU 将_BA 电感器_NN 分开_VV ，_PU 转换_VV 为_VC 变压器_NN ，_PU 因此_AD 动作_VV 原理_NN 和_CC 降压_NN -_PU 升压_NN 变换器_NN 很_AD 接近_VV ：_PU
+变换器_NN 在_P 能量_NN 提供_VV 到_VV 二_OD 次_M 侧前_NN ，_PU 其_PN 能量_NN 是_VC 储存_VV 到_VV 电感_NN 中_LC 。_PU 若_CS 要_VV 有_VE 第二_OD 组_M 输出_VV 的_DEC 电压_NN ，_PU 只要_CS 变压器_NN 有_VE 可_VV 产生_VV 输出_NN 电压_NN 的_DEG 对应_JJ 二_CD 次_M 侧绕组_NN ，_PU 再_AD 加上_VV 输出_VV 的_DEC 二极体_NN 及_CC 电容器_NN 即_AD 可_VV ，_PU 增加_VV 的_DEC 电路_NN 不_AD 多_VA 。_PU 若_CS 有_VE 多_CD 组_M 输出_NN 电压_NN ，_PU 返驰_VV 式_NN 变换器_NN 只_AD 会_VV 根据_P 一_CD 组_M 输出_NN 电压_NN 切换_VV 其_PN 功率_NN 晶体_NN （_PU 控制_NN 电压轨_NN ）_PU ，_PU 而_CC 控制_VV 电压_NN 轨_NN 的_DEG 加载_NN 需要_VV 早_AD 於_P 其他_DT 输出_NN 电压_NN 的_DEG 的_DEC 加_VV 载_NN ，_PU 这_PN 様_AD 才_AD 能_VV 让_VV PWM_NN 启动_VV ，_PU 储存_VV 足够_JJ 能量_NN 给_VV 变压器_NN 。_PU
+
+返驰式_JJ 变换器_NN 是_VC 隔离性_JJ 的_DEG 电压_NN 转换器_NN ，_PU 有_VE 二_CD 种_M 主要_JJ 的_DEG 运作_NN 方式_NN ，_PU 分別_NN 是_VC 电压_NN 模式_NN 控制_NN 及_CC 电流_NN 模式_NN 控制_NN （_PU 为了_P 运作_NN 中_LC 的_DEG 稳定性_NN ，_PU 主要_AD 会_VV 使用_VV 电流_NN 模式_NN 控制_NN ）_PU 。_PU 二_CD 种_M 模式_NN 都_AD 需要_VV 有关_VV 输出_NN 电压_NN 的_DEC 信号_NN 。_PU 有_VE 三_CD 种_M 方式_NN 可以_VV 得到_VV 输出_NN 电压_NN 的_DEC 信号_NN 。_PU 第一_OD 种_M 方式_NN 是_VC 在_P 二_CD 次_M 侧加_NN 装光_NN 耦合器_NN ，_PU 再_AD 将_BA 信号_NN 送回_VV 控制器_NN 。_PU 第二_OD 种_M 方式_NN 是_VC 在_P 变压器_NN 上_LC 加额_VV 外_JJ 的_DEG 侦测_NN 绕组_VV ，_PU 再_AD 配合_VV 互_CC 稳压_VV 的_DEC 方式_NN 进行_VV 设计_NN 。_PU 第三_OD 种_M 方式_NN 是_VC 在_P 放电_NN 时_LC ，_PU 取样量_NN 测_VV 一_CD 次侧_NN 的_DEG 电压_NN ，_PU 和_CC 标準_NN 的_DEC 一次_JJ 侧_NN 直流_JJ 电压_NN 比较_VV 。_PU
+
+第一_OD 种_M 方式_NN 利用_VV 一_CD 个_M 光_NN 耦合器_NN 来_MSP 达到_VV 紧密_VA 的_DEC 电压_NN 及_CC 电流_NN 调整_VV ，_PU 而_CC 第二_OD 种_M 方式_NN 适用于_VV 一_CD 些_M 主要_JJ 考量_NN 价格_NN 因素_AD ，_PU 电压_NN 不_AD 需_VV 很_AD 精準_VA 的_DEC 应用_NN ，_PU 最多_AD 可以_VV 在_P 线路_NN 设计_NN 中_LC 省去_VV 包括_VV 光_NN 耦合器_NN 在_P 内_JJ 的_DEG 11_CD 个_M 元件_NN 。_PU 而且_CC 若_CS 可_VV 靠_P 度_NN 是_VC 主要_AD 考量_VV ，_PU 光_BA 耦合器_NN 的_DEG MTBF_NN （_PU 平均_JJ 故障_NN 间隔_NN 时间_NN ）_PU 不_AD 佳_VA ，_PU 不_AD 使用_VV 光_NN 耦合器_NN 的_DEC 第二_OD 次_M 方式_NN 会_VV 比较_VV 理想_VA 。_PU 第三_OD 种_M 方式_NN 和_CC 第一_OD 种_M 方式_NN 一_CD 様準_NN 确_CC 性_NN ，_PU 而_CC 成本_NN 比_P 第二_OD 种_M 方式_NN 更_AD 低_VA ，_PU 但_AD 为了_P 让_VV 电路_NN 定期_AD 进行_VV 放电_NN ，_PU 需要_VV 有_VE 最_AD 小_JJ 负载_NN ，_PU 才_AD 能_VV 有_VE 机会_VV 在_P 一_CD 次_M 侧绕_NN 组取样_NN （_PU 1_CD :_PU N_CD ）_PU 的_DEG 二_OD 次_M 侧电压_NN （_PU 在_P 放电_NN 时_LC ，_PU 如_P 图_NN 3_CD ）_PU 。_PU
+
+量_NN 测_VV 一_CD 次侧_NN 的_DEC 方式_NN 还_AD 有_VE 一_CD 种_M 变体_NN ，_PU 是_VC 利用_VV 监视_NN 提供_VV 控制_VV 晶体_NN 电源_NN 的_DEC 辅助_JJ 绕组_NN 上_LC 的_DEG 信号_NN ，_PU 来_MSP 达到_VV 输出_NN 电压_NN 及_CC 电流_NN 的_DEC 调整_NN ，_PU 可以_VV 提昇_VV 电压_NN 电流_NN 控制_VV 的_DEC 精度_NN 。_PU 辅助_VV 一_CD 次_M 侧绕组_NN 也_AD 是_VC 在_P 二_CD 次_M 侧放_NN 电时_NN 进行_VV 量_NN 测_VV ，_PU 但_AD 会_VV 在_P 一_CD 次_M 侧_NN 的_DEG 直流_NN 电压_NN 上_LC 加_VV 一_CD 个_M 方波_NN 电压_NN ，_PU 因此_AD 视为_VV 一_CD 次侧_M 。_PU
+
+以往_NT 针对_P 整_DT 个_M 返驰式_JJ 变换器_NN 波形_NN 的_DEC 量测_NN 会_VV 产生_VV 问题_NN ，_PU 而后来_AD 发现_VV 在_P 膝点_NN （_PU 二_CD 次_M 侧电流_NN 为_VC 0_CD 的_DEC 点_NN ，_PU 如_P 图_NN 3_CD ）_PU 进行_VV 的_DEC 量_NN 测_CC 可_VV 以_P 较_AD 精_VA 準_NN 的_DEG 知道_NN 二_CD 次_M 侧_NN 的_DEG 情形_NN 。_PU 此_DT 架构_NN 已_AD 代替_VV 振_NN 铃_NN 扼流器_NN （_PU RCC_NN ）_PU 用_VV 在_P 手机_NN 充电器_NN 中_LC 。_PU
+
+返驰式_JJ 变换器_NN 若_CS 运作_VV 在_P 连续_JJ 导通_NN 模式_NN （_PU 变压器_NN 电流_NN 始终_AD 不_AD 为_VC 零_CD ）_PU 下_LC ，_PU 会_VV 有_VE 以下_JJ 缺点_NN ，_PU 使得_VV 变换器_NN 的_DEG 控制变_NN 的_DEC 复杂_NN ：_PU
+
+返驰式_JJ 变换器_NN 若_CS 运作_VV 在_P 不_AD 连续_JJ 导通_NN 模式_NN （_PU 变压器_NN 电流_NN 最后_AD 为_VC 零_CD ）_PU 下_LC ，_PU 会_VV 有_VE 以下_JJ 缺点_NN ，_PU 限制_VV 变换器_NN 的_DEG 效率_NN ：_PU
+
+
+
+

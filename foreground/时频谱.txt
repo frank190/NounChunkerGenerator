@@ -1,0 +1,14 @@
+﻿_NN 时_LC 频谱_NN
+
+时频谱_NN （_PU ）_PU 也_AD 称谱_VV 瀑布_NN （_PU spectralwaterfall_NN ）_PU 、_PU 声_NN 指纹_NN （_PU v_CC oiceprin_NR t_ETC ）_PU 、_PU 声图_NN （_PU v_CC oicegram_NR ）_PU 或_CC 声_NN 谱图_NN ，_PU 是_VC 一_CD 种_M 描述_JJ 波动_NN 的_DEC 各_DT 频率_NN 成分_NN 如何_AD 随_P 时间_NN 变化_VV 的_DEC 。_PU 利用_VV 傅里叶_NN 变换_VV 得到_VV 的_DEC 传统_NN 的_DEC 2_CD 维_NN 频谱_NN 可_VV 展示_VV 复杂_VA 的_DEC 波动_NN 是_VC 如_P 何按_NT 比例_NN 分解_VV 为_VC 简单_VA 波_M 的_DEG 叠加_NN （_PU 分解_VV 为_VC 频谱_NN ）_PU ，_PU 但是_CC 无法_AD 同时_AD 体现_VV 它们_PN 随_P 时间_NN 的_DEG 变化_NN 。_PU 能_VV 对_P 波动_VV 的_DEC 时间_NN 变量_NN 与_CC 频率_NN 分布_VV 同时_AD 进行_VV 分析_NN 的_DEC 常用_JJ 数学_NN 方法_NN 是_VC 短时_NT 距傅_NN 里_LC 叶_AD 变换_VV ，_PU 但是_CC 直接_AD 绘成_VV 3_CD 维_M 图像_NN 的_DEC 话又_NN 不_AD 便于_VV 在_P 纸面_NN 上_LC 观察_VV 和_CC 分析_VV 。_PU 时_LC 频谱_VV 在_P 借助_NN 时_LC 频_VV 分析_NN 方法_NN 的_DEC 基础_NN 上_LC ，_PU 以_P 热_NN 图_NN 的_DEG 形式_NN 将_BA 第3_OD 维_M 的_DEG 数值_NN 用_P 颜色_NN 的_DEC 深浅_NN 加以_VV 呈现_VV 。_PU
+
+时频_JJ 分析_NN 是_VC 频谱_VV 分析_VV 的_DEC 推广_NN ，_PU 比_P 频谱_VV 分析_NN 更加_AD 直观_VA 。_PU 在_P 分析_VV 一_CD 段_M 随_P 时间_NN 而_MSP 变化_VV 的_DEC 信号_NN 时_LC ，_PU 若_CS 单纯_CS 以_P 离散_NN （_PU 或_CC 离散_CS -_PU 时间_NN ）_PU 傅立_VV 叶_NN 转换_NN （_PU D_CD iscrete_M (_PU Time_NN )_PU F_CD ourierTransform_VV ）_PU ，_PU 我们_PN 能_VV 得到_VV 信号_NN 的_DEC 所有_DT 频率_NN 资讯_NN ，_PU 但是_AD 却_AD 缺乏_VV 时间_NN 的_DEC 资讯_NN 。_PU 以_P 语音_NN 信号_NN 为_VC 例_NN ，_PU 若_CS 以_P 离散傅_NN 立_VV 叶_NN 转换_VV 分析_NN （_PU DF_CD T/FFT_M ）_PU ，_PU 可以_VV 得知_VV 该_DT 段_M 声音_NN 中_LC 有_VE 哪些_DT 频率_NN 出现_VV ，_PU 却_AD 无法_AD 得知_VV 该_DT 频率_NN 出现_VV 的_DEC 时间点_NN 。_PU 但_CC 若_CS 以_P 时_LC 频_VV 分析_NN （_PU 利用_VV 短时_JJ 距傅_NN 立叶_VV 变换_VV ，_PU STFT_M ）_PU 来_MSP 分析_VV 语音_NN 信号_NN ，_PU 我们_PN 会_VV 在_P 每_DT 个_M 取样_NN 时间点_NN 上_LC 乘上_VV 一_CD 个_M 窗_NN 函数_NN ，_PU 再_AD 做_VV 离散_NN 傅_NN 立_P 叶_NN 转换_VV ，_PU 因此_AD 在_P 这_DT 段_M 短_JJ 时间_NN 中_LC ，_PU 我们_PN 就_AD 具有_VV 该_DT 信号_NN 的_DEG 频率_NN 成分_NN ，_PU 即_AD 可_VV 得知_VV 在_P 该_DT 段_M 时间_NN 中_LC ，_PU 语音_NN 信号_NN 的_DEG 频率_NN 为_VC 何_DT ，_PU 最后_AD 将_BA 整_DT 段_M 信号_NN 做_NN 时_LC 频_VV 分析_NN ，_PU 就_AD 可以_VV 得到_VV 该_DT 信号_NN 的_DEC 时频_NN 分布图_NN
+
+formula_NN
+
+时频_NN 谱_NN 即_AD 是_VC 描绘_NN 信号_NN 的_DEC 时间_NN 和_CC 频率_NN 分布_VV 的_DEC 热图_NN ，_PU 显示_VV 时频_NN 分析_VV 的_DEC 结果_NN
+
+formula_NN
+
+
+

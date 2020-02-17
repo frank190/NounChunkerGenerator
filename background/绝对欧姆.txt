@@ -1,0 +1,10 @@
+﻿绝对_VV 欧姆_NR
+
+绝对_AD 欧姆_NR （_PU ）_PU 是_VC 电磁_NN 单位制_NN （_PU emu_NN -_PU cgs_NN ）_PU 中_LC 电阻_NN 的_DEC 基本_JJ 单位_NN 。_PU 1_CD 绝_AD 对_P 欧姆_NN 等于_VV 国际_NN 单位制_NN 中_LC 10_CD 欧姆_NN ，_PU 为_VC 1_CD 纳欧_M 。_PU
+
+电磁_NN 单位制_NN 单位_NN 是_VC 厘米_NR -_PU 克_M -_PU 秒_NN 制_VV 的_DEC 一_CD 部分_NN ，_PU 除_P 此_PN 之外_LC 还_AD 有_VE 静电_NN 单位制_NN （_PU esu_NN -_PU cgs_NN ）_PU 、_PU 高斯_JJ 单位制_NN 以及_CC 洛伦兹_NR -_PU 赫维_NR 赛德_NN 单位制_NN （_PU Lorentz_NN -_PU Heavi_JJ sideunits_NN ）_PU ，_PU 而_CC 在_P 这些_DT 单位制_NN 中_LC ，_PU 绝对_AD 欧姆_NR 不_AD 是_VC 一_CD 个_M 单位_NN 。_PU
+
+当_P 绝对_JJ 安培_NN （_PU 1_CD abA_NN ）_PU 电流_NN 流过_NN 1_CD 绝对_AD 欧姆_NN 电阻_NN 时_LC ，_PU 则_AD 元件_NN 上_LC 的_DEG 电势_NN 差_NN 为_VC 1_CD 绝对_JJ 伏特_NN （_PU 1_CD abV_NN ）_PU 。_PU
+
+
+

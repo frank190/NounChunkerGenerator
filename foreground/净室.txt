@@ -1,0 +1,19 @@
+﻿净室_NN
+
+-_PU {zh_NN -_PU cn_NN :_PU 净室_NN ;_PU zh_NN -_PU tw_NN :_PU 无_VE 尘室_NN }_PU -_PU ，_PU 又_AD 称_VV -_PU {zh_NN -_PU cn_NN :_PU 无_VE 尘室_NN ;_PU zh_NN -_PU tw_NN :_PU 净室_NN }_PU -_PU 、_PU 洁净室_NN 或_CC 清净室_NN ，_PU 是_VC 指_VV 一_CD 个_M 具有_VV 低_JJ 污染_NN 水平_VA 的_DEC 环境_NN ，_PU 这里_PN 所_MSP 指_VV 的_DEC 污染_NN 来_MSP 源有_VV 灰尘_NN ，_PU 空气_NN 传播_VV 的_DEC 微生物_NN ，_PU 悬浮_VV 颗粒_NN ，_PU 和_CC 化学_NN 挥发性_NN 气体_NN 。_PU 更_AD 准确_VA 地_DEV 讲_VV ，_PU 一_CD 个_M 净室_NN 具有_VV 一_CD 个_M 受控_VV 的_DEC 污染_NN 级别_NN ，_PU 污染_VV 级别_AD 可_VV 用_P 每_DT 立方米_NN 的_DEC 颗粒_NN 数_NN ，_PU 或者_CC 用_VV 最大_JJ 颗粒_NN 大小_NN 来_MSP 厘定_VV 的_DEC 。_PU 低_JJ 级別_NN 的_DEC 净室_NN 通常_AD 是_VC 没有_VV 经过_VV 消毒_NN 的_DEC （_PU 如_P 没有_VE 受控_VV 的_DEC 微生物_NN ）_PU ，_PU 更_AD 在_P 意_NN 的_DEC 是_VC 无_VE 尘室_NN 中_LC 的_DEG 灰尘_NN 。_PU
+
+净室_NN 的_DEC 定义_NN 为_VC ：_PU 将_BA 空间_NN 范围_NN 内_LC 之_DEG 空气_NN 中_LC 的_DEG 微尘_JJ 粒子_NN 等_ETC 污染物_NN 排除_VV ，_PU 而_MSP 得到_VV 一_CD 个_M 相当_JJ 洁净_NN 的_DEC 环境_NN 。_PU 亦_AD 即_AD ：_PU 这_DT 个_M 环境_NN 中_LC 的_DEG 微尘_JJ 粒子_NN 相当_AD 少_VA ，_PU 称之_AD 为_VC 无_VE 尘室_NN 。_PU 净室_NN 被_SB 广泛_VA 地_DEV 应用_VV 在_P 对_P 环境_NN 污染_VV 特_AD 別_JJ 敏感_NN 的_DEC 行业_NN ，_PU 例如_AD 半导体_NN 生产_NN 、_PU 生化_NN 技术_NN 、_PU 生物_NN 技术_NN 、_PU 精密_JJ 机械_NN 、_PU 制药_NN 、_PU 和_CC 医院_NN 内_LC 的_DEG 手术室_NN 等_ETC 行业_NN 等_ETC ，_PU 其中_NN 以_P 半导体_NN 业_VV 其_PN 对_P 室内_NN 之_DEC 温湿度_NN 、_PU 洁净度_NN 要求_NN 尤其_AD 严格_VA 、_PU 故_AD 其_PN 必需_NN 控制_VV 在_P 某_DT 一_CD 个_M 需求_NN 范围_NN 内_LC ，_PU 才_AD 不_AD 会_VV 对_P 制程_NN 产生_VV 影响_NN 。_PU 作为_P 生产_NN 设施_NN ，_PU 净室_NN 可以_VV 占据_VV 厂房_NN 很_AD 多_VA 位置_NN 。_PU
+
+净室_NN 系统_NN ，_PU 制造_VV 符合_VV 规格_NN 之_DEC 洁净_NN 空气_NN ，_PU 连续_VV 且_CC 稳定_VV 供给_VV 足够_VA 之_DEC 洁净_NN 空气_NN 於_P 使用_NN 端_NN ，_PU 无_VE 尘室_NN 内_LC 的_DEG 制造区_NN （_PU F_CD AB_M ）_PU 。_PU 一般_JJ 而言_NN ，_PU 制造_VV 洁净_NN 空气_NN 之_DEC 气源_NN 为_VC 外气_NN （_PU OUTSIDEAIR_NN ）_PU ，_PU 经过_P 净室_NN 系统_NN 各_DT 种_M 处理_NN 单元_NN 设备_NN 之_DEG 处理_NN 后_LC 进而_AD 得到_VV 符合_VV 规格_NN 之_DEC 洁净_JJ 空气_NN 。_PU 以下_NN 简单_AD 介绍_VV 其_PN 处理_NN 流程_NN ：_PU 外气_NN 经由_P 外气空_NN 调箱_NN （_PU Make_NN -_PU upAirUnit_NN 或_CC MAU_NN ）_PU 初步_JJ 过滤微尘_NN （_PU particle_NN ）_PU 并_CC 控制_VV 其_PN 温溼度_NN 后_LC ，_PU 经由_P 回风_NN 管道_NN 间_LC （_PU Mech_NN ._PU Chase_NN ）_PU ，_PU 将_BA 净室_NN 之_DEG 循环_NN 风量_NN 与_CC 外气空_NN 调箱_VV 之_DEC 补充风量_NN 混合_VV ，_PU 经由_P 冷却盘管_NN （_PU DryCoolin_VV gCoil_NR ）_PU 将_BA 回风_NN 管道_NN 间_LC 之_DEG 回风_NN 降温_VV 至_VV 净室_NN 要求_NN 之_DEC 规格_NN ，_PU 透过_VV 循环_NN 风扇_NN （_PU F_CD anFilterUnit_M 或_CC F_CD FU_M ）_PU 带动_VV 净室_NN 的_DEC 气流_NN 循环_NN 带走_VV 微尘_NN 及_CC 热量_NN ，_PU 最后_AD 经过_P 超高_JJ 性能_NN 过滤网_VV （_PU Ultra_NN -_PU lowpenetrationair_NN 或_CC ULPAFilter_NN ）_PU 过滤_VV 后_LC ，_PU 供应_VV 至_VV F_CD ab_M 区_NN 。_PU
+
+
+列表_AD 描述_VV 了_AS 在_P 各_DT 级_M 別净_NN 室_NN 所_MSP 需_VV 达到_VV 的_DEC 每_DT 立_M 方英呎_NN （_PU 美国_NR 标準_NN ）_PU 或_CC 每_DT 立方米_M （_PU ISO_NN 标準_NN ）_PU 最高_AD 可_VV 容许_VV 粒子_NN 数目_NN ：_PU
+
+备注_NN :_PU 此_DT 标準_NN 已_AD 於_P 2001年_NT 11月_NT 29日_NT 取消_VV
+参考_VV :_PU https_NN :_PU //_PU web_NN ._PU archive_NN ._PU org_NN /_PU web_NN /_PU 20060208191024_CD /_PU http_NN :_PU //www.iest.org/publctns/fedstd209_PU ._PU htm_NN
+
+净室_NN 也_AD 是_VC 应用_VV 在_P 软件_NN 工程_NN 中_LC 的_DEG 一_CD 个_M 术语_NN 。_PU
+
+
+
+

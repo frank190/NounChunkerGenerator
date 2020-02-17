@@ -1,0 +1,41 @@
+﻿_CS 计算物_NN 理学_NN
+
+计算物_NN 理学_NN （_PU ）_PU 是_VC 研究_VV 如何_AD 使用_VV 数值_NN 方法_NN 分析_NN 可以_VV 量化_VV 的_DEC 物理学_NN 问题_NN 的_DEC 学科_NN 。_PU
+历_DT 史_NN 上_LC ，_PU 计算物_NN 理学_NN 是_VC 计算机_NN 的_DEG 第一_OD 项_M 应用_NN ；_PU 目前_NT 计算物_NN 理学_NN 被_SB 视为_VV 计算_NN 科学_VA 的_DEC 分支_NN 。_PU
+
+计算物_NN 理有_VV 时_LC 也_AD 被_SB 视为_VV 理论_NN 物理_NN 的_DEC 分支_NN 学科_VV 或_CC 子_NN 问题_NN ，_PU 但_CC 也_AD 有_VE 人_NN 认为_VV 计算物_NN 理_NN 与_P 理论_NN 物理_NN 与_P 实验物_NN 理联_NN 系_NN 紧密_VA ，_PU 又_CC 相对_AD 独立_VA ，_PU 是_VC 物理学_NN 第三_OD 大_JJ 分支_NN 。_PU
+在_P 物理学_NN 中_LC ，_PU 要求_NN 基于_VV 各_DT 种_M 数学_NN 模型_NN 的_DEG 理论_NN ，_PU 都_AD 能够_VV 对_P 这些_DT 理论_NN 所_MSP 描述_VV 的_DEC 系统_NN 的_DEG 行为_JJ 给出_NN 精确_VA 的_DEC 描述_NN 。_PU 不_AD 幸_VV 的_DEC 是_VC ，_PU 很多_CD 问题_NN 无法_AD 得到_VV 精确_VA 解_CC （_PU 即_AD 解_VV 析解_VV ）_PU ，_PU 或_CC 求精_VV 确解_VV 的_DEC 过程_NN 过于_VV 复杂_VA 。_PU （_PU 比如_AD ，_PU 经_P 典力学_NN 中_LC 的_DEG 多体_JJ 问题_NN 。_PU 量子_NN 力学_NN 中_LC ，_PU 除_P 少数_CD 极端_NN 近似_VA 的_DEC 大多数_CD 问题_NN 。_PU ）_PU 此时_NT ，_PU 将_AD 会_VV 使用_VV 数值_NN 近似_VA 的_DEC 方法_NN 来_MSP 求解_VV 这_DT 类_M 问题_NN 。_PU 计算物_NN 理学_NN 就_AD 是_VC 这样_JJ 一_CD 门_M 数值_NN 近似_VA 的_DEC 学科_NN ，_PU 它_PN 使用_VV 计算_VV 有限_VA 的_DEC 计算_NN 步数_NN （_PU 往往_P 计算量_NN 很_AD 大_VA ）_PU 与_CC 简单_VA 的_DEC 数学_NN 方法_NN （_PU 算法_NN ）_PU ，_PU 利用_VV 计算机_NN 操作_NN 、_PU 演算_NN ，_PU 得到_VV 相应_JJ 的_DEG 近似_JJ 解_NN 与_CC 相应_JJ 的_DEG 逼近_JJ 误差_NN 。_PU
+
+计算物_NN 理学_VV 在_P 物理学_NN 中_LC 的_DEG 地位_NN 目前_NT 存在_VV 着_AS 争议_NN 。_PU 有_VE 时候_NN 它_PN 被_SB 视作_VV 理论_NN 物理_NN 的_DEC 重要_JJ 工具_NN ，_PU 有时_AD 也_AD 被_SB 看做_VV 一_CD 种_M “_PU 计算机_NN 实验_NN ”_PU ，_PU 同时_AD 也_AD 有_VE 人_NN 将_BA 其_PN 看作_VV 介于_VV 理论_NN 物理_NN 与_P 实验_NN 物理_NN 之间_LC 的_DEG 第三_OD 条_M 物理_NN 学分_CD 支_M 。_PU 考虑_VV 到_VV 计算机_NN 也_AD 同时_AD 被_SB 应用_VV 于_P 记录_VV 实验_NN 数据_NN 并_CC 进行_VV 相应_JJ 分析_NN ，_PU 它_PN 也_AD 可能_VV 不_AD 适于_VV 被_SB 单纯_VA 地_DEV 归类_VV 为_VC 计算_NN 科学_VA 。_PU
+
+即使_CS 使用_VV 了_AS 计算_NN 物理_NN 方法_NN ，_PU 物理_NN 问题_NN 也_AD 时常_AD 难以_AD 求解_VV 。_PU 这_PN 通常_AD 由_P 如下_JJ 几个_NN （_PU 数学_NN ）_PU 原因_AD 造成_VV ：_PU 缺少_VV 相应_JJ 算法_NN 、_PU 无法_AD 对_P 数值解_NN 进行_VV 相应_JJ 分析_NN 、_PU 复_AD 杂度_NN 过_AD 高_VA 和_CC 混沌_NN 现象_NN 。_PU 比如_VV ，_PU 斯_DT 塔克_NN 效应_NN 现象_NN 中电_NN 子波_NN 函数_NN 的_DEG 求解_NN （_PU 量子_NN 力学_NN 中_LC ，_PU 当_P 原子_NN 处_NN 在_P 强_NN 电场_NN 时_LC ，_PU 电子_NN 行为_AD 会_VV 发生_VV 相应_JJ 变化_NN ）_PU ，_PU 将_BA 需要_VV 一_CD 套_M 很_AD 复杂_VA 的_DEC 算法_NN 才_AD 能_VV 求解_VV （_PU 目前_NT 只_AD 能_VV 求解_VV 其中_NN 的_DEG 一_CD 部分_NN 情况_NN ）_PU ；_PU 有些_DT 问题_NN ，_PU 则_AD 必须_VV 使用_VV 暴力_NN 计算_VV 或者_CC 时间_NN 空间_AD 复杂_VV 度_DER 很_AD 高_VA 的_DEC 算法_NN ，_PU 比如_VV 一些_CD 复杂_JJ 方程_NN 的_DEG 求解_NN 和_CC 图形化_NN 方法_NN 。_PU 有时_AD 也_AD 会_VV 需要_VV 使用_VV 数学_NN 中_LC 的_DEG 摄动理论_NN （_PU 如_P 量子_NN 力学_NN 中_LC 的_DEG 微扰理论_NN ）_PU 进行_VV 近似_JJ 求解_NN ，_PU 比如_AD 上面_NN 提到_VV 的_DEC 斯_DT 塔克_NN 效应_NN 。_PU
+
+此外_AD ，_PU 量子_NN 力学_NN 中_LC 很_AD 多_VA 问题_NN 的_DEC 解是_NN 指数_NN 形式_NN 的_SP ，_PU 其数_NN 值解_VV 也_AD 会_VV 相应_VV 地_DEV 发生_VV 指数_NN 爆炸_NN ；_PU 此外_AD ，_PU 宏观_NN 系统_NN 往往_AD 具有_VV 10_CD 数量级_NN 的_DEG 分子_NN 个数_NN ，_PU 也_AD 提高_VV 了_AS 模拟_JJ 计算_NN 的_DEG 难度_NN 。_PU
+
+最后_AD ，_PU 很多_CD 物理_NN 系统_NN 本质上_AD 是_VC 非线性_JJ 的_DEG ，_PU 甚至是_AD 混沌_VV 的_DEC 。_PU 这_PN 也_AD 使得_VV 我们_PN 难以_AD 确定_VV 计算机_NN 得到_VV 的_DEC “_PU 解_NN ”_PU 是否_AD 是_VC 由_P 数值_NN 近似_AD 带来_VV 的_DEC 逼近_JJ 误差_NN 本身_PN 造成_VV 的_DEC 。_PU
+
+由于_P 计算物_NN 理学_NN 可以_VV 研究_VV 的_DEC 问题_NN 十分_AD 广泛_VA ，_PU 人们_NN 通常_AD 按照_P 其_PN 解决_VV 的_DEC 数学_NN 问题_NN 或_CC 使用_VV 的_DEC 数学_NN 方法_NN 来_MSP 分类_VV ，_PU 一般_AD 可_VV 归类_AD 如下_VV ：_PU
+
+这些_DT 方法_NN 被_SB 用来_VV 研究_VV 所_MSP 建_VV 模_NN 系统_NN 的_DEG 物理_NN 特性_NN 。_PU
+
+计算物_NN 理学_NN 也_AD 时常_AD 受到_VV 计算_VV 化学_NN 的_DEG 影响_NN ，_PU 比如_AD 固体_NN 物理_NN 学家_AD 利用_VV 密度泛_NN 函理论_NN 研究_VV 固体_NN 的_DEC 物理_NN 特性_NN 的_DEC 方式_NN ，_PU 与_P 化学家_NN 研究_NN 分子_NN 行为_VV 的_DEC 方式_NN 基本_AD 一致_VA 。_PU
+
+此外_AD ，_PU 计算物_NN 理学_NN 研究_NN 也_AD 需要_VV 相应_VV 的_DEC 软件_NN 与_CC 硬件_NN 来_MSP 支撑_VV ，_PU 有时_AD 会_VV 需要_VV 超级_JJ 计算机_NN 和_CC 高_JJ 性能_NN 运算_VV 的_DEC 相关_JJ 技术_NN 支持_NN 。_PU 比如_AD 热核_NN 聚变_VV 的_DEC 研究_NN 中_LC 就_AD 使用_VV 了_AS 超级_NN 计算机_NN 来_MSP 模拟_VV 等离子体_NN 行为_VV 。_PU
+
+几乎_AD 所有_DT 物理学_NN 的_DEG 主要_JJ 分支_NN 都_AD 能_VV 在_P 计算物_NN 理学_NN 的_DEG 应用_NN 中_LC 找到_VV 一_CD 席_NN 之地_LC ，_PU 比如_AD 计算_VV 力学_NN 、_PU 、_PU 计算_VV 等离子体_NN 等_ETC 。_PU 计算_VV 力学_NN 又_AD 由_P 计算_VV 流体_NN 力学_NN （_PU CFD_NN ）_PU 、_PU 计算_JJ 固体_NN 力学_NN 、_PU 计算_NN 接触_VV 力学_NN 组成_VV 。_PU 而_MSP 计算_VV 流体_NN 力学_NN 与_P 计算_NN 电动_NN 力学_NN 又_AD 共同_AD 促成_VV 了_AS 。_PU 量子_NN 力学_NN N体_NN 问题_NN 中_LC ，_PU 当_P N_NN 趋近_VV 于_P 无穷_AD 大_VA 时_LC 就_AD 变成_VV 了_AS 计算_VV 化学_NN 问题_NN 。_PU
+
+作为_P 计算_NN 物理_NN 重要_JJ 分支_NN 的_DEG 计算_JJ 固体_NN 物理_NN ，_PU 又_AD 直接_AD 应用于_VV 材料_NN 科学_NN 。_PU
+
+一_CD 个_M 与_P 计算凝_NN 聚态_NN 物质_NN 特性_NN 相关_VV 的_DEC 分支_NN 叫做_VV 计算统_NN 计力学_NN ，_PU 用于_VV 解决_VV 其他_DT 方法_NN 难以_AD 解决_VV 的_DEC 一些_CD 问题_NN （_PU 比如_AD 渗透_VV 过滤_VV 、_PU 磁旋_NN 等_ETC ）_PU 。_PU
+
+，_PU 乃_AD 是_VC 对于_P 天体_NN 物理_NN 学_VV 问题_NN 所_MSP 进行_VV 的_DEC 技术_NN 与_CC 方法_NN 。_PU
+
+主要_AD 用于_VV 解决_VV 计算物_NN 理学_NN 的_DEC 问题_NN ，_PU 应用_VV 在_P 物理_NN 学_VV 不同_JJ 领域_NN 皆_LC ，_PU 现代物_NN 理学_NN 研究_NN 的_DEG 重要_JJ 组成_NN 部分_NN 。_PU 如_P ：_PU 、_PU 天体_NN 物理学_NN 、_PU 流体_NN 力学_NN （_PU 含_VV ：_PU 计算_VV 流体_NN 力学_NN ）_PU 、_PU 晶体_NN 场理论_NN /_PU （_PU 尤其_AD 是_VC ）_PU 、_PU 等离子体_NN （_PU 见_NN ：_PU ）_PU 、_PU 模拟_JJ 物理_NN 系统_NN （_PU 应用_VV 在_P 分子_NN 动力学_NN ）_PU 、_PU 蛋白质_NN 结构_NN 预测_NN 、_PU 固体_NN 物理学_NN 、_PU 软_JJ 物质_NN 等_ETC 诸多_AD 物理学_NN 之_DEG 领域_NN 。_PU
+
+，_PU 例如_AD 用_VV 密度_NN 泛函_NN 理论_NN 计算_VV 固体_NN 的_DEG 特性_NN ，_PU 是_VC 一_CD 种_M 类借_NN 助於_VV 计算_VV 化学_NN 理念_NN 研究_NN 来_MSP 研究_VV 固体_NN 分子_NN 的_DEC 物理_NN 特性_NN 的_DEC 策略_NN ，_PU 以及_CC 参与_VV 其他_DT 大量_CD 的_DEG 固体_NN 物理_NN 学_VV 计算_NN 。_PU 又_AD 如_P 电子_NN 能带_NN 结构_NN 和_CC 磁性能_NN ，_PU 电荷_NN 密度_NN 可以_VV 通过_P 这_DT 几_CD 种_M 方法_NN 计算_VV ，_PU 包括_VV /_PU K_NN ·_PU p_NN 微扰理论_NN 和_CC 从头_NN 计演_VV 算法_NN 。_PU
+
+计算物_NN 理常_AD 用_VV 软件_NN 主要_AD 为_VC Matlab_NN ,_PU 和_CC Mathematica_NN 和_CC Maple_NN 等_ETC 数值_NN 计算_VV 软件_NN ，_PU 这些_DT 软件_NN 提供_VV 了_AS 大量_CD 求解_VV 常见_JJ 计算_NN 物理_NN 问题_NN 的_DEC 工具_NN ，_PU 供_VV 使用者_NN 直接_AD 应用_VV 。_PU 常见_VA 的_DEC 高级_NN 语言_NN 也_AD 可以_VV 实现_VV 相同_VA 的_DEC 计算_NN 功能_NN ，_PU 有时_AD 甚至_AD 能够_VV 更高_AD 速_AD 完成_VV 任务_NN ，_PU 但_CC 这_PN 也_AD 需要_VV 相应_VV 的_DEC 编程_NN 技巧_NN 与_CC 计算物_NN 理_NN 知识_NN 作_VV 支撑_NN 。_PU
+
+
+
+

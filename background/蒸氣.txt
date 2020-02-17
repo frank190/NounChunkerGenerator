@@ -1,0 +1,6 @@
+﻿蒸气_NN
+
+蒸气_NN 是_VC 指_VV 处于_VV 液态_NN 或_CC 固态_NN 的_DEC 物质_NN 的_DEC 周围_NN 所_MSP 包含_VV 的_DEC 相同_JJ 物质_NN 的_DEC 气态_NN 组分_NN 。_PU 与_P 纯_VA 的_DEC 气态_NN 物质_NN 不同_VA 的_DEC 是_VC ，_PU 蒸气_NN 必然_AD 伴随_VV 着_AS 相同_JJ 物质_NN 的_DEC 另_DT 一_CD 状态_NN （_PU 固态_JJ 或_CC 液态_NN ）_PU ；_PU 如果_CS 固态_NN 或_CC 液态_NN 的_DEC 物质_NN 完全_AD 转化_VV 为_VC 蒸气_NN ，_PU 则_AD 此时_NT 的_DEG 蒸气_NN 就_AD 不_AD 再_AD 称为_VV 蒸气_NN 而_AD 是_VC 定义_VV 为_VC 纯_VA 的_DEC 气态_NN 物质_NN 。_PU 蒸气_NN 来源_AD 与_P 沸点_NN 以下_LC 的_DEG 液态_NN 物质_NN 的_DEG 蒸发_NN 或者_CC 固态_NN 物质_NN 的_DEC 昇_NN 华_NN 。_PU 由于_P 有_VE 蒸气_NN 的_DEC 存在_VV ，_PU 很_AD 多_VA 物质_NN 都_AD 存在_VV 蒸气压_NN 。_PU
+
+
+

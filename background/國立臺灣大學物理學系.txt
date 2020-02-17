@@ -1,0 +1,36 @@
+﻿国_NR 立台湾_NN 大学物_NN 理学_NN 系_NN
+
+国立_JJ 台湾_NN 大学物_NN 理学_NN 系_NN （_PU ）_PU ，_PU 略称_JJ 台湾_NN 大学_NN 物理_NN 系_NN 、_PU 台大_NR 物理_NN 系_NN ，_PU 创办_VV 於_P 1946年_NT 8月_NT ，_PU 首任_NN 系_NN 主任_NN 为_VC 物理_NN 学_VV 家戴_NN 运轨_NN 。_PU 台大_NR 物理_NN 系_NN 是_VC 为_LB 国立_NN 台湾_NR 大学_NN 改制_VV 之后_AD 首创_VV 的_DEC 第一_OD 个_M 系_NN 所_MSP 。_PU 前身_NN 是_VC 日治_NR 时期_NN 台北_NR 帝国_NR 大学_NN 的_DEG 理学_NN 部化学_NN 科所_NN 设置_VV 的_DEC 物理_NN 学讲座_NN ，_PU 当时_NT 有_VE 两三_CD 间办_NN 公室_NN 和_CC 实验室_NN 。_PU
+
+台北_NN 帝国_NN 大学物_NN 理学_NN 讲座_NN 於_P 1928_CD 年_M 12月_CD 设立_VV ，_PU 首任讲_AD 座教授_NN 为_VC 自_P 京都_NR 帝国_NR 大学_NN 毕业_NN 的_DEC 荒胜文_NN 策_NN 。_PU 1934年_NT 7月_NT 25日_NT ，_PU 荒胜_NN 文策_NN 领导_VV 建造_VV 直线_JJ 粒子_NN 加速器_NN ，_PU 成功_VV 在_P 台湾_NN 做出_VV 亚洲_NN 第一_OD 次_M ，_PU 世界_NN 第二_OD 次_M 人工_NN 撞击_VV 原子核_NN 实验_NN 。_PU 该_DT 加速器_NN 目前_NT 被_SB 国立_VV 台湾_JJ 大_JJ 学校_NN 方展_NN 示_VV 於_P 台大物_NN 理文_NN 物厅_NN 。_PU 第二_OD 任_M 讲座_NN 教授_VV 则_AD 是_VC 河田_NN 末吉_NN ，_PU 主要_AD 在_P 台湾_NN 的_DEC 玉山_NN 与_CC 阿里山_NN 等_ETC 高山_JJ 地区_NN 的_DEC 高山_NN 营林_NN 所_MSP 利用_VV 探_VV 空气球_NN 收集_VV 中子_NN 数据_NN ，_PU 进行_VV 宇宙_NN 射线_NN 研究_NN 。_PU 河田_NN 末吉_NN 团队_NN 也_AD 曾_AD 利用_VV X_NN 光_AD 以_P 单晶_NN 绕射法_NN 分析北_NN 投石_NN 结晶_NN 。_PU
+
+1946_CD 年戴_NN 运轨_NN 教授_VV 接收物_NN 理学_NN 讲座_NN ，_PU 与_P 工业_NN 物理_NN 、_PU 气象_NN 、_PU 力学_NN 讲座_NN 集成_VV ，_PU 成立_VV 台大_NR 物理_NN 系_NN 。_PU 当时_NT 系馆_NN 位于_VV 椰林_NN 大道_NN 上_LC 的_DEG 二号馆_NN 。_PU
+
+1947_CD 年_M 在_P 留任_VV 的_DEC 荒胜_NN 团队_NN 成员_NN ，_PU 帝大_NR 助理_NN 教授_NN 太_AD 田_AD 赖常_VV 的_DEC 领导_NN 下_LC ，_PU 以及_CC 刚_AD 从_P 台大_NR 电机_NN 系_NN 毕业_NN 的_DEC 许云基_NN ，_PU 协同_AD 河田末吉_VV 、_PU 许玉钏_NN 、_PU 周木村_NN 、_PU 林松云_NN 等_ETC 人一_NN 同重_AD 建起_VV 原子核_NN 实验室_NN ，_PU 为_P 中华民_NN 国第_VV 一_CD 个_M 原子_NN 能_VV 核子_NN 物理_NN 研究室_NN ，_PU 并_CC 於_P 1948年_NT 5月_NT 13日_NT 下午8时_NT 35分_NT 完成_VV 了_AS 中华民_NN 国暨战_NN 后_LC 全_P 亚洲_NN 首次_AD 人工_NN 撞击_VV 原子核_NN 实验_NN 。_PU 随后_AD 许_VV 云_NN 基_NN 领导_NN 研究室_NN 制造_VV 重_VV 水_NN ，_PU 生产_NN 重氢_NN 及_CC 中子源_NN ，_PU 从_P 事人_NN 工_NN 放射性_NN 和_CC 其他_DT 核_NN 反应_VV 实验_NN 。_PU
+
+台大_NR 物理_NN 系_VC 於_P 1960_CD 年_M 设立_NN 物理_NN 学硕_VV 士班_NN ，_PU 1969_CD 年_M 设立_NN 物理_NN 学博_NN 士班_NN 。_PU 1998_CD 年_M 建立_JJ 台大_NN 物理_NN 系_VC 新_JJ 馆_NN 暨_CC 台湾_NN 大学_AD 凝态_NN 科学_NN 中心_NN 。_PU
+
+2001年_NT 2月_NT ，_PU 物理_NN 系_NN 暨_CC 研究_NN 所_MSP 迁至_VV 凝态_NN 科学_NN 中心_NN 暨_CC 物理_NN 新_JJ 馆_NN 。_PU 2003_CD 年_M 成立_VV 天文_NN 物理_NN 研究所_NN 。_PU 2008_CD 年成_VV 立应_JJ 用物_NN 理_NN 研究所_NN 。_PU
+
+2005年_NT 成立_VV ，_PU 由_P 台大_NN 物理_NN 系_NN 所_MSP 管理_VV 的_DEC 台大物_NN 理文_NN 物厅_NN ，_PU 里头_NN 放置_VV 的_DEC 及_CC 其_PN 相关_JJ 科_NN 学文物_NN ，_PU 即_AD 是_VC 为了_P 重现_VV 物理_NN 系_NN 刚_AD 建立_VV 时_LC 的_DEG 原子_NN 核_NN 物理_NN 实验室_NN 。_PU
+
+现有_JJ 专任_NN 教师_NN 47_CD 位_M 、_PU 特聘_NN 研究_NN 讲座_NN 教授_VV 4_CD 位_M 、_PU 合聘_NN 教师_NN 13_CD 位_M 、_PU 名誉_NN 教授_NN 5位_NN 、_PU 兼任_AD 教师_VV 15_CD 位_M 、_PU 专任_NN 助教_VV 4_CD 位_M 、_PU 行政_NN 技术_NN 人员_NN 及_CC 职工_NN 16_CD 位_M 。_PU 学生_VV 一_CD 届_M 约_AD 为_VC 70人_NN 。_PU 有_VE 数位_NN 长短期_NN 来自_VV 各国_PN 之_DEG 客座_NN 访问_NN 研究_NN 人员_NN 。_PU 物理_NN 系_NN 与_P 凝态_NN 中心_NN 以及_CC 梁_DT 次_M 震_VV 中心_NN 共用_VV 一_CD 栋_M 大楼_NN ，_PU 研究_VV 人力_NN 与_CC 设备_NN 资源_NN 互_AD 通有_VV 无_VE 。_PU
+
+与_P 中央_JJ 研究院_NN 的_DEC 物理_NN 研究所_NN 、_PU 原子_NN 与_P 分子_NN 科学_NN 研究所_NN 、_PU 天文_NN 及_CC 天文_NN 物理_NN 研究_VV 所有_DT 长期_NN 合_VV 聘_VV 及_CC 兼任_CC 人员_NN 。_PU
+
+近年_NT 之_DEG 研究_NN 重点_NN 为_VC 凝聚态物_NN 理学_NN 、_PU 粒子物_NN 理学_NN 、_PU 天文物_NN 理学_NN 和_CC 宇宙学_NN 等_ETC 。_PU
+
+场论_NN 、_PU 粒子_NN 物理_NN 、_PU 原子_NN 核物_NN 理学_NN 、_PU 高能_NN 物理_NN 、_PU 原子_NN 分子_NN 物理_NN 、_PU 天文_NN 物理_NN 、_PU 物理宇_NN 宙学_NN 、_PU 凝态_NN 物理_NN 、_PU 雷射_NN 物理_NN 、_PU 半导体_NN 元件_NN 物理_NN 、_PU 光学_NN 、_PU 统计_VV 力学_NN 、_PU 流体_NN 力学_NN 、_PU 理论_NN 物理_NN 等_ETC 。_PU
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+﻿推力_NN
+
+推力_NN （_PU ）_PU 是_VC 功_VA 的_DEC 函数_NN ，_PU 可_VV 改变_VV 物体_NN 速度_NN 、_PU 推动_VV 的_DEC 力量_NN 。_PU 多_CD 指_VV 在_P 发动机_NN 内_LC 、_PU 外_JJ 表面_NN 或_CC 推进器_NN （_PU 如_P 螺旋桨_NN ）_PU 上_LC 各_DT 种_M 力_NN 的_DEG 合力_NN 。_PU
+
+发动机_NN 由_P 螺旋桨_NN 、_PU 涡扇_NN 或_CC 涡轮_NN 喷气_NN 发动机_NN 产生_VV 的_DEC 前推_NN 的_DEG 空气_NN 动力_NN ；_PU 而_CC 螺旋桨_NN 的_DEG 推进_NN 系统_NN 中_LC ，_PU 螺旋桨_NN 推动_VV 空气_NN 沿_P 飞行_VV 相反_JJ 方向_NN 流动_VV ，_PU 其_PN 动量_NN 增加_VV ，_PU 对_P 螺旋桨_NN 产生_VV 反作_NN 用力_NN 即_AD 推力_NN 。_PU
+
+最_AD 大_JJ 起飞_NN 推力_NN （_PU MaximumTakeoffthrust_NR ，_PU MTO_NN ）_PU
+最_AD 大_JJ 连续_JJ 推力_NN （_PU MaximumContinuousthrust_NR ，_PU MCT_NN ）_PU
+最_AD 大_JJ 爬升_NN 推力_NN （_PU MaximumClimbthrust_NN ，_PU MCL_NN ）_PU
+最_AD 大_JJ 巡航_NN 推力_NN （_PU MaximumCruisethrust_NN ，_PU MCR_NN ）_PU
+
+军用_JJ 推力_NN （_PU MilitaryThrust_NN ）_PU
+
+

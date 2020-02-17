@@ -1,0 +1,11 @@
+﻿平均_AD 速率_NN 执法_NN
+
+平均_JJ 速率_NN 执法_NN 指_VV 的_DEC 是_VC 一_CD 种_M 测量_NN 车辆_NN 在_P 固定_JJ 距离_NN 区间_NN 的_DEG 平均_JJ 速率_NN ，_PU 以_MSP 判断_VV 车辆_NN 是否_AD 超速_VA 的_DEC 执法_NN 方式_NN 。_PU
+
+又_AD 称_VA 「_PU 区间_NN 测速_VV 」_PU 。_PU
+
+在_P 台湾_JJ 新_JJ 北市_NN 的_DEC 万里_JJ 隧道_NN ，_PU 警方_NN 开始_VV 施行_VV 一_CD 种_M 举发_VV 车辆_NN 违规_AD 超速_VV 的_DEC 方式_NN ，_PU 因为_P 隧道_NN 内_LC 的_DEG 行车_NN 距离_NN 固定_VV ，_PU 执法_NN 单位_NN 在_P 隧道_NN 入口_NN 与_P 出口_NN 测量_VV 车辆_NN 进入_VV 与_CC 离开_VV 的_DEC 时间_NN ，_PU 再_AD 以_P 此_DT 时间_NN 及_CC 距离_NN 计算_VV 车辆_NN 速率_NN ，_PU 检查_VV 车辆_NN 速率_NN 是否_AD 高于_VV 速_MSP 限_VV ，_PU 如果_CS 平均_JJ 速率_NN 高于_VV 速_AD 限_VV 则_AD 算_VV 超速_AD 违规_VV ，_PU 但_CC 实务_NN 上_LC 为_VC 避免_VV 误差_VV ，_PU 在_P 计算_VV 超速_JJ 速率_NN 时_LC 会_VV 以高于_VV 实际_JJ 速限_NN 的_DEC 时速_NN 作为_VV 执法_NN 依据_P 。_PU
+
+2018_CD 年_M 7月1_NN 日执_NN 法到_NN 2018_CD 年_M 7月22_NN 日为止_AD ，_PU 台湾_NN 新_JJ 北市_NN 万里_NT 隧道_NN 的_DEC 速限_NN 每_DT 小时_NN 50_CD 公里_NN ，_PU 但_CC 车辆_NN 平均_JJ 速率_NN 高于_VV 每_DT 小时_NN 70_CD 公里_LC 才_AD 举发_VV ，_PU 以_P 平均_JJ 速率_NN 执法_NN 总共_AD 开出_VV 罚单_NN 2_CD ,_PU 140_CD 张_M ，_PU 每_DT 张_M 罚单_NN 1_CD ,_PU 800_CD 元_M 新台_NN 币以_NN 上_LC ，_PU 共_AD 开出_VV 价值_NN 新台币_NN 385万_CD 元_M 罚单_NN ；_PU 台湾_NR 以外_NR 的_DEC 英国_NR 、_PU 义大_NR 利与澳_NR 大利_NN 亚_NN 也_AD 有_VE 执行_VV 平均_JJ 速率_NN 执法_NN 取缔_VV 车辆_NN 超速_AD 违规_VV 。_PU
+
+

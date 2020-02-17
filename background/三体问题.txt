@@ -1,0 +1,22 @@
+﻿_NN 三_CD 体_NN 问题_NN
+
+三体_NN 问题_NN （_PU ）_PU 是_VC 天体_NN 力学_NN 中_LC 的_DEG 基本_JJ 力学_NN 模型_NN 。_PU
+
+它_PN 是_VC 指_VV 三_CD 个_M 质量_NN 、_PU 初始_JJ 位置_NN 和_CC 初始_JJ 速度_NN 都_AD 是_VC 任意_DT 的_DEG 可视_JJ 为质点_NN 的_DEC 天体_NN ，_PU 在_P 相互_NT 之间_LC 万_AD 有_VE 引力_NN 的_DEC 作用_NN 下_LC 的_DEG 运动_NN 规律_NN 问题_NN 。_PU
+
+现在_NT 已_AD 知_VV ，_PU 三体_NN 问题_NN 不_AD 能_VV 精确_AD 求解_VV ，_PU 即_AD 无法_AD 预测_VV 所有_DT 三体_NN 问题_NN 的_DEC 数学_NN 情景_NN ，_PU 只_AD 有_VE 几_CD 种_M 特殊_JJ 情况_NN 已_AD 研究_VV 。_PU
+
+例如_AD 太阳系_NN 中_LC ，_PU 考虑_VV 太阳_AD ，_PU 地球_NN 和_CC 月球_NN 的_DEG 运动_NN ，_PU 它们_PN 彼此_PN 以_P 万_OD 有_VE 引力_NN 相_AD 吸引_VV ，_PU 若_CS 假设_VV 三_CD 个_M 星球_NN 都_AD 可_VV 假设_VV 为_VC 质点_NN ，_PU 并且_CC 忽略_VV 其他_DT 星球_NN 的_DEG 引力_NN ，_PU 太阳_AD ，_PU 地球_NN 和_CC 月球_NN 的_DEG 运动_NN 即_AD 可以_VV 视为_VV 三_CD 体_NN 问题_NN 。_PU
+
+在_P 1887_CD 年_M ，_PU 为了_P 祝贺_VV 自己_PN 的_DEG 60_OD 岁_M 寿诞_NN ，_PU 瑞典国_NN 王奥_NN 斯卡_AD 二_CD 世_NN 赞助_VV 了_AS 一_CD 项_M 现金_NN 奖励_VA 的_DEC 竞赛_NN ，_PU 征求_VV 太阳系_NN 的_DEC 稳定性_NN 问题_NN 的_DEC 解答_NN ，_PU 这_PN 是_VC 三体_NN 问题_NN 的_DEC 一_CD 个_M 变种_VV 。_PU
+
+法国_JJ 数学_NN 家庞_NN 加莱_VV 简化_VV 了_AS 问题_NN ，_PU 提出_VV 了_AS 限制性_NN 三体_NN 问题_NN ：_PU 即_AD 三体_NN 中_LC 其中_NN 两体_NN 的_DEG 质量_NN 极_AD 大_VA ，_PU 以至于_VV 第三_OD 体_NN 的_DEG 质量_NN 完全_AD 不_AD 能_VV 对_P 其_PN 造成_VV 任何_DT 扰动_VV 。_PU 面对_VV 这_DT 个_M 问题_NN ，_PU 庞加_VV 莱_NOI 运用_VV 了_AS 他_PN 发明_NN 的_DEG 相_NN 图_NN 理论_AD ，_PU 并且_CC 最终_AD 发现_VV 了_AS 混沌理_NN 论_NN 。_PU 虽然_CS 庞加莱没_VV 有_VE 成功给出_VV 一_CD 个_M 完整_VA 的_DEC 解答_NN ，_PU 他_PN 的_DEG 工作_NN 令_VV 人_NN 印象_NN 深刻_VA ，_PU 以至于_VV 他_PN 还_AD 是_VC 在_P 1888_CD 年_M 赢得_VV 了_AS 奖金_NN 。_PU
+
+庞_CS 加莱_VV 发现_VV 这_DT 个_M 系统_NN 的_DEG 演变_NN 经常_AD 是_VC 混沌_VV 的_DEC ，_PU 意思_NN 是_VC 说_VV 如果_CS 初始_NN 状态_NN 有_VE 一_CD 个_M 小_VA 的_DEC 扰动_NN ，_PU 例如_AD 一_CD 个体_NN 的_DEC 初始_JJ 位置_NN 有_VE 一_CD 个_M 小_VA 的_DEC 变动_NN ，_PU 则_AD 后来_VV 的_DEC 状态_NN 可能_VV 会_VV 有_VE 极_AD 大_VA 的_DEC 不同_VA 。_PU 如果_CS 该_DT 小_JJ 变动_NN 不_AD 能_VV 被_SB 我们_VV 的_DEC 测量_NN 仪器_NN 所_MSP 探测_VV ，_PU 则_AD 我们_PN 不_AD 能_VV 预测_VV 最终_JJ 状态_NN 为_VC 何_DT 。_PU
+
+裁判_VV 之一_AD ，_PU 著名_VV 的_DEC 数学家_NN 卡尔_NN ·_PU 魏尔施_NR 特拉_NN 斯_AD 说_VV ：_PU “_PU 这_DT 个_M 工作_NN 不_AD 能_VV 真正_AD 视为_VV 对_P 所_MSP 求_VV 的_DEC 问题_NN 的_DEC 完善_JJ 解答_NN ，_PU 但是_CC 它_PN 的_DEG 重要性_JJ 使得_VV 它_PN 的_DEG 出版_NN 将_BA 标志_NN 着_NN 天体_NN 力学_NN 的_DEC 一_CD 个_M 新时_JJ 代_NN 的_DEG 诞生_NN 。_PU ”_PU
+
+魏尔斯_NR 特拉_NN 斯_AD 并_AD 不_AD 知道_VV 他_PN 自己_PN 的_DEG 预测_NN 有_VE 多_AD 准确_VA 。_PU 在_P 庞_NN 加莱_VV 的_DEC 论文_NN 中_LC ，_PU 他_PN 描述_VV 了_AS 例如_AD 同_DT 宿点_NN （_PU homoclinicpoints_NN ）_PU 之类_VA 的_DEC 新_JJ 思想_NN 。_PU 这些_DT 概念_NN 在_P 1890_CD 年_M 的_DEG "_PU ActaMathematica_NN "_PU 备忘录_NN 中_LC 出版_VV ，_PU 后来_VV 该_DT 书_NN 在_P 编辑途_NN 中_LC 被_SB 发现_VV 一_CD 个_M 理论_NN 上_LC 的_DEG 错误_VA ，_PU 然而_CC 该_DT 错误_VA 实际上_AD 导致_VV 了_AS 庞_PN 加莱_VV 一些_CD 进一步_AD 的_DEV 发现_VV ，_PU 它们_PN 现在_NT 被_SB 视为_VV 混沌理_NN 论_NN 的_DEG 开端_NN 。_PU
+
+
+

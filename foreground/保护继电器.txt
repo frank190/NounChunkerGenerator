@@ -1,0 +1,10 @@
+﻿_CD 保护_VV 继电器_NN
+
+在_P 电气_NN 工程_NN 中_LC ，_PU 保护_VV 继电器_NN 是_VC 设计_VV 用来_VV 当_P 检测_VV 到_VV 故障_NN 时_LC ，_PU 跳脱_VV 断路器_NN 达到_VV 保护_VV 特定_JJ 设施_NN 的_DEC 装置_NN ，_PU 特定_JJ 设施_NN 可以_VV 是_VC 发电机_NN 、_PU 变压器_NN 、_PU 输电_NN 线路_NN 等等_ETC 。_PU
+
+无_VE
+
+ANSIDeviceNumbers_NN 列出_VV 不同_JJ 功能_NN 的_DEC 电驿_NN 代号_NN ，_PU 举例_NN 来_MSP 说_VV ，_PU 一_CD 个_M 87L_CD 电驿_NN 代表_VV 这_PN 是_VC 一_CD 个_M 输电_NN 线路_NN 差流_NN 电驿_NN ，_PU 87_CD 代_M 表_NN 差流_NN 电驿_NN ，_PU L_NN 代表_VV 保护标_NN 的_DEC 是_VC 输电_NN 线路_NN 。_PU
+这_DT 种_M 电驿_NN 的_DEG 工作_NN 原理_NN 是_VC 基於基尔_NN 霍夫_NN 电流_NN 定律_NN ，_PU 此_DT 定律_NN 是_VC 说_VV ，_PU 流进_VV 与_CC 流出_VV 某_DT 一_CD 个_M 节点_NN 的_DEC 电流_NN 总和_AD 为_VC 零_CD 。_PU 差流_NN 保护_NN 需要_VV 在_P 输电_NN 线路_NN 的_DEG 两_CD 端_NN 或_CC 每_DT 一_CD 个_M 变压器_NN 端_NN 设置_VV 比流器_NN ，_PU 差流_NN 电驿_NN 透过_VA 比流器_NN 取得_VV 流经_JJ 量端_NN 的_DEG 电流_NN 并_CC 计算_VV 两_CD 边_NN 的_DEG 差异_NN 。_PU
+
+

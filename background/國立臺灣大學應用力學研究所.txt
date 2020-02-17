@@ -1,0 +1,17 @@
+﻿国_NR 立台湾_NN 大学_NN 应用_NN 力学_NN 研究所_NN
+
+国立_JJ 台湾_NN 大学_NN 应用_NN 力学_NN 研究所_NN （_PU ）_PU ，_PU 简称_JJ 台湾_NN 大学_NN 应力_NN 所_VA 、_PU 台大_NR 应力_NN 所_MSP 。_PU 於_P 1983_CD 年_M ，_PU 由_P 虞兆_NN 中_LC 校长_VV 、_PU 中山_NN 科学_NN 研究院_NN 黄孝_JJ 宗代院_NN 长合_VV 议_NN 决定_JJ 委请_NN 美国_NR 康乃尔_NN 大学_NN 鲍_NN 亦_AD 兴_VV 教授_NN 负责_NN 规划_NN 筹设_VV 。_PU 展_NN 开设_VV 所_MSP 筹备_VV 工作_NN ，_PU 征聘_VV 教师_NN ，_PU 叶超_NN 雄_AD 教授_VV 主持_NN 招生_NN 等_ETC 事宜_NN 。_PU 於_P 1984_CD 年招_NN 收第_VV 一_CD 届硕_NN 、_PU 博士_NN 班研_NN 究生_VV ，_PU 首任所长_AD 为_VC 理论_NN 及_CC 应用_JJ 力学_NN 专家_NN ，_PU 美国_NR 国家_NN 工程_NN 院院士_NN 、_PU 中央_JJ 研究_NN 院院_NN 士鲍_NN 亦_AD 兴_VV 教授_NN 。_PU
+
+
+
+
+
+
+
+
+
+
+
+
+
+

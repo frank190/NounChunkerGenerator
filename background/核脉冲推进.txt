@@ -1,0 +1,5 @@
+﻿核_NN 脉冲_NN 推进_NN
+
+核_NN 脉冲_NN 推进_NN （_PU ，_PU 或_CC NASA_NN 的_DEG 一_CD 份_M 文档_NN 中_LC 称呼_VV 过_AS 的_DEC 外部_NN 脉冲_NN 等离子_NN 推进_VV externalpulsedplasmapropulsion_NN ）_PU 是_VC 一_CD 个_M 提议_NN 中_LC 的_DEG 使用_NN 核爆做_NN 推力_NN 的_DEC 航天器_NN 推进_VV 技术_NN 。_PU 其_PN 最早_AD 是_VC 作为_P DARPA_NN 的_DEC “_PU 猎户座_NN 计划_VV ”_PU ，_PU 1957年_NN 由_P 斯_DT 塔尼_NN 斯_AD 拉夫_VV ·_PU 马尔钦_NN ·_PU 乌拉姆_NN 提议_VV 而_MSP 来_VV 。_PU 以_P 惯性_NN 约束_AD 聚变_VV 为_VC 起点_NN 的_DEC 新提议_NN 有_VE 著名_VA 的_DEC 代达罗_NN 斯_AD 计划_VV 和_CC 不_AD 太_AD 有名_VA 的_DEC ProjectLongshot_NN 。_PU
+
+

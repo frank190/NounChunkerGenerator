@@ -1,0 +1,79 @@
+﻿匹_NN 配滤_NN 波器_NN
+
+在_P 信号_NN 处理_NN 中_LC ，_PU 匹配_JJ 滤波器_NN 可以_VV 用来_VV 解调_VV 基频带_NN 脉波_NN 信号_NN ，_PU 基频带_NN 脉波_NN 信号_NN 意指_NN 信号_NN 内容_NN 为_VC 同_DT 一_CD 波形_NN 信号_NN 乘上_VV 一_CD 个_M 常数_NN ，_PU 在_P 每_DT 个_M 周期_NN 出现_VV ，_PU 每_DT 个_M 周期_NN 中_LC 代表_VV 着_AS 或_CC 多_VA 或_CC 少_VA 的_DEC 资讯量_NN 。_PU 匹配_NN 滤波器_NN 解调_VV 出来_VV 的_DEC 结果_NN 其_PN SNR_NN (SignalNoiseRatio)_PU 为_VC 最_AD 大_VA 的_SP ，_PU 匹配_NN 滤波器_NN 需要_VV 事先_AD 知道_VV
+
+1_CD ._PU 传送_VV 的_DEC 讯号_NN
+
+2_CD ._PU 讯号_NN 的_DEC 同步_DT
+
+才_AD 能_VV 解调_VV 出_VV 传送_VV 的_DEC 信号_NN 。_PU
+
+此外_AD ，_PU 匹配_VV 滤波器_NN 也_AD 可_VV 用于_VV 模式_NN 识別_NN 、_PU 相似度_NN 测试_NN （_PU similaritymeasure_NN ）_PU 。_PU
+
+假设_CS
+g_NN (_PU t_NN )_PU ：_PU 传送_VV 讯号_NN
+
+w_NN (_PU t_NN )_PU ：_PU 可加性_JJ 高斯白_JJ 噪声_NN
+
+x_CD (_PU t)_CD =_CC g(_CD t)+w(t_M )_PU
+
+h_NN (_PU t_NN )_PU ：_PU 未知_JJ 波形_NN
+
+y_NN (_PU t_NN )_PU ：_PU 解调_NN 结果_NN
+
+formula_NN
+
+formula_NN
+
+formula_NN
+
+formula_NN
+formula_NN
+
+SNR_CD =_BA 信号_NN 瞬间_NN 功率_NN /_PU N_CD oise_M 平均_JJ 功率_NN
+
+信号_NN 瞬间_NN 功率_NN
+
+formula_NN
+
+噪声_NN 平均_JJ 功率_NN
+
+formula_NN
+
+formula_NN
+
+formula_NN
+
+formula_NN
+
+4_CD ._PU 当_P
+formula_NN ,_PU formula_NN
+
+所以_AD
+
+formula_NN
+
+formula_NN
+
+formula_NN
+
+(_PU 备注_VV )_PU Cauchy_NN -_PU Schwartzi_VV nequality_NR :_PU
+
+若_CS
+
+formula_NN 且_CC formula_NN
+
+则_AD
+
+formula_NN
+
+当_P formula_NN
+
+formula_NN
+
+formula_NN
+<_PU math_NN >_PU \_PU mathrm_NN {SNR}=_PU \_PU frac_NN
+
+
+
+

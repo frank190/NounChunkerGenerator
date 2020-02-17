@@ -1,0 +1,12 @@
+﻿光罩_NN 护膜_NN
+
+光罩_NN 护膜_NN （_PU Pellicle_NN ）_PU ，_PU 即_AD 表示_VV 是_VC 光罩_NN 上_LC 的_DEG 膜_NN 或_CC 薄膜_NN 的_DEG 意思_NN ，_PU 结构_NN 为_VC 一_CD 薄膜_NN 展开_VV 在_P 框架_NN 上_LC ，_PU 以免_AD 於_P 光罩_NN 受到_VV 微尘_NN 或_CC 挥发性_JJ 气体_NN 的_DEG 汙染_NN 。_PU 自_P 1970年_NT 代后_NT 期即_AD 开始_VV 发展_VV ，_PU 早期_VV 的_DEC 保护膜_NN 大都_AD 使用_VV 硝化_NN 纤维素_NN ，_PU 其_PN 波长_NN 在_P 350_CD ～_PU 450_CD nm_NN ，_PU 折射率_NN 约_AD 为_VC 1.5_CD ，_PU 厚度_NN 则_AD 2.85_CD mm_M 。_PU 因为_P 硝化_NN 纤维_NN 素_AD 在_P 小于_VV 350_CD nm_M 的_DEC 波长_NN 有_VE 明显_VA 的_DEC 吸收_NN 能力_NN ，_PU 所以_AD KrF_NN (_PU 248_CD nm_NN )_PU 、_PU ArF_NN (_PU 193_CD nm_M )_PU 的_DEC 保护膜_NN 则_AD 使用_VV 非_AD 结晶_VV 之_DEC 氟_NN 聚合物_NN 材质_NN （_PU 如_P 铁氟龙_NN 、_PU Cytop_NN ）_PU ，_PU 但是_CC 上述_JJ 的_DEG 两_CD 个_M 材料_NN 的_DEG 折射率_NN 皆_AD 很_AD 低_VA ，_PU 248_CD nm_M 的_DEC 折射率_NN 约_AD 为_VC 1_CD ._PU 34_CD ，_PU 193_CD nm_M 则_AD 约_AD 1_CD ._PU 40_CD ，_PU 因此_AD 很_AD 难找_VV 到_VV 效果_NN 良好_VA 的_DEC 抗_VV 反射涂层_NN ，_PU 因此_AD 单_BA 层_NN 薄膜_NN 在_P 这些_DT 波长_NN 下_LC 是_VC 最_AD 常见_VA 的_DEC 。_PU
+
+「_PU 抗_VV 反射_NN 涂层_NN 」_PU （_PU 成份_NN 为_VC 氟化钙_JJ 或_CC 氟碳_JJ 化合物_NN ）_PU ，_PU 通常_AD 会_VV 涂在_VV 保护膜_NN 的_DEG 一_CD 侧_NN 或_CC 两_CD 侧_NN ，_PU 以_MSP 提高_VV 透光率_NN 之_DEC 用_VV 。_PU
+
+在_P 目前_NT 逐步_NN 踏入_VV EUV_NN 的_DEG 世代_NN ，_PU 因为_P 其_PN 波长_NN 仅_AD 有_VE 13_CD ._PU 5_CD nm_M ，_PU 以往_NT 所_MSP 使用_VV 的_DEC 「_PU 光罩_NN 护膜_NN 」_PU 将_AD 会_VV 吸收_VV 此_DT 光源_NN 的_DEC 波长_NN ，_PU 然而据_AD 报导_VV 指出_VV ASML_NN 是_VC 唯一_JJ 成功_NN 开发_VV 出_VV 商用_VV 的_DEC 「_PU EUV_NN 保护膜_NN 」_PU 的_DEG 制造商_NN ，_PU 也_AD 在_P 2019_CD 年_M 与_CC 日本_NN 三_CD 井_NN 化学_NN 公司_NN 簽_NN 署_NN EUV_NN 光_NN 罩护膜_NN 组装_NN 技术_NN 的_DEG 授权_NN 。_PU
+使用_VV 光罩_NN 护膜_VV 有_VE 两_CD 种_M 目的_NN ，_PU 一_CD 是_VC 增加_VV 芯片_NN 生产_VV 良率_NN ；_PU 二_CD 是_VC 减少_VV 光罩_NN 於_P 使用_VV 时_LC 的_DEG 清洁_NN 和_CC 检验_NN 。_PU
+
+
+
+

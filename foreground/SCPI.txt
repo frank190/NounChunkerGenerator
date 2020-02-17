@@ -1,0 +1,28 @@
+﻿SCPI_VV
+
+可_VV 编_VV 程仪器_NN 标准_NN 命令_NN （_PU ，_PU 缩写_VV ：_PU ）_PU 定义_VV 了_AS 一_CD 套_M 用于_VV 控制_VV 可_VV 编程_VV 测试_NN 测量_NN 仪器_NN 的_DEG 标准_NN 语法_NN 和_CC 命令_NN 。_PU
+
+SCPI_CD 于_P 1990_CD 与_CC IEEE488_NN ._PU 2_CD 协议_NN 一起面世_NN 。_PU 这_DT 套_M 标准_NN 定义_VV 了_AS 可_VV 用于_VV 控制_VV 一_CD 切仪器_NN 的_DEC 语法_NN ，_PU 命令_NN 结构_NN 以及_CC 数据_NN 格式_NN 。_PU 比如_VV ，_PU 通用_VV 的_DEC 命令_NN ，_PU 如_P 配置_NN 仪器_NN 参数_NN 的_DEG 命令_NN codice_NN __NN 1_CD ，_PU 测量_VV 命令_NN codice_NN __NN 2_CD 等_ETC 。_PU 这些_DT 命令_NN 可_VV 用于_VV 任_DT 一仪器_NN ，_PU 并且_CC 同_DT 一_CD 类_M 的_DEG 命令_NN 属于_VV 同_DT 一_CD 子_NN 系统_NN 里_LC 。_PU SCPI_NN 同时_AD 也_AD 定义_VV 了_AS 若_CS 干仪器_NN 的_DEG 种类_NN 。_PU 比如_VV ，_PU 任何_DT 可_VV 控制_VV 的_DEC 电源_NN 都_AD 会_VV 实现_VV codice_NN
+
+需要_VV 注意_VV 的_DEC 是_VC ，_PU SCPI_NN 并未_AD 定义_VV 物理_NN 层_NN 的_DEC 传输_NN 信道_NN 的_DEG 实现_NN 方法_NN 。_PU 虽然_CS 上文_NN 指出_VV 它_PN 最_AD 开始_VV 是_VC 和_P I_NN E_OD E_NOI E_OD 488_CD ._PU 2_CD (_PU 即_AD G_CD PIB_M )_PU 面世_NN 的_DEC ，_PU 但_CC SCPI_NN 控制_VV 命令_NN 也_AD 可_VV 用于_VV 串口_NN (_PU RS_NN -_PU 232_CD )_PU ，_PU 以_P 太_AD 网_VA ，_PU USB_NN 接口_NN ，_PU VXIbus_NN 等_ETC 若干_CD 硬件_NN 总线_NN 。_PU
+
+SC_CD PI_M 命令_NN 是_VC ASCII_NN 字符串_NN ，_PU 通过_P 物理_NN 传输层_NN 传入_VV 仪器_NN 。_PU 命令_NN 由_P 一_CD 连串_NN 的_DEC 关键_JJ 字_NN 构成_VV ，_PU 有的_AD 还_AD 需要_VV 包括_VV 参数_NN 。_PU 在_P 协议_NN 中_LC ，_PU 命令_NN 规定_VV 为_VC 如下_JJ 形式_NN ：_PU codice_NN
+
+SC_CD PI_M 命令_NN 大致_AD 分为_VV 两_CD 种_M 功能_NN ，_PU
+
+改变_VV 仪器_NN 运行_NN 状态_NN 的_DEC "_PU set_NN "_PU 操作_NN （_PU 打开_VV /_PU 关闭_VV 电源_NN 输出_NN ）_PU ，_PU 或者_CC 查_VV 询仪器_NN 状态_NN 的_DEC "_PU query_NN "_PU 操作_NN （_PU 例如_AD 读取_VV 输出_NN 电压值_NN ）_PU 。_PU 查询_NN 命令_NN 一般_AD 以_P 问号_NN (_PU ?_PU )_PU 结尾_NN 。_PU 有_VE 些命_NN 令即_AD 可以_VV 用来_VV 设置_VV ，_PU 也_CC 可以_VV 用来_VV 查_VV 询仪器_NN 。_PU
+
+相似_VA 的_DEC 命令_NN 可以_VV 被_SB 归类_VV 成_VV 一_CD 种_M 层状_NN 或_CC 树状_NN 结构_NN 。_PU 例如_AD ，_PU 任何_DT 读取_JJ 仪器_NN 测量_NN 结果_NN 的_DEC 命令_NN 均_AD 可以_VV codice_NR __NN 2_CD 开头_NN 。_PU 特定_JJ 的_DEG 子命_NN 令以_VV 冒号_NN 同_P 上_JJ 级命_NN 令分_NN 隔开_VV 。_PU 例如_AD ，_PU 测量_NN 直流_NN 电压_NN 会_VV 是_VC 这样_JJ 的_DEG 形式_NN ：_PU codice_NN __NN 6_CD ，_PU 或者_CC 测量_NN 交流_NN 电流_NN 会_VV 是_VC 这样_JJ 的_DEG 形式_NN ：_PU codice_NN
+
+有些_DT 命令_NN 需要_VV 额外_VV 的_DEC 参数_NN 。_PU 参数_NN 一般_AD 跟_VV 在_P 命令_NN 的_DEC 后面_NN ，_PU 以_P 空格_NN 隔开_VV 。_PU 例如_AD ，_PU 将_BA 某_DT 个_M 仪器_NN 的_DEG 触发_NN 模式_NN 设为_VV "_PU normal_NN "_PU 的_DEG 命令_NN 可_VV 写为_VV ：_PU codice_NN __NN 8_CD 。_PU 上述_JJ 命令_NN 里_LC codice_NN
+
+多_CD 个_M 命令_NN 可_VV 用_P 一_CD 条_M 语句_NN 发送_VV 至_VV 仪器_NN ，_PU 只_AD 需_VV 在_P 每_DT 条_M 命令_NN 后_LC 使用_VV 分号_NN codice_NN __NN 10_CD 隔开_VV 即_AD 可_VV 。_PU 同时_AD ，_PU 除了_P 第一_OD 条_M 命令_NN ，_PU 随后_NT 的_DEG 每_DT 条_M 命令_NN 前_LC 必须_VV 加_VV 一_CD 个_M 分号_NN 的_DEC 前缀_JJ （_PU 除非其以_JJ 星号_NN 开头_NN ）_PU 。_PU 例如_AD ，_PU 测量_NN 直流_NN 电压_NN 和_CC 交流_NN 电流_NN 可以_VV 写成_VV 一_CD 条_M 语句_NN ：_PU codice_NN
+
+可以_VV 只_AD 发送_VV 命令名_NN 中_LC 的_DEG 大写_JJ 字母_NN 部分_NN 。_PU 例如_AD ，_PU 命令_NN codice_NN __NN 12_CD 将_AD 会_VV 设置_VV RS_NN -_PU 232_CD 通讯_NN 端口_NN 的_DEC 比特率_NN 为_VC 2400_CD 。_PU 这_DT 个_M 命令_NN 可以_VV 简写_VV 为_VC codice_NN
+
+首次_AD 发布_VV 于_P 1990年_NN ，_PU S_CD CPI_M 的_DEG 起源_NN 是_VC IEEE_NN -_PU 488_CD 的_DEC 另外_DT 一_CD 个_M 层_NN 。_PU IEEE_NN -_PU 488_CD ._PU 1_CD 指定_VV 了_AS 物理_NN 和_CC 电气_NN 总线_NN ，_PU IEEE488_NN ._PU 2_CD 指定_VV 了_AS 协议_NN 和_CC 数据_NN 格式_NN ，_PU 但是_CC 都_AD 没有_VE 指定_JJ 仪器_NN 的_DEG 指令_NN 。_PU 不同_VA 的_DEC 制造商_NN ，_PU 甚至_AD 不同_VA 的_DEC 型号_NN 、_PU 相同_JJ 类型_NN 的_DEG 仪器_NN 都_AD 需要_VV 使用_VV 不同_VA 的_DEC 命令集_NN 。_PU S_CD CPI_M 创建_VV 了_AS 一_CD 个_M 标准_NN ，_PU 可以_VV 在_P 所有_DT 的_DEG 制造商_NN 和_CC 所有_DT 型号_NN 中_LC 通用_VV 。_PU 它_PN 需要_VV 使用_VV 的_DEC IEEE488_NN ._PU 2_CD 数据_NN 格式_NN ，_PU 但_CC 不_AD 必_AD 非得_AD 是_VC -_PU 488_CD ._PU 1_CD 总线_NN
+在_P 2002_CD -_PU 2003_CD 年_M ，_PU SCPI_NN 协会_NN 投票_VV 成为_VV IVI_NN 基金会_NN 的_DEG 一_CD 部分_NN （_PU 可_VV 互换_VV 虚拟_JJ 仪器_NN ）_PU ._PU
+
+
+
+

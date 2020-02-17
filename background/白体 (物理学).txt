@@ -1,0 +1,6 @@
+﻿白体_NN (_PU 物理学_NN )_PU
+
+白体_NN ，_PU 旧称_NN 绝_AD 对_P 白体_NN ，_PU 是_VC 物理学_NN 上_LC 的_DEG 一_CD 种_M 理想_NN 概念_AD ，_PU 和_P 黑体_NN 相反_VV ，_PU 是_VC 一_CD 种_M 只_AD 向_P 外辐射_NN 而_CC 不_AD 吸收_VV 能量_NN 的_DEG 理想_NN 物体_NN ，_PU 这_DT 类_M 理想_NN 物体_NN 有_VE 两_CD 种_M ，_PU 包括_VV 镜体_NN 和_CC 白体_NN ，_PU 白体_NN 是_VC 指_VV 入射_VV 的_DEC 辐射_NN 会_VV 成_VV 漫_CD 反射者_NN 。_PU
+
+
+

@@ -1,0 +1,6 @@
+﻿_CS 密度差_NN
+
+密度差_NN （_PU Densitycontrast_NN ）_PU 是_VC 一_CD 种_M 解释_NN 是_VC 星系_NN 和_CC 大_JJ 尺度_NN 结构_NN 形成_VV 的_DEC 理论_NN ，_PU 其_PN 方程式_NN 为_VC :_PU <_PU br_NN >_PU formula_NN
+一般_AD 认为_VV ，_PU 宇宙_NN 是_VC 从_P 一团_JJ 炽热_NN 微小_NN 的_DEC 火球_NN 膨胀_NN 而成_VV 的_DEC ，_PU 这_PN 就_AD 叫做_VV 大_JJ 霹雳_NN ，_PU 而_CC 理论_AD 认为_VV 宇宙_NN 刚_AD 诞生_VV 时_LC 密度_NN 并非_CC 完全_AD 均匀_VA 的_DEC ，_PU 其中_NN 有_VE 密度_NN 比较_AD 大_VA 和_CC 密度_NN 比较_AD 小_VA 的_DEC 地方_NN ，_PU 而_CC 随_P 这_DT 宇宙_NN 的_DEG 膨胀_NN 和_CC 冷却_NN ，_PU 这些_DT 密度_NN 比较_VV 大_VA 的_DEC 地方_NN 会_VV 因为_P 重力_NN 比较_VV 大_VA 而_CC 自行_AD 塌缩_VV ，_PU 这样_AD 就_AD 会_VV 行成_VV 星系_NN 和_CC 大_JJ 尺度_NN 结构_NN 。_PU
+
+

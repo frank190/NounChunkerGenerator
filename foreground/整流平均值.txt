@@ -1,0 +1,12 @@
+﻿整流_NN 平均值_NN
+
+整_DT 流_VV 平均值_NN （_PU ARV_NN ）_PU 为_VC 一_CD 电子_NN 工程_NN 的_DEC 名词_NN ，_PU 指_VV 一_CD 信号_NN 绝对_CC 值_VV 的_DEC 平均值_NN ，_PU 也_AD 是_VC 信号_NN 经过_P 全_DT 波_M 整流_NN 后_LC 的_DEG 平均值_NN 。_PU
+
+整流平_AD 均值_AD 可_VV 表示_VV 为_VC 信号_NN 绝对_AD 值积_VV 分_NN 的_DEG 平均值_NN ：_PU
+
+一_CD 个_M 没有_VV 直流_JJ 分量_NN 的_DEG 对称_JJ 交流_NN 讯号_NN ，_PU 其_PN 平均值_NN 为_VC 零_CD ，_PU 因此_AD 不_AD 能_VV 用_P 一般_JJ 的_DEG 平均值_NN 来_MSP 描述_VV 对称_PN 交流_NN 信号_NN 的_DEG 特性_NN ，_PU 但_CC 可以_VV 用_VV 整_DT 流_VV 平均值_NN 来_MSP 量化_VV 描述_VV 这_DT 类_M 讯号_NN 的_DEG 特性_NN 。_PU 整_DT 流_VV 平均值_NN 可以_VV 量_NN 测_VV 交流_NN 电压_NN 及_CC 交流_NN 电流_NN 。_PU
+
+整流平均_AD 值_VV 其_PN 概_AD 念有_VV 点类_JJ 似均_JJ 方根值_NN ，_PU 但_CC 若_CS 信号_NN 局部_NN 的_DEG 绝对值_NN 有_VE 变化_NN ，_PU 整_AD 流_VV 平均值_NN 和_CC 均_BA 方根_NN 值_NN 的_DEG 变化_NN 不_AD 会_VV 成_VV 正比_NN 。_PU 一_CD 波_M 形_NN 整_AD 流_VV 平均值_NN 和_CC 均方根_NN 值_VV 的_DEC 比值_NN 称为_VV 波形_NN 因_P 数_NN formula_NN
+
+
+

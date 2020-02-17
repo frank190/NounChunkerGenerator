@@ -1,0 +1,8 @@
+﻿基带_NN
+
+基带_NN （_PU ）_PU 是_VC 频率_NN 范围_NN 非常_AD 窄_VA 的_DEC 信号_NN ，_PU 也就是_AD 说幅度_NN 谱仅_VV 在_P 原点_NN （_PU "_PU f_NN "_PU =_NN 0_CD ）_PU 附近_VV 才_AD 是_VC 非_AD 零_CD 的_SP ，_PU 其他_DT 频率_NN 几乎_AD 可以_VV 忽略_VV 。_PU 在_P 电信_NN 与_CC 信号_NN 处理_NN 中_LC ，_PU 基带_NN 信号_NN 是_VC 未经_AD 载波_NN 调制_VV 的_DEC 信号_NN ，_PU 即_AD 该_DT 信号_NN 的_DEG 频率_NN 范围_NN 没有_VE 任何_DT 移位_NN ，_PU 而且_CC 频率_NN 很_AD 低_VA -_PU 包含_VV 频带_NN 从_P 接近_VV 0_CD Hz_M 到_CC 更_AD 高_JJ 截止_NN 频率_NN 或_CC 最_AD 大_JJ 带宽_NN 。_PU
+
+由于_P 基带_NN 信号_NN 是_VC 未经_P 载波_NN 调制_VV 的_DEC 信号_NN ，_PU 在_P GPS_NN 接收机_NN 和_CC 移动_JJ 电话_NN 等_ETC 无线_JJ 数字_NN 通讯_NN 领域_NN ，_PU 基带_NN 信号_NN 有_VE 时也_JJ 泛指_NN 已_AD 经过_P 处理_VV 后_LC 的_DEG 信号_NN 。_PU 在_P 无线_JJ 通讯_NN 设备_NN 中_LC ，_PU 来自_VV 天线_NN 的_DEC 信号_NN 先_AD 经_VA 的_DEC 模拟_NN 电路_NN 接收_VV ，_PU 然后_AD 再_AD 转交_VV 给后续_AD 的_DEC 数字_NN 电路_NN 进一步_AD 处理_VV ，_PU 而后者_AD 就_AD 是_VC 基带_NN 处理器_NN 。_PU 在_P 当前_NT 中文_NN 语境_NN 中_LC ，_PU 手机_NN 基带_NN 处理器_NN 所_MSP 带_VV 的_DEC 固件_NN 也_AD 简称_VV “_PU 基带_NN ”_PU 。_PU
+
+
+

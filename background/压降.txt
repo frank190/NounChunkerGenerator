@@ -1,0 +1,8 @@
+﻿压降_NN
+
+压降_NN 是_VC 指_VV 流体_NN 输送_NN 系统_NN 中_LC ，_PU 二点_NN 之间_LC 总_AD 压强_VV 的_DEC 差_NN 。_PU
+
+流体_NN 在_P 管路_NN 中_LC 流动_VV 时_LC ，_PU 会_VV 因为_P 管路_NN 阻力_NN 产生_VV 摩擦力_NN ，_PU 这_PN 就_AD 是_VC 造成_VV 压降_NN 的_DEG 原因_NN 。_PU 流体_NN 阻力_NN 主要_AD 是_VC 受_VV 流体_NN 在_P 管路_NN 中_LC 的_DEG 速度_NN 以及_CC 流体_NN 黏度_NN 所_MSP 影响_VV 。_PU 压降_NN 和_CC 管路_NN 中_LC 的_DEG 摩擦_NN 剪力_NN 成_VV 正比_VA 。_PU 若_CS 管路_NN 的_DEC 高_VA ，_PU 或是_CC 有_VE 许多_CD 管道_NN 配件_NN 、_PU 接头_NN 、_PU 管道_NN 会聚_VV 、_PU 发散_VV 或是_CC 转弯_NN 等_ETC 都_AD 会_VV 影响_VV 压降_NN 。_PU 高_JJ 流速_NN 或_CC 是_VC 高_JJ 黏度_NN 所_MSP 造成_VV 的_DEC 压降_NN 会_VV 较_AD 大_VA 。_PU 低_JJ 流速_NN 的_DEC 压降_NN 较_AD 小_VA ，_PU 甚至_AD 没有_VE 压降_NN 。_PU
+
+
+

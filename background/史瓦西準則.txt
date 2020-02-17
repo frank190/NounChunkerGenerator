@@ -1,0 +1,16 @@
+﻿史瓦_NN 西_NN 準则_NN
+
+史瓦西_NN 準则_NN （_PU ）_PU 是_VC 卡尔_NN ·_PU 史瓦_NN 西_NN 发现_VV 的_SP ，_PU 是_VC 在_P 天文_NN 物理_NN 上_LC 判断_VV 恒_AD 星_VV 的_DEC 物质_NN 能_VV 否_AD 能_VV 否_AD 稳定_VA 的_DEC 形成_VV 对流层_NN 的_DEG 準则_NN ，_PU 其_PN 形式_NN 为_VC ：_PU
+
+formula_NN
+
+此_DT 处_NN formula_NN __NN 2_CD 是_VC 重力_NN ，_PU 而_CC formula_NN
+
+如果_CS 是_VC 针对_P 对流_NN 不_AD 稳定_VA 的_DEC 一_CD 种_M 气体_NN ，_PU 如果_CS 某_DT 个_M 元素_NN 离开_VV 原本_JJ 的_DEG 位置_NN 上升_LC ，_PU 浮力_NN 将_AD 导致_VV 它_PN 继续_AD 上升_VV ；_PU 或者_CC 如果_CS 是_VC 向下_AD 沉降_VV ，_PU 而_CC 它_PN 的_DEG 密度_NN 比_P 周围_NN 的_DEC 环境_NN 高_VA ，_PU 它_PN 将_BA 继续_VV 下沉_VV 。_PU 因此_AD ，_PU 史瓦_NN 西_NN 準_AD 则_AD 将_BA 决定_JJ 恒星_NN 内部_NN 的_DEG 元素_NN 将_AD 会_VV 上升_VV 或_CC 下沉_VV ；_PU 如果_CS 它_PN 是_VC 随_P 机波_NN 动_NOI 或_CC 遭遇_NN 外力_NN 而_MSP 离开_VV 原本_JJ 的_DEG 位置_NN ，_PU 则_AD 将_AD 会_VV 返回_VV 其_PN 原来_JJ 的_DEG 位置_NN 。_PU
+
+史瓦西_NN 準_AD 则_AD 能够_VV 制约_VV 的_DEC 位移_NN 元素_NN 必须_VV 有_VE 高于_VV 次音_NN 速_AD 的_DEG 整体_JJ 速度_NN 。_PU 如果_CS 出现_VV 这_DT 种_M 情况_NN ，_PU 则_AD 在_P 该_DT 元素_NN 周围_NN 的_DEG 压力_NN 随着_P 时间_NN 变化_NN 所_MSP 需要_VV 的_DEC 时间_NN 会_VV 比_P 声波_NN 通过_P 元素_NN 长_VA ，_PU 於是_AD 平滑_VV 的_DEC 压力_NN 出现_VV 了_AS 差异_NN ，_PU 元素_NN 和_CC 周围_NN 的_DEC 环境_NN 产生_VV 了_AS 压力_NN 差_VA 。_PU 如果_CS 不_AD 是_VC 这_DT 种_M 情况_NN ，_PU 则_AD 当_P 元素_NN 穿越_VV 恒_AD 星_NN 时_LC 将_AD 不_AD 会_VV 聚集_VV 在_P 一起_NN
+
+为了_P 维持_VV 元素_NN 在_P 恒星_NN 内部_NN 上升_VV 或_CC 下沉_VV ，_PU 位置_NN 移动_VV 的_DEC 元素_NN 密度_NN 必须_VV 与_P 周围_NN 的_DEC 气体_NN 不_AD 一样_VA 。_PU 换句话说_AD ，_PU 它_PN 必须_VV 与_P 周围_NN 的_DEC 环境_NN 绝_AD 热_VA 。_PU 为了_P 使_VV 此_DT 一_CD 现象_NN 成为_VV 事实_NN ，_PU 它_PN 必须_VV 移动_VV 得够_VV 快_VA ，_PU 才_AD 不_AD 会_VV 有_VE 足够_VA 的_DEC 时间_NN 和_CC 周边_NN 的_DEG 元素_NN 进行_VV 热_JJ 交换_NN 。_PU
+
+
+

@@ -1,0 +1,14 @@
+﻿惠勒_NN -_PU 德威_NN 特_CC 方程式_NN
+
+在_P 理论_NN 物理_NN 中_LC ，_PU 惠勒_NN -_PU 德威_NN 特_CC 方程式_NN （_PU ，_PU 简称_NN 惠_NN -_PU 德_NN 方程_NN ）_PU 是_VC 一_CD 个_M 描述_JJ 宇宙波_NN 函数_NN formula_NN 其中_NN 一_CD 个_M 波函数_NN 的_DEG 例子_NN 是_VC 哈妥_NR -_PU 霍金态_NN 。_PU
+
+简单说_AD ，_PU 惠_NN -_PU 德_NN 方程_NN 的_DEG 数学_NN 形式_NN 为_VC ：_PU
+其中_NN formula_NN
+广义_AD 来说_VV ，_PU 在_P 一_CD 个_M 时间_NN 尺度_NN 不_AD 变性_VV 的_DEC 理论_NN 中_LC ，_PU 哈_AD 密_VA 顿算_NN 符会_VV 是_VC 零_CD 。_PU
+
+虽然_CS 符号_NN 上_LC ，_PU formula_NN __NN 4_CD 与_P formula_NN __NN 5_CD 和_CC 传统_NN 非_AD 相对_AD 论性_JJ 量子_NN 力学_NN 所_MSP 用_VV 符号_NN 相同_VA ，_PU 然而_AD 诠释_VV 上_LC ，_PU 惠勒_NN -_PU 德威_NN 特_CC 方程式_JJ 则_NN 与_CC 非_JJ 相对_JJ 论性_JJ 量子_NN 力学_NN 中_LC 的_DEC 方程式_JJ 大相_JJ 迳庭_NN 。_PU formula_NN __NN 5_CD 不_AD 再_AD 是_VC 传统_NN 上_LC 空间_AD 波_M 函数_NN 的_DEC 观点_NN (_PU 即_AD 一_CD 复数_NN 值_NN 的_DEC 函数_NN ，_PU 定义_VV 於_P 3_CD 维_OD 类_M 空_JJ 表面_NN ，_PU 且_CC 归_P 一_CD 化_M 。_PU 相对_AD 地_DEV ，_PU 它_PN 是_VC 个_M 定义_JJ 於_NN 时_LC 空整体_NN 的_DEG 场_NN 结构_NN 的_DEC 泛函_NN 。_PU 此_DT 项波_NN 函数_NN 包含_VV 了_AS 所有_DT 关于_P 宇宙_NN 几何_PN 以及_CC 物质_NN 内涵_NN 的_DEG 所有_DT 资讯_NN 。_PU formula_NN __NN 4_CD 依然_AD 是_VC 作用_P 在_P 希尔_VV 伯_OD 特_M 空间_NN 中_LC 各_DT 个波_NN 函数_NN 上_LC 的_DEG 一_CD 项_M 算符_NN ，_PU 但是_CC 这_DT 个_M 希尔_NN 伯_NN 特_CC 空间_NN 已_AD 与_P 非_AD 相对_JJ 论性_JJ 量子_NN 力学_NN 中_LC 的_DEG 希尔_NN 伯_NN 特_CC 空间_NN 不同_VA ，_PU 而且_CC 哈密_NOI 顿_M 算符_NN 不_AD 再_AD 决定_JJ 系统_NN 的_DEG 演化_NN （_PU 所以_AD 薛定_VV 谔方_NN 程式_NN ——_PU formula_NN
+
+此_DT 方程_NN 式源_NN 自於_P ADM_NN 形式_NN 。_PU
+
+
+

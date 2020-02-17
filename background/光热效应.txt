@@ -1,0 +1,8 @@
+﻿_CS 光热_NN 效应_NN
+
+光热_NN 效应_NN 是_VC 与_P 电磁_NN 辐射_NN 相关_VV 的_DEC 现象_NN ，_PU 通过_P 材料_NN 的_DEC 产生_VV 热能_NN （_PU 热量_NN ）_PU 。_PU
+
+在_P 医学_NN 上_LC ，_PU 会_VV 用_P 光热_NN 效应_NN 来_MSP 治疗_VV 血管_NN ，_PU 或是_CC 进行_VV 、_PU 或_CC 激光_JJ 手术_NN 。_PU
+
+
+

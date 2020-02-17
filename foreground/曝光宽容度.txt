@@ -1,0 +1,6 @@
+﻿曝_VV 光宽_JJ 容度_NN
+
+曝光_VV 宽容度_NN ，_PU 或_CC 宽容度_NN ，_PU 指_VV 感光_NN 元件_NN 对于_P 不同_JJ 曝光_NN 时间_NN 下_LC 还原_VV 光线_NN 相对_AD 强度_NN 的_DEC 能力_NN 。_PU 宽容度_NN 高_VA 的_DEC 感光_NN 元件_NN ，_PU 在_P 曝光_NN 不_AD 足_VA 时_LC 有_VE 较_AD 小_VA 的_DEC 噪声_NN ；_PU 在_P 曝光_NN 过度_NN 时_LC 有_VE 较_AD 大_VA 的_DEC 饱和_JJ 阈值_NN ，_PU 从而_AD 都_AD 能够_VV 正确还_AD 原_LB 光线_NN 的_DEG 相对_JJ 强度_NN 。_PU
+
+
+

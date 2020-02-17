@@ -1,0 +1,18 @@
+﻿埃克_NN 曼数_NN
+
+埃克_NN 曼数_NN （_PU Ekmannumber_NN ，_PU 简称_VV Ek_NN ）_PU 是_VC 用来_VV 描述_VV 海洋_NN 及_CC 大气_NN 的_DEG 地球物_NN 理学_NN 现象_NN 的_DEG 无量_NN 纲数_NN 。_PU 埃克_NN 曼数_NN 是_VC 流体_NN 的_DEC 黏滞力_NN 和_CC 行星_NN 自转_NN 产生_VV 的_DEC 科里_JJ 奥利力_NN 的_DEC 比值_NN ，_PU 埃克_NN 曼数_NN 得名_AD 自_P 瑞典_NN 海_NN 洋学_NN 家沃恩_NN ·_PU 华费_NN 特_NN ·_PU 埃克曼_NN 。_PU
+
+埃克_NN 曼数_NN 也_AD 可以_VV 应用_VV 在_P 任何_DT 旋转_VV 的_DEC 流场_NN 中_LC ，_PU 此时_NT ，_PU 埃克_NN 曼数_NN 是_VC 其_PN 黏滞力_NN 及_CC 科氏力_NN 的_DEC 比值_NN 。_PU 当_P 埃克_NN 曼数_NN 小_VA 时_LC ，_PU 扰动_VV 在_P 受_VV 摩擦力_NN 影响_VV 而_CC 消失_VV 之前_NT 就_AD 会_VV 开始_VV 传播_VV 。_PU 埃克_NN 曼数_NN 描述_VV 埃_DT 克_M 曼层_NN 厚度_NN 的_DEG 量值_NN ，_PU 也就是_AD 粘滞_VV 力_NN 和_CC 科里_NN 奥利力_NN 平衡_VA 的_DEC 特殊_JJ 边界层_NN 。_PU
+
+埃克_NN 曼数_NN 的_DEC 定义_NN 如下_VV ：_PU
+
+其中_NN
+定义_NN 中_LC 的_DEG 2_CD Ω_M sin_NN φ_NN 是_VC 科里_NR 奥利_NN 频率_NN
+
+埃克_NN 曼数_NN 也_AD 可以_VV 用动_VV 粘滞_NN 系数_NN "_PU ν_NN "_PU 、_PU 角_NN 速度_NN Ω_NN 及_CC 特征_NN 尺度_NN "_PU L_CD "_PU 表示_VV ，_PU 例如_AD Tritton_NN 的_DEC 公式_NN 如_P 下_NN
+
+相反_VV 的_DEC NRLPlasmaFormulary_NN 的_DEC 公式_NN 如下_VV ：_PU
+
+其中_NN Ro_NN 是_VC 罗斯_DT 贝数_NN ，_PU 而_CC Re_NN 是_VC 雷_JJ 诺数_NN
+
+

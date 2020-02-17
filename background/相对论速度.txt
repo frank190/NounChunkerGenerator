@@ -1,0 +1,6 @@
+﻿_NN 相对论_P 速度_NN
+
+相对_JJ 论速度_NN ，_PU 是_VC 显著_AD 接近_VV 光速_NN 的_DEC 速度_NN ，_PU 这时_NT 计算_VV 物体_NN 在_P 时空_NN 中_LC 的_DEG 运动_NN 必须_VV 考虑_VV 到_VV 狭义_NN 相对论_P 效应_NN ，_PU 而_CC 不_AD 能_VV 使用_VV 低_JJ 速下_NN 近似_VA 的_DEC 牛顿_NN 力学_NN 。_PU 是_VC 以_P 相对_JJ 论速度_NN 运动_VV 的_DEC 亚_NN 原子_NN 粒子_NN ，_PU 当_P 速度_NN 达到_VV 光速_NN 的_DEG 10%_CD 时_LC ，_PU 牛顿_NN 力学_NN 就_AD 会_VV 有_VE 大约_CD 1%_CD 的_DEG 误差_NN 。_PU
+
+
+

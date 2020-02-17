@@ -1,0 +1,9 @@
+﻿坎_NN 德拉_NN
+
+坎德拉_NN （_PU ）_PU ，_PU 发光_JJ 强度_NN 的_DEC 单位_NN ，_PU 国际_NN 单位制_NN 七_CD 个_M 基本_JJ 单位_NN 之一_LC ，_PU 符号_NN 。_PU 1979年_NT 10月_NT 第十六_OD 届_M 国际_NN 计量_NN 大会_AD 将_BA 坎德_NN 拉_VV 定义_VV 为_VC ：_PU 给定_VV 一_CD 个_M 频率_NN 为_VC 540_CD ._PU 0154_CD ×_PU 10_CD Hz_M 的_DEC 单色_JJ 辐射_NN 光源_NN （_PU 黄_JJ 绿色_JJ 可见光_NN ）_PU 与_CC 一_CD 个_M 方向_NN ，_PU 且_CC 该_DT 辐射源_NN 在_P 该_DT 方向_NN 的_DEG 为_VC 1_CD /_PU 683_CD 瓦_M 特每_JJ 球面度_NN ，_PU 则_AD 该_DT 辐射源_NN 在_P 该_DT 方向_NN 的_DEG 发光_JJ 强度_NN 为_VC 1_CD 坎_NN 德拉_NN 。_PU 1_CD 坎_NN 德拉_NN 的_DEC 点状_JJ 光源_NN 所_MSP 发出_VV 的_DEC 总光_NN 通量_NN 为_VC 4_CD π_NN 流明_NN 。_PU 一_CD 支_M 普通_JJ 蜡烛_NN 的_DEG 发光_JJ 强度_NN 约_AD 为_VC 1_CD cd_M 。_PU
+
+中国_NR ，_PU 曾_AD 把_BA 每_DT 1_CD 瓦_M 的_DEG 白炽灯_NN 的_DEG 发光_JJ 强度_NN 称之为_VV 一_CD 支_M 烛光_NN ，_PU 例如_AD 25_CD 瓦_M 的_DEC 就_AD 称之_VV 为_VC 25_CD 支_M 烛光_NN 。_PU 其_PN 原因_NN 是_VC 一_CD 只_CC 220V_CD /_PU 100W_CD 的_DEG 白炽灯_NN 发出_VV 的_DEC 光_NN 通量_NN 约_AD 等于_VV 400_CD π_CD 流明_NN ，_PU 换算_VV 后_LC 每_DT 1_CD W_M 的_DEG 发光_NN 强度_NN 约_AD 为_VC 1_CD cd_M 。_PU
+
+与_P 通常_JJ 测量_NN 辐射_NN 强度_NN 或_CC 测量_NN 能量_NN 强度_NN 的_DEC 单位_NN 相_AD 比较_VV ，_PU 发光_JJ 强度_NN 的_DEC 定义_NN 考虑_VV 了_AS 人_NN 的_DEG 视觉_NN 因素_NN 和_CC 光学_NN 特点_NN ，_PU 是_VC 在_P 人_NN 的_DEG 视觉_NN 基础_NN 上_LC 建立_VV 起来_VV 的_SP 。_PU
+
+

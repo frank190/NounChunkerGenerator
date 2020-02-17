@@ -1,0 +1,12 @@
+﻿尔格_NN
+
+尔格_NN （_PU 英文_NN ：_PU Erg_NN ）_PU 是_VC 热量_NN 和_CC 做功_NN 的_DEC 单位_NN 。_PU 定义_NN 为_VC 1_CD 达因_VV 的_DEC 力使_NN 一克物体_NN 在_P 力_NN 的_DEG 方向_NN 上_LC 移动_VV 一_CD 厘米_M 所_MSP 作_VV 的_DEC 功_NN 。_PU
+
+1_CD 尔_NN 格=_NN 1_CD ._PU 0_CD 焦耳_NN
+
+1_CD 尔_NN 格=_NN 6_CD ._PU 2415_CD GeV_M =_PU 6_CD ._PU 2415_CD eV_NN
+
+1_CD 达_VV 因_P 厘米_NN =_NN 1_CD 尔格_NN ._PU
+
+
+

@@ -1,0 +1,11 @@
+﻿线性_JJ 化_NN 重力_NN
+
+线性_JJ 化重力_NN （_PU ）_PU 是_VC 广义_AD 相对_VV 论_NN 中_LC 一_CD 个_M 近似_JJ 方案_NN ，_PU 其_PN 忽略_NN 时_LC 空度规_NN 张量_VV 的_DEC 非_JJ 线性_JJ 贡献_NN 。_PU 这_PN 使得_VV 许多_CD 研究_NN 问题_NN 得以_VV 简化_VV 。_PU
+
+线性_JJ 化_NN 重力_NN 中_LC ，_PU 时空度_NN 规张量_NN formula_NN __NN 1_CD 处理_NN 为_VC 爱因_VV 斯_DT 坦场_NN 方程式_NN 的_DEG 一_CD 个_M 解_NN （_PU 通常_AD 是_VC 闵_NN 可_VV 夫_NN 斯_DT 基_NN 时空_NN ）_PU 与_P 一_CD 微扰项_NN formula_NN
+
+其_PN 中η_NN 是_VC 非_JJ 动态_JJ 的_DEG 背景度_NN 规_NN ，_PU 而_CC 被_SB 微扰_VV 了_AS formula_NN
+
+微扰项_NN 的_DEG 处理_NN 是_VC 采用_VV 微扰理论_NN 的_DEC 方法_NN 。_PU 形容词_NN 「_PU 线性化_NN 」_PU 表示_VV 对_P h作展_NN 开式_NN ，_PU 超过_VV 1_CD 次方_NN （_PU 线性项_NN ）_PU 以上_LC 的_DEG 微扰项_NN （_PU h_NN 的_DEG 二_OD 次_M 方项_NN 、_PU h_NN 的_DEG 三_CD 次_M 方项_NN 等_ETC 等_ETC …_PU …_PU ）_PU 被_LB 忽略_VV 。_PU
+
+

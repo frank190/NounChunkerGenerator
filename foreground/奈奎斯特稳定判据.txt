@@ -1,0 +1,35 @@
+﻿奈奎_NN 斯_AD 特_AD 稳定_VA 判据_NN
+
+在_P 控制_VV 理论_NN 和_CC 稳定性_JJ 理论_NN 中_LC ，_PU 奈奎_NN 斯_AD 特_AD 稳定_VA 判据_NN （_PU ）_PU 是_VC 贝尔_DT 实验室_NN 的_DEG 瑞典_NN 裔_VV 美国_NR 电气_NN 工程_NN 师哈_NN 里_LC ·_PU 奈奎_NN 斯特_VV 于_P 1932_CD 年_M 发现_VV ，_PU 用于_VV 确定_VV 动态_NN 系统_NN 稳定性_NN 的_DEC 一_CD 种_M 图形_NN 方法_NN 。_PU 由于_P 它_PN 只_AD 需_VV 检查_VV 对应_JJ 开环_NN 系统_NN 的_DEG 奈奎_NN 斯_DT 特_AD 图_NN ，_PU 可以_VV 不必准_AD 确计_VV 算闭环_NN 或_CC 开环_NN 系统_NN 的_DEG 零极点_NN 就_AD 可以_VV 使_VV 运用_NN （_PU 虽然_CS 必须_VV 已_AD 知_VV 右半_NN 平面_JJ 每_DT 一_CD 种_M 类型_NN 的_DEG 奇点_NN 的_DEG 数目_NN ）_PU 。_PU 因此_AD ，_PU 他_PN 可以_VV 用_VV 在_P 由_P 无_VE 理函_NN 数定义_NN 的_DEC 系统_NN ，_PU 如_P 时滞_NN 系统_NN 。_PU 与_P 波德图_NN 相比_VV ，_PU 它_PN 可以_VV 处理_VV 右半_NN 平面_AD 有_VE 奇点_NN 的_DEG 传递_NN 函数_NN 。_PU 此外_AD ，_PU 还_AD 可以_VV 很_AD 自然_VA 地_DEV 推广_VV 到_VV 具有_VV 多_CD 个_M 输入_NN 和_CC 多_CD 个_M 输出_VV 的_DEC 复杂_NN 系统_NN ，_PU 如_P 飞机_NN 的_DEG 控制_NN 系统_NN 。_PU
+
+奈奎_NN 斯_DT 特准_JJ 则广泛_NN 应用于_VV 电子_NN 和_CC 控制_NN 工程_NN 以及_CC 其他_DT 领域_NN 中_LC ，_PU 用以_VV 设计_VV 、_PU 分析_JJ 反馈_NN 系统_NN 。_PU 尽管_CS 奈奎_VV 斯_DT 特判_NN 据_AD 是_VC 最_AD 一般_JJ 的_DEG 稳定性_NN 测试_VV 之_VV 一_CD ，_PU 它_PN 还_AD 是_VC 限定_VV 在_P 线性_JJ 非_JJ 时_NN 变_VV （_PU LTI_NN ）_PU 系统_NN 中_LC 。_PU 非线性_JJ 系统_NN 必须_VV 使用_VV 更为_AD 复杂_VA 的_DEC 稳定性_NN 判据_NN ，_PU 例如_AD 李雅普_NN 诺_VV 夫_NN 或_CC 圆_NN 判据_NN 。_PU 虽然_CS 奈奎_NN 斯_AD 特_AD 判_VV 据_P 是_VC 一_CD 种_M 图形_NN 方法_NN ，_PU 但_CC 它_PN 只_AD 能_VV 提供_VV 为_VC 何_DT 系统_NN 是_VC 稳定_VA 的_DEC 或_CC 是_VC 不_AD 稳定_VA 的_DEC ，_PU 或_CC 如何_AD 将_BA 一_CD 个_M 系统_NN 改变_VV 得_VV 稳定_VA 的_DEC 有限_JJ 直观_NN 感受_NN 。_PU 而_CC 波德图_NN 等_ETC 方法_NN 尽管_CS 不_AD 太_AD 一般_AD ，_PU 有_VE 时却_NN 在_P 设计_NN 中_LC 更加_VV 有用_VA 。_PU
+
+考虑_VV 一_CD 个_M 线性_NN 系统_NN （_PU 例如_AD ，_PU 一_CD 个_M 控制器_NN ）_PU ，_PU 它_PN 的_DEG 开环_NN 传递_VV 函数_NN （_PU Open_NN -_PU loopTransferFunction_NN ）_PU 是_VC formulaformulaTransferFunction_NR ）_PU 则_AD 为_VC formulaformula_NN 并_CC 求解_VV 这_DT 个_M 方程_NN 的_DEC 根_NN ，_PU 例如_AD 劳斯表_NN 就_AD 是_VC 基_NN 於_P 这_DT 种_M 方法_NN ，_PU 其_PN 缺点_NN 是_VC 比较_VV 繁琐_VA 。_PU 事实_NN 上_LC ，_PU 只_AD 通过_P 考察_VV 这_DT 个_M 系统_NN 的_DEG 开环_NN 传递_VV 函数_NN （_PU ）_PU formula_NN
+
+任何_DT 拉普拉_NN 斯_DT 域_NN 中_LC 的_DEG 传递_NN 函数_NN formula_NN 都_AD 可_VV 表示_VV 为_VC 两_CD 个_M 多项式_JJ 的_DEG 比值_NN ：_PU formula_NN
+
+formula_NN 的_DEG 零点_NN 是_VC 方程_NN formula_NN __NN 9_CD 的_DEG 根_NN ，_PU formula_NN __NN 6_CD 的_DEG 极点_NN 是_VC “_PU 特征_NN 方程_NN ”_PU formula_NN
+
+formula_NN __NN 6_CD 的_DEG 稳定性_NN 由_P 它_PN 的_DEG 极点_NN 来_MSP 决定_VV ：_PU 只有_AD 当_P 系统_NN 的_DEG 每_DT 一_CD 个_M 极点_NN 的_DEC 实数_NN 部分_NN 都_AD 为_VC 负值_NN ，_PU 即极_NN 点_NN 都_AD 在_VV 左半_NN 平面_VA 时_LC ，_PU 系统_NN 才_AD 是_VC 稳定_VA 的_DEC 。_PU 而_CC 对於_P 一_CD 个_M 具有_VV 单位负_NN 反馈_VV 的_DEC 闭环_NN 系统_NN ，_PU 若_CS 其_PN 开环_NN 传递_VV 函数_NN 由_P formula_NN __NN 13_CD 给出_VV ，_PU 则_AD 闭环_NN 系统_NN 的_DEG 稳定性_NN 由_P 特征_NN 方程_NN formula_NN __NN 14_CD 来_MSP 决定_VV ，_PU 即_AD 等同于_VV 求_P 解_VV 方程_NN formula_NN
+
+根据_P 复_AD 分析_VV 理论_NN 特别_AD 是_VC 其中_NN 的_DEG 辐角_NN 原理_NN ，_PU 可以_VV 知道_VV 对于_P 复_AD 平面_JJ formula_NN 上_LC 的_DEC 一_CD 条_M 围道_NN formulaformula_NN 在_P 围道_NN 上_LC 没有_VE 极点_JJ 或_CC 零点_NN ，_PU 则_AD 围道_NN 可_VV 通过_P 函数_NN formula_NN 映射_VV 到_VV 另_DT 一_CD 平面_NN （_PU formula_NN 平面_NN ）_PU 。_PU 映射_NN 后_LC 的_DEG 围道_NN formula_NN 将_AD 卷绕_VV formula_NN 平面_NN 的_DEC 原点_NN formula_NN 次_NN ，_PU 而_CC formulaformula_NN 和_CC formula_NN 分别_AD 是_VC 函数_NN formula_NN 在_P 围道_NN formula_NN 内_LC 的_DEG 零点数_NN 和_CC 极点数_NN 。_PU 注意_VV 这里_PN 在_P 数_CD formula_NN 平面_NN 内_LC 的_DEG 卷绕_NN 数时是_NN 和_CC 围道_NN formula_NN 的_DEG 方向_NN 一致_VA 的_DEC ，_PU 从而_AD 反向_VV 的_DEC 卷绕_NN 会_VV 被_SB 计为_VV 负数_NN 。_PU
+
+奈奎_NN 斯_AD 特_AD 於_P 1932_CD 年_M 发表_VV 最初_NT 的_DEG 论文_NN 时_LC 没有_VV 采用_VV 辐角_NN 原理_NN ，_PU 相比_VV 之_DEC 下他_NN 所_MSP 用_VV 的_DEC 方法_NN 并_CC 不_AD 那么_AD 简洁_VA 优美_VA 。_PU 这里_PN 介绍_VV 的_DEC 方法_NN 类似於_P LeroyMacColl_NN （_PU 《_PU 伺服_NN 系统_VA 的_DEC 基础理论_NN 》_PU ，_PU 1945_CD 年_M ）_PU 和_CC 亨德_NN 里克_LC ·_PU 波特_NN （_PU 《_PU 网络_NN 分析_NN 和_CC 反馈_NN 放大_NN 设计_NN 》_PU ，_PU 1945_CD 年_M ）_PU 所_MSP 用_VV 的_DEC 方法_NN ，_PU 他们_PN 两_CD 人_NN 都_AD 在_P 贝尔_NR 实验_NN 室工_NN 作过_VV 。_PU 同时_AD 这_PN 也_AD 是_VC 当代_P 大多_CD 数_CD 有关_P 控制_VV 理论_NN 的_DEC 教科书_NN 上_LC 所_MSP 介绍_VV 的_DEC 方法_NN 。_PU
+
+首先_AD 建立_VV 一_CD 条_M 奈奎_NN 斯_DT 特围道_NN ，_PU 这_DT 条_M 围道_NN 包围_VV 了_AS 复_AD 平面_JJ 的_DEG 右半_NN 部分_NN ：_PU
+
+
+
+奈奎_NN 斯_DT 特围道_NN 通过_P 开环_NN 传递_VV 函数_NN formula_NN __NN 22_CD 的_DEG 映射_NN 即_AD 为_VC 函数_NN formula_NN __NN 22_CD 的_DEG 奈奎_NN 斯_DT 特_AD 图_NN 。_PU 根据_P 辐角_NN 原理_NN ，_PU 顺时针_AD 为正_VV 的_DEC 情况_NN 下_LC 卷绕_VV 原点_NN 的_DEC 次数_NN 等于_VV 函数_NN formulaj0_NN ）_PU 这_DT 一_CD 点_M 而_AD 非_JJ 原点_NN 的_DEC 次数_NN ，_PU 则_AD 可_VV 得知_VV 函数_NN formula_NN __NN 40_CD 在_P 右半_NN 平面_NN 中_LC 零点_NN 的_DEG 数量_NN 与_CC 右半_NN 平面_NN 中_LC 极点_NT 的_DEG 数量_NN 之_DEC 差_NN 。_PU 由于_P 方程_NN formula_NN __NN 41_CD 的_DEG 根就_NN 是_VC 闭_VV 环传递_NN 函数_NN 的_DEG 极点_NN ，_PU 并_CC 注意_VV 到_VV 方程_NN formula_NN __NN 41_CD 和_CC 方程_NN formula_NN
+
+对於_AD 给定_VV 的_DEC 奈奎_NN 斯_DT 特围道_NN formula_NN __NN 17_CD ，_PU 假设_VV formula_NN __NN 26_CD 是_VC 开环_NN 传递_VV 函数_NN formula_NN __NN 22_CD 在_P 围道_NN 内部_NN 的_DEG 极点_NN 数量_NN ，_PU formula_NN __NN 25_CD 是_VC 特征_NN 方程_NN formula_NN __NN 41_CD 在_P 围道_NN 内部_NN 的_DEC 根数量_NN ——_PU 因而_AD formula_NN __NN 25_CD 也_AD 是_VC 对应_VV 的_DEC 闭环_NN 传递_VV 函数_NN formula_NN __NN 50_CD 在_P 围道_NN 内部_NN 的_DEG 极点_NN 数量_NN ，_PU 从而_AD 奈奎_VV 斯_DT 特围道_NN 在_P formula_NN __NN 22_CD 平面_NN 内_LC 的_DEG 映射_NN formula_NN ,_PU j0_NN )_PU formula_NN __NN 23_CD 次_M ，_PU 其中_NN formula_NN __NN 54_CD 。_PU 对於_P 一_CD 个_M 稳定_NN 系统_NN ，_PU 要求_VV formula_NN __NN 55_CD 。_PU 也就是说_AD ，_PU 闭环_NN 传递_VV 函数_NN 在_P 右半_NN 平面_NN 上_LC 的_DEG 极点_NN 数_CD 必须_VV 为_VC 零_CD ，_PU 为_P 此_DT 开环_NN 传递_VV 函数_NN formula_NN ,_PU j0_NN )_PU 这_DT 一_CD 点_M 的_DEG 次数_NN 必须_VV 等于_VV formula_NN
+
+上面_NN 的_DEG 讨论_NN 都_AD 假定_VV 了_AS 开环_NN 传递_VV 函数_NN formula_NN __NN 18_CD 在_P 虚轴_NN 上_LC 没有_VE 任何_DT 极点_NN （_PU 即_AD 没有_VE 任何_DT 极点_NN 具有_VV 形式_NN formula_NN
+
+若_CS 要_VV 分析_VV 这_DT 类_M 极点_NN 在_P 虚轴_NN 上_LC 的_DEC 系统_NN ，_PU 需要_VV 对_P 奈奎_NN 斯_DT 特围_NN 道_NN 的_DEG 路径_NN 进行_VV 修改_NN ，_PU 使_VV 其_PN 绕过_P 极点_NT formula_NN __NN 59_CD 。_PU 一_CD 种_M 方法_NN 是_VC 在_P 极点_NN formula_NN __NN 59_CD 附近_NN 建立_VV 一_CD 个_M 很_AD 小_VA 的_DEC 半圆弧_NN ，_PU 其_PN 半径_NN formula_NN __NN 62_CD ，_PU 起始于_VV formula_NN __NN 63_CD 并_CC 经_P 逆时针_JJ 绕到_NN formula_NN __NN 64_CD 。_PU 这_DT 一_CD 修改意_NN 味着_VV 在_P 这_DT 一_CD 极点_NN 处_NN ，_PU formula_NN __NN 18_CD 的_DEG 相_NN 矢量_VV 在_P 一_CD 段_M 无限_AD 远为_VV 半径_NN 的_DEG 圆弧_NN 上_LC 转_VV 了_AS formula_NN __NN 66_CD 角度_NN ，_PU 其中_NN formula_NN
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+﻿劳_NN 厄方_NN 程式_NN
+
+劳厄_NN 方程式_NN ，_PU 为_VC 德国_NN 科学家_NN 马克_NN 斯_NN ·_PU 冯_NN ·_PU 劳厄_NN 於_P 1912_CD 年_M 所_MSP 提出_VV ，_PU 劳厄_NN 方程式_NN 的_DEG 三_CD 个_M 等式_NN ，_PU 说明_VV 了_AS 入射光_NN 被晶格_NN 绕射_VV 的_DEC 情形_NN ，_PU 简化_VV 后_LC 可以_VV 得到_VV 布拉格_NN 定律_VV 。_PU
+
+考虑_VV 三_CD 个_M 向_P 量_NN ：_PU formula_NN 、_PU formula_NN 、_PU formula_NN ，_PU 并_CC 设_VV
+formula_NN __NN 4_CD 及_CC formulaO_NN 与_CC A、O_NN 与_CC B、O_NN 与_P C_NN 绕射_VV (_PU 同_PN 相_AD )_PU 将_BA :_PU
+
+当_P 这_DT 三_CD 个_M 方程式_NN 同时_AD 成立_VV ，_PU 入_VV 射波_NN 将_BA 从_P (_PU h_NN /_PU n_NN ,_PU k_NN /_PU n_NN ,_PU l_NN /_PU n)_NN 面_NN 反射_NN 。_PU
+
+这_DT 三_CD 个_M 方程式_NN 可_VV 归纳_VV 成_VV ，_PU 当_P 绕射_NN 产生_VV 时_LC ，_PU r_NN ._PU (S/_NN λ_NN -_PU S_NN /_PU λ_NN )_PU 为_VC 整数_NN 且_CC 满足_VV :_PU
+
+即_AD
+
+上式_JJ 说明_NN OH_NN =_PU S_NN /_PU λ_NN -_PU S_NN /_PU λ_NN 为_VC 倒晶_NN 格向_NN 量_NN ，_PU 且_CC h_NN ,_PU k_NN ,_PU l_NN 为_VC 整数_NN ，_PU 是为_AD 绕射_VV 产生_VV 的_DEC 倒晶格_NN 模式_NN 。_PU
+
+由_P 衍射_NN 理论_NN 导出_VV 的_DEC formula_NN 。_PU 可以_VV 用_VV 劳厄_NN 方程_NN 给出_VV 。_PU 劳厄_NN 方程_NN 之_DEG 所_MSP 以_VV 有_VE 价值_NN ，_PU 是_VC 因为_P 其_PN 在_P 几何_DT 描述_NN 上_LC 的_DEG 优势_NN 。_PU
+劳厄_NN 方程_NN 有_VE 一_CD 个_M 简单_VA 而_CC 清晰_VA 的_DEC 几何_JJ 诠释_NN 。_PU 第一_OD 个_M 方程_NN 告诉_VV 我们_PN ，_PU formulaformulaformula_NN
+因此_AD ，_PU 反射_VV 的_DEC formula_NN
+请_VV 参考_VV P.P_NN ._PU Ewald_NN ,_PU 1962_CD ,_PU IUCr_NN ,_PU 50YearsofX-rayDiffraction,Section4,_PU page_NN 52_CD ._PU
+
+

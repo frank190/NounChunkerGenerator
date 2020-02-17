@@ -1,0 +1,11 @@
+﻿_NN 三_CD 力_NN 平衡_NN
+
+三力_NN 平衡_NN 是_VC 只_AD 当_P 系统_NN 只_AD 受_VV 三_CD 个_M 力_NN 作用_NN 时_LC ，_PU 讨论_VV 该_DT 物体_NN 会_VV 发生_VV 的_DEC 变化_NN 。_PU
+
+若物体_NN 或_CC 一_CD 系统_NN 受到_VV 不_AD 平行_VV 的_DEC 三_CD 个_M 作用力_NN 而_MSP 达_VV 平衡_VA 时_LC ，_PU 由于_P 三_CD 力_NN 合力_NN 为_VC 零_CD ，_PU 故_AD 任何_DT 两_CD 力_NN 的_DEG 合力_NN 必_AD 和_CC 第三_OD 个_M 力_NN 等_ETC 大_JJ 反向_NN ，_PU 才_AD 合力_VV 为_VC 零_CD ，_PU 所以_AD 三力_NN 必_AD 为_VC 共平面_NN 且_CC 可_VV 构成_VV 一_CD 个_M 封闭_VV 三角形_NN 。_PU 当_P 我们_PN 将_BA 任何_DT 两_CD 力_NN 的_DEG 合力_NN 视为_VV 一_CD 力_NN 时_LC ，_PU 此时_NT 其_PN 与_P 第三_OD 力_M 之_DEG 关系_NN 也_AD 能_VV 用_P 二_CD 力_M 平衡_NN 来_MSP 解释_VV 。_PU
+若_CS 不_AD 平行_VV 三力_NN 达静力_NN 平衡_NN ，_PU 则_AD 此_DT 三力_NN 之_DEC 延长线_NN 必_AD 交_VV 於_P 一_CD 点_M ，_PU 且_CC :_PU
+
+如_P 右图_NN
+
+
+

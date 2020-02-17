@@ -1,0 +1,9 @@
+﻿振幅_NN
+
+振幅_NN 是_VC 在_P 波动_NN 或_CC 振动_NN 中_LC 距离_VV 平衡_NN 位置_NN 或_CC 静止_NN 位置_NN 的_DEC 最大_JJ 位移_NN 。_PU 符号_NN A_NN ，_PU 单位米_NN 。_PU 振_CD 幅_M 属于_VV 标量_NN ，_PU 振幅_NN 永_AD 为_VC 非_JJ 负值_NN （_PU ≥_NN 0_CD ）_PU 。_PU
+
+在_P 下图_NN 中_LC ，_PU 位移_NN “_PU y_NN ”_PU 表示波_NN 的_DEC 振幅_NN 。_PU
+系统_NN 振动_NN 中_LC 最_AD 大_JJ 动态_NN 位移_NN ，_PU 称为_VV 振幅_NN 。_PU
+
+
+

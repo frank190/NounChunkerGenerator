@@ -1,0 +1,37 @@
+﻿_CD POSIX_NN 线程_NN
+
+POSIX_NN 线程_NN （_PU ，_PU 常_AD 被_SB 缩写_VV 为_VC ）_PU 是_VC POSIX_NN 的_DEC 线程_NN 标准_NN ，_PU 定义_VV 了_AS 创建_NN 和_CC 操纵_NN 线程_NN 的_DEC 一_CD 套_M API_NN 。_PU
+
+实现_VV POSIX_NN 线程_NN 标准_NN 的_DEC 库常_NN 被_SB 称作_VV Pthreads_NN ，_PU 一般_AD 用于_VV Unix_NN -_PU likePOSIX_NN 系统_NN ，_PU 如_P Linux_NN 、_PU Solaris_NN 。_PU 但_AD 是_VC MicrosoftWindows_NR 上_LC 的_DEG 实现_NN 也_AD 存在_VV ，_PU 例如_AD 直接_AD 使用_VV WindowsAPI_NN 实现_VV 的_DEC 第三_OD 方库_NN pthreads_NN -_PU w32_NN ；_PU 而_MSP 利用_VV Windows_NN 的_DEG SFU_NN /_PU S_CD U_M A子_NN 系统_NN ，_PU 则_AD 可以_VV 使用_VV 微软_NN 提供_VV 的_DEC 一_CD 部分_NN 原_VV 生_VV POSIXAPI_NN 。_PU
+
+Pthreads_NN 定义_VV 了_AS 一_CD 套_M C_NN 语言_NN 的_DEC 类型_NN 、_PU 函数_NN 与_CC 常量_NN ，_PU 它_PN 以_P pthread_NN ._PU h_NN 头_NN 文件_NN 和_CC 一_CD 个_M 线程库_NN 实现_VV 。_PU
+
+PthreadsAPI_NN 中_LC 大致_AD 共有_VV 100_CD 个_M 函数_NN 调用_VV ，_PU 全都_AD 以_P "_PU pthread_NN
+
+POSIX_NN 的_DEG SemaphoreAPI_NN 可以_VV 和_P Pthreads_NN 协同_JJ 工作_NN ，_PU 但_CC 这_PN 并_AD 不_AD 是_VC Pthreads_NN 的_DEG 标准_NN 。_PU 因而_AD 这_DT 部分_NN API_NN 是_VC 以_P "_PU sem_NN __NN "_PU 打头_NN ，_PU 而_CC 非_VC "_PU pthread_NN
+
+线程_NN 操纵_NN 函数_NN （_PU 简介_NN 起见_VV ，_PU 省略_VV 参数_NN ）_PU :_PU
+线程_NN 属性_JJ 函数_NN ：_PU
+
+mutex_NN 函数_NN ：_PU
+
+条件_NN 变量_NN 函数_NN ：_PU
+
+线程_NN 私_AD 有_VE 存储_NN （_PU Thread_NN -_PU localstorage_NN ）_PU :_PU
+
+同步_AD 屏障_VV 函数_NN
+其它_DT 多线程_NN 同步_AD 函数_NN ：_PU
+工具_NN 函数_NN ：_PU
+
+信号量_NN 函数_NN ，_PU 包含_VV 在_P semaphore_NN ._PU h_NN 中_LC ：_PU
+
+共享_JJ 内存_NN 函数_NN ，_PU 包含_VV 在_P sys_NN /_PU mman_NN ._PU h_NN 中_LC ，_PU 链接_NN 时_LC 使用_VV rt库_NN ：_PU
+
+C_NN 中_LC 使用_VV Pthreads_NN 的_DEG 示例_NN ：_PU
+
+这_DT 段_M 程序_NN 创建_VV 了_AS 一_CD 个_M 新_JJ 线程_NN ，_PU 打印_VV 含有_VV “_PU b_NN ”_PU 的_DEC 行_NN ，_PU 主线程_NN 打印_VV 含有_VV “_PU a_NN ”_PU 的_DEC 行_NN 。_PU 当_P 两_CD 个_M 线程_NN 相互_AD 切换_VV 执行_VV 时_LC 输出_NN 结果_NN 为_VC '_PU a_NN '_PU 和_CC '_PU b_CD '_PU 交替_VV 出现_VV 。_PU
+
+
+
+
+

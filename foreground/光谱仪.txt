@@ -1,0 +1,11 @@
+﻿光_NN 谱仪_NN
+
+光谱仪_NN （_PU Spectroscope_NR ）_PU 是_VC 将_BA 成分_NN 复杂_VA 的_DEC 光_NN ，_PU 分解_VV 为_VC 光谱线_NN 的_DEG 科学_NN 仪器_NN ，_PU 由_P 棱镜_NN 或_CC 衍射_NN 光栅_NN 等_ETC 构成_VV 。_PU 利用_VV 光谱仪_NN 可_VV 测量_VV 物体_NN 表面_NN 反射_VV 的_DEC 光线_NN 。_PU 阳光_NN 中_LC 的_DEG 七_CD 色_NN 光_AD 是_VC 肉眼_NN 能_VV 分_NN 的_DEC 部分_NN （_PU 可_VV 见_VV 光_NN ）_PU ，_PU 但_CC 若_CS 通过_P 光谱仪_NN 将_BA 阳光_NN 分解_VV ，_PU 按_P 波长_NN 排列_VV ，_PU 可_VV 见光_AD 只_AD 佔_VV 光谱_NN 中_LC 很_AD 小_VA 的_DEC 范围_NN ，_PU 其余_PN 都_AD 是_VC 肉眼_NN 无法_AD 分辨_VV 的_DEC 光谱_NN ，_PU 如_P 红外线_NN 、_PU 微波_NN 、_PU 紫外线_NN 、_PU X射线_NN 等等_NN 。_PU 通过_P 光谱仪_NN 对_P 光_NN 信息_NN 的_DEC 抓取_NN 、_PU 以_P 照相_NT 底片_NN 显影_VV ，_PU 或_CC 电脑化_NN 自动_AD 显示_VV 数值_NN 仪器_NN 显示_NN 和_CC 分析_NN ，_PU 从而_AD 测_VV 知_VV 物品_NN 中_LC 含有_VV 何_DT 种_M 元素_NN 。_PU 光谱仪_NN 是_VC 应用_VV 光学_NN 原理_NN ，_PU 对_P 物质_NN 的_DEG 结构_NN 和_CC 成分_NN 进行_VV 观测_NN 、_PU 分析_VV 和_CC 处理_VV 的_DEC 基本_NN 设备_NN ，_PU 具有_VV 分析_NN 精度_NN 高_VA 、_PU 测量_NN 范围_NN 大_VA 、_PU 速度_NN 快_VA 和_CC 样品_NN 用_VV 量_NN 少_VA 等_ETC 优点_NN 。_PU 因此_AD ，_PU 其_PN 广泛_AD 应用于_VV 冶金_NN 、_PU 地质_NN 、_PU 石油化工_NN 、_PU 医药_NN 卫生_NN 、_PU 环境_NN 保护_VV 等_ETC 部门_NN 。_PU 也_AD 是_VC 军事_NN 侦察_VV 、_PU 宇宙_NN 探索_VV 、_PU 资源_NN 和_CC 水文勘_NN 测_VV 所_MSP 必_VV 不_AD 可_VV 少_VA 的_DEC 仪器_NN 。_PU
+
+又称_JJ 分光仪_NN 。_PU 以_P 光电倍_NN 增管_NN 等_ETC 光_NOI 探测器_NN 在_P 不同_JJ 波长_NN 位置_NN ，_PU 测量_VV 谱线_NN 强度_NN 的_DEC 装置_NN 。_PU 其_PN 构造_VV 由_P 一_CD 个_M 入_VV 射狭缝_NN ，_PU 一_CD 个_M 色散_NN 系统_NN ，_PU 一_CD 个_M 成像_NN 系统_NN 和_CC 一_CD 个_M 或_CC 多_CD 个_M 出射狭缝_NN 组成_VV 。_PU 以_P 色散_NN 元件_NN 将_BA 辐射源_NN 的_DEG 电磁_NN 辐射_NN 分离_VV 出_VV 所_MSP 需要_VV 的_DEC 波长_NN 或_CC 波长_NN 区域_NN ，_PU 并_CC 在_P 选定_VV 的_DEC 波长_NN 上_LC （_PU 或_CC 扫描_NN 某_DT 一_CD 波段_NN ）_PU 进行_VV 强度_NN 测定_VV 。_PU 分为_AD 单色_JJ 仪_NN 和_CC 多色仪_JJ 两_CD 种_M 。_PU
+
+将_BA 复色_JJ 光分_NN 离成_VV 光谱_NN 的_DEC 光学_NN 仪器_NN 。_PU 光谱仪_NN 有_VE 多种_JJ 类型_NN ，_PU 除_P 在_P 可_VV 见光_VV 波段_NN 使用_VV 的_DEC 光_NN 谱仪_NN 外_LC ，_PU 还_AD 有_VE 红外光_NN 谱仪_NN 和_CC 紫外_NN 光谱仪_NN 。_PU 按_P 色散_NN 元件_NN 的_DEG 不同_JJ 可_VV 分为_VV 棱镜_NN 光谱仪_NN 、_PU 光栅_NN 光谱仪_NN 和_CC 干涉_VV 光谱仪_NN 等_ETC 。_PU 按_P 探测_NN 方法分_NN ，_PU 有_VE 直接_AD 用_P 眼_NN 观察_VV 的_DEC 分光镜_NN ，_PU 用_P 感光片_NN 记录_VV 的_DEC 摄谱仪_NN ，_PU 以及_CC 用_P 光电_NN 或_CC 热电_NN 元件_NN 探测_VV 光谱_NN 的_DEC 分光_NN 光度_NN 计_NN 等_ETC 。_PU 单_AD 色仪_NN 是_VC 通过_P 狭缝_NN 只_AD 输出_VV 单色_JJ 谱线_NN 的_DEC 光_NN 谱仪器_NN ，_PU 常_AD 与_P 其他_DT 分析_NN 仪器_NN 配合_VV 使用_VV 。_PU
+
+
+
+

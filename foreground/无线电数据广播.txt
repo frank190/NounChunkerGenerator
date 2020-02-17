@@ -1,0 +1,51 @@
+﻿无线_NN 电数_NN 据_P 广播_VA
+
+无_VE 线电_NN 数据_NN 广播_VA （_PU 英语_NN ：_PU RadioDataSystem_NN ,_PU RDS_NN ）_PU 是_VC 一_CD 种_M 在_P 传统_JJ 的_DEG 调频_NN 广播_NN 中_LC 嵌入_VV 少量_JJ 的_DEG 数字_NN 信息_NN 的_DEC 通信_NN 协议_NN 标准_NN 。_PU RDS_NN 规范_VV 了_AS 几_CD 种_M 类型_NN 的_DEG 信息_NN 传输_NN ，_PU 包括_VV 时间_NN 、_PU 局_NN （_PU 站_NN ）_PU 识别_NN 和_CC 节目_NN 信息_NN 。_PU
+
+此_DT 标准_NN 开始_VV 是_VC 作为_P 欧洲_NN 广播_AD 联盟_VV 的_DEC 一_CD 个_M 项目_NN ，_PU 但_CC 现在_NT 已经_AD 成为_VV 国际_NN 电工_NN 委员_NN 会_VV 的_DEC 国际_NN 标准_NN 。_PU
+
+RBDS_NN （_PU RadioBroadcastDataSystem_NN ）_PU 是_VC 美国_NR 版RDS_NN 的_DEG 正式_JJ 名称_NN 。_PU 这_DT 两_CD 个_M 标准_NN 只是_AD 略有_VV 不同_VA 。_PU
+
+由于_P 在_P 57千_CD 赫_M 的_DEG 子载波_NN 上_LC 以_P 1187_CD ._PU 5_CD bps_M 的_DEG 速率_NN 同时_AD 传输_VV 数据_NN ，_PU 因此_AD ，_PU 在_P 每_DT 一_CD 个_M 数据位_NN 中_LC 都_AD 有_VE 48_CD 个_M 周期_NN 的_DEC 副_JJ 载波_NN 。_PU RDS_NN 的_DEC 副载波_NN 设置_VV 为_VC 19_CD kHz_M 的_DEG 调频_NN 立体声_NN 导频音_NN 的_DEC 第三_OD 谐波_NN 以_MSP 减少_VV 数据_NN 信号_NN 之间_LC 的_DEG 干扰_NN 和_CC 互相_AD 调制_VV ，_PU 立体声_NN 导频_NN 和_CC 38_CD kHzDSB_NN -_PU S_NOI C_NN 立体声_NN 差_NN 信号_NN 。_PU （_PU 立体声_NN 差_NN 信号_NN 至多_AD 延伸_VV 至_VV 53千_CD 赫_M ，_PU 给_P RDS_NN 信号_NN 留下_VV 4千_CD 赫_NN 的_DEG 下边带_NN 。_PU ）_PU
+
+使用_VV 该_DT 协议_NN 的_DEG 数据_NN 在_P 发送_VV 时_LC 可以_VV 纠错_VV 。_PU RDS_NN 规定_VV 了_AS 包括_VV 私人_JJ （_PU 内部_NN ）_PU 功能_NN 及_CC “_PU 打包_NN ”_PU 未_AD 定义_VV 的_DEC 功能_NN 在内_VV 的_DEC 许多_CD 功能_NN 。_PU
+
+RDS_NN 的_DEG 出现_NN 是_VC 受到_VV 了_AS 汽车_NN 广播_NN 信息_NN 系统_NN （_PU Autofahrer_NN -_PU Rundfunk_NN -_PU Informationssystem_NN ,_PU ARI_NN ）_PU 的_DEG 启发_NN 。_PU
+ARI_NN 用_P 57_CD kHz_NN 的_DEC 载波_NN 指示_VV 交通_NN 信息_NN 。_PU
+
+EBU_NN 技术_NN 委员_NN 会_VV 发起_VV 了_AS 一_CD 个_M 项目_NN ，_PU 在_P 1974_CD 年_M 巴黎_NN 会议_NN 制定_VV 一_CD 个_M 类似于_VV ARI_NN 的_DEC 系统_NN ，_PU 但_CC 它_PN 更_AD 灵活_VA —_PU —_PU 能够_VV 自动_AD 重新_VV 调整_VV 接收器_NN ，_PU 并_CC 在_P 一_CD 个_M 广播_NN 网络_NN 传送_VV 多_CD 个_M 不同_JJ 频率_NN 的_DEG 广播_NN 节目_VV 。_PU 调制_NN 系统_NN 基于_P 瑞典_NN 的_DEG 寻呼_NN 系统_NN ，_PU 基带_NN 编码_NN 是_VC 新_JJ 设计_NN ，_PU 主要_AD 由_P 英国_NR 广播_JJ 公司_NN 和_CC IRT_NN 开发_VV 。_PU EBU_NN 在_P 1984_CD 年_M 首次_JJ 发布_NN RDS_NN 规范_NN 。_PU
+
+选择_VV 频率_NN 功能_NN 的_DEG 增强_NN 被_SB 添加_VV 到_VV 标准_NN ，_PU 1990_CD 年_M ，_PU 它_PN 成为_VV 欧洲_NN 电工_NN 标准化_NN 委员_NN 会_VV (_PU CENELEC_NN )_PU 公布_NN 的_DEG 标准_NN 。_PU
+
+1992_CD 年_M 美国_JJ 国家_NN 无_VE 线电_NN 委员_NN 会_VV 发布_VV RDS_NN 标准_NN 的_DEC 北美版_NN ，_PU 即_AD RBDS_NN 。_PU 1992_CD 年_M ，_PU CENELEC_NN 的_DEG 标准_NN 添加_VV 关于_P 交通_NN 信息_NN 频道_NN 的_DEG 内容_NN ，_PU 1998_CD 年_M ，_PU 添加_VV 开放_VV 数据_NN 应用_NN 。_PU 2000_CD 年_M ，_PU RDS_NN 成为_VV IEC_NN 标准_NN 62106_CD 。_PU
+
+RDS_NN 论坛_NN 决定_VV 在_P 其_PN 年度_NN 会议_NN （_PU 2015_CD 年_M 6月8_NN 日_AD 至_P 9日_NT 召开_VV ）_PU 带来_VV 新_VA 的_DEC 标准_NN ——_PU RDS2_NN 。_PU
+
+
+以下_JJ 信息_NN 字段_NN 通常_AD 包含_VV 在_P RDS_NN 数据_NN 中_LC ：_PU
+
+
+
+
+
+
+
+
+
+就_AD 实施_VV 而_MSP 言_VV ，_PU 大_VA 多数_CD 汽车_NN 音响_NN 将_AD 至少_AD 支持_VV AF_NN ，_PU EON_NN ，_PU REG_NN ，_PU PS_NN 和_CC TA_NN 、_PU TP_NN 。_PU
+RDS_NN 用于_VV 便携式_JJ 音频_NN 和_CC 导航_NN 设备_NN 越来越_AD 多_VA ，_PU 是_VC 因为_P 由于_P 价格_NN 较_AD 低_VA 、_PU 占地_NN 面积_NN 小_VA 。_PU
+
+下_DT 表_NN 列出_VV 了_AS RDS_NN 和_CC RBDS_NN 节目_NN 类型_NN （_PU PTY_NN ）_PU 码及_VV 其_PN 含义_NN ：_PU
+后来_VV 的_DEC RBDS_NN 标准_NN 不_AD 匹配_VV 原来_JJ 的_DEG RDS_NN 的_DEG 计划_NN ，_PU 因此_AD 几_CD 个_M 相同_VA 的_DEC 广播_NN 格式_NN 给出_VV 了_AS 不同_VA 的_DEC 数字_NN ，_PU 包括_VV 爵士乐_NN ，_PU 天气_NN ，_PU 体育_NN ，_PU 和_CC 摇滚_NN 。_PU
+
+此外_AD ，_PU RDS_NN 是_VC 提出_VV 在_P 加利_NN 福尼亚_NN 的_DEC “_PU 可_VV 编程_VV 通讯_NN 恒温器_NN ”_PU 的_DEG 数据_NN 传输_VV 协议_NN （_PU PCT_NN ）_PU 程序_NN 。_PU 该_DT 技术_NN 将_BA 使_VV 电力_NN 消费者_NN 接触_VV 到_VV “_PU 时_NN 基_NN 定价_NN ”_PU 。_PU
+
+自_P 2000_CD 年初_NN ，_PU RDS_NN 副载波_NN 一直_AD 在_P 澳大_NR 利亚_NN 用作_VV 峰值_NN 功率_NN 的_DEG 控制_NN 。_PU
+
+在_P 瑞典_NN ，_PU RDS_NN 的_DEG PTY_NN 信号_NN 被_SB 用来_VV 让_VV 公共_NN 服务_NN 广播_AD 进入_VV 商业_NN 电台_NN 以_MSP 播送_VV 紧急_JJ 情况_NN 的_DEC 警告_NN 。_PU
+许多_CD RDS_NN 芯片_NN 组_NN 由_P 意法_NN 半导体_NN 、_PU 恩智浦_NN 半导体_NN 等_ETC 厂商_NN 提供_VV 。_PU
+
+
+
+
+

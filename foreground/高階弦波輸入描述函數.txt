@@ -1,0 +1,17 @@
+﻿高_VV 阶弦波_NN 输入_VV 描述_JJ 函数_NN
+
+高阶_JJ 弦波_NN 输入_VV 描述_JJ 函数_NN 简称_VV HOSIDF_NN ，_PU 最早_AD 是_VC 由_P P.W.J.M.Nuij_NN 开始_VV 使用_VV 的_DEC 。_PU 是_VC 弦波_NN 输入_VV 描述_JJ 函数_NN 的_DEG 延伸_NN ，_PU 描述_VV 在_P 弦_OD 波_M 输入_NN 信号_NN ，_PU 系统_NN 在_P 各_DT 谐波_NN 的_DEG 响应_NN （_PU 增益_NN 及_CC 相位_NN ）_PU 。_PU HOSIDF_NN 和_CC 经典_VV 的_DEC 频率_NN 响应_NN 函数_NN 有_VE 直观_VA 上_LC 的_DEG 相似_JJ 性_NN ，_PU 定义_VV 一_CD 个_M 稳定_VA 、_PU 因果_VA 、_PU 时_LC 不_AD 变_VV 的_DEC 非线性_JJ 系统_NN 在_P 以下_JJ 弦波_NN 输入_VV 下_LC 的_DEG 周期性_NN 输出_NN ：_PU
+
+formula_NN
+
+输出_VV 为_VC formula_NN
+
+formula_NN
+
+定义_NN 输入_NN 及_CC 输出_NN 信号_NN 的_DEC 单边_NN 频谱_VV 为_VC formula_NN __NN 4_CD 及_CC formulaformula_NN
+
+formula_NN
+
+HOSIDF_CD 的_DEG 应用_NN 及_CC 分析_VV 在_P 已_AD 识別_VV 非_VC 线性_JJ 模型_NN 时_LC 有_VE 其_PN 优势_NN ，_PU 若_CS 完全_AD 不_AD 知道_VV 其_PN 模型_NN ，_PU 也_AD 有_VE 其_PN 优势_NN 。_PU 后者_NN 的_DEG 优势_NN 在于_VV HOSIDF_NR 不_AD 太_AD 需要_VV 对_P 系统_NN 有所_AD 假设_VV ，_PU 在_P 不_AD 使用_VV 先进_JJ 数学_NN 工具_NN 的_DEG 情形_NN 下_LC 可以_VV 轻松_VV 进行_VV 识別_NN 。_PU 就_AD 算_VV 已_AD 识_VV 別_NN 出_VV 非_VC 线性_JJ 模型_NN ，_PU H_AD O_P S_CD IDF_NN 仍_AD 比_P 使用_VV 已_AD 识別_VV 的_DEC 非线性_JJ 模型_NN 要好_VA 。_PU HOSIDF_NN 在_P 其_PN 识別_NN 及_CC 解释_NN 上_LC 是_VC 直观_VA 的_DEC ，_PU 而_CC 其他_DT 非线性_JJ 模型_NN 会_VV 受_VV 实际_NN 系统_NN 特性_NN ，_PU 只_AD 能_VV 收到_VV 有限_VA 的_DEC 直接_JJ 资讯_NN 。_PU 而且_CC 在_P 非_AD 线性_JJ 无法_AD 忽略_VV 的_DEC 应用_NN 中_LC ，_PU HOSID_VV F_CD 是_VC 描述_JJ 函数_NN 很_AD 自然_VA 的_DEC 延伸_NN 。_PU 实务_NN 上_LC HOSIDF_NR 有_VE 二_CD 个_M 不同_VA 的_DEC 应用_NN ：_PU 因为_P 在_P 识別_NN 上_LC 的_DEG 容易_VA ，_PU HOSID_VV F_CD 可以_VV 在_P 系统_NN 设计_VV 时_LC 提供_VV 在_P 线_NN 的_DEG 测试_NN 。_PU 而_CC 将_BA HOSIDF_NN 应用_VV 在_P 非_AD 线性_JJ 控制器_NN 设计_VV ，_PU 会_VV 较_AD 传统_VA 的_DEC 时_NN 域_NN 调适_NN 效果_NN 有_VE 显著_VA 的_DEC 提昇_NN 。_PU
+
+

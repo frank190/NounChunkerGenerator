@@ -1,0 +1,19 @@
+﻿索_NN 末_LC 菲_BA 恒等式_JJ
+
+索末菲_NN 恒等式_JJ  _NN 是_VC 由_P 阿诺德_NN 索_VV 末菲_NN 提出_VV 的_DEC 一_CD 个_M 数学_NN 恒_AD 等式_VV ，_PU 该_DT 恒等式_JJ 用于_VV 波传_NN 播理论_NN 中_LC ，_PU
+
+其中_NN
+
+取正_VV 实数_NN 部分_NN ，_PU 以_MSP 确_AD 保积_VV 分收敛_NN 和_CC  _NN formula_NN
+
+formula_NN 表示_VV 到_VV 原点_NN 的_DEG 距离_NN ，_PU 同时_AD formula_NN __NN 6_CD 是_VC formula_NN 柱_NN 坐标_NN 系统_NN 中_LC 到_VV 圆柱_NN 中心轴_NN 的_DEG 距离_NN 。_PU 这里_PN 贝塞尔_NN 函数_NN 的_DEG 符号_NN 遵循_VV 德国_NR 惯例_NN ，_PU 与_P 索末菲_NN 使用_VV 的_DEC 原始_JJ 符号_NN 一致_VA 。_PU formula_NN __NN 8_OD 第一_OD 类_M 零_OD 阶_M 贝塞尔_NN 函数_NN ，_PU 在_P 英文_NN 文献_NN 中_LC 通常_AD 标记_VV 为_VC formula_NN 。_PU
+
+索末菲_NN 恒_CC 等式_JJ 可以_VV 更_AD 容易_VA 地_DEV 看作_VV 是_VC 球面波_NN 特别_AD 是_VC 圆柱_NN 对_P 称波_VV 的_DEC 扩展_NN ，_PU
+
+其中_NN
+
+._PU 这里_PN 使用_VV 的_DEC 符号_NN 不同于_VV 上面_NN ：_PU 这里_PN 的_DEG formula_NN 是_VC 圆柱_JJ 坐标_NN 系_NN 中_LC 的_DEG 径向_JJ 距离_NN 。_PU 其_PN 物理_NN 解释_VV 是_VC 球面波_NN 可以_VV 扩展_VV 成为_VV formula_NN __NN 13_CD 方向_NN 上_LC 柱面波_NN 的_DEG 总和_NN ，_PU 乘以_VV  _NN formula_NN 方向_NN 上_LC 双_NOI 面_NN 平面波_NN ，_PU 参见_VV 。_PU  _CS 必须_VV 对_P 所有_DT 波数_NN formula_NN
+
+索末菲_NN 恒等式_JJ 与_CC 柱_NN 对称_VA 的_DEC 二_CD 维_NN  傅_NN 里_LC 叶_AD 变换_VV 密切_NN 相关_AD ，_PU 即_AD 汉克_NR 尔_NN 变换_VV 。_PU 它_PN 是_VC 通过_P 改变_VV 沿_P 面_NN 坐标_NN (_PU formula_NN __NN 16_CD ,_PU formula_NN 或_CC formulaformula_NN __NN 19)_CD 的_DEG 球面波_NN ，_PU 但_CC 不_AD 改变_VV 沿_P 高度_NN 坐标_NN formula_NN
+
+

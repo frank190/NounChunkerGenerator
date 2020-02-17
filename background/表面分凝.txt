@@ -1,0 +1,5 @@
+﻿_JJ 表面_NN 分凝_NN
+
+表面_NN 分凝_NN 是_VC 只_AD 在_P 某些_DT 情况_NN 下_LC ，_PU 合金_NN 中_LC 的_DEG 特定_JJ 金属_NN 会_VV 凝聚_VV 再_AD 合金_VA 的_DEC 表面_NN ，_PU 例如_AD 金属_NN 镍_NN 中_LC 极_AD 微量_JJ 的_DEG 铜会_NN 分凝_VV 到_VV 表面_NN 上_LC 去_VV ，_PU 而_CC 不锈钢_NN 经过_P 特定_JJ 的_DEG 热处理_NN 后_LC ，_PU 里面_NN 的_DEG 铬_NN 也_AD 会_VV 凝结_VV 到_VV 表面_NN 。_PU 对_P 表面_NN 分凝_VV 的_DEC 现象_JJ 解释_NN ，_PU 是_VC 在_P 一百多年_NT 前吉_NT 布斯_NN ·_PU J_NN ·_PU W_NN 的_DEG 固体_NN 和_CC 液体_NN 的_DEG 表面_NN 势力_NN 学理论_NN 所_MSP 提出_VV 的_DEC ，_PU 吉布斯指_VV 出_VV 表面_NN 分凝_NN 的_DEC 现象_NN 会_VV 产生_VV 是_VC 因为_P 合金_NN 之间_LC 的_DEG 原子_NN 小不_NN 同_NN ，_PU 而_CC 引起_VV 的_DEC 点_NN 阵应_NN 变能_NN 。_PU 目前_NT 用_P 表面_NN 分析_VV 的_DEC 方法_NN 来_MSP 研究_VV 表面分_NN 凝_CD 是_VC 直接_AD 和_CC 可靠_VA 的_DEC 方法_NN ，_PU 例如_AD 用_VV X_NN 射线_NN 电子_NN 谱_NN 、_PU 离子_NN 散_VV 射_NN 谱_VV 、_PU 背散射谱_NN 等_ETC 方法_NN 来_MSP 探测_VV 表层_NN 和_CC 表面_NN 数层_NN 内_LC 的_DEG 元素_NN 组分_NN 的_DEC 分布_NN 状况_NN 。_PU
+
+

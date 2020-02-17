@@ -1,0 +1,7 @@
+﻿牛顿_NN 温标_NN
+
+牛顿_JJ 温标_NN 是_VC 艾萨克_NR ·_PU 牛顿_NR 于_P 1700_CD 年_M 左_JJ 右_JJ 发明_NN 的_DEG 温标_NN 。_PU 最初_NT ，_PU 他_PN 使用_VV 了_AS 从_P “_PU 冬天_NN 的_DEG 冷气_NN ”_PU 到_VV “_PU 厨房_NN 中_LC 灼热_VV 的_DEC 煤块_NN ”_PU 等_ETC 共_AD 约_AD 20_CD 种_M 参考点_NN 来_MSP 定义_VV 温标_NN 。_PU 不过_VV 后来_PN 他_PN 对_P 这_DT 一_CD 方法_NN 不_AD 满_VV ，_PU 改为_VV 将_BA “_PU 0_CD 度_M ”_PU 定义_NN 为_VC 雪_NN 融化_VV 的_DEC 温度_NN （_PU 水_NN 的_DEG 冰点_NN ）_PU ，_PU “_PU 33_CD 度_M ”_PU 定义_NN 为_P 水_NN 沸腾_VV 的_DEC 温度_NN （_PU 水_NN 的_DEG 沸点_NN ）_PU 。_PU 由于_P 这_DT 一_CD 定义_NN 方法_NN 与_CC 摄氏温_NN 标有_VV 着_AS 相同_VA 的_DEC 参考点_NN ，_PU 因而_AD 可以_VV 说牛_VV 顿温标_NN 是_VC 摄氏_VV 温标_NN 的_DEC 雏型_NN 。_PU 事实_NN 上_LC ，_PU 安德_NN 斯_NN ·_PU 摄尔_NN 修_VV 斯_PN 在_P 发明_NN 摄氏_VV 温标_NN 时_LC ，_PU 很_AD 可能_VV 已经_AD 知道_VV 了_AS 牛顿_NN 温标_NN 的_DEG 存在_NN 。_PU
+
+现今_NT ，_PU 通常_AD 使用_VV 符号°_NN N_CD 来_MSP 表示_VV 牛顿_NN 温标_NN 。_PU
+
+

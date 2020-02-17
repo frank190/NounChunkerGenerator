@@ -1,0 +1,34 @@
+﻿频谱_NN 分析仪_NN
+
+频谱_VV 分析仪_NN 是_VC 在_P 其_PN 频率_NN 范围_NN 内_LC 测量_VV 输入_NN 信号_NN 的_DEC 频谱_NN （_PU 幅值_NN -_PU 频率_NN 关系_VA ）_PU 的_DEG 仪器_NN 。_PU 它_PN 的_DEG 主要_JJ 作用_NN 是_VC 测量_NN 信号_NN 的_DEC 功率谱_NN 。_PU 频_VV 谱_P 分析仪_NN 的_DEG 输入_NN 信号_NN 是_VC 电信号_NN 。_PU 但是_AD 若_CS 配合_VV 合适_VA 的_DEC 传感器_NN ，_PU 也_CC 可以_VV 测量_VV 声波_NN 、_PU 光波_NN 等_ETC 其他_DT 信号_NN 的_DEC 频谱_NN 。_PU 也_AD 有_VE 专门_VV 的_DEC 光谱_NN 分析仪_NN ，_PU 能_VV 够用_VV 之_DEC 类_NN 的_DEG 光学_NN 技术_NN 直接_AD 测量_VV 光波_NN 的_DEC 频谱_NN 。_PU
+
+通过_P 分析_JJ 电子_NN 信号_NN ，_PU 可以_VV 在_P 频谱_NN 中_LC 观察_VV 到_VV 其_PN 主要_JJ 频率_NN ，_PU 功率_NN ，_PU 失真_VV ，_PU 谐波_VV ，_PU 带宽_VV ，_PU 和_CC 其它_DT 频谱_NN 分量_NN 。_PU 这些_DT ，_PU 在_P 时域_NN 波形_NN 中_LC 是_VC 不_AD 容易_AD 被_SB 探测_VV 到_VV 的_DEC 。_PU 这些_DT 参数_NN 在_P 描述_VV 无线_JJ 发射器_NN 等_ETC 电子_NN 设备_NN 的_DEG 特性_NN 时_LC 是_VC 有用_VA 的_DEC 。_PU
+
+频谱_VV 分析仪_NN 显示_VV 的_DEC 是_VC 在_P 水平轴_NN 上_LC 的_DEG 频率_NN 和_CC 垂直_JJ 轴_NN 上_LC 的_DEG 幅度_NN 。_PU 不_AD 经_VV 意地看_NN ，_PU 一_CD 台_M 频谱_NN 分析_NN 仪像_VV 是_VC 一_CD 个_M 示波器_NN 。_PU 事实_NN 上_LC ，_PU 一些_CD 实验_NN 室仪器_NN 在_P 功能_NN 上_LC 既_CC 可以_VV 作为_P 示波器_NN ，_PU 又_CC 可以_VV 作为_P 频谱_NN 分析仪_NN 。_PU
+
+在_P 1960_CD 年代_NN ，_PU 扫描_NN 调谐_NN 仪器_NN 作为_VV 第一_OD 个_M 频_VV 谱_P 分析仪_NN 被_SB 发明_VV 了_AS 出来_VV 。_PU
+
+随着_P 1965_CD 年_M 快速_AD 傅立_VV 叶_NN 变换_NN （_PU F_CD FT_M ）_PU 技术_NN 的_DEG 发明_NN ，_PU 第一_OD 个_M 基于_P F_CD F_CD T_NN 的_DEG 分析_NN 仪_VV 在_P 1967_CD 年_M 被_SB 引入_VV 。_PU
+
+今天_NT ，_PU 频谱_NN 分析仪_NN 有_VE 三_CD 种_M 基本_AD 类型_NN ：_PU 扫描_NN 调谐频谱_VV 分析仪_NN ，_PU 矢量_NN 信号_NN 分析仪_NN ，_PU 和_CC 实时频_JJ 谱分_NN 析仪_VV 。_PU
+
+频谱_VV 分析仪_NN 类型_NN 由_P 用于_VV 获得_VV 信号_NN 的_DEC 频谱_NN 的_DEC 方法_NN 所_MSP 决定_VV 的_DEC 。_PU 有_VE 扫描_NN 调谐_NN 和_CC 基于_P FFT_NN 的_DEG 频谱_NN 分析仪_NN ：_PU
+
+
+某些_DT 频谱_NN 分析仪_NN ，_PU 如_P 实时_NT 频谱_JJ 分析仪_NN ，_PU 使用_VV 混合_JJ 技术_NN ：_PU 对于_P 输入_NN 信号_NN ，_PU 首先_AD 使用_VV 超_VV 外_NN 差_VA 技术_NN 下_LC 变频_VV 到_VV 较_AD 低_VA 的_DEC 频率_NN ，_PU 然后_AD 利用_VV 快速_AD 傅立_VV 叶_NN 变换_NN （_PU F_CD FT_M ）_PU 技术_NN 进行_VV 分析_NN 。_PU
+
+频谱_VV 分析仪_NN 往往_AD 分为_VV 四_CD 个_M 外形_JJ 规格_NN ：_PU 台式_NN ，_PU 便_AD 携式_VV ，_PU 手持式_NN 和_CC 联网式_NN 。_PU
+
+台式_JJ 频谱_NN 分析仪_NN 一般_AD 会_VV 插上_VV 交流_NN 电源_NN ，_PU 在_P 实验室_NN 或者_CC 生产_NN 环境_NN 中_LC 使用_VV 。_PU 在_P 历_DT 史_NN 上_LC ，_PU 台式_JJ 频谱_NN 分析仪_NN 的_DEG 性能_NN 要_VV 优于_VV 手持式_JJ 或者_CC 便携式_JJ 。_PU 台式_JJ 频谱_NN 分析仪_NN 通常_AD 还_AD 会_VV 安装_VV 数_CD 个_M 风扇_NN 以_P 排散_NN 中央_JJ 处理器_NN 产生_VV 的_DEC 热量_NN 。_PU 受_VV 结构_NN 影响_VV ，_PU 台式_JJ 频谱_NN 分析仪_NN 通常_AD 重达_VV 。_PU 还_AD 有_VE 一些_CD 台式_JJ 频谱_NN 分析仪_NN 安装_VV 了_AS 电池组_NN ，_PU 所以_AD 能够_VV 不_AD 插_VV 电_NN 使用_NN ，_PU 这些_DT 常_NN 被_SB 叫做_VV “_PU 便携式_JJ ”_PU 频谱_JJ 分析仪_NN 。_PU
+
+如果_CS 要_VV 在_P 室外_NN 测量_NN 或者_CC 在_P 使用_NN 中_LC 搬动_VV 的_DEC 话_NN ，_PU 就_AD 要用_VV 到_VV 便携式_JJ 频谱_NN 分析仪_NN 。_PU 好用_VV 的_DEC 便携式_JJ 频谱_NN 分析仪_NN 具有_VV 以下_JJ 特点_NN ：_PU
+
+有些_DT 应用_JJ 场景_NN 要求_NN 频_VV 谱_P 分析仪_NN 轻便_AD 小_VA 巧_VA ，_PU 手持式_JJ 频谱_NN 分析仪_NN 就_AD 满足_VV 了_AS 这_DT 种_M 要求_NN 。_PU 和_CC 更大型_JJ 的_DEG 测量_NN 系统_NN 相比_VV ，_PU 手持式_JJ 频谱_NN 分析仪_NN 的_DEG 测量_NN 能力_NN 很_AD 有限_VA 。_PU 好用_VA 的_DEC 手持式_JJ 频谱_NN 分析仪_NN 具有_VV 以下_JJ 特点_NN ：_PU
+
+这_DT 种_M 规格_NN 的_DEC 频谱_NN 分析仪_NN 没有_VE 显示器_NN ，_PU 它_PN 是为_AD 地理_VV 位置_NN 分散_NN 分布_VV 的_DEC 新型_JJ 频谱_NN 监视_NN 和_CC 分析_NN 系统_NN 设计_VV 的_DEC 。_PU 它_PN 的_DEG 关键_JJ 特点_NN 是_VC 能够_VV 连上_VV 网络_NN ，_PU 而且_CC 使用者_NN 能_VV 用_P 网络_NN 分析_NN 和_CC 监控_VV 这些_DT 设备_NN 。_PU 很多_CD 频谱_NN 分析仪_NN 都_AD 安装_VV 有_VE 用于_VV 控制_VV 的_DEC 以_P 太_JJ 网口_NN ，_PU 但是_CC 这些_DT 频谱_NN 分析仪_NN 往往_P 笨重_JJ 昂贵_NN ，_PU 不_AD 适合_VV 以_P 分布式_JJ 的_DEG 方式_NN 使用_VV 。_PU 在_P 安全_NN 设施_VV 的_DEC 射频_NN 入侵_VV 检测_NN 系统_NN 当中_LC ，_PU 发射_VV 无_VE 线_NN 信号_NN 是_VC 被_SB 禁止_VV 的_DEC ，_PU 而_CC 联网式_JJ 频谱_NN 分析仪_NN 就_AD 可以_VV 在_P 类似_JJ 这样_PN 的_DEG 场合_NN 中_LC 发挥_VV 作用_NN 。_PU 类似_VA 的_DEC 使用_NN 场景_NN 还有_VV ：_PU 蜂窝_NN 电话_NN 的_DEC 管理者_NN 用_P 这样_PN 的_DEG 分析仪_NN 远程_JJ 监控授_NN 权频段_NN 的_DEG 干扰_NN 等等_ETC 。_PU 联网式_JJ 频谱分_NN 析仪_VV 的_DEC 分布式_JJ 特性_NN 使得_VV 发射机_NN 定位_NN 、_PU 动态_NN 频_VV 谱_VV 接入_NN 中_LC 的_DEG 频_NN 谱_VV 检测_NN 和_CC 很_AD 多_VA 其它_DT 类_M 似应_NN 用成_VV 为_VC 可能_VV 。_PU
+
+联网式_JJ 频谱_NN 分析仪_NN 的_DEG 重要_JJ 特点_NN 包括_VV ：_PU
+
+
+
+

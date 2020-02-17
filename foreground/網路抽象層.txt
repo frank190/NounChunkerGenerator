@@ -1,0 +1,16 @@
+﻿_NN 网路_NN 抽象_NN 层_NN
+
+网路_NN 抽象层_NN （_PU NetworkAbstractionLayer(_JJ NAL_NN )_NN ）_PU 是_VC H_CD ._PU 264_CD /_PU AVC_NN 影像_VV 编码_NN 标準_NN 的_DEG 一部份_NN ，_PU 以_P N_CD AL_M -_PU unit_NN 为_VC 单位_NN 的_DEG 方式_NN 来_MSP 做为_VV 视讯_NN 编码层_NN （_PU VideoCodingLayer_NN ，_PU VCL_NN ）_PU 的_DEG 运算_NN 单位_NN 。_PU
+
+2005年_NT 3月_NT 联合_VV 视讯_NN 小_JJ 组_NN （_PU JointVideoTeam_NN ，_PU JVT_NN ）_PU 公布_VV H_CD ._PU 264_CD /_PU AVC_NN 引进_VV 视讯_NN 编码层_NN 与_P 网路_NN 提取_VV 层_NN 的_DEG 概念_NN ，_PU 在_P N_CD AL_M -_PU unitHeader_NN 中_LC 的_DEG N_CD AL_M -_PU unitType_NN 字段_NN 记载_VV 此_DT 封_M 包_NN 的_DEG 型式_NN ，_PU 借由_VV N_CD AL_M 来_MSP 提供_VV 网路_NN 的_DEG State_NN ，_PU 让_VV VCL_NN 有_VE 更_AD 好_VA 的_DEC 编_VV 解码_NN 更_AD 错_VA 能力_NN 。_PU 一般而言_AD ，_PU H_NN ._PU 264_CD /_PU AVCbitstream_NN 是_VC 由_P 数_CD 个_M NAL_NN -_PU units_NN 所_MSP 组成_VV ，_PU NALunitstr_JJ eam_NN 内_LC 可以_VV 包含_VV 多_CD 个_M 压缩_JJ 视讯_NN 序列_NN （_PU codedvi_JJ deosequence_NN ）_PU 。_PU
+
+NAL_CD 是_VC 一_CD 种_M 封装_NN （_PU packaging_NN ）_PU 的_DEG 模块_NN ，_PU 并_CC 拥有_VV N_CD AL_M -_PU unit_NN 标头_NN （_PU Heade_JJ r_NN ）_PU ，_PU 此_DT Header_M 内_LC 又_AD 有_VE 许多_CD 资讯_NN ，_PU 包括_VV Type_NN 。_PU 一_CD 个_M 完整_VA 的_DEC NALU_NN 是_VC 标头_NN （_PU Header_NR ）_PU 加_VV 上位_NN 元流_NN （_PU bitstream_NN ）_PU 。_PU 多_CD 个_M NAL_NN -_PU units_NN 组成_VV 一_CD 个_M accessunit_NN 。_PU
+
+标準_NN 的_DEC NAL_NN -_PU unit_NN 总共_AD 规范_VV 有_VE 12_CD 种_M ，_PU 这_PN 12_CD 种_M 型式_NN 可_VV 粗_P 分成_VV VCLNAL_NN -_PU unit_NN 及_CC non_NN -_PU VCLNAL_NN -_PU unit_NN 。_PU 其中_NN non_NN -_PU VCLNAL_NN -_PU unit_NN 又_AD 有_VE 两_CD 种_M ：_PU ParameterSets_NN 与_CC SupplementalEnhancementInformation_NN (_PU SEI_NR )_ETC 。_PU 这些_DT 资讯_NN 非常_AD 重要_VA ，_PU 如_AD 有_VE 错误_VA ，_PU 会_VV 导致_VV 无法_AD 解码_VV ，_PU 过去_NT 没有_VV N_CD ALunit_M 时_LC ，_PU 很_AD 容易_AD 造成_VV packagelost_NN ，_PU 现在_NT ParameterSets_NN 可以_VV 采用_VV 所谓_JJ 的_DEG out_NN -_PU of_NN -_PU band_NN 的_DEC 方式_NN 来_MSP 传送_VV 。_PU
+
+parametersets_NN 又_AD 可_VV 分成_VV :_PU
+多_CD 个_M NAL_NN -_PU units_NN 组成_VV 一_CD 个_M accessunit_NN 。_PU 多_CD 个_M accessunit_NN 再_AD 组成_VV 一_CD 个_M Codedvideosequence_NN 。_PU
+
+
+
+

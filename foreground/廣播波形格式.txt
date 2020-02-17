@@ -1,0 +1,12 @@
+﻿广_CD 播波_NN 形_NN 格式_NN
+
+广播_JJ 波形_NN 格式_NN （_PU BroadcastWaveFormat_NR ）_PU ，_PU 是_VC 一_CD 种_M 基_NN 於_P 非_JJ 线性_JJ 数字_NN 视频_NN 录像机_NN 的_DEG 记录_NN 格式_NN ，_PU 扩展_VV 了_AS MicrosoftWAVE_NN 流行_VV 音频_NN 格式_NN ，_PU 一般_AD 被_SB 用于_VV 电影_NN 、_PU 广播_NN 和_CC 电视_NN 制作_VV 。_PU 这_DT 种_M 格式_NN 最初_AD 由_P 欧洲_NN 广播_AD 联盟_VV 在_P 1997_CD 年_M 制定_VV ，_PU 并_CC 於_P 2001_CD 年_M 和_CC 2003_CD 年_M 进行_VV 更新_VA 。_PU
+
+这_DT 种_M 文件_NN 格式_NN 的_DEC 目的_NN 是_VC 增加_VV 元_DER 数据_NN 的_DEG 类型_NN ，_PU 以_MSP 方便_VV 音频_NN 数据_NN 在_P 不同_VA 的_DEC 计算机_NN 平台_NN 和_CC 应用_NN 程序_NN 之间_LC 的_DEG 无缝_JJ 交换_NN 。_PU 这_DT 种_M 格式_NN 指定_VV 了_AS 元_M 数据_NN 的_DEG 类型_NN ，_PU 这_PN 使得_VV 音频_NN 处理_NN 单元_NN 能_VV 鉴别_VV 自身_PN 种类_VV 、_PU 记录_VV 自身_PN 活动_VV ，_PU 并_CC 使_VV 不同_JJ 音轨_NN 之间_LC 的_DEG 同_DT 步_M 成为_VV 可能_VV 。_PU 这些_DT 元数_NN 据_P 将_BA 被_SB 存储_VV 在_P 标准_JJ 数字_NN 音频_NN WAV_NN 文件_NN 的_DEG 额外区_NN 块中_NN 。_PU
+
+除了_P 共同_JJ 波形块_NN 以外_LC ，_PU 可能_VV 的_DEC 区块_NN 内容_NN 包括_VV ：_PU
+
+
+
+
+

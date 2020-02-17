@@ -1,0 +1,10 @@
+﻿慢光_NN
+
+慢光现象_AD 是_VC 一_CD 光_NN 脉冲_NN 或_CC 光_NN 的_DEG 其他_DT 调变_NN 模式_NN 在_P 介质_NN 中_LC 以_P 相当_AD 低_VA 的_DEC 群_NN 速度_NN 传播_VV 。_PU 产生_VV 此_DT 现象_NN 的_DEG 原因_NN 是_VC 光_NN 脉冲_NN 与_CC 介质_NN 发生_VV 交互_NN 作用_NN 。_PU
+
+於_P 1998_CD 年_M ，_PU 丹麦_NN 物理_NN 学家_NN 琳恩_NN ·_PU 豪带_NN 领哈佛_NN 大学_NN 与_CC 的_DEC 共同_JJ 研究_NN 团队_NN ，_PU 将_BA 光脉_NN 冲群_NN 速度_NN 降至_VV 每_DT 秒_M 17米_NN 。_PU 於_P 2004_CD 年_M ，_PU 加州_NN 柏克_NN 莱_AD 大学_VA 的_DEC 研究_NN 人员_NN 则_AD 将_AD 穿过_VV 半导体_NN 的_DEC 光降_NN 速_AD 至_P 每_DT 秒_M 9_CD ._PU 7_CD 公里_NN 。_PU 尔后_VV ，_PU Hau成_VV 功将_JJ 光脉_NN 冲完_VV 全停_AD 下来_VV ，_PU 并_CC 创造_VV 出能_VV 将_BA 光停_NN 下_LC 及_CC 之后_AD 一_CD 段_M 时间_NN 再_AD 重启_VV 传播_VV 的_DEC 方法_NN 。_PU 此_DT 方法_NN 有机_AD 会_VV 用于_VV 开发_VV 出节_NN 能_VV 的_DEC 计算机_NN 。_PU
+
+於_P 2005_CD 年_M ，_PU IBM_NN 以_P 标準_NN 材料_NN 制作_VV 出能_NN 将_AD 光_AD 降速_VV 的_DEC 微芯片_NN ，_PU 进而_AD 有望_VV 将_BA 来_VV 在_P 商业_NN 上_LC 使用_VV 。_PU
+
+
+

@@ -1,0 +1,9 @@
+﻿特斯拉_VV 线圈_NN
+
+特斯_JJ 拉线圈_NN （_PU TeslaCoil_NN ）_PU 是_VC 一_CD 种_M 使用_VV 共_NN 振_NN (_PU 谐振_NN )_PU 原理_NN 运作_VV 的_DEC 变压器_NN （_PU 谐振_NN 变压器_NN ）_PU ，_PU 由_P 美籍_NN 塞_NOI 尔维_NN 亚裔_NN 科学_NN 家尼_NN 古_VA 拉_CC ·_PU 特_AD 斯_DT 拉_VV 在_P 1891_CD 年_M 发明_NN ，_PU 主要_AD 用来_VV 生产_VV 超高_JJ 电压_NN 但_AD 低_JJ 电流_NN 、_PU 高_JJ 频率_NN 的_DEC 交流_NN 电力_NN 。_PU
+
+松散_VV 耦合_NN 的_DEC 初级_NN 和_CC 次级_JJ 线圈_NN 通过_P 磁相位_NN 同步_AD 强_AD 耦合_VV 。_PU 特_AD 斯_DT 拉线圈_NN 由_P 一_CD 个_M （_PU 有时_AD 用_P 两_CD 个_M ）_PU 谐振_NN 感应_NN 耦合_NN 的_DEC 共振_NN 电路_NN (_PU 谐振_NN 电路_NN )_PU 组成_VV 。_PU 次级_JJ 线圈_NN 的_DEG 短路_NN 电感_NN 和_CC 杂散_NN 电容_NN 组合_VV 为_VC 谐振_NN 电路_NN 。_PU 通过_P 以_P 驱动_VV 初级_JJ 线圈_NN 在_VV 次级_JJ 线圈_NN 的_DEG 谐振_NN 频率_NN （_PU 串联_VV 谐_NN 振频率_NN ）_PU 1_CD '_PU 磁_NN 相位_JJ 同步_AD 使得_VV 互磁_JJ 通量_NN 的_DEG 增加_NN ，_PU 从而_AD 次级_JJ 线圈_NN 中_LC 发生_VV 最高_JJ 电压_NN 。_PU
+
+特斯_JJ 拉线圈_NN 难以_AD 界定_VV ，_PU 尼古_NR 拉_ETC ·_PU 特_AD 斯_DT 拉_NN 试行_VV 了_AS 大量_CD 的_DEG 各_DT 种_M 线圈_NN 的_DEG 配置_NN 。_PU 特_AD 斯_DT 拉利_NN 用_P 这些_DT 线圈_NN 进行_VV 创新_NN 实验_NN ，_PU 如_P 电气_NN 照明_NN ，_PU 萤光_VV 光谱_NN ，_PU X射线_NN ，_PU 高_JJ 频率_NN 的_DEC 交流_NN 电流_NN 现象_NN ，_PU 电疗_NN 和_CC 无线_JJ 电力_NN ，_PU 以便_AD 进行_VV 电力_NN 传输_NN 。_PU 特_AD 斯_DT 拉线圈_NN 可_VV 产生_VV 绚丽_NN 的_DEC 电弧_NN 效果_NN ，_PU 因而_AD 在_P 世界_NN 上_LC 拥有_VV 成_VV 千_CD 上_NN 万_CD 的_DEG 爱好者_NN ，_PU 亦_AD 有_VE 许多_CD 人_NN 以_MSP 制作_VV 特斯拉_JJ 线圈_NN 为_VC 提升_VV 自身_PN 电学_NN 。_PU
+
+

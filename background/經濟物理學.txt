@@ -1,0 +1,5 @@
+﻿经_CD 济物_NN 理学_NN
+
+经济物_NN 理学_NN （_PU ）_PU ，_PU 或_CC 称_VV 金融物_NN 理学_NN （_PU ）_PU ，_PU 是_VC 一_CD 门_NN 经_P 济学_NN 和_CC 物理学_NN 的_DEC 交叉_NN 学科_VV ，_PU 是_VC 将_BA 物理学_NN 的_DEG 相关_JJ 理论_NN 、_PU 方法_NN 、_PU 技术_NN 和_CC 模型_NN ，_PU 例如_AD 统计物_NN 理学_NN 、_PU 非线性_JJ 动力学_NN 、_PU 流体_NN 力学_NN 、_PU 量子_NN 力学_NN 等_ETC ，_PU 应用于_VV 经_P 济学_NN ，_PU 尤其_AD 是_VC 金融学_NN 领域_NN 。_PU
+
+

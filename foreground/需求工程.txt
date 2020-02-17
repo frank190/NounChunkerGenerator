@@ -1,0 +1,14 @@
+﻿需求_NN 工程_NN
+
+需求_NN 工程_NN （_PU ，_PU 缩写_VV ：_PU RE_NN ）_PU 是_VC 指_VV 在_P 工程_NN 设计_NN 过程_NN 中_LC 定义_VV 、_PU 记录_NN 和_CC 维护_NN 需求_VV 的_DEC 过程_NN 。_PU 这_AD 在_P 系统_NN 工程_NN 和_CC 软体_NN 工程_NN 中_LC 是_VC 一_CD 个_M 共同_VA 的_DEC 角色_NN 。_PU
+
+1979_CD 年_M 美国_JJ 企业_NN TRWInc_NN ._PU 的_DEG 技术_NN 报告_NN ，_PU 可能_VV 是_VC 第一_OD 次_M 使用_NN 「_PU 需求_NN 工程_NN 」_PU 这_DT 个_M 术语_NN ，_PU 但是_CC 直到_VV 20_CD 世纪_NN 90_CD 年代_NN IEEE_NN 电脑_NN 协会_NN 教程_VV 出版_VV 才_AD 得到_VV 普遍_JJ 应用_NN ，_PU 并_CC 建立_VV 了_AS 一_CD 个_M 关于_P 需求_NN 工程_NN 的_DEG 系列_NN 会议_VV ，_PU 这_DT 个_M 会议_NN 已经_AD 发展_VV 成为_VV 当前_NT 的_DEG 国际_NN 需求_NN 工程_NN 会议_NN （_PU InternationalRequirementsEngineeringConference_NN ）_PU 。_PU
+
+在_P 瀑布_NN 模型_NN 中_LC ，_PU 需求_NN 工程_NN 作为_VV 开发_NN 过程_NN 的_DEC 第一_OD 个_M 阶段_NN 。_PU 后来_VV 的_DEC 开发_NN 方法_NN （_PU 包括_VV 用于_VV 软体_NN 的_DEC 统一_JJ 软体_NN 开发_NN 过程_NN （_PU RUP_NN ）_PU ）_PU 假设_VV 需求_NN 工程_NN 持续_AD 於_P 系统_NN 的_DEG 整_DT 个_M 生命_NN 周期_NN 。_PU
+
+需求_NN 管理_NN 为_VC 系统_NN 工程_NN 实务_VV 的_DEC 子_NN 功能_NN ，_PU 也_AD 在_P INCOSE_NN （_PU 系统_NN 工程_NN 国际_NN 委员会_NN ）_PU 手册_NN 中_LC 编入_VV 索引_NN 。_PU
+
+涉及_VV 需求_NN 工程_NN 的_DEC 活动_JJ 差异_NN 很_AD 大_VA ，_PU 这_PN 取决於正_VV 在_P 开发_VV 的_DEC 系统_NN 类型_NN 、_PU 以及_CC 所_MSP 涉及_VV 组织_NN 的_DEG 特定_JJ 实务_NN 。_PU 这些_DT 可能_NN 包括_VV ：_PU
+
+
+

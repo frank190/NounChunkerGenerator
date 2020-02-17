@@ -1,0 +1,14 @@
+﻿核_NN 连锁_NN 反应_NN
+
+核连_JJ 锁反应_NN （_PU 英文_NN ：_PU N_CD uclearchainreaction_NR ）_PU ，_PU 又称_JJ 链式_NN 反应_VV ，_PU 是_VC 当_P 发生_VV 一_CD 个_M 核_NN 反应_NN ，_PU 两_CD 个_M 或_CC 以上_NN 的_DEG 周边核_NN 反应_NN 被_SB 触动_VV ，_PU 从而_AD 带动_VV 其他_DT 核反_NN 应以_VV 指数_NN 形式_NN 增长_VV 。_PU 1933_CD 年_M 由_P 核物_NN 理学_NN 家利奥_NN ·_PU 西_NN 拉德_NN 构想_NN 提出_VV 。_PU
+
+在_P 临界_NN 质量_NN 的_DEG 核裂_NN 变_VV 燃料_NN 发生_VV 的_DEC 不受_JJ 控核_NN 连锁_NN 反应_NN 可_VV 释放_VV 出_VV 巨大_NN 能量_VV ，_PU 也_AD 是_VC 核武_VV 的_DEC 概念_NN ，_PU 而_CC 连锁_NN 反应_NN 可_VV 通过_P 控制_NN ，_PU 成为_VV 日常_AD 所_MSP 需_VV 的_DEC 能源_NN 。_PU
+
+唯一_NT 已_AD 知_VV 的_DEC 自然核_NN 连锁_NN 反应堆_NN 位于_VV 西非_AD 加彭共和_VV 国_NN 的_DEC 奥克洛_NN （_PU ）_PU ，_PU 该_DT 处_NN 有_VE 一_CD 个_M 长达_NN 20亿_CD 年_M 历史_VA 的_DEC 古老核_NN 反应堆_NN 。_PU
+
+1933_CD 年_M ，_PU 链式_NN 反应_VV 的_DEC 设想_NN 最初_AD 由_P 核物_NN 理学_NN 家利奥_NN ·_PU 西_NN 拉德_NN 构想_NN 提出_VV 。_PU
+
+1942年_NT 12月_NT 2日_NT ，_PU 美国_NR 曼哈顿_NN 计划_NN 期间_NN ，_PU 恩里_NN 科_NN ·_PU 费米_NN 领导_VV 小组_AD 在_P 美国_NR 芝加_VV 哥_NN 大学_NN 建立_VV 了_AS 人类_NN 第一_OD 台_M 可控核_NN 反应堆_NN （_PU 芝加_VV 哥_NN 1号堆_NN ）_PU ，_PU 成功_NN 产生_VV 了_AS 可控_VV 的_DEC 核链式_NN 反应_VV 。_PU
+
+
+

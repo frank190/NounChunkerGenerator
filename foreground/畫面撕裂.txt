@@ -1,0 +1,12 @@
+﻿画面_NN 撕裂_NN
+
+画面_NN 撕裂_NN （_PU ）_PU 是_VC 显示器_NN 把_BA 两_CD 帧_NN 或_CC 更_AD 多帧_VA （_PU frame_NN ）_PU 同时_AD 显示_VV 在_VV 同_DT 一_CD 画面_NN 上_LC 的_DEG 一_CD 个_M 现象_NN 。_PU
+
+萤幕_NN 的_DEC 更新_JJ 频率_NN 是_VC 固定_VV 的_DEC ，_PU 通常_AD 是_VC 60_CD Hz_M 。_PU
+
+NVIDIA_CD 公司_NN 的_DEC G_CD -_PU Sync_M 和_CC AMD_NN 公司_NN 的_DEC F_CD reeSyncGPU_M 技术_NN 植入_VV 许多_CD 厂商_NN 生产_VV 的_DEC 萤幕_NN ，_PU 配备_VV 这些_DT 技术_NN 的_DEC G_CD P_M U_NN 能够_VV 控制_VV 萤幕_NN 更_AD 新_VA 率_DEV 与_P 显示卡_NN 相同_VA ，_PU 进而_AD 大幅_AD 减少_VV 画面_NN 撕裂_VV ，_PU 让画面_NN 更_AD 顺畅_VA 。_PU
+
+但是_AD ，_PU 该_DT 技术_NN 需_VV 配合_VV 指定_VV 的_DEC 显示卡_NN 、_PU CPU_NN 以及_CC 对应_JJ 技术_NN 的_DEG 萤幕_NN 才_AD 能_VV 生效_VV ，_PU 不_AD 能_VV 混合_VV 搭配_VV （_PU NVIDIA_JJ 显示卡_NN 必须_VV 配对_VV G_CD -_PU SYNC_CD 萤幕_NN 、_PU AMD_NN 显示卡_NN 必须_VV 配对_VV FreeSync_NN 萤幕_NN ）_PU 。_PU
+
+
+

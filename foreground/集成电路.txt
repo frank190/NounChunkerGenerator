@@ -1,0 +1,65 @@
+﻿_AD 集成_JJ 电路_NN
+
+集成_JJ 电路_NN （_PU ，_PU 缩写_VV 作_VV IC_NN ；_PU ）_PU ，_PU 或_CC 称微_NN 电路_NN （_PU ）_PU 、_PU 微芯片_NN （_PU ）_PU 、_PU 芯片_NN （_PU ）_PU 在_P 电子_NN 学_NN 中_LC 是_VC 一_CD 种_M 将_BA 电路_NN （_PU 主要_AD 包括_VV 半导体_NN 装置_NN ，_PU 也_AD 包括_VV 被动_JJ 元件_NN 等_ETC ）_PU 集中_VV 制造_VV 在_P 半导体_NN 晶圆_NN 表面_NN 上_LC 的_DEC 小型_JJ 化方式_NN 。_PU
+
+前述_JJ 将_BA 电路_NN 制造_VV 在_P 半导体_NN 芯片_NN 表面_NN 上_LC 的_DEG 积体_NN 电路_NN ，_PU 又_AD 称_VV 薄膜_NN （_PU thin_NN -_PU film_NN ）_PU 积体_NN 电路_NN 。_PU 另_AD 有_VE 一_CD 种_M （_PU thick_NN -_PU film_NN ）_PU （_PU ）_PU 是_VC 由_P 独立_JJ 半导体_NN 设备_NN 和_CC 被动_JJ 元件_NN 集成_VV 到_VV 基板_NN 或_CC 线路板_NN 所_MSP 构成_VV 的_DEC 小_JJ 型化_NN 电路_NN 。_PU
+
+本_DT 文_NN 是_VC 关于_P 单片_NN （_PU monolithic_NN ）_PU 积体_NN 电路_NN ，_PU 即_AD 薄膜_NN 积体_NN 电路_NN 。_PU
+
+从_P 1949_CD 年到_VV 1957_CD 年_M ，_PU 维尔纳_NN ·_PU 雅各比_NN （_PU WernerJacobi_NN ）_PU 、_PU 杰弗_NN 里_LC ·_PU 杜默_NN （_PU JeffreyDummer_NN ）_PU 、_PU 西德尼_NN ·_PU 达林顿_NN （_PU SidneyDarl_JJ ington_NN ）_PU 、_PU 樽井康_NN 夫_NN （_PU YasuoTarui_NN ）_PU 都_AD 开发_VV 出_VV 了_AS 原型_JJ ，_PU 现代_JJ 的_DEG 积体_NN 电路_NN 则_AD 是_VC 由_P 杰克_NN ·_PU 基尔_NN 比_VV 在_P 1958_CD 年_M 发明_NN ，_PU 并_CC 因_P 此_DT 荣获_NN 2000_CD 年诺_NN 贝尔物_NN 理奖_NN 。_PU 同时间_AD 发展_VV 出近代_AD 实用_VV 的_DEC 积体_NN 电路_NN 的_DEG 罗伯_NN 特_NN ·_PU 诺伊斯_NN ，_PU 却_AD 早_AD 在_P 1990_CD 年_M 就_AD 过世_VV 。_PU
+
+电晶体_NN 发明_NN 并_CC 大量_CD 生产_VV 之后_LC ，_PU 各式_PN 固态_JJ 半导体_NN 元件_NN 如_P 二极体_NN 、_PU 电晶体_NN 等_ETC 大量_NN 使用_VV ，_PU 取代_VV 了_AS 真空管_NN 在_P 电路_NN 中_LC 的_DEG 功能_NN 与_CC 角色_NN 。_PU 到_VV 了_AS 20_CD 世纪_NN 中_LC 后期_PN 半导体_NN 制造_NN 技术_NN 进步_VV ，_PU 便_AD 使_VV 集成_JJ 电路_NN 成为_VV 可能_VV 。_PU 相对于_P 手工_JJ 组装_NN 电路_NN 使用_VV 个_M 別_NN 的_DEG 分立_JJ 电子_NN 元件_NN ，_PU 积体_NN 电路_NN 可以_VV 把_BA 很_AD 大_JJ 数量_NN 的_DEG 微晶_NN 体管_NN 集成_VV 到_VV 一_CD 个_M 小_JJ 芯片_NN ，_PU 是_VC 一_CD 个_M 巨大_VA 的_DEC 进步_NN 。_PU 集成_JJ 电路_NN 的_DEG 规模_NN 生产_NN 能力_NN 、_PU 可靠性_NN ，_PU 电路_NN 设计_VV 的_DEC 模块化_NN 方法_NN 确保_VV 了_AS 快速_AD 采用_VV 标准化_NN 集成_JJ 电路_NN 代替_VV 了_AS 设计_VV 使用_VV 离_VV 散晶_NN 体管_NN 。_PU
+
+集成_JJ 电路_NN 对于_P 离散_VV 晶体_NN 管有_VV 两_CD 个_M 主要_JJ 优势_NN ：_PU 成本_NN 和_CC 性能_NN 。_PU 成本_NN 低_NN 是_VC 由于_P 芯片_NN 把_BA 所有_DT 的_DEG 元件_NN 通过_P 照相_JJ 平版_NN 技术_NN ，_PU 作为_P 一_CD 个_M 单位_JJ 印刷_NN ，_PU 而_CC 不_AD 是_VC 在_P 一_CD 个_M 时间_NN 只_AD 制作_VV 一_CD 个_M 晶体管_NN 。_PU 性能_NN 高_AD 是_VC 由于_P 元件_NN 快速_AD 开关_VV ，_PU 消耗_VV 更_AD 低_JJ 能量_NN ，_PU 因为_P 元件_NN 很_AD 小_VA 且_CC 彼此_AD 靠近_VV 。_PU 2006_CD 年_M ，_PU 芯片_NN 面积_NN 从_P 几平_JJ 方毫_NN 米到_VV 350_CD mm_NN ²_NN ，_PU 每_DT mm_NN ²_NN 可以_VV 达到_VV 一百万_CD 个_M 晶体管_NN 。_PU
+
+第一_OD 个_M 集成_JJ 电路_NN 雏形_NN 是_VC 由_P 杰克_NN ·_PU 基尔_NN 比_NN 於_P 1958_CD 年_M 完成_VV 的_DEC ，_PU 其中_NN 包括_VV 一_CD 个_M 双极性_JJ 晶体管_NN ，_PU 三_CD 个_M 电阻_NN 和_CC 一_CD 个_M 电容器_NN ，_PU 相较_AD 於现_VV 今科_JJ 技_NN 的_DEG 尺寸_NN 来讲_LC ，_PU 体积_NN 相当_AD 庞大_VV 。_PU
+
+根据_P 一_CD 个_M 芯片_NN 上_LC 集成_VV 的_DEC 微_JJ 电子_NN 器件_NN 的_DEG 数量_NN ，_PU 集成_JJ 电路_NN 可以_VV 分为_VV 以下_JJ 几类_NN ：_PU
+
+而_AD 根据_P 处理_NN 信号_NN 的_DEG 不同_JJ ，_PU 可以_VV 分为_VV -_PU {zh_NN -_PU hans_NN :_PU 模拟_NN 集成_NN 电路_NN ;_PU zh_NN -_PU hant_NN :_PU 类_NN 比积体_NN 电路_NN }_PU -_PU 、_PU -_PU {zh_NN -_PU hans_NN :_PU 数字_NN 集成_NN 电路_NN ;_PU zh_NN -_PU hant_NN :_PU 数位_NN 积体_NN 电路_NN }_PU -_PU 、_PU 和_CC 兼具_AD 类比_VV 与_P 数位_NN 的_DEG 混合_JJ 讯号_NN 积体_NN 电路_NN 。_PU
+
+最_AD 先进_VA 的_DEC 集成_JJ 电路_NN 是_VC 微_JJ 处理器_NN 或_CC 多核_JJ 处理器_NN 的_DEG 核心_NN ，_PU 可以_VV 控制_VV 一切_CS 电路_NN ，_PU 从_P 数字_NN 微波炉_NN 、_PU 手机_NN 到_VV 电脑_NN 。_PU 记忆体_NN 和_CC 特定_JJ 应用_JJ 积体_NN 电路_NN 是_VC 其他_DT 集成_JJ 电路_NN 家族_NN 的_DEG 例子_NN ，_PU 对于_P 现代_NN 信息_NN 社会_NN 非常_AD 重要_VV 。_PU 虽然_CS 设计_VV 开发_VV 一_CD 个_M 复杂_VA 集成_JJ 电路_NN 的_DEG 成本_NN 非常_AD 高_VA ，_PU 但是_AD 当_P 分散_VV 到_VV 百万_CD 计数_NN 量_NN 的_DEG 产品_NN 上_LC ，_PU 每_DT 个_M 集成_JJ 电路_NN 的_DEG 成本_NN 最_AD 小_VA 化_DEV 。_PU 集成_JJ 电路_NN 的_DEG 性能_NN 很_AD 高_VA ，_PU 因为_P 小_JJ 尺寸_NN 带来_VV 短路径_NN ，_PU 使得_VV 低_JJ 功率_NN 逻辑_NN 电路_NN 可以_VV 在_P 快速_AD 开关_VV 速度_NN 应用_NN 。_PU
+
+这些_DT 年来_NN ，_PU 集成_JJ 电路_NN 持续_VV 向_DER 更_AD 小_VA 的_DEC 外型_NN 尺寸_NN 发展_VV ，_PU 使得_VV 每_DT 个_M 芯片_NN 可以_VV 封装_VV 更_AD 多_VA 的_DEC 电路_NN 。_PU 这样_AD 增加_VV 了_AS 每_DT 单位_NN 面积_NN 容量_NN ，_PU 可以_VV 降低_VV 成本_NN 和_CC 增加_VV 功能_NN －_PU 见_VV 摩尔_NN 定律_NN ，_PU 集成_JJ 电路_NN 中_LC 的_DEG 晶体管_NN 数量_NN ，_PU 每_DT 1.5_CD 年_M 增加_VV 一_CD 倍_M 。_PU 总之_AD ，_PU 随着_P 外形_NN 尺寸_NN 缩小_VV ，_PU 几乎_AD 所有_DT 的_DEG 指标_NN 改善_VV 了_AS －_PU 单位_NN 成本_NN 和_CC 开关_NN 功率_NN 消耗_NN 下降_VV ，_PU 速度_NN 提高_VV 。_PU 但是_AD ，_PU 集成_JJ 纳米_NN 级别_NN 设备_NN 的_DEG IC_NN 不_AD 是_VC 没有_VV 问题_NN ，_PU 主要_AD 是_VC 洩漏_NN 电流_NN 。_PU 因此_AD ，_PU 对于_P 最终_JJ 用户_NN 的_DEG 速度_NN 和_CC 功率_NN 消耗_NN 增加_VV 非常_AD 明显_VA ，_PU 制造_VV 商面_NN 临_VV 使用_VV 更_AD 好几_VA 何学_VA 的_DEC 尖锐_NN 挑战_NN 。_PU 这_DT 个_M 过程_NN 和_CC 在_P 未来_JJ 几_CD 年_M 所_MSP 期望_VV 的_DEC 进步_NN ，_PU 在_P 半导体_NN 国际_NN 技术_NN 路线图_NN 中_LC 有_VE 很_AD 好_VA 的_DEC 描述_NN 。_PU
+
+仅仅_AD 在_P 其_PN 开发_VV 后_DT 半_CD 个_M 世纪_NN ，_PU 集成_JJ 电路_NN 变得_VV 无_VE 处_NN 不_AD 在_VV ，_PU 电脑_NN 、_PU 手机_NN 和_CC 其他_DT 数字_NN 电器_NN 成为_VV 现代_JJ 社会_NN 结构_NN 不_AD 可_VV 缺少_VV 的_DEC 一_CD 部分_NN 。_PU 这_PN 是_VC 因为_P ，_PU 现代_JJ 计算_NN 、_PU 交流_NN 、_PU 制造_NN 和_CC 交通_NN 系统_NN ，_PU 包括_VV 互联网_NN ，_PU 全都_AD 依赖于_VV 集成_JJ 电路_NN 的_DEG 存在_NN 。_PU 甚至_AD 很_AD 多学_VA 者_NN 认为_VV 有_VE 集成_JJ 电路_NN 带来_VV 的_DEC 数位_NN 革命_NN 是_VC 人类_NR 历_DT 史_NN 中_LC 最_AD 重要_VA 的_DEC 事件_NN 。_PU IC_NN 的_DEG 成熟_NN 将_AD 会_VV 带来_VV 科技_VV 的_DEC 大_JJ 跃进_NN ，_PU 不论_AD 是_VC 在_P 设计_VV 的_DEC 技术_NN 上_LC ，_PU 或是_CC 半导体_NN 的_DEG 制程_NN 突破_AD ，_PU 两_CD 者_NN 都_AD 是_VC 息息_NN 相关_VV 。_PU
+
+集成_JJ 电路_NN 的_DEG 分类_NN 方法_NN 很_AD 多_VA ，_PU 依照_NN 电路_NN 属_VV 类比_NN 或_CC 数位_NN ，_PU 可以_VV 分为_VV ：_PU 类比_VV 积体_NN 电路_NN 、_PU 数位_NN 积体_NN 电路_NN 和_CC 混合_JJ 讯号_NN 积体_NN 电路_NN （_PU 类比_NN 和_CC 数位_NN 在_P 一_CD 个_M 芯片_NN 上_LC ）_PU 。_PU
+
+数位_NN 积体_NN 电路_NN 可以_VV 包含_VV 任何_DT 东西_NN ，_PU 在_P 几_CD 平方毫米_M 上_LC 有_VE 从_P 几_CD 千_CD 到_CC 百万_CD 的_DEG 逻辑门_NN 、_PU 正反器_NN 、_PU 多工器_NN 和_CC 其他_DT 电路_NN 。_PU 这些_DT 电路_NN 的_DEG 小_JJ 尺寸_NN 使得_VV 与_P 板级_NN 集成_VV 相比_VV ，_PU 有_VE 更_AD 高_JJ 速度_NN ，_PU 更_AD 低_JJ 功耗_NN （_PU 参见_VV 低_JJ 功耗_NN 设计_NN ）_PU 并_CC 降低_VV 了_AS 制造_NN 成本_NN 。_PU 这些_DT 数字_NN IC_NN ，_PU 以_P 微_JJ 处理器_NN 、_PU 数字_NN 信号_NN 处理器_NN 和_CC 微_JJ 控制器_NN 为_VC 代表_VV ，_PU 工作_NN 中_LC 使用_VV 二_CD 进制_VV ，_PU 处理_VV 1_CD 和_CC 0_CD 信号_NN 。_PU
+
+类比_VV 积体_NN 电路_NN 有_VE ，_PU 例如_AD 传感器_NN 、_PU 电源_NN 控制_NN 电路_NN 和_CC 运放_NN ，_PU 处理_NN 类比_NN 讯号_NN 。_PU 完成_VV 放大_NN 、_PU 滤波_NN 、_PU 解调_NN 、_PU 混频_NN 的_DEC 功能_NN 等_ETC 。_PU 通过_P 使用_VV 专家所_AD 设计_VV 、_PU 具有_VV 良好_JJ 特性_NN 的_DEC 类比_JJ 积体_NN 电路_NN ，_PU 减轻_VV 了_AS 电路_NN 设计_VV 师_NN 的_DEG 重担_NN ，_PU 不_AD 需_VV 凡事_AD 再_AD 由_P 基础_NN 的_DEC 一_CD 个_M 个_M 电晶体_NN 处_NN 设_VV 计起_VV 。_PU
+
+集成_JJ 电路_NN 可以_VV 把_BA 类比_NN 和_CC 数位_NN 电路_NN 集成_VV 在_P 一_CD 个_M 单芯片_NN 上_LC ，_PU 以_MSP 做出_VV 如_P 类比_NN 数位_NN 转换器_NN 和_CC 数位类_NN 比_P 转换器_NN 等_ETC 器件_NN 。_PU 这_DT 种_M 电路_NN 提供_VV 更_AD 小_VA 的_DEC 尺寸_NN 和_CC 更_AD 低_VA 的_DEC 成本_NN ，_PU 但是_AD 对于_P 信号_NN 冲突_NN 必须_VV 小心_VA 。_PU
+
+从_P 1930_CD 年代_NN 开始_NN ，_PU 元素_NN 周期_NN 表_NN 中_LC 的_DEG 化学_NN 元素_NN 中_LC 的_DEC 半导体_NN 被_LB 研究者_NN 如_P 贝尔_NN 实验室_NN 的_DEG 威廉_NN ·_PU 肖克_NR 利_ETC （_PU WilliamShockley_NN ）_PU 认为_VV 是_VC 固态_JJ 真空管_NN 的_DEC 最_AD 可能_VV 的_DEC 原料_NN 。_PU 从_P 氧化铜_NN 到锗_VV ，_PU 再_AD 到硅_VV ，_PU 原料_NN 在_P 1940_CD 到_CC 1950_CD 年_M 代被_NN 系统_VA 的_DEC 研究_NN 。_PU 今天_NT ，_PU 尽管_NN 元素_NN 中_LC 期表_VV 的_DEC 一些_CD III_NN -_PU V_NN 价_NN 化合物_NN 如_P 砷化镓_NN 应用于_VV 特殊_JJ 用途_NN 如_P ：_PU 发光_JJ 二极管_NN 、_PU 激光_NN 、_PU 太_AD 阳能_NN 电池_NN 和_CC 最高_JJ 速集_NN 成_VV 电路_NN ，_PU 单晶硅_NN 成为_VV 集成_JJ 电路_NN 主流_NN 的_DEC 基层_NN 。_PU 创造_VV 无_VE 缺陷_NN 晶体_NN 的_DEC 方法_NN 用_VV 去_VV 了_AS 数_CD 十_CD 年_M 的_DEG 时间_NN 。_PU
+
+半导体_NN 集成_NN 电路_NN 制程_NN ，_PU 包括_VV 以下_JJ 步骤_NN ，_PU 并_CC 重覆_VV 使用_NN ：_PU
+
+使用_VV 单晶硅_NN 晶圆_NN （_PU 或_CC III_NN -_PU V_NN 族_NN ，_PU 如_P 砷化镓_NN ）_PU 用作_VV 基层_NN ，_PU 然后_AD 使用_VV 光刻_NN 、_PU 掺杂_VV 、_PU CMP_NN 等_ETC 技术_NN 制成_VV MOSFET_NN 或_CC BJT_NN 等_ETC 元件_NN ，_PU 再_AD 利用_VV 薄膜_NN 和_CC CMP_NN 技术_NN 制成_VV 导线_NN ，_PU 如此_AD 便_AD 完成_VV 芯片_NN 制作_VV 。_PU 因_P 产品_NN 效能_NN 需求_VV 及_CC 成_VV 本考量_NN ，_PU 导线_NN 可_VV 分为_VV 铝制程_NN 和_CC 主要_NN 的_DEC 制程_NN 技术_NN 可以_VV 分为_VV 以下_JJ 几_CD 大_M 类_NN ：_PU 黄光微_NN 影_NN 、_PU 蚀刻_NN 、_PU 扩散_NN 、_PU 薄膜_NN 、_PU 平坦化_JJ 制成_NN 、_PU 金属化_NN 制成_VV 。_PU
+
+IC_NN 由_P 很多_CD 重叠_NN 的_DEC 层_NN 组成_VV ，_PU 每_DT 层_M 由_P 影像_JJ 技术_NN 定义_NN ，_PU 通常_AD 用_P 不同_VA 的_DEC 颜色_NN 表示_VV 。_PU 一些层标明_AD 在_P 哪里_PN 不同_VA 的_DEC 掺杂剂_NN 扩散_VV 进基层_NN （_PU 成为_VV 扩散层_NN ）_PU ，_PU 一些_CD 定义_NN 哪里_AD 额外_VV 的_DEC 离子_NN 灌输_NN （_PU 灌输层_NN ）_PU ，_PU 一些_CD 定义_NN 导体_NN （_PU 多晶硅_NN 或_CC 金属层_NN ）_PU ，_PU 一些_CD 定义_NN 传导层_NN 之间_LC 的_DEG 连接_NN （_PU 过_VV 孔_NN 或_CC 接触层_NN ）_PU 。_PU 所有_DT 的_DEG 元件_NN 由_P 这些_DT 层_NN 的_DEG 特定_JJ 组合_NN 构成_VV 。_PU
+
+
+因为_P CMOS_NN 设备_NN 只_AD 引导_VV 电流_NN 在_P 逻辑门_NN 之间_LC 转换_VV ，_PU CMOS_NN 设备_NN 比_P 双极型_JJ 元件_NN 消耗_VV 的_DEC 电流_NN 少_VA 很_AD 多_VA ，_PU 也_AD 是现_AD 在_P 主流_NN 的_DEC 元件_NN 。_PU 透过_P 电路_NN 的_DEG 设计_NN ，_PU 将_BA 多_CD 颗_M 的_DEG 电晶_NN 体管_NN 画_NN 在_P 硅晶圆_NN 上_LC ，_PU 就_AD 可以_VV 画出_VV 不同_JJ 作用_NN 的_DEC 集成_JJ 电路_NN 。_PU
+
+随机_AD 存取_VV 存储器_NN 是_VC 最_AD 常见_JJ 类型_NN 的_DEG 集成_JJ 电路_NN ，_PU 所以_AD 密度_NN 最_AD 高_VA 的_DEC 设备_NN 是_VC -_PU {zh_NN -_PU cn_NN :_PU 存储器_NN ;_PU zh_NN -_PU hant_NN :_PU 记忆体_NN ;_PU }_NN -_PU ，_PU 但_CC 即使_CS 是_VC 微_JJ 处理器_NN 上_LC 也_AD 有_VE 存储器_NN 。_PU 尽管_NN 结构_NN 非常_AD 复杂_VA －_PU 几十_OD 年_M 来_VV 芯片_NN 宽度_NN 一直_AD 减少_VV －_PU 但_BA 集成_JJ 电路_NN 的_DEC 层_NN 依然_AD 比_P 宽度_NN 薄_AD 很_AD 多_VA 。_PU 元件_NN 层_NN 的_DEG 制作_NN 非常_AD 像_P 照相_NT 过程_NN 。_PU 虽然_CS 可见_VV 光谱_NN 中_LC 的_DEG 光波_NN 不_AD 能_VV 用来_VV 曝光_VV 元件_NN 层_NN ，_PU 因为_P 他们_PN 太_AD 大_VA 了_SP 。_PU 高频_JJ 光子_NN （_PU 通常_AD 是_VC 紫外线_NN ）_PU 被_SB 用来_VV 创造_VV 每_DT 层_M 的_DEG 图案_NN 。_PU 因为_P 每_DT 个_M 特征_NN 都_AD 非常_AD 小_VA ，_PU 对于_P 一_CD 个_M 正_AD 在_P 调试_VV 制造_NN 过程_NN 的_DEC 过程_NN 工程师_NN 来说_LC ，_PU 电子_NN 显微镜_NN 是_VC 必要_JJ 工具_NN 。_PU
+
+在_P 使用_VV 自动_JJ 测试_NN 设备_NN （_PU ATE_NN ）_PU 包装_VV 前_LC ，_PU 每_DT 个_M 设备_NN 都_AD 要_VV 进行_VV 测试_NN 。_PU 测试_NN 过程_NN 称为_VV 晶圆_NN 测试_VV 或_CC 晶圆_VV 探通_VV 。_PU 晶圆_VV 被_SB 切割_VV 成_VV 矩形块_NN ，_PU 每_DT 个_M 被_SB 称为_VV -_PU {zh_NN -_PU hans_NN :_PU 芯片_NN ;_PU zh_NN -_PU hant_NN :_PU 晶粒_NN ;_PU }_NN -_PU （_PU “_PU die_NN ”_PU ）_PU 。_PU 每_DT 个_M 好_VA 的_DEC die_NN 被_SB 焊在_VV “_PU pads_NN ”_PU 上_LC 的_DEG 铝线_NN 或_CC 金线_NN ，_PU 连接_VV 到_VV 封装_NN 内_LC ，_PU pads_NN 通常_AD 在_P die_NN 的_DEG 边上_NN 。_PU 封装_NN 之后_LC ，_PU 设备_VV 在_P 晶圆探_NN 通_NN 中_LC 使用_VV 的_DEC 相同_JJ 或_CC 相似_VA 的_DEC ATE_NN 上_LC 进行_VV 终检_NN 。_PU 测试_NN 成本_NN 可以_VV 达到_VV 低_JJ 成本_NN 产品_NN 的_DEG 制造_NN 成本_NN 的_DEG 25％_CD ，_PU 但是_AD 对于_P 低_AD 产出_VV ，_PU 大型_JJ 和_CC /_PU 或_CC 高_JJ 成本_NN 的_DEG 设备_NN ，_PU 可以_VV 忽略_AD 不_AD 计_VV 。_PU
+
+在_P 2005_CD 年_M ，_PU 一_CD 个_M 制造厂_NN （_PU 通常_AD 称为_VV ，_PU 常_AD 简称_VA fab_NN ，_PU 指_VV fabricationfacility_NN ）_PU 建设_VV 费用要_NN 超过_VV 10亿_CD 美元_NN ，_PU 因为_P 大部分_CD 操作_NN 是_VC 自动_AD 化的_VV 。_PU
+
+最早_JJ 的_DEG 集成_JJ 电路_NN 使用_VV 陶瓷_NN 扁平_AD 封装_VV ，_PU 这_DT 种_M 封装_NN 很_AD 多_VA 年来_NT 因为_P 可靠性_NN 和_CC 小_JJ 尺寸_NN 继续_VV 被_SB 军方_VV 使用_VV 。_PU 商用_NN 电路_NN 封装_NN 很快_AD 转变_VV 到_VV 双列_JJ 直插_JJ 封装_NN ，_PU 开始_VV 是_VC 陶瓷_NN ，_PU 之后_AD 是_VC 塑料_NN 。_PU 1980_CD 年代_M ，_PU VLSI_NN 电路_NN 的_DEG 针脚_NN 超过_VV 了_AS DIP_NN 封装_NN 的_DEC 应用_NN 限制_NN ，_PU 最后_AD 导致_VV 插针_NN 网格_NN 阵列_NN 和_CC 芯片_NN 载体_NN 的_DEG 出现_NN 。_PU
+
+-_PU {zh_NN -_PU cn_NN :_PU 表面_NN 贴着_VV 封装_NN ;_PU zh_NN -_PU hant_NN :_PU 表面_NN 黏_VV 著_AS 技术_NN ;_PU }_CD -_PU 在_P 1980_CD 年代_NN 初期_PN 出现_VV ，_PU 该_DT 年代_NN 后_LC 期开_VV 始流行_NN 。_PU 它_PN 使用_VV 更_AD 细_VA 的_DEC 脚间距_NN ，_PU 引_VV 脚_NN 形状_NN 为_VC 海鸥翼_NN 型_NN 或_CC J_NN 型_NN 。_PU 以_P （_PU SOIC_M ）_PU 为_VV 例_NN ，_PU 比_P 相等_VV 的_DEC DIP_NN 面积_NN 少_VA 30_CD －_PU 50%_CD ，_PU 厚度_NN 少_VA 70%_CD 。_PU 这_DT 种_M 封装_NN 在_P 两_CD 个_M 长边_NN 有_VE 海鸥翼_NN 型_NN 引_P 脚_NN 突出_VV ，_PU 引_VV 脚间距_NN 为_VC 0_CD ._PU 0_CD 5_CD 英寸_NN 。_PU
+
+Sm_CD all_M -_PU OutlineIntegratedCircuit_NN （_PU SOIC_NR ）_PU 和_CC PLCC_NN 封装_NN 。_PU 1990_CD 年代_NN ，_PU 尽管_NN PGA_NN 封装_NN 依然_AD 经常_AD 用于_VV 高端_NN 微_JJ 处理器_NN 。_PU PQFP_NN 和_CC （_PU TSOP_NN ）_PU 成为_VV 高引_JJ 脚数_NN 设备_NN 的_DEG 通常_JJ 封装_NN 。_PU Intel_NN 和_CC AMD_NN 的_DEG 高端_NN 微_JJ 处理器_NN 现在_NT 从_P PGA_NN （_PU PineGridArray_NN ）_PU 封装_NN 转到_VV 了_AS 平面_NN 网格_NN 阵列_NN 封装_NN （_PU LandGridArray_NN ，_PU LGA_NN ）_PU 封装_NN 。_PU
+
+球栅阵_NN 列封_NN 装封_NN 装_VV 从_P 1970_CD 年代_NN 开始_VV 出现_VV ，_PU 1990年_NT 代_M 开发_VV 了_AS 比_P 其他_DT 封装_NN 有_VE 更多_CD 管脚_NN 数_NN 的_DEG 覆晶球_NN 栅阵_NN 列封_NN 装_VV 封装_NN 。_PU 在_P F_CD CBGA_M 封装_NN 中_LC ，_PU -_PU {zh_NN -_PU hans_NN :_PU 芯片_NN ;_PU zh_NN -_PU hant_NN :_PU 晶粒_NN ;_PU }_NN -_PU （_PU die_NN ）_PU 被_LB 上_JJ 下_JJ 翻转_NN （_PU flipped_NN ）_PU 安装_VV ，_PU 通过_P 与_P PCB_NN 相似_VA 的_DEC 基层_NN 而_AD 不_AD 是_VC 线_NN 与_P 封装_NN 上_LC 的_DEG 焊_NN 球_NN 连接_VV 。_PU FCBGA_M 封装_NN 使得_VV 输入_VV 输出_NN 信号_NN 阵列_NN （_PU 称为_VV I_NN /_PU O_NN 区域_NN ）_PU 分布_VV 在_P 整_DT 个_M 芯片_NN 的_DEG 表面_NN ，_PU 而_CC 不_AD 是_VC 限制_VV 于_P 芯片_NN 的_DEG 外围_NN 。_PU 如今_VV 的_DEC 市场_NN ，_PU 封装_NN 也_AD 已经_AD 是_VC 独立_VV 出来_VV 的_DEC 一_CD 环_M ，_PU 封装_NN 的_DEC 技术_NN 也_AD 会_VV 影响_VV 到_VV 产品_NN 的_DEG 品质_NN 及_CC 良率_NN 。_PU
+
+
+
+
+
+
+

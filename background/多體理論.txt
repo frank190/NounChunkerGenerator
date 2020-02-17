@@ -1,0 +1,7 @@
+﻿多体_NN 理论_NN
+
+多体_NN 理论_NN （_PU 或_CC 多体_NN 物理_NN ）_PU 是_VC 物理学_NN 的_DEG 一_CD 个_M 领域_NN 。_PU 多体理_NN 论_VV 提供_VV 了_AS 理解_VV 交互_AD 作用_VV 粒子_NN 的_DEC 集体_NN 行为_VV 之_DEC 架构_NN 。_PU 总_JJ 地_NN 来说_LC ，_PU 多体理_NN 论专门_NN 处理_NN 具有_VV 大量_NN 之_DEG 组成_NN 成员_NN 的_DEG 系统_NN 现象_NN 。_PU 虽然单_AD 一_CD 物体_NN 的_DEC 物理_NN 行为_AD 可能_VV 相对_AD 简单_VA ，_PU 但是_CC 集体_NN 粒子_NN 的_DEC 现象_NN 背后_VA 的_DEC 物理_NN 是_VC 相当_AD 复杂_VA 的_DEC 。_PU
+
+值得_VV 注意_NN 的_DEC 是_VC ，_PU 一般_JJ 的_DEG 统计_NN 物理_NN 所_MSP 描述_VV 的_DEC 系统_NN 中_LC ，_PU 粒子_NN 间_LC 的_DEG 交互_NN 作用_NN 可_VV 被_SB 忽略_VV （_PU 由于_P 粒子_NN 间_LC 的_DEG 统计_NN 变异_VV 互相_JJ 抵销_NN ）_PU ，_PU 系统_NN 所_MSP 表现_VV 的_DEC 性质_NN 可_VV 由_P 巨观_NN 的_DEC 量_NN （_PU 如_P 温度_NN 和_CC 压力_NN ）_PU 所_MSP 描述_VV 。_PU 然而_AD ，_PU 在_P 多体_NN 系统_NN 内_LC ，_PU 粒子_NN 间_LC 的_DEG 交互_NN 作用_NN 变得_VV 相当_AD 重要_VV ，_PU 在_P 计算_NN 相关_JJ 理论_NN 时_LC ，_PU 需_VV 考虑_VV 粒子_NN 间_LC 的_DEG 关联_NN 函数_NN （_PU correlationfunction_NN ）_PU 。_PU
+
+

@@ -1,0 +1,48 @@
+﻿核_NN 主_JJ 成分_NN 分析_VV
+
+核_JJ 主_JJ 成分_NN 分析_VV （_PU ，_PU 简称_VA ）_PU 是_VC 多_JJ 变量_NN 统计_NN 领域_NN 中_LC 的_DEG 一_CD 种_M 分析_NN 方法_NN ，_PU 是_VC 使用_VV 对_P 主_JJ 成分_NN 分析_VV 的_DEC 非线性_JJ 扩展_NN ，_PU 即_AD 将_BA 原_JJ 数据_NN 通过_P 核映_NN 射到_VV 后_LC 再_AD 使用_VV 原本_JJ 线性_NN 的_DEC 主_JJ 成分_NN 分析_VV 。_PU
+
+线性_JJ PCA_NN 对于_P 中心化_NN 后_LC 的_DEG 数据_NN 进行_VV 分析_NN ，_PU 即_AD
+
+其中_NN formula_NN __NN 2_CD 是_VC formula_NN
+
+对_P 角化_VV 。_PU 换言_VV 之_DEC ，_PU 即_AD 是_VC 对_P 协方_NN 差_NN 矩阵_NN 进行_VV 特征_NN 分解_NN
+
+或_CC 写作_NN
+
+一般而言_AD ，_PU "N"_NN 个_M 数据点_NN 在_P formula_NN __NN 7_CD 维_NN 空间_NN 中_LC 是_VC 线性_JJ 不_AD 可_VV 分的_VV ，_PU 但_AD 它们_PN 在_P formula_NN __NN 8_CD 维_NN 空间_NN 中_LC 则_AD 是_VC 几乎必_AD 然线性_JJ 可分_NN 的_DEC 。_PU 这_PN 也_AD 意味_NN 着_LC ，_PU 如果_CS 我们_PN 能_VV 将_BA "_PU N_CD "_PU 个_M 数据_NN 点_NN formula_NN
+中_LC ，_PU 就_AD 能_VV 很_AD 容易_VA 地_DEV 构建_VV 一_CD 个_M 超_VV 平面_NN 将_BA 数据点_NN 作_VV 任意_JJ 聚类_NN 。_PU 不过_AD 由于_P 经_P formula_NN
+
+而_AD 在_P 核_NN PCA_NN 中_LC ，_PU 我们_PN 能够_VV 使用_VV 任意_AD 非_AD 平凡_VA 的_DEC 函数_NN formula_NN __NN 12_CD ，_PU 但_AD 无需_AD 显式_VV 地_DEV 计算_VV 在_P 高_JJ 维_NN 空间_NN 中_LC 的_DEG 值_NN ，_PU 使_VV 我们_PN 得以_VV 使用_VV 非常_AD 高维_VA 的_DEC formula_NN __NN 12_CD 。_PU 为了_P 避免_VV 直接_AD 在_P formula_NN __NN 12_CD -_PU 空间_NN （_PU 即_AD 特征_NN 空间_NN ）_PU 中_LC 操作_VV ，_PU 我们_PN 可以_VV 定义_VV 一_CD 个_M formula_NN
+
+来_MSP 代表_VV 特征_NN 空间_NN 的_DEG 内积_NN 空间_NN （_PU 见_VV 格_NN 拉姆_VV 矩阵_NN ）_PU 。_PU 这_DT 一_CD 对_P 偶_PN 形式_NN 使_VV 我们_PN 能够_VV 进行_VV 主_JJ 成分_NN 分析_VV ，_PU 同时_AD 又_AD 不_AD 用_VV 直接_AD 在_P formula_NN
+
+由于_P 我们_PN 并_AD 不_AD 在_VV 特征_NN 空间_NN 中_LC 进行_VV 计算_NN ，_PU 核_NN PCA_NN 方法_NN 不_AD 直接_AD 计算_VV 主_JJ 成分_NN ，_PU 而是_CC 计算_VV 数据点_NN 在_P 这些_DT 主_JJ 成分_NN 上_LC 的_DEG 投影_NN 。_PU 特征_NN 空间_NN 中_LC 的_DEG 一_CD 点_M 在_P 第k_OD 个_M 主_JJ 成分_NN formula_NR
+
+其中_NN formula_NN __NN 21_CD 代_M 表点积_NN ，_PU 即_AD 核_VV formula_NN __NN 22_CD 中_LC 的_DEG 元素_NN 。_PU 上_NN 式_NN 中_LC 剩下_VV 的_DEC 部分_NN formula_NN
+
+得到_VV ，_PU 其中_NN "_PU N_CD "_PU 为_VC 数据点_NN 的_DEG 数量_NN ，_PU formula_NN __NN 25_CD 与_CC formula_NN __NN 26_CD 则_AD 分别_AD 为_VC formula_NN __NN 22_CD 的_DEG 特征_NN 值_NN 与_P 特征_NN 向_P 量_NN 。_PU 为了_P 归_VV 一_CD 化_M formula_NN
+
+值得_VV 注意_NN 的_DEC 是_VC ，_PU 无论_AD 是否_AD 在_P 原_JJ 空间_NN 中_LC 对_P formula_NN
+
+其中_NN formula_NN __NN 32_CD 代_M 表_NN 一_CD 个_M 每_DT 个_M 元素_NN 值_NN 皆_AD 为_VC formula_NN __NN 33_CD 的_DEG formula_NN __NN 16_CD 矩阵_NN 。_PU 于_P 是_VC 我们_PN 可以_VV 使用_VV formula_NN
+
+在_P 使用_VV 核_NN PCA_NN 时_LC ，_PU 还_AD 有_VE 一点_NN 值得_VV 注意_NN 。_PU 在_P 线性_JJ PCA_NN 中_LC ，_PU 我们_PN 可以_VV 通过_P 特征_NN 值_NN 的_DEG 大小_NN 对_P 特征_NN 向_P 量_NN 进行_VV 排序_NN ，_PU 以_P 度量_NN 每_DT 个_M 主_JJ 成分_NN 所_MSP 能够_VV 解释_VV 的_DEC 数据_NN 方差_NN 。_PU 这_DT 对于_P 数据_NN 降维_VV 十分_AD 有用_VA ，_PU 而_CC 这_DT 一_CD 技巧_NN 也_AD 可以_VV 用_VV 在_P 核_NN PCA_NN 中_LC 。_PU 不过_AD ，_PU 在_P 实践_NN 中_LC 有时_AD 会_VV 发现_VV 得到_VV 所有_DT 方差_NN 皆_AD 相同_VA ，_PU 这_PN 通常_AD 是_VC 源于_VV 错误_AD 选择_VV 了_AS 核_NN 的_DEG 尺度_NN 。_PU
+
+在_P 实践_NN 中_LC ，_PU 大_JJ 数据_NN 集会_NN 使_VV K_NN 变得_VV 很_AD 大_VA ，_PU 从而_AD 导致_VV 存储_NN 问题_NN 。_PU 一_CD 种_M 解决_NN 方式_NN 是_VC 先_AD 对_P 数据_NN 集聚类_NN ，_PU 然后_AD 再_AD 对_P 每_DT 一_CD 类_M 的_DEG 均值_NN 进行_VV 核_NN PCA_NN 计算_NN 。_PU 有时_NT 即便_AD 使用_VV 此_DT 种_M 方法_NN 仍_AD 会_VV 导致_VV 相对_AD 很_AD 大_VA 的_DEC K_NN ，_PU 此时_NT 我们_PN 可以_VV 只_AD 计算_VV K_NN 中_LC 最_AD 大_VA 的_DEC P_CD 个_M 特征_NN 值_NN 及_CC 相_AD 对应_VV 的_DEC 特征_NN 向量_VV 。_PU
+
+考虑_VV 图_NN 中_LC 所_MSP 示_VV 的_DEC 三_CD 组_M 同心点_NN 云_LC ，_PU 我们_PN 试图_VV 使用_VV 核_NN PCA_NN 识别_VV 这_DT 三_CD 组_M 。_PU 图_NN 中_LC 各_DT 点_NN 的_DEG 颜色_NN 并_AD 不_AD 是_VC 算法_VV 的_DEC 一_CD 部分_NN ，_PU 仅_AD 用于_VV 展示_VV 各_DT 组_M 数据点_NN 在_P 变换_VV 前后_JJ 的_DEG 位置_NN 。_PU
+
+首先_AD ，_PU 我们_PN 使用_VV 核_NN
+
+进行_VV 核_NN PCA_NN 处理_NN ，_PU 得到_VV 的_DEC 结果_NN 如_P 第二_OD 张_M 图_NN 所_MSP 示_VV 。_PU
+
+其次_AD ，_PU 我们_PN 再_AD 使用_VV 高_JJ 斯_DT 核_NN
+
+该_DT 核_NN 是_VC 数据_NN 接近_NN 程度_NN 的_DEC 一_CD 种_M 度量_NN ，_PU 当_P 数据_NN 点重合_NN 时_LC 为_VC 1_CD ，_PU 而_CC 当_P 数据_NN 点_NN 相_AD 距无_VV 限远_NN 时_LC 则_AD 为_VC 0_CD 。_PU 结果_NN 为_VC 第三_OD 张_M 图_NN 所_MSP 示_VV 。_PU
+
+此时_NT 我们_PN 注意_VV 到_VV ，_PU 仅_AD 通过_P 第一_OD 主_JJ 成分_NN 就_AD 可以_VV 区别_VV 这_DT 三_CD 组_M 数据点_NN 。_PU 而_CC 这_DT 对于_P 线性_JJ PCA_NN 而_MSP 言_VV 是_VC 不_AD 可_VV 实现_VV 的_SP ，_PU 因而_AD 线性_JJ PCA_NN 只_AD 能_VV 在_P 给定_JJ 维_NN （_PU 此_DT 处_NN 为_VC 二_CD 维_M ）_PU 空间_NN 中_LC 操作_VV ，_PU 而_CC 此时_NT 同心_JJ 点云_NN 是_VC 线性_JJ 不_AD 可_VV 分的_VV 。_PU
+
+核_NN PCA_NN 方法_NN 还_AD 可_VV 用于_VV 新奇_JJ 检测_NN （_PU noveltydetection_PU ）_PU 与_P 数据降_NN 噪_NN 等_ETC 。_PU
+
+

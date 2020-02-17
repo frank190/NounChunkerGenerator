@@ -1,0 +1,20 @@
+﻿脉波_NN 振幅_NN 调变_NN
+
+脉冲_NN 振幅_NN 调变_NN （_PU ，_PU 简称_VV PAM_NN ）_PU 是_VC 一_CD 种_M 讯号_NN 调变_VV 的_DEC 方式_NN ，_PU 是_VC 将_BA 一_CD 连串_NN 的_DEG 类比_NN 讯号_NN 用_P 脉冲_NN 讯号_NN 取样_AD 调变_VV ，_PU 借此_AD 将_BA 原始_JJ 讯号_NN 之_DEG 振幅_NN 撷取_VV 出来_VV 的_DEC 调变_NN 方法_NN 。_PU 这_NN 是_VC 一_CD 种_M 类比_NN 脉冲_NN 调变_VV 的_DEC 方法_NN ，_PU 其_PN 原始_JJ 讯号_NN 承载_VV 於_P 一_CD 序列_NN 之_DEG 脉冲_NN 载_VV 波_NN ，_PU 载_VV 波间_NN 的_DEG 时间_NN 间隔_NN 是_VC 固定_VV 的_DEC ，_PU 而_CC 脉冲_NN 载波_NN 上_LC 数值_NN 的_DEG 大小_NN 则_AD 依据_P 原始_JJ 讯号_NN 的_DEG 振幅_NN 而_MSP 定_VV 。_PU 解调_VV 的_DEC 执行_NN 方式_NN 为_VC 侦测_VV 各_DT 脉冲_NN 载波_NN 上_LC 之_DEG 振幅_NN 大小_AD 再_AD 加以_VV 还原_NN 。_PU
+
+脉冲_NN 振幅_NN 调变_VV 有_VE 两_CD 种_M 主要_VA 的_DEC 类型_NN ：_PU
+脉冲_NN 振幅_NN 调变_VV 被_SB 广泛_VA 的_DEC 应用于_VV 数位_NN 讯号_NN 传送_VV 上_LC 之_DEG 讯号_NN 调变_VV ，_PU 但是_CC 非_AD 基本_JJ 频率_NN 上_LC 的_DEG 应用_NN 已经_AD 有_VE 相_NN 当_AD 大_VA 的_DEC 比例_NN 被_SB 脉冲_VV 编码_NN 调变_VV 取代_VV ，_PU 并且_CC 最近_AD 也_AD 逐渐_AD 被_LB 脉冲_NN 位置_NN 调变_VV 取代_VV 。_PU
+
+理论_NN 上_LC ，_PU 在_P 类比_NN 脉冲_NN 振幅_NN 调变_NN 上_LC 可能_VV 之_DEC 脉冲_NN 振幅_NN 等级_JJ 数量_NN 为_VC 无_VE 上限_NN 的_DEC 。_PU 而_CC 数位_NN 脉冲_NN 振幅_NN 调变_VV 上_JJ 脉冲_NN 振幅_NN 等级_JJ 数量_NN 则_AD 减少_VV 至_VV 2_CD 的_DEG 次方个_NN 。_PU 例如_AD ，_PU 在_P 4_CD -_PU level_NN 的_DEG PAM_NN 上_LC 有_VE 2_CD 的_DEC 2_CD 次_M 方个_NN 可能_VV 的_DEC 离散_JJ 脉冲_NN 振幅_NN ；_PU 在_P 8_CD -_PU level_NN 的_DEG PAM_NN 上_LC 则_AD 有_VE 2_CD 的_DEC 3_CD 次_M 方个_NN 可能_VV 的_DEC 离散_JJ 脉冲_NN 振幅_NN ;_PU 并且_CC 在_P 16_CD -_PU level_M 的_DEG PAM_NN 上_LC 有_VE 2_CD 的_DEC 4_CD 次_M 方个_NN 可能_VV 的_DEC 离散_JJ 脉冲_NN 振幅_NN 。_PU
+
+一些_CD 以_P 太_NN 网路_NN 通讯_NN 标準_VA 的_DEC 版本_NR 就_AD 是_VC 使用_VV PAM_NN 的_DEG 例子_NN 。_PU 像_P 是_VC 100_CD BASE_NN -_PU TX_NN 与_CC BroadR_NN -_PU ReachEthernet_NN 标准_NN 使用_VV 三_CD 级_M 脉冲_NN 振幅_NN 调变_VV （_PU PAM_NN -_PU 3_CD ）_PU ，_PU 吉比_NR 特以_JJ 太网_NN 吉比_NN 特以_AD 太_AD 网_NN 则_AD 使用_VV 五_CD 级_M 脉冲_NN 振幅_NN 调变_VV （_PU PAM_NN -_PU 5_CD ）_PU ，_PU 而_CC 10_CD 吉比_NR 特以太_NR 网路_NN 是_VC 用_P 汤姆林_NN 森_NN -_PU 原岛_NN 脉冲_NN 幅度_NN 调制_VV 的_DEC 预编码_NN （_PU THP_NN ）_PU 版本_VA 的_DEC 脉冲_NN 振幅_NN 调变_VV ，_PU 使用_VV 的_DEC 级别_NN 为_VC 离散_P 十六_CD 级_M (_PU PAM_NN -_PU 16_CD )_PU ，_PU 被_SB 称之_VV 为_VC DSQ_NN 128_CD 的_DEC 二维棋盘_NN 样式_NN 编码_NN 。_PU
+
+脉冲_NN 振幅_NN 调变_VV 的_DEC 概念_NN 也_AD 可_VV 用于_VV 光合_NN 作用_NN 的_DEC 研究_NN ，_PU 使用_VV 专用_VA 的_DEC 荧光_NN 光度_NN 测量_NN 仪器_NN 来_MSP 检测_VV 类囊体_NN 膜_NN 中_LC 补光_NN 单位_NN 内_LC 荧光_NN 上升_NN 和_CC 衰减_VV 的_DEC 动力_NN 与_CC 趋势_NN ，_PU 从而_AD 研究_VV 在_P 不同_JJ 环境_NN 条件_NN 下_LC 的_DEG 光合_NN 系统_NN 的_DEC 各_DT 种_M 状态_NN 。_PU
+脉冲_NN 振幅_NN 调变_VV 也_AD 已经_AD 被_SB 发展_VV 来_MSP 控制_VV 发光_JJ 二极管_NN ，_PU 特_AD 別_NN 是_VC 照明_NN 的_DEG 应用_NN 。_PU 使用_VV 脉冲_NN 幅度_NN 调变_VV 技术_NN 为_VC 基础_NN 的_DEC LED_NN 驱动_NN 系统_NN 相对于_P 其他_DT 一般_JJ 的_DEG 系统_NN 能_VV 提供_VV 更_AD 好_VA 的_DEC 电力_NN 使用_NN 效率_NN ，_PU 像是_AD 利用_VV 脉冲_NN 频宽_NN 调变_VV 来_MSP 控制_VV 电流_NN 进入_VV LED_NN 的_DEC 多寡_NN ，_PU 进而_AD 控制_VV LED_NN 的_DEG 发光_JJ 强度_NN ，_PU 用以_VV 提升_VV 电力_NN 的_DEG 使用_NN 效率_NN 。_PU
+
+以_P 脉冲_NN 振幅_NN 调变_VV 为_VV 基础_NN 的_DEC 的_DEG LED_NN 驱动_NN 系统_NN 可以_VV 同步_AD 多_CD 个_M LED_NN 间_LC 的_DEG 脉冲_NN ，_PU 让_VV 亮度_NN 与_CC 颜色_NN 能够_VV 完美_VV 的_DEC 结合_NN 。_PU 由于_P LED_NN 可以_VV 於_P 极_AD 短_JJ 时间_NN 内_LC 闪烁_VV ，_PU 因此_AD 可以_VV 自然_VV 的_DEC 继承_NN 脉冲_NN 振幅_NN 调变_VV 快速_AD 开关_VV 的_DEC 特性_NN 。_PU 在_P 无线_AD 通讯_VV 上_LC 也_AD 利用_VV 了_AS 此_DT 特性_NN ，_PU 将_BA LED_NN 快速_VA 的_DEC 闪烁_NN 以_P 高速_NN 传送_VV 资料_NN ，_PU 目前_NT 光_AD 通讯_VV 正_AD 蓬_JJ 勃发_NN 展_NN 中_LC 。_PU
+
+北美洲_NN 的_DEG 进阶_NN 电视_NN 系统_NN 委员_NN 会_VV 绝大_JJ 部分_NN 利用_VV 脉冲_NN 振幅_NN 调变_VV 来_VV 广播_JJ 数位_NN 电视_NN 的_DEG 讯号_NN 。_PU 此_DT 项_M 系统_NN 被_SB 称之为_VV 8_CD VSB_M ，_PU 是_VC 以_P 3_CD -_PU level_NN 的_DEC 脉冲_NN 振幅_NN 调变_VV 为_VC 基础_NN 设计_VV 的_DEC ，_PU 类似_JJ 100_CD BASE_NN -_PU TX_NN 技术_NN 。_PU 但_AD 是_VC 除_P 此_DT 之外_LC 还_AD 运用_VV 了_AS 其_PN 他_PN 额外_JJ 的_DEG 技术_NN 来_MSP 抑制_VV 旁频带_NN 的_DEC 能量_NN ，_PU 借此_AD 提升_VV 有_VE 限频_NN 宽_NN 下_LC 的_DEG 使用_NN 效益_NN 。_PU 在_P 国际_NN 电视_NN 系统_NN 会_VV 议(NTSC)_PU 中_LC 定义_VV 的_DEC 类比标_NN 準_NN 中_LC ，_PU 单_AD 一_CD 个_M 传输_NN 通道_VV 的_DEC 频宽_NN 是_VC 6_CD MHz_M ，_PU 而_CC 8V_CD SB_M 在_P 此_DT 频宽_NN 中_LC 可以_VV 达到_VV 32_CD Mbit_NN /_PU s_NN 的_DEG 物理_NN 传输_NN 速率_NN ，_PU 扣除_VV 错误_JJ 更正码_NN 与_CC 其他_DT 信令_NN 之后_LC ，_PU 资料_NN 的_DEC 传输_NN 速率_NN 可_VV 达_VV 19_CD ._PU 39_CD Mbit_NN /_PU s_NN 。_PU
+
+
+

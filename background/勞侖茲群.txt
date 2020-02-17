@@ -1,0 +1,15 @@
+﻿劳仑_NN 兹_JJ 群_NN
+
+物理学_NN 与_P 数学_NN 中_LC ，_PU 劳仑兹群_NN （_PU ）_PU 为_VC 闵_NN 可_VV 夫_NN 斯_DT 基_NN 时空_NN 中_LC ，_PU 所有_DT 劳仑_NN 兹_JJ 变换_NN 所_MSP 构成_VV 的_DEC 群_NN ，_PU 其_PN 涵盖_VV 了_AS 除了_P 重力_NN 现象_NN 以外_LC 的_DEG 所有_DT 古典场_NN 。_PU 劳仑_NN 兹_JJ 群_NN 是_VC 以_P 荷兰物_NN 理学_NN 家亨德_NN 里克_LC ·_PU 劳仑兹_NN 来_MSP 命名_VV 。_PU
+
+以下_JJ 领域_NN 的_DEG 数学_NN 形式_NN ：_PU
+在_P 劳仑_NN 兹_JJ 变换_NN 下_LC 皆_AD 保持_VV 不_AD 变_VV 。_PU 因此_AD 劳仑_NR 兹群_NN 展现_VV 了_AS 许多_CD 自然_AD 定律_VV 的_DEC 基础_NN 对_P 称性_NN 。_PU
+
+劳仑_NN 兹群_NN 是_VC 庞加_VV 莱_CD 群_M 的_DEG 子群_NN 。_PU 庞加_VV 莱群_NN 是_VC 闵_NN 可_VV 夫_NN 斯_DT 基_NN 时空_NN 中_LC 所有_DT 等距_JJ 同构_NN （_PU Isometry_NN ）_PU 的_DEC 群_NN 。_PU 劳仑_NN 兹_AD 变换_VV 为_VC 所有_DT 保持_VV 原点_NN 固定_VV 的_DEC 等距_JJ 同构_NN 。_PU 因此_AD ，_PU 劳仑_NN 兹_JJ 群_NN 为_P 闵_NN 可_VV 夫_NN 斯_DT 基_NN 时空_NN 中_LC 的_DEG 迷向子群_NN （_PU isotropysubgroup_NR ）_PU 。_PU 因为_P 这_DT 个_M 缘由_NN ，_PU 劳仑兹_NR 群有_VV 时_LC 也_AD 称作_VV 「_PU 齐_AD 次_M 劳仑_NN 兹_JJ 群_NN 」_PU （_PU homogeneousLorentzgroup_NN ）_PU ，_PU 而_CC 庞加_VV 莱_CD 群_M 被_SB 称作_VV 「_PU 非_AD 齐次_JJ 劳仑_NN 兹_JJ 群_NN 」_PU （_PU inhomogeneousLorentzgroup_NN ）_PU 。_PU 劳仑_NN 兹_JJ 变换_NN 是_VC 线性_JJ 变换_NN 的_DEC 例子_NN ；_PU 闵_NN 可_VV 夫_NN 斯_DT 基_NN 时空_NN 中_LC 的_DEG 广义_JJ 等距_NN 同_AD 构_VV 变换_VV 为_VC 仿射_NN 变换_NN 。_PU
+
+数学_NN 中_LC ，_PU 劳仑_NN 兹群_NN 可以_VV 描述_VV 为_VC 广义_JJ 正_JJ 交群_NN O_NN (_PU 1_CD ,_PU 3)_CD ，_PU 亦_AD 即_AD R_NN 中_LC 保持_VV 二_CD 次_M 型_NN 的_DEG 矩阵_NN 李_NN 群_NN
+
+此_DT 二_CD 次型_NN 可以_VV 矩阵_DT 形式_NN 表示_VV ，_PU 在_P 物理学_NN 中_LC 被_SB 诠释_VV 为_VV 闵_NN 可_VV 夫_NN 斯_DT 基_NN 时空_NN 中_LC 的_DEG 度规_JJ 张量_NN ：_PU
+
+
+

@@ -1,0 +1,42 @@
+﻿负_JJ 反馈_NN
+
+负回馈_NN （_PU ）_PU ，_PU 是_VC 反馈_NN 的_DEC 一_CD 种_M 。_PU 是_VC 指_VV 系统_NN 的_DEG 输出_NN 会_VV 影响_NN 系统_NN 的_DEG 输入_NN ，_PU 在_P 输出_NN 变动_VV 时_LC ，_PU 所_MSP 造成_VV 的_DEC 影响_NN 恰_NN 和_CC 原来_NN 变动_VV 的_DEC 趋势_NN 相反_VA ；_PU 反之_VA ，_PU 就_AD 称为_VV 正_AD 回馈_VV 。_PU 另_DT 一_CD 种_M 说法_NN 是_VC 系统_NN 在_P 一_CD 个_M 条件_NN 变化_NN 时_LC ，_PU 系统_NN 会_VV 作出_VV 抵抗_VV 该_DT 变化_NN 的_DEC 行为_NN 。_PU 例如_AD 人_NN 的_DEG 体温_NN 上_LC 昇_NN 时_LC 会_VV 流汗_VV ，_PU 流汗_NN 会_VV 散热_VV 使_VV 体温_NN 下降_VV ，_PU 就_AD 是_VC 负_VV 反馈_VV 的_DEC 一_CD 个_M 例子_NN ；_PU 在_P 自然_AD 界有_VV 许多_NN 系统_NN 有负_AD 反馈_VV 的_DEC 特性_NN ，_PU 其他_DT 例子_NN 包括_VV 勒沙_NN 特列_NN 原理_NN 和_CC 楞次_NN 定律_NN 。_PU
+
+在_P 特定_JJ 的_DEG 条件_NN 下_LC ，_PU 负_VV 回馈_NN 会使_NN 系统_NN 趋_VV 於_P 稳定_VA ，_PU 负_VV 反馈_VV 的_DEC 研究_NN 是_VC 控制_VV 理论_NN 的_DEC 核心_NN 问题_NN 。_PU
+
+在_P 物理_NN 系统_NN 及_CC 生物_NN 系统_NN 中_LC ，_PU 许多_CD 不同_VA 的_DEC 影响_NN 会_VV 互相_AD 制衡_VV ，_PU 例如_AD 说_VV 在_P 生物体_NN 内_LC ，_PU 某_DT 一_CD 种_M 化学_NN 物质_NN 会_VV 使_VV 生物_NN 系统_NN 趋向_VV 一_CD 特定_JJ 状态_NN ，_PU 而_CC 另外_DT 一_CD 种_M 化学_NN 物质_NN 会使_NN 系统_NN 远离_VV 该_DT 状态_NN ，_PU 若_CS 其中_NN 至少_AD 有_VE 一_CD 种_M 的_DEG 影响_NN 是_VC 非线性_JJ 的_DEG ，_PU 就_AD 可能_VV 会_VV 有_VE 平衡点_NN 出现_VV 。_PU 在_P 生物学_NN 或_CC 生物_NN 化学_NN 中_LC ，_PU 以上_LC 的_DEC 机制_NN 称为_VV 恒_MSP 定_VV ，_PU 在_P 力学_NN 中_LC ，_PU 以上_LC 的_DEC 机制_NN 称为_VV 平衡_NN 。_PU
+
+负回馈_NN 中_LC 的_DEG 「_PU 负_NN 」_PU 表示_VV 在_P 数学_NN 模型_NN 中_LC ，_PU 反馈部_NN 份的_CC 系数_NN 为_VC 负_NN 。_PU 若_CS 以_P 下式_NN 表示_VV 一_CD 个_M 系统_NN
+
+负回馈_NN 可以_VV 说_VV 是_VC 在_P 输入_NN 部份_NN 加上_VV 以下_JJ 的_DEG 量_NN ，_PU 来_MSP 抵消_VV 输出_VV 的_DEC 变化_NN 。_PU
+
+因此_AD 在_P 有_VE 扰动_VV 时_LC ，_PU 负_VV 回馈_NN 可以_VV 抵消_VV 输出_VV 的_DEC 影响_NN 。_PU
+
+相反_VA 的_DEC ，_PU 正_AD 反馈_VV 的_DEC 系统_NN ，_PU 输出_NN 变动_VV 时_LC ，_PU 系统_NN 会_VV 放大_VV 原来_JJ 的_DEG 输出_NN 变动_VV ，_PU 无法_AD 达到_VV 平衡_VV 的_DEC 效果_NN 。_PU 不_AD 论_VV 是正_AD 反馈_VV 或_CC 负_VV 反馈_VV 的_DEC 系统_NN 都_AD 会_VV 有_VE 反馈_NN 回路_NN ，_PU 使_VV 输出_NN 可以_VV 再_AD 影响_NN 系统_NN 。_PU
+
+负反馈_NN 可_VV 用来_VV 控制_NN 系统_NN ，_PU 使_VV 系统_NN 的_DEG 实际_NN 输出_VV 达到_VV 其_PN 理_NN 想值_NN 。_PU
+
+在_P 1788_CD 年_M ，_PU 瓦特_AD 为了_P 控制_VV 蒸汽机_NN 速度_NN 所_MSP 设计_VV 的_DEC 离心式_JJ 调速器_NN 就_AD 是_VC 利用_VV 负反馈_NN 的_DEC 原理_NN 。_PU 这_PN 也_AD 是_VC 第一_OD 个_M 自动_AD 控制_VV 系统_NN 。_PU
+
+在_P 离心式_JJ 调速器_NN 中_LC 有_VE 二_CD 颗_M 重球_NN ，_PU 其_PN 旋转_NN 速度_NN 和_CC 蒸汽机_NN 相同_VA ，_PU 当_P 蒸汽机_NN 的_DEG 速度_NN 提高_VV 时_LC ，_PU 重_AD 球_NN 因_P 离心力_NN 移到_VV 调速器_NN 的_DEG 外侧_NN ，_PU 因此_AD 会_VV 带动_VV 机构_NN ，_PU 关闭_VV 蒸汽机_NN 进气_VV 阀门_NN ，_PU 降低_VV 蒸汽机_NN 速度_NN ，_PU 当_P 蒸汽机_NN 速度_NN 过低_VV 时_LC ，_PU 重_AD 球_NN 会移_VV 到_VV 调速器_NN 的_DEG 内侧_NN ，_PU 会_VV 再_AD 开启_VV 蒸汽机_NN 进气_NN 阀门_NN ，_PU 增加_VV 蒸汽机_NN 速度_NN 。_PU 依_P 此_DT 原理_NN 即_AD 可_VV 将_BA 蒸汽机_NN 的_DEG 速度_NN 控制_VV 在_P 一定_JJ 范围_NN 内_LC 。_PU
+
+控制_NN 系统_NN 中_LC 常_AD 使用_VV 负_VV 反馈_NN 系统_NN ，_PU 例如_AD 自动_JJ 调温器_NN 、_PU 锁相环_NN 、_PU 荷尔蒙_NN 的_DEG 调节_NN （_PU 如_P 上方_NN 的_DEC 图示_NN ）_PU 及_CC 动物体_NN 内_LC 的_DEG 温度_NN 调节_NN 。_PU 此时_NT 要_VV 控制_VV 的_DEC 量视_NN 为_VC 系统_NN 的_DEG 输出_NN 。_PU
+
+以_P 自动_JJ 调温器_NN 在_P 暖气_NN 系统_NN 的_DEG 应用_NN 为_VV 例_NN ，_PU 当_P 房间_NN 内_LC 的_DEG 温度_NN 低于_VV 设定_VV 的_DEC 下_NN 限_VV 温度_NN 时_LC ，_PU 自动_JJ 调温器_NN 会_VV 打开_VV 暖气_NN 系统_NN ，_PU 而_CC 当_P 温度_NN 高于_VV 上限_NN 温度_NN 时_LC ，_PU 自动_JJ 调温器_NN 会_VV 关闭_VV 暖气_NN 系统_NN ，_PU 若_CS 下_LC 限_VV 温度_NN 和_CC 上限_NN 温度_NN 很_AD 接近_VV 时_LC ，_PU 就_AD 可以_VV 使_VV 室温_NN 控制_VV 在_P 一_CD 个_M 稳定_VA 的_DEC 范围_NN 。_PU 类似_VA 的_DEC 原理_NN 也_AD 用_VV 在_P 冷却_NN 系统_NN 中_LC ，_PU 如_P 冷气_NN 及_CC 冰箱_NN 。_PU
+
+控制_NN 系统_NN 中_LC 使用_VV 负_VV 反馈_NN 不_AD 表示_VV 系统_NN 一定_JJ 稳定_NN 。_PU BIBO_NN 稳定性_NN 及_CC 李雅普_NN 诺_NN 夫_NN 稳定性_NN 可_VV 用来_VV 定义_VV 系统_NN 的_DEG 稳定性_NN ，_PU 奈奎_VV 斯_DT 特_AD 稳定_VA 判据_NN 可以_VV 判_VV 別线_NN 性_NN 非_VC 时_LC 变_VV 系统_NN 是_VC 否_AD 稳定_VA 。_PU
+
+生物体_NN 内_LC 有_VE 许多_CD 的_DEG 负反馈_NN 系统_NN ，_PU 如_P 维持_NN 血压_NN 稳定_VA 的_DEC 感压_NN 反射_NN （_PU baroreflex_NN ）_PU 、_PU 体温_NN 及_CC 血糖_NN 的_DEG 恒定_NN 等_ETC 。_PU 若_CS 反馈_NN 系统_NN 失灵_VV ，_PU 可能_VV 会_VV 出现_VV 一些_CD 不良_JJ 的_DEG 影响_NN 。_PU 以_P 血糖_NN 恒定_VA 的_DEC 反馈_NN 系统_NN 出现_VV 问题_NN ，_PU 血液_NN 中_LC 的_DEG 血糖_NN 浓度_NN 会_VV 剧烈_VV 的_DEC 昇高_NN ，_PU 因而_AD 造成_VV 糖尿病_NN 。_PU
+
+荷尔蒙_NN 的_DEG 分泌_NN 也_AD 受到_VV 负_VV 反馈_NN 系统_NN 的_DEG 控制_NN ：_PU 当_P 腺体_NN X_NN 分泌荷_NN 尔蒙_NN X_NN ，_PU 目的器_NN 官_NN 收到_VV 后_LC 会_VV 分泌_VV 荷尔蒙_NR Y_NN ，_PU 当_P 荷尔蒙_NR Y_NN 已_AD 到达_VV 一定_JJ 量_NN 时_LC ，_PU 腺体_NN X_NN 就_AD 会_VV 停止_VV 荷尔蒙_NN X_NN 的_DEG 分泌_NN 。_PU
+
+在_P 经济_NN 领域_NN 中_LC ，_PU 政府_NN 的_DEC 自动_JJ 财政_NN 政策_NN （_PU automaticstabiliser_NN ）_PU 也_AD 是_VC 一_CD 种_M 负反馈_NN ，_PU 利用_VV 固定_VV 的_DEC 稅率_NN 及_CC 政府_NN 开支_NN 来_MSP 缓和_VV GDP_NN 的_DEG 变化_NN 。_PU 根据_P 边际_NN 效益_NN 递减_NN 效应_NN ，_PU 在_P 消费量_NN 增加_VV 后_LC ，_PU 单位_NN 消费量_NN 的_DEG 效益_NN （_PU 即_AD 边际_NN 效益_NN ）_PU 会_VV 减少_VV ，_PU 也_CC 可以_VV 视为_VV 是_VC 一_CD 种_M 负反馈_NN 。_PU
+
+负_VV 反馈_VV 的_DEC 放大器_NN 是_VC 贝尔_DT 实验室_NN 的_DEC 在_P 1927_CD 年_M 发明_NN ，_PU 在_P 1934_CD 年_M 申请_JJ 专利_NN 。_PU 负反_NN 馈常_AD 用_VV 在_P 许多_CD 种_M 类_NN 的_DEG 放大器_NN 系统_NN （_PU 例如_AD 运算_VV 放大器_NN ）_PU 中_LC ，_PU 主要_JJ 目的_NN 都_AD 是_VC 为了_P 稳定_VV 系统_NN 和_CC 改善_NN 系统_NN 特性_NN 。_PU
+
+基本上_AD 所有_DT 的_DEG 电子_NN 元件_NN （_PU 像_P 真空管_NN 、_PU 电晶体_NN 、_PU MOSFET_NN ）_PU 都_AD 有_VE 一_CD 部份_NN 非_VC 线性_JJ 的_DEG 特性_NN ，_PU 使用_VV 负_VV 反馈_NN 可以_VV 提高_VV 线性度_NN ，_PU 不过_AD 会_VV 牺牲_VV 一些_CD 增益_NN 。_PU 假设_VV 有_VE 一_CD 个_M 放大器_NN 在_P 某_DT 一_CD 频率_NN 范围_NN 内_LC 的_DEG 开路_NN 增_VV 益_NN 太_AD 大_VA ，_PU 不_AD 配合_VV 负_VV 反馈_NN 时_LC ，_PU 该_DT 频率_NN 范围_NN 的_DEC 回授_NN 信号_NN 会_VV 特_DER 別_AD 大_VA 。_PU 若_CS 配合_VV 负_VV 反馈_NN 使用_VV 时_LC ，_PU 因为_P 回授_NN 信号_NN 来自_VV 於_P 输出端_NN ，_PU 该_DT 频率_NN 范围_NN 的_DEC 回授_NN 信号_NN 也_AD 会_VV 特_AD 別_VA 的_DEC 大_VA ，_PU 和_P 输入_NN 信号_NN 相_AD 减后_VV ，_PU 可以_VV 缓和_VV 该_DT 频率_NN 范围_NN 输出_NN 信号_NN 的_DEG 变化_NN 。_PU
+
+虽然_CS 负_VV 反馈_NN 可以_VV 使_VV 线性度_NN 提高_VV ，_PU 不过若_AD 设计_VV 不_AD 当_P 也_AD 可能_VV 会_VV 使_VV 系统_NN 不_AD 稳定_VA ，_PU 出现_VV 振荡_NN 。_PU 贝尔_NN 实验室_NN 的_DEG 哈里_NN ·_PU 奈奎斯特_VV 有_VE 提出_VV 理论_VA ，_PU 说明_VV 如何_DT 稳定_JJ 一_CD 个_M 不_AD 稳定_VA 的_DEC 系统_NN 。_PU
+
+
+

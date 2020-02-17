@@ -1,0 +1,8 @@
+﻿_CS 共轭物_NN 理量_NN
+
+共轭物_NN 理量_NN (_PU Conjugatevariables_NN )_PU 指_VV 在_P 量子_NN 力学_NN 中_LC 其_PN 算符_NN 不_AD 对易_VA 的_DEC 物理量_NN 。_PU 它_PN 的_DEG 概念_NN 来自_VV 于_P 哈_NN 密_OD 顿_M 力学_NN ，_PU 其中_NN 共轭_NN 动_VV 量_NN 表述_VV 为_VC 拉格_NN 朗日_NN 函数_NN 对_P 广义_NN 速度_NN 的_DEC 偏_JJ 微分_NN ：_PU
+在_P 量子_NN 力学_NN 中_LC ，_PU 物理量_NN A_NN 和_CC B_NN 共轭_NN 的_DEG 定义_NN 为_VC ，_PU 其_PN 算符_NN 不_AD 满足_VV 对_P 易关系_NN ：_PU
+它们_PN 的_DEG 一_CD 个_M 重要_JJ 特性_NN 是_VC 存在_VV 不_AD 确定_VV 关系_VV ：_PU
+最_AD 经典_VV 的_DEC 共轭物_NN 理量_NN 包括_VV 位置_NN /_PU 动_VV 量_NN 、_PU 时间_NN /_PU 能量_NN 等_ETC 。_PU
+
+

@@ -1,0 +1,10 @@
+﻿世界_NN 同_DT 步_M 辐射_NN 装置_NN 列表_VV
+
+世界_NN 各_DT 地_NN 同步_AD 辐射_NN 装置_NN 列表_VV ，_PU 这些_DT 装置_NN 利用_VV 储存环_NN 和_CC 自由_JJ 电子_NN 激光_NN 作为_P 同_DT 步_M 辐射_NN 的_DEC 能量_NN 来源_LC 。_PU
+
+
+
+
+
+
+

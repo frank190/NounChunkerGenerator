@@ -1,0 +1,5 @@
+﻿_CS 空间物_NN 理学_NN
+
+空间物_NN 理学_NN （_PU ）_PU ，_PU 在_P 一些_CD 地区_NN 亦_AD 称做_VV -_PU {zh_NN -_PU cn_NN :_PU 太空_NN ;_PU zh_NN -_PU tw_NN :_PU 空间_NN ;_PU zh_NN -_PU hk_NN :_PU 空间_NN }_PU -_PU 物理学_NN ，_PU 又_CC 名_NN -_PU {zh_NN -_PU cn_NN :_PU 空间_NN ;_PU zh_NN -_PU tw_NN :_PU 太_AD 空_VA ;_PU zh_NN -_PU hk_NN :_PU 太空_NT }_PU -_PU 等离子_NN 体物_NN 理学_NN ，_PU 是_VC 研究_VV 宇宙_NN 空间_NN 环境_NN 下_NN 等离子体_NN （_PU 一般而言_AD ，_PU 它_PN 是_VC 处于_VV 电磁场_NN 环境_NN 下_LC 的_DEG 稀薄_VA 、_PU 高温_NN 、_PU 準电_NN 中性_NN 的_DEC 电离_JJ 气体_NN ）_PU 物理_NN 性质_NN 的_DEC 学科_NN 。_PU 研究_NN 对象_NN 包括_VV 太阳_NN 活动_NN 、_PU 太阳风_NN 、_PU 行星_NN 磁层_NN 和_CC 电离层_NN 、_PU 极_CC 光_NN 、_PU 宇宙线_NN ，_PU 以及_CC 同_DT 步_M 辐射_NN 等等_ETC 。_PU 空间物_NN 理学_NN 的_DEC 有利_JJ 观测_NN 手段_NN 之_DEC 一_CD 是_VC 可以_VV 实地_AD 考察_VV 被_SB 观测_VV 对象_NN 的_DEC 探测器_NN ，_PU 比如_AD 搭载_VV 了_AS 探测器_NN 的_DEC 空间_NN 飞行器_NN ，_PU 针对_P 高层_JJ 大气_NN 的_DEG 探空_NN 火箭_NN 等等_ETC 。_PU 除了_P 丰富人_NN 类对于_P 宇宙_NN 空间_NN 的_DEC 等离子体_NN 物理_NN 性质_NN 和_CC 物理_NN 现象_NN 的_DEG 了解_NT ，_PU 空间物_NN 理学_NN 也_AD 被_SB 应用_VV 于_P 空间_NN 天气学_NN 等_ETC 领域_NN ，_PU 并且_CC 和_CC 人们_PN 的_DEG 日常_JJ 生活_NN 有着_P 紧密_JJ 联系_NN 。_PU
+
+

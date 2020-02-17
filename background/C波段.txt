@@ -1,0 +1,5 @@
+﻿_NN C_NN 波段_NN
+
+根据_P IEEE521_NN -_PU 2002_CD 标准_NN ，_PU C_NN 波段_NN 是_VC 指_VV 频率_VV 在_P 4_CD -_PU 8_CD GHz_M 的_DEC 无线_JJ 电波_NN 波段_NN 。_PU 通常_AD 的_DEG 上_JJ 行频_NN 率_VV 范围_NN 为_VC 5_CD ._PU 925_CD -_PU 6_CD ._PU 425_CD GHz_M ，_PU 下_JJ 行频率_NN 则_AD 为_VC 3_CD ._PU 7_CD -_PU 4_CD ._PU 2_CD GHz_M ，_PU 即_AD 上下_CS 行带_VV 宽各_NN 为_VC 500_CD MHz_NN 。_PU 早期_AD 卫星_VV 通信_AD 使用_VV 的_DEC 是_VC C_NN 波段_NN ，_PU 后来_NT 因为_P C_NN 波段_NN 变得_VV 拥挤_NN ，_PU 于_P 是就_AD 相继_VV 出现_VV 了_AS K_NN 波段_NN 、_PU K_NN 波段_NN 等_ETC 。_PU
+
+

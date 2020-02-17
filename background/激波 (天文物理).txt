@@ -1,0 +1,13 @@
+﻿激波_NN (_PU 天文_NN 物理_NN )_PU
+
+激_CD 波_M 在_P 天文_NN 物理_NN 的_DEC 环境_NN 中_LC 屡_AD 见_VV 不_AD 鲜_VA 。_PU 一些_CD 在_P 天文_NN 物理_NN 中_LC 的_DEG 激波_NN 例子_NN 如下_VV ：_PU
+
+由于_P 低_JJ 密度_NN 的_DEC 环境_NN ，_PU 多数天_NN 文学_NN 的_DEG 激波_NN 是_VC 无_VE 碰撞_NN 。_PU 这_DT 意味_NN 着_AD 因为_P 平均_JJ 自由_JJ 径太_NN 大_VA ，_PU 经常_AD 超过_P 系统_NN 的_DEG 尺度_NN ，_PU 激_AD 波_M 不_AD 是_VC 由_P 两_CD 个_M 物体_NN 的_DEC 库伦_NN 碰撞_NN 形成_VV 的_DEC 。_PU 人们_NN 普遍_AD 认为_VV 驱动_VV 这些_DT 激波_NN 的_DEC 机制_NN 是_VC 电浆_NN 不_AD 稳定性_AD ，_PU 这_PN 是_VC 由_P 电浆_NN 表面_NN 深度_NN 所_MSP 掌控_VV ，_PU 因为_P 它_PN 通常_AD 比_P 自由_P 路径_NN 短_VA 得多_VV 。_PU
+
+众所周知_VV 无_VE 碰撞_NN 的_DEC 激波_NN 是_VC 非常_AD 高_VA 能量_VA 的_DEC 高能_JJ 粒子_NN ，_PU 虽然_CS 观测_VV 上_LC 还_AD 不_AD 能_VV 明确_AD 证实_VV 高_JJ 能量_NN 的_DEG 光子_NN 是_VC 由_P 质子_NN 、_PU 电子_NN 或者_CC 两_CD 者_NN 都_AD 是_VC ，_PU 辐射_NN 出来_VV 的_DEC ；_PU 一般_AD 都_AD 认为_VV 费米_JJ 加速机_NN 制_VV 的_DEC 加速_NN 产生_VV 高能_JJ 粒子_NN 。_PU 人们_NN 通常_AD 都_AD 认超_VV 新星_JJ 残骸_NN 的_DEC 激波_JJ 在_VV 星际_NN 物质_NN 间_LC 的_DEG 扩散_NN 造成_VV 激_CD 波_M ，_PU 加速_VV 了_AS 在_P 地球_NN 大气层_NN 观察_VV 到_VV 的_DEC 宇宙_NN 射线_NN 。_PU
+
+在_P 恒星_NN 环境_NN 中_LC 的_DEG 激_CD 波_M ，_PU 像是_AD 恒_BA 星_NN 内部_NN 核心塌_NN 缩_VV 形成_VV 的_DEC 超新星_NN 爆炸_NN ，_PU 往往_AD 成为_VV 辐射_NN 介质_NN 激_NN 波_ETC 。_PU 这_DT 种_M 冲击_NN 是_VC 光子_NN 与_CC 物质_NN 的_DEC 垫子_NN 撞击_NN 产生_VV 的_DEC ，_PU 并且_CC 这_DT 种_M 冲击_NN 的_DEG 下游_NN 是_VC 由_P 辐射_NN 能量_NN 木度_NN 主导_NN ，_PU 而_CC 不_AD 是_VC 物质_NN 的_DEC 热能_NN 。_PU
+
+天文_NN 物理_NN 的_DEC 激波_NN 有_VE 一_CD 种_M 很_AD 重要_VA 的_DEC 是_VC 相对_JJ 论激波_NN ，_PU 这_DT 种_M 激波_NN 的_DEC 速度_NN 相较_VV 於_P 光速_NN 是_VC 不_AD 能_VV 被_SB 忽略_VV 的_DEC 。_PU 这_DT 种_M 激波_NN 在_P 天体_NN 的_DEC 实质_NN 环境_NN 中_LC ，_PU 是_VC 既_CC 无_VE 碰撞_NN 也_AD 无_VE 辐射_NN 物质_NN 的_DEC 一_CD 种_M 。_PU 相对论_AD 激波_VV 的_DEC 理论_NN 预期_NN 是_VC 在_P 活跃_JJ 星系_NN 核_NN 、_PU 伽_NN 玛射线_NN 暴_VV 的_DEC 喷流_NN 和_CC 某些_DT 类型_NN 的_DEG 超新星_NN 爆炸_VV 的_DEC 喷流_NN 。_PU
+
+

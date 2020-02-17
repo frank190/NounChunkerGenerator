@@ -1,0 +1,10 @@
+﻿膜_NN (_PU 物理学_NN )_PU
+
+弦论_NN 与_CC 相关_JJ 的_DEG 超重力_NN 理论_NN 中_LC ，_PU 膜_NN （_PU ）_PU 为_VC 一_CD 物理_NN 实体_NN ，_PU 将_BA 点粒子_NN 的_DEG 概念_NN 推广_VV 至_CC 更_AD 高_JJ 维度_NN 。_PU 举例_NN 来说_LC ，_PU 点粒子_NN 可以_VV 视为_P 零_CD 维_M 的_DEG 膜_NN ，_PU 而_CC 弦_NN 则_AD 可_VV 视为_VV 一_CD 维_M 的_DEG 膜_NN ；_PU 更_AD 高_VA 维_NN 的_DEG 膜_NN 也_CC 可_VV 能_VV 存在_VV 。_PU 在_P "_PU p_NN "_PU 维度_NN 的_DEG 情形_NN ，_PU 这些_DT 膜称_NN 为_VC "_PU p_NN "_PU 膜_NN 。_PU 膜_NN 的_DEG 英文_NN 字_NN brane_NN 源于_VV 另_DT 个_M 英文字_NN membrane_NN ，_PU 后者_NN 指_VV 的_DEC 是_VC 二_CD 维膜_NN 。_PU
+
+膜_NN 是_VC 动力学_NN 物体_NN ，_PU 在_P 时空_NN 中_LC 行进_VV ，_PU 所_MSP 根据_P 的_DEG 是_VC 量子_NN 力学_NN 的_DEC 规则_NN 。_PU 它们_PN 带有_VV 质量_NN 与_CC 其他_DT 性质_NN ，_PU 例如_AD 电荷_NN 。_PU 一_CD 个_M "_PU p"膜_NN 的_DEG 行进_NN 在_P 时空_NN 中_LC 扫出_VV 了_AS (_NN "_PU p_NN "_PU +_NN 1_CD )_PU 维度_NN 的_DEG 体积_NN ，_PU 称之为_VV 世界_NN 体积_NN （_PU worldvolume_NN ）_PU 。_PU 物理_NN 学家_VV 研究_NN 类似_NN 於_P 电磁场_NN 的_DEC 场物理_NN ，_PU 这些_DT 场_M 存在_VV 于_P 膜_NN 的_DEG 世界_NN 体积_NN 。_PU
+
+弦论_NN 中_LC ，_PU D_NN 膜_NN 为_VC 一_CD 类_M 重要_VA 的_DEC 膜_NN ，_PU 与_P 开弦有关_VV 。_PU 当_P 开弦_NN 在_P 时空_NN 中_LC 行进_VV ，_PU 开弦_VV 的_DEC 端点_NN 必须_VV 在_P D_NN 膜_NN 上_LC 。_PU D_NN 膜_NN 的_DEG 字母_NN D_NN 表示_VV 一_CD 项_M 数学_NN 条件_NN ，_PU 称作_VV 狄利_NN 克雷_NN 边界_NN 条件_NN 。_PU D_NN 膜_NN 的_DEG 研究_NN 导出_VV 重要_VA 的_DEC 成果_NN ，_PU 比如_VV AdS_NN /_PU CFT_NN 对_P 偶_PN ，_PU 在_P 量子_NN 场论_NN 的_DEC 许多_JJ 问题_NN 中_LC 具有_VV 重要_JJ 角色_NN 。_PU
+
+
+

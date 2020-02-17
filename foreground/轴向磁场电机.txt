@@ -1,0 +1,8 @@
+﻿轴_NN 向_P 磁场_NN 电机_NN
+
+轴向_JJ 磁场_NN 电机_NN 也_AD 叫_VA “_PU 圆盘_NN 电机_NN ”_PU ，_PU 即_AD 主_JJ 磁场_NN 与_CC 沿_P 转轴_NN 方向_NN 的_DEC 电机_NN 。_PU 轴_NN 向_P 磁场_NN 电机_NN 与_CC 普通_JJ 电机_NN 不_AD 同_VA ,_PU 其_PN 磁通_NN 方向_NN 为_VC 轴向_NN ,_PU 载流_NN 导体_NN 系径_NN 向_P 放置_VV ,_PU 定子_NN 和_CC 转子_NN 铁心_NN 为_VC 盘式_JJ 结构_NN 。_PU 轴向_JJ 磁场_NN 电机_NN 的_DEG 缺点_NN 是_VC 定子_NN 和_CC 转子_NN 间_LC 的_DEG 磁拉力_NN 很_AD 大_VA ,_PU 但_AD 采用_VV “_PU 夹层_NN ”_PU 结构_NN ,_PU 即_AD 在_P 两_CD 个_M 定子_NN 之间_LC 设_VV 一_CD 个_M 转子_NN 或_CC 两_CD 个_M 转子_NN 之间_LC 设_VV 一_CD 个_M 定子_NN 即_AD 可_VV 克服_VV ._PU 研究_NN 表明_VV ,_PU 轴_NN 向_P 磁场_NN 电机_NN 具有_VV 较_AD 大_VA 的_DEC 功率_NN /_PU 重量_NN 比_NN ,_PU 结构_NN 扁平_VA ,_PU 在_P 特定_JJ 场合_NN 下_LC ,_PU 具有_VV 明显_VA 的_DEC 优点_NN ._PU 2_CD 荡_M 本_DT 结构_NN 理论_VA 上_LC 每_DT 一_CD 种_M 径向_JJ 磁场_NN 电机_NN 都_AD 有_VE 一_CD 对应_JJ 的_DEG 轴向_JJ 磁场_NN 电机_NN ,_PU 而_MSP 后者_VV 的_DEC 磁路_NN 和_CC 气隙_NN 值_NN 更_AD 易_AD 改变_VV ,_PU 通常_AD 它_PN 可_VV 有_VE 以下_JJ 几_CD 种_M 结构_NN 方式_NN ：_PU
+
+世界_NN 上_LC 第一_OD 台电机_NN 就_AD 是_VC 法_NN 拉第_VV 的_DEC 圆盘_NN 发电机_NN ，_PU
+
+
+

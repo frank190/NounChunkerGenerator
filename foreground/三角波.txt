@@ -1,0 +1,7 @@
+﻿三_OD 角波_NN
+
+三角波_NN （_PU ）_PU 是_VC 一_CD 种_M 非_AD 正_JJ 弦波_NN ，_PU 其_PN 波形_NN 是_VC 三角形_NN ，_PU 因此_AD 得名_VV 。_PU 它_PN 具有_VV 周期性_NN 、_PU 分段_NN 连续性_NN ，_PU 并且_CC 是_VC 一_CD 个_M 实函数_NN 。_PU
+三角波_NN 的_DEC 无_VE 穷傅_NN 里_LC 叶级_JJ 数展_NN 开为_VV ：_PU
+
+
+

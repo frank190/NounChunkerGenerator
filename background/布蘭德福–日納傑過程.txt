@@ -1,0 +1,7 @@
+﻿布_NN 兰德_NN 福–日_NN 纳_VV 杰_NN 过程_NN
+
+布兰德_NN 福–_NN 日_NN 纳_VV 杰_NN 过程_NN （_PU ）_PU ，_PU 是_VC 从_P 旋转_VV 黑洞_NN 中_LC 提取_VV 能_VV 量_NN 的_DEG 一_CD 种_M 机制_VV ，_PU 由_P 罗杰_NN ·_PU 布兰_NR 福德_NN 和_CC 罗马_NN ·_PU 日_AD 纳杰于_VV 1977_CD 年_M 提出_VV 。_PU 这_PN 是_VC 类星体_NN 能量_NN 来源_VA 的_DEC 最佳_JJ 解释_NN 之一_LC ，_PU 它_PN 需要_VV 围绕_VV 着_AS 旋转_JJ 黑洞_NN 的_DEG 吸积盘_NN 和_CC 强大_VA 的_DEC 极向_JJ 磁场_NN 。_PU 磁场_NN 提取_VV 自_P 旋能_NN ，_PU 其_PN 功率_NN 可_VV 利用_VV 光速_JJ 圆柱_NN 处_NN 的_DEC 能量_NN 密度_NN 乘上_NN 面积_NN 得到_VV ：_PU
+
+式_NN 中_LC 的_DEG formula_NN __NN 2_CD 是_VC 磁场_NN 强度_NN ，_PU formula_NN __NN 3_CD 是_VC 光速_JJ 半径_NN ，_PU formula_NN
+
+

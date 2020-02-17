@@ -1,0 +1,15 @@
+﻿多_CD 重_BA 图形_NN
+
+多重_JJ 图形_NN （_PU Multiplepatterning_NN ）_PU 是_VC 指_VV 一_CD 种_M 在_P 半导体_NN 制造_NN 过程_NN 中_LC 的_DEG 技术_NN 。_PU 在_P 光刻_NN 过程_NN 中_LC 使用_VV 了_AS 多重_JJ 图形_NN 曝光_AD 增强_VV 了_AS 制作_VV 图形_NN 的_DEG 密度_NN 。_PU
+
+尽管_CS 极_VV 紫外光_NN 刻将_VV 在_VV 下_DT 一_CD 代_M 光_AD 刻_M 中_LC 作为_VV 一_CD 个_M 选项_NN ，_PU 但是_CC 这_DT 个_M 仍然_JJ 需要_NN 额外_VV 一次_JJ 曝光_NN 。_PU
+
+多重_JJ 图形_NN 的_DEC 最简_JJ 单形式_NN 是_VC 将_BA 图形分_NN 离成_VV 二_CD 个_M 或者_CC 三_CD 个_M 部分_NN 。_PU 每_DT 个_M 部分_NN 按照_P 通常_JJ 的_DEG 制程_NN 方法_NN 进行_VV 制作_NN 。_PU 整_DT 个_M 图形_NN 最终_AD 会合_VV 并_CC 形成_VV 最终_JJ 的_DEG 图层_NN 。_PU 这_DT 种_M 方法_NN 有时_AD 称为_VV 中心_NN 距_NN 分离_VV ，_PU 也_AD 会_VV 被_SB 称为_VV 光照_NN -_PU 刻蚀_NN -_PU 光照_NN -_PU 刻蚀_NN （_PU LELE_NN ）_PU 。_PU
+
+这_DT 种_M 技术_NN 用于_VV 20_CD 纳米_NN 制程_NN 、_PU 14_CD 纳米_NN 制程_NN 等_ETC 。_PU 额外_NN 暴光_NN 的_DEC 成本_NN 在_P 相关_JJ 制程_NN 中_LC 可以_VV 承受_VV 。_PU 一_CD 个_M 重要_VA 的_DEC 关注点_NN 是_VC 多次_JJ 暴光_NN 中_LC 的_DEG 图形_NN 交叠_NN 问题_NN 。_PU 自_AD 对_P 准多_VV 重_AD 暴光_JJ 技术_NN 成功_NN 的_DEG 引入_NN 解决_VV 这_DT 一_CD 问题_NN 。_PU
+
+侧壁_NN 是_VC 一_CD 个_M 通过_P 将_BA 预图形_NN 两_CD 边_NN 淀积_NN 而_MSP 产生_VV 的_DEC 物质_NN 。_PU
+
+由于_P 侧壁_NN 使用_VV 的_DEC 是_VC hardmask_NN 材料_NN ，_PU 它们_PN 的_DEG 后刻_NN 蚀_NN 图形_NN 质量_NN 非常_AD 重要_VA 。_PU
+
+

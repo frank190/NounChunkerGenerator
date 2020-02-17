@@ -1,0 +1,9 @@
+﻿_JJ 表面_NN 安装_VV 技术_NN
+
+表面_NN 安装_VV 技术_NN （_PU 又_AD 称为_VV SMT_NN ,_PU Surface_NN -_PU mounttechnology_NN ）_PU ，_PU 是_VC 一_CD 种_M 电子_NN 装联_NN 技术_NN ，_PU 起源于_VV 60_CD 年代_M ，_PU 最初_AD 由_P 美国_NR IBM_NN 公司_NN 进行_VV 技术_NN 研发_VV ，_PU 之后_AD 于_P 80年_NT 代后_NT 期渐_AD 趋成熟_VV 。_PU 此_DT 技术_NN 是_VC 将_BA 电子_NN 元件_NN ，_PU 如_P 电阻_NN 、_PU 电容_NN 、_PU 晶体管_NN 、_PU 集成_JJ 电路_NN 等等_ETC 安装_VV 到_VV 印刷_NN 电路板_NN 上_LC ，_PU 并_CC 通过_P 钎焊_NN 形成_VV 电气_NN 联结_NN 。_PU 其_PN 使用_VV 之_DEC 元件_NN 又_AD 被_SB 简称_VV 为_VC 表面_NN 安装_VV 元件_NN （_PU SMD_CD ，_PU surface_NN -_PU mountdevices_NN ）_PU 。_PU 和_CC 通孔_NN 插装_NN 技术_NN 的_DEG 最_AD 大_JJ 不同_JJ 处_NN 在于_VV ，_PU 表面_NN 安装_VV 技术_NN 不_AD 需_VV 为_VC 元件_NN 的_DEC 针脚_NN 预留_VV 对应_VV 的_DEC 贯穿孔_NN ，_PU 而_CC 表面_NN 安装_VV 技术_NN 的_DEC 元件_NN 尺寸_NN 也_AD 比_P 通孔_NN 插装_NN 技术_NN 的_DEG 微小_JJ 许多_NN 。_PU 借由_P 应用_NN 表面_NN 黏_VV 著_AS 技术_NN 可以_VV 增加_VV 整体_JJ 处理_NN 速度_NN ，_PU 但_CC 由于_P 零件_NN 的_DEG 微小化_NN 及_CC 密度_NN 的_DEG 增加_NN 电路_NN 板_NN 的_DEG 缺陷_NN 风险_NN 因而_AD 随之_AD 提高_VV ，_PU 所以_AD 在_P 任何_DT 表面_NN 黏_VV 著_AS 技术_NN 的_DEG 电路_NN 板_NN 制造_NN 过程_NN ，_PU 错误_VV 侦测_NN 已经_AD 变成_VV 必要_VA 的_DEC 一_CD 环_M 。_PU
+
+COG_NN （_PU Chip_NN -_PU On_NN -_PU Glass_NN ）_PU 是_VC 在_P LCD_NN 的_DEG 玻璃_NN 上_LC ，_PU 利用_VV 打线_NN 接合_NN 及_CC 黏糊_NN 的_DEC 方式_NN ，_PU 直接_AD 连接_VV 裸芯片_NN ，_PU 现_CC COG_NN 接合_NN 技术_NN 是_VC 将_BA 长有_JJ 金凸块_NN 的_DEG 驱动_NN IC_NN 裸_NN 芯片_NN ，_PU 使用_NN （_PU ACF_NN ）_PU 直接_AD 与_P LCD_NN 面板_NN 做_VV 连接_VV 。_PU
+
+
+
+

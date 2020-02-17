@@ -1,0 +1,8 @@
+﻿赫士_NN 定律_NN
+
+赫_OD 斯_DT 定律_NN （_PU ）_PU ，_PU 又名_JJ 反应热_NN 加成_VV 性_NN 定律_NN （_PU ）_PU ：_PU 若_CS 一_CD 反应为_VV 二_CD 个_M 反应式_NN 的_DEC 代数_NN 和_CC 时_LC ，_PU 其_PN 反应热_NN 为_VC 此_DT 二_CD 反应热_NN 的_DEC 代数_NN 和_CC 。_PU 也_AD 可_VV 表达_VV 为_VC 在_P 条件_NN 不_AD 变_VV 的_DEC 情况_NN 下_LC ，_PU 化学_NN 反应_NN 的_DEG 反应热_NN 只_AD 与_P 起始_NN 和_CC 终了_NN 状态_NN 有关_AD ，_PU 与_P 变化_NN 途径_NN 无关_AD 。_PU 它_PN 是_VC 由_P 俄罗_NN 斯_DT 化学_NN 家赫_NN 斯_AD 发现_VV ，_PU 被_SB 称为_VV 赫_CD 斯_DT 定律_NN 。_PU
+
+赫士_NN 定律_VV 描述_VV 了_AS 物质_NN 发生_VV 化学_NN 反应_VV 后_LC 的_DEG 焓_NN 的_DEG 变化_NN 等于_VV 生成物_NN 的_DEG 总标_NN 准生_VV 成焓_NN 和_CC 反应物_NN 的_DEG 总_JJ 标准_JJ 生成焓_NN 之差_LC ，_PU 即_AD 是_VC
+formula_NN
+
+

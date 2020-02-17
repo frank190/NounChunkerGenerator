@@ -1,0 +1,9 @@
+﻿_NN 电路_NN 符号_NN
+
+电路_NN 符号_NN （_PU ）_PU ，_PU 是_VC 一_CD 种_M 用来_VV 绘制_VV 电路图_NN 时_LC ，_PU 代表_VV 不同_VA 的_DEC 电子_NN 元件_NN 的_DEC 图像_NN 符号_NN 。_PU 例如_AD ：_PU 电线_NN ，_PU 电池_NN 、_PU 电阻_NN 、_PU 晶体管_NN 。_PU 这些_DT 符号_NN 曾经_AD 因_P 国家_NN 而_AD 异_VA ，_PU 但_CC 今日_NT 大多_CD 已_AD 国际_NN 标_VV 準化_VV 。_PU 有些_AD 符号_VV ，_PU 像_CS 是_VC 真空管_NN ，_PU 成为_VV 几乎_AD 灭绝_VV ，_PU 不_AD 再_AD 使用_VV 的_DEC 技术_NN 。_PU
+
+在_P 电路图_NN 符号_NN 的_DEG 标準_NN 也_AD 有_VE 数个_NN ，_PU 依_P 地区而异_AD ，_PU 有些_DT 微_JJ 差异_NN 。_PU 目前_NT 的_DEG 国际_NN 标準_NN 是_VC IEC_NN 60617_CD 。_PU
+
+
+
+

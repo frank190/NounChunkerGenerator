@@ -1,0 +1,15 @@
+﻿经_VV 典物_NN 理学_NN
+
+-_PU {zh_NN -_PU hant_NN :_PU ;_PU zh_NN -_PU hans_NN :_PU ;_PU }_CD -_PU
+经典物_NN 理学_NN 所_MSP 涉及_VV 的_DEC 物理学_NN 领域_NN 通常_AD 是_VC 一些_AD 在_P 量子_NN 力学_NN 与_CC 相_AD 对论_VV 之前_AD 发展_VV 出来_VV 的_DEC 理论_NN 。_PU 经典物_NN 理学_NN 所_MSP 概括_VV 的_DEC 精确_JJ 范围_NN 必须_VV 依_P 上_NN 下文_VV 而_MSP 定_VV 。_PU 当_P 研讨_VV 狭义_NN 相_AD 对论_VV 时_LC ，_PU 经典_NN 物理_NN 学指_VV 的_DEC 是_VC 在_P 相对_JJ 论_NN 之前_LC 的_DEG 牛顿_NN 物理_NN ，_PU 也就是说_AD ，_PU 以_P 在_P 相对_JJ 论_NN 与_P 量子_NN 力学_NN 之前_LC 所_MSP 发展_VV 出来_VV 的_DEC 理论_NN 为_VV 基础_NN 的_DEC 物理学_NN 。_PU 当_P 研讨_VV 广义相_AD 对论_VV 时_LC ，_PU 经典_NN 物理_NN 学指_VV 的_DEC 是_VC 将_BA 狭义_NN 相对论_AD 纳入_VV 考量_VV 后_LC 的_DEG 牛顿_NN 物理_NN 。_PU 当_P 研讨_VV 量子_NN 力学_NN 时_LC ，_PU 它_PN 指_VV 的_DEC 是_VC 包括_VV 狭义_NN 相对论_AD 与_P 广义_NN 相_AD 对论_VV 在_P 内_JJ 的_DEG 非_JJ 量子_NN 物理_NN 。_PU 换句话说_AD ，_PU 它_PN 指_VV 的_DEC 是_VC 在_P 所_MSP 研讨_VV 的_DEC 物理_NN 领域_NN 之前_LC 形成_VV 的_DEC 物理学_NN 。_PU
+
+经典_NN 物理_NN 包括_VV 以下_JJ 学术_NN 领域_NN
+
+与_P 经典_NN 物理_NN 对比_VV ，_PU 现代物_NN 理学_NN （_PU ）_PU 是_VC 一_CD 个_M 较_AD 笼统_JJ 的_DEG 词语_NN 。_PU 它_PN 有时_AD 只是_AD 专_AD 指_VV 量子_NN 物理学_NN ；_PU 有时_AD 则_AD 广_VA 含_VV 二十_CD 、_PU 二十一_CD 世纪_NN 的_DEC 物理_NN 学_NN ，_PU 可_VV 能_VV 包括_VV 了_AS 相_AD 对论_VV ，_PU 但是_CC 绝对_AD 会_VV 包括_VV 量子_NN 力学_NN 。_PU
+
+一_CD 个_M 在_P 经典层_NN 级_NN 内_LC 的_DEG 物理_NN 系统_NN （_PU ）_PU ，_PU 必须_VV 遵守_VV 所有_DT 经典_NN 物理_NN 的_DEC 定律_NN 。_PU 这些_DT 经典_NN 定律_VV 的_DEC 应用_NN 范围_NN 并_AD 没有_VE 任何_DT 限制_NN 。_PU 实际_JJ 而言_NN ，_PU 经典_NN 物理_NN 研究_VV 的_DEC 对象_NN 是_VC 在_P 原子_NN 或_CC 分子_NN 尺寸_NN 以上_LC 。_PU 这_PN 包括_VV 肉眼_NN 可见_VV 的_DEC 与_P 天文_NN 的_DEC 境界_NN 。_PU 小于_VV 这_DT 尺寸_NN ，_PU 例如_AD ，_PU 在_P 原子_NN 的_DEC 内部_NN ，_PU 或_CC 在_P 分子_NN 内部_NN 原子_NN 与_CC 原子_NN 之间_LC ，_PU 经_P 典物理_NN 的_DEC 定律_NN 开始_VV 失效_VV ，_PU 无法_AD 给予_VV 一_CD 个_M 正确_VA 的_DEC 描述_NN 。_PU
+
+完全决_AD 定论_VV （_PU ）_PU 是_VC 经典_NN 物理_NN 里_LC 一_CD 个_M 很_AD 重要_VA 的_DEC 特点_NN ，_PU 是_VC 经典_NN 物理_NN 与_CC 量子_NN 物理_NN 明显_VA 的_DEC 分界线_NN 。_PU 用_P 数学_NN 表述_NN ，_PU 经_P 典_NN 物理_NN 方程式_NN 内_LC 绝对_AD 不_AD 会_VV 有_VE 普朗克_NN 常数_NN 的_DEG 出现_NN 。_PU 根据_P 对应_JJ 原理_NN 与_CC 埃伦费_NN 斯_DT 特定_JJ 理_NN ，_PU 当_P 系统_NN 变得_VV 越来越_AD 大_VA 或_CC 质量_NN 增加_VV 时_LC ，_PU 即_AD 作_VV 用量_NN 超大于_VV 普朗克_JJ 常数_NN ，_PU 经典_NN 物理_NN 的_DEC 特征_NN 倾向_VV 就_AD 会_VV 出现_VV ，_PU 但_CC 也_AD 有_VE 例外_AD ，_PU 超流体_NN 就_AD 是_VC 其中_DT 之一_NN 。_PU 因此_AD ，_PU 论_NN 及_CC 日常_JJ 物体_NN ，_PU 我们_PN 通常_AD 可以_VV 忽略_VV 量子_NN 力学_NN ，_PU 经典_AD 地_DEV 描述_VV 就_AD 足够_VV 了_AS 。_PU 可_VV 是_VC ，_PU 在_P 物理_NN 学里_VV ，_PU 现在_NT 最_AD 热门_VA 的_DEC 研究_NN 科目_NN 之一_AD 是_VC 经_P 典量子_NN 对应_JJ 问题_NN ：_PU 量子_NN 物理_NN 的_DEC 定律_NN ，_PU 在_P 经典_NN 的_DEC 规模_NN 尺寸_NN 极限_VV ，_PU 怎样_AD 转变_VV 为_VC 经典_NN 物理_NN ？_PU
+
+
+

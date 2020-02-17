@@ -1,0 +1,19 @@
+﻿普朗克_NN 粒子_NN
+
+普朗克_NN 粒子_NN 是_VC 一_CD 种_M 假设_VV 的_DEC 粒子_NN ，_PU 定义_NN 为_VC 约化_JJ 康普顿_NN 波长_NN 等于_VV 半_CD 个_M 史瓦西_NN 半径_NN 的_DEC 微黑洞_NN 。_PU 用_P 方程式_NN 表达_VV ，_PU 约化_VV 康普顿_NN 波长_NN formula_NN __NN 1_CD 与_P 史瓦西_NN 半径_NN formula_NN
+
+其中_NN ，_PU formula_NN __NN 5_CD 是_VC 约化_JJ 普朗克_NN 常数_NN ，_PU formula_NN __NN 6_CD 是_VC 普朗克_NN 粒子_NN 的_DEG 质量_NN ，_PU formula_NN __NN 7_CD 是_VC 光速_NN ，_PU formula_NN
+
+使_VV 两_CD 个_M 方程式_NN 相等_VV ，_PU 可以_VV 得到_VV 普朗克_NN 粒子_NN 的_DEG 质量_NN ：_PU
+
+所以_AD ，_PU 普朗克_NN 粒子_NN 的_DEG 质量_NN 与_CC 普朗克_NN 质量_NN formula_NN
+
+而_AD 普朗克_JJ 粒子_NN 的_DEG 约化_JJ 康普顿_NN 波长_NN 与_CC 普朗克_NN 长度_NN formula_NN
+
+与_P 质子_NN 这_DT 类_M 的_DEG 粒子_NN 比较_VV ，_PU 普朗克_JJ 粒子_NN 是_VC 极_AD 小_JJ 极重_NN 的_DEC 粒子_NN ；_PU 它_PN 的_DEG 半径_NN 大约_AD 是_VC 质子_NN 的_DEG 半径_NN 乘以_VV formula_NN __NN 14_CD ，_PU 质量_NN 大约_AD 是_VC 质子_NN 的_DEG 质量_NN 乘以_VV formula_NN
+
+许多_CD 物理_NN 学家_NN 认为_VV 普朗克_NN 粒子_NN 会_VV 因为_P 霍金_NN 辐射_NN 而_MSP 消失_VV 不_AD 见_VV 。_PU 依照_P 理论_NN 估计_NN ，_PU 普朗克_NR 粒子_NN 的_DEC 壽命_NN 只_AD 有_VE formula_NN __NN 16_CD 秒_M ，_PU 或_CC formula_NN 普朗克_JJ 时间_NN 。_PU 这么_AD 极_AD 短_VA 的_DEC 一_CD 霎那_M 时间_LC ，_PU 目前_NT 尚_AD 无法_AD 成功_VV 地_DEV 测量_VV 。_PU 在_P 另_DT 一_CD 方面_NN ，_PU 霍金_NN 辐射_NN 这_DT 理论_NN 仍旧_AD 存在_VV 著_AS 许多_CD 争议_NN ，_PU 仍旧_AD 等待_VV 更_AD 多_VA 的_DEC 研究_NN 与_CC 论证_NN 。_PU
+
+
+
+

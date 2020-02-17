@@ -1,0 +1,26 @@
+﻿加_VV 伯_NN 转换_NN
+
+加_NN 伯_NN 转换_NN 是_VC 窗函数_NN 为_VC 高_VA 斯_DT 函数_NN 的_DEG 短时_NN 距_VV 傅_NN 立_VV 叶_NN 变换_VV 。_PU
+
+将_BA 短_JJ 时距傅_NN 立_VV 叶_NN 变换_NN 中_LC 的_DEG 窗_NN 函数_NN 代入_VV 高_VA 斯_DT 函数_NN ，_PU 即_AD 可_VV 得下面_VV 的_DEC 定义_NN 。_PU
+根据_P 高斯_JJ 函数_NN 会_VV 从_P 两_CD 侧_NN 递减_VV 的_DEC 性质_NN ，_PU 我们_PN 可以_VV 将_BA 上式_JJ 进一_JJ 步化简_NN ：_PU
+让积_NN 分范围_NN 不_AD 是_VC 无限_AD 大_VA ，_PU 有利于_VV 实作_VA 。_PU
+
+
+上述_JJ 提到_NN ，_PU 高_AD 斯_DT 函数_NN 是_VC 最_AD 能_VV 兼顾_VV 时间_NN 与_CC 频率_NN 分辨率_NN 的_DEG 窗函数_NN 。_PU 我们_PN 利用_VV 这_DT 个_M 章节_NN 来_MSP 详细_AD 讨论_VV 。_PU
+
+
+
+由于_P 高斯窗_JJ 函数_NN 的_DEG 宽度_NN 可以_VV 由_P 其_PN 变异_JJ 数做_NN 调整_VV ，_PU 因此_AD 我们_PN 将_BA 这_DT 个_M 参数_NN 加入_VV 加_VV 伯_NN 转换_NN 的_DEC 数学_NN 式子_NN 中_LC ，_PU 让_VV 转换_NN 更加_AD 弹性_VA 。_PU
+formula_NN
+
+改变_VV 高_VA 斯_DT 函数_NN 的_DEG 宽度_NN ，_PU 和_CC 改变_NN 方形窗_NN 函数_NN 短时_AD 距_VV 傅_NN 立_VV 叶_NN 变换_VV 的_DEC 效果_NN 类似_VA 。_PU 若_CS 选取_VV 较_AD 大_VA 的_DEC formula_NN __NN 15_CD ，_PU 高_JJ 斯_DT 窗_NN 函数_NN 较_AD 窄_VA ，_PU 则_AD 时间_NN 轴_NN 有_VE 较_AD 高_VA 的_DEC 分辨率_NN ，_PU 频率_NN 轴_NN 的_DEG 分辨率_NN 会_VV 下降_VV 。_PU 反之_VV ，_PU 若_CS 选取_VV 较_AD 小_VA 的_DEC formula_NN
+
+加_NN 伯_NN 转换_NN 的_DEC 大部_NN 分_NN 的_DEG 特性_NN 和_CC 方形窗_NN 函数_NN 短时_AD 距_VV 傅_NN 立_VV 叶_NN 转换_VV 的_DEC 特性_NN 都_AD 相似_VA ，_PU 有些_PN 特性_NN 甚_AD 至更_AD 加接_VV 近傅_JJ 立叶_NN 转换_VV 的_DEC 特性_NN 。_PU
+
+
+
+
+
+
+

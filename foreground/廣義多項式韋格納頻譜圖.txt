@@ -1,0 +1,8 @@
+﻿广义_NN 多项式_JJ 韦格_NN 纳_VV 频谱_NN 图_NN
+
+广义_JJ 多项式_JJ 韦格_NN 纳_VV 频谱图_NN （_PU generalizedpolynomialWignerspectrogram_NR ）_PU ，_PU 是_VC 一_CD 种_M 用于_VV 时_LC 频_VV 分析_VV 的_DEC 方法_NN ，_PU 属于_VV 信号_NN 处理_VV 的_DEC 范畴_NN 。_PU 一_CD 个_M 好_VA 的_DEC 时频_NN 分析_NN 讲求_VV 在_P 频谱图_NN 上_LC 要_VV 有_VE 高_VA 的_DEC 分辨率_NN ，_PU 并且_CC 不_AD 能_VV 有_VE 相交_JJ 项_NN (_NN crossterm_NN )_NN ，_PU 才_AD 能_VV 得到_VV 準确_VA 的_DEC 瞬_NN 时_LC 频率_NN ，_PU 但_CC 这_DT 两_CD 点_M 之间_LC 常_AD 须_VV 进行_VV 取舍_NN 。_PU 韦格_NN 纳_NN 分布_VV 虽然_CS 分辨率_NN 较_AD 高_VA ，_PU 但_AD 在_P 许多_CD 情况_NN 下_LC 会_VV 有_VE 相_AD 交项_VV ，_PU 例如_AD 瞬_NN 时_LC 频率_NN 为_VC 高阶_NN 指数_NN 函数_NN 时_LC 或_CC 多_JJ 组件_NN 时_LC ；_PU 在_P 瞬_NN 时_LC 频率_VV 为_VC 高阶_JJ 指数_NN 函数_NN 时_LC 除了_P 能_VV 保有_VV 高分辨率_NN 之外_LC 还_AD 能_VV 消除_VV 相_AD 交项_VV ，_PU 但_CC 在_P 多_CD 组件_NN 情况_NN 下_LC 的_DEG 相交_JJ 项_NN 仍然_AD 存在_VV ；_PU 加_VV 伯_NN 转换_NN 没有_VE 相_AD 交项_VV ，_PU 但_CC 分辨率_NN 较_AD 低_VA ，_PU 广义_NN 频谱图_NN 虽然_CS 强化_VV 了_AS 加_VV 伯_NN 转换_NN 的_DEC 分辨率_NN ，_PU 但_CC 仍_AD 比_P 韦格_NN 纳_NN 分布_VV 来_MSP 得模_VV 糊_NN 。_PU
+
+广义_JJ 多项式_JJ 韦格_NN 纳_VV 频谱_NN 图_NN 透过_AD 结合_VV 广义_JJ 频谱图_NN 与_CC 的_DEC 优点_NN ，_PU 来_MSP 达到_VV 同时高_AD 分辨率_NN 与_CC 没有_VE 相交_JJ 项_NN 的_DEG 目标_NN 。_PU
+
+
+

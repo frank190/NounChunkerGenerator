@@ -1,0 +1,9 @@
+﻿_NN Z_NN 脉冲_NN 功率_NN 设施_NN
+
+Z_NN 脉冲_NN 功率_NN 设施_NN (_PU )_NN ，_PU 非_AD 正式_JJ 称为_VV "_PU Z_NN 机_NN "_PU ，_PU 是_VC 世界_NN 上_LC 最_AD 大_VA 的_DEC 高频_JJ 电磁波_NN 发生器_NN ，_PU 设计_VV 用于_VV 在_P 极端_NN 温度_NN 和_CC 压力_NN 条件_NN 下_LC 测试_VV 材料_NN 。_PU 自_P 1996_CD 年_CC 10_CD 月重_JJ 新装_NN 修以_VV 来_VV ，_PU 它_PN 主要_AD 被_SB 用作_VV 惯性_JJ 约束_NN 聚变_NN （_PU ICF_NN ）_PU 研究_VV 设施_NN 。_PU 由_P 桑迪亚_NN 国家_NN 实验室_NN 操作_NN ，_PU 它_PN 收集_VV 数据_NN 以_MSP 帮助_VV 核武器_NN 和_CC 最终_JJ 的_DEG 核聚变脉_NN 冲发_VV 电厂_NN (_PU nuclearpower)_NN 的_DEG 计算机_NN 建模_VV 。_PU Z_NN 机位于_VV 新墨_NN 西哥_NN 州阿尔_NN 伯克基_NN 的_DEC 桑迪亚_NN 的_DEG 主要_JJ 场所_NN 。_PU
+
+在_P 2006_CD 年初_NN ，_PU Z_NN 机产_NN 生出_VV 具有_VV 超过_VV 20亿_CD 开_VV 尔文_NN （_PU 2_CD GK_M ,_PU 2_CD ×_PU 10K_CD ）_PU 或_CC 36亿_CD ℉_M （_PU 20亿_CD 摄氏度_NN ）_PU 的_DEG 温度_NN 的_DEC 等离子_NN 体_NN ，_PU 甚至_AD 峰值_NN 达到_VV 3_CD ._PU 7_CD GK_M 或_CC 66亿_CD 华氏度_NN （_PU 37亿_CD 摄氏度_NN ）_PU 。_PU
+
+
+
+

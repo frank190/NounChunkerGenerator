@@ -1,0 +1,11 @@
+﻿闸_NN 流体_NN 驱动器_NN
+
+闸流体_NN 驱动器_NN （_PU thyristordrive_NN ）_PU 是_VC 一_CD 种_M 电动机_NN 驱动_NN 电路_NN ，_PU 用_P 闸流体_NN 控制_VV 交流_NN 输入_NN 电压_NN 的_DEG 相位_NN ，_PU 提供_VV 可变_VV 的_DEC 电压_NN 给_P 直流_JJ 电动机_NN 。_PU
+
+闸流体_NN 可以_VV 视为_AD 是_VC 可以_VV 延后_AD 导通_VV 的_DEC 二极体_NN ，_PU 在_P 有_VE 触发_NN 讯号_NN 后_LC 即_AD 导通_VV ，_PU 在_P 逆向_AD 偏压_VV 时_LC 即_AD 关闭_VV 。_PU 闸流体_NN 驱动器_NN 中_LC 的_DEG 整流器_NN 会_VV 由_P 闸流体_NN 及_CC 二极体_NN 组成_VV ，_PU 达到_VV 控制_NN 电压_NN 的_DEC 目的_NN 。_PU
+
+闸流体_NN 驱动器_NN 非常_AD 简单_VA ，_PU 最早_AD 是_VC 在_P 1960_CD 年代_NN 开始_VV 使用_VV ，_PU 到_VV 1980_CD 年代_M 末期_NN 之前_LC ，_PU 闸流体_NN 驱动器_NN 都_AD 还_AD 是_VC 工业_NN 上_LC 主要_VA 的_DEC 电机_NN 控制器_NN ，_PU 而_CC 1980_CD 年代_M 末期_NN 时_LC 出现_VV 了_AS 新_JJ 且_CC 低价_JJ 的_DEG 电力_NN 电子_NN 技术_NN ，_PU 因此_AD 高_VA 性能_NN 系统_NN 的_DEG 应用_NN 用_P 斩波器_NN 取代_VV 闸流体_NN 驱动器_NN ，_PU 高_AD 可_VV 靠度_VV 的_DEC 应用_NN 改用_VV 逆变器_NN 配合_VV 交流_NN 电动机_NN 的_DEG 架构_NN 。_PU 在_P 一些_CD 高_JJ 功率_NN 的_DEG 应用_NN 中_LC 仍然_AD 会_VV 使用_VV 闸流体_NN 驱动器_NN ，_PU 例如_AD 铁路_NN 机车_NN ，_PU 晶闸管_NN 的_DEC 高_JJ 功率_NN 密度_NN 以及_CC 其_PN 简单_VA 的_DEV 设计_VV ，_PU 使得_VV 此_DT 推进_NN 系统_NN 比_P 电晶体_NN 为_VC 基础_NN 的_DEG 控制器_NN 更_AD 有_VE 吸引力_NN 。_PU
+
+闸流体_NN 驱动器_NN 衍生_VV 的_DEC 应用_NN 是_VC 交流_NN 相_NN 控制器_NN （_PU ACphasecontroller_NN ）_PU ，_PU 此_DT 控制器_NN 用_P 单相_JJ 的_DEG 相控_JJ 提供_VV 可_VV 变_VV 电压_NN 的_DEC 交流_NN 输出_VV ，_PU 控制_VV 。_PU 这_PN 是_VC 家电_NN 中_LC 最_AD 常用_VV 的_DEC 电动机_NN 速度_NN 控制_NN 方式_NN ，_PU 像_AD 是_VC 食物_NN 调理机_NN 、_PU 小型_JJ 交流_NN 驱动_NN 工具_NN （_PU 例如_AD 电钻_NN ）_PU 。_PU
+
+

@@ -1,0 +1,8 @@
+﻿共振_NN 增强_VV 多光子_NN 离子化_NN
+
+共_AD 振_AD 增强_VV 多光子_NN 离子化_NN （_PU Resonanceenhancedmultiphotonionization_NN ，_PU REMPI_NN ）_PU ，_PU 或_CC 译称_NN 共_AD 振_AD 增强_VV 多_JJ 光子_NN 电离_NN 或_CC 多光子_NN 共_AD 振_P 游离_VV ，_PU 是_VC 一_CD 种_M 用来_VV 侦测_VV 原子_NN 和_CC 小_JJ 分子_NN 的_DEC 光谱_NN 方法_NN 。_PU 这_DT 个_M 方法_NN 透过_VV 一_CD 个_M 可调式_JJ 雷射_NN 来_MSP 选择性_AD 地_DEV 将_BA 原子_NN 或_CC 分子_NN 激发_VV 到_VV 某_DT 一_CD 共振_NN 的_DEG 中间态_NN ；_PU 此_DT 被_SB 激发_VV 的_DEC 原子_NN 或_CC 分子_NN 再_AD 被_SB 激发_VV ，_PU 并_CC 产生_VV 电离_NN 。_PU
+若_CS 原子_NN 或_CC 分子_NN 被_SB 激发_VV 到_VV 中间态_NN 需要_VV 一_CD 个_M 光子_NN ，_PU 再_AD 接着_VV 另_DT 一_CD 个_M 同_DT 波长_NN (_PU 或_CC 频率_NN 、_PU 能量_NN )_PU 的_DEG 光子_NN 将_BA 其_PN 激发_VV 电离_NN ，_PU 则_AD 命名_NN 为_VC (_PU 1_CD +_PU 1_CD )_PU REMPI_NN ；_PU 同理_AD ，_PU 若_CS 将_BA 其_PN 激发_VV 到_VV 中间态_NN 需_VV 二_CD 个_M 或_CC 三_CD 个_M 光子_NN ，_PU 则_AD 称_VV (_PU 2_CD +_PU 1_CD )_PU REMPI_NN 或_CC (_PU 3_CD +_PU 1_CD )_PU REMPI_NN 。_PU 若_CS 将_BA 其_PN 电离_NN 的_DEC 光子_NN 波长_NN 不同于_VV 将_BA 其_PN 激发_VV 到_VV 中间态_NN 的_DEC 光子_NN 波长_NN ，_PU 则_AD 命名_NN 为_VC (_PU 1_CD +_PU 1_CD '_PU )_PU REMPI_NN ，_PU (_PU 2_CD +_PU 1_CD '_PU )_PU REMPI_NN 或_CC (_PU 3_CD +_PU 1_CD '_PU )_PU REMPI_NN ，_PU 其_PN 他_PN 则_AD 以_P 此_DT 类推_NN 。_PU
+
+共_AD 振_AD 增强_VV 多光子_NN 离子_NN 化需_NN 要高_VV 强度_NN 的_DEC 紫外_NN 或_CC 可_VV 见光_VV 光子_NN ，_PU 通常_AD 需要_VV 使用_VV 脉冲式_JJ 雷射_NN ，_PU 并_CC 将_BA 其_PN 聚焦_NN ，_PU 其_PN 离子_NN 化_NN 效率_NN 非常_AD 高_VA ，_PU 可_VV 接近_VV 100%_CD 。_PU 也_AD 因为_AD 使用_VV 脉冲_NN 雷射_NN ，_PU 所以_AD 侦测_NN 方式_NN 可以_VV 使用_VV 飞行_VV 时间_NN 质谱仪_NN 。_PU 共_AD 振_AD 增强_VV 多光子_NN 离子_NN 化_NN 除了_P 应用_VV 在_P 光谱_NN 研究外_NN ，_PU 也_AD 可_VV 研究_VV 释放_NN 电子_NN 的_DEC 能量_NN 与_CC 角_NN 分布_VV 等_ETC 。_PU 此外_AD ，_PU 也_AD 被_SB 广泛_VA 的_DEC 使用_VV 在_P 光_NN 分解_VV 离_VV 子_NN 成像_NN 。_PU
+
+

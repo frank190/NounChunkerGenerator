@@ -1,0 +1,23 @@
+﻿互协_NN 方差_NN
+
+在_P 统计学_NN 中_LC ，_PU 互协_NN 方差_NN 表示_VV 两_CD 个_M 随_P 机向量_NN "_PU X"_NN 与_CC "_PU Y_OD "_PU 之间_LC 的_DEG 协方_NN 差_VC cov_NR (_ETC "_PU X_NN "_PU ,_PU  _NN "_PU Y_NN "_PU )_NN ，_PU 以_MSP 区别_VV 于_P 随_P 机向量_NN "_PU X_NN "_PU 的_DEC “_PU 协方_NN 差_VA ”_PU 即_AD "_PU X_NN "_PU 的_DEG 各_DT 个_M 标量_NN 元素_NN 之间_LC 的_DEG 协方_NN 差_AD 矩阵_VV 。_PU
+
+在_P 信号_NN 处理_NN 领域_NN ，_PU 互协方_NN 差_NN 是_VC 两_CD 个_M 信号_NN (_PU 信息论_NN )_PU 之间_LC 相似性_JJ 的_DEG 度量_NN ，_PU 它_PN 也_AD 称为_VV “_PU 互相_AD 关”_VV 。_PU 互协_NN 方差_NN 通常_AD 用于_VV 通过_P 与_P 已知_JJ 信号_NN 做_VV 比较_VV 从来_AD 寻找_VV 未知_JJ 信号_NN 的_DEC 特点_NN 。_PU 它_PN 是_VC 信号_NN 之间_LC 相对于_P 时间_NN 的_DEC 函数_NN ，_PU 有时_AD 也_AD 称为_VV "_PU 滑动_VV 点积_NN "_PU ，_PU 在_P 模式_NN 识别_NN 与_CC 密码_NN 分析学_NN 中_LC 都_AD 有_VE 应用_NN 。_PU
+
+离散_NN 函数_NN "_PU f_CD "_PU 与_CC "_PU g_NN "_PU 的_DEG 互协方_NN 差_AD 定义_VV 为_VC
+
+其中_NN 累计_NN 和_CC 是_VC 在_P 一_CD 个_M 合适_VA 的_DEC 整数_NN "_PU j_NN "_PU  _NN 上_LC 进行_VV 计算_NN ，_PU 星号_NN 表示_VV 是_VC 共轭_JJ 复数_NN 。_PU
+连续_JJ 函数_NN "_PU f_NN "_PU  _NN (_PU x)_NN 与_CC "_PU g_NN "_PU  _NN 的_DEG 互协方_NN 差_NN 定义_VV 为_VC
+
+其中_NN 积分_NN 在_P 合适_VA 的_DEC "_PU t_NN "_PU 上_NN 进行_VV 。_PU
+互协方_NN 差_NN 本质上_AD 类似于_VV 两_CD 个_M 函数_NN 的_DEG 卷积_NN 。_PU
+
+因为_P
+
+如果_CS f_NN 或者_CC g_NN 是_VC 偶_PN 函数_NN ，_PU 互_AD 协方_NN 差_NN 与_P 卷积_NN 发生_VV 关系_NN ，_PU
+
+并且_CC
+
+
+
+

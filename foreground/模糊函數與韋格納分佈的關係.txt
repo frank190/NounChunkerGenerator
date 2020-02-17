@@ -1,0 +1,51 @@
+﻿模糊_NN 函数_NN 与_CC 韦格_NN 纳_NN 分布_VV 的_DEC 关系_NN
+
+模糊_NN 函数_NN (_PU Ambiguityfunction_NN ,_PU AF)_NN :_PU
+formula_NN
+韦格_NN 纳_NN 分布_VV (_PU Wignerdistribution_NN ,_PU WD)_NN :_PU
+formula_NN
+
+一_CD 个_M 讯号_NN s_NN (_PU t_NN )_PU ，_PU 自_P 相关_JJ 函数_NN 为_VC
+formula_NN
+如果_CS formulaauto_NN -_PU correlation_NN )_PU 为_VC formula_NN
+时间_NN 相依_VV (_PU 时_NN 变_VV )_PU 频谱_NN (_PU time_NN -_PU dependentspectrum_NN )_PU 可以_VV 表示_VV 的_DEC 形式_NN 类似_VV 於_P 传统_JJ 的_DEG 功率谱_NN ，_PU 即_AD 对_P 时间_NN 相_AD 依自_VV 相关_JJ 函数_NN 做傅立_NN 叶_AD 变换_VV 。_PU
+formula_NN
+不同_VA 的_DEC 时间_NN 相_AD 依自_VV 相关_JJ 会_VV 导致_VV 不同_VA 的_DEC 时间_NN 相依_VV 功率谱_NN 。_PU
+如果_CS
+formula_NN
+，_PU 则_AD 时间_NN 相_AD 依_P 功率_NN 谱_VV 变成_VV 为_VC Wignerdistribution_NN
+若_CS 对_P formulaambiguityfunction_NR ,_PU SAF_NR )_PU
+formula_NN
+模糊_NN 函数_NN 反映_NN 信号_NN 在_P 时间_NN 和_CC 相位_NN 的_DEC 相关性_NN ，_PU 并_CC 已_AD 广泛_AD 应用_VV 在_P 雷达_NN 和_CC 声纳_NN 系统_NN 上_LC 。_PU
+给_P 一_CD 个_M 对称_NN 模糊_NN 函数_NN formula_NN
+formula_NN
+由_P 上_DT 式_NN 可以_VV 推得_VV
+formula_NN
+也就是_AD 对_P 对称_PN 模糊_NN 函数_NN 做_VV 两_CD 次_M 傅立叶_NN 变换_NN 可以_VV 得到_VV Wignerdistribution_NN
+
+一_CD 个_M 讯号_NN 为_VC 两_CD 个_M Gaussian_NN 函数_NN 的_DEG 和_CC :_PU
+formula_NN
+formula_NN
+从_P 范例_NN 中_LC 得知_VV 一_CD 项_M 重要_JJ 事实_NN ，_PU 即_AD 为_VC ，_PU 在_P 模糊域_NN (_PU ambiguitydomain)_NN 中_LC 的_DEG auto_NN -_PU term_NN 总是集_NN 中_LC 在_P 原点_NN (_PU 0_CD ,_PU 0_CD )_PU ，_PU 而_CC cross_NN -_PU term_NN 总是_AD 在_P 远离_JJ 原点_NN 处_NN ，_PU 所以_AD 可以_VV 用_P 一_CD 个_M 2_CD Dlowpassfil_M ter_NR 在_VV 模糊域_NN 中_LC 抑制_VV cross_NN -_PU term_NN 的_DEG 干扰_NN ，_PU 如下_VV :_PU
+formula_NN ,_PU 其中_NN formulalowpassfilter_NN
+
+如果_CS formula_NN
+formula_NN
+formula_NN
+通常_AD formula_NN 和_CC formula_NN )_PU 当_P 作_VV kernalfunction_NN ，_PU 用来_VV 控制_VV SWD_NN 的_DEG 特性_NN 。_PU
+若_CS Wigner_NN 分布_NN 和_CC 对称_NN 模糊_NN 函数_NN 用_VV 大小_NN (_PU magnitude_NN )_PU 及_CC 相位_NN (_PU phase_NN )_PU 表示_VV ，_PU 如下_VV :_PU
+formula_NN
+formula_NN
+而_AD formula_NN ,_PU formula_NN
+也就是说_AD 对对_P 称模_VV 糊函数_NN 的_DEG 相位_NN 做_VV 偏_AD 微_VA 分_LC ，_PU 会_VV 等于_VV Wigner_NN 分布_VV 的_DEC 时频_NN (_PU time_NN -_PU frequency_NN )_PU 中心_NN 。_PU
+相反_VA 地_DEV ，_PU formula_NN ,_PU formula_NN
+则_AD 为_VC 对_P Wigner_NN 分布_NN 的_DEG 相位_NN 做_VV 偏_AD 微_VA 分_LC ，_PU 会_VV 等于_VV 对称_AD 模糊_NN 函数_NN 的_DEG 中心_NN 。_PU
+如果_CS formula_NN
+formula_NN
+会_VV 集中_VV 在_P formula_NN
+如果_CS formula_NN
+formula_NN
+会_VV 集中_VV 在_P formula_NN
+
+
+

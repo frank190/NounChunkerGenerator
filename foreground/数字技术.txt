@@ -1,0 +1,5 @@
+﻿数字_NN 技术_NN
+
+数字_NN 技术_NN （_PU ）_PU ，_PU 是_VC 一_CD 种_M 利用_VV 现代_NN 计算机_NN 技术_NN 从而_AD 将_BA 传统_NN 信息_NN 资源_NN 转换_VV 为_VC 计算机_NN 能够_VV 识别_VV 的_DEC 数字_NN 信息_NN 的_DEC 技术_NN 。_PU 通过_P 该_DT 技术_NN 将_BA 各_DT 种_M 传统_NN 形式_NN 的_DEC 消息_NN 转化_NN 为_VC 可_VV 识别_VV 的_DEC 二_CD 进制_VV 形式_NN 从而_AD 进一步_AD 得_VV 在_P 计算机_NN 上_LC 进行_VV 相关_JJ 工作_NN 。_PU
+
+

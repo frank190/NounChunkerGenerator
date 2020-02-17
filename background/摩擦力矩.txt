@@ -1,0 +1,10 @@
+﻿摩_NN 擦力矩_NN
+
+摩擦_NN 力矩_NN 是_VC 因_P 二物体_NN 有_VE 接触_VV 时_LC ，_PU 因_P 摩擦力_NN 产生_VV 的_DEC 力矩_NN 。_PU 其_PN 单位_NN 是_VC 牛顿_JJ 米_NN 或是_CC 磅英尺_NN
+摩擦_NN 力矩_NN 可能_VV 会_VV 在_P 工程_NN 上_LC 有_VE 破坏性_NN 的_DEG 影响_NN ，_PU 因此_AD 有_VE 许多_CD 方法_NN 可以_VV 减少_VV 摩擦_NN 力矩_NN 的_DEC 产生_VV 。_PU 例如_AD 滚珠_NN 轴承_NN 就_AD 是_VC 一_CD 个_M 可以_VV 减小_VV 摩擦_NN 力矩_NN 的_DEC 装置_NN 。_PU
+
+有些_DT 工程_NN 应用_NN 也_AD 会_VV 用到_VV 摩擦_NN 力矩_NN ，_PU 例如_AD 螺丝_NN 或是_CC 螺栓_NN 都_AD 是_VC 设计_NN 可以_VV 用_P 适当_JJ 力矩_NN 可以_VV 锁紧_VV ，_PU 而且_CC 其_PN 摩擦力_NN 也_AD 足以_VV 让_VV 也_AD 会_VV 让_VV 螺丝_NN 或是_CC 螺栓_NN 在_P 使用_VV 时_LC 仍_AD 为_VC 锁紧_VV 的_DEC 状态_NN 。_PU 尤其_AD 像_P 固定_JJ 轮子_NN 在_P 车辆_NN 上_LC 的_DEG 螺帽_NN ，_PU 或是_CC 会_VV 受到_VV 振动_NN 的_DEC 设备_NN ，_PU 设计_VV 良好_VA 的_DEC 螺丝_NN 、_PU 螺帽_NN 或_CC 螺栓_NN 可以_VV 避免_VV 因_P 振动_NN 而_MSP 松脱_VV 。_PU
+
+
+
+

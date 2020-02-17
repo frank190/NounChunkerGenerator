@@ -1,0 +1,20 @@
+﻿多_CD 维空_NN 间_LC
+
+多维_JJ 空间_NN ，_PU 是_VC 指_VV 由_P 4_CD 条_M 或者_CC 更多_CD 条_M 维度_NN 组成_VV 的_DEC 空间_NN 。_PU
+
+我们_PN 通常_JJ 的_DEG 空间_NN 概念_VV ，_PU 是_VC 指_VV 由_P 长_VA 、_PU 宽_VA 、_PU 高_AD 组成_VV 的_DEC 三维_NN 空间_NN 。_PU 时间_NN 本身_PN 具有_VV 维度_NN 的_DEG 某些_DT 特点_NN ，_PU 例如_AD 一_CD 条_M 时间_NN 轴_NN 可以_VV 连接_VV 无_VE 数个_NN 3_CD 维_NN 空间_NN ，_PU 因此_AD 可以_VV 认为_VV 我们_PN 生活_VV 在_P 3_CD +_CC 1_CD 维_M 时空_NN （_PU 4_CD 维_M 空间_NN ）_PU 中_LC ；_PU 但_CC 时间_NN 与_CC 长_VA 、_PU 宽_VA 、_PU 高_VA 却_AD 是_VC 有_VE 很_AD 大_VA 的_DEC 区别_NN 的_DEC ，_PU 例如_AD 时间_NN 单位_NN 与_CC 长度_NN 单位_NN 是_VC 不_AD 一样_VA 的_DEC ，_PU 因此_AD 这_DT 还_AD 不_AD 算_VV 真正_AD 意义_NN 上_LC 的_DEC 多维_NN 空间_NN 。_PU 由于_P 光子_NN 只_AD 能_VV 在_P 三_CD 维_NN 空间_NN 中_LC 传播_VV ，_PU 人_NN 的_DEG 肉眼_NN 无法_AD 看到_VV 其他_DT 可能_VV 存在_VV 的_DEC 维度_NN ，_PU 这就_AD 使得_VV 对_P 多维_JJ 空间_NN 的_DEC 探寻_NN 非常_AD 困难_VA 。_PU 但是_AD ，_PU 众多_VA 的_DEC 科学家_NN 、_PU 物理_NN 爱好者_NN 和_CC 科幻迷_NN 还_AD 是_VC 提出_VV 了_AS 各_DT 种_M 有_VE 关于_P 多维_NN 空间_NN 的_DEC 理论_NN 。_PU
+
+在_P 平行_JJ 宇宙_NN 理论_NN 中_LC ，_PU 由于_P 存在_VV 着_AS 无数_CD 多_CD 个_M 3_CD 维_M 宇宙_NN ，_PU 这些_DT 宇宙_NN 并_AD 不_AD 能_VV 通过_P 长_VA 、_PU 宽_VA 、_PU 高_VA 或者_CC 时间_NN 进行_VV 相连_VA ，_PU 只_AD 能_VV 通过_P 另外_DT 一_CD 条_M 维度_NN 进行_VV 连接_VV ，_PU 因此_AD 平行_VV 宇宙_NN 本身_PN 至少_AD 就_AD 是_VC 一_CD 个_M 4_CD +_CC 1_CD 维_M 时空_NN （_PU 5_CD 维_M 空间_NN ）_PU 。_PU
+
+在_P 弦理论_NN 中_LC ，_PU 认为_VV 各_DT 种_M 基本_JJ 粒子_NN 都_AD 是_VC 由_P 很_AD 小_VA 很_AD 小_VA 的_DEC 线状弦_NN 组成_VV 的_DEC ，_PU 在_P 众多_NT 现象_NT 难以_AD 用_P 理论_NN 解释_VV 的_DEC 情况_NN 下_LC ，_PU 爱_VV 德华_NN ·_PU 维顿_NN 提出_VV 了_AS 11_CD 维_NN 空间_NN 的_DEC 概念_NN 。_PU
+
+有些_DT 人_NN 认为_VV ，_PU 进入_VV 黑洞_NN 就_AD 可以_VV 见到_VV 神秘_NN 的_DEC 多维_JJ 几何体_NN 。_PU
+如果_CS 确实_AD 存在_VV 多维_JJ 空间_NN ，_PU 那么_AD 世界_NN 上_LC 可以_VV 存在_VV 以下_JJ 这些_DT 现象_NN 。_PU
+
+普通_VA 的_DEC 隐身_NN 仅仅_AD 是_VC 指_VV 一_CD 个_M 事物_NN 不_AD 发光_VV 、_PU 不_AD 反光_VA 而_MSP 使得_VV 别人_PN 无法_AD 看见_VV 它_PN ，_PU 但_AD 任何_DT 人_NN 都_AD 可以_VV 摸到_VV 它_PN 。_PU 绝对_JJ 隐身_NN 下_LC 的_DEG 物体_NN 却_AD 是_VC 既_CC 不_AD 能_VV 被_SB 看到_VV ，_PU 也_AD 无法_AD 被_SB 摸到_VV 的_DEC 。_PU 如果_CS 把_BA 蚂蚁_NN 假设_VV 为_VC 只_AD 能_VV 在_P 两_CD 维_NN 的_DEG 地面_NN 上_LC 移动_VV 的_DEC 生物_NN ，_PU 再_AD 假想_AD 有_VE 一_CD 只_AD 能_VV 在_P 三_CD 维_NN 空间_NN 中_LC 自由_AD 活动_VV 的_DEC 蜻蜓_NN 飞_VV 在_P 蚂蚁_NN 的_DEG 上方_NN ，_PU 那么_AD 蜻蜓_NN 可以_VV 看见_VV 蚂蚁_NN ，_PU 蚂蚁_NN 却_AD 无法_AD 看到_VV 或_CC 摸到_VV 蜻蜓_NN ，_PU 蜻蜓_NN 就_AD 对_P 蚂蚁_NN 实现_VV 了_AS 绝对_JJ 隐身_NN 。_PU 同样_JJ 的_DEG 道理_NN ，_PU 如果_CS 一_CD 个_M 人_NN 能够_VV 在_P 多维_JJ 空间_NN 中_LC 自由_AD 运动_VV ，_PU 他_PN 就_AD 可以_VV 对_P 那些_DT 只_AD 能_VV 在_P 三_CD 维_NN 空间_NN 中_LC 自由_AD 移动_VV 的_DEC 人_NN 做到_VV 绝对_JJ 隐身_NN 。_PU
+
+假设_VV 某人_PN 沿着_P 地面_NN 从_P 地球_NN 上_LC 的_DEG 南极点_NN 步行_VV 到_VV 地球_NN 北极点_NN ，_PU 显然_AD 要走_VV 很_AD 长_VA 的_DEC 路_NN ，_PU 但是_CC 一_CD 个_M 中微子_NN 可_VV 以_P 直接_AD 从_P 南极_NN 点_NN 经过_P 地壳_PN 、_PU 地幔_NR 、_PU 地核_NR 穿到_VV 北极点_NN ，_PU 走_VV 的_DEC 路_NN 就_AD 近_AD 了_AS 许多_VV ，_PU 这_PN 正_AD 是_VC 因为_P 它_PN 巧妙_VA 地_DEV 运用_VV 了_AS 第三_OD 条_M 维度_NN 。_PU 根据_P 广义相_AD 对论_VV ，_PU 空间_NN 是_VC 弯曲_VV 的_DEC ，_PU 我们_PN 所_MSP 生活_VV 的_DEC 这_DT 个_M 三维_NN 空间_NN 很_AD 可能_VV 是_VC 一_CD 个_M 四维几_NN 何体_JJ 的_DEG 封闭_NN 曲面_NN ，_PU 直接_AD 通过_P 长_VA 、_PU 宽_VA 、_PU 高_VA 的_DEC 方向_NN 从_P 一_CD 个_M 天体_NN 到_VV 另_DT 一_CD 个_M 天体_NN 有_VE 很_AD 长_VA 的_DEC 距离_NN ，_PU 如果_CS 能_VV 借助_VV 第四_OD 条_M 维度_NN ，_PU 那么_AD 就_AD 节省_VV 了_AS 一定_JJ 距离_NN ，_PU 也就是_AD 抄_VV 了_AS 近道_NN 。_PU 在_P 量子_NN 物理_NN 模型_NN 中_LC ，_PU 多维_JJ 空间_NN 中_LC 这_DT 种_M 很近_NN 的_DEG 通道_NN 又_AD 被_SB 称为_VV 虫洞_NN 。_PU
+
+一_CD 个_M 圆片_NN 穿过_VV 一_CD 条线_NN ，_PU 在_P 这_DT 条线_NN 上_LC 的_DEG 投影_NN 会_VV 先_AD 变长_VV 后_LC 变短_VV ；_PU 一_CD 个_M 球体_NN 穿过_VV 一_CD 个_M 平面_NN ，_PU 在_P 这_DT 个_M 平面_NN 中_LC 的_DEG 投影_NN 会_VV 由_P 一_CD 个_M 点_NN 变成_VV 一_CD 个_M 越来越_AD 大_VA 的_DEC 圆_NN ，_PU 再_AD 重新_AD 缩小_VV 成_VV 一_CD 个_M 点_NN 。_PU 在_P 一_CD 个_M 四_CD 维_NN 空间_NN 中_LC ，_PU 一_CD 个_M 点_NN 为_VV 中心_NN ，_PU 向_P 各_DT 个_M 方向_NN 延伸_VV 相同_VA 的_DEC 距离_NN ，_PU 可以_VV 形成_VV 一_CD 个_M 密闭_VV 的_DEC 四维几_NN 何体_AD ，_PU 我们_PN 不_AD 妨把_VV 这_DT 种_M 四维_JJ 几何体_NN 称为_VV “_PU 四_CD 维球_M ”_PU ；_PU 如果_CS 有_VE 一_CD 个_M “_PU 四维球_NN ”_PU 穿过_VV 我们_PN 所_MSP 生活_VV 的_DEC 三维_NN 空间_NN ，_PU 我们_PN 可以_VV 看到_VV 它_PN 在_P 这_DT 个_M 三维_NN 空间_NN 中_LC 的_DEG 投影_NN ：_PU 首先_AD 是_VC 一_CD 个_M 点_NN ，_PU 随后_AD 是_VC 越来越_AD 大_VA 的_DEC 三维_JJ 球体_NN ，_PU 球_NN 最后_AD 又_AD 重新_AD 缩小_VV 成_VV 一_CD 个_M 点_NN ，_PU 直_AD 至_P 消失_NN 。_PU
+
+

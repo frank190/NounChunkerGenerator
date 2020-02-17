@@ -1,0 +1,12 @@
+﻿莱_NN 斯纳_ETC -_PU 诺德_NN 斯_DT 特_BA 洛姆度规_NN
+
+赖斯纳_VV -_PU 努德_NN 斯_DT 特伦度规_NN （_PU ）_PU 是_VC 广义_JJ 相对_JJ 论_NN 中_LC 描述_VV 描述_JJ 静态球_NN 对_P 称带_NN 电物体_NN 的_DEG 引力场_NN 的_DEC 度规_NN ，_PU 是_VC 广义相_AD 对论_VV 的_DEC 一_CD 个_M 著名_VA 的_DEC 精确解_NN ，_PU 是_VC 赖斯纳_NN （_PU H_NN ._PU Reissner_NN ）_PU 以及_CC 努德_NN 斯_DT 特伦_JJ （_PU G.No_JJ rdstr_NN ö_NN m_NN ）_PU 首先_AD 提出_VV 的_DEC 。_PU 具有_VV 这样_PN 的_DEG 度规_NN 形式_NN 的_DEC 黑洞_NN 称为_VV 赖斯纳_NN -_PU 努德_NN 斯_DT 特伦度_NN 规_NN 黑洞_NN 。_PU
+
+赖斯纳_VV -_PU 努德_NN 斯_DT 特伦度_NN 规_AD 可以_VV 表示_VV 为_VC ：_PU
+
+电磁势_NN 为_VC
+
+可见_JJ 电荷_NN "_PU Q_NN "_PU 对_P 度规_NN 的_DEG 影响_NN 与_P "_PU r_NN "_PU 成_VV 反比_NN ，_PU 是_VC 短程_VA 的_DEC ，_PU 而_CC 引_VV 力质量_NN 的_DEG 影响_NN 是_VC 长程_JJ 的_DEG ，_PU 因此_AD 一般_JJ 情况_NN 下_LC 很少_AD 考虑_VV 电荷_NN 的_DEG 作用_NN 。_PU
+
+
+

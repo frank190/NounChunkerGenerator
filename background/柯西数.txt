@@ -1,0 +1,16 @@
+﻿柯_NN 西数_NN
+
+柯西数_NN （_PU Ca_NN ）_PU 是_VC 流体_NN 力学_NN 中_LC 有关_VV 的_DEC 无量纲_NN ，_PU 得名_NT 自_P 法国_NR 数学_NN 家奥_NN 古_JJ 斯_DT 丁_NN ·_PU 路_NN 易_VA ·_PU 柯西_NN 。_PU 当_P 可_VV 压缩性_JJ 有_VE 显著_JJ 影响_NN 时_LC ，_PU 在_P 考虑_VV 动态_JJ 相似性_NN 的_DEC 惯性_NN 力_NN 时_LC ，_PU 也_AD 需要_VV 考虑_VV 弹力_NN ，_PU 柯_BA 西数_NN 是_VC 流体_NN 惯性力_NN 和_CC 可_VV 压缩_VV 力_NN （_PU 弹力_NN ）_PU 比例_VV ，_PU 可以_VV 表示_VV 如下_VV ：_PU
+
+其中_NN
+
+在_P 等_ETC 熵流_NN 中_LC 柯_DEC 西数_NN 可以_VV 用_P 马赫数_NN 表示_VV ，_PU 等_ETC 熵体积_NN 模量_NN formula_NN __NN 3_CD ，_PU 其中_NN formula_NN
+若流体_NN 为_VC 理想_JJ 气体_NN ，_PU 则_AD 依照_P 理想_JJ 气体_NN 定律_NN
+
+其中_NN
+
+取代_VV 柯_DEC 西数_NN 公式_NN 中_LC 的_DEG "_PU K_NN "_PU （_PU "_PU K_NN "_PU ）_PU ，_PU 可_VV 得_NN
+
+因此_AD 在_P 理想_JJ 气体_NN 的_DEC 等熵流_NN 中_LC ，_PU 柯_NN 西数_NN 是_VC 马赫数_NN 的_DEG 平方_NN 。_PU
+
+

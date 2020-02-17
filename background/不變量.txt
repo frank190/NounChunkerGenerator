@@ -1,0 +1,14 @@
+﻿_NN 不_AD 变_VV 量_NN
+
+假若_NN ，_PU 在_P 某_DT 种_M 变换_NN 下_LC ，_PU 一_CD 个_M 系统_NN 的_DEG 某_DT 物理量_NN 保持_VV 不_AD 变_VV ，_PU 则_AD 称_VV 此_DT 物理量_NN 为_VC 不_AD 变量_VV （_PU ）_PU 。_PU 例如_AD ，_PU 在_P 伽利_NN 略_CC 变换_NN 下_LC ，_PU 时间_NN 是_VC 个_M 不_AD 变量_VV ；_PU 在_P 劳仑_NN 兹_JJ 变换_NN 下_LC ，_PU 光速_NN 、_PU 静质量_NN 、_PU 电荷量_NN 等等_ETC ，_PU 都_AD 是_VC 不_AD 变量_VV 。_PU 这_DT 类_M 变换_NN 表_VV 达出_VV 不同_JJ 观察者_NN 的_DEG 参考系_NN 之间_LC 的_DEG 关系_JJ 。_PU 例如_AD ，_PU 在_P 火车_NN 站台_NN 的_DEC 查票员_NN 的_DEG 参考_NN 系_NN ，_PU 与_CC 在_P 移动_NN 中_LC 的_DEG 火车_NN 内_LC 的_DEG 乘客_NN 的_DEC 参考_NN 系_NN ，_PU 这_PN 两_CD 个_M 参考系_NN 之间_LC 的_DEG 关系_JJ 。_PU
+
+假若_NN ，_PU 在_P 某_DT 种_M 变换_NN 下_LC ，_PU 一_CD 个_M 系统_NN 的_DEG 某_DT 物理_NN 性质_NN 保持_VV 不_AD 变_VV ，_PU 则_AD 称_VV 此_DT 物理_NN 性质_NN 为_VC 不变性_JJ （_PU ）_PU 。_PU 例如_AD ，_PU 在_P 内积_NN 空间_NN 内_LC ，_PU 对于_P 任意_AD 旋转_VV ，_PU 向_P 量_NN 的_DEG 内积_NN 保持_VV 不_AD 变_VV ，_PU 称_P 此_DT 性质_NN 为_VC 旋转_VV 不_AD 变性_VV 。_PU
+
+根据_P 诺特_NN 定理_VV ，_PU 对于_P 一_CD 种_M 变换_NN ，_PU 每_DT 一_CD 种_M 不_AD 变性_JJ 代表_NN 一_CD 条_M 基本_VA 的_DEC 守恒_NN 定律_NN 。_PU 例如_AD ，_PU 对于_P 平移_VV 变换_NN 的_DEC 不变性_NN 导致_VV 动量守_JJ 恒定律_NN ，_PU 对于_P 的_DEG 不变性_JJ 导致_NN 能量_VV 守_VV 恒_MSP 定律_VV 。_PU
+
+在_P 现代_JJ 理论_NN 物理_NN 里_LC ，_PU 不_AD 变性_NN 是_VC 很_AD 重要_VA 的_DEC 概念_NN 。_PU 许多_CD 理论_NN 是_VC 由_P 对称性_NN 与_CC 不变性_JJ 表达_NN 。_PU
+
+在_P 张量_NN 数学_NN 里_LC ，_PU 协变性_NN 与_CC 反变性_NN 是_VC 不变性_JJ 的_DEG 数学_NN 性质_NN 的_DEC 推广_NN 。_PU 在_P 电磁学_NN 和_CC 相对_JJ 论里_NN ，_PU 时常_AD 会_VV 应用_VV 到_VV 这些_DT 概念_NN 。_PU
+
+
+

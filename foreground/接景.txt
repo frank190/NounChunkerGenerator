@@ -1,0 +1,24 @@
+﻿接景_NN
+
+接景_NN （_PU ）_PU 是_VC 用来_VV 创造_VV 虚拟_JJ 摄影棚_NN 和_CC 数码_NN 外景_NN 地_NN 的_DEG 一_CD 种_M 技术_NN ，_PU 可以_VV 用来_VV 创建_VV 整_DT 个_M 场景_NN ，_PU 或者_CC 对_P 已_AD 有_VE 场景_NN 进行_VV 扩充_NN 。_PU
+
+传统_JJ 的_DEG 接景_NN 是_VC 在_P 一片_NN 玻璃_NN 上_LC 用_P 颜料_NN 或_CC 者水彩_NN 进行_VV 绘制_NN ，_PU 然后_AD 再_AD 通过_P 光学_NN 方法_NN 与_CC 原始_JJ 镜头_NN 合成_VV 。_PU 两_CD 块_M 玻璃板_NN 平行_VV 摆放_VV 保持_VV 恰当_VA 的_DEC 距离_NN 。_PU 摄像机_NN 位于_VV 他们_PN 前面_LC 。_PU 在_P 后面_NN 的_DEG 玻璃板_NN 上_LC ，_PU 是_VC 相对_AD 粗糙_VV 的_DEC 背景_NN 地形_VV ，_PU 比如_AD 绘制_VV 的_DEC 丛林_NN 。_PU 在_P 前景_NN 玻璃板_NN 上_LC ，_PU 绘制_VV 细节_NN 丰富_VA 的_DEC 元素_NN ，_PU 比如_VV 小植物_NN ，_PU 石头_NN 等_ETC ，_PU 在_P 玻璃板_NN 之间_LC 就_AD 是_VC 移动_VV 或者_CC 静止_VV 的_DEC 影片_NN 模型_NN 。_PU
+
+如今_CS 接景_NN 借助_NN 电脑_NN 制作_VV 并_CC 以_P 绘图板_NN 作为_VV 绘画_NN 设备_NN 。_PU 在_P 数码_NN 环境_NN 里_LC ，_PU 接景_NN 也_AD 可以_VV 制作_VV 三维_NN 环境_NN 并_CC 允许_VV 三_CD 维摄_VV 像机_AD 运动_VV 。_PU
+传统_JJ 的_DEG 接景_NN 是_VC 被_LB 画家_NN 用_P 水彩_NN 或_CC 颜料_NN 绘制_VV 在_P 玻璃板_NN 上_LC 的_DEG ，_PU 然后_AD 再_AD 将_BA 其_PN 与_P 实际_JJ 拍摄_NN 的_DEC 镜头_NN 合成_VV （_PU 如果_CS 实际_AD 拍摄_VV 了_AS 镜头_NN 的_DEC 话_NN ）_PU 。_PU
+
+第一_OD 个_M 接景_NN 镜头_NN 是_VC 在_P 1907_CD 年_M 的_DEG 电影_NN 《_PU 加利_NN 福尼亚_NN 任务_NN 》_PU 里_LC 即兴_AD 绘制_VV 的_DEC “_PU 摇摇欲坠_VV 的_DEC 加州_NN 任务_NN ”_PU 。_PU 值得_VV 注意_NN 的_DEC 传统_NN 接景镜_NN 头有_VV 多_CD 萝西_NN 在_P 《_PU 绿野_JJ 仙踪_NN 》_PU 中_LC 绘制_VV 的_DEC “_PU 翡翠城_NN ”_PU ，_PU 《_PU 公民_NN 凯恩_NN 》_PU 中_LC 查尔_VV 斯_DT ·_PU 福斯_NR 特_ETC ·_PU 凯恩_NN 绘制_VV 的_DEC “_PU 世外_NN 桃源_NN ”_PU ，_PU 还_AD 有_VE 《_PU 星球_NN 大战_AD IV_NN ：_PU 新_JJ 希望_NN 》_PU 里_LC 那_DT 看似_NN 深_AD 不_AD 见底_VA 的_DEC “_PU 牵引_JJ 光束_NN ”_PU 镜头_NN 。_PU
+
+到_VV 20_CD 世纪_NN 80_CD 年代_NN 中期_AD ，_PU 在_P 计算机_NN 图形_NN 程序_NN 的_DEG 进步_NN 下_LC ，_PU 磨砂_NN 画家_NN 开始_AD 转向_VV 了_AS 到_VV 数字_NN 领域_NN 工作_NN ，_PU 于_P 是_VC “_PU 接景_NN ”_PU 这_DT 一_CD 工作_NN 也_AD 就_AD 逐渐_AD 与_P “_PU 后期_NN 特效_AD ”_PU 融合_VV 到_VV 了_AS 一起_CD 。_PU 第一_OD 个_M 数字_NN 接景_NN 镜头_NN 是_VC 由_P 画家克_NN 里斯_LC ·_PU 埃文_NN 斯_AD 在_P 1985_CD 年_M 的_DEG 电影_NN 《_PU 》_PU 中_LC 使用_VV CG_NN ，_PU 绘制_VV 的_DEC 一_CD 个_M 骑士_NN 从_P 彩绘_NN 玻璃_NN 窗口_NN 跃起_VV 的_DEC 场景_NN 。_PU 埃文_NN 斯先_AD 用_P 丙烯酸_NN 树脂_NN 画出_VV 了_AS 窗子_NN 的_DEC 样子_NN ，_PU 然后_AD 把_BA 这_DT 幅_M 画扫_NN 描到_VV 了_AS 卢卡_NN 斯_DT 影业_NN 的_DEG 皮克_NN 斯_DT 系统_NN ，_PU 来_MSP 进行_VV 进一步_JJ 的_DEG 数字_NN 操纵_NN 。_PU
+
+电脑_NN 动画_NN 完美_AD 融合_VV 了_AS 数字_NN 接景_NN ，_PU 达到_VV 了_AS 传统_JJ 的_DEG 接景_NN 技术_NN 所_MSP 不_AD 可_VV 及_CC 的_DEG 高度_NN 。_PU
+
+在_P 整_DT 个_M 20_NN 世纪_NN 90_CD 年代_NN ，_PU 传统_JJ 的_DEG 磨砂画_NN 仍然_AD 在_P 使用_VV ，_PU 但_CC 更_AD 经常_AD 与_P 数字_NN 合成_VV 。_PU 《_PU 虎胆_NN 龙威_NN 2_CD 》_PU （_PU 1990_CD ）_PU 在_P 机场_NN 跑道_NN 上_LC 发生_VV 的_DEC 最后_JJ 一_CD 个_M 场景_NN 是_VC 将_BA 传统_JJ 的_DEG 玻璃_NN 磨砂_NN 喷漆_NN 与_P 已_AD 拍摄_VV 和_CC 扫描_VV 到_VV 计算机_NN 中_LC 的_DEC 现场片_NN 段使_CS 用_VV 数字_NN 合成_VV 的_DEC 第一_OD 部_M 电影_NN 。_PU
+
+在_P 九十_OD 年_M 代末_NN ，_PU 手绘绘_NN 景_NN 的_DEG 时代_NN 已经_AD 接近_VV 尾声_NN ，_PU 虽然_CS 在_P 1997_CD 年_M 后期_LC ，_PU 一些_CD 传统_JJ 绘画_NN 仍然_AD 派上_VV 了_AS 用_P 场_NN ，_PU 尤其是_AD 出自_VV 詹姆斯_AD ·_PU 卡梅隆_NN 的_DEC 《_PU 泰坦尼_NN 克号_NN 》_PU 由_P 克里斯_NN ·_PU 埃文_NN 斯_AD 绘制_VV 的_DEC 绘画_NN “_PU 卡帕_NN 提亚_VV 救援船_NN ”_PU 。_PU
+
+
+
+
+
+

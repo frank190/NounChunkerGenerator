@@ -1,0 +1,70 @@
+﻿劳_NN 斯_DT 阵列_NN 的_DEG 推导_NN
+
+劳斯_JJ 阵列_NN 是_VC 劳斯_NR –赫尔_NR 维茨_NN 稳定性_NN 判据_NN 中_LC ，_PU 用来_VV 判断_VV 系统_NN 是否_AD 稳定_VA 的_DEC 方式_NN ，_PU 是_VC 透过_P 系统_NN 的_DEG 特征_NN 多_CD 项式_NN 系数_NN 所_MSP 建立_VV 的_DEC 阵列_NN 。_PU 劳斯_JJ 阵列_NN 和_CC 是_VC 古典_NN 控制_VV 理论_NN 的_DEC 核心_NN ，_PU 结合_VV 了_AS 欧几_NN 里_LC 得_VV 算法_NN 和_CC 施图姆_NN 定理_NN 来_MSP 计算_VV 。_PU
+
+给定_VV 系统_NN
+
+假设_VV formula_NN
+
+因此_AD 可_VV 得_VV
+
+将_BA formula_NN
+
+其中_NN
+
+且_CC
+
+根据_P (_PU 2_CD )_PU 会_VV 发现_VV
+
+其中_NN
+
+若_CS formula_NN
+
+且_CC
+
+且_CC
+
+同样_AD 地_DEV ，_PU 若_CS formula_NN
+
+且_CC
+
+且_CC
+
+由_P (_PU 9_CD )_PU 至_CC (11_CD )_PU 式_NN 可知_VV ，_PU 若_CS formula_NN __NN 8_CD 的_DEG 第i_OD 个_M 根_M 实部_NN 为_VC 正_VA ，_PU 则_AD formula_NN __NN 23_CD ，_PU 由_P (12_CD )_PU 至_P (14_CD )_PU 式_NN 可知_VV ，_PU 若_CS formula_NN __NN 8_CD 的_DEG 第i_OD 个_M 根_M 实部_NN 为_VC 负_NN ，_PU 则_AD formula_NN
+
+若_CS 定义_VV
+
+则_AD 可以_VV 得到_VV 以下_JJ 的_DEG 关系_NN
+
+结合_NN (_PU 3_CD )_PU 式_CD 及_CC (17_CD )_PU 式_NN 可_VV 得_NN
+
+因此_AD ，_PU 给定_VV formula_NN __NN 31_CD 次_M 的_DEC 方程_NN formula_NN __NN 8_CD ，_PU 只_AD 需要_VV 计算_VV formula_NN __NN 33_CD ，_PU 就_AD 可以_VV 得到_VV 根_NN 的_DEG 实部_NN 为_VC 负_VV 的_DEC 个_M 数_NN formula_NN __NN 3_CD ，_PU 以及_CC 根_M 的_DEG 实部_NN 为_VC 正_BA 的_DEC 个_M 数_NN formula_NN
+
+配合_NN (_PU 6_CD )_PU 式_NN 及_CC 图_NN 1_CD ，_PU formula_NN __NN 36_CD 相对_P formula_NR __NN 37_CD 的_DEC 图_NN ，_PU 将_BA formula_NN __NN 38_CD 在_P 区间_NN (_PU a_NN ,_PU b_NN )_PU 之间_LC 变化_VV ，_PU 其中_NN formula_NN __NN 39_CD ，_PU 而_CC formula_NN __NN 40_CD ，_PU 都_AD 是_VC formula_NN __NN 41_CD 的_DEG 整数_NN 倍_NN ，_PU 若_CS 此_DT 变化_NN 会_VV 使_VV 函数_NN formula_NN __NN 42_CD 增加_VV formula_NN __NN 41_CD ，_PU 表示_VV 在_P 从_P 点_NN a_NN 到_VV 点_NN b_NN 的_DEC 过程_NN 中_LC ，_PU formula_NN __NN 44_CD 从_P formula_NN __NN 45_CD 「_PU 跳到_VV 」_PU formula_NN __NN 46_CD 的_DEC 次数_NN 比_VV 从_P formula_NN __NN 46_CD 「_PU 跳到_VV 」_PU formula_NN __NN 45_CD 的_DEC 次数_NN 多_VA 一_CD 次_M 。_PU 相反_VA 的_DEC ，_PU 此_DT 变化_NN 会_VV 使_VV 函数_NN formula_NN __NN 42_CD 减少_VV formula_NN __NN 41_CD ，_PU 表示_VV 在_P 从_P 点_NN a_NN 到_VV 点_NN b_NN 的_DEC 过程_NN 中_LC ，_PU formula_NN __NN 36_CD 从_P formula_NN __NN 45_CD 「_PU 跳到_VV 」_PU formula_NN __NN 46_CD 的_DEC 次数_NN 比_VV 从_P formula_NN __NN 46_CD 「_PU 跳到_VV 」_PU formula_NN
+
+因此_AD ，_PU formula_NN __NN 56_CD 是_VC formula_NN __NN 57_CD 从_P formula_NN __NN 46_CD 跳到_VV formula_NN __NN 45_CD 的_DEC 次数_NN ，_PU 减掉_VV 同_DT 函数_NN 从_P formula_NN __NN 45_CD 跳到_VV formula_NN __NN 46_CD 的_DEC 次数_NN ，_PU 两_CD 者_NN 差_VA 的_DEC formula_NN __NN 41_CD 倍_M 。_PU 假设_CS 在_P formula_NN __NN 63_CD 处_NN ，_PU formula_NN
+
+若_CS 起_VV 始点_NN 是_VC 在_P 不连_JJ 续点_NN （_PU formula_NN "_PU i_NN "_PU =_NN 0_CD ,_PU 1_CD ,_PU 2_CD ,_PU ..._PU ）_PU ，_PU 则_AD 因为_P 公式_NN (_PU 17_CD )_PU （_PU formula_NN __NN 3_CD 和_CC formula_NN __NN 5_CD 都_AD 是_VC 整数_PN ，_PU 因此_AD formula_NN __NN 33_CD 也_AD 是_VC 整数_PN ）_PU ，_PU 其_PN 结束点_NN 也_AD 会_VV 在_P 不_AD 连续_VV 点_NN 。_PU 此时_NT 可以_VV 调整_VV 指标_NN 函数_NN （_PU 正_AD 跳跃_VV 和_CC 负_VV 跳跃_VV 的_DEC 差值_NN ）_PU 的_DEG 计算_NN 方式_NN ，_PU 将_BA 正切_NN 函数_NN 的_DEG X_NN 轴_NN 移动_VV formula_NN __NN 69_CD ，_PU 也就是_AD 在_P formula_NN __NN 37_CD 上_LC 加_VV formula_NN __NN 69_CD 。_PU 此时_CD 的_DEG 指标_NN 函数_NN 在_P 各_DT 种_M formula_NN =_CC formula_NN __NN 73_CD 内_LC 计算_VV formula_NN
+
+差值_NN formula_NN __NN 33_CD 是_VC formula_NN __NN 38_CD 从_P 正_AD 跳跃_VV 和_CC 负_VV 跳跃_VV 的_DEC 差值_NN ，_PU 若_CS 计算_VV 从_P formula_NN __NN 78_CD 到_VV formula_NN __NN 79_CD 所_MSP 产生_VV 的_DEC 差值_NN ，_PU 即_AD 为_VC 相_NN 角_NN 正_AD 切_VV 的_DEC ，_PU 其_PN 相_AD 角_NN 为_VC formula_NN __NN 42_CD 或_CC formula_NN __NN 81_CD ，_PU 视_P formula_NN __NN 82_CD 是否_AD 是_VC formula_NN
+
+为了_P 要推_VV 导劳_NN 斯_DT 準_NN 则_LC ，_PU 会_VV 将_BA formula_NN
+
+因此_AD 可_VV 得到_VV
+
+若_CS formula_NN
+
+若_CS formula_NN
+
+可以_VV 看出_VV 若_CS formula_NN __NN 31_CD 为_VC 奇数_NN ，_PU 根据_P (_PU 3_CD )_PU 式_NN ，_PU formula_NN __NN 92_CD 为_VC 奇数_NN 。_PU 若_CS formula_NN __NN 92_CD 为_VC 奇数_NN ，_PU formulaformula_NN __NN 31_CD 是_VC 偶_PN 数_CD ，_PU formula_NN __NN 94_CD 也_AD 是_VC 偶_PN 数_CD 。_PU (15_CD )_PU 式_NN 可以_VV 看出_VV 若_VV formula_NR __NN 94_CD 是_VC 偶数_NN ，_PU formula_NN __NN 37_CD 是_VC formula_NN __NN 41_CD 的_DEG 整数倍_NN 。_PU 因此_AD 在_P formula_NN __NN 31_CD 为_VC 偶数_NN 时_LC ，_PU formula_NN __NN 36_CD 有_VE 定义_VV ，_PU 是_VC n_NN 为_VC 偶_PN 数_CD 时_LC 使用_VV 的_DEC 正确_JJ 指标_NN ，_PU 在_P 而_CC 在_P formula_NN __NN 31_CD 为_VC 奇数_NN 时_LC ，_PU formula_NN
+
+因此_AD ，_PU 根据_P (_PU 6_CD )_PU 式_NN 及_CC (_PU 23_CD )_PU 式_NN ，_PU formula_NN
+
+因此_AD ，_PU 根据_P (19_CD )_PU 式_NN 及_CC (24_CD )_PU 式_NN ，_PU formula_NN
+
+因此_AD 可以_VV 计算_VV 相同_VA 的_DEC 柯西_NN 指标_NN ：_PU
+
+formula_NN
+
+
+

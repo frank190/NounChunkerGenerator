@@ -1,0 +1,12 @@
+﻿浓_CD 缩铀_NN
+
+浓缩铀_NN （_PU EnrichedUranium_NN ）_PU ，_PU 指_VV 经过_P 同_DT 位素_NN 分离_AD 处理_VV 后_LC ，_PU 铀_NN 235_CD 含量_NN 超过_VV 天然_JJ 含量_NN 的_DEG 铀_NN 金属_NN ，_PU 与_P 其_PN 相对_VV 的_DEC 是_VC 贫_JJ 化铀_NN 。_PU
+
+第二_OD 次_M 世界_NN 大战_NN 期间_NN ，_PU 美国_NR 的_DEC 曼哈顿_NN 计划_VV 采用_VV 三_CD 种_M 分离_NN 方式_NN 来_MSP 提高_VV 其_PN 铀_NN -_PU 235_CD 的_DEG 浓度_NN ——_PU 电磁_NN （_PU “_PU 电磁型_JJ 同位素_NN 分离器_NN ”_PU ）_PU 、_PU 气体_NN （_PU “_PU 气体_NN 扩散法_NN ”_PU ）_PU 与_CC 热_VA （_PU “_PU 索瑞_NN 特_AD 效应_NN ”_PU ）_PU ，_PU 大_JJ 部分_NN 工作_NN 都_AD 在_P 田纳_VV 西州_NN 橡树_NN 岭_JJ 一_CD 地_NN 进行_VV （_PU 橡树_NN 岭_JJ 国家_NN 实验室_NN ）_PU 。_PU
+
+浓缩_VV 铀_NN 根据_P 铀_DT 235_CD 含量_NN 的_DEG 不同_JJ ，_PU 可以_VV 分为_VV 高浓_JJ 缩铀_NN （_PU HEU_NR ）_PU （_PU 20%_CD 以上_LC ）_PU ，_PU 低浓_JJ 缩铀_NN （_PU LEU_NN ）_PU （_PU 2%_CD -_PU 20%_CD ）_PU 和_CC 微浓_JJ 缩铀_NN （_PU SEU_NR ）_PU （_PU 0_CD ._PU 9%_CD -_PU 2%_CD ）_PU 。_PU 掌握_VV 生产_NN 浓度_NN 达_VV 百分之_CD 二十_CD 以上_LC 的_DEG 铀_NN 浓缩_NN 技术_NN 后_LC ，_PU 如_P 继续_VV 以_P 离心机_NN 进行_VV 铀_NN 235_CD 及_CC 铀_NN 238_CD 的_DEG 分离_NN ，_PU 可_VV 得到_VV 铀_NN 235_CD 浓度_NN 更_AD 高_VA 的_DEC 高浓_JJ 缩铀_NN ，_PU 当_P 铀_NN 235_CD 含量_NN 超过_VV 90%_CD 则_AD 被_SB 称为_VV 武器级_NN 浓缩铀_NN ，_PU 可_VV 直接_AD 用于_VV 制造_VV 原子弹_NN 。_PU
+
+不论_AD 是_VC 和平_AD 利用_VV 核能_NN ，_PU 还_AD 是为_AD 制造_VV 核武器_NN ，_PU 浓缩铀_NN 都_AD 是_VC 有_VE 需要_VA 的_DEC 。_PU 但_AD 由于_P 生产_VV 浓缩铀_NN 是_VC 制造_VV 核弹_NN 的_DEG 其中_NN 一_CD 个_M 途径_NN ，_PU 因此_AD 国际_NN 原子_NN 能机_NN 构希望_VV 能够_VV 控制_VV 全球_DT 各_DT 国_NN 所有_DT 铀_NN 浓缩_VV 活动_AD ，_PU 以_P 防止_VV 核武器_NN 扩散_VV ，_PU 非核武_AD 国_DEV 簽约_VV 后_LC ，_PU 装设_VV 离心机_NN 的_DEG 数量_NN 会_VV 受到_VV 限制_NN ，_PU 同时_AD 限制_VV 浓缩_JJ 铀_NN 的_DEG 浓度_NN ，_PU 确_AD 保都_VV 在_P 发电_NN 用途_NN 使用_VV ，_PU 防止_VV 生产_NN 浓度_NN 达_VV 百分之_CD 九十_CD 可_VV 直接_AD 制造_VV 原子_NN 弹_NN 的_DEG 超浓_NN 缩铀_VV 。_PU 不_AD 过_VV 浓缩铀只_AD 是_VC 其中_NN 一_CD 种_M 生产_NN 核武_NN 的_DEG 途径_NN ，_PU 尚_AD 可_VV 利用_VV 重_JJ 水_NN 及_CC 核_NN 反应_NN 堆生_VV 产钸_NN ，_PU 同样_AD 可_VV 作为_P 生产_VV 核弹_NN 的_DEC 材料_NN ，_PU 所以_AD 限制_VV 生产_NN 浓缩铀_NN 只_AD 是_VC 限制_VV 生产_NN 核武_NN 的_DEG 其中_NN 一_CD 个_M 环节_NN 。_PU
+
+
+

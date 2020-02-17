@@ -1,0 +1,9 @@
+﻿_CS 反应_VV 棒_VA
+
+反应棒又_AD 称反_VV 应_VV 堆燃料_NN 棒_VA （_PU ）_PU ，_PU 是_VC 反应堆_NN 中_LC 核裂变_JJ 材料_NN 的_DEG 来源_NN 。_PU 多_AD 为_VC 较_AD 低_JJ 纯度_NN 的_DEG 浓缩铀_NN ，_PU 制作_VV 成_VV 一_CD 颗颗_NN 燃料丸_NN 或_CC 燃料_NN 柱_NN 再_AD 封_LB 装_VV 金属_NN 外壳_NN 成为_VV 燃料_NN 棒_VA 。_PU 视反_NN 应炉_JJ 型式_NN 的_DEG 不同_VA ，_PU 通常_AD 会_VV 以_P 多_CD 根_M 燃料_NN 棒_AD 组成_VV 一_CD 组_M 燃料束_NN （_PU ）_PU 或_CC 燃料_NN 组件_NN （_PU ）_PU 。_PU
+
+被_SB 装进_VV 反应堆_NN 后_LC ，_PU 这些_DT 反应_NN 棒_AD 会_VV 在_P 反应堆_NN 中_LC 待上_VV 大约_AD 3_CD 年_M ，_PU 在_P 这_DT 3_CD 年_M 中_LC ，_PU 它们_PN 会_VV 消耗_VV 自身_PN 包含_VV 的_DEC 铀_NN 的_DEG 3%_CD ，_PU 在_P 这_PN 之后_LC ，_PU 它们_PN 会_VV 被_SB 送到_VV 乏_VV 燃料_NN 水池_NN ，_PU 在_P 这里_PN ，_PU 核裂变_NN 中_LC 产生_VV 的_DEC 一些_CD 半衰期_NN 短_VA 的_DEC 同位_NN 素_AD 会_VV 衰_VV 变掉_VV 。_PU 在_P 这里_PN 待上_VV 大约_AD 5_CD 年_M 后_LC ，_PU 这些_DT 反应棒_NN 的_DEG 放射_NN 性_NN 会_VV 降低_VV 到_VV 安全_NN 范围_NN 之内_LC ，_PU 之后_AD 就_AD 会_VV 被_SB 装进_VV 干式_JJ 贮存桶_NN 永久_AD 储藏_VV ，_PU 等待_VV 未来_AD 进行_VV 深_JJ 地质_NN 处置_VV 或_CC 被_SB 送到_VV 再_AD 处理_VV 工厂_NN 进行_VV 再_AD 处理_VV 。_PU
+
+使用_VV 铀_NN 作为_P 燃料_NN 的_DEG 反应堆_NN 中_LC ，_PU 裂变_NN 产物_NN 中_LC 包括_VV 钚_NN ，_PU 一_CD 种_M 可以_VV 制造_VV 核武器_NN 的_DEG 裂变_NN 材料_NN ，_PU 因此_AD 反应_VV 棒_VA 的_DEC 再_AD 处理_VV 有时_AD 会_VV 引起_VV 国际_NN 争议_NN 。_PU
+
+

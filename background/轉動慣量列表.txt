@@ -1,0 +1,16 @@
+﻿_CS 转动_VV 惯量_NN 列表_NN
+
+对于_P 一_CD 个_M 有_VE 多_CD 个_M 质点_NN 的_DEC 系统_NN ，_PU formula_NN
+
+值得_VV 注意_NN 的_DEC 是_VC ，_PU 不_AD 应_VV 将_BA 其_PN 与_P 截面_NN 惯量_NN （_PU 又_AD 称_VV 截面_NN 二_OD 次_M 轴矩_NN （_PU ）_PU ）_PU ，_PU 截面矩_NN （_PU ）_PU 混淆_VV ，_PU 后者_NN 用于_VV 弯折_NN 方面_NN 的_DEG 计算_NN 。_PU 以下_JJ 之_DEG 转动_NN 惯量_NN 假设_VV 了_AS 整_DT 个_M 物体_NN 具有_VV 均匀_VA 的_DEC 常数_NN 密度_NN 。_PU
+
+<_PU /_PU math_NN >_PU ||_VE 外接圆_NN 半径_NN 为_VC "_PU R_NN "_PU ，_PU 质量_NN 为_VC "_PU m_NN "_PU 的_DEG 正_NN "_PU n_NN "_PU 边形_NN ，_PU 对过_P 其_PN 中心_NN 且_CC 垂直_VV 于_P 所_MSP 在_VV 平面_NN 的_DEC 轴_NN 的_DEG 转动_NN 惯量_NN formula_NN
+
+以下_AD 列表_VV 给出_VV 了_AS 每_DT 个_M 物体_NN 上_LC 的_DEG 惯量_NN 张量_NN 。_PU
+
+为了_P 保留_VV 上面_NN 的_DEG I_NN 的_DEG 标量矩_NN ，_PU I_NN 的_DEG 张量矩_NN 根据_P 以下_JJ 式子_NN 被_SB 投射_VV 在_P 由_P 单位_NN 向_P 量_NN n_NN 所_MSP 定义_VV 的_DEC 方向_NN 上_LC ：_PU
+
+其中_NN 点积_NN 表示_VV 用到_VV 了_AS 和_CC 爱因_VV 斯_DT 坦求_NN 和_CC 约定_NN 。_PU n_NN 可以_VV 是_VC "_PU I","I_NN "_PU ,_PU "_PU I_NN "_PU 的_DEG 笛卡_NN 尔基_NN e_NN ,_PU e,e_NN
+
+
+

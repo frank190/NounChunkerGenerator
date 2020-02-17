@@ -1,0 +1,24 @@
+﻿_CD Kinect_NN
+
+Kinect_NN 是_VC 由_P 微软_NN 开发_VV ，_PU 应用于_VV Xbox360_NN 和_CC XboxOne_NN 主机_NN 的_DEG 周边_NN 设备_NN 。_PU 它_PN 让_VV 玩家_NN 不_AD 需要_VV 手持_VV 或_CC 踩踏_VV 控制器_NN ，_PU 而_AD 是_VC 使用_VV 语音_NN 指令_NN 或_CC 手势_NN 来_MSP 操作_VV Xbox_NN 360_CD 和_CC XboxOne_NN 的_DEC 系统_NN 介面_NN 。_PU 它_PN 也_AD 能_VV 捕捉_VV 玩家_NN 全身_AD 上下_VV 的_DEC 动作_NN ，_PU 用_P 身体_NN 来_MSP 进行_VV 游戏_NN ，_PU 带给_VV 玩家_NN 「_PU 免_VV 控制器_NN 的_DEG 游戏_NN 与_CC 娱乐_NN 体验_NN 」_PU 。_PU 此_DT 设备_NN 是_VC 微软_JJ 研究院_NN 的_DEC 研究_NN 成果_VV 之_DEC 一_CD 。_PU
+
+「_PU Kinect_NN 」_PU 为_VC kinetics_NN （_PU 动力学_NN ）_PU 加上_VV connection_NN （_PU 连接_NN ）_PU 两_CD 字_NN 所_MSP 自创_VV 的_DEC 新_JJ 词汇_NN ，_PU 读音_NN 为_VC ki_NN -_PU nect_NN （_PU /kɪn'ɛkt/_PU ）_PU ，_PU 并_CC 非_VC con_NN -_PU nect_NN （_PU /kən'ɛkt/_PU ）_PU 或_CC Kir_NN -_PU nect_NN （_PU /kɚn'ɛkt/_PU ）_PU 。_PU
+
+2009年_NT 6月_NT 1日_NT 微软_NT 於_P E3_NN 游_VV 戏展_NN 中_LC 公布_VV 名为_P 「_PU ProjectNatal_NN 」_PU （_PU 诞生计画_VV ）_PU 的_DEC 感应器_NN ，_PU 它_PN 能够_VV 捕捉_VV 最_AD 多_VA 2_CD 名_M 使用者_NN 的_DEG 肢体_NN 动作_VV ，_PU 或是_CC 进行_VV 脸部_NN 辨识_VV 。_PU 感应器_NN 也_CC 内建_NN 麦克风_NN ，_PU 可以_VV 用来_VV 识_VV 別_NN 语音_NN 指令_NN ，_PU 玩家_NN 只_AD 需_VV 新购_JJ 此_DT 感应器_NN 就_AD 可_VV 直接_AD 使用_VV 。_PU
+
+2010_CD 年_M 的_DEG E3_NN 电玩展_NN ，_PU 微软_JJ 宣布_NN ProjectNatal_NN 的_DEG 正式名_NN 称为_VV 「_PU Kinect_NN 」_PU ，_PU 并_CC 在_P 2010_CD 年_CC 11_CD 月_NN 4日_CD 於_P 美国_NR 上市_NN ，_PU 建议_NN 售价_NN 149_CD 美金_NN 。_PU 台湾_NN 则_AD 在_P 2010年_NT 11月_NT 20日_NT 上市_VV 。_PU
+
+2011_CD 年_M ，_PU 微软_AD 发布_VV KinectSDK_NN 让_VV 开发_VV 人员_NN 开发_VV 运用_VV Kinect_NN 操作_VV 的_DEC 非_JJ 商业_NN 用途_NN 软体_NN 。_PU
+
+2012_CD 年_M 2月1日_NN ，_PU 微软_JJ 正式_JJ 发布_NN 面向_NN Windows_NN 系统_NN 的_DEG Kinect_NN 版本_NN 「_PU KinectforWindows_NN 」_PU ，_PU 建议_NN 售价_NN 249_CD 美金_NN 。_PU 而_CC 在_P 2012_CD 年_M 晚些_JJ 时候_NN ，_PU 微软_NN 还_AD 将_BA 发布_NN 面向_NN “_PU 教育_VV 用户_NN ”_PU 的_DEG 特别_JJ 版_NN Kinect_NN 。_PU
+随着_P 2016_CD 年_M 8月_NN 推出_VV 的_DEC XboxOneS_NN 及_CC 2017年_NT 6月_NT 的_DEG XboxOneX_NN 取消_VV Kinect_NN 连接埠_NN ，_PU 微软_JJ 公司_NN 已_AD 於_P 2017_CD 年_M 停产_VV Kinect_NN 。_PU
+
+Kinect_NN 感应器_NN 是_VC 一_CD 个_M 外型_NN 类似_NN 网路_NN 摄影机_NN 的_DEC 装置_NN 。_PU Kinect_NN 有_VE 三_CD 个_M 镜头_NN ，_PU 中间_NN 的_DEC 镜头_NN 是_VC RGB_NR 彩色_NN 摄影机_NN ，_PU 左_JJ 右_JJ 两_CD 边_NN 镜头_NN 则_AD 分別_VV 为_VC 红外线_NN 发射器_NN 和_CC 红外线_NN CMOS_NN 摄影机_NN 所_MSP 构成_VV 的_DEC 3D_CD 结构_NN 光深度_NN 感应器_NN 。_PU Kinect_NN 还_AD 搭配_VV 了_AS 追焦_NN 技术_NN ，_PU 底座_NN 马达_NN 会_VV 随着_P 对_P 焦物体_NN 移动_VV 跟_VV 著_AS 转动_VV 。_PU Kinect_NN 也_AD 内_JJ 建阵_NN 列_VV 式_NN 麦克风_NN ，_PU 由_P 多_CD 组_M 麦克_NN 风_NN 同时_AD 收音_VV ，_PU 比对_VV 后_LC 消除_VV 杂音_NN 。_PU
+
+在_P 2011_CD 年_M 3月9日_NN ，_PU 微软_JJ 宣布_NN Kinect_NN 感应器_NN 已经_AD 出货_VV 一千万_CD 部_M 。_PU 在_P 销售_VV 前_LC 60_CD 天_M 内_LC ，_PU 卖出_VV 八百万_CD 部_M ，_PU 目前_NT 已经_AD 申请_VV 金氏_NN 世界_NN 记录_NN ，_PU 成为_VV 全_DT 世界_NN 销售_NN 最_AD 快_VA 的_DEC 消费性_JJ 电子_NN 产品_NN 。_PU 至_P 2017_CD 年_M 停产_VV 时_LC ，_PU 已_AD 出货_VV 约_AD 3500万_CD 部_M 。_PU
+
+2013年_NT 5月_NT 21日_NT 微软_NN 和_CC XboxOne_NN 一起_AD 发布_VV 了_AS 配套_NN 的_DEG 新版_NN Kinect_NN 。_PU 新版_JJ 的_DEG Kinect_NN 具有_VV 1080p_CD 高清_JJ 广角_NN 摄像头_NN 等_ETC 更_AD 精确_VA 的_DEC 感应_NN 装置_NN ，_PU 可以_VV 最多_AD 同时_AD 跟踪_VV 六_CD 人_NN 的_DEG 运动_NN 、_PU 侦测_VV 手势_NN ，_PU 甚至_AD 可以_VV 检测_VV 肌肉_NN 活动_NN 和_CC 心跳_NN 。_PU 升级版_NN 的_DEG Kinect_NN 将_AD 在_P XboxOne_NR 包装_NN 中_LC 随附_VV 。_PU
+
+
+
+

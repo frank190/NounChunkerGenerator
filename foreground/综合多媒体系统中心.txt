@@ -1,0 +1,19 @@
+﻿综_NN 合多_VA 媒体_NN 系统_NN 中心_NN
+
+综合_JJ 多媒体_NN 系统_NN 中心_NN （_PU IntegratedMediaSystemsCenteratUSC_NN ，_PU 简称_VV IMSC_NN ）_PU 是_VC 南_JJ 加州_NN 大学_NN 专门_NN 研究_VV 网络_NN 及_CC 多媒体_NN 的_DEC 工程_NN 研究_NN 中心_NN （_PU ERC_NN ）_PU ，_PU 设立_VV 资金_NN 则_AD 由_P 国家_NN 科学_NN 基金会_NN （_PU N_CD SF_M ）_PU 提供_VV 。_PU
+
+建于_VV 1995_CD 年底_NN ，_PU 通过_P 与_P 包括_VV 麻省_NN 理工_NN 及_CC 斯_DT 坦福_NN 大学_AD 在内_VV 的_DEC 多所_JJ 学校_NN 的_DEG 竞争_NN ，_PU 于_P 1996年_NT 5月_NT 23日_NT 获得_VV 国家_NN 科学基_NN 金会_NN (_PU N_CD SF_M )_PU $12_CD ,_PU 400_CD ,_PU 000_CD ,_PU 为期_P 五_CD 年_M 的_DEG 资金_NN 。_PU 包括_VV 学校_VV ，_PU 企业界_NN ，_PU 其他_DT 政府_NN 机构_NN :_PU 国_NN 防先_AD 进研_VV 究计_VV 划署_VV （_PU DARPA_M ）_PU ,_PU 美国_NR 国防部_NN ，_PU 美国_NR 国家_NN 航空航_NN 天局_NN （_PU N_CD ASA_M ）_PU ，_PU 美国_NR 国立_NN 卫生_VV 研究院_NN （_PU theNationalInstitutesofHealth）_PU 在内_VV 的_DEC 其他_DT 方面_NN 资金_NN 援助_VV 使_VV 五年_NT 为期_NT 的_DEG 总资_NN 金数_NN 达到_VV $50_CD ,_PU 000_CD ,_PU 000_CD （_PU 1996_CD －_PU 2001_CD ）_PU 。_PU 用以_VV 支持_VV 声音_NN 技术_NN 、_PU 多媒体_NN 网络_NN 、_PU 数据_NN 压缩_NN 、_PU 计算机_NN 动画_VV 和_P 图形_NN 技术_NN 、_PU 无_VE 线网_NN 技术_NN 等_ETC 方面_NN 的_DEC 研究_NN 。_PU
+
+当时_NT 支持_NN （_PU 拥有_VV ）_PU 5_OD 名_M 教员_NN ，_PU 28_CD 名_M 研究_NN 人员_NN ，_PU 42_CD 名_M 研究_NN 生助研_NN 和_CC 80_CD 名_M 本_DT 科生_NN 。_PU 最早_NT 位于_VV 电子_NN 工程_NN 和_CC 计算_NN 工程_NN 系_NN 的_DEG （_PU HughesElectronicEngineeringCenter_JJ ）_PU 第一_OD 层_M ，_PU 1996_CD 年_M 后_LC 移至_VV 现址_JJ （_PU PowellHallofEngineering_NN ）_PU 。_PU
+
+从_P 诞_PN 生起_VV ，_PU 综合_VV 多媒体_NN 系统_NN 中心_NN (_PU IMSC_NN )_PU 共_AD 产生_VV 了_AS 119_CD 项_M 发明_NN ，_PU 66_CD 项_M 专利_NN ，_PU 9_CD 项_M 获奖_NN 专利_NN ，_PU 112_CD 项_M 商业_NN 许可_VV 和_P 技术_NN 转让_NN ，_PU 孵化_VV 了_AS 10_CD 个_M 公司_NN 。_PU 仍_AD 有_VE 超过_VV 35_CD 项_M 先进_JJ 技术_NN 可_VV 供_VV 转让_VV 。_PU 此外_AD ，_PU 还_AD 在_P 期刊_NN 杂志_NN 上_LC 发布_VV 了_AS 643_CD 篇_M 学术_NN 论文_NN ，_PU 发布_VV 了_AS 1590_CD 篇_M 会议_NN 论文_NN 。_PU
+
+综合_JJ 多媒体_NN 系统_NN 中心_NN 现_AD 包括_VV 九_CD 个_M 教学_NN 专业_NN 学位_NN 计划_NN ：_PU
+
+综合_JJ 多媒体_NN 系统_NN 中心_NN 还_AD 包括_VV 一_CD 家_M 出版社_NN －_PU 综合_JJ 多媒体_NN 系统_NN 中_LC 心出_VV 版社_NN （_PU IMSCPress_NN ）_PU ，_PU 和_CC 著名_VA 的_DEC 科技_NN 出版_VV 公司_NN PrenticeHall_NN 一道_AD 出版_VV 系列_NN 书籍_NN 。_PU
+
+综合_JJ 多媒体_NN 系统_NN 中_LC 心现_VV 有_VE 26_CD 名_M 教员_NN ，_PU 187_CD 名_M 研究_NN 生助研_NN 和_CC 32_CD 名_M 本_DT 科生助_NN 研_NN ，_PU 以及_CC 4_CD 名_M 管理_NN 人员_NN 。_PU 中心_NN 年度_NN 预算_NN 约_AD 为_VC ：_PU $10_CD ,_PU 000_CD ,_PU 000_CD ._PU
+
+
+
+

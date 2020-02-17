@@ -1,0 +1,5 @@
+﻿泻流_NN
+
+在_P 物理学_NN 中_LC ，_PU 泻流_NN 是_VC 容器_NN 中_LC 的_DEG 气体_NN 分子_NN 个_M 別地_NN 通过_P 一_CD 小孔_NN 而_MSP 漏出_VV 的_DEC 过程_NN ，_PU 条件_NN 是_VC 小孔_NN 的_DEC 直径_NN 远小于_VV 气体_NN 的_DEG 平均_JJ 自由程_NN ，_PU 漏出_VV 时气体_NN 分子_NN 之间_LC 没有_VE 碰撞_NN 。_PU 气体_NN 分子_NN 的_DEG 的_DEC 泻流_NN 速率_NN （_PU 单位_JJ 时间_NN 从_P 小孔_NN 泻_NN 流出_VV 的_DEC 分子_NN 数目_NN ）_PU 和_CC 分子_NN 的_DEC 分子量_NN 的_DEG 平方根_NN 成_VV 反比_NN ，_PU 即_AD 格_M 锐目_NN 定律_VV 。_PU
+
+

@@ -1,0 +1,8 @@
+﻿锯_NN 齿波_NN
+
+锯齿波_NR （_PU ）_PU 是_VC 一_CD 种_M 非_AD 正_JJ 弦波_NN ，_PU 由于_P 它_PN 具有_VV 类似_JJ 锯子_NN 一样_VA 的_DEC 波形_NN ，_PU 即_AD 具有_VV 一_CD 条_M 直_NN 的_DEG 斜线_NN 和_CC 一_CD 条_M 垂直_VV 于_P 横_NN 轴_NN 的_DEG 直线_NN 的_DEG 重复_JJ 结构_NN ，_PU 它_PN 被_SB 命名_VV 为_VC 锯齿波_NN 。_PU
+
+锯齿波_NR 的_DEC 傅里_NR 叶级_NN 数展_NN 开为_VV ：_PU
+
+
+

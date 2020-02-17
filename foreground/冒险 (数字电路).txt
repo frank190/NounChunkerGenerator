@@ -1,0 +1,23 @@
+﻿冒险_NN (_PU 数字_NN 电路_NN )_PU
+
+冒险_NN （_PU ）_PU ，_PU 也_AD 简称_VV 险象_NN ，_PU 是_VC 一_CD 种_M 由于_P 数字_NN 电路_NN 内部_NN 设计_VV 或者_CC 外部_NN 影响_VV 造成_VV 错误_JJ 数字_NN 信号_NN 的_DEG 不良_NN 效应_NN 。_PU
+
+数字_NN 电路_NN 中_LC ，_PU 输入_VV 的_DEC 数字_NN 信号_NN 改变_VV 或_CC 进行_VV 一_CD 些_M 逻辑_NN 运算_NN （_PU 如_P 非_NN 、_PU 与_CC 、_PU 或_CC 等_ETC ）_PU 时_LC ，_PU 输出_NN 信号_NN 没有_VE 能_VV 完全_AD 同步_AD 改变_VV ，_PU 从而_AD 引发_VV 短暂_JJ 时间_NN 内_LC 的_DEG 错误_NN 信号_NN 脉冲_NN 输出_NN ，_PU 这_DT 种_M 错误_NN 信号_NN 的_DEC 脉冲_NN 很_AD 窄_VA ，_PU 被_SB 称作_VV “_PU 毛刺_NN ”_PU （_PU ）_PU 。_PU
+
+最_AD 常见_VA 的_DEC 三_CD 种_M 冒险_NN 现象_NN 分别_AD 是_VC 静态_NN 险象_NN 、_PU 动态_NN 险象_NN 和_CC 功能_NN 险象_NN 。_PU
+
+
+输出_NN 信号_NN 毛刺_NN 为_VC 负向_JJ 脉冲_NN 的_DEG 为_VC 0_CD 型_NN 险象_NN ，_PU 通常_AD 在_P 与_P 或_CC 、_PU 与_CC 非_VC 、_PU 与_P 或_CC 非_AD 型_JJ 电路_NN 中_LC 出现_VV ；_PU 输出_NN 信号_NN 为_VC 正向_JJ 脉冲_NN 的_DEG 为_VC 1_CD 型_NN 险象_NN ，_PU 通常_AD 在_P 或_CC 与_P 、_PU 或_CC 非_AD 型_JJ 电路_NN 中_LC 出现_VV 。_PU
+
+冒险_NN 现象_AD 持续_VV 的_DEC 时间_NN 很_AD 短暂_VA ，_PU 但是_CC 危害_NN 却_AD 不_AD 小_VA 。_PU 特别_AD 是_VC 在_P 时序_NN 逻辑_NN 电路_NN 中_LC ，_PU 如果_CS 险象_NN 发生_VV 在_P 时间_NN 边_NN 沿_P 时_LC ，_PU 输出_NN 信号_NN 的_DEC 险象_NN 会_VV 造成_VV 严重_VA 的_DEC 后果_NN 。_PU
+
+冒险_NN 现象_NN 是_VC 一_CD 种_M 临时性_JJ 的_DEG 问题_NN ，_PU 因为_P 电路_NN 最终_AD 会_VV 稳定_VV 在_P 所_MSP 需要_VV 的_DEC 功能_NN 信号_NN 上_LC 。_PU 尽管_CS 这样_AD ，_PU 消除_VV 险象_NN 还_AD 是_VC 十分_AD 必要_VV ，_PU 特别_AD 是_VC 当_P 信号_NN 需要_VV 接入_VV 下_DT 一_CD 级_M 系统_NN 里_LC 时_LC 。_PU
+
+设计_VV 一_CD 个_M 不_AD 发生_VV 险象_NN 的_DEC 数字_NN 电路_NN 是_VC 消除_VV 险象_NN 的_DEG 最_AD 理想_VA 的_DEC 办法_NN 。_PU 但是_AD ，_PU 这_DT 种_M 方式_NN 对于_P 一些_CD 复杂_VA 的_DEC 电路_NN 来说_LC ，_PU 设计_VV 出_VV 的_DEC 电路_NN 会_VV 比较_VV 复杂_VA ，_PU 使_VV 电路_NN 变得_VV 更为_AD 复杂_VA ，_PU 甚至_AD 导致_VV 成本_NN 的_DEG 上升_NN 。_PU 简单_NN 电路_NN 的_DEG 静态_NN 险象_NN 则_AD 可以_VV 应用_VV 这_DT 个_M 方法_NN 。_PU
+在_P 卡诺图_NN 中_LC 圈选_VV “_PU 1_CD ”_PU 或_CC “_PU 1_CD ”_PU 的_DEC 时候_NN ，_PU 如果_CS 可以_VV 避免_VV 某_DT 一_CD 个_M 所_MSP 选_VV 区域_NN 与_P 另_DT 一_CD 个_M 区域_NN 相_AD 切_VA ，_PU 即_AD 可_VV 避免_VV 冒险_VV 现象_NN 的_DEG 发生_NN 。_PU 不过_AD ，_PU 这_DT 种_M 卡诺_NN 图圈_NN 选_VV 方式_NN 虽然_CS 可以_VV 消除_VV 因_P 逻辑_NN 设计_VV 产生_VV 的_DEC 险象_NN ，_PU 以_P 上圈_NN 选_VV 方式_NN 得到_VV 的_DEC 最_AD 小_JJ 项积_NN 之_DEG 和_CC 式_NN 或_CC 最_AD 大_JJ 项和_NN 之_DEC 积式_JJ 很_AD 可_VV 能_VV 不_AD 是_VC 最_AD 简_NN 与_P 或_CC 式_NN 或_CC 最_AD 简_JJ 或_CC 与_P 式_NN ，_PU 即_AD 产生_VV 了_AS 冗余项_NN 。_PU
+
+险象_NN 通常_AD 是_VC 在_P 输入_NN 信号_NN 改变_VV 后_LC 的_DEG 较_AD 短_JJ 时间_NN 内_LC 发生_VV ，_PU 如果_CS 在_P 错误_NN 信号_NN 的_DEC 脉冲_NN 消退_VV 后再_NN 进行_VV 读值_NN ，_PU 也_AD 能_VV 避免_VV 错误_VA 信号_NN 造成_VV 的_DEC 危害_NN 。_PU 实际_AD 可以_VV 使用_VV 选_VV 通电路_NN 来_MSP 实现_VV 此_DT 功能_NN 。_PU
+
+采用_VV 额外_NN 的_DEC 滤波_NN 电路_NN 也_AD 可以_VV 缓解_VV 错误_NN 信号_NN 的_DEC 脉冲_NN 。_PU 通常_AD ，_PU 错误_VA 信号_NN 脉冲_NN 都_AD 是_VC 高频_NN 信号_NN ，_PU 和_CC 正常_VA 的_DEC 、_PU 所_MSP 需要_VV 的_DEC 信号_NN 频率_NN 差别_AD 较_AD 大_VA ，_PU 可以_VV 通过_P 滤波_NN 电路_NN 进行_VV 消除_NN 。_PU 这_DT 种_M 方式_NN 的_DEC 缺点_NN 则_AD 在于_VV ，_PU 错误_VA 信号_NN 虽然_CS 被_SB 消除_VV 了_AS ，_PU 但是_CC 输出_NN 信号_NN 的_DEG 上升_NN 沿_NN 和_CC 下降_NN 沿_P 也_AD 随_P 之_PN 被_SB 破坏_VV 。_PU
+
+

@@ -1,0 +1,17 @@
+﻿二力_NN 平衡_JJ 公理_NN
+
+二力平衡_NN 公理_NN 是_VC 指_VV 当_P 系统_NN 只_AD 受_VV 两_CD 个_M 力_NN 作用_NN 时_LC ，_PU 讨论_VV 该_DT 物体_NN 会_VV 发生_VV 的_DEC 变化_NN
+
+作用于_VV 刚体_NN 上_LC 的_DEG 两_CD 力_NN ，_PU 使_VV 刚体_NN 保持_VV 平衡_VA 的_DEC 充要_JJ 条件_NN 是_VC ：_PU 该_DT 两_CD 力_NN 的_DEG 大小_NN 相等_VV ，_PU 方向_NN 相反_VA 且_CC 作_VV 用于_VV 同_DT 一_CD 直线_NN 上_LC 。_PU
+
+若_CS 两_CD 力_NN 互相_AD 平行_VV 且_P 方向_NN 不同_VA 也_AD 作用于_VV 同_DT 一_CD 直线_NN 上_LC 时_LC ，_PU 若_CS 该_DT 两_CD 力_NN 的_DEG 大小_NN 相等_VV ，_PU 二力会_NN 达到_VV 平衡_NN ，_PU 当_P 两_CD 力_M 平衡_NN 时_LC ，_PU 若_CS 没有_VV 其他_DT 受力_NN ，_PU 该_DT 物体_NN 将_BA 等_ETC 速度_NN 运动_VV 或_CC 静止_VV 不_AD 动_VV ，_PU 像_P 这_DT 种_M 时候_NN ，_PU 整_DT 个_M 系统_NN 只_AD 受_VV 两_CD 个_M 力_NN 的_DEG 作用_NN ，_PU 若_CS 二_CD 力_M 平衡_NN ，_PU 则_AD 该_DT 系统_NN 合力_AD 为_VC 0_CD 。_PU
+
+若_CS 两_CD 力_NN 互相_AD 垂直_VV 且_CC 方向_NN 不_AD 同_VA ，_PU 若_CS 该_DT 两_CD 力_NN 的_DEG 大小_NN 相等_VA ，_PU 两_CD 力_NN 会_VV 达到_VV 动态_JJ 平衡_NN ，_PU 合力_NN 是_VC 著_JJ 该_DT 两_CD 力_NN 中间_NN 的_DEG 分力_NN 。_PU
+
+若_CS 两_CD 力_NN 互相_AD 平行_VV 且_P 方向_NN 不同_VA 但_CC 作_VV 用_VV 在_P 不同_JJ 直线_NN 上_LC ，_PU 若_CS 该_DT 两_CD 力_NN 的_DEG 大小_NN 相等_VA ，_PU 则_AD 会_VV 发生_VV 力矩_NN ，_PU 并且_CC 不_AD 会_VV 使_VV 质心_NN 发生_VV 加_VV 速度_NN 。_PU
+
+达到_VV 两_CD 力_M 平衡_NN 的_DEC 力_NN 有_VE 可能_VV 是_VC 张力_NN 和_CC 压缩力_NN ，_PU 此时_NT 物体_NN 不_AD 会_VV 发生_VV 形_NN 变_NN 、_PU 也_AD 有_VE 可能_VV 是_VC 正向力_NN 和_CC 重力_NN ，_PU 例如_AD 放置_VV 于_P 桌面_NN 上_LC 的_DEG 书本_NN 。_PU
+
+
+
+

@@ -1,0 +1,18 @@
+﻿汤玛_NN 斯_AD 进动_VV
+
+在_P 量子_NN 力学_NN 中_LC ，_PU 汤玛_NN 斯_AD 进动_VV 是_VC 自_P 旋角_NN 动量_NN 与_CC 轨道_NN 角动量_NN 相互_AD 作用_VV 的_DEC 校正_NN ，_PU 由_P 提出_VV 的_DEC 进动_JJ 现象_NN ，_PU 背景_NN 基础_NN 为_VC 狭义_NN 相_AD 对论_VV 以及_CC 基本_JJ 粒子_NN 具有_VV 自_P 旋_NN 。_PU
+
+於_P 1914_CD 年_M 提出_VV 汤玛_NN 斯_AD 进动_VV ，_PU 当_P 时他_NN 所_MSP 拥有_VV 的_DEC 相关_JJ 知识_NN 仅_AD 有_VE 德西_NN 特_AD 关于_P 月亮_NN 的_DEG 相对_JJ 论性_NN 进动_VV 的_DEC 论文_NN ，_PU 出现_VV 在_P 亚瑟_NN ·_PU 爱丁顿_NN 发表_VV 的_DEC 书中_NN 。_PU
+
+於_P 1925_CD 年_M ，_PU 汤玛_NN 斯_AD 以_P 狭义_NN 相对论_P 方式_NN 计算_VV 了_AS 原子_NN 精细_JJ 结构_NN 的_DEG 谱线_NN 分裂_VV 的_DEC 进动_JJ 频率_NN 。_PU 他_PN 发现_VV 落差_VV 为_VC 1_CD /_PU 2_CD 这_DT 项_M 因子_NN ，_PU 现在_NT 也_AD 称为_VV 汤玛_NN 斯_DT 半值_NN （_PU Thomashalf_NN ）_PU 。_PU
+
+电子_NN 自旋_NN 的_DEG 发现_NN ，_PU 其中_NN 相对论_AD 进动_VV 现象_NN 更_AD 加深_VV 了_AS 汤玛_NN 斯_AD 进动_VV 的_DEC 重要性_NN ，_PU 也_AD 因此_AD 以_P 汤玛_NN 斯_AD 为_VC 名以_VV 作_VV 纪念_NN 。_PU
+
+量子_NN 力学_NN 中_LC ，_PU 汤玛_NN 斯_AD 进动_VV 是_VC 自旋-_JJ 轨道_NN 作用_NN 的_DEC 修正_NN 。_PU 其_PN 考量_VV 了_AS 类氢_NN 原子_NN 中_LC 电子_NN 与_CC 原子_NN 核间_NN 的_DEG 相对论_JJ 时间_NN 膨胀_NN 效应_NN 。_PU 简要_VA 地_DEV 说_VV ：_PU 具有_VV 自_P 旋_NN 的_DEC 粒子_NN 在_P 加速_VV 时_LC 会_VV 发生_VV 进动_VV ，_PU 因为_P 狭义_NN 相对_AD 论_NN 中_LC 劳仑_NN 兹_JJ 变换_NN 是_VC 不_AD 可_VV 对_P 易_VA 的_DEC 。_PU
+
+傅科摆_NN 的_DEC 摆荡_NN 平面_NN 发生_VV 旋转_NN 可以_VV 视为_P 单_AD 摆_VV 在_P 欧几_NN 里_LC 得_VV 空间_NN 的_DEC 二_CD 维球面_NN 做_VV 平行_JJ 移动_NN 。_PU 闵_AD 可_VV 夫_AS 斯_DT 基_NN 时空_NN 中_LC ，_PU 速度_NN 的_DEC 双曲_JJ 空间_NN 代表_VV 了_AS 一_CD 个_M 三维_NN （_PU 赝_NN ）_PU 球面_NN ，_PU 此_DT 球面_NN 具有_VV 虚数_JJ 半径_NN 及_CC 虚数_NN 类_NN 时_LC 座标_NN 。_PU 一_CD 自_M 旋粒_NN 子_NN 於_P 此_DT 相对_JJ 论速度_NN 空间_NN 做_VV 平行_JJ 移动_NN 导致_VV 汤_NN 玛斯_NN 进动_VV ，_PU 类似_AD 於_P 傅科_NN 摆摆_VV 荡平面_NN 的_DEG 旋转_NN 。_PU 在_P 此_DT 二_CD 例子_NN 中_LC 的_DEG 旋转角_NN 由_P 曲率_NN 的_DEG 面积_NN 分决定_VV ，_PU 与_P 高_VA 斯_DT -_PU 博_NN 内定理_NN 相_AD 符合_VV 。_PU
+
+汤玛_NN 斯_AD 进动_VV 也_AD 是_VC 傅科_NN 摆_VV 进动_VV 的_DEC 修正项_NN ，_PU 在_P 荷兰_NN 奈_VV 梅亨_NR 这样_PN 的_DEG 纬度_NN ，_PU 其_PN 修正值_NN 为_VC formula_NN
+
+
+

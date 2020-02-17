@@ -1,0 +1,12 @@
+﻿物_NN 理学_NN 分支_NN
+
+物理学_NN 是_VC 一_CD 种_M 自然_JJ 科学_NN ，_PU 注重于_VV 研究_NN 物质_NN 、_PU 能量_NN 、_PU 空间_NN 、_PU 时间_NN ，_PU 尤其_AD 是_VC 它们_PN 各自_PN 的_DEG 性质_NN 与_CC 彼此_PN 之间_LC 的_DEG 相互_JJ 关系_NN 。_PU 物理学_NN 是_VC 关于_P 大自然_AD 规律_VV 的_DEC 知识_NN ；_PU 更_AD 广义_VA 地_DEV 说_VV ，_PU 物理_NN 学探_VV 索分析_AD 大自然_AD 所_MSP 发生_VV 的_DEC 现象_NN ，_PU 以_MSP 了解_VV 其_PN 规则_NN 。_PU
+
+虽然物_NN 理学_NN 的_DEG 研究_NN 范围_NN 十分_AD 广泛_VA ，_PU 但_AD 有些_DT 理论_NN 仍常_AD 被_SB 物理_VV 学者_AD 使用_VV 到_VV ，_PU 这些_DT 理论_NN 都_AD 已经_AD 过做实验_VV 多_CD 次_M 检验_NN ，_PU 被_SB 证实_VV 为_VC 大_JJ 自然_VA 的_DEC 正确_JJ 近似_NN （_PU 可以_VV 适用于_VV 某_DT 设定_NN 值域_NN 内_LC ）_PU 。_PU 例如_AD ，_PU 经典_NN 力学_NN 的_DEC 理论_NN 能够_VV 準确_VA 地_DEV 描述_VV 物体_NN 的_DEG 运动_NN ，_PU 前提_CC 是_VC 物体_NN 必须_VV 满足_VV 尺寸_NN 远大于_VV 原子_NN 、_PU 速度_NN 超小_VV 于_P 光_NN 速_AD 这_DT 两_CD 个_M 条件_NN 。_PU 经过_P 多_CD 年_M 的_DEG 研究_NN 后_LC ，_PU 这些_DT 核心理_NN 论仍旧_NN 是_VC 很_AD 热门_VA 的_DEC 研究_NN 领域_NN 。_PU 例如_AD ，_PU 二十_CD 世纪_VV 后半期_NN ，_PU 即_AD 在_P 艾萨克_NN ·_PU 牛顿_NN 原本_AD 表述_VV 经_P 典力_NN 学整_VV 整_DT 三_CD 个_M 世纪_NN 之后_LC ，_PU 学者_CC 发现_VV 与_CC 创建_VV 了_AS 混沌理_NN 论_NN ，_PU 一_CD 门非线性_NN 系统_NN 相关_JJ 经典_NN 力学_NN 理论_NN 。_PU 这些_DT 核心理_NN 论_AD 大致_AD 包括_VV 於_P 经_P 典力学_NN 、_PU 量子_NN 力学_NN 、_PU 热力学_NN 、_PU 统计力学_NN 、_PU 电磁学_NN 、_PU 相对论_AD 等等_JJ 基础物_NN 理学_NN 领域_NN ，_PU 是_VC 进阶_AD 研究_VV 的_DEC 重要_JJ 工具_NN 。_PU 任何_DT 物理_NN 学者_VV ，_PU 不论专_AD 长_VA 领域_NN 为_VC 何_DT ，_PU 通常_AD 都_AD 需要_VV 熟读_VV 精通_AD 这些_DT 理论_NN 。_PU
+
+现代_NN 物理_NN 研究_NN 大致_AD 分类_VV 为_VC 天文物_NN 理学_NN 、_PU 原子物_NN 理学_NN 、_PU 分子物_NN 理学_NN 、_PU 光波物_NN 理学_NN 、_PU 粒子物_NN 理学_NN 、_PU 凝聚态物_NN 理学_NN 等等_NN 。_PU 有些_DT 大学_NN 的_DEG 物理_NN 系_NN 也_CC 支持_NN 物理_NN 教育_VV 研究_NN 。_PU 自_P 二十_CD 世纪_NN 以来_LC ，_PU 物理学_NN 的_DEG 各_DT 个_M 领域_NN 越_AD 加专_VV 业化_NN ，_PU 大_JJ 多数物_NN 理学家_NN 的_DEG 整_DT 个_M 职业_NN 生涯_NN 只_AD 专精于_VV 一_CD 个_M 领域_NN ，_PU 像_P 阿尔伯_NR 特_ETC ·_PU 爱因_VV 斯_DT 坦_NN 和_CC 列夫_NN ·_PU 朗道_NN 这样_VA 的_DEC 全才_DT 大师现_AD 在_P 已_AD 寥若晨星_VV 。_PU
+
+物理学_NN 研究_NN 领域_NN 、_PU 分支_NN 领域_NN 和_CC 涉及_VV 的_DEC 主要_JJ 理论_NN 与_CC 重要_JJ 概念_NN ：_PU
+
+
+

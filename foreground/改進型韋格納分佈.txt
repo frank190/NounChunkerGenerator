@@ -1,0 +1,12 @@
+﻿改_VV 进型_JJ 韦格_NN 纳_NN 分布_VV
+
+改进型_JJ 韦格_NN 纳_NN 分布_VV (_PU modifiedWignerdistributionfunction_NN )_PU ，_PU 用于_VV 时_LC 频_VV 分析_VV 的_DEC 一_CD 种_M 方法_NN ，_PU 属于_VV 信号_NN 处理_VV 的_DEC 范畴_NN 。_PU 它_PN 改进_VV 了_AS 韦格_NN 纳_NN 分布_VV 原有_JJ 的_DEG 相交_JJ 项_NN (_NN crossterm)_NN 的_DEG 问题_NN 。_PU 韦_CD 格_M 纳分布_NN 是_VC 西元_NN 1932_CD 年_M 由_P 尤金_NN ·_PU 维格_NN 纳_VV 所_MSP 提出_VV 用于_VV 古典_NN 力学_NN ，_PU 但是_AD 亦_AD 可_VV 用于_VV 时_LC 频_VV 分析_NN 。_PU 韦格_NN 纳_NN 分布_VV 与_P 短_JJ 时距_NN 傅_NN 立_VV 叶_NN 变换_NN 都_AD 可_VV 用于_VV 时_LC 频_VV 分析_NN ，_PU 虽然_CS 前者_NN 通常_AD 拥有_VV 较_AD 高_VA 的_DEC 分辨率_NN 且_CC 有_VE 良好_VA 的_DEC 数学_NN 特性_NN ，_PU 但_CC 当_P 有_VE 两_CD 个_M 以上_LC 的_DEC 信号_NN 成分_NN 时_LC ，_PU 韦_NN 格_CS 纳_VV 分布_VV 就_AD 会_VV 出现_VV 相交_JJ 项_NN 问题_NN ，_PU 这_PN 在_P 应用_NN 上_LC 造成_VV 很_AD 大_VA 的_DEC 困扰_NN 。_PU 因此_AD 在_P 西元_NN 1995_CD 年_M ,_PU L.J_M ._PU Stankovic_VV 和_CC S_NN ._PU Stankovic_NN 提出_VV 了_AS 改进型_JJ 韦格_NN 纳_NN 分布_VV ，_PU 以_MSP 修正_VV 韦_CD 格_M 纳分布_NN 中_LC 会_VV 出现_VV 的_DEC 相_NN 交项_NN 问题_NN 。_PU
+
+为了_P 改善_VV 韦格_NN 纳_NN 分布_VV 的_DEC 相交_JJ 项_NN (_NN cross_NN -_PU term_NN )_PU 问题_NN ，_PU 改进_VV 型_NN 韦格_NN 纳_NN 分布_VV 在_P 此_PN 引入_VV 了_AS 一_CD 个_M 类似_JJ 遮罩_NN (_PU mask)_NN 的_DEC 函数_NN ，_PU 将_BA 相交_JJ 项_NN 过滤掉_NN 。_PU
+
+在_P 此_PN 有_VE 两_CD 个_M 例子_NN 来_MSP 说明_VV 改进型_JJ 韦格_NN 纳_NN 分布_VV 确实_AD 能_VV 消除_VV 相_AD 交项_VV 。_PU
+
+
+
+
+

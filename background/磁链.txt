@@ -1,0 +1,9 @@
+﻿磁链_NN
+
+磁链_NN ，_PU 是_VC 一_CD 个_M 电磁学_NN 的_DEG 物理量_NN ，_PU 为_P 通电_NN 线圈_NN 的_DEG 匝数_NN 与_CC 磁通量_NN 的_DEG 乘积_NN 。_PU 通常_AD 用_P formula_NN (_PU lambda_NN )_PU 或_CC formula_NN (_PU psi_NN )_PU 标记_NN ，_PU 即_AD Ψ_CD ＝_PU N_CD φ_NN 或_CC λ_NN ＝_PU N_NN φ_NN 。_PU 其_PN 国际_NN 单位制_NN 单位_NN 与_P 磁通量_NN 同_AD 为_VC 韦_NN 伯_OD 。_PU
+
+由于_P 法_NN 拉第_VV 对_P 电磁学_NN 的_DEG 解释_NN ，_PU 一_CD 个_M 线圈_NN 的_DEG 磁链_NN 也_AD 可以_VV 表示_VV 为_VC 通过_P 线圈_NN 的_DEG 电压_NN 对_P 其_PN 时间_NN 的_DEG 积分_NN 。_PU 即_AD ：_PU
+
+因此_AD 其_PN 单位_NN 也_AD 可以_VV 用_VV 伏特_NN ·_PU 秒_NN 表示_VV 。_PU
+
+

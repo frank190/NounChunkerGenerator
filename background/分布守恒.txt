@@ -1,0 +1,7 @@
+﻿分布_NN 守_VV 恒_NN
+
+一_CD 个_M 物体_NN 产生_VV 的_DEC 影响_VV 在_P 物体_NN 影响_VV 产生_VV 的_DEC “_PU 面_NN ”_PU 上_NN 与_P 该_DT 面_NN 影响_VV 的_DEC 强度_NN 乘积_VV 为_VC 定值_NN ，_PU 即_AD ∑_VA （_PU 定_VV 距离_NN 影响_NN 效应_NN ×_PU 影响面_NN 面积_NN ）_PU =定值_NN
+
+同_DT 一_CD 电荷_NN 的_DEG 不同_JJ 等势面_NN 上_LC 的_DEG 电场_NN 强度_NN 与_CC 面积_NN 乘_NN 积_VV 相等_JJ 即∑Si_NR *_PU xi_NN 相_NN 等_ETC ，_PU 同_DT 一_CD 带电体_NN 产生_VV 的_DEC 等势面_NN 也_AD 符合_VV 该_DT 方程式_NN ，_PU 分布_VV 守_VV 恒_AD 适用于_VV 电流_NN 场强_NN 的_DEC 分布_NN ，_PU 带_VV 静电体_NN 的_DEG 分布_NN ，_PU 以及_CC 爆破_VV 威力_NN 的_DEC 估计_NN 等_ETC 也_AD 符合_VV 该_DT 式_NN 。_PU
+
+

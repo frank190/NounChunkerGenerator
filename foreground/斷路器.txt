@@ -1,0 +1,47 @@
+﻿_CS 断路器_NN
+
+断路器_NN （_PU ，_PU 简称_VV CB_NN ）_PU ，_PU 广泛_AD 使用于_VV 工业_NN 生产_NN 和_CC 日常_JJ 生活_NN 中_LC ，_PU 主要_JJ 功能_NN 是_VC 合_VV 上_NN 和_CC 断开_NN 回路_NN （_PU ON_NN /_PU OFFPOWER_NN ）_PU 。_PU 別名_NN :_PU 空气_NN 开关_NN 、_PU 保险掣_NN 、_PU 无_VE 熔丝_NN 开关_NN 。_PU 断路器_NN 会_VV 在_P 短路_NN 和_CC 严重_JJ 超载_NN 的_DEC 情况_NN 下_LC 切断_VV 电路_NN ，_PU 从而_AD 有效_VA 的_DEC 保护_NN 回路_NN 中_LC 的_DEG 电器_NN 。_PU
+
+高压_NN 用_P 断路器_NN ，_PU 最常_AD 见_VV 为_VC 气体_NN 断路器_NN 和_CC 真空_NN 断路器_NN ，_PU 35_CD kV_NN 及_CC 以下_JJ 电力_NN 系统_NN 中_LC ，_PU 多_AD 采用_VV 真空_NN 断路器_NN ；_PU 35_CD kV_M 以上_JJ 电力_NN 系统_NN 则_AD 多_AD 采用_VV 气体_NN 断路器_NN （_PU S_CD F_CD 6_CD 断路器_NN ）_PU 。_PU
+
+低_JJ 压用_NN 断路器_NN ，_PU 最常_AD 见_VV 为_VC 无_VE 熔丝_NN 开关_NN ，_PU 较_AD 大型_JJ 容量_NN 之_DEG 低压_NN 断路器_NN 亦_AD 使用_VV 空气_NN 断路器_NN （_PU AirCircuitBreaker_NN ，_PU 缩写_VV ACB_NN ）_PU 。_PU
+
+当_P 用_P 手向_NN 上_LC 扳起_VV 把手_AD ，_PU 会_VV 执行_VV 启动_NN 电流_NN （_PU circuit_NN -_PU close_NN ）_PU ，_PU 当_P 电路_NN 过载_VV 或_CC 短路_VV 时_LC 即_AD 自动_AD 跳脱_VV ，_PU 将_BA 事故_JJ 原因_NN 排除_VV 之后_LC ，_PU 重新_VV 下_LC 扳_VV 再_AD 往_P 上扳_NR ，_PU 否则_AD 无法_AD 达成_VV 再次_JJ 闭路_NN 动作_NN 。_PU
+
+与_P 普通_JJ 电源_NN 开关_NN 不_AD 同点_AD 为_VC 增设_VV 弹簧_NN 与_CC 装置_NN 。_PU 弹簧_NN 作用_NN 为_VC 於_P 启断_NN （_PU OPEN_NN ）_PU 或_CC 闭合_NN （_PU CLOSE_NN ）_PU 之_DEG 操作_NN 过程_NN 中_LC ，_PU 预储_JJ 弹簧_NN 力量_NN 至_VV 临界点_NN 后_LC ，_PU 瞬间_PN 弹离_VV 而_CC 快速_AD 接通_VV 或_CC 跳开_VV 接点_NN ，_PU 故_AD 其_PN 操作_NN 速度_NN 不_AD 受_VV 手_NN 操作_NN 速度_NN 之_DEG 影响_NN 。_PU 消弧_NN 装置_NN 为_VC 消除_VV 操作_NN 上_LC 内部_NN 接点_NN 所_MSP 产生_VV 之_DEC 火花_NN 之_DEC 消弧室_NN ，_PU 任何_DT 接点_NN 打开_VV 负载_NN 电流_NN 均_AD 会_VV 产生_VV 电弧_NN （_PU 即_AD 火花_NN ）_PU 。_PU 因_P 电弧_NN 本身_PN 是_VC 极_AD 高温_VA 之_DEC 空气柱_NN 游离_VV 所_MSP 变成_VV 的_DEC 导电体_NN ，_PU 它_PN 是_VC 应用_VV 安培右_NN 手定则_NN ，_PU 在_P 消弧室_NN 之_DEC 铁片_NN 间_LC 构成_VV 一_CD 强_JJ 磁场_NN ，_PU 再_AD 利用_VV 佛_NN 来_MSP 明_AD 右_JJ 手定则_NN ，_PU 将_BA 电弧_NN 之_DEG 空气_NN 导体_NN 快速_AD 推弯_VV 而_CC 拉长_VV 电弧_NN ，_PU 使_VV 火花_NN 更_AD 快速_VA 地_DEV 熄灭_VV 。_PU
+
+若_CS 负载_VV 为_VC 电动机_NN ，_PU 正常_AD 启动_VV 会_VV 有_VE 突_AD 起_VV 高额_NN 电流_NN ，_PU 因此_AD 应_VV 选用_VV 1.5_CD 倍_M ~_PU 2_CD 倍_M 额定_JJ 电流_NN 之_DEC 断路器_NN 。_PU
+
+
+
+以_MSP 密封_VV 的_DEC 绝缘油_NN 作为_P 开断_VV 故障_VV 的_DEC 灭弧_NN 介质_NN 的_DEC 一_CD 种_M 开关_NN 设备_NN ，_PU 有_VE 多_CD 油_M 断路器_NN 和_CC 少油_NN 断路器_NN 两_CD 种_M 形式_NN ；_PU 它_PN 较早_AD 应用于_VV 电力_NN 系统_NN 中_LC ，_PU 技术_NN 已经_AD 十分_AD 成熟_VV ，_PU 价格_NN 比较_VV 便宜_VA ，_PU 广泛_NN 应用于_VV 各_DT 个_M 电压_NN 等级_VV 的_DEC 电网_NN 中_LC ，_PU 油_NN 断路器_NN 用来_VV 切断_VV 和_CC 接通_VV 电源_NN ，_PU 并_CC 在_P 短路_NN 时_LC 能_VV 迅速_AD 可靠_VA 地_DEV 切断_VV 电流_NN 的_DEC 一_CD 种_M 高压_NN 开关_NN 设备_NN 。_PU
+
+利用_VV 磁场_NN 的_DEG 作用_NN 使_VV 电弧_NN 熄灭_VV 的_DEC 一_CD 种_M 断路器_NN 。_PU 磁场_NN 通常_AD 由_P 分断_JJ 电流_NN 本身_PN 产生_VV ，_PU 电弧_NN 被_LB 磁场_NN 吹入_VV 灭弧片_NN 狭缝_NN 内_LC ，_PU 并_CC 使_VV 之_PN 拉长_VV 、_PU 冷却_VV ，_PU 直_AD 至_P 最终_NT 熄灭_VV 。_PU 磁吹_NN 断路器_NN 的_DEG 触头_NN 在_P 空气_NN 中_LC 闭合_VV 和_CC 断开_VV 。_PU
+
+「_PU 真空_NN 断路器_NN 」_PU 因_P 其_PN 灭弧_NN 介质_NN 和_CC 灭弧_NN 后_LC 触头_NN 间隙_NN 的_DEC 绝缘_NN 介质_NN 都_AD 是_VC 高_JJ 真空_NN 而_MSP 得名_VV ；_PU 其_PN 具有_VV 体积_NN 小_VA 、_PU 重量_NN 轻_VA 、_PU 适用于_VV 频繁_VV 操作_NN 、_PU 灭弧_NN 不_AD 用_VV 检修_NN 的_DEC 优点_NN ，_PU 在_P 配电网_NN 中_LC 应用_VV 较为_AD 普及_VA 。_PU 真空_NN 断路器_NN 是_VC 3_CD ～_PU 10_CD kV_M ，_PU 50_CD Hz_M 三_CD 相_NN 交流_NN 系统_NN 中_LC 的_DEG 户内_NN 配电_NN 装置_NN ，_PU 可_VV 供_VV 工矿_NN 企业_NN 、_PU 发电厂_NN 、_PU 变电站_NN 中_LC 作_VV 为电器_NN 设备_NN 的_DEG 保护_NN 和_CC 控制_VV 之_DEC 用_P ，_PU 特_AD 別_VV 适用于_VV 要求_VV 无_VE 油化_NN 、_PU 少检修_NN 及_CC 频繁_AD 操作_VV 的_DEC 使用_NN 场所_NN ，_PU 断路器_NN 可_VV 配置_VV 在_P 中置柜_NN 、_PU 双层_JJ 柜_NN 、_PU 固定柜_NN 中_LC 作为_VV 控制_NN 和_CC 保护_VV 高压_JJ 电气_NN 设备_NN 用_VV 。_PU
+
+少油_JJ 量型_NN 断路器_NN 由于_P 可_VV 耐受_VV 启断_NN 次数_NN 较_AD 少_VA ，_PU 相_AD 对_P 所_MSP 需_VV 维修_NN 频度_NN 较_AD 高_VA ，_PU 目前_NT 皆_AD 已_AD 停产_VV 。_PU
+
+利用_VV 预先_AD 贮存_VV 的_DEC 压缩_NN 空气_NN 来_MSP 当_P 消除_VV 电弧_NN 介质_NN 。_PU 压缩_VV 空气_NN 不仅_AD 作为_VV 消除_VV 电弧_NN 和_CC 绝缘_NN 介质_NN ，_PU 而且_CC 还_AD 作为_VV 传动_VV 的_DEC 动力_NN 。_PU
+
+由于_P 新鲜_JJ 的_DEG 压缩_NN 空气_NN 流除_VV 了_AS 可以_VV 带走_VV 弧隙_NN 中_LC 热量_VV ，_PU 降低_VV 弧隙_NN 温度_NN ，_PU 还_AD 能_VV 直接_AD 带走_VV 弧隙_NN 中_LC 的_DEG 游离带_NN 电质点_NN ，_PU 补充_VV 新鲜_JJ 气体_NN 介质_NN ，_PU 使_VV 去_PN 游离_VV 大大_AD 加强_VV ，_PU 弧隙_NN 介质_NN 强度_NN 迅速_AD 恢复_VV ，_PU 所以_AD ，_PU 空气_NN 断路器_NN 断流_NN 容量_NN 大_VA ，_PU 灭弧_VV 时间_NN 短_VA ，_PU 而且_CC 快速_AD 自动_AD 重合_VV 闸_CD 时_LC 断流_VV 容量_NN 不_AD 降低_VV 。_PU
+
+但_AD 是_VC 空气_NN 断路器_NN 也_AD 有_VE 金属_NN 消耗量_NN 大_VA ，_PU 需要_NN 装设_VV 压缩_VV 空气_NN 系统_NN 等_ETC 辅助_NN 设备_NN 和_CC 价格_NN 较_AD 贵_VA 等_ETC 缺点_NN 。_PU 通常_AD 用于_VV 110_CD kV_NN 及_CC 以上_JJ 的_DEG 大_JJ 容量_NN 电力_NN 系统_NN 中_LC 。_PU
+
+目前_NT 生产_VV 的_DEC 空气_NN 断路器_NN 多_AD 采用_VV 常充_JJ 气式_NN ，_PU 即_AD 无论_AD 在合_VV 闸_NN 或_CC 分闸_NN 状态_NN ，_PU 消弧_VV 室内部_NN 都_AD 充满_VV 压缩_VV 空气_NN ，_PU 保证_VV 了_AS 接触头_NN 间_LC 必要_VV 的_DEC 绝缘_NN 强度_NN 。_PU 这_DT 种_M 型式_NN 结构_NN 简单_VA ，_PU 空气_NN 压力_NN 利用_VV 好_VA ，_PU 气耗量_NN 少_VA 。_PU
+
+热_AD 跳脱_VV 式_NN 一般_AD 是_VC 运用_VV 双_JJ 金属片_NN 的_DEG 原理_NN 。_PU 内_LC 有_VE 两_CD 片_M 金属_NN 铜片_NN ，_PU 当_P 电流_NN 超过_VV 额定值_NN 时_LC ，_PU 两_CD 片_M 金属片_NN 会_VV 因_P 受热_VV 而_MSP 弯曲_VV ，_PU 进而_AD 跳脱_VV 接_VV 点_NN 而_CC 断_VV 路_NN 已_AD 达到_VV 保护_VV 的_DEC 目的_NN 。_PU
+
+使用_VV 双_NN 金属片_NN 遇热_VV 弯曲_VV 的_DEC 特性_NN ，_PU 做_VV 过_AS 载_VV 保护_NN ，_PU 原理_NN 同_P 热动式_JJ ；_PU 另以电_JJ 磁场_NN 吸持_VV 的_DEC 方式_NN 做_VV 短路_NN 保护_NN ，_PU 如_P 图_NN 当_P 线路_NN 短路_NN 时_LC ，_PU 因_P 线路瞬_NN 时_LC 产生_VV 大_JJ 电流_NN ，_PU 磁场_NN 大可_AD 迅速_AD 吸引_VV 可动_JJ 铁心_NN ，_PU 以_MSP 触动_VV 跳脱_NN 元件_NN ，_PU 将_BA 负载_NN 电流_NN 切断_NN ，_PU 达到_VV 短路_NN 保护_VV 的_DEC 目的_NN 。_PU
+
+是_VC 以_P 电生_JJ 磁动_NN 的_DEC 方式_NN 同时_AD 做_VV 过_AS 载_NOI 及_CC 短路_NN 保护_NN 。_PU 在_P 过载_NT 时_LC ，_PU 电流_JJ 线圈_NN 产生_VV 的_DEC 磁场_NN 尚_AD 不_AD 足以_VV 吸持_NN 可_VV 动_VV 铁片_NN 。_PU 但_AD 却_AD 能够_VV 克服_VV 油管_NN 内_LC 的_DEG 弹簧_NN 及_CC 油_NN 的_DEG 阻尼_NN 作用_NN ，_PU 缓慢_AD 吸引_VV 油管_NN 内_LC 的_DEG 可_VV 动_VV 铁心_NN ，_PU 使_VV 可动_JJ 铁心_NN 渐渐_AD 往_P 电流_JJ 线圈_NN 的_DEG 中心_NN 移动_VV ，_PU 造成_VV 磁路_NN 磁阻_NN 减少_VV ，_PU 磁场_NN 逐渐_AD 加强_VV ，_PU 直_AD 至_P 有_VE 足够_JJ 磁力_NN 吸引_VV 可_VV 动_VV 铁片_NN ，_PU 触动_VV 跳脱_NN 元件_NN ，_PU 启断_VV 负载_NN 电流_NN 。_PU 至於_AD 短路_VV 时_LC ，_PU 因_P 短路_NN 电流_NN 极_AD 大_VA ，_PU 线圈_NN 磁场_NN 大_VA 。_PU 因此_AD 不_AD 用_VV 等油管_NN 内_LC 的_DEG 可动_JJ 铁心_NN 移入_VV 中心_NN 位置_NN ，_PU 即_AD 具有_VV 足够_VA 的_DEC 磁力_NN 直接_AD 吸引_VV 可_VV 动_VV 铁片_NN ，_PU 触动_VV 跳脱_NN 元件_NN ，_PU 启断_VV 负载_NN 电流_NN 。_PU
+
+气体_NN 断路器_NN 是_VC 以_P 六氟化硫_NN （_PU SF6_CD ）_PU 为_VC 绝缘_NN 介质_NN 。_PU 由于_P 气体_NN 断路器_NN 比_P 油_NN 断路器_NN 体积_NN 小_VA ，_PU 因此_AD 成为_VV 当_P 代特_VV 高压_JJ 输电_NN 系统_NN 主要_AD 使用_VV 之_DEC 断路器_NN 型式_NN 。_PU
+
+
+以下_JJ 四_CD 种_M 选用_JJ 断路器_NN 的_DEG 数据_NN 在_P 每_DT 个_M 断路器_NN 上_LC 都_AD 会_VV 标示_VV 在_P 其_PN 断路器_NN 上_LC ，_PU 若_CS 是_VC 有_VE 标示_NN 不_AD 全者_AD ，_PU 那_DT 此_DT 断路器_NN 就_AD 为_VC 不合_JJ 法规_NN 所_MSP 规定_VV 。_PU
+
+
+
+
+

@@ -1,0 +1,8 @@
+﻿Λ点_NN
+
+λ点_NN 是_VC 氦_VV 从_P 一般_JJ 流体氦_NN (_PU I_NN )_PU 相_AD 变到_VV 超流_NN 体氦_NN (_PU II_NN )_PU 的_DEG 温度_NN ，_PU 在_P 1_CD 标准_JJ 大_JJ 气压_NN 下_LC 约_AD 为_VC 2_CD ._PU 17_CD K_NN 。_PU 氦_NN （_PU I_NN ）_PU 和_CC 氦_NN （_PU II_NN ）_PU 可以_VV 共存_VV 的_DEC 最_AD 低_JJ 压力_NN 是_VC 在_P He_NN 气体_NN −_VC He(I_NR )_PU −He(II)_PU 的_DEC 三相点_NN ，_PU 是_VC 在及_VV ，_PU 是_VC 该_DT 温度_NN 下_LC 的_DEG 饱和_DT 蒸气压_NN （_PU 若_CS 在_P 的_DEG 容器_NN 内_LC ，_PU 纯_JJ 氦气_NN 会_VV 在_P 液体_NN 表面_NN 形成_VV 热平衡_NN ）_PU 。_PU 氦(I_JJ )_NN 和_CC 氦_NN (_PU II_NN )_PU 可以_VV 共存_VV 的_DEC 最高_JJ 压力_NN 是_VC 立_VV 方晶_NN 系氦_NN 固体−_NN He(_CD I)−He_M (_PU II_NN )_PU 的_DEG 的_DEC 三_CD 相_NN 点_LC ，_PU 位在_NN ,_PU 。_PU
+
+λ点_NN 的_DEC 名称_NN 是_VC 因为_P 在_P 上述_JJ 温度_NN 范围_NN 内_LC 描绘_VV 比_P 热容_NN 和_CC 温度_NN 的_DEC 图时_NN （_PU 在_P 上述_JJ 的_DEG 压力_NN 下_LC ，_PU 例如_AD 一_CD 大气_NN 压力_NN ）_PU ，_PU 会_VV 出现_VV 希腊文_NN 的_DEC 字母λ_NN 。_PU 当_P 温度_NN 接近_VV λ点_NN 时_LC ，_PU 其_PN 比_P 热容_NN 会_VV 接近_VV 无限_AD 大_VA 。_PU 其_PN 峰值_NN 很_AD 大_VA ，_PU 只有_AD 在_P 零_CD 重力_NN 时_LC 才_AD 会_VV 用_P 临界_NN 指数_NN 来_MSP 说明_VV 比_P 热容_NN 发散_VV 的_DEC 情形_NN （_PU 为了_P 要让_VV 流体_NN 在_P 一体_NN 积_VV 内_LC 的_DEG 密度_NN 是_VC 均匀_VA 的_DEC ）_PU 。_PU 因此_AD 曾_AD 在_P 1992_CD 年太空船_M 的_DEG 酬载_NN 中_LC 量过_VV 比_P λ_NN 点_VV 低_JJ 2_CD  _NN nK_NN 时_LC 的_DEG 热容_NN 。_PU
+
+
+

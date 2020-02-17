@@ -1,0 +1,6 @@
+﻿角量_NN 子数_NN
+
+角量_NN 子数_NN （_PU ）_PU ，_PU 即轨_JJ 域角_NN 动_NN 量_NN 的_DEG 量子_NN 数_NN ，_PU 通常_AD 用_P 小写_JJ 英文_NN 字母_NN formula_NN __NN 1_CD 来_MSP 表示_VV 。_PU 从_P 经典_NN 力学_NN 的_DEG 概念_NN 可知_VA ，_PU 任何_DT 旋转体_NN 都_AD 有_VE 绕轴_VV 的_DEC 角动量_NN 。_PU 它_PN 是_VC 一_CD 个_M 矢量_NN 。_PU 当_P 它_PN 不_AD 是_VC 连续_AD 变动_VV 时_LC ，_PU 会取_VV 不同_VA 的_DEC 离散值_NN ，_PU 是_VC 量子化_NN 的_DEC 。_PU 在_P 原子_NN 物理_NN 中_LC ，_PU 这_DT 个_M 量子_NN 数_CD 决定_VV 了_AS 电子云_NN 的_DEG 形状_NN 。_PU 例如_AD ，_PU 电子_NN 所_MSP 处_VV 的_DEC formula_NN __NN 2_CD 分别_AD 对应_VV 的_DEC 角量_NN 子数_NN 分别_AD 是_VC formula_NN
+
+
+

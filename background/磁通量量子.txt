@@ -1,0 +1,8 @@
+﻿磁_NN 通量_NN 量子_NN
+
+磁通量_NN 量子_NN （_PU Magneticfluxquantum_NR ）_PU 是_VC 指_VV 磁通量_NN 的_DEG 最_AD 小_JJ 单位_NN ，_PU 通常_AD 以_P formula_NN __NN 1_CD 为_VC 符号_NN ，_PU 其_PN 值等于_VV formula_NN 833758_CD ×_PU 10_CD Wb_M )_PU ，_PU 是_VC 物理_NN 常数_NN 。_PU
+
+与_P 磁_JJ 通量_NN 量子_NN 相关_AD 或是_CC 同义_VV 的_DEC 单字_NN 包括_VV ：_PU 「_PU fluxquanta_NN 」_PU 、_PU 「fluxoid_NN 」_PU 、_PU 「fluxon_NN 」_PU 。_PU
+
+
+

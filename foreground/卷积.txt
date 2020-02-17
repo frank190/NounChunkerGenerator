@@ -1,0 +1,51 @@
+﻿卷积_NN
+
+在_P 泛函_NN 分析_NN 中_LC ，_PU 卷积_NN （_PU 又_AD 称_VV 叠积_NN （_PU convolution_NN ）_PU 、_PU -{褶}-_PU 积_NN 或_CC 旋积_NN ）_PU ，_PU 是_VC 通过_P 两_CD 个_M 函数_NN "_PU f_NN "_PU 和_CC "_PU g_NOI "_PU 生成_VV 第三_OD 个_M 函数_NN 的_DEC 一_CD 种_M 数学_NN 算子_NN ，_PU 表_NN 征_VV 函数_NN "_PU f_CD "_PU 与_CC 经过_P 翻转_NN 和_CC 平移_VV 的_DEC "_PU g_NN "_PU 的_DEG 乘积_NN 函数_NN 所_MSP 围成_VV 的_DEC 曲边梯_NN 形_NN 的_DEG 面积_NN 。_PU 如果_CS 将_BA 参加_VV 卷积_NN 的_DEC 一_CD 个_M 函数_NN 看作_NN 区间_NN 的_DEG 指示_NN 函数_NN ，_PU 卷积_NN 还_AD 可以_VV 被_SB 看作_VV 是_VC “_PU 滑动_NN 平均_NN ”_PU 的_DEC 推广_NN 。_PU
+
+卷积_NN 是_VC 数学_NN 分析_NN 中_LC 一_CD 种_M 重要_VA 的_DEC 运算_NN 。_PU 设_NN ：_PU formula_NN __PU 1_CD 、_PU formula_NN __NN 2_CD 是_VC formula_NN
+可以_VV 证明_VV ，_PU 关于_P 几乎_AD 所有_DT 的_DEG formula_NN __NN 5_CD ，_PU 上述_JJ 积分_NN 是_VC 存在_VV 的_DEC 。_PU 这样_AD ，_PU 随着_P formula_NN __NN 6_CD 的_DEG 不同_JJ 取值_NN ，_PU 这_DT 个_M 积分_NN 就_AD 定义_VV 了_AS 一_CD 个_M 新_JJ 函数_NN formula_NN __NN 7_CD ，_PU 称为_VV 函数_NN formula_NN __NN 8_CD 与_P formula_NN __NN 9_CD 的_DEG 卷积_NN ，_PU 记为_VV formula_NN __NN 10_CD 。_PU 我们_PN 可以_VV 轻易_AD 验证_VV ：_PU formula_NN __NN 11_CD ，_PU 并且_CC formula_NN __NN 12_CD 仍_AD 为_VC 可_VV 积_VV 函数_NN 。_PU 这_PN 就_AD 是_VC 说_VV ，_PU 把_BA 卷积_NN 代替_VV 乘_VV 法_NN ，_PU formulaformulaformula_NN 有_VE 特別_JJ 的_DEG 限制_NN ，_PU 虽然_CS 常常_AD 要求_VV formula_NN 至少_AD 是_VC 可_VV 测_VV 函数_NN （_PU measurablefunction_NN ）_PU （_PU 如果_CS 不_AD 是_VC 可_VV 测_VV 函数_NN 的_DEC 话_NN ，_PU 积分_AD 可能_VV 根本_P 没有_VE 意义_NN ）_PU ，_PU 至於_AD 生成_VV 的_DEC 卷积_NN 函数_NN 性质_NN 会_VV 在_P 运算_NN 之后_LC 讨论_VV 。_PU
+
+卷积_NN 与_CC 傅里叶_NN 变换_VV 有着_P 密切_VV 的_DEC 关系_NN 。_PU 例如_AD 两_CD 函数_NN 的_DEG 傅里叶_NN 变换_VV 的_DEC 乘积_NN 等于_VV 它们_PN 卷积_VV 后_LC 的_DEG 傅里叶_NN 变换_NN ，_PU 利用_VV 此_DT 一_CD 性质_NN ，_PU 能_VV 简化_VV 傅里叶_NN 分析_NN 中_LC 的_DEG 许多_CD 问题_NN 。_PU
+
+由_P 卷积_NN 得到_VV 的_DEC 函数_NN formula_NN __NN 17一_CD 般要比_JJ formula_NN __NN 8_CD 和_CC formula_NN __NN 9_CD 都_AD 光滑_NN 。_PU 特别_AD 当_P formula_NN __NN 9_CD 为_VC 具有_VV 紧支集_JJ 的_DEG 光滑_NN 函数_NN ，_PU formula_NN __NN 8_CD 为_VC 局部_NN 可积_VV 时_LC ，_PU 它们_PN 的_DEG 卷积_NN formula_NN __NN 22_CD 也_AD 是_VC 光滑_NN 函数_NN 。_PU 利用_VV 这_DT 一_CD 性质_NN ，_PU 对于_P 任意_NN 的_DEG 可积_NN 函数_NN formula_NN __NN 8_CD ，_PU 都_AD 可以_VV 简单_VA 地_DEV 构造_VV 出_VV 一_CD 列_VV 逼近于_VV formula_NN __NN 8_CD 的_DEG 光滑_NN 函_NN 数列_NN formula_NN
+
+卷积_NN 的_DEG 概念_NN 还_AD 可以_VV 推广_VV 到_VV 数列_NN 、_PU 测度_NN 以及_CC 广义_JJ 函数_NN 上去_NN 。_PU
+
+函数_NN formula_NN 是_VC 定义_VV 在_P formula_NN 上_LC 的_DEG 可_VV 测_VV 函数_NN （_PU measurablefunction_NN ）_PU ，_PU formula_NN __NN 8_CD 与_P formula_NN __NN 9_CD 的_DEG 卷积_NN 记作_VV formula_NN
+
+如果_CS 函数_NN 不_AD 是_VC 定义_VV 在_P formula_NN 上_LC ，_PU 可以_VV 把_BA 函数_NN 定_VV 义域_NN 以外_LC 的_DEG 值_NN 都_AD 规定_VV 成_VV 零_CD ，_PU 这样_AD 就_AD 变成_VV 一_CD 个_M 定义_VV 在_P formula_NN 上_LC 的_DEC 函数_NN 。_PU
+
+对于_P 定义_VV 在_P 整数_NN formula_NN 上_LC 的_DEC 函数_NN formula_NN
+这里_PN 一样_JJ 把函_NN 数定_NN 义域_NN 以外_LC 的_DEG 值_NN 当成_VV 零_CD ，_PU 所以_AD 可以_VV 扩展_VV 函数_NN 到_VV 所有_DT 整数_NN 上_LC （_PU 如果_CS 本来_PN 不_AD 是_VC 的_DEC 话_NN ）_PU 。_PU
+
+当_P formula_NN 的_DEC 支撑集_NN （_PU support_NN ）_PU 为_VC 有限_JJ 长度_NN formula_NN
+
+计算_VV 卷积_NN formula_NN
+方法_NN 1_CD 是_VC 直接_AD 利用_VV 定义_NN 来_MSP 计算_VV 卷积_NN ，_PU 而_CC 方法_NN 2_CD 和_CC 3_CD 都_AD 是_VC 用到_VV 了_AS FFT_NN 来_MSP 快速_AD 计算_VV 卷积_NN 。_PU 也_AD 有_VE 不_AD 需要_VV 用到_VV FFT_NN 的_DEG 作法_NN ，_PU 如_P 使用_VV 数论_NN 转换_NN 。_PU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+分段_NN 卷积_NN :_PU Overlap_NN -_PU Add_NN
+
+欲做_VV formula_NN __NN 90_CD 的_DEG 分段_NN 卷积_NN 分_VA ，_PU formula_NN 长度_NN 为_VC formula_NN __NN 92_CD ，_PU formula_NN 长度_NN 为_VC formula_NN
+
+Step1_CD :_PU 将_BA formulaformula_NN 分成_VV 一_CD 段_M
+
+Step2_CD :_PU 再_AD 每_DT 段_M formula_NN 点_NN 后面_LC 添加_VV formula_NN 个_M 零_CD ，_PU 变成_VV 长度_NN formula_NN
+
+Step3_CD :_PU 把_BA formula_NN 添加_VV formulaformulaformula_NN
+
+Step4_CD :_PU 把_BA 每_DT 个_M formula_NN 的_DEC 小段_NN 和_CC formula_NN 做_VV 快速_JJ 卷积_NN ，_PU 也就是_AD <_PU math_NN >_PU IDFT_NN
+
+

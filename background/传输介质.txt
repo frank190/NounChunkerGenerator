@@ -1,0 +1,9 @@
+﻿传_VV 输介质_NN
+
+一_CD 种_M 物质_NN 存在_VV 于_P 另_DT 一_CD 种_M 物质_NN 内部_NN 时_LC ，_PU 后者_NN 是_VC 前者_VV 的_DEC 介质_NN 。_PU
+
+某些_DT 波状_NN 运动_NN ，_PU 如_P 声波_NN 、_PU 光波_NN 中_LC ，_PU 则_AD 称_VV 传播_VV 的_DEC 物质_NN 为_VC 这些_DT 波状_NN 运动_VV 的_DEC 介质_NN 。_PU
+
+介质_NN 分为_VV 光_NN 介质_NN 、_PU 电介质_NN 、_PU 机械波_NN 介质_NN 、_PU 磁介质_NN 等等_ETC 。_PU
+
+

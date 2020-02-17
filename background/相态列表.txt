@@ -1,0 +1,22 @@
+﻿_NN 相_NN 态列_NN 表_NN
+
+相态_JJ 列表_NN 是_VC 关于_P 各_DT 种_M 常见_NN （_PU 固态_VV ，_PU 液态_NN ，_PU 气态_NN ，_PU 等离子态_NN ）_PU 和_CC 不_AD 常见_VA 的_DEC 相态_JJ （_PU 物质_NN 在_P 一定_JJ 温度_NN 压强_NN 下_LC 所_MSP 处_VV 的_DEC 相对_JJ 稳定_VA 的_DEC 状态_NN ）_PU 的_DEG 列表_NN ，_PU 列表_NN 是_VC 根据_P 能量_NN 密度_NN 由_P 低_JJ 到_VV 高_JJ 排列_NN 。_PU 相_NN 态_NN 是_VC 指_VV 物质_NN 出现_VV 不同_VA 的_DEC 相_NN ，_PU 也_AD 叫_VV 物态_NN ，_PU 物态_NN 的_DEG 变化_NN 称为_VV 相_AD 变_VV 。_PU 物理法_NN 则_AD 应当_VV 是_VC 对称_VA 且_CC 可以_VV 被_LB 不_AD 加_VV 修改_VV 地_DEV 应用_VV 在_P 所有_DT 的_DEG 时_NN 空点_NN 上_LC 的_DEC ，_PU 但_AD 很_AD 多_VA 系统_NN 违反_VV 了_AS 对_P 称性_JJ 。_PU 比如_JJ 磁铁_NN 中_LC 的_DEG 原子_NN 的_DEC 自_P 旋_NN 可_VV 被_SB 排成_VV 一行而_AD 不_AD 是_VC 指向_VV 各_DT 个_M 方向_NN ，_PU 矿石_NN 晶体_NN 里_LC 原子_NN 占用_VV 了_AS 预定_JJ 空间_NN 位置_NN 使得_VV 晶体_NN 在_P 稍微_AD 转动_VV 就_AD 看上_VV 去_VV 不同_VA 了_AS 。_PU 当_P 一_CD 种_M 变换_VV 使_VV 得_NN 物质_NN 性质_NR 发生_VV 改变_NN ，_PU 物理_NN 学家_NN 称之为_AD 对称_VV 破缺_NN 。_PU 对称_AD 破缺_VV 存在_VV 于_P 自然_JJ 的_DEG 每_DT 个_M 角落_NN ，_PU 因为_P 磁力_NN ，_PU 超导_VV 甚至_AD 给予_VV 万_CD 物质量_NN 的_DEG 希格_NN 斯_DT 机制_NN 都_AD 是_VC 源自_VV 于_P 此_PN 。_PU
+
+
+冷_JJ 原子_NN 超流体_NN （_PU ultracoldatomicSuperfluid_NN ）_PU ：_PU 冷_JJ 原子_NN 超流体_NN 和_CC 液氦_NN 超流体_NN 的_DEG 不_AD 太_AD 一样_VA ，_PU 冷_VV 原子_NN 的_DEC 低温_NN 状态_NN 是_VC 通过_P 激光_JJ 冷却_NN 和_CC 磁阱_NN 蒸发_VV 冷却_AD 控制_VV 的_SP ，_PU 把_BA 原子_NN 束缚住_NN ，_PU 原子_NN 热_NN 运动_NN 动能_NN 减小_VV ，_PU 相应_VV 的_DEC 温度_NN 降低_VV 。_PU 当_P 势阱_NN 很_AD 低_VA 时_LC ，_PU 原子_NN 可以_VV 按_P 相同_VA 的_DEC 动量_NN 向_P 某_DT 个_M 方向_NN 自由_AD 移动_VV ，_PU 系统_NN 形成_VV 超流_NN 相_NN 。_PU 与_P 液氦_NN 相比_VV ，_PU 超冷_VV 原子_NN 具有_VV 无_VE 与_P 伦比_NN 的_DEC 可控性_NN 与_CC 纯净性_NN ，_PU 已_AD 逐渐_AD 成为_VV 实现_VV 并_CC 研究_VV 超流体_NN 最为_AD 理想_VA 的_DEC 物理_NN 体系_NN 。_PU
+
+
+
+
+
+
+在_P 有_VE 序_NN 系统_NN 中_LC 引入_VV 各_DT 类_M 缺陷_NN 或_CC 在_P 部分_NN 自由度上_AD 造成_VV 无序_AD 可以_VV 组合_VV 出许_VV 多_CD 种_M 半_AD 有_VE 序_NN 结构_NN ，_PU 它们_PN 与_P 玻璃_NN 态_NN 或_CC 其他_DT 非_JJ 平衡态_JJ 的_DEG 界限_NN 往往_P 较_AD 模糊_NN 。_PU 可以_VV 按_P 以下_JJ 思路_NN 生成_VV 更_AD 多_VA 的_DEC 半无序_NN 系统_NN ：_PU 一_CD 是_VC 向_P 有_VE 序_NN 系统_NN 中_LC 混入_VV 一些_CD 缺陷_VV 或_CC 掺杂_VV (_PU 比如_AD 多_VA 晶_OD )_PU ，_PU 二_CD 是_VC 让_VV 系统_NN 在_P 某些_DT 自由度_NN 上_LC 有_VE 序_NN 而_CC 其他_DT 自由度_NN 上_LC 无序_AD ，_PU 由_P 此_PN 可_VV 组合_VV 出_VV 各_DT 种_M 半无序_NN 系统_NN 。_PU
+
+
+
+
+
+2012_CD 年_M 加拿_VV 大佩_NN 里_LC 米_M 特理论_NN 物理_NN 研究_NN 所_MSP 研究_VV 员文_NN 小_VA 刚_AD 在_P 美国_NR 《_PU 科学_NR 》_PU 杂志_NR 的_DEG 发表_JJ 文章_NN 提出_VV 一_CD 种_M 能够_VV 最终_AD 对_P 相态_JJ 进行_VV 分类_NN 的_DEC 新理_NN 论体_NN 系_NN ，_PU 物质_NN 有_VE 500_CD 多_CD 种_M 相_NN 态_NN 。_PU 该_DT 理论_NN 可以_VV 在_P 任何_DT 维度_NN 、_PU 任何_DT 对称性_NN 的_DEC 基础_NN 上_LC 对_P 保有_VV 对称性_NN 的_DEG 相态_JJ 实施_NN 构筑_NN 和_CC 分类_NN 。_PU
+
+
+

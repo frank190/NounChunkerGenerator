@@ -1,0 +1,26 @@
+﻿啁啾_NN
+
+啁啾_NN （_PU ）_PU 是_VC 指频率_NN 随_P 时间_NN 而_MSP 改变_VV （_PU 增加_VV 或_CC 减少_VV ）_PU 的_DEC 信号_NN ，_PU 由于_P 这_DT 种_M 信号_NN 听起_VV 来_MSP 类似_VV 鸟_NN 鸣_VV 的_DEC 啾声_NN 。_PU
+
+
+
+啁啾_NN 的_DEC 瞬_NN 时_LC 频率_NN formula_NN
+
+在_P 大自然_AD 中_LC 常常_AD 可以_VV 遇到_VV 啁啾_NN 信号_NN ，_PU 例如_AD 鸟叫声_NN 、_PU 音乐_NN 的_DEC 滑音_NN 、_PU 动物_NN 发声_VV 的_DEC 声音_NN （_PU 青蛙_NN 、_PU 鲸鱼_NN ）_PU 以及_CC 人类_NN 语音_NN ，_PU 通常_AD 会_VV 使用_VV 正弦_VA 、_PU 余弦_NN 的_DEC 模型_NN 去_VV 表示_VV 之_DEC ，_PU 而_CC 这样_VA 的_DEC 模型_JJ 去做_NN 叠加_VV 即_AD 可_VV 模拟_VV 出_VV 许多_CD 大自然_AD 的_DEC 讯号_NN 。_PU
+
+啁啾_NN 信号_NN 也常_AD 用于_VV 天然_JJ 声纳_NN 系统_NN 的_DEC 观察_NN ，_PU 大多_CD 数_CD 种类_NN 的_DEG 蝙蝠_NN 可以_VV 利用_VV 啁啾_NN 信号_NN ，_PU 直接_AD 控制_VV 回声_NN 定位_NN 系统_NN ，_PU 这_DT 种_M 情况_NN 也_AD 类似_VA 於_P 人类_VA 的_DEC 雷达_NN 与_CC 声纳_NN 系统_NN ，_PU 为了_P 能够_VV 测量_VV 长_JJ 距离_NN 又_AD 保留_VV 时间_NN 的_DEC 分辨率_NN ，_PU 雷达_CC 需要_VV 短_JJ 时间_NN 的_DEC 派冲_NN 波但_NN 是_VC 又_AD 要_VV 持续_VV 的_DEC 发射_NN 信号_NN ，_PU 啁啾_NN 信号_NN 可以_VV 同时_AD 保留_VV 连续_JJ 信号_NN 和_CC 脉冲_NN 的_DEG 特性_NN ，_PU 因此_AD 被_SB 应用_VV 在_P 雷达_NN 和_CC 声纳_NN 探测_VV 上_LC 。_PU
+
+低_JJ 频率_NN 的_DEG 啁啾_NN 信号_NN 可_VV 用作_VV 观察_VV 大气层_NN 中_LC 之_DEG 电离层_NN 的_DEG 讯号_NN 。_PU
+
+对于_P 汽车_NN 发动_VV 、_PU 或是_CC 气体_NN 点火室_NN 的_DEG 频率_NN 对_P 时间_NN 变化量_NN 也_AD 会_VV 用到_VV 啁啾_NN 信号_NN ，_PU 除了_P 音乐_NN 以外_LC ，_PU 在_P 记录_NN 震动_VV 的_DEC 仪器_NN 中_LC 也_AD 常常_AD 会_VV 使用_VV 到_VV 、_PU 观察_VV 到_VV 啁啾_NN 信号_NN 。_PU
+
+在_P 生物_NN 医学_NN 信号_NN 里面_NN ，_PU 例如_AD 脑电图_NN （_PU EEG_NN ）_PU 或_CC 是_VC 与_P 怀孕_NN 有关_VV 的_DEC 子宫_NN （_PU EMG_NN ）_PU 也_AD 会_VV 遇到_VV 许多_CD 与_P 啁啾_NN 信号_NN 有关_VV 的_DEC 相关_JJ 讯号_NN ，_PU 进而_AD 去_VV 分析_NN 与_CC 探讨_NN 受_VV 测体_NN 的_DEC 生理_NN 情况_NN 。_PU
+
+在_P 一些_CD 关键_JJ 现象_NN 中_LC ，_PU 啁啾_NN 信号_NN 已经_AD 被_SB 证明_VV 与_P 许多奇_NN 异行_VV 为_VC 有关_VA ，_PU 透过_VV 加速_AD 震荡_VV 的_DEC 啁啾_NN 信号_NN 可以_VV 分析_VV 出_VV 地震_VA 、_PU 金融_NN 海啸_NN 、_PU 投资_NN 泡沫_NN 等_ETC 情况_NN 的_DEC 征兆_NN 。_PU
+StevenW.Smith_VV ,_PU Ph_NN ._PU D_NN ._PU "_PU TheScientistandEngineer_NN '_PU sGuidetoDigitalSignalProcessing_NN "_PU ,_PU Chapter_NN 11_CD ._PU
+
+Time_NN -_PU frequencyandchirps_NN ,_PU PatrickFlandrin_NN
+
+ChirpSignal_NN –_CC F_CD requencySweeping_NN –_NN F_CD F_CD Ta_M ndpowerspectraldensity_NR [_PU http_NN :_PU //www.gaussianwaves._PU com_NN /_PU 2014_CD /_PU 07_CD /_PU chirp_NN -_PU signal_NN -_PU frequency_NN -_PU sweeping_NN -_PU fft_NN -_PU and_NN -_PU power_NN -_PU spectral_NN -_PU density_NN /_PU <_PU nowiki_NN >_NN [_PU 3_CD ]_PU <_PU /_PU nowiki_NN >_PU ]_PU
+
+

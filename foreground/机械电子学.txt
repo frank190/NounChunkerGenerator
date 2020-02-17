@@ -1,0 +1,27 @@
+﻿机_NN 械电_NN 子学_NN
+
+机械_NN 电子学_NN （_PU ）_PU ，_PU 又称机_NN 电集_NN 成学_NN 、_PU 机电工_NN 程学_NN ，_PU 是_VC 一_CD 门_NN 利用_VV 微电子_NN 理论_NN 来_MSP 控制_VV 机械_NN 装置_NN 的_DEG 学科_NN ，_PU 也_AD 是_VC 一_CD 门_M 交叉_NN 学科_VV ，_PU 它_PN 的_DEG 技术_NN 基础_NN 是_VC 来自_P 机械_NN 制造_NN 和_CC 微电子_NN 控制_NN ，_PU 并_CC 配合_VV 电脑_NN 软件_NN 。_PU
+
+机电集_NN 成学_NN 着重_AD 以_P 电子_NN 硬件_NN 、_PU 电脑_NN 程式_NN 或_CC 软件_NN ，_PU 对_P 机械_NN 进行_VV 控制_NN ，_PU 有_VE 別_NN 於_P 以往_NT 机械_NN 工程_NN 专科_AD 较少_AD 触及_VV 电子_NN 方面_NN ，_PU 亦_AD 有_VE 別_NN 於_P 以往_NT 电机_NN 工程_NN 学_VV 专科_NN 较_AD 少触_VA 及_CC 机械_NN 方面_NN 。_PU 当中_NT 较为_AD 人_NN 熟悉_VV 的_DEC 机电_NN 一体化_NN 成品_NN 为_VC 机械人_NN ，_PU 其_PN 技术_NN 亦_AD 会_VV 应用_VV 到_VV 工业_NN 生产_NN 中_LC 所_MSP 使用_VV 的_DEC 机械臂_NN 及_CC 生产线_NN 自动化_NN 上_LC 。_PU 不_AD 单_VV 在_P 工业_NN 生产_NN 上_LC ，_PU 在_P 一般_AD 我们_PN 常_AD 接触_VV 的_DEC ，_PU 如_P 小至体_NN 内_JJ 微血管_NN 手术_NN 机械臂_NN ，_PU 大_JJ 至_CC 航_JJ 天飞机_NN 、_PU 空间站_NN 都_AD 有_VE 应该_VV 其_PN 技术_NN 。_PU 现时_NT 不少_AD 固有_VV 的_DEC 产品_NN 亦_AD 开始_VV 加入_VV 自动化_NN 控制_VV 的_DEC 元件_NN ，_PU 如_P 汽车_NN 及_CC 铁路_NN 。_PU
+
+光机_NN 电集_NN 成_VV 工程_NN （_PU ）_PU 就_AD 是_VC 在_P 微电子_NN 技术_NN 向_P 机械_NN 工业_NN 领域_NN 渗透_NN 过程_NN 中_LC 逐渐_AD 形成_VV 并_CC 发展_VV 起来_VV 的_DEC 由_P 光学_NN 、_PU 光电_NN 子学_NN 、_PU 微电子_NN 、_PU 资讯_NN 和_CC 机械_NN 及_CC 其他_DT 相关_JJ 技术_NN 交叉_NN 与_CC 融合_VV 而_MSP 构成_VV 的_DEC 综合性_NN 高_JJ 新_JJ 技术_NN 。_PU
+
+系统_NN 包括_VV 机械_NN 本体_NN 、_PU 电脑_NN 控制器_NN 、_PU 驱动_NN 装置_NN （_PU 包括_VV 执行_NN 装置_NN 和_CC 传动_NN 机构_NN ）_PU 、_PU 传感器_NN 。_PU
+
+产品_NN 种类_NN 繁多_VA ，_PU 如果_CS 按_P 用_P 途分_NN ，_PU 主要_AD 有_VE ：_PU
+
+典型_JJ 产品_NN 是_VC 各_DT 种_M 类型_NN 数控_NN 机床_NN 、_PU 工业_NN 机器人_NN ；_PU 其他_DT 为_VC 自动_JJ 化仓库_NN 、_PU 数控_NN 锻压_NN 机械_NN 、_PU 数控_NN 铸造_NN 机械_NN 、_PU 数控_NN 切割机_NN 、_PU 数控_NN 焊接_NN 设备_NN （_PU 微机_NN 控制_VV 对焊机_NN ）_PU 、_PU 电阻_NN 焊机_NN 、_PU 弧焊_NN 机器人_NN 等_ETC 。_PU
+
+数控_NN 三座_NN 标测量仪_NN 、_PU 微机_NN 控制_NN 或_CC 电子化_NN 的_DEC 各_DT 种_M 检查仪_NN 、_PU 各_DT 种_M 微机_NN 控制_VV 的_DEC 数位式_NN 仪表_NN 、_PU 自动_JJ 测试仪_NN 、_PU 分析仪_NN 、_PU 调节_NN 控制_NN 仪表_NN 等_ETC 。_PU
+
+起_VV 重_AS 运输_NN 机械_NN ：_PU 如_P 电子_NN 控制_NN 机车_NN 、_PU 自动_JJ 导引_NN 车_NN 、_PU 电子_NN 控制_NN 塔吊_NN 、_PU 叉车_NN 、_PU 运输_NN 监控_NN 系统_NN 等_ETC 。_PU 汽车_NN 、_PU 拖拉机_NN 、_PU 农业_NN 机械_NN ：_PU 如_P 微机_NN 控制_VV 发动机_NN 、_PU 电子_NN 调速器_NN 、_PU 刹车_NN 防抱_NN 装置_NN 、_PU 点火_NN 控制_NN 系统_NN 、_PU 全_DT 电子_NN 化汽车_NN 、_PU 拖拉机_NN 、_PU 农业_NN 机械_NN 等_ETC 。_PU
+
+如_P 微电子_NN 控制_NN 纺织_NN 机械_NN 、_PU 印刷_NN 机械_NN 、_PU 食品_NN 生产_NN 、_PU 包装_VV 机械_NN ，_PU 制浆_NN 造纸_VV 、_PU 皮革_NN 加工_VV 、_PU 塑胶_NN 加工_NN 机械_NN 及_CC 各_DT 种_M 监测_NN 控制_NN 装置_NN 等_ETC 。_PU
+
+如_P 影印机_NN 、_PU 图形_NN 文字_NN 编辑机_NN 、_PU 各_DT 种_M 资讯_NN 传递_NN 、_PU 储存_NN 和_CC 处理_NN 装置_NN 、_PU 广播_JJ 电视_NN 通讯_NN 设备_NN 、_PU 图像_NN 处理_NN 装置_NN 等_ETC 。_PU
+
+这_DT 类_M 产品_NN 与_CC 民众日_NN 用_VV 机电_NN 产品_NN 密切_NN 相关_AD ，_PU 应用_NN 量大面_NN 广_VA ，_PU 主要_JJ 产品_NN 有_VE ：_PU 电子_NN 化家_NN 用电器_NN 、_PU 居家_NN 照护_NN 器械_NN 、_PU 电子_NN 照相机_NN 、_PU 彩色扩_NN 印_NN 设备_NN 、_PU 磁录_NN 照相_PU 机等_NN 。_PU
+
+
+
+

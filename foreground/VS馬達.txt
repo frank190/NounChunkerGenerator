@@ -1,0 +1,7 @@
+﻿VS马达_VV
+
+VS_NN 马达_NN 也_AD 称为_VV 涡流_NN 马达_NN 或_CC 益动_JJ 马达_NN ，_PU 英文_NN 称为_VV eddycurrentmotor_NR ，_PU 是_VC 配合_VV VS_NN 耦合机_NN 的_DEG 感应_NN 马达_NN ，_PU 因为_AD 可以_VV 调整_VV 耦合机_NN 的_DEG 电压_NN 来_MSP 调整_VV 转速_NN ，_PU 也_AD 称为_AD 调速_VV 马达_NN ，_PU 是_VC 无_VE 段_NN 中_LC 的_DEG 一_CD 种_M ，_PU 启动_VV 后_LC 马达_NN 频率_NN 不变_VA ，_PU 但_CC 可以_VV 调整_VV 马达_NN 的_DEG 转速_NN ，_PU 是_VC 变频器_NN 普及_VA 之前_LC ，_PU 调整_VV 马达_NN 驱动_NN 机器_NN 转速_NN 的_DEC 方式_NN 。_PU 但_CC 耦合机_NN 体积_NN 大_VA ，_PU 重量_NN 重_NN ，_PU 已_AD 渐渐_VA 的_DEC 被_JJ 变频器_NN 取代_VV 。_PU
+
+VS_NN 马达_NN 的_DEG 供电_NN 是_VC 来自_P 电力_NN 公司_NN 提供_VV 的_DEC 三_CD 相交_JJ 流电_NN ，_PU 运转_VV 频率_NN 和_CC 三_CD 相交_JJ 流电_NN 的_DEG 电压_NN 相同_VA ，_PU 使用_VV 时_LC 可_VV 调整_VV 耦合机_NN 的_DEG 电压_NN 来_MSP 调整_VV 马达_NN 及_CC 负载_VV 的_DEC 转速_NN 。_PU 有些_DT VS_NN 马达_NN 的_DEG 厂家_NN 甚至_AD 会_VV 提供_VV 控制盘_NN ，_PU 可以_VV 用_P 上面_NN 的_DEG 旋钮_NN 调整_VV 提供_VV 给_P 耦合机_NN 的_DEG 电压_NN 。_PU
+
+

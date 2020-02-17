@@ -1,0 +1,31 @@
+﻿尼柯_NN 尔斯图_NN
+
+尼柯_NN 尔斯图_NN （_PU ）_PU 是_VC 将_BA 线性_JJ 非_JJ 时变_NN 系统_NN 在_P 不同_JJ 频率_NN 下_LC 的_DEG 增益_NN 分贝值_NN 及_CC 相位绘_NN 在_P 一_CD 直角_NN 坐标_NN 系_NN 的_DEG 图_NN 上_LC ，_PU 尼柯_NN 尔斯图_NN 将_BA 二_CD 种_M 波德图_NN （_PU 波德_NN 增益图_NN 及_CC 波德_NN 相位图_NN ）_PU 结合_VV 成_VV 一_CD 张图_NN ，_PU 而_CC 频率_NN 只_AD 是_VC 曲线_NN 中_LC 的_DEG 参数_NN ，_PU 不_AD 直接_AD 在_P 图_NN 中_LC 显示_VV 。_PU 尼_BA 柯尔_NN 斯_DT 图_NN 的_DEG 命名_NN 是_VC 来自_VV 美国_NR 控制_NN 工程_NN 师尼柯_NN 尔斯_NN （_PU N_CD athanielB_M ._PU Nichols_NN ）_PU 。_PU
+
+尼柯_NN 尔斯图_NN 常_AD 应用_VV 在_P 闭_VV 回路_NN 控制_NN 系统_NN 的_DEG 稳定性_NN 分析_NN 中_LC ，_PU 这时_AD 会_VV 将_BA 开_VV 回路_NN 系统_NN 的_DEG 频率_NN 响应绘_NN 在_P 尼柯_NN 尔斯图_NN 上_LC ，_PU 而_CC 尼柯_NN 尔斯图_NN 上_LC 会_VV 有_VE 其他_DT 曲线_NN ，_PU 标示_NN 对应_VV 闭_VV 回路_NN 系统_NN 的_DEG 增益_NN 分贝值_NN 及_CC 相位_NN 。_PU 因此_AD 只要_CS 知道_VV 开_VV 回路_NN 系统_NN 的_DEG 频率_NN 响应_NN ，_PU 即_AD 可_VV 找到_VV 单位_NN 回授_NN 系统_NN 的_DEG 频率_NN 响应_NN 。_PU
+
+考虑_VV 一_CD 系统_NN 的_DEG 开_NN 回路_NN 转换_NN 函数_NN 为_VC formula_NN __NN 1_CD ，_PU 回授_NN 系数_NN 为_VC 1_CD ，_PU 其_PN 闭_VV 回路_NN 的_DEG 转换_NN 函数_NN formula_NN
+
+开回_VV 路_NN 转换_NN 函数_NN 可以_VV 用_VV 其_PN 大小_NN 及_CC 相位_NN 来_MSP 表示_VV ：_PU
+
+而_AD 其_PN 闭_VV 回路_NN 的_DEG 转换_NN 函数_NN 为_VC ：_PU
+formula_NN
+
+其_PN 大小_NN 及_CC 相位_NN 为_VC ：_PU
+formula_NN
+
+因此_AD 闭_VV 回路_NN 下_LC 频率_NN 响应_VV 的_DEC 大小_NN formula_NN __NN 7_CD 及_CC 相位_NN formula_NN __NN 8_CD 可以_VV 用_VV 开回_VV 路频率_NN 响应_VV 的_DEC 大小_NN formula_NN __NN 9_CD 及_CC 相位_JJ formula_NN
+
+尼柯_NN 尔斯图_NN 可以_VV 用来_VV 分析_NN 系统_NN 的_DEG 稳定性_NN ，_PU 以及_CC 增益_JJ 裕度_NN 、_PU 相位_NN 裕度_NN 等_ETC 有关_JJ 系统_NN 相对_AD 稳定性_JJ 的_DEG 资讯_NN 。_PU
+
+在_P 尼柯_NN 尔斯图_NN 上_LC 可以_VV 看到_VV 相位_NN -_PU 180_CD 度_M ，_PU 增益_NN 0_CD dB_M 的_DEG 点_NN 。_PU 找出_VV 尼_AS 柯尔_NN 斯_DT 图_NN 对应_VV 相位_NN -_PU 180_CD 度_M 的_DEG 点_NN ：_PU
+
+而_AD 根据_P 尼柯_NN 尔斯图_NN 对应_VV 增益_NN 0_CD dB度_NN 的_DEG 点也_NN 可以_VV 判断_VV 是否_AD 稳定_VA ，_PU 及_CC 相位_NN 裕度_NN ：_PU
+
+以_P 右图_NN 为_VV 例_NN ，_PU 在_P 相_AD 位到_VV 达_VV -_PU 180_CD 度_M 时_LC ，_PU 增益_NN 约_AD 为_VC -_PU 9_CD ._PU 6_CD dB_M ，_PU 在_P 0_CD dB_M 点_NN 的_DEG 下方_NN ，_PU 因此_AD 系统_NN 稳定_VA ，_PU 增益_NN 裕度_NN 为_VC 9_CD ._PU 6_CD dB_NN 。_PU
+在_P 增益_VV 到_VV 达_VV 0_CD dB_M 时_LC ，_PU 相位_VV 为_VC -_PU 147_CD 度_M ，_PU 在_P -_PU 180_CD 度点_NN 的_DEG 右方_NN ，_PU 较_AD -_PU 180_CD 度_M 多_CC 33_CD 度_M ，_PU 因此_AD 相_BA 位_NN 裕度_NN 为_VC 33_CD 度_M 。_PU
+
+在_P 强健_NN 控制_NN 系统_NN 设计_VV 的_DEC 领域_NN 中_LC ，_PU 尼柯_NN 尔斯图_NN 是_VC Horowitz_NN 和_CC Sidi_NN 的_DEG 量化_NN 回授_NN 理论_NN （_PU QFT_NN ,_PU Quantitativefeedbacktheory_NN ）_PU 的_DEG 重点_NN 之一_LC 。_PU
+
+
+

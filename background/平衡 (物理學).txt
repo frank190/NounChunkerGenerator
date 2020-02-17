@@ -1,0 +1,9 @@
+﻿平衡_NN (_PU 物理学_NN )_PU
+
+在_P 物理学_NN 上_LC ，_PU 平衡_NN 是_VC 指_VV 一_CD 种_M 稳定_NN 状态_NN 。_PU 在_P 各_DT 种_M 物理学_NN 领域_NN 中_LC 有_VE 不同_VA 的_DEC 结果_NN ，_PU 如_P 力学_NN 平衡_NN 、_PU 热力学_NN 平衡_NN 、_PU 静电_NN 平衡_NN 等_ETC ，_PU 举例_NN 来说_LC ，_PU 力学_NN 平衡_NN 中_LC 在_P 一_CD 系统_NN 或_CC 一_CD 质点_NN 上_LC ，_PU 一_CD 物体_NN 所_MSP 受_VV 合力_NN 为_VC 0_CD ，_PU 则_AD 称为_VV 平移_NN 平衡_VA ；_PU 合力矩_NN 为_VC 0_CD ，_PU 则_AD 称为_VV 转动_VV 平衡_VA ；_PU 若物_NN 体合力_NN 为_VC 0_CD 且_CC 以_P 等_ETC 速度_NN 移动_VV ，_PU 则_AD 称_VV 等_ETC 速_AD 平衡_VV ；_PU 若_CS 一_CD 物体_NN 其_PN 受力_NN 稳定_VA ，_PU 则_AD 称加_VV 速平衡_AD ；_PU 若_CS 一_CD 物体_NN 不_AD 但合_AD 力为_VV 0_CD ，_PU 且_CC 合力矩_NN 也_AD 为_VC 0_CD ，_PU 且_CC 为_VC 静止_VV ，_PU 则_AD 称_VV 静力_NN 平衡_NN 。_PU
+
+平衡_VV 在_P 物理学_NN 中_LC 可_VV 分成_VV 多_CD 个_M 种类_NN
+
+当_P 一_CD 个_M 质点_NN 、_PU 刚体_NN 或_CC 质点_NN 系_NN 的_DEG 速度_NN 矢量_NN formula_NN
+
+

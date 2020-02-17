@@ -1,0 +1,7 @@
+﻿_CS 通用_VV 分辨率_NN 列_VV 表_NN
+
+下列_NN 是_VC 各式_JJ 分辨率_NN 列表_NN ：_PU
+
+如下_CS 表_VV ,_PU 是_VC 一_CD 显示_VV 高_JJ 宽比率_NN （_PU displayaspectratio_NN ）_PU ，_PU 乃_VC 基_NN 於_P 画素_NN 来_MSP 分辨_VV ._PU Itdoesnottakeintoaccountpixelaspectratio_NN ._PU
+
+

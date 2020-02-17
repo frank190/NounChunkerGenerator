@@ -1,0 +1,14 @@
+﻿弯曲_NN 模量_NN
+
+弯曲_NN 模量_NN （_PU flexuralmodulus_NN ）_PU 为_VC 一_CD 力学_NN 名词_NN ．_PU 是_VC 指_VV 在_P 一_CD 材料_NN 弯曲_NN 变形_NN ，_PU 或是_CC 可能_VV 会_VV 弯曲_VV 的_DEC 情形_NN 下_LC 应力_NN 和_CC 应变_VV 的_DEC 比值_NN 。_PU 弯曲_NN 模量_NN 可以_VV 用_VV 弯曲_JJ 测试_NN （_PU ASTMD790_NN ）_PU 下_DT 应力_NN 应变_VV 曲线_NN 的_DEG 斜率_NN ，_PU 其_PN 单位_NN 是_VC 面积_NN 面积_NN 下_LC 的_DEG 力_NN ，_PU 弯曲_NN 模量_NN 是_VC 内含_NN 性质_NN 。_PU
+右图_NN 是_VC 一_CD 个_M 长方_NN 形樑_VV 的_DEC 三点_NN 测试_VV ，_PU 宽度_NN 为_VC "_PU w_NN "_PU ，_PU 高度_NN 为_VC "_PU h_NN "_PU ，_PU "_PU L_NN "_PU 是_VC 外侧_NN 两_CD 个_M 支持点_NN 之间_LC 的_DEG 距离_NN ，_PU "_PU d_NN "_PU 是_VC 因为_P 在_P 中间_NN 受力_NN "_PU F_CD "_PU 而_MSP 产生_VV 的_DEC 形变_NN ，_PU 其_PN 弯曲_NN 模量_NN 为_VC ：_PU
+针对_P 线性_JJ 的_DEG 樑理论_NN formula_NN
+针对_P 长方形_JJ 的_DEG 樑_NN ，_PU formula_NN
+
+因此_AD
+formula_NN
+
+理想_NN 上_LC 弯曲_NN 模量_NN 会_VV 等于_VV 弹力_NN 变化_NN 下_LC 的_DEG 拉力_NN 或是_CC 压力_NN 弹性_NN 模量_NN ，_PU 不过_AD 实际上_AD ，_PU 两_CD 者_NN 仍_AD 有_VE 差异_NN ，_PU 在_P 塑胶_NN 材料_NN 中_LC 最为_AD 明显_VV 。_PU
+
+
+

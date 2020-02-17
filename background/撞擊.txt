@@ -1,0 +1,6 @@
+﻿撞击_NN
+
+在_P 物理_NN 学里_NN ，_PU 假若_JJ 两_CD 个_M 物体_NN 相互_AD 接触_VV ，_PU 造成_VV 能量_NN 与_CC 动量_NN 的_DEG 改变_NN 与_CC 传输_NN ，_PU 则_AD 称_VV 这_DT 两_CD 个_M 物体_NN 互相_AD 碰撞_VV 。_PU 假若_VV ，_PU 碰撞_VV 的_DEC 时间_NN 很_AD 小_VA ，_PU 而_CC 互相_AD 作用_VV 的_DEC 力很_NN 大_VA ，_PU 则_AD 称为_VV 撞击_NN 。_PU 在_P 这_DT 撞击_NN 过程_NN 中_LC ，_PU 最初_AD 的_DEV 接触_VV 点_NN 叫_VV 做弹_NN 著_NN 点_LC 。_PU 经过_P 弹著点_NN ，_PU 垂直_AD 於_P 两_CD 个_M 物体_NN 之间_LC 的_DEG 切面_NN ，_PU 就_AD 是_VC 撞击线_NN 。_PU 冲击_NN 可以_VV 分成_VV 对_P 心撞击_NN 与_CC 偏心_NN 撞击_VV 。_PU 假若_AD ，_PU 两_CD 个_M 物体_NN 的_DEC 质心_NN 都_AD 在_P 撞击_NN 线_NN 上_LC ，_PU 则_AD 称为_VV 对_P 心撞击_NN ；_PU 其他_DT 的_DEG 冲击_NN 都_AD 称为_VV 偏心_NN 撞击_VV 。_PU 对_P 心撞击_NN 又_AD 分成_VV 两_CD 类_M ：_PU 当_P 两_CD 个_M 物体_NN 的_DEC 速度_NN 向量_AD 与_P 撞击_NN 线_NN 在_P 同_DT 一_CD 条线_NN 上_LC 时_LC ，_PU 则_AD 称为_VV 正向_JJ 对心_NN 撞击_NN ；_PU 不然_AD ，_PU 则_AD 称为_VV 斜向_JJ 对心_NN 撞击_NN 。_PU
+
+
+

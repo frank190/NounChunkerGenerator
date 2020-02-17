@@ -1,0 +1,5 @@
+﻿香_NN 农极_NN 限_NN
+
+信道_NN 的_DEC -_PU {zh_NN :_PU 香农_NN 极限_ETC ;_PU zh_NN -_PU hans_NN :_PU 香农_NN 极限_AD ;_PU zh_NN -_PU hant_NN :_PU 薛农_NN 极限_AD ;_PU zh_NN -_PU tw_NN :_PU 薛农_NN 极限_AD ;_PU }_NN -_PU （_PU 或_CC 称_VV 香农_NN 容量_NN ）_PU 指_VV 的_DEC 是_VC 在_P 会_VV 随_P 机_NN 发生_VV 误码_NN 的_DEC 信道_NN 上_LC 进行_VV 无_VE 差错_NN 传输_VV 的_DEC 最大_JJ 传输_NN 速率_NN 。_PU 它_PN 的_DEG 存在_VV 是_VC 香_NN 农_NN 定理_VV 在_P 带宽_VV 有限_VA 的_DEC 信道_NN 上_LC 的_DEG 一_CD 个_M 结论_NN 。_PU
+
+

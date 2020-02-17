@@ -1,0 +1,9 @@
+﻿磁畴_NN
+
+磁畴_NN 是_VC 铁_JJ 磁质_NN 的_DEC 基本_JJ 组成_NN 部分_NN ；_PU 材料_NN 内部_NN 拥有_VV 均_AD 一_CD 磁化_NN 强度_NN 的_DEC 区域_NN ；_PU 铁_NN 磁质_NN 的_DEG 原子_NN 磁矩_NN 主要_AD 由_P 原子_NN 中_LC 电子_NN 自旋_NN 决定_VV ；_PU 在_P 各_DT 磁畴_NN 中_LC ，_PU 原子_NN 磁矩_NN 的_DEG 排列_NN 各_AD 有_VE 相互_AD 平行_VV 的_DEC 自发_NN 倾向_VV ，_PU 磁矩_NN 方向_NN 保持_VV 一致_VA ，_PU 因此_AD 具有_VV 磁性_NN ；_PU 但_AD 是_VC 各_DT 磁畴_NN 的_DEG 排列_NN 方向_NN 是_VC 混乱_VV 的_DEC ，_PU 所以_AD 铁磁体_NN 在_P 没有_VV 被_SB 磁化_VV 前_LC 不_AD 显_VV 磁性_NN 。_PU
+
+磁矩_NN 结构_NN 与_CC 铁磁性_JJ 物质_NN （_PU 例如_AD 铁_NN ）_PU 的_DEG 磁性_NN 行为_VV 有关_VA 。_PU 在_P 其他_DT 的_DEG 材料_NN 中_LC ，_PU 一般_AD 并_AD 不_AD 存在_VV 磁畴_NN 结构_NN 。_PU 在_P 居里_NN 温度_NN 以下_LC ，_PU 磁畴_NN 是_VC 自发_VV 出现_VV 的_SP ，_PU 并_AD 不_AD 需要_VV 外部_NN 磁场_NN 的_DEG 存在_NN 。_PU 不同_JJ 磁畴_NN 内_LC 磁矩_NN 的_DEG 方向_NN 不同_VA ，_PU 在_P 磁畴_NN 的_DEG 边界_NN ，_PU 磁矩_NN 从_P 一_CD 个_M 方向_NN 连续_AD 地_DEV 过度_VV 到_VV 另_DT 一_CD 个_M 方向_NN 。_PU 磁畴_NN 的_DEC 典型_JJ 尺寸_NN 在_P 10m_CD
+
+在_P 外_JJ 磁场_NN 的_DEG 作用_NN 下_LC ，_PU 各_DT 磁畴_NN 的_DEG 大小_NN 发生_VV 变化_NN ，_PU 自发_VV 磁化_NN 方向_NN 和_CC 外_JJ 磁场_NN 方向_NN 相同_VA 或_CC 近似_VA 相同_VA 的_DEC 磁畴扩_NN 大_VA ，_PU 方向_NN 相反_VA 或_CC 近似_AD 相反_VV 的_DEC 磁畴_NN 缩小_VV ，_PU 以致_AD 外_JJ 磁场_NN 方向_NN 上_LC 的_DEG 总_JJ 磁矩_NN 跟着_P 外_JJ 磁场_NN 的_DEG 增强_NN 而_MSP 增加_VV ；_PU 当_P 外_JJ 磁场_NN 增强_VV 到_VV 一定_JJ 程度_NN ，_PU 所有_DT 磁畴_NN 的_DEC 磁矩_NN 方向_NN 一致_VA ，_PU 这时_AD 达到_VV 磁性饱_NN 和_CC 。_PU
+
+

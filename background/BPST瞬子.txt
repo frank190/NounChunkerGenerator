@@ -1,0 +1,7 @@
+﻿_CD BPST_NN 瞬子_NN
+
+BPST_NN 瞬子_NN 是_VC 一_CD 种_M 卷绕_NN 数_NN 为_VC 1_CD 的_DEG 瞬子_NN ，_PU 由_P 、_PU 亚历山_NN 大_VA ·_PU 波利_NN 亚科夫_NN 、_PU 、_PU 尤_NN ·_PU 特尤_JJ 普金_NN 发现_VV 。_PU
+
+它_PN 是_VC 基于_P SU_NN (_PU 2_CD )_PU 群_NN 的_DEG 杨_NN -_PU 米尔_NN 斯_AD 理论_VV 在_P 欧几_NN 里_LC 得_VV 空间_NN -_PU 时间_NN （_PU 例如_AD 经过_VV 了_AS 威克_NN 转动_VV 之后_LC ）_PU 的_DEC 经典_NN 解法_VV 。_PU 这_PN 表示_VV 它_PN 描述_VV 了_AS 两_CD 种_M 真空_NN 之间_LC 的_DEG 转换_NN 。_PU 人们_NN 原本_JJ 期望_NN 它_PN 能_VV 为_P 解决_VV 界限_NN 问题_NN 开辟_VV 道路_NN ，_PU 尤其_AD 是_VC 波利_NN 亚科夫_NN 1987_CD 年_M 证明_JJ 瞬子_NN 是_VC 三维紧_NN 凑型_JJ QED_NN 的_DEG 限制_NN 的_DEC 原因_NN 之后_LC 。_PU 不过_AD ，_PU 这_DT 种_M 期望_NN 没_AD 能_VV 实现_VV 。_PU
+
+

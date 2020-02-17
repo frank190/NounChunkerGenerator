@@ -1,0 +1,15 @@
+﻿抛_NN 负载_NN
+
+抛_VV 负载_NN （_PU ）_PU 顾名_NN 思义_VV ，_PU 指_VV 的_DEC 是_VC 突然_AD 断开_VV 功率_NN 负载_NN 。_PU 负载_VV 切换_NN 瞬变_NN 是_VC 需要_VV 高度_NN 重视_VV 的_DEC 电气_NN 危害_NN ，_PU 因为_P 突然_AD 断开_VV 负载_NN 主要_AD 会_VV 造成_VV 电源_NN 或_CC 主线_NN 上_LC 其他_DT 设备_NN 故障_VV ，_PU 也_CC 可能_VV 使_VV 感性_NN 发电机_NN 。_PU
+
+在_P 汽车_NN 电子_NN 中_LC ，_PU 各_DT 种_M 和_CC 发电机_NN 之间_LC ，_PU 会_VV 有_VE 一_CD 个_M 蓄_VV 电池_NN 。_PU 正常_JJ 情况_NN 下_LC 发_VV 电机_NN 给_P 蓄电池_NN 充电_VV ，_PU 但是_AD 当_P 线_NN 束_VV 老化_NN 或者_CC 接触_VV 不_AD 良_VV 时_LC ，_PU 就_AD 会_VV 碰到_VV 电池_NN 与_CC 电路_NN 断开_VV 的_DEC 情况_NN 。_PU 这时_NT 候发_VV 电机_NN 输出端_NN 会_VV 产生_VV 一_CD 个_M 浪涌_NN 电压_NN ，_PU 由于_P 这_DT 个_M 浪涌_NN 电压_NN 的_DEG 电压_NN 非常_AD 高_VA ，_PU 持续_VV 时间_NN 非常_AD 长_VA ，_PU 就_AD 会_VV 对_P 终端_NN 的_DEC 各_DT 种_M 电子_NN 控制_NN 单元_NN 造成_VV 很_AD 大_VA 的_DEC 损害_NN ，_PU 这_DT 种_M 情况_NN 称之_VV 为_VC 抛_VV 负载_VV 。_PU 一般_AD 浪涌_VV 的_DEC 峰值_NN 电压_NN 可以_VV 达到_VV 120V_CD ，_PU 最_AD 长_AD 可以_VV 持续_VV 400_CD 毫秒_M 。_PU 通常_AD 12V_CD 汽车_NN 电气_NN 系统_NN 抛_VV 负载_VV 保护_VV 至_P 40V_CD ，_PU 24V_CD 汽车_NN 电气_NN 系统_NN 抛_VV 负载_VV 保护_VV 至_VV 60V_CD 。_PU
+
+发电机_NN 绕_VV 组_NN 拥有_VV 较_AD 大_JJ 电感_NN 值_NN 。_PU 汽车_NN 蓄_VV 电池_NN 充电_NN 过程_NN 中_LC 充电_VV 电流_NN 较_AD 大_VA ，_PU 电流_NN 大小_NN 由_P 励磁_JJ 绕组_NN 中_LC 的_DEG 电流_NN 控制_NN 。_PU 充电_VV 时_LC 断开_VV 电池_NN 会_VV 导致_VV 发电机_NN 负载_NN 电流_NN 骤_AD 降_VA ，_PU 然而_AD 励磁_VV 电流_NN 相应_JJ 速度_NN 慢_VA ，_PU 无法_AD 快速_AD 减小_VV ，_PU 发电机_NN 产生_VV 的_DEC 电流_NN 无法_AD 骤降_VV ，_PU 电压_NN 快速_AD 攀升_VV ，_PU 迅速_AD 超过_VV 正常_JJ 工作_NN 电压_NN 。_PU
+
+抛_VV 负载_VV 产生_VV 的_DEC 瞬态_NN 高压_NN 峰值_NN 电压_NN 由_P 多_CD 个_M 因素_JJ 影响_NN 。_PU 发电机_NN 转速_NN 、_PU 断开_VV 前_LC 充电_NN 电流_NN 均_AD 会_VV 显著_AD 改变_VV 抛_VV 负载_JJ 高压_NN 。_PU 在_P 汽车_NN 电子_NN 中_LC ，_PU 与_P 发电机_NN 直接_AD 相连_VV 的_DEC 负载_NN 都_AD 会_VV 直接_AD 受到_VV 其_PN 影响_NN ，_PU 损坏_VV 半导体_NN 期间_NN ，_PU 因此_AD 汽车_NN 上_LC 的_DEG 动力_NN 总成_VA 、_PU 电池_NN 管理_NN 系统_NN 、_PU 防_VV 抱死_NN 系统_NN 、_PU 安全_NR 气囊_NN 、_PU 引擎_NN 启动_NN 开关_NN 、_PU 24V_NN 系统_NN 、_PU 照明_NN 、_PU 娱乐_NN 信息_NN 系统_NN 、_PU 仪表板_NN 和_CC 直流_NN -_PU 直流_JJ 转换器_NN 等_ETC 在_P 设计_VV 时_LC 均_AD 需要_VV 考虑_VV 到_VV 抛_VV 负载_NN 保护_NN ，_PU 避免_VV 抛_VV 负载_NN 危害_NN 。_PU 瞬态_NN 电压_NN 抑制_VV 二极管_NN 和_CC 压敏_NN 电阻_NN 等元_NN 器件_NN 可以_VV 耐受_VV 和_CC 吸收_VV 瞬态_NN 高压_AD ，_PU 通常_AD 被_SB 用来_VV 保护_VV 负载_NN 。_PU
+
+针对_P 抛_VV 负载_VV 影响_NN ，_PU 汽车_NN 行业_NN 制定_VV 了_AS 一系_CD 列行_VV 业_NN 标准_NN 。_PU ISO_NN 7637_CD -_PU 2_CD 和_CC SAEJ1113_NN -_PU 11_CD 明确_VV 了_AS 车载_NN 电子_NN 元件_NN 需要_VV 耐受_VV 的_DEC 抛_VV 负载_NN 瞬态_NN 高压_NN 波形_NN 。_PU ISO_NN 16750_CD -_PU 2_CD 为_VC 车载_NN 电气_NN 和_CC 电子_NN 装备_NN 通常_AD 会_VV 遭遇_VV 的_DEC 电气_NN 环境_NN 条件_NN ，_PU 其中_NN 5a_CD 和_CC 5b_CD 两_CD 种_M 测试_NN 标准_NN 要求_VV 对_P 抛_VV 负载_NN 情况_NN 进行_VV 测试_NN 。_PU 测试_VV 项目_NN 5_CD a_NN 的_DEG 测试_NN 脉冲_NN 最为_AD 严重_VA ，_PU 在_P 12V_CD 系统_NN 中_LC ，_PU 测试_VV 电压_NN 区间_NN 为_VC 79V_CD 到_CC 101V_CD ，_PU 而_CC 内阻_NN 的_DEG 范围_NN 为_VC 0.5_CD 欧到_NN 4_CD 欧_NN ，_PU 浪涌_NN 电压_NN 作用_NN 时间_NN 为_VC 40_CD 毫秒_M 到_VV 400_CD 毫秒_M 。_PU
+
+定子_NN 绕_VV 组_NN 也_AD 会_VV 产生_VV 瞬态_NN 电压_NN ，_PU 不_AD 过_VV 电压_NN 相对_AD 较_AD 小_VA ，_PU 持续_JJ 时间_NN 较_AD 短_VA ，_PU 释放_VV 的_DEC 能量_NN 也_AD 更_AD 少_VA 。_PU
+
+

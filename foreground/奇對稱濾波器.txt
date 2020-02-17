@@ -1,0 +1,37 @@
+﻿奇_NN 对称_AD 滤波器_NN
+
+奇_NN 对_P 称滤波器_NN （_PU ）_PU 可_VV 凸显_VV 高频_NN 信号_NN ，_PU 常_AD 运用于_VV 下列_JJ 计算_NN 。_PU
+
+formula_NN
+，_PU formula_NN __NN 2_CD formula_NN __NN 3_CD formula_NN
+
+可以_VV 视为_P 简易型_JJ 的_DEG 微分_NN
+formula_NN
+formula_NN
+差分_NN 和_CC 微分_NN 的_DEG 运算_NN 只有_AD 在_P 低_NN 频_VV 的_DEC 时候_NN 才_AD 会_VV 相等_VV
+
+formula_NN
+
+当_P n_NN 为_VV 奇数_NN ，_PU h_NN [_PU n_NN ]_PU =_NN formula_NN
+
+当_P n_NN 为_VC 偶数_NN ，_PU h_NN [_PU n_NN ]_PU =_NN 0_CD
+
+应用_NN
+
+1_CD ._PU 解析_NN 函数_NN
+
+2_CD ._PU 分析瞬_NN 时_LC 频率_NN
+
+3_CD ._PU 侦测_VV 边缘_NN
+
+1_CD ._PU formula_NN
+
+2_CD ._PU formula_NN 若_CC formula_NN
+差分_NN 和_CC 离散_VV 希尔_NN 伯_NN 特_NN 转换_NN 也_AD 可以_VV 做到_VV 边缘_NN 侦测_NN
+
+1_CD ._PU 任何_DT 能量_NN 随着_AD ｜_VV n_NN ｜_AD 递减_VV 的_DEC 奇函数_NN ，_PU 都_AD 可以_VV 做到_VV 边缘_NN 侦测_NN
+
+2_CD ._PU 做_VV 边缘_NN 侦测_VV 的_DEC 滤波器_NN 也_AD 是_VC 一_CD 种_M 匹配_JJ 滤波器_NN
+
+
+

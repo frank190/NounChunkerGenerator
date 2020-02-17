@@ -1,0 +1,7 @@
+﻿甚低频_VV
+
+甚_AD 低_VA 频_SP （_PU VLF_NN ,_PU Verylowfrequency_NN ）_PU 是_VC 指频带_NN 由_P 3_CD KHz_M 到_CC 30_CD KHz_M 的_DEC 无线_JJ 电波_NN 。_PU
+
+VLF_NN 多数_CD 用作_VV 潜艇_NN 通讯_NN 、_PU 无_VE 线心_NN 跳频率_NN 检测器_NN 及_CC 地球物_NN 理学_NN 研究_NN 等_ETC 。_PU 另外_AD 对于_P 雪崩_NN 时_LC 的_DEG 人命_NN 及_CC 财产_NN 搜索_VV ，_PU VLF_NN 亦起_VV 了_AS 一定_JJ 的_DEG 作用_NN 。_PU
+
+

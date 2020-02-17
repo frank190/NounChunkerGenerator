@@ -1,0 +1,103 @@
+﻿估_NN 计理_VV 论_NN
+
+估计_VV 理论_NN 是_VC 统_JJ 计学_NN 和_CC 信号_NN 处理_NN 中_LC 的_DEG 一_CD 个_M 分支_NN ，_PU 主要_AD 是_VC 通过_P 测量_NN 或_CC 经验_NN 数据_NN 来_MSP 估计_VV 概率_JJ 分布_NN 参数_NN 的_DEG 数值_NN 。_PU 这些_DT 参数_NN 描述_VV 了_AS 实质_NN 情况_NN 或_CC 实际_JJ 对象_NN ，_PU 它们_PN 能够_VV 回答_VV 估计_VV 函数_NN 提出_VV 的_DEC 问题_NN 。_PU
+
+例如_AD ，_PU 估计_VV 投票人_NN 总体_NN 中_LC ，_PU 给_P 特定_JJ 候选人_NN 投票_NN 的_DEC 人_NN 的_DEG 比例_NN 。_PU 这_DT 个_M 比例_NN 是_VC 一_CD 个_M 不_AD 可_VV 观测_VV 的_DEC 参数_NN ，_PU 因为_P 投票人_NN 总体_NN 很_AD 大_VA ；_PU 估计值_NN 建立_VV 在_P 投票者_NN 的_DEG 一_CD 个_M 小_VA 的_DEC 随机_NN 采样_VV 上_LC 。_PU
+
+又_AD 如_P ，_PU 雷达_NN 的_DEC 目的_NN 是_VC 物体_NN （_PU 飞机_NN 、_PU 船_NN 等_ETC ）_PU 的_DEC 定位_NN 。_PU 这_DT 种_M 定位_NN 是_VC 通过_P 分析_VV 收到_VV 的_DEC 回声_NN （_PU 回波_NR ）_PU 来_MSP 实现_VV 的_SP ，_PU 定位_NN 提出_VV 的_DEC 问题_NN 是_VC “_PU 飞机_NN 在_P 哪里_NT ？_PU ”_PU 为了_P 回答_VV 这_DT 个_M 问题_NN ，_PU 必须_VV 估计_VV 飞机_VV 到_VV 雷达_NN 之间_LC 的_DEG 距离_NN 。_PU 如果_CS 雷达_VV 的_DEC 绝对_JJ 位置_NN 是_VC 已_AD 知_VV 的_DEC ，_PU 那么_AD 飞机_VV 的_DEC 绝对_JJ 位置_NN 也_AD 是_VC 可以_VV 确定_VV 的_DEC 。_PU
+
+在_P 估计_VV 理论_NN 中_LC ，_PU 通常_AD 假定_VV 信息_NN 隐藏_NN 在_P 包含_VV 噪声_NN 的_DEC 信号_NN 中_LC 。_PU 噪声_NN 增加_VV 了_AS 不_AD 确定性_AD ，_PU 如果_CS 没有_VV 不确_AD 定性_VV ，_PU 那么_AD 也_AD 就_AD 没有_VV 必要_AD 估计_VV 了_AS 。_PU
+
+有_VE 非常_AD 多_VA 的_DEC 领域_NN 使用_VV 参数_NN 估计_VV 理论_VA 。_PU 这些_DT 领域_NN 包括_VV （_PU 当然_AD 不_AD 局限于_VV 以下_JJ 列出_VV 的_DEC 领域_NN ）_PU :_PU
+
+
+测量_NN 参数_NN 包含_VV 噪声_NN 或者_CC 其他_DT 不确_AD 定性_VV 。_PU 通过_P 统计_VV 概率_VA ，_PU 可以_VV 求得_VV 最_AD 优化_VV 的_DEC 解_NN ，_PU 用来_VV 从_P 数据_NN 中_LC 提取_VV 尽可能_AD 多_VA 的_DEC 信息_NN 。_PU
+
+估计_VV 理论_VA 的_DEC 全部_NN 目的_NN 都_AD 是_VC 获取_VV 一_CD 个_M 估计_NN 函数_NN ，_PU 最好_AD 是_VC 一_CD 个_M 可以_VV 实现_VV 的_DEC 估计_NN 函数_NN 。_PU 估计_VV 函数_NN 输入_VV 测量_JJ 数据_NN ，_PU 输出_VV 相应_JJ 参数_NN 的_DEG 估计_NN 。_PU
+
+我们_PN 通常_AD 希望_VV 估计_VV 函数_NN 能_VV 最_AD 优_VA ，_PU 一_CD 个_M 最_AD 优_VA 的_DEC 估计_NN 意味_VV 着_AS 所有_DT 的_DEG 信息_NN 都_AD 被_SB 提取_VV 出来_VV 了_AS ；_PU 如果_CS 还_AD 有_VE 信息_NN 没有_VV 提取_VV 出来_VV ，_PU 那_PN 就_AD 意味_VV 着_AS 它_PN 不_AD 是_VC 最优_JJ 的_DEG 。_PU
+
+一般_AD 来说_VV ，_PU 求估_VV 计函数_NN 需要_VV 三_CD 步_M ：_PU
+
+
+当_P 实现_VV 一_CD 个_M 估计器_NN 之后_LC ，_PU 实际_JJ 的_DEG 数据_NN 有_VE 可能_VV 证明_VV 推导_VV 出_VV 估计器_NN 的_DEG 模型_NN 是_VC 不_AD 正确_VA 的_DEC ，_PU 这样_PN 的_DEG 话就_NN 需要_VV 重复_VV 上面_NN 的_DEC 过程_NN 重新_AD 寻找_VV 估计器_NN 。_PU 不_AD 能_VV 实现_VV 的_DEC 估计器_NN 需要_VV 抛弃_VV ，_PU 然后_AD 开始_VV 一_CD 个_M 新_VA 的_DEC 过程_NN 。_PU 总的来说_AD ，_PU 估计器_NN 根据_P 实际_JJ 测量_NN 的_DEG 数据_NN 预测_NN 物理_NN 模型_NN 的_DEG 参数_NN 。_PU
+
+为了_P 建立_VV 一_CD 个_M 模型_NN ，_PU 需要_VV 知道_VV 几_CD 项_M 统计_NN “_PU 因素_NN ”_PU 。_PU 为了_P 保证_VV 预测_NN 在_P 数学_NN 上_LC 是_VC 可以_VV 追踪_VV 的_DEC 而_CC 不_AD 是_VC 仅仅_AD 基于_VV “_PU 内心_NN 感受_VV ”_PU 来_MSP 说_VV 这_PN 是_VC 必需_VV 的_DEC 。_PU
+
+第一_OD 个_M 是_VC 从_P 大小_NN 为_VC formula_NN 的_DEC 随机_NN 矢量_NN 中_LC 取出_VV 的_DEC 统计_NN 采样_VV ，_PU 将_BA 它们_PN 放到_VV 一_CD 个_M 矢量_NN 中_LC ，_PU
+
+第二_OD ，_PU 有_VE 相应_JJ 的_DEG formula_NN 参数_NN
+
+它_PN 需要_VV 根据_P 概率_NN 密度_NN 函数_NN （_PU pdf_NN ）_PU 或者_CC 概率_NN 聚集_NN 函数_NN （_PU :en:probabilitymassfunction）_PU （_PU pmf_NN ）_PU 建立_NN
+
+参数_VV 本身_PN 还_AD 可能_VV 有_VE 一_CD 个_M 概率_NN 分布_VV （_PU Bayesianstatistics_NN ）_PU ，_PU 需要_VV 定义_VV epistemicprobability_NN
+
+模型_NN 形成_VV 之后_LC 的_DEG 目标_NN 就_AD 是_VC 预测_VV 参数_NN ，_PU 通常_AD 表示_VV 为_VC formula_NN
+
+一_CD 个_M 普通_VA 的_DEC 估计器_NN 是_VC 最_AD 小均_JJ 方误差_NN （_PU MMSE_NN ）_PU 估计器_NN ，_PU 它_PN 利用_VV 了_AS 参数_NN 估计值_NN 与_CC 实际值_NN 之间_LC 的_DEG 误差_NN
+
+作为_P 优化_VV 的_DEC 基础_NN 。_PU 在_P 最小_JJ 均方_NN 误差_VV 估计器_NN 中_LC 误差_AD 进行_VV 取平方_NN 、_PU 最_AD 小化_NN 。_PU
+
+以下_NN 是_VC 一些_CD 相关_VV 的_DEC 估计_NN 函数_NN 以及_CC 相关_VV 的_DEC 主题_NN
+
+让_VV 我们_PN 来看_VV 一_CD 个_M 接_VV 收到_VV 的_DEC formula_NN __NN 1_CD 个_M 独立_NN 采样_VV 点_NN 的_DEG 离散_NN 信号_NN formula_NN __NN 10_CD ，_PU 它_PN 由_P 一_CD 个_M 直流_NN 增益_VV formula_NN __NN 11_CD 和_CC "_PU 已_AD 知_VV "_PU 方差_NN 为_VC formula_NN (_PU 例如_AD ，_PU formula_NN __NN 13_CD ）_PU 的_DEG 叠加_JJ 白噪声_NN formula_NN
+
+由于_P 方差_NN 已经_AD 知道_VV ，_PU 所以_AD 仅有_VV 的_DEC 未知_JJ 参数_NN 就_AD 是_VC formula_NN
+
+于_P 是_VC 信号_NN 的_DEC 模型_NN 是_VC
+
+两_CD 个_M 可能_VV 的_DEC 估计器_NN 是_VC ：_PU
+
+这_DT 两_CD 个_M 估计器_NN 都_AD 有_VE 一_CD 个_M 平均值_NN formula_NN
+
+和_CC
+
+在_P 这_DT 一_CD 点_NN 上_LC ，_PU 这_DT 两_CD 个_M 估计器_NN 看起_VV 来_VV 是_VC 一样_VA 的_DEC 。_PU 但是_AD ，_PU 当_P 比较_NN 方差_NN 部分_NN 的_DEC 时候_NN 它们_PN 之间_LC 的_DEG 不同_JJ 就_AD 很_AD 明显_VV 了_AS 。_PU
+
+和_CC
+
+看起_VV 来_MSP 采样_VV 平均_AD 是_VC 一_CD 个_M 更_AD 好_VA 的_DEC 估计器_NN ，_PU 因为_P 方差_JJ 部分_NN formula_NN
+
+使用_VV 最_AD 大似_AD 然_AD 估计_VV 继续_PN 上面_LC 的_DEG 例子_NN ，_PU 噪声_NN 在_P 一_CD 个_M 采样点_NN formula_NN
+
+这样_JJ formula_NN __NN 10_CD 的_DEG 概率_NN 变为_VV （_PU formula_NN __NN 10_CD 可以_VV 认为_VV 是_VC formula_NN
+
+由于_P 相互_AD 独立_VV ，_PU formula_NN
+
+概率_NN 密度_NN 函数_NN 取自_VV 然对数_P
+
+于是_AD 最_AD 大似_VA 然_DEC 估计器_NN 是_VC
+
+对数_NN 最_AD 大_VA 似_VA 然_CC 函数_NN 取_VV 一_CD 阶_NN 导数_NN
+
+并且_AD 将_BA 它_PN 赋值_NN 为_VC 0_CD
+
+这_PN 就_AD 得到_VV 最_AD 大_JJ 似然_JJ 估计器_NN
+
+它_PN 是_VC 一_CD 个_M 简单_VA 的_DEC 采样_NN 平均_VA 。_PU
+
+从_P 这_DT 个_M 例子_NN 中_LC ，_PU 我们_PN 发现_VV 对于_P 带有_VV 固定_VV 未知_JJ 直流_NN 增益_VV 的_DEC AWGN_NN 的_DEG formula_NN
+
+为了_P 找到_VV 采样_NN 平均_JJ 估计器_NN 的_DEG Cram_NN é_NN r_NN -_PU Rao_NN 下_LC 限_VC （_PU CRLB_NN ）_PU ，_PU 需要_VV 找到_VV Fisherinformation_NN 数_NN
+
+从_P 上面_NN 得到_VV
+
+取二_OD 阶_M 导数_NN
+
+发现负_VV 的_DEC 期望值_NN 是_VC 无关_AD 紧要_VA 的_DEC （_PU ）_PU ，_PU 因为_P 它_PN 现在_AD 是_VC 一_CD 个_M 确定_VV 的_DEC 常数_NN
+
+formula_NN
+
+最后_AD ，_PU 将_BA Fisherinformation_NN 代入_NN
+
+得到_VV
+
+将_BA 这_DT 个_M 值_NN 与_P 前面_NN 确定_VV 的_DEC 采样_NN 平均_VA 的_DEC 变化_NN 比较_AD 显示_VV 对于_P 所有_DT 的_DEG formula_NN __NN 1_CD 和_CC formula_NN
+
+采样_NN 平均_AD 除了_P 是_VC 最_AD 大_JJ 似然_NN 估计器_NN 之_DEG 外还_NN 是_VC 最_AD 小_JJ 变化_NN 无偏_AD 估计器_NN （_PU MVUE_NN ）_PU 。_PU
+
+这_DT 个_M 直流_NN 增益_NN +_CC WGN_NN 的_DEG 例子_NN 是_VC Kay_NN 的_DEC "_PU 统计_NN 信号_NN 处理_NN 基础_NN "_PU 中_DT 一_CD 个_M 例子_NN 的_DEG 再现_NN 。_PU
+
+
+
+

@@ -1,0 +1,12 @@
+﻿溅射_NN
+
+-_PU {zh_NN -_PU hans_NN :_PU 溅射_NN ;_PU zh_NN -_PU hant_NN :_PU 溅射_NN }_PU -_PU （_PU sputtering_NN ）_PU ，_PU 也_AD 称溅镀_VV （_PU sputterdeposition_NN /_PU coating_NN ）_PU ，_PU 是_VC 一_CD 种_M 物理_NN 气相_NN 沉积_NN 技术_NN ，_PU 指_VV 固体靶_NN "_PU target_NN "_PU （_PU 或_CC 源_NN "_PU source_NN "_PU ）_PU 中_LC 的_DEG 原子_NN 被_SB 高能_AD 量离子_NN （_PU 通常_AD 来自_VV 等_ETC 离子体_NN ）_PU 撞击_VV 而_CC 离开_VV 固体_NN 进入_VV 气体_NN 的_DEG 物理_NN 过程_NN 。_PU
+
+溅射_VV 一般_AD 是_VC 在_P 充有_VV 惰性_JJ 气体_NN 的_DEG 真空_NN 系统_NN 中_LC ，_PU 通过_P 高压_JJ 电场_NN 的_DEG 作用_NN ，_PU 使得_VV 氩气_NN 电离_NN ，_PU 产生_VV 氩_JJ 离子_NN 流_NN ，_PU 轰击靶_NN 阴极_NN ，_PU 被_SB 溅出_VV 的_DEC 靶_NN 材料_NN 原子_NN 或_CC 分子_NN 沉淀_VV 积累_VV 在_P 半导体_NN 芯片_NN 或_CC 玻璃_NN 、_PU 陶瓷_NN 上_LC 而_MSP 形成_VV 薄膜_NN 。_PU
+
+溅射_NN 的_DEC 优点_NN 是_VC 能_VV 在_P 较_AD 低_VA 的_DEC 温度_NN 下_LC 制备_VV 高_JJ 熔点_NN 材料_NN 的_DEC 薄膜_NN ，_PU 在_P 制备_VV 合金_NN 和_CC 化合物_NN 薄膜_NN 的_DEC 过程_NN 中_LC 保持_VV 原_NOI 组成_VV 不_AD 变_VV ，_PU 所以_AD 在_P 半导体_NN 器件_NN 和_CC 集成_JJ 电路_NN 制造_NN 中_LC 已_AD 获得_VV 广泛_VA 的_DEC 应用_NN 。_PU
+
+包括_VV ：_PU
+
+
+

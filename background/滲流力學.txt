@@ -1,0 +1,7 @@
+﻿渗流_NN 力学_NN
+
+渗流_NN 力学_NN 是_VC 流体_NN 力学_NN 的_DEC 一_CD 个_M 分支_NN ，_PU 主要_AD 研究_VV 流体_NN 在_P 多孔_NN 介质_NN 中_LC 的_DEG 运动_NN 方式_NN 。_PU 由于_P 多孔_JJ 介质_NN 之间_LC 的_DEG 空隙_NN 尺寸_NN 微小_VV ，_PU 因此_AD 渗流_NN 力学_NN 具有_VV 毛细_NN 作用_NN 突出_VV 、_PU 分子力_NN 作用_NN 显著_VA 和_CC 流动_JJ 阻力_NN 较_AD 大_VA 等_ETC 特性_NN ，_PU 因此_AD 流动_VV 速度_NN 往往_AD 比较_VV 慢_VA ，_PU 另_AD 外惯_NN 性力_NN 也_AD 可_VV 忽略_VV 不_AD 计_VV 。_PU
+渗流_NN 力学_NN 最早_AD 是_VC 在_P 法国_NR 工程师_NN H_NN ·_PU P_NN ·_PU G_CD ·_PU 达_VV 西_NN 在_P 1856_CD 年_M 公布_VV 了_AS 水_NN 通过_P 均匀_VA 砂_DEC 层_NN 渗流_NN 的_DEG 线性_JJ 定律_NN 之后_LC ，_PU 渗流_VV 理论_NN 即_AD 从此_AD 开始_VV 发展_VV 。_PU 而_CC 到_VV 1930_CD 年代_M ，_PU 因为_AD 开发_VV 油田_NN ，_PU 逐步_AD 发展_VV 多_CD 相_M 渗流_NN 理论_NN 。_PU 而到_VV 了_AS 1960_CD 年代_M 之后_LC ，_PU 渗流_NN 力学_NN 就_AD 开始_VV 迅速_VA 的_DEC 发展_NN 。_PU
+
+
+

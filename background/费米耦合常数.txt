@@ -1,0 +1,12 @@
+﻿费米_NN 耦合_NN 常数_NN
+
+费_OD 米_M 耦合_NN 常数_NN 记_VV 为_VC formula_NN
+
+formula_NN
+
+这里_PN "_PU g"_NN 是_VC 弱_JJ 相互_AD 作用_VV 的_DEC 耦合_NN 常数_NN ,_PU 和_CC "_PU m_NN "_PU 是_VC W_NN 玻_NN 色子_NN 的_DEG 质量_NN ._PU
+
+在_P 标准_JJ 模型_NN 中_LC ,_PU 费米_JJ 常数_NN 和_CC 希格_NN 斯_DT 场_M 真空_NN 期望_NN 值关_NN 系是_NN ：_PU formula_NN
+费_OD 米_M 常数_NN 的_DEG 测量_NN 是_VC 通过_P 测量_NN formula_NN __NN 4_CD 的_DEG 寿命_NN 得到_VV 的_SP ，_PU formula_NN
+
+

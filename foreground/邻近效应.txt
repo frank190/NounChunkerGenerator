@@ -1,0 +1,5 @@
+﻿邻_NN 近_AD 效应_NN
+
+邻近_NN 效应_NN 是_VC 指_VV 当_P 两_CD 条_M （_PU 或_CC 两_CD 条_M 以上_LC ）_PU 的_DEC 导电体_NN 彼此_AD 距离_VV 较_AD 近_VA 时_LC ，_PU 由于_P 一_CD 条_M 导线_NN 中_LC 电流_NN 产生_VV 的_DEC 磁场_NN 导致_VV 临近_VV 的_DEC 其他_DT 导体_NN 上_LC 的_DEC 电流_NN 不_AD 是_VC 均匀_VA 地_DEV 流过_VV 导体_NN 截面_NN ，_PU 而_CC 是_VC 偏向_P 一_CD 边_NN 的_DEG 现象_NN 。_PU
+
+

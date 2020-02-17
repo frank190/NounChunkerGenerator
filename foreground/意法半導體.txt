@@ -1,0 +1,114 @@
+﻿意法_NN 半导体_NN
+
+意法_NN 半导体_NN （_PU STMicroelectronics_NN ）_PU 是_VC 一_CD 家_M 国际性_NN 的_DEC 半导体_NN 生产商_NN ，_PU 总部_NN 位于_VV 瑞士_NN 日内_AD 瓦_VA 。_PU
+
+意法_NN 半导体_NN 集团_NN 在_P 1987_CD 年_M 由_P 意大利_NN 的_DEG Societ_NN à_NN G_CD eneraleSemiconduttori_NN (SGS)Microelettronica与法国_PU 汤姆逊_NN （_PU Thomson_NN ）_PU 公司_NN 的_DEC 半导体_NN 分部_NN ThomsonSemiconducteurs_NN 两_CD 家_M 半导体_NN 公司_NN 合并_VV 而_MSP 成_VV ，_PU 该_DT 公司_NN 自_VV 1998年5_CD 月汤_NN 姆逊_AD 撤股_VV 后_LC 由_P SGS_NN -_PU THOMSON_NN 更名_AD 为_VC 意法_NN 半导体_NN （_PU STMicroelectronics_NN ）_PU 。_PU
+
+SGSMicroelettronica_NR 与_P ThomsonSemiconducteurs_NR 均_AD 是_VC 创立_VV 已_AD 久_VA 的_DEC 半导体_NN 公司_NN ：_PU
+
+
+
+以_P SGS_NN -_PU THOMSON_NN 与_CC 意法_NN 半导体_NN 运作_NN 期间_LC 该_DT 公司_NN 曾_AD 透过_VV 获得_VV 以下_JJ 公司_NN 来_MSP 参与_VV 巩固_PN 半导体_NN 产业_NN ：_PU
+
+
+
+
+2007年_NT 5月_NT 22日_NT ，_PU ST_NN 和_CC 英特_JJ 尔合资_NN 成立_VV Numonyx_NR ，_PU 此新_NR 公司_NN 合并_VV 了_AS ST_NN 与_CC 英特尔_NN 各自_VV 的_DEC 闪存_NN 部门_NN 。_PU
+
+2008年_NT 4月_NT 10日_NT ，_PU ST_NN 和_CC 恩智浦_NN 半导体_NN 宣布_NN ，_PU 成立_VV 一_CD 个_M 新_VA 的_DEC 合资_NN 公司_NN ST-_CD NXPWireless_NN ，_PU 集成_VV ST_NN 与_CC NXP_NN 各自_VV 的_DEC 行动_JJ 通讯_NN 部门_NN 。_PU 此_DT 合资_JJ 公司_NN ，_PU S_P T_NN 拥有_VV 80%_CD 股权_LC ，_PU NXP_NN 拥有_VV 20%_CD 股权_NN ，_PU 於_P 2008年_NT 8月_NT 20日_NT 正式_JJ 成立_NN 。_PU
+
+2009年_NT 2月_NT 10日_NT ，_PU ST-NXPWireless_NN 与_CC 爱立_JJ 信手机_NN 平台_NN （_PU EricssonMobilePlatforms_NN ）_PU 集成_VV ，_PU 成立_VV STEricsson_NR ，_PU ST_M 与_CC Ericsson_NN 各_AD 持有_VV 一_CD 半股份_NN 。_PU
+
+在_P SGS_NN 与_CC ThomsonSemiconducteurs_NN 的_DEC 合并_VV 后_LC 其_PN 股份_NN 结余_NN 由_P 法国_NN 与_CC 意大利_NN 的_DEG 股东_NN 保持_VV 。_PU 1994年_NT 12月_NT 8日_NT 该_DT 公司_NN 完成_VV 首次_AD 公开_VV 招股_NN ，_PU 自此_AD 其_PN 股份_NN 便_AD 在_P 纽约_NR 证券_NN 交易_VV 所_MSP 与_P 巴黎泛_NN 欧_CC 股票_NN 交易_VV 所_MSP 上_VV 交易_NN ，_PU 1998年6_CD 月起_NN 亦_AD 於_P 米兰意_NN 大利_CD 证券_NN 交易_VA 所_MSP 上市_VV 。_PU
+
+2005_CD 年_M 其_PN 股份_NN 结余_NN 由_P 股东_NN 的_DEC STMicroelectronicsN.V._NN 持有_VV ，_PU 其中_NN ：_PU
+
+其_PN 控股_NN 公司_NN STMicroelectronicsN_NR ._PU V_NN ._PU 在_P 荷兰_NR 阿姆斯_NR 特丹_NN 注册_NN ，_PU 但_CC 公司_NN 总部_NN 、_PU 欧洲_NN 总部_NN 以及_CC 新兴_JJ 市场_NN 总部_NN 均_AD 位于_VV 瑞士_NN 日内_AD 瓦_VA 。_PU 美国_NR 总部_NN 位德_NN 州卡_NN 罗顿_NN ，_PU 亚太_NR 总部_NN 位于_VV 新_JJ 加坡_VV ，_PU 日本_NR 业务_NN 总部_NN 位于_VV 东京_NN 。_PU 另外_AD 最近_AD 亦_AD 拓展_VV 到_VV “_PU 大中华_AD 地区_VV ”_PU ，_PU 包括_VV 香港_NN 、_PU 中国_NN 与_CC 台湾_NN ，_PU 总部_NN 位于_VV 上海_NN 。_PU
+
+1987_CD 年_M 在_P 透过_VV 而_CC 合并_AD 创立_VV 后_LC SGS_NR -_PU Thomson_NN 以_P 8亿5000万_CD 美元_NN 销售_VV 额名_NN 列於_VV 20_CD 大_VA 半导体_NN 供_VV 应商_NN 中_LC 第14_OD 名_M ，_PU 2005_CD 年意法_NN 半导体_NN 名列_NN 5_CD ，_PU 位于_VV 英特尔_NN 、_PU 三星_NN 电子_NN 、_PU 德州_NN 仪器_NN 与_CC 东芝_NN 之后_LC ，_PU 但_AD 领先于_VV 英飞淩_NN 、_PU 瑞萨_NN 、_PU 日本_NR 电气_NN 、_PU 恩智浦_NN 半导体_NN 与_CC 飞思_NN 卡尔_NN 。_PU 意法_NN 半导体_NN 是_VC 欧洲_NN 最_AD 大_VA 的_DEC 半导体_NN 供应商_NN ，_PU 领先于_VV 英飞淩_NN 与_CC 恩智浦_NN 半导体_NN 。_PU 详情_NN 请_VV 参阅_VV 每_DT 年_M 全球_NN 20_CD 大_VA 半导体_NN 市场_NN 份额_NN 排名_NN 。_PU
+
+该_DT 公司_NN 制造_VV 多_CD 个_M 种类_NN 的_DEG 产品_NN ，_PU 包括_VV ：_PU
+
+2001_CD 年_M 起意法_NN 半导体_NN 涉足_VV 於_P 开发_VV 微机电_NN 系统_NN ，_PU 最初_NT 的_DEG 硏究_NN 与_CC 开发_VV 于_P 意法_NN 半导体_NN 在_P Castelletto_NN 的_DEG 工厂_NN 中_LC 完成_VV ，_PU 但后_AD 来於_VV 2006_CD 年_M 6月_NN 关闭_VV ，_PU 微机电_NN 系统_NN 活动_AD 迁移_VV 到_VV 位于_VV Agrate_NN 的_DEG 主要_JJ 加工厂_NN 。_PU
+
+意法_NN 半导体_NN 很_AD 大_JJ 程度_NN 上_LC 置身_VV 於_P 行情_NN 不_AD 稳定_VA 的_DEC DRAM_NN 与_CC 个人_NN 电脑_NN 微处理器_NN 市场_NN 外_LC ，_PU 除了_P 曾_AD 於_P 1994_CD 年_M 与_CC 美国_NR 公司_NN Cyrix_NN 合作_VV 开展_NN 英特_NR 尔x_NR 486_CD 兼容_CC 微_JJ 处理器_NN ，_PU 并_CC 於_P 1995_CD 年_M 以_P 英特尔_NN 奔腾_NN 家族_NN 为_VC 对手_PN 生产_VV 的_DEC CyrixM1_NN 微_NN 处理器_NN 的_DEG 失败_NN 尝试_NN 外_LC 。_PU
+
+该_DT 公司_NN 拥有_VV 约_AD 1500_CD 个_M 客户_NN ，_PU 当中_AD 最_AD 重要_VA 的_DEC 为_VC ：_PU
+
+该_DT 公司_NN 的_DEG 组织_NN 围绕_VV 着_AS 四_CD 个_M 部门_NN ：_PU
+
+意法_NN 半导体_NN 由_P 五_CD 个_M 产品_NN 团队_NN 组成_VV ，_PU 每_DT 个_M 团队_NN 由_P 数_CD 个_M 部门_NN 或_CC 业务_NN 单位_NN 组成_VV ，_PU 每_DT 个_M 部门_NN 均_AD 负责_VV 设计_NN 、_PU 工业化_NN 、_PU 生产_NN （_PU 使用_VV 意法_NN 半导体_NN 的_DEG 制造_NN 工厂_NN ）_PU 与_CC 销售_VV 自己_PN 的_DEG 产品_NN ，_PU 业务_NN 透过_NN 中央_NN 硏发_NN 组织_NN 与_CC 地区_NN 的_DEG 营业部_NN 支援_NN 。_PU
+
+产品_NN 部分_NN 为_VC ：_PU
+
+与_P 所谓_JJ 的_DEG 无厂_JJ 半导体_NN 公司_NN 不同_VA ，_PU 意法_NN 半导体_NN 拥有_VV 并_CC 营运_VV 自己_PN 的_DEG 半导体_NN 晶圆厂_NN 。_PU 2006_CD 年_M 该_DT 公司_NN 拥有_VV 5_CD 座_M 8_CD 寸晶_NN 圆加_NN 工厂_NN 与_P 一_CD 座_M 12_CD 寸晶_NN 圆加_NN 工厂_NN ，_PU 大部份_NN 制品_NN 以_P 0_CD ._PU 18_CD  µ_NN m_NN 、_PU 0_CD ._PU 13_CD  µ_NN m_NN 、_PU 90nm_NN 与_CC 65_CD nm_M 切割_NN （_PU 以_P 闸_NOI 电晶体_NN 长度_NN 量度_NN ）_PU ，_PU 意法_JJ 半导体_NN 同时_AD 拥有_VV 进行_VV 硅裸晶_NN 组装_NN 与_CC 结合_JJ 塑胶_NN 或_CC 陶瓷_NN 封装_NN 的_DEG 后端_NN 工厂_NN 。_PU
+合晶_NN 科技_NN :_PU 共有_VV 六家_NN 工厂_NN ,_PU ST_NN 主要_AD 由_P 其_PN 杨梅厂_NN 及_CC 龙潭厂_NN 供_VV 六_CD 寸_M 及_CC 八_CD 寸_M 硅晶_NN 圆产_NN 品片_NN
+
+主要_AD 地点_VA ，_PU 按_P 重要性_JJ 排序_NN ：_PU
+
+格勒诺_NN 布尔_NN 是_VC 该_DT 公司_NN 最_AD 重要_VA 的_DEC 硏发_NN 中心_NN ，_PU 雇用_VV 约_AD 6_CD ,_PU 000_CD 名_M 员工_NN ：_PU
+
+SGS_CD -_PU Thomson_NN 与_CC 飞利浦_NN 在_P 1991_CD 年_M 合作_VV 发开_VV 发新_NN 的_DEG 生产_NN 技术_NN ，_PU 并_CC 导致_VV 该_DT 公司_NN 建设_VV 首_CD 个_M 8_CD 寸_M 加工厂_NN Crolles1_NN ，_PU 於_P 1993_CD 年_M [_PU 9月_CD 9日_NT 由_P 法国_NN 工业_NN 部长杰勒_NN 德_NN ·_PU 朗归_NN 特_AD 主持_AD 开幕_VV 仪式_NN 。_PU
+
+2002_CD 年_M 由_P 意法_NN 半导体_NN 、_PU 台积电_NN 、_PU 恩智浦_NN 半导体_NN （_PU 原来_JJ 的_DEG 飞利浦_NN 半导体_NN ）_PU 与_P 飞思_NN 卡尔_NN （_PU 原来_JJ 的_DEG 摩托_NN 罗拉_NN 半导体_NN ）_PU 组成_VV 的_DEC Crolles_NN 2_CD 联盟_NN 将_BA 在_P Crolles_NN 建构_NN 另_DT 一_CD 个_M 共同_VA 的_DEC 硏发_NN 中心_NN ，_PU 集_NN 中_LC 开发_VV 使用_VV 12_CD 寸_M 晶圆_VV 的_DEC 90_CD nm_M 至_CC 32_CD nm_M 新纳_JJ 米级_NN 切割_NN 技术_NN 制程_NN 。_PU 全球性_JJ 半导体_NN 代工_NN 厂台_NN 湾台_NN 积电_NN 将_BA 在_P 台湾_VV 使用_JJ 新_JJ 技术_NN 的_DEG 生产_NN 设备_NN 。_PU 法国_NR 总统_NN 杰克_NN ·_PU 席哈克_NN 曾_AD 於_P 2003年_NT 2月_NT 27日_NT 主持_VV 12_CD 寸_M 加工厂_NN 的_DEG 开幕_NN 仪式_NN 。_PU
+
+雇用_NN 6_CD ,_PU 000_CD 名_M 员工_NN ，_PU 米兰_NN 设施_VV 的_DEC 重要性_NN 与_CC 格勒诺_NN 布尔_NN 相同_VA ：_PU
+
+这_DT 工厂_NN 於_P 1961_CD 年_M 由_P ATES_NN 开设_VV ，_PU 在_P 美国_NR 公司_NN RCA_NN 的_DEG 授权_NN 协议_NN 下_LC 开展_VV 半导体_NN 活动_NN （_PU 初_LC 时_LC 为_VV 锗_NN ）_PU ，_PU 雇有_VV 5_CD ,_PU 000_CD 名_M 员工_NN ，_PU 这_PN 地点_AD 拥有_VV 2_CD 座_M 主要_VA 的_DEC 晶圆_JJ 加工厂_NN ：_PU
+这_DT 地点_NN 亦_AD 拥有_VV 数_CD 个_M 硏发_NN 中心_NN 与_CC 部门_NN ，_PU 专_AD 於_P 闪存_NN 技术_NN
+
+雇有约_VV 3_CD ,_PU 000_CD 名_M 员工_NN ，_PU 於_P 1979_CD 年_M 由_P 法国_NN 公司_NN 圣戈班_NN 与_P 美国_NR 公司_NN 美国_NR 国家_NN 半导体_NN 的_DEG 合资_NN 公司_NN Eurotechnique_NN 建设_VV 的_DEC 4_CD 寸_M 加工厂_NN ，_PU Rousset_NN 的_DEG 工厂_NN 在_P 1981_CD 至_CC 82_CD 年_M 法国_NR 政府_NN 将_BA 数_CD 个_M 产业国_NN 有化_VV 后_LC 在_P 1982_CD 年_M 卖给_VV Thomson_NN -_PU CSF_NN ，_PU 当时_NT 位于_VV 艾克_NN 斯市市_AD 中心_NN （_PU 最初_NT 於_P 1960_CD 年代创立_M ）_PU 的_DEG 旧汤_NN 姆逊_NN 工厂_NN 被_SB 关闭_VV ，_PU 而_CC 人员_NN 成_VV 功_NN 转移_VV 到新_VV 的_DEC Rousset_NN 工厂_NN 。_PU
+
+1988_CD 年_M 数_CD 个_M ThomsonRousset_NN 工厂_NN 的_DEG 员工_NN （_PU 包括_VV 厂长_VV MarcLassus_NN ）_PU 创立_VV 一家_JJ 新_JJ 公司_NN ，_PU 当时_NT 名为_VV G_CD emplus_M ，_PU 现_AD 名为_P Gemalto_NN ，_PU 是_VC 智慧卡_NN 产业_NN 的_DEC 领导者_NN 。_PU 该_DT 公司_NN 透过_VV 其_PN 首张_NN 法国_NR 电信_NN 芯片_NN 卡_LC 的_DEG 重要_JJ 业务_NN 来_MSP 起家_VV 。_PU
+
+该_DT 过去_NN 的_DEC 4_CD 寸_M 加工厂_NN 相继_AD 转换_VV 为_VC 5寸_NN 以及_CC 后来_VV 的_DEC 6_CD 寸_M 加工厂_NN （_PU 在_P 1996_CD 年_M 完成_VV ）_PU ，_PU 现处_JJ 被_SB 关闭_VV 的_DEC 过程_NN 。_PU Rousset_NN 亦_AD 是_VC 意_NN 法_NN 半导体_NN 第四_OD 个_M 8_CD 寸_M 加工厂_NN （_PU 在_P Crolles_NN -_PU 1_CD 、_PU 凤凰城_NN 与_P 卡塔_NN 尼亚_VA 之后_LC ）_PU ，_PU 於_P 2000年_NT 5月_NT 15日_NT 由_P 法国_NN 总理利_NN 昂内尔_NN ·_PU 若斯潘_AD 举行_VV 开幕_NN 仪式_NN
+
+该_DT 地点_NN 拥有_VV 包括_VV 智慧卡_NN 、_PU 单片机_NN 、_PU 串行_VV 闪存_NN 与_CC EEPROM_NN 等_ETC 数_CD 个_M 部门_NN 的_DEG 总部_NN 以及_CC 数_CD 个_M 硏发_NN 中心_NN 。_PU
+
+1500_CD 加_CC 100_CD 名_M 雇员_NN
+
+由于_P 印度_NN 的_DEG 某些_DT 软体_NN 设计_VV 的_DEC 活跃_NN 而_CC 於_P 1992_CD 年_M 在_P 诺_NN 依_P 达_NN 开展_VV 业务_NN ，_PU 后来_VV 一_CD 个_M 雇_AD 有_VE 120_CD 人_NN 的_DEG 硅_NN 设计_NN 中心_NN 於_P 1995_CD 年_M 2月_NT 14日_NT 开幕_VV ，_PU 是_VC 该_DT 公司_NN 在_VV 欧洲_NR 外_NN 的_DEC 大型_JJ 设计_NN 中心_NN 。_PU 2006_CD 年_M 该_DT 地点_NN 雇_LC 有_VE 约_AD 1_CD ,_PU 500_CD 名_M 员工_NN 以及_CC 迁移_VV 到数_CD 千_CD 里_NN 之外_LC 的_DEC 大_JJ 诺_NN 依_P 达_NN 地区_VV ，_PU 并_CC 计划_VV 在_P 2007_CD 年_M 将_BA 诺_NN 依_P 达_VV 中心_NN 的_DEC 人数_NN 增至_VV 1_CD ,_PU 700_CD 人_NN ，_PU 该_DT 地点_NN 主要_AD 为_VC 设计_VV 团队_VA 。_PU
+
+位于_VV 班加_NN 罗尔_NN 的_DEG 地点_NN 更为_AD 近期_VV 并_CC 雇有_VV 总计_AD 约_AD 100_CD 名_M 员工_NN 。_PU
+
+1980_CD 年代_NN 早期SGS首次_PU 在_P 美国_NR 上_LC 出现_VV 时_LC 是_VC 一_CD 个_M 位于_VV 凤凰城_NN 的_DEC 销售_NN 办公室_NN ，_PU 后来_VV 在_P SGS_NR -_PU Thomson_NN 的_DEC 领导_NN 下_LC 於_P 1995_CD 年_M 在_P 凤凰城_NN 建设_VV 了_AS 一_CD 个_M 8_CD 寸_M 加工厂_NN ，_PU 是_VC 该_DT 公司_NN 自_VV Crolles1_NN 后_LC 的_DEG 第二_OD 座_M 8_OD 寸_M 加工厂_NN ，_PU 该_DT 地点_NN 原_LC 打算_VV 为_VC Cyrix_NN 生产_VV 微_JJ 处理器_NN ，_PU 现_AD 用来_VV 为_VC 公司_NN 生产_NN 机器_NN 。_PU
+
+1500_CD 名_M 雇员_NN ，_PU 该_DT 地点_NN 拥有_VV 一_CD 个_M 加工厂_NN 与_CC 硏发_NN 中心_NN
+
+卡_NN 罗顿_NN 厂房_NN 於_P 1969_CD 年_M 由_P 德州_NN 仪器_NN 的_DEC 前雇员_NN 所_MSP 创立_VV 的_DEC 美国_NR 公司_NN Mostek_NN 建立_VV ，_PU Mostek_NN 后_LC 来_MSP 被_SB 联合_VV 技术_NN 收购_VV ，_PU 依次_AD 在_P 1985_CD 年_M 被_SB ThomsonSemiconducteurs_NR 收购_VV 。_PU 原_JJ 为_VC 4_CD 寸_M 加工厂_NN ，_PU 1988_CD 年_M 改为_VV 6_CD 寸_M 。_PU 英国_NR 公司_NN INMOS_NN 被_SB SGSThomson_NR 收购_VV 后_LC 位于_VV 科_NN 罗拉_NN 多_AD 泉_VA 的_DEC 机构_NN 被_SB 迁移_VV 到_VV 卡_NN 罗顿_NN ，_PU 自此_AD 该_DT 地点_NN 重新_AD 集中_VV 到_VV 晶圆_NN 测试_VV 上_LC 。_PU
+
+1981_CD 年_M SGS_NN -_PU Thomson_NN （_PU 现时_NT 的_DEG 意法_NN 半导体_NN ）_PU 於_P 马_NN 耳他_NN 兴建_VV 其_PN 首个_NN 装配厂_NN ，_PU 至_P 2007_CD 年为_P 止意法_NN 半导体_NN 是_VC 该_DT 岛_NN 的_DEG 主要_JJ 雇主_NN
+於_P 1974_CD 年_M 汤姆_NN 逊_AD 建立_VV ，_PU 现为_AD 重要_VA 的_DEC 装配厂_NN
+拥有_VV 两_CD 家_M 装配厂_NN （_PU Bouskoura_NN 与_CC AïnSeba_NN â_NN ）_PU 及_CC 约_AD 4_CD ,_PU 000_CD 名_M 雇员_NN ，_PU 於_P 60年代_NT 由_P 汤姆_NN 逊_AD 建立_VV ，_PU 意_NN 法_NN 半导体_NN 是_VC 摩洛哥_NN 首_CD 个_M 输出品_NN 纳稅者_NN
+拥有_VV 设计_NN 中心_NN 及_CC 约_AD 160_CD 人_NN
+1994年_NT 10月_NT 27日_NT ，_PU 意法_NN 半导体_NN 与_CC 深圳市_NN 赛格_NN 集团簽_NN 订_VV 建设_VV 及_CC 开拓_VV 一_CD 间_LC 共有_VV 的_DEC 装配厂_NN 的_DEC 合约_NN （_PU 意_NN 法_NN 半导体_NN 拥有_VV 过_AS 半数_NN 的_DEG 60%_CD ）_PU ，_PU 名为_P 赛意法_NN 微电子_NN 有限_VA 公司_VA ，_PU 1996_CD 年_M 开始_VV 于_P 福田_NN 保稅区_NN 营运_NN 。_PU
+
+2008_CD 年意法_NN 半导体_NN 在_P 深圳_JJ 市龙_NN 岗区_NN 开设_VV 一_CD 间_NN 新_VA 的_DEC 装配厂_NN ，_PU 名为_P 意法_NN 半导体_NN 制造_NN （_PU 深圳_NR ）_PU 有限_NR 公司_NN 。_PU 2013_CD 年_M 7月欧_NN 洲总_NN 公司_NN 宣布_NN 意_NN 法_NN 半导体_NN 制造_NN （_PU 深圳_VA ）_PU 有限_VV 公司_NN 关闭_VV ，_PU 业务_VV 并_CC 入赛意法_VV 微电子_NN 有限_VA 公司_VA 。_PU
+
+意法_NN 半导体_NN 在_P 深圳_NN 的_DEG 硏发_NN 、_PU 设计_NN 、_PU 营业_NN 与_CC 销售部_NN 位于_VV 南山区_NN 高_VA 新科_JJ 技园_NN 。_PU
+这_DT 个_M 硏发_NN 地点_NN 是_VC 由_P 英国_NR 公司_NN Inmos_NN 设立_VV ，_PU 於_P 1978_CD 年_M 开始_VV 著_AS 手_NN 开发_VV 着_AS 名_M 的_DEG Transputer_NN 微_NN 处理器_NN ，_PU 在_P 1994_CD 年_M 收购_VV Inmos_NN 时_LC 同时_AD 取得_VV ，_PU 现时_NT 主要_AD 涉及_VV 设计家_NN 用_P 视频_NN 产品_NN （_PU 机顶盒_NN 、_PU DVD_NN ）_PU 全球_AD 定位_VV 系统_NN 与_CC 无线_JJ 局域网_NN 芯片_NN 与_P 随同_VA 的_DEC 软体_NN
+计有_VV 300_CD 人_NN 的_DEG 设计_NN 中心_NN
+是_VC 负责_NN 大部_NN 份意法_NN 半导体_NN 最_AD 高_JJ 管理_NN 的_DEG 地点_NN ，_PU 总计_AD 约_AD 有_VE 百多_CD 名_M 雇员_NN
+后勤_CS 总部_NN
+销售_NN 与_CC 支援_NN
+销售_VV 、_PU 设计_NN 与_CC 应用_NN 中心_NN
+设计_NN 中心_NN
+应用_NN 、_PU 设计_NN 与_CC 支援_NN
+支援_NN 、_PU 应用_NN 、_PU 设计_NN 与_CC 支援_NN
+设计_NN 中心_NN
+设计_NN 中心_NN
+营业部_NN
+设计_NN 与_CC 应用_NN 中心_NN
+营业部_NN 、_PU 设计_NN 与_CC 应用_NN 中心_NN
+营业部_NN
+营业部_NN
+营业部_NN
+销售_NN 与_CC 支援_NN
+1993_CD 年_M SGS_NN -_PU Thomson_NN 收购_VV 拥有_VV 一_CD 个_M 硏发_NN 中心_NN 与_CC 加工厂_NN 的_DEG 北电_NN 网络_NN 半导体_NN 机构_NN 。_PU 加工厂_NN 於_P 2000年_NT 关闭_VV ，_PU 但_CC 硏发_NN 中心_NN 、_PU 后端_NN 支援_NN 与_CC 销售_NN 仍_AD 在_P 该_DT 地点营_NN 运_VV
+设计_NN 中心_NN
+
+
+
+
+
+

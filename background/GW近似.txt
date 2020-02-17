@@ -1,0 +1,13 @@
+﻿GW近似_VV
+
+G_CD W_NN 近似_AD 用于_VV 计算_VV 多体_NN 系统_NN 中_LC 的_DEG 自能_NN 。_PU 利用_VV Green_NN 函数_NN G_NN 与_CC 含_VV 屏蔽_NN 的_DEG 相互_JJ 作用_NN W_NN 对_P 体系_NN 自_AD 能_VV 做_VV 展开_NN ：_PU
+G_CD W_NN 近似_AD 就_AD 是_VC 截取_VV 该_DT 展_NN 开式_NN 的_DEG 首项_NN ：_PU
+或者_CC 说_VV ，_PU 利用_VV W_NN 的_DEG Taylor_NN 级数_NN 对_P 自_AD 能_VV 进行_VV 展开_NN ，_PU G_CD W_M 近似_AD 保存_VV 了_AS W_NN 的_DEG 最_AD 低_JJ 阶项_NN 。_PU
+
+如果_CS 把_BA 含_VV 屏蔽_NN 效应_NN 的_DEC 相互_JJ 作用_NN W_NN 替换_VV 为_VC 纯_JJ Coulomb_NN 相互_AD 作用_VV 可以_VV 得到_VV 一般_JJ 的_DEG 自能展_NN 开式_VV ，_PU 这样_AD 就_AD 是_VC Hartree_NN -_PU F_CD ock_M 交换势_NN ，_PU 这_PN 在_P 涉及_VV 多_CD 体_M 问题_NN 的_DEC 教材_NN 中_LC 多_AD 有_VE 涉及_VV 。_PU 所以_AD ，_PU 不_AD 严格_VA 的_DEV 说_VV ，_PU GW_M 近似_AD 描述_VV 了_AS 一_CD 类_M 含_VV 屏蔽_NN 作用_NN 的_DEC Hartree_NN -_PU F_CD ock_M 自_AD 能_VV 。_PU
+
+在_P 固态_NN 系统_NN 中_LC ，_PU 含_VV W_NN 的_DEC 展开式_JJ 比_NN 只_AD 含_VV 纯_JJ Coulomb_NN 相互_AD 作用_VV 的_DEC 体系_NN 展开式_JJ 收敛_NN 要快_VV 。_PU 这_PN 是_VC 由于_P 媒质_NN 的_DEC 屏蔽_NN 作用_NN 削弱_VV 了_AS Coulomb_NN 相互_AD 作用_VV ，_PU 例如_AD ，_PU 如果_CS 把_BA 电子_NN 放_VV 在_P 介质_NN 中_LC ，_PU 由于_P 介质_NN 中_LC 其他_DT 电子_NN 的_DEG 极_NN 化_NN ，_PU 介质_NN 中_LC 其他_DT 点_NN 所_MSP 感受_VV 的_DEC 作用_NN 要_VV 比_P 纯_JJ 电子_NN 的_DEG Coulomb_NN 相互_AD 作用_VV 要_VV 小_VA ，_PU 所以_AD ，_PU W_NN 和_CC 纯_JJ Coulomb_NN 相互_AD 作用_VV 比_P 是_VC 一_CD 个_M 小_JJ 量_NN ，_PU 以_P W_NN 展开_VV 的_DEC 级数_NN 收敛_VV 应当_VV 更_AD 快_VA 。_PU
+
+
+
+

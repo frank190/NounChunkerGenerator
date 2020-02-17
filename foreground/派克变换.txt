@@ -1,0 +1,42 @@
+﻿派克_NN 变换_NN
+
+派克_NN 变换_NN （_PU 也_AD 译作_VV 帕克_NN 变换_NN ，_PU 英语_NN ：_PU Park_NN '_PU sTransformation_NN ）_PU ，_PU 是_VC 目前_NT 分析_VV 同_DT 步_M 电动机_NN 运行_NN 最_AD 常_AD 用_VV 的_DEC 一_CD 种_M 坐标_NN 变换_NN ，_PU 由_P 美国_NR 工程_NN 师派克_NN （_PU R_NN ._PU H_NN ._PU Park_NN ）_PU 在_P 1929_CD 年_M 提出_VV 。_PU 派克变换_VV 将_BA 定子_NN 的_DEG a_NN ,_PU b_NN ,_PU c_NN 三_CD 相_NN 电流_NN 投影_VV 到_VV 随着_P 转子_NN 旋转_VV 的_DEC 直轴_NN （_PU d_OD 轴_NN ）_PU ，_PU 交轴_NN （_PU q_OD 轴_NN ）_PU 与_CC 垂直于_VV dq_NN 平面_NN 的_DEC 零轴_NN （_PU 0_CD 轴_M ）_PU 上去_NR ，_PU 从而_AD 实现_VV 了_AS 对_P 定子_NN 电感_NN 矩阵_NN 的_DEC 对角化_NN ，_PU 对_P 同_DT 步_M 电动机_NN 的_DEG 运行_NN 分析_NN 起到_VV 了_AS 简化_NN 作用_NN 。_PU
+
+派克_NN 正_CC 变换_NN ：_PU
+
+逆_VV 变换_VV ：_PU
+
+派克_NN 变换_NN 也_AD 作用_VV 在_P 定子_NN 电压_NN 与_CC 定子_NN 绕_NN 组_NN 磁链_NN 上_LC ：_PU
+formula_NN __NN 3_CD ，_PU formula_NN
+
+磁链_NN 方程_NN ：_PU
+
+上_NN 式_NN 中_LC 的_DEG 电感_NN 系数_NN 矩阵_NN formula_NN 事实_NN 上_LC 都_AD 含有_VV 随_P 时间_NN 变化_VV 的_DEC 角度_NN 参数_NN ，_PU 使得_VV 方程_NN 求解_VV 困难_NN 。_PU
+
+现_AD 对等式_JJ 两_CD 边同_JJ 时左_NN 乘_VV formula_NN __NN 7_CD ，_PU 其中_NN formula_NN
+
+其中_NN formula_NN
+①_CD 变换_VV 后_LC 的_DEG 电感_NN 系数_NN 都_AD 变为_VV 常数_NN ，_PU 可以_VV 假想_P dd_NN 绕组_VV ，_PU qq_NN 绕组_NN 是_VC 固定_VV 在_P 转子_NN 上_LC 的_DEC ，_PU 相对_JJ 转子_NN 静止_NN 。_PU
+
+②派克_NN 变换阵_NN 对_P 定子_NN 自感_NN 矩阵_NN formula_NN 起到_VV 了_AS 对_P 角化_NN 的_DEG 作用_NN ，_PU 并_CC 消去_VV 了_AS 其中_NN 的_DEG 角度_NN 变量_NN 。_PU formula_NN 为_VC 其_PN 特征_NN 根_NN 。_PU
+
+③_CD 变换_VV 后定子_NN 和_CC 转子_NN 间_LC 的_DEG 互感_NN 系数_NN 不_AD 对称_VV ，_PU 这_PN 是_VC 由于_P 派克_NN 变换_NN 的_DEC 矩阵_NN 不_AD 是_VC 正_BA 交矩阵_NN 。_PU
+
+④_CD formula_NN 为_VC 直轴_NN 同步_AD 电感_NN 系数_NN ，_PU 其_PN 值_VV 相当于_VV 当_P 励_JJ 磁绕组_NN 开路_NN ，_PU 定子_NN 合成_VV 磁势_NN 产生_VV 单纯_JJ 直_NN 轴_NN 磁场_NN 时_LC ，_PU 任意_DT 一_CD 相定_JJ 子绕组_NN 的_DEG 自感_NN 系数_NN 。_PU
+
+电压_NN 方程_NN ：_PU
+
+现_AD 对等式_JJ 两_CD 边同_JJ 时左_NN 乘_VV formula_NN __NN 7_CD ，_PU 其中_NN formula_NN
+由_P formula_NN ，_PU <_PU br_NN >_PU
+
+对_P 两_CD 边_NN 求导_VV ，_PU 得_VV formula_NN ，_PU <_PU br_NN >_PU
+
+所以_AD formula_NN
+
+其中_NN formula_NN ，_PU 令_VV formula_NN
+于是_AD 有_VE formula_NN
+
+上式_JJ 右边_NN 第一_OD 项_M 为_P 绕组_NN 电阻_NN 的_DEC 压降_NN ，_PU 第二_OD 项_M 为_VC 变压器_NN 电势_NN ，_PU 第三_OD 项_M 为_VC 发电_NN 机电_NN 势_NN 或_CC 旋转_NN 电势_NN 。_PU
+
+
+

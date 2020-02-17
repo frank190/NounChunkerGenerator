@@ -1,0 +1,9 @@
+﻿直流_NN 溅射_NN
+
+在_P 直流_JJ 溅射_NN 中_LC ，_PU 在_P 靶_NN 和_CC 待_VV 涂覆_VV 的_DEC 基板_NN 之间_LC 施加_VV 几_CD 百伏_NN 的_DEC 直流_JJ 电压_NN ，_PU 因此_AD 它_PN 也_AD 被_SB 称为_VV 直流_JJ 电压_NN 溅射_NN 。_PU 靶_AD 形成_VV 负电极_NN ，_PU 基板_NN 形成_VV 带_VV 正电_NN 电极_NN 。_PU 通过_P 使用_NN （_PU 例如_AD ，_PU 作为_P 稀有_JJ 气体_NN 的_DEG 原子_NN 碰撞_NN 电离_NN 氩气_NN ）_PU 形成_VV 在_P 一_CD 个_M 气体_NN 空间_NN 的_DEC 等离子体_NN （_PU 氩低压_NN 等_ETC 离子体_NN ）_PU ，_PU 带_VV 负电荷_NN 的_DEC 电子_NN 和_CC 带_VV 正电荷_NN 气体_NN 离子_NN 诸如_AD Ar_NN 的_DEC 组件_NN ，_PU 或_CC 通过_P 在_P 基片_NN 的_DEG 方向_NN 上_LC 施加_VV 的_DEC 直流_JJ 电压_NN 目标_NN 。_PU 它_PN 在_P 目标_NN 上_LC 遇到_VV 永久_VA 的_DEC 正_JJ 离子_NN 流_NN ;_PU 因此_AD 名称_VV 叫_VV 直流_JJ 溅射_NN ，_PU 直流_NN 或_CC 直流_NN 溅射_NN 。_PU 在_P 与_P 目标_NN 颗粒_NN 撞击_VV 时_LC ，_PU 通过_P 动量_NN 传递_VV 从_P 目标_NN 喷射_VV 粒子_NN ，_PU 该_DT 动量_NN 传递_VV 在_P 基板_NN 方向_NN 上_LC 远离_VV 目标_NN 移动_VV 并_CC 在_P 那里_PN 作为_P 薄层_NN 沉积_NN （_PU 沉积_NN ）_PU 。_PU
+
+该_DT 方法_NN 的_DEG 主要_JJ 缺点_NN 是_VC 它_PN 只_AD 能_VV 用于_VV 导电靶_NN 材料_NN 。_PU 对于_P 电_NN 绝缘_NN 材料_NN ，_PU 将_AD 通过_P 目标_NN 和_CC 基板_NN 的_DEG 新电荷_NN 载体_NN 的_DEC 恒定_JJ 供应_NN 来_MSP 充电_VV ，_PU 因此_AD 补偿_VV 直流_JJ 电压场_NN 并_CC 阻碍_VV 溅射_NN 过程_NN ，_PU 因为_P 随后_NT 的_DEG 离子_NN 将_BA 被_SB 电_VV 击穿_VV 。_PU 另外_AD ，_PU 可_VV 实现_VV 的_DEC 溅射_NN 速率_NN 以及_CC 因此_AD 涂覆_VV 速率_NN 相对_AD 较_AD 低_VA ，_PU 因为_P 在_P 所_MSP 使用_VV 的_DEC 低压_NN 等_ETC 离子体_NN 中_LC 仅_AD 形成_VV 少量_NN 溅射_NN 气体_NN 离子_NN 。_PU
+
+上述_JJ 双电极_NN 变体_NN 也_AD 称为_VV 直流_JJ 二极管_NN 溅射_NN 。_PU 另外_AD ，_PU 还_AD 存在_VV 诸如_AD 直流_NN 三极管_NN 溅射_NN 的_DEC 其他_DT 形式_NN ，_PU 其中_NN 靶_NN 被_SB 布置_VV 为_VC 等离子_NN 体室_NN 外部_NN 的_DEC 第三_OD 电极_NN 。_PU 以_P 这_DT 种_M 方式_NN ，_PU 等离子体_NN 产生_VV 和_P 溅射_NN 过程_NN 可以_VV 解开_VV 耦合_NN 。_PU
+
+

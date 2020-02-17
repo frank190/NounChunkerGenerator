@@ -1,0 +1,65 @@
+﻿晶_NN 体管_NN
+
+晶体管_NN （_PU ）_PU ，_PU 早期_NN 音译_NN 为_VC 穿细_JJ 丝体_NN ，_PU 是_VC 一_CD 种_M 类似于_VV 阀门_NN 的_DEC -_PU {zh_NN -_PU cn_NN :_PU 固体_NN ;_PU zh_NN -_PU tw_NN :_PU 固态_NN ;_PU }-_PU -_PU {zh_NN -_PU cn_NN :_PU 半导体_NN 器件_NN ;_PU zh_NN -_PU tw_NN :_PU 半导体_NN 元件_NN ;_PU }_NN -_PU ，_PU 可以_VV 用于_VV 放大_VV 、_PU 开关_NN 、_PU 稳压_NN 、_PU 信号_NN 调制_VV 和_CC 许多_CD 其他_DT 功能_NN 。_PU 在_P 1947_CD 年_M ，_PU 由_P 约翰_NT ·_PU 巴丁_NN 、_PU 沃尔特_NN ·_PU 布喇顿_NN 和_CC 威廉_NN ·_PU 肖克_NN 利_NN 所_MSP 发明_NN 。_PU 当_P 时巴丁_NN 、_PU 布喇顿_NN 主要_AD 发明_VV 半导体_NN 三极体_NN ；_PU 肖克_NN 利_NN 则_AD 是_VC 发明_NN PN二极体_NN ，_PU 他们_PN 因为_P 半导体_NN 及_CC 电晶体_NN 效应_NN 的_DEC 研究_NN 获得_VV 1956_CD 年诺_NN 贝尔物_NN 理奖_NN 。_PU
+
+电晶体_NN 由_P 半导体_NN 材料_NN 组成_VV ，_PU 至少_AD 有_VE 三_CD 个_M 对外_NN 端点_NN （_PU 称为极_VV ）_PU ，_PU (_PU C_NN )_PU 集极_NN 、_PU (E)_NN 射极_NN 、_PU (B)_NN 基极_NN ，_PU 其中_NN (_PU B_NN )_PU 基极_NN 是_VC 控制极_NN ，_PU 另外_AD 两_CD 个_M 端点_NN 之间_LC 的_DEG 伏安_NN 特性_NN 关系_NN 是_VC 受到_VV 控制极_NN 的_DEC 非线性_JJ 电阻关_NN 系_NN 。_PU 晶体管_NN 基于_P 输入_VV 的_DEC 电流_NN 或_CC 电压_NN ，_PU 改变_VV 输出端_NN 的_DEG 阻抗_NN ，_PU 从而_AD 控制_VV 通过_P 输出端_NN 的_DEC 电流_NN ，_PU 因此_AD 晶体管_NN 可以_VV 作为_P 电流_NN 开关_NN ，_PU 而_CC 因为_P 晶体管_NN 输出_NN 信号_NN 的_DEC 功率_NN 可以_VV 大于_VV 输入_NN 信号_NN 的_DEC 功率_NN ，_PU 因此_AD 晶体管_NN 可以_VV 作为_P 电子_NN 放大器_NN 。_PU
+
+
+晶体管_NN 主要_AD 分为_VV 两_CD 大类_M ：_PU 双极性_JJ 晶体管_NN （_PU BJT_NN ）_PU 和_CC 场效_NN 应晶_NN 体管_NN （_PU F_CD ET_M ）_PU
+
+电晶体_NN 一般_AD 都_AD 有_VE 三_CD 个_M 极_NN ，_PU 其中_NN 一_CD 极_CC 兼任_AD 输入_VV 及_CC 输出_VV 端子_NN ，_PU (_PU B_NN )_PU 基极_NN 不_AD 能_VV 做_VV 输出_VV ，_PU (_PU C_NN )_PU 集极_NN 不_AD 能_VV 做_VV 输入_NN 之外_LC ，_PU 其余_DT 两_CD 个_M 极_AD 组成_VV 输入_NN 及_CC 输出对_NN 。_PU
+电晶体_NN 之所以_AD 如_P 此_DT 多_CD 用途_NN 在于_VV 其_PN 讯号_NN 放大_NN 能力_NN ，_PU 当_P 微细_JJ 讯号_NN 加於_VV 其中_NN 的_DEG 一_CD 对_M 极_AD 时_LC 便_AD 能_VV 控制_VV 在_P 另_DT 一_CD 对_M 极_AD 较_AD 大_VA 的_DEC 讯号_NN ，_PU 这_PN 特性_NN 叫_VV 增益_VV 。_PU
+
+当_P 电晶体_NN 於_P 线性_JJ 工作_NN 时_LC ，_PU 输出_VV 的_DEC 讯号_NN 与_P 输入_VV 的_DEC 讯息_NN 成_VV 比例_NN ，_PU 这时_NT 电晶体_NN 就_AD 成_VV 了_AS 一_CD 放大器_NN 。_PU 这_PN 是_VC 在_P 模拟_NN 电路_NN 中_LC 的_DEG 常用_JJ 方式_NN ，_PU 例如_AD 电子_NN 放大器_NN 、_PU 音频_NN 放大器_NN 、_PU 射频_NN 放大器_NN 、_PU 稳压_NN 电路_NN ；_PU
+
+当_P 电晶体_NN 的_DEG 输出_NN 不_AD 是_VC 完全_AD 关闭_VV 就_AD 是_VC 完全_AD 导通_VV 时_LC ，_PU 这时_NT 电晶体_NN 便是_AD 被_SB 用作_VV 开关_NN 使用_VV 。_PU 这_DT 种_M 方式_NN 主要_AD 用于_VV 数字_NN 电路_NN ，_PU 例如_AD 数字_NN 电路_NN 包括_VV 逻辑门_NN 、_PU 随机_AD 存取_VV 记忆体_NN （_PU RAM_NN ）_PU 和_CC 微_JJ 处理器_NN 。_PU 另外_AD 在_P 开关_NN 电源_NN 中_LC ，_PU 电晶体_NN 也_AD 是_VC 以_P 这_DT 种_M 方式_NN 工作_VV 。_PU
+
+而_AD 以_P 何_DT 种_M 形式_NN 工作_VV ，_PU 主要_AD 取决_VV 於_P 电晶体_NN 的_DEC 特性_NN 及_CC 外部_NN 电路_NN 的_DEG 设计_NN 。_PU
+
+双极性_JJ 晶体管_NN 的_DEG 三_CD 个_M 极_NN ，_PU 射极_NN （_PU Emitter_NN ）_PU 、_PU 基极_NN （_PU Base_NN ）_PU 和_CC 集极_NN （_PU Collector_NN ）_PU ;_PU 射极_NN 到_VV 基极_NN 的_DEC 微小_JJ 电流_NN ，_PU 会_VV 使得_VV 射极_NN 到_VV 集极_NN 之间_LC 的_DEG 阻抗_JJ 改变_NN ，_PU 从而_AD 改变_VV 流经_VV 的_DEC 电流_NN ；_PU
+
+场效_NN 应晶_NN 体管_NN 的_DEC 三_CD 个_M 极_NN ，_PU 源极_NN （_PU S_CD ource_M ）_PU 、_PU 闸_NN （_PU 栅_NN ）_PU 极_AD （_PU Gate_M ）_PU 和_CC 汲极_NN （_PU Dr_CD ain_M ）_PU 。_PU
+在_P 闸极_NN 与_P 源极_NN 之间_LC 施加_VV 电压_NN 能够_VV 改变_VV 源极_NN 与_P 汲极_NN 之间_LC 的_DEG 阻抗_NN ，_PU 从而_AD 控制_VV 源极_NN 和_CC 汲极_NN 之间_LC 的_DEC 电流_NN 。_PU
+
+晶体管_NN 因为_VV 有_VE 三_CD 种_M 极性_NN ，_PU 所以_AD 也_AD 有_VE 三_CD 种_M 的_DEG 使用_NN 方式_NN ，_PU 分別_NN 是_VC 射极_NN 接地_NN （_PU 又称_JJ 共射_NN 放大_NN 、_PU CE_NN 组态_NN ）_PU 、_PU 基极_NN 接地_NN （_PU 又称_JJ 共基_NN 放大_NN 、_PU CB_NN 组态_NN ）_PU 和_CC 集极_JJ 接地_NN （_PU 又称共_JJ 集放_NN 大_VA 、_PU CC_NN 组态_NN 、_PU 射极_NN 随隅器_NN ）_PU 。_PU
+
+晶体管_NN 在_P 应用_NN 上_LC 有_VE 许多_CD 要_VV 注意_VV 的_DEC 最_AD 大_JJ 额定值_NN ，_PU 例如_AD 最_AD 大_JJ 电压_NN 、_PU 最_AD 大_JJ 电流_NN 、_PU 最_AD 大_JJ 功率_NN 。_PU 若_CS 在_P 超额_NN 的_DEC 状态_NN 下_LC 使用_VV ，_PU 会_VV 破坏_VV 晶体管_NN 内部_NN 的_DEG 结构_NN 。_PU 每_DT 种_M 型号_NN 的_DEG 晶体管_NN 还_AD 有像_P 是_VC 直流_JJ 放大率_NN h_NN 、_PU NF_NN 噪讯_NN 比_NN 等_ETC 特性_NN ，_PU 可以_VV 借由_VV 晶体管_NN 得知_VV 。_PU
+
+晶体管_NN 被_SB 认为_VV 是_VC 现代_JJ 历史_NN 中_LC 最_AD 伟大_VA 的_DEC 发明_NN 之一_LC ，_PU 可能_VV 是_VC 二十_CD 世纪_NN 最_AD 重要_VA 的_DEC 发明_NN ，_PU 它_PN 让收_VV 音机_NN 、_PU 计算器_NN 、_PU 电脑_NN 、_PU 以及_CC 相关_JJ 电子_NN 产品_NN 变得_VV 更_AD 小_VA 、_PU 更_AD 便宜_VA 。_PU
+
+在_P 重要性_JJ 方面_NN 可以_VV 与_P 印刷术_NN ，_PU 汽车_NN 和_CC 电话_NN 等_ETC 发明_NN 相提_VV 并_CC 论_NN 。_PU 晶体管_NN 是_VC 所有_DT 现代_NN 电器_NN 的_DEG 关键_JJ 主动_NN （_PU active_NN ）_PU 元件_NN 。_PU 晶体管_NN 在_P 当今_NT 社会_NN 如此_AD 重要_VA ，_PU 主要_AD 是_VC 因为_P 晶体管_NN 可以_VV 使用_VV 高度_NN 自_AD 动化_VV 的_DEC 过程_NN 进行_VV 大_JJ 规模_NN 生产_VV 的_DEC 能力_NN ，_PU 因而_AD 可以_VV 不_AD 可_VV 思议_VV 地_DEV 达到_VV 极_AD 低_VA 的_DEC 单位_NN 成本_NN 。_PU 1947_CD 年_M 贝尔_NN 实验室_NN 发明_NN 电晶体_NN 已_AD 被_SB 列在_VV IEEE_NN 里程_NN 碑列_NN 表_NN 中_LC 。_PU
+
+虽然_CS 数以_VV 百万_CD 计_VV 的_DEC 单体_JJ 晶体_NN 管还_AD 在_P 使用_VV ，_PU 绝_AD 大多数_CD 的_DEG 晶体管_NN 是_VC 和_P 二极管_NN ，_PU 电阻器_NN ，_PU 电容器_NN 一起_AD 被_SB 装配_VV 在_P 微芯片_NN （_PU 芯片_NN ）_PU 上_LC 制造_VV 完整_VA 的_DEC 电路_NN 。_PU 可能_VV 是_VC 模拟_VV 的_DEC 、_PU 数字_NN 的_SP ，_PU 或是_CC 混合_VV 的_DEC 芯片_NN 上_LC 。_PU 设计_VV 和_CC 开发_VV 复杂_CD 芯片_NN 的_DEG 成本_NN 是_VC 相当_AD 高_VA 的_DEC ，_PU 但是_AD 若_CS 分摊_VV 到_VV 百万_CD 个_M 生产_NN 单位_NN 上_LC ，_PU 对_P 每_DT 个_M 芯片_NN 价格_NN 的_DEG 影响_NN 就_AD 不_AD 大_VA 的_DEC 。_PU 一_CD 个_M 逻辑门_NN 包含_VV 20_CD 个_M 晶体管_NN ，_PU 而_CC 2012_CD 年_M 一_CD 个_M 高级_JJ 的_DEG 微_JJ 处理器_NN 使用_VV 的_DEC 晶体管_NN 数量_NN 达_VV 14亿_CD 个_M 。_PU
+
+晶体管_NN 的_DEG 成本_NN ，_PU 灵活性_NN 和_CC 可靠性_NN 使得_VV 其_PN 成为_VV 非_JJ 机械_NN 任务_NN 的_DEG 通用_JJ 器件_NN ，_PU 例如_AD 数字_NN 计算_NN 。_PU 晶体管_NN 电路_NN 在_P 控制_NN 电器_NN 和_CC 机械_NN 的_DEC 应用_NN 上_LC ，_PU 也_AD 正_AD 在_P 取代_VV 电机_NN 设备_NN ，_PU 因为_P 它_PN 通常_AD 是_VC 更_AD 便宜_VA 而_CC 有效_VA ，_PU 使用_VV 电子_NN 控制_NN 时_LC ，_PU 可以_VV 使用_VV 标准_NN 集成_JJ 电路_NN 并_CC 编写_VV 计算机_NN 程序_NN 来_MSP 完成_VV 一_CD 个_M 机械_NN 控制_NN 同样_VA 的_DEC 任务_NN 。_PU
+
+因为_P 晶体管_NN 和_CC 后来_VV 的_DEC 电子_NN 计算机_NN 的_DEG 低_JJ 成本_NN ，_PU 开始_VV 了_AS 数字化_NN 信息_NN 的_DEC 浪潮_NN 。_PU 由于_P 计算机_NN 提供_VV 快速_VA 的_DEC 查找_NN 、_PU 分类_NN 和_CC 处理_NN 数字_NN 信息_NN 的_DEC 能力_NN ，_PU 在_P 信息_NN 数字化_NN 方面_NN 投入_VV 了_AS 越来越_AD 多_VA 的_DEC 精力_NN 。_PU 今天_NT 的_DEG 许多_JJ 媒体_NN 是_VC 通过_P 电子_NN 形式_NN 发布_VV 的_DEC ，_PU 最终_AD 通过_P 计算机_NN 转化_VV 和_CC 呈现_VV 为_VC 模拟_JJ 形式_NN 。_PU 受到_VV 数字化_NN 革命_NN 影响_VV 的_DEC 领域_NN 包括_VV 电视_NN ，_PU 广播_NN 和_CC 报纸_NN 。_PU
+
+在_P 电晶体_NN 发展_NN 之前_LC ，_PU 真空管_NN 是_VC 电子_NN 设备_NN 中_LC 主要_VA 的_DEC 功率_NN 元件_NN 。_PU
+
+电晶体_NN 因为_P 有_VE 以下_JJ 的_DEG 优点_NN ，_PU 因此_AD 可以_VV 在_P 大多数_CD 应用_NN 中_LC 代替_VV 真空管_NN ：_PU
+
+相较_AD 於_P 真空管_NN ，_PU 电晶体_NN 也_AD 有_VE 以下_JJ 的_DEG 限制_NN ：_PU
+
+
+电晶体_NN 可以_VV 依_P 以下_JJ 的_DEG 方式_NN 分类_VV ：_PU
+
+现在_NT 也_AD 已_AD 发明_VV 许多_CD 新_JJ 类型_NN 的_DEG 晶体管_NN 。_PU 已_AD 有_VE 在_P 低温_NN 下_LC 操作_VV 的_DEC 单电子_NN 晶体管_NN （_PU singleelectrontransistorSET_NN ）_PU ，_PU 以及_CC 单_JJ 原子_NN 晶体管_NN （_PU singleatomtransistorSAT_NN ）_PU
+，_PU 其中_NN ，_PU 原子_NN 是_VC 个别_AD 地_DEV 植入_VV 。_PU
+
+双极性_JJ 电晶体_NN 同时_AD 利用_VV 半导体_NN 中_LC 的_DEC 多数_CD 载子_NN 及_CC 少数_CD 载子_NN 导通_NN ，_PU 因此_AD 得名_VV 。_PU 双极性_JJ 电晶体_NN 是_VC 第一_OD 个_M 量产_NN 的_DEG 电晶体_NN ，_PU 是_VC 由_P 二_CD 种_M 不同_JJ 接面_NN 的_DEC 二极体_NN 组成_VV ，_PU 其_PN 结构_NN 可_VV 分为_VV 二_CD 层_M N_CD 型_NN 半导体_NN 中_LC 间夹_VV 一_CD 层_M P_NN 型_NN 半导体_NN 的_DEG NPN_NN 电晶体_NN ，_PU 以及_CC 二_CD 层_M P_NN 型_NN 半导体_NN 中_LC 间夹_VV 一_CD 层_M N_CD 型_NN 半导体_NN 的_DEG PNP_NN 电晶体_NN 。_PU 因此_AD 会_VV 有_VE 二_CD 个_M PN_NN 结_NN ，_PU 分別_NN 是_VC 基极_NN -_PU 射极_NN 接面_NN 及_CC 基极_NN -_PU 集极_JJ 接面_NN ，_PU 中间_NN 隔着_VV 一_CD 层_M 的_DEG 半导体_NN ，_PU 即_AD 为_P 基极_NN 。_PU
+
+双极性_JJ 电晶体_NN 和_CC 场效_NN 应电_NN 晶体_NN 不同_VA ，_PU 双极性_JJ 电晶体_NN 是_VC 低_JJ 输入阻_NN 抗_VV 的_DEC 元件_NN 。_PU 当_P 基集_NN 极_NN 电压_NN （_PU "_PU V_NN "_PU ）_PU 提高_VV 时_LC ，_PU 集极_NN 射极_NN 电流_NN （_PU "_PU I_NN "_PU ）_PU 会_VV 依_P 肖_NN 克基_NN 模型_NN 及_CC 艾伯_JJ 斯_NN -_PU 莫尔_NN 模型_NN ，_PU 以_P 指数_NN 形式_NN 增加_VV 。_PU 因此_AD 双极性_JJ 电晶体_NN 的_DEC 跨导_NN 比_P F_CD ET_NN 要高_VV 。_PU
+
+双极性_JJ 电晶体_NN 也_AD 可以_VV 设计_VV 为_VC 受到_VV 光_AD 照射_VV 时_LC 导通_VV ，_PU 因为_P 基极_NN 吸收_VV 光子_NN 会_VV 产生_VV 光电流_NN ，_PU 其_PN 效应类_NN 似基极_NN 电流_NN ，_PU 集极_NN 电流_NN 一般_AD 是_VC 光电流_NN 的_DEC β倍_NN ，_PU 这_DT 类_M 的_DEG 电晶体_NN 一般_AD 会_VV 在_P 封装_NN 上_LC 有_VE 一_CD 透明_VA 窗_LC ，_PU 称为_VV 光电_NN 晶体_NN 。_PU
+
+场效_NN 应电_NN 晶体_NN 利用_VV 电子_NN （_PU N_CD 通道_NN F_CD ET_NR ）_PU 或_CC 是_VC 电洞_NN （_PU P_NN 通道_NN FET_CD ）_PU 导通_VV 电流_NN 。_PU 场效_NN 应电_NN 晶体_NN 都_AD 有_VE 闸极_NN （_PU gate_NN ）_PU 、_PU 汲极_NN （_PU drain_NN ）_PU 、_PU 源极_NN （_PU source_NN ）_PU 三_CD 个_M 极_NN ，_PU 若_CS 不_AD 是_VC 结型_JJ 场效_NN 应管_NN ，_PU 还_AD 会_VV 有_VE 一_CD 极_AD ，_PU 称为_VV 体_NN （_PU body_NN ）_PU 。_PU 大部份_NN 的_DEG 场效_NN 应_VV 电晶体_NN 中_LC ，_PU 体_NN （_PU body_NN ）_PU 会_VV 和_P 源极_NN 相连_VV 。_PU
+
+在_P 场效_NN 应电_NN 晶体_NN 中_LC ，_PU 源_NN 汲极_NN 电流_NN 会流_NN 过_AD 连接_VV 源极_NN 和_CC 汲极_NN 之间_LC 的_DEG 通道_NN ，_PU 导通_NN 程度_NN 会_VV 依_P 闸极_NN 和_CC 源极_NN 之间_LC 的_DEG 电压_NN 产生_VV 的_DEC 电场_NN 而_MSP 定_VV ，_PU 因此_AD 可以_VV 利用_VV 闸源极_NN 电压_NN 控制源_NN 汲极_NN 电流_NN ，_PU 做为_VV 一_CD 个_M 简单_VA 的_DEC 开关_NN 。_PU 当_P 闸源_NN 极_CC 电压_NN "_PU V_CD "_PU 变大_VV 时_LC ，_PU 若_NN "_PU V_NN "_PU 小于_P 临界_NN 电压_NN V_NN 时_LC ，_PU 源_NN 汲极_NN 电流_NN "_PU I_NN "_PU 会_VV 指数_NN 方式_NN 增加_VV ，_PU 若_CS "_PU V_NN "_PU 大于_P 临界_NN 电压_NN V_NN 时_LC ，_PU 源_NN 汲极_NN 电流_NN 和_CC 闸源极_NN 电压_NN 会_VV 有_VE 以下_JJ 的_DEG 平方关_NN 系_VC formula_NN
+场效_NN 应电_NN 晶体_NN 可以_VV 分为_VV 两_CD 种_M ：_PU 分別_NN 是_VC 结型_JJ 场效_NN 应管_NN （_PU JFET_NN ）_PU 及_CC 绝缘_JJ 闸极_NN 场效_NN 电晶体_NN （_PU IGFET_NN ）_PU ，_PU 后者_NN 最_AD 常见_VA 的_DEC 是_VC 金属_NN 氧化物_NN 半导体_NN 场效_NN 电晶体_NN （_PU MOSFET_NN ）_PU ，_PU 其_PN 名称_NN 上_LC 反映_VV 了_AS 其_PN 原始_AD 以_P 金属_NN （_PU 闸极_NN ）_PU 、_PU 氧化物_NN （_PU 绝缘层_NN ）_PU 及_CC 半导体_NN 组成_VV 的_DEC 架构_NN 。_PU 结型_JJ 场效_NN 应管_VV 在_P 源汲极_NN 之间_LC 形成_VV 了_AS PN二_CD 极体_NN 。_PU 因_P 此_DT N_CD 通道_NN 的_DEC JFET_NN 类似_JJ 真空管_NN 的_DEC 三极管_NN ，_PU 两_CD 者_NN 也_AD 都_AD 是_VC 运作_VV 在_P 空乏区_NN ，_PU 都_AD 有_VE 高_JJ 输入阻_NN 抗_VV ，_PU 也_AD 都_AD 用_P 输入_VV 电压_NN 来_MSP 控制_VV 电流_NN 。_PU
+
+
+
+
+
+

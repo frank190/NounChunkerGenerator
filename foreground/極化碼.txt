@@ -1,0 +1,13 @@
+﻿极化码_NN
+
+极_AD 化码_NN （_PU ）_PU 是_VC 一_CD 种_M 前_LC 向_P 错误_VV 更正_AD 编码_NN 方式_NN ，_PU 用于_VV 讯号_NN 传输_NN 。_PU
+
+构造_VV 的_DEC 核心_NN 是_VC 通过_P 信道_NN 极_CC 化_NN （_PU ）_PU 处理_VV ，_PU 在_P 编码_NN 侧_NN 采用_VV 方法_NN 使_VV 各_DT 个子_NN 信道_NN 呈现_VV 出_VV 不同_VA 的_DEC 可靠性_NN ，_PU 当_P 码长_NN 持续_AD 增加_VV 时_LC ，_PU 部分_NN 信道_NN 将_AD 趋向_VV 於_P 容量_NN 近_AD 于_P 1_CD 的_DEG 完美_NN 信道_NN （_PU 无_VE 误码_NN ）_PU ，_PU 另_DT 一_CD 部分_NN 信道_NN 趋向_VV 於_P 容量_NN 接近于_VV 0_CD 的_DEG 纯噪声_NN 信道_NN ，_PU 选择_VV 在_P 容量_NN 接近于_VV 1_CD 的_DEG 信道_NN 上_LC 直接_AD 传输_VV 信息_NN 以_P 逼近_VV 信道_NN 容量_VV ，_PU 是_VC 首个_AD 被_SB 证明_VV 能够_VV 达到_VV 香农_NN 极限_VV 的_DEC 方法_NN 。_PU
+
+在_P 解码侧_NN ，_PU 极化_VV 后_LC 的_DEG 信道_NN 可_VV 用_P 简单_VA 的_DEC 逐次_NN 干扰_VV 抵消_VV 解码_NN 的_DEC 方法_NN ，_PU 以_MSP 较_AD 低_VA 的_DEC 复杂度_NN 获得_VV 与_CC 最_AD 大_JJ 似然_JJ 解码_NN 相近_VV 的_DEC 性能_NN 。_PU
+
+2008_CD 年_M 在_P 国际_NN 信息论_NN ISIT_NN 会议_NN 上_LC ，_PU 土耳_VV 其_PN 毕尔_NN 肯_VV 大学_AD 埃达尔_NN ·_PU 阿利坎_NN （_PU ）_PU 教授_NN 首次_AD 提出_VV 了_AS 这_DT 个_M 信道_NN 极化_VV 的_DEC 概念_NN ，_PU 基于_P 该_DT 理论_NN ，_PU 他_PN 给出_VV 了_AS 人类_NN 已_AD 知_VV 的_DEC 第一_OD 种_M 能够_VV 被_SB 严格_AD 证明_VV 达到_VV 信道_NN 容量_NN 的_DEG 信道_NN 编码_NN 方法_NN ，_PU 并_CC 命名_VV 为_VC 极化码_NN 。_PU
+
+华为_P 2016_CD 宣布_NN 4_CD 月份_NN 率先_AD 完成_VV 中国_JJ IMT_NN -_PU 2020_CD （_PU 5G_CD ）_PU 推进_VV 组_VV 第一_OD 阶段_NN 的_DEC 空口_NN 关键_JJ 技术_NN 验证_NN 测试_NN ，_PU 在_P 5G_CD 信道_NN 编码_NN 领域_NN 全部_AD 使用_VV 极_JJ 化码_NN ，_PU 2016年_NT 11月_NT 17日_NT 国际_NN 无_VE 线标_NN 准化_NN 机构_NN 3G_CD PP_M 第87_OD 次_M 会议_NN 在_P 美国_NR 拉斯维加_VV 斯_DT 召开_NN ，_PU 中国_NR 华为_NR 主推_NN PolarCode_NN （_PU 极_AD 化码_NN ）_PU 方案_NN ，_PU 美国_NR 高通_JJ 主推_NN 低_JJ 密度_NN 奇偶检_NN 查码_NN （_PU LDPC_NN ）_PU 方案_NN ，_PU 法国_NR 主推_NN Turbo2_NN ._PU 0_CD 方案_NN ，_PU 最终_JJ 控制_NN 信道_NN 采用_VV 极化_NR 码_ETC ，_PU 数据_NN 信道_NN 采用_VV LDPC_NN 。_PU
+
+

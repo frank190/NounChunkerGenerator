@@ -1,0 +1,6 @@
+﻿哈尔_NN 平_VA －_PU 蔡模型_NN
+
+哈尔_CS 平_VA －_PU 蔡模型_JJ （_PU ）_PU 是_VC 一_CD 个_M 数学_NN 模型_NN ，_PU 可_VV 基_NN 於_P 充填物_NN 几何_CD 、_PU 填充物_NN 方向_NN 、_PU 填充物_NN 弹性_JJ 和_CC 基质_JJ 弹性_NN 等_ETC 来_MSP 预测_VV 复合_JJ 材料_NN 的_DEG 弹性_NN 。_PU 该_DT 模型基_NN 於_P 自我_P 一_CD 致场_NN 的_DEC 方法_NN ，_PU 但_CC 通常_AD 被_SB 视为_VV 经验_NN 模型_NN 。_PU
+
+
+

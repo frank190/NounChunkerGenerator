@@ -1,0 +1,21 @@
+﻿_AD 虚拟_JJ 摄影棚_NN
+
+虚拟_JJ 摄影棚_NN （_PU VirtualStudio_NN ）_PU 是_VC 一_CD 种_M 新型_JJ 的_DEG 摄影棚_NN 技术_NN 。_PU 经由_P 人员_NN 在_P 虚拟_JJ 摄影棚_NN 内_LC 拍摄_VV ，_PU 并_CC 经过_VV 后制_NN 系统_NN 计算_VV 合成_JJ 背景_NN 后_LC ，_PU 能_VV 产生_VV 与_P 传统_JJ 摄影棚_NN 效果_NN 甚_AD 异_VA 的_DEC 效果_NN 。_PU
+
+
+摄影机_NN 追踪_NN 系统_NN （_PU CameraTrackingSystem_NN ）_PU 计算_VV 摄影机_NN 机身_NN 及_CC 镜头_NN 的_DEG 移动量_NN ，_PU 并_CC 传送_VV 给_VV 电脑_NN ，_PU 以_P 作为_P 运算_NN 实景_NN 与_CC 虚景_NN 合成_VV 的_DEC 资料_NN 。_PU 主要_AD 可以_VV 分为_VV 四_CD 种_M ：_PU
+
+一_CD 个_M 非常_AD 接近_VV 传统_NN Key板_NN 的_DEG 摄影棚_NN 。_PU 其中_NN ，_PU 影子_NN 是_VC 构成_VV 实体_NN 感觉_NN 的_DEG 重要_JJ 元素_NN ，_PU 故_AD 摄影_VV 棚_NN 中_LC ，_PU 打光_NN 是_VC 很_AD 重要_VA 的_DEC 一_CD 个_M 要素_NN 。_PU
+
+由于_P 影像_VV 传输_VV 时_LC 与_P 电脑_NN 运算_NN 会_VV 发生_VV 时间_NN 不_AD 一致_VA ，_PU 这时_NT 候就_AD 需要_VV 影像_VV 延迟_VV 来_MSP 使_VV 两_CD 者_NN 於到_VV 达_VV Keyer_NN 时_LC 能够_VV 配合_VV 。_PU
+
+一般_AD 又_AD 称计_VV 算机_NN 图形学_NN 或_CC 电脑_NN 图学_NN ，_PU 使用_VV 电脑_NN 软件_NN 制作_VV 背景_NN 动画_NN 或_CC 影像_NN 。_PU
+
+即时_NT 运算_NN 系统_NN 结合_VV CG_NN 背景_NN 影像_VV 与_P 摄影机_NN 追踪_NN 系统_NN 的_DEG 资料_NN ，_PU 进行_VV 摄影机_NN 位置_NN 与_P 虚拟_JJ 场景_NN 相对_JJ 位置_NN 变化_VV 的_DEC 运算_NN 。_PU
+
+经过_P 各_DT 种_M 讯号_NN 与_CC 资料_NN 处理_VV ，_PU 最后_AD 由_P Keyer_NN 将_BA 影像_VV 讯号_NN 与_P 即时_NT 运算_NN 系统_NN 的_DEC 位置_NN 变化_NN 资料_NN 结合_VV ，_PU 将_BA 蓝_JJ /_PU 绿色_JJ 背景_NN 去除_VV 并且_CC 套上_VV CG_NN 背景_NN 。_PU
+
+
+
+
+

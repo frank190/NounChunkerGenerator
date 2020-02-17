@@ -1,0 +1,26 @@
+﻿浮力_NN
+
+浮力_NN 是_VC 指_VV 物体_NN 在_P 流体_NN （_PU 液体_NN 和_CC 气体_NN ）_PU 中_LC 受到_VV 的_DEC 力_NN ，_PU 方向_NN 与_P 其_PN 重量_NN 相反_VA 。_PU 浮力_NN 来自_VV 各_DT 表面_NN 受_VV 流体_NN （_PU 液体_NN 和_CC 气体_NN ）_PU 压力_NN 的_DEC 差_NN （_PU 合力_NN ）_PU 。_PU 浮力_NN 的_DEC 单位_NN 是_VC 牛顿_VA （_PU N_CD ）_PU 。_PU
+
+相传_JJ 叙拉_NN 古_JJ 赫农_NN 王让_NN 工匠_NN 替_P 他_PN 做_VV 了_AS 一_CD 顶_M 纯金_NN 的_DEG 王冠_NN 。_PU 但是_AD 在_P 做好_VV 后_LC ，_PU 国王_NN 疑心_NN 工匠_NN 做_VV 的_DEC 金冠_NN 并_AD 非_VC 纯_JJ 金制作_NN ，_PU 但_CC 这_DT 顶金_NN 冠_NOI 确_AD 与_P 当初_NT 交给_VV 金匠_NN 的_DEC 纯金_NN 一_CD 样重_NN 。_PU
+经_P 一_CD 大臣_NN 建议_VV ，_PU 国王_NN 请来_VV 阿_NN 基_NN 米德_NN 检验_VV 。_PU 最初_AD ，_PU 阿基米_NN 德_NN 也_AD 是_VC 冥思苦_NN 想_VV 而_CC 却_AD 无_VE 计_NN 可施_VV 。_PU 一_CD 天_M ，_PU 他_PN 在_P 家洗澡_NN ，_PU 当_P 他_PN 坐进_VV 澡盆_NN 里_LC 时_LC ，_PU 看到_VV 水_NN 往_P 外溢_NN ，_PU 同时_AD 感到_VV 身体_NN 被_SB 轻轻_AD 托起_VV 。_PU 他_PN 突然_JJ 悟到_NN 可以_VV 用_P 测定_JJ 固体_NN 在_P 水_NN 中_LC 排水量_NN 的_DEG 办法_NN ，_PU 来_MSP 确定_VV 金冠_NN 的_DEC 比重_NN 。_PU 他_PN 兴奋_VA 地_DEV 跳出_VV 澡_VV 盆_NN ，_PU 连_AD 衣服_NN 都_AD 顾_VV 不_AD 得穿_VV 上_LC 就_AD 跑_VV 了_AS 出去_VV ，_PU 大声_AD 喊着_VV “_PU Eureka_NN ！_PU Eureka_NN ！_PU ”_PU
+
+他_PN 经过_VV 了_AS 进一步_JJ 的_DEG 实验_NN 以后_LC ，_PU 便_AD 来到_VV 了_AS 王宫_NN ，_PU 他_PN 把_BA 王冠_NN 和_CC 同等_JJ 重量_NN 的_DEC 纯金_NN 放_VV 在_P 盛满_NN 水_NN 的_DEG 两_CD 个_M 盆里_NN ，_PU 比较_VV 两_CD 盆_M 溢_VV 出来_VV 的_DEC 水_NN ，_PU 发现_VV 放_VV 王冠_NN 的_DEC 盆里_NN 溢_VV 出来_VV 的_DEC 水_NN 比_P 另_DT 一_CD 盆_M 多_VA 。_PU 这_PN 就_AD 说明_VV 王冠_VV 的_DEC 体积_NN 比_NN 相同_JJ 重量_NN 的_DEC 纯金_NN 的_DEG 体积_NN 大_VA ，_PU 密度_NN 不_AD 相同_VA ，_PU 证明_VV 了_AS 王冠_NN 里_LC 掺进_VV 了_AS 白银_NN 。_PU
+
+这_DT 次_M 试验_NN 的_DEG 意义_NN 远远_AD 大过_AD 查出_VV 金匠_NN 欺骗_VV 国王_NN ，_PU 阿基米_NN 德从_NN 中_LC 发现_VV 了_AS 浮力_NN 定律_VV （_PU 阿基米_NN 德_NN 原理_NN ）_PU ：_PU 物体_NN 在_P 液体_NN 中_LC 所_MSP 获得_VV 的_DEC 浮力_NN ，_PU 等于_VV 物体_NN 所_MSP 排出_VV 液体_NN 的_DEG 重量_NN 。_PU
+
+
+
+
+
+说明_NN ：_PU 设物体_NN 受到_VV 流体_NN 的_DEC 浮力_NN 为_VC formula_NN __NN 1_CD ，_PU 受到_VV 流体_NN 浮力_NN 的_DEC 物体_NN 的_DEG 重力_NN 为_VC formula_NN __NN 13_CD ，_PU 受到_VV 流体_NN 浮力_NN 的_DEC 物体_NN 的_DEG 密度_NN 为_VC formula_NN __NN 14_CD ，_PU 流体_NN 的_DEG 密度_NN 为_VC formula_NN
+<_PU br_NN >_PU 证明_VV ：_PU 由_P 二力平_NN 衡关_NN 系得_VV ，_PU formula_NN __NN 1_CD formula_NN
+等式_JJ 两_CD 边_NN 同时_AD 除以_VV formula_NN __NN 20_CD 得_M ，_PU formula_NN
+所有_AD 在_P 水面_NN 上_LC 的_DEG 船只_NN ，_PU 包括_VV 在_P 上_NN 浮_OD 之后_LC 的_DEG 潜艇_NN ，_PU 它们_PN 所_MSP 受_VV 的_DEC 正浮力_NN 一定_AD 大于_VV 重力_NN 。_PU 所以_AD 如果_CS 要潜_NN 下去_LC ，_PU 潜艇_NN 必须_VV 得到_VV 更_AD 多_VA 的_DEC 负浮力_NN ，_PU 也就是说_AD 潜艇_VV 或者_CC 将_BA 自身_NN 的_DEG 重力_NN 大于_VV 其_PN 所_MSP 受_VV 浮力_NN ，_PU 或者_CC 降低_VV 其_PN 排水量_NN 。_PU 而_CC 相对于_P 排水量_NN （_PU 排水_NN 的_DEG 体积_NN ）_PU 的_DEG 控制_NN ，_PU 对于_P 重力_NN 的_DEC 控制_NN 则_AD 完全_AD 可以_VV 通过_P 装备_VV 一_CD 种_M 叫做_NN “_PU 沉_VV 浮箱_NN ”_PU 的_DEC 水箱_NN 来_MSP 控制_VV 。_PU 即_AD 通过_P 控制沉_NN 浮箱_NN 中_LC 的_DEG 注水_NN 情况_NN 来_MSP 改变_VV 潜艇_JJ 的_DEG 重力_NN 。_PU
+密度计_NN 是_VC 一_CD 种_M 测量_NN 液体_NN 密度_NN 的_DEC 仪器_NN 。_PU 它_PN 是_VC 根据_P 物体_NN 浮_VV 在_P 液体_NN 中_LC 所_MSP 受_VV 的_DEC 浮力_NN 等于_VV 重力_NN (_PU 公式_NN 表达_VV 为_VC formula_NN __NN 1_CD formula_NN
+
+从_P ③①式_JJ 可_VV 看出_VV ，_PU 待测_VV 液体_NN 的_DEG 密度_NN 与_CC 密度计_NN 排开_VV 液体_NN 的_DEG 体积_NN 成_VV 反比_NN 。_PU 液体_NN 的_DEG 密度_NN 越_AD 大_VA ，_PU 密度计_NN 排开_VV 液体_NN 的_DEG 体积_NN 就_AD 越_AD 小_VA 。_PU
+由_P ③式_NN 得_VA ，_PU formula_NN
+从_P ④式_NN 可以_VV 看出_VV 深度_NN formula_NN __NN 34_CD 与_P 液体_NN 密度_NN formula_NN __NN 14_CD 成_VV 反比_NN ，_PU 根据_P 反比例_NN 函数_NN 的_DEG 性质_NN ，_PU 当_P 密度_NN formula_NN __NN 14_CD 上升_VV 时_LC ，_PU 深度_NN formula_NN
+
+

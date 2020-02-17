@@ -1,0 +1,13 @@
+﻿Nod_VV eMCU_NR
+
+NodeMCU_CD 是_VC 一_CD 个_M 开源_NN 的_DEC 物联网_NN 平台_NN 。_PU 它_PN 使用_VV Lua_NN 脚_NN 本_DT 语言_NN 编程_NN 。_PU 该_DT 平台_NN 基于_VV eLua_NN 开源_NN 项目_NN ,_PU 底层_NN 使用_VV ESP_NN 8266_CD sdk0_NN ._PU 9_CD ._PU 5_CD 版本_NN 。_PU 该_DT 平台_NN 使用_VV 了_AS 很多_CD 开源_NN 项目_NN ,_PU 例如_AD lua_NN -_PU cjson_NN ,_PU spiffs.NodeMCU_NN 包含_VV 了_AS 可以_VV 运行_VV 在_P esp_NN 8266_CD Wi_NN -_PU FiSoC_NN 芯片_NN 之上_LC 的_DEC 固件_NN ,_PU 以及_CC 基于_VV ESP_NN -_PU 12_CD 模组_NN 的_DEC 硬件_NN 。_PU
+NodeMCUisstartedafterESP_VV 8266_NT comeout_NR ._PU InDecember_NR 30,2013_NN ,_PU EspressifsystemsbeginproductionofESP_NR 8266_NN ._PU ESP_NN 8266_CD isanWi_NN -_PU FiSoCandintegratedwithLX_NN 106_CD core_NN ,_PU widelyusedinIoTapplications_NN (Seerelatedprojects).In13Oct2014,Hongcommittedfirstfileofnodemcu-firmwaretogithub,NodeMCUprojectstarted.AndthenmoreandmoredevelopersfromESP8266opensourcecommunityjoininNodeMCUdeveloperteam.On1Dec2014,HuangRcommitthegerberfileofanESP8266board,thenNodeMCUprojecthavethefirstopen-hardwarewhichnameddevkit1.0,thusNodeMCUisnotonlyafirmware,itbecomesaplatform.In31Dec2014,TuanPMportMQTTclientlibraryfromContikitoESP8266SoCplatform,andcommittoNodeMCUproject,thenNodeMCUcansupportMQTTIoTprotocol,usingLuaaccessMQTTbroker,itisanimportantupdateoffirmware.Anotherimportantupdateisin30Jan2015,Devsaurusportu8glibtoNodeMCUproject,andNodeMCUcandriveLCD,Screen,OLED,evenVGAdisplaymoduleeasily._Err
+nodemcu0x00000_NN 对于_P 大多数_CD esp_NN 8266_CD 模块_NN ,_PU 直接_AD 拉低_VV GPIO0_NN 引脚_VV 的_DEC 电平_NN ，_PU 并且_CC 重新_VV 上_LC 电_NN 或_CC 重启_NN 。_PU 可以_VV 使用_VV nodemcu_NN -_PU flasher_NN 烧写_VV 固件_NN 。_PU
+
+特别_VA 的_DEC ，_PU 如果_CS 你_PN 想_VV 编译_VV /_PU 构建_VV 自己_PN 的_DEG 固件_NN ，_PU 需要_VV 注意_VV 以下_JJ 烧写_NN 地址_ETC ：_PU 0_CD x_M 0_CD 0_CD 0_CD 0_CD 0_CD ._PU bin_NN :_PU 0_CD x000000x10000_NN ._PU bin_NN :_PU 0x10000_NN
+
+注意_NN ，_PU "_PU 在_P 烧写_NN 之后_LC ，_PU 最好_AD 执行_VV file_NN ._PU format()_PU "_PU
+
+如果_CS 使用_VV NodeMCUdevkit_NN ,_PU 只_AD 需要_VV 安装_VV CH340G_NN 驱动_NN 程式_NN ,_PU 并且_CC 将_BA 开发_VV 模组_NN 使用_VV micro_NN -_PU usb_NN 线缆_NN 连接_VV 到_VV 个人_NN 计算机_NN 。_PU 然后_AD 将_BA 波特率_NN 设置_VV 到_VV 9600_NN ,_PU 并_CC 打开_VV 串行_NN 端口_NN 。_PU 若_CS 使用_VV 普通_VA 的_DEC esp_NN 8266_CD 模组_NN ,_PU 则_AD usb_NN -_PU ttl_NN 转接器_NN 是_VC 必_BA 需品_NN 。_PU
+
+

@@ -1,0 +1,26 @@
+﻿_CS 国际_NN 物理_NN 奥林_NN 匹_NN 克_NN
+
+国际_NN 物理_NN 奥林_NN 匹克_NN （_PU InternationalPhysicsOlympiad_NN ，_PU 简称_VV IPhO_NN ）_PU 是_VC 中学_JJ 生角_NN 逐_VV 的_DEC 物理_NN 竞赛_NN ，_PU 作为_VV 国际_NN 科学_NN 奥林匹_NN 克_NN 竞赛_VV 的_DEC 一_CD 种_M ，_PU 国际_NN 物理_NN 奥林匹_NN 克_CC 每_DT 年_M 举办_VV 一_CD 次_M 。_PU 第一_OD 届_M 于_P 1967_CD 年_M 在_P 波兰_NN 华沙_NN 举行_VV 。_PU
+
+每国_NR 一_CD 个_M 代表队_NN ，_PU 由_P 5_CD 名_M 学生_VV 选手_NN 和_CC 2位_NN 领队_NN 组成_VV ，_PU 观察_VV 员也_NN 可_VV 随_P 队_NN 。_PU 学生_VV 将_AD 会_VV 将_BA 个_M 人_NN 进行_VV 比赛_NN ，_PU 解答_VV 理论_NN 及_CC 实验性_NN 问题_NN 。_PU 学生_VV 表现_VV 成绩_NN 优异_VA ，_PU 可_VV 获得_VV 金_NN 、_PU 银_NN 、_PU 铜牌_NN 或_CC 证书_NN 。_PU
+
+早期_JJ 赛事_NN 参赛_NN 加国_VV 都_AD 是_VC 中欧_NN 国家_NN 。_PU 获邀参_NN 与_P 国家_NN 包括_VV 保加_VV 利亚_NN 、_PU 捷克_NN 斯_DT 洛伐克_NN 、_PU 匈牙利_NN 及_CC 罗马_NN 尼亚_NN （_PU 当中_NT 包括_VV 主办国_NN 波兰_NN ）_PU 每_DT 队_NN 有_VE 三_CD 名_M 中_LC 学生_VV 及_CC 一_CD 名_M 导师_NN 。_PU 第一_OD 届_M 学_VV 生需_NN 要_VV 解答_VV 四_CD 条_M 理论_NN 及_CC 一_CD 条_M 实验_NN 问题_NN 。_PU
+
+第二_OD 届_M 物理_NN 奥林_NN 匹克_NN 由_P Rezs_NN ő_NN Kunfalvi_NN 举行_VV ，_PU 在_P 匈牙_NN 利布_VV 达佩_VV 斯_DT 举行_NN 。_PU 八_CD 个_M 国家参_NN 与_P 角逐_NN 。_PU 东德_NN 、_PU 苏联_NN 及_CC 南斯_JJ 拉夫_NN 参与_VV 比赛_NN 。_PU 队_NN 中_LC 都_AD 是_VC 有_VE 三_CD 名_M 中_LC 学生_VV 及_CC 一_CD 名_M 导师_NN 。_PU 在_P 第二_OD 届举_NN 办前_AD 举行_VV 一_CD 场_M 淘汰赛_NN 。_PU
+
+第三_OD 届_M 由_P RostislavKostial_NN 教授_NN 在_P 捷克_NN 斯_DT 洛伐克_NN 布尔诺_NN 举行_VV 。_PU 该_DT 届_M 有_VE 五_CD 名_M 中_LC 学生_VV 及_CC 两_CD 名_M 导师_NN
+
+第四_OD 届_M 在_P 1970_CD 年_M 在_P 苏联_VV 莫斯科_AD 举行_VV 。_PU 每_DT 个_M 国家_NN 派出_VV 六_CD 名_M 学生_NN 及_CC 两_CD 名_M 领队_NN 。_PU 此_DT 届_M 比赛_NN 作出_VV 了_AS 少许_JJ 改动_NN 。_PU
+
+自_P 第五_OD 届_M 1971_CD 年_M 在_P 保加_VV 利亚索_NN 菲亚_NN 举行_VV ，_PU 每_DT 队_M 有_VE 五_CD 名_M 学生_NN 及_CC 两_CD 名_M 领队_NN 。_PU 1978_CD 年_M 及_CC 1980_CD 年_M 没有_VE 举办_JJ 国际_NN 物理_NN 奥林_NN 匹_NN 克_ETC 。_PU 因为_P 西方_NN 国家_NN 参赛_VV 的_DEC 影响_NN 。_PU 西德_NN 是_VC 第一_OD 个_M 参加_VV 此_DT 比赛_NN 的_DEC 资本_JJ 主义_NN 国家_NN 。_PU 因此_AD 东方_NN 国家_NN 取消_VV 1980_CD 年_M 及_CC 1982_CD 年_M 比赛_VV 。_PU 1982_CD 年_M 以后_LC ，_PU 西方_NN 国家_NN 可以_VV 自由_P 参赛_NN 。_PU 现在_NT 每年_NT 均_AD 会_VV 决定_VV 举行_VV 的_DEC 场地_NN ，_PU 每_DT 个_M 国家_NN 需要_VV 在_P 三_CD 年_M 内_LC 不_AD 能_VV 举行_VV 两_CD 次_M 比赛_NN 。_PU
+
+理论_JJ 测验_NN 最_AD 少_VA 五_CD 小时_M 及_CC 回答_VV 三_CD 条_M 问题_NN 。_PU 大多数_CD 问题_NN 都_AD 多于_VV 一_CD 个_M 部份_NN 。_PU 问题_NN 包括_VV 一_CD 条_M 或_CC 两_CD 条_M 实验题_NN ，_PU 需要_VV 五_CD 小时_AD 完成_VV 。_PU
+
+比赛最少_AD 举行_VV 两_CD 天_M 。_PU 第一_OD 天_M 是_VC 回答_NN 定理_VV 问题_NN （_PU 三_CD 个_M 问题_NN 至少_AD 分布_VV 在_P 四_CD 个_M 领域_NN 均_AD 在_P 中学_JJ 教授_NN 过_NN ，_PU 总分_AD 30_CD 分_M ）_PU 。_PU 另_DT 一_CD 天_M 是_VC 解答_VV 实验性_NN 的_DEC 问题_NN （_PU 一_CD 个_M 或_CC 两_CD 个_M 问题_NN ，_PU 总分_NT 20_CD 分_M ）_PU 。_PU 这_DT 两_CD 天_M 之间_LC 比赛_AD 会有_VV 至少_AD 一_CD 天_M 的_DEG 休息_NN 时间_NN 。_PU 两_CD 个_M 部份_NN 时间_NN 均_AD 为_VC 五_CD 小时_M 。_PU 队伍_OD 包括_VV 一般_JJ 的_DEG 专业_NN 中_LC 学生_VV （_PU 并非_CC 大学_CD ）_PU 。_PU 一般_JJ 来说队_NN 伍有_VV 五_CD 名_M 学生_NN 及_CC 一_CD 名_M 领队_NN ，_PU 一_CD 名_M 副_JJ 领队_NN ）_PU 。_PU
+
+拿到_VV 奥林匹克_NN 奖牌_NN 以及_CC 荣誉_NN 纪录_NN 是_VC 根据_P 以下_JJ 规则_VV 而_MSP 定_VV :_PU 获得_VV 金牌_NN 的_DEC 条件_NN 是_VC 成绩_VV 最_AD 好_VA 的_DEC 8%_CD 参_NN 加者_VV 。_PU 获得_VV 银牌_NN 的_DEC 条件_NN 是_VC 成绩_VV 最_AD 好_VA 的_DEC 25%_NN （_PU 减去_VV 金牌_NN 得主_VV ）_PU 参加者_NN 。_PU 获得_VV 铜牌_NN 的_DEC 条件_NN 是_VC 成绩_VV 最_AD 好_VA 的_DEC 50%_NN （_PU 减去_VV 金银牌_NN 得主_VV ）_PU 参加者_NN 。_PU 而_CC 最_AD 好_VA 的_DEC 67%_CD （_PU 减去_VV 金银_NN 铜牌_NN 得主_VV ）_PU 的_DEC 参加者_NN 可_VV 获得_VV 奖章_NN 。_PU 而_CC 所有_DT 参加者_NN 可_VV 获得_VV 参加_VV 证_NN 。_PU 最_AD 高者_VA 的_DEC 组合_NN 可_VV 获得_VV 特_BA 別_NN 奖金_NN 。_PU
+
+
+
+
+

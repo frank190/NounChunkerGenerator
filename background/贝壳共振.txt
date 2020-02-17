@@ -1,0 +1,9 @@
+﻿贝壳_NN 共_CC 振_NN
+
+贝壳_NN 共_CC 振_NN 是_VC 指_VV 将_BA 一_CD 个_M 空腔_NN 足够_VV 大_VA 的_DEC 贝壳_NN 放到_VV 耳边_NN ，_PU 可_VV 听到_VV 类似_JJ 海浪_NN 奔腾_VV 的_DEC 波涛声_NN 的_DEC 现象_NN 。_PU 早_AD 在_P 1845_CD 年_M ，_PU 阿未_NR 莉亚_NN ·_PU 韦尔_NN 比_NN 就_AD 已_AD 注意_VV 到_VV 把_BA 贝壳_NN 放到_VV 耳边_NN 所_MSP 听到_VV 的_DEC 共振声_NN ，_PU 但_CC 不_AD 知_VV 其_PN 来源_AD ；_PU 1915_CD 年_M ，_PU 鲁道夫_NN ·_PU 伯德_NN 莫_AD 在_P 他_PN 所_MSP 写_VV 的_DEC 科普书_NN 中_LC 就_AD 提出_VV 所_MSP 听到_VV 的_DEC 声音_NN 是_VC 周围_NN 环境_NN 噪声_NN 的_DEC 共振声_NN 。_PU
+
+现在_NT 已经_AD 清楚_VA ，_PU 从_P 贝壳_NN 内_LC 听到_VV 的_DEC 奔腾声_NN 是_VC 周围_NN 环境_NN 噪声_NN ，_PU 空气_NN 流动声_NN ，_PU 人类体_NN 内_LC 自身_PN 所_MSP 产生_VV 的_DEC 声_NN 和_CC 其它_DT 声音_NN 在_P 贝壳腔_NN 内_LC 发生_VV 共_AD 振_VA 的_DEC 声音_NN ；_PU 它_PN 不仅_AD 可以_VV 在_P 贝壳_NN 内_LC 发生_VV ，_PU 而且_CC 可_VV 在_P 任何_DT 适当_JJ 大小_NN 的_DEC 空腔_NN ，_PU 如_P 用_P 手_NN 窝成_VV 的_DEC 手腔_NN 内_LC ，_PU 发生_VV 。_PU
+
+贝壳_NN 共_AD 振_LB 声源_NN 来自_VV 周围_NN 环境_NN 的_DEC 噪声_NN 等_ETC 可以_VV 从_P 二_CD 方面_NN 得到_VV 证明_NN ：_PU
+
+

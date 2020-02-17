@@ -1,0 +1,9 @@
+﻿世_NN 界面_NN
+
+在_P 弦理论_NN 中_LC ，_PU 世界面_NN 是_VC 指弦_VV 在_P 时空_NN 中_LC 扫过_VV 的_DEC 二_CD 维_M 流形_NN 。_PU 这_DT 个_M 术语_NN 是_VC 1967_CD 年左_NN 右伦_NN 纳德_VV ·_PU 萨_BA 斯_DT 坎德_NN
+创造_VV 出来_VV 的_DEC ，_PU 它_PN 是_VC 对_P 狭义_NN 和_CC 广义_NN 相对_AD 论_NN 中_LC 点粒子_NN 的_DEC 世界线_NN 概念_VV 的_DEC 直接_JJ 推广_NN 。_PU
+
+弦_NN 的_DEG 类型_NN ，_PU 与_P 它_PN 所_MSP 传播_VV 的_DEC 时空_NN 的_DEC 几何_JJ 形状_NN 以及_CC 远距_JJ 离背景_NN 场论_NN (_PU 如_P 规范_NN 场论_NN )_PU 的_DEG 存在_NN ，_PU 都_AD 可以_VV 被_SB 编码_VV 成世_NN 界面_NN 上_LC 定义_VV 的_DEC 二维_JJ 共形场_NN 论 _NN 例如_AD ，_PU 26_CD 维_M Minkowski_NN 空间_NN 中_LC 的_DEG 玻色_NN 子弦_NN 具有_VV 由_P 26_CD 个_M 自由_JJ 标量场_NN 组成_VV 的_DEC 世界面_NN 场理_NN 论 _NN 同时_AD ，_PU 10_CD 维_CD 超弦世_NN 界面_NN 理论_NN 由_P 10_CD 个_M 自由_VA 的_DEC 标量场_NN 和_CC 它们_PN 的_DEG 费米_NN 超_VV 对称_AD 伴侣_VV 组成_VV 。_PU
+
+
+

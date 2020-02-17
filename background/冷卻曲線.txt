@@ -1,0 +1,7 @@
+﻿_CS 冷却_VV 曲线_NN
+
+冷却_JJ 曲线_NN （_PU coolingcurve_NN ）_PU 是_VC 表示_VV 物质_NN 相_AD 变化_VV 的_DEC 曲线_NN ，_PU 一般_AD 是_VC 由_P 液态_NN 到_VV 固态_NN 或是_CC 从_P 气态_NN 到_VV 固态_JJ 。_PU 其_PN 自_P 变量_NN （_PU X_NN 轴_NN ）_PU 是_VC 时间_NN ，_PU 应变量_NN （_PU Y_OD 轴_NN ）_PU 是_VC 温度_NN ，_PU 以下_NN 是_VC 一_CD 个_M 铸造_NN 中_LC 用到_VV 的_DEC 冷却_JJ 曲线_NN 。_PU
+
+冷却_JJ 曲线_NN 的_DEC 启始点_NN 是_VC 物质_NN 一_CD 开始_VV 时_LC 的_DEG 温度_NN ，_PU 图_NN 中_LC 称为_VV 是_VC pouringtemperature_NN 。_PU 当_P 相态_JJ 改变_NN 时_LC ，_PU 即_AD 为_VC thermalarrest_NN （_PU 热_AD 稳定_VA ）_PU ，_PU 是_VC 一_CD 段_M 温度_NN 恒_AD 定_VV 不_AD 变化_VV 的_DEC 区间_NN 。_PU 其_PN 原因_NN 是_VC 这_DT 段_M 期间_NN 内_LC ，_PU 物体_NN 中_LC 的_DEG 内能_NN 比_P 其_PN 冷却_VV 终点_NT 的_DEG 内能_NN 要高_VV ，_PU 而_CC 相_AD 变化_VV 的_DEC 能量_NN 差_AD 称为_VV latentheat_NN （_PU 潜热_NN ）_PU 。_PU coolingrate_NN （_PU 冷却率_NN ）_PU 是_VC 冷却_NR 曲线_NN 中_LC 的_DEG 斜率_NN 。_PU
+
+

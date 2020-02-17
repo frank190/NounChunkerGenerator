@@ -1,0 +1,14 @@
+﻿酚醛_NN 树脂_NN
+
+酚醛_NN 树脂_NN 是_VC 一_CD 种_M 合成_JJ 塑料_NN ，_PU 无色_JJ 或_CC 黄褐色_JJ 透明_JJ 固体_NN ，_PU 因_P 电气_NN 设备_NN 使用_VV 较_AD 多_VA ，_PU 也_AD 俗称_VV 电木_NN 。_PU 耐热性_NN 、_PU 耐燃性_NN 、_PU 耐水性_NN 和_CC 绝缘性_NN 优良_VA ，_PU 耐酸性_NN 较_AD 好_VA ，_PU 耐碱性_NN 差_VA ，_PU 机械_NN 和_CC 电气_NN 性能_NN 良好_VA ，_PU 易于_VV 切割_NN ，_PU 分为_VV 热固性_JJ 塑料_NN 和_CC 热塑性_JJ 塑料_NN 两_CD 类_M 。_PU 合成_VV 时_LC 加入_VV 不同_JJ 组分_NN ，_PU 可_VV 获得_VV 功能_NN 各_AD 异_VA 的_DEC 改性_NN 酚醛_NN 树脂_NN ，_PU 具有_VV 不同_VA 的_DEC 优良_NN 特性_NN ，_PU 如_P 耐碱性_NN 、_PU 耐磨性_NN 、_PU 耐油性_NN 、_PU 耐_VV 腐蚀性_NN 等_ETC 。_PU
+
+苯酚_NN 和_CC 甲醛在酸_NN 触媒_NN 或_CC 碱_NN 触媒_NN 条件_NN 下_LC 进行_VV 缩聚_NN ，_PU 生成_VV 酚醛_NN 树脂_NN 和_CC 水_NN 。_PU 热塑性_JJ 酚醛_NN 树脂_NN 需_VV 用_P 乌洛_NN 托品_NN 作_VV 固化剂_NN 。_PU
+苯酚_NN 和_CC 甲醛_NN 先行_VV 混合_NN ,_PU 再_AD 用_P 醋酸钠_NN 作为_VV 催化剂_NN ,_PU 即_AD 可_VV 生成_VV 酚醛树酯_NN ,_PU 这_DT 与_P 尿素_NN 甲醛树酯_NN 之_DEC 做法_NN 雷同_VA 。_PU
+
+酚醛_NN 树脂_NN 是_VC 德国_NR 化学_NN 家阿道_NN 夫_NN ·_PU 冯_NN ·_PU 拜尔_NN （_PU JohannFriedrichWilhelmAdolfvonBaeyer_NR ）_PU （_PU 1835_CD 年_M －_PU 1917_CD 年_M ）_PU 於_P 1872_CD 年_M 首次_JJ 合成_NN 。_PU 1907_CD 年_M ，_PU 出生_VV 于_P 比利_NN 时_LC 的_DEG 美国_NR 化学_NN 家利奥_NN ·_PU 亨德_NN 里克_LC ·_PU 贝克兰_NN （_PU LeoHendrikBaekeland_NN ，_PU 1863_CD 年_M －_PU 1944_CD 年_M ）_PU 改进_VV 了_AS 酚醛_NN 树脂_NN 的_DEG 生产_NN 技术_NN ，_PU 将_BA 树脂_NN 实用化_VV 、_PU 工业化_NN 。_PU 1910_CD 年_M ，_PU 他_PN 建立_VV 通用_JJ 贝克_NN 莱特_NR 公司_NN （_PU Genera_JJ lBakelite_NN ）_PU ，_PU 并用_VV 根据_P 自己_PN 的_DEG 名字_NN 赋予_VV 酚醛_NN 树脂_NN 商标名_NN “_PU Bakelite_NN ”_PU 。_PU
+
+
+常用_VV 的_DEC 改性_NN 酚醛_NN 树脂_NN 有_VE 以下_JJ 几_CD 种_M ：_PU
+
+
+

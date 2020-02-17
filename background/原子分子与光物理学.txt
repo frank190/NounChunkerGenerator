@@ -1,0 +1,110 @@
+﻿原子_NN 分子_NN 与_CC 光物_NN 理学_NN
+
+原子_NN 分子_NN 与_CC 光物_NN 理学_NN 是_VC 研究_NN 物质_NN 之间_LC ，_PU 或_CC 光_AD 与_P 物质_NN 的_DEG 相互_JJ 作用_NN ，_PU
+其_PN 研究_NN 尺度_NN 约_AD 一_CD 至_CC 数_CD 个_M 原子_NN ，_PU 能量_NN 尺度_NN 约_AD 几_CD 个_M 电子_NN 伏特_NN 。_PU
+这_DT 三_CD 个_M 物理学_NN 的_DEG 领域_NN 研究_NN 通常_AD 是_VC 紧密_AD 关联_VV 的_DEC 。_PU
+原子_NN 分子_NN 与_CC 光物_NN 理学_NN 使用_VV 经典物_NN 理学_NN 、_PU 半_CD 经典物_NN 理学_NN 、_PU 与_P 量子物_NN 理学_NN 的_DEG 研究_NN 方法_NN 。_PU
+通常_JJ 情况_NN 下_LC ，_PU 此_DT 理论_NN 的_DEC 应用_NN 包含_VV 原子_NN 发射_NN 或_CC 吸收_VV 光子_NN 、_PU 激发_VV 态_NN 原子_NN 和_CC 分子_NN 的_DEC 电磁_NN 辐射_NN 和_CC 散射_NN ，_PU 光谱_NN 分析_VV ，_PU 激光_NN 和_CC 激_JJ 微波_NN 的_DEC 产生_VV ，_PU 以及_CC 对_P 物质_NN 光学_NN 性质_NN 的_DEC 研究_NN 。_PU
+
+18_CD 世纪_NN ，_PU 道_NN 耳吞_NN 提出_VV 原子_NN 理论_NN ，_PU 认为_VV 一切物质_NN 由_P 不_AD 可_VV 分割_VV 的_DEC 原子_NN 组成_VV ，_PU 也就是_AD 由_P 化学_NN 元素_NN 组成_VV 。_PU 当时_NT 他们_PN 虽然_CS 不_AD 知道_VV 原子_NN 是_VC 什么_AD ，_PU 但_AD 可_VV 依据_P 它们_PN 的_DEG 性质_NN 分_ETC 门_NN 別_NN 类_LC ，_PU 19_CD 世纪_NN 中_LC 晚期_VV ，_PU 由_P 约翰_NR ·_PU 纽兰兹_NR 和_CC 门得_NR 列夫_NN 根据_P 他们_PN 的_DEG 性质_NN ，_PU 制成_VV 元素_NN 周期_NN 表_NN 。_PU
+
+19_CD 世纪_NN 时_LC ，_PU 许多_CD 科学_NN 家如_NN 菲涅耳_NN 、_PU 夫朗_NN 和_CC 斐等_NN ，_PU 试图_NN 解释_VV 光谱线_NN 的_DEC 现象_NN ，_PU 使得_VV 光物_NN 理学_NN 和_CC 原子_NN 物理_NN 结合_VV 在_P 一起_NN 。_PU
+
+到了_P 19_CD 世纪_NN 末_LC ，_PU 许多物_NN 理学_NN 家提_NN 出解_VV 释黑体_NN 辐射_NN 与_CC 原子_NN 光谱_NN 的_DEC 理论_NN ，_PU 其中_NN 最_AD 有名_VA 的_DEC 是_VC 波_M 耳解_JJ 释氢_NN 原子_NN 光谱_NN 的_DEC 玻耳_NN 模型_NN 。_PU
+
+但_AD 是_VC 玻耳_NN 模型_NN 的_DEG 适用_NN 范围_NN 较_AD 窄_VA ，_PU 无法_AD 解释_VV 如_P 光电_NN 效应_NN 、_PU 康普顿_NN 效应_NN 和_CC 太阳_NN 光谱线_NN 的_DEC 缺陷_NN 等_ETC ，_PU 最终_AD 产生_VV 全新_DT 的_DEG 物理_NN 理论_NN ：_PU 量子_NN 力学_NN 。_PU
+
+早期许多_AD 尝试_VV 解释_VV 折射率_NN 的_DEC 模型_NN 都_AD 认为_VV 原子_NN 系统_NN 中_LC 的_DEG 电子_NN 可_VV 以_P 用_P 保罗_NN ·_PU 德鲁德_NN 和_CC 亨德_NN 里克_LC ·_PU 洛伦兹_NN 的_DEC 经典理_NN 论来_VV 解释_VV 。_PU
+他们_PN 提出_VV 的_DEC 理论_NN 尝试_VV 给出_VV 物质_NN 的_DEC 折射率_NN 依赖于_VV 光_NN 波长_NN 的_DEC 解释_NN 。_PU
+在_P 这_DT 个_M 模型_NN 中_LC ，_PU 入射_NN 的_DEC 电磁波_NN 使得_VV 束缚_NN 与_CC 原子_NN 的_DEC 电子_NN 谐振_NN ，_PU 该_DT 振幅_NN 取决于_VV 入射光_NN 的_DEG 频率_NN 和_CC 谐振子_NN 的_DEC 本征_NN 频率_NN 。_PU
+来自于_VV 很_AD 多_JJ 谐振子_NN 的_DEG 出射_NN 光_AD 波_VA 的_DEC 线性_JJ 叠加_NN 将_BA 使得_VV 光波_NN 速度_NN 变慢_VV 。_PU
+1900_CD 年_M ，_PU 马克_NN 斯_NN ·_PU 普朗克_NN 提出_VV 了_AS 一_CD 个_M 公式_JJ 描述_JJ 空腔_NN 中_LC 达到_VV 热_JJ 平衡_NN 状态_NN 下_LC 电磁场_NN 的_DEG 性质_NN 的_DEC 公式_NN 。_PU
+他_PN 的_DEG 模型_NN 考虑_VV 了_AS 多_CD 个_M 驻波_NN 的_DEG 线性_JJ 叠加_NN 。_PU 在_P 一_CD 维_M 状态_NN 下_LC ，_PU 假设_VV 空腔_JJ 长度_NN 为_VC formula_NN
+且_P formula_NN
+这_DT 个_M 方程_NN 所_MSP 描述_VV 的_DEC 驻波_NN 可以_VV 表示_VV 为_VC
+其中_NN "_PU E_NN "_PU 是_VC 电场_NN 的_DEG 振幅_NN 。_PU
+以_P 此_PN 作为_VV 基础_NN ，_PU 就_AD 可以_VV 推导_VV 出_VV 普朗克_JJ 黑体_NN 辐射_NN 定律_NN 。_PU
+
+1911_CD 年_M ，_PU 欧内_NR 斯特_NR ·_PU 卢瑟福_NN 基于_VV α粒子_NN 散射_NN 实验_NN 的_DEG 结果_NN 总结_AD 得到_VV ，_PU 原子_NN 有_VE 一_CD 个_M 中心_NN 的_DEC 点状_NN 的_DEC 质子_NN 。_PU
+根据_P 库仑_NN 定律_VV ，_PU 电子_NN 在_P 小_JJ 尺度_NN 下_LC 会_VV 被_LB 质子_NN 强烈_AD 吸引_VV ，_PU 于_P 是他_AD 认为_VV 电子_NN 在_P 绕_VV 着_AS 质子_NN 做_VV 圆周_NN 运动_NN 。_PU
+1913_CD 年_M ，_PU 尼尔斯_NN ·_PU 玻尔_NN 结合_VV 了_AS 卢瑟福_NN 模型_NN 和_CC 普朗克_NN 的_DEG 量化_NN 概念_AD 提出_VV 了_AS 玻尔_NN 模型_NN 。_PU
+电子_NN 只有_AD 在_P 特定_JJ 的_DEG 轨道_NN 下_LC 在_P 可以_VV 稳定_VV 存在_VV ，_PU 并且_CC 不_AD 向外_AD 发光_VV 。_PU
+当_P 电子_NN 在_P 轨道_NN 之间_LC 跃迁_VV 时_LC ，_PU 电子_NN 可以_VV 发射_VV 或_CC 吸收光_NN ，_PU 光_NN 的_DEG 波长_NN 取决于_VV 不同_JJ 轨道_NN 之间_LC 的_DEG 能量_NN 差_VA 。_PU
+他_PN 的_DEG 能级_NN 理论_NN 预测_VV 的_DEC 结果_NN 与_P 当时_NT 的_DEG 实验_NN 结果_NN 吻合_VV 的_DEC 很_AD 好_VA 。_PU
+
+这些_DT 基于_P 驻波_NN 的_DEC 分立_NN 能_VV 级_PN 的_DEG 结果_NN ，_PU 与_P 连续_JJ 的_DEG 经典_NN 谐振子_NN 模型_NN 不_AD 一致_VA 。_PU
+
+阿尔伯_NR 特_ETC ·_PU 爱因_VV 斯_DT 坦_CD 在_P 1905_CD 年_M 的_DEG 光电_NN 效应_NN 解释_VV 中_LC ，_PU 提出_VV 了_AS 频率_NN 为_VC formula_NN __NN 5_CD 的_DEG 光波_NN 对应_VV 于_P 能量_NN 为_VC formula_NN
+1917_CD 年_M 爱因_VV 斯_DT 坦_NN 提出_VV 了_AS 三_CD 个_M 原子_NN 过程_NN ：_PU 受_VV 激_CD 辐射_NN ，_PU 自发_NN 辐射_NN ，_PU 和_CC 吸收_VV 光子_NN 来_MSP 扩充_VV 玻尔_NN 模型_NN 。_PU
+
+原子物_NN 理学_NN 是_VC 原子_NN 分子_NN 与_CC 光物_NN 理学_NN 的_DEC 一_CD 个_M 领域_NN ，_PU 通常_AD 研究_VV 原子核_NN 和_CC 电子_NN 组成_VV 的_DEC 孤立_NN 系统_NN 。_PU 与_CC 此_DT 相_AD 对应_VV 的_DEC 分子物_NN 理学_NN 通常_AD 研究_VV 分子_NN 的_DEC 物理_NN 性质_NN ，_PU 例如_AD 多_CD 个_M 原子_NN 散射_NN 构成_VV 分子_NN 的_DEC 过程_NN 。_PU
+"_PU 原子_NN 物理_NN "_PU 通常_AD 被_SB 认为_VV 与_P 核动力_NN 或_CC 核武器_NN 有关_VV ，_PU 这_PN 是_VC 对_P 两_CD 个_M 近_JJ 义词_NN “_PU 原子_NN 的_NN ”_PU (_NN atomic)_NN 和_CC “_PU 原子_NN 核_NN 的_DEG ”_PU (_NN nuclear_NN )_PU 的_DEG 概念_NN 混淆_VV 所致_VA 。_PU
+然而_AD ，_PU 对_P 物理_NN 学家_NN 而言_LC ，_PU 在_P 原子_NN 物理_NN 的_DEC 研究_NN 中_LC ——_PU 将_BA 原子_NN 作为_P 一_CD 个_M 整体_NN 系统_NN 包括_VV 原子核_NN 与_P 其_PN 核外_NN 电子_NN ；_PU 而_CC 在_P 核_NN 物理_NN 的_DEC 研究_NN 中_LC ——_PU 通常_AD 只_AD 考虑_VV 原子核_NN 及_CC 核子_NN 的_DEC 演变_NN 。_PU
+原子_NN 和_CC 分子物_NN 理学_NN 的_DEG 重要_JJ 实验_NN 方法_NN 通常_AD 包括_VV 不同_JJ 形式_NN 的_DEC 光谱学_NN 。_PU
+分子_NN 物理_NN 通常_AD 与_P 理论_JJ 化学_NN ，_PU 物理_NN 化学_NN ，_PU 和_CC 化学_NN 物理_NN 的_DEC 研究_NN 方向_NN 有_VE 交叠_VV 。_PU
+这_DT 两_CD 个_M 领域_NN 主要_AD 关注_VV 的_DEC 内容_NN 是_VC 和_P 电子_NN 结构_NN 改变_VV 的_DEC 动态_NN 过程_NN 。_PU
+一般_AD 来讲_VV 人们_NN 通常_AD 使用_VV 量子_NN 力学_NN 来_MSP 研究_VV 这些_DT 过程_NN 。_PU 在_P 分子物_NN 理学_NN 的_DEC 领域_NN ，_PU 这些_DT 方法_NN 也_AD 通常_AD 被_SB 称为_VV 量子_NN 化学_NN 。_PU
+分子物_NN 理学_NN 中_LC 一_CD 个_M 很_AD 重要_VA 的_DEC 方法_NN 是_VC ，_PU 将_BA 原子物_NN 理学_NN 中_LC 原子_NN 轨道_NN 理论_NN 延伸_VV 为_VC 分子_NN 轨道_NN 理论_VV 。_PU
+
+分子物_NN 理学_NN 通常_AD 关注_JJ 分子_NN 中_LC 的_DEG 原子_NN 过程_NN ，_PU 同时_AD 也_AD 关注_VV 不同_JJ 分子_NN 结构_NN 带来_VV 的_DEC 影响_NN 。_PU
+除了_P 原子_NN 中_LC 存在_VV 电子_NN 的_DEG 激_JJ 发态_NN ，_PU 分子_NN 也_AD 存在_VV 不同_VA 的_DEC 转动_NN 或_CC 振动_NN 激发_VV 态_NN 。_PU
+这些_DT 转动_NN 或_CC 振动_NN 过程_NN 也_AD 是_VC 量子化_NN 的_DEC ，_PU 它们_PN 存在_VV 分立_VV 的_DEC 能级_NN 。_PU
+不同_VA 的_DEC 转动量_NN 子态_NN 中_LC 存在_VV 的_DEC 最_AD 小_VA 的_DEC 能量_NN 差_NN 所_MSP 对应_VV 的_DEC 谱线_NN 通常_AD 在_P 远_JJ 红外_NN 区域_NN (_PU 大约_AD 30_CD -_PU 150_CD 微米_NN 波长_NN )_PU ，_PU 这_PN 也_AD 是_VC 纯_VA 的_DEC 分子_NN 转动_VV 谱线_NN 的_DEC 特征_NN ，_PU 而_CC 振动_JJ 谱线_NN 通常_AD 处于_VV 近_JJ 红外_NN 区域_NN （_PU 约_AD 1_CD -_PU 5_CD 微米_NN ）_PU 。_PU
+这_DT 种_M 光谱_NN 特性_NN 导致_VV 电子_NN 跃迁_NN 对应_VV 的_DEC 光子_NN 能量_NN 通常_AD 在_P 可见_JJ 光_NN 和_CC 紫外_NN 区域_NN 。_PU
+通过_P 测量_NN 分子_NN 的_DEG 转动_NN 和_CC 振动_JJ 光谱_NN 的_DEG 特性_NN ，_PU 我们_PN 可以_VV 计算_VV 出_VV 分子_NN 中_LC 原子核_NN 之间_LC 的_DEG 距离_NN 。_PU
+与_P 许多_CD 其他_DT 科学_NN 领域_NN 类似_NN ，_PU 并_CC 没有_VE 必要_JJ 严格_NN 的_DEG 区分_NN 这_DT 两_CD 个_M 领域_NN 。_PU 通常_AD 人们_VV 使用_VV “_PU 原子物_NN 理学_NN ”_PU 来_MSP 指_VV 代_M 广义_VA 的_DEC 原子_NN 分子_NN 与_CC 光物_NN 理学_NN 。_PU 原子_NN 分子_NN 与_CC 光物_NN 理学_NN 也_AD 被_SB 认为_VV 是_VC 物理_NN 学众多_AD 研究_NN 领域_NN 下_LC 的_DEG 一_CD 个_M 大_JJ 分类_M 。_PU
+
+光物_NN 理学_NN 通常_AD 研究_VV 电磁_NN 辐射_NN 的_DEC 产生_VV ，_PU 电磁_NN 辐射_NN 的_DEC 性质_NN ，_PU 以及_CC 电磁_NN 辐射_NN 与_CC 物质_NN 的_DEG 相互_JJ 作用_NN ，_PU 尤其_AD 是_VC 对_P 物质_NN 的_DEC 操控_NN 。_PU
+
+光物_NN 理学_NN 不同于_VV 光学_NN ，_PU 和_CC 光学_NN 工程_NN ，_PU 因为_P 他们_PN 研究_VV 的_DEC 侧重点_NN 不同_VA ；_PU 然而_CC 他们_PN 之间_LC 的_DEG 区别_NN 也_AD 不_AD 是_VC 很_AD 大_VA ，_PU 因为_P 光物_NN 理学_NN 基础_NN 研究_NN 中_LC 所_MSP 使用_VV 的_DEC 实验_NN 仪器_NN 也_AD 常_AD 被_SB 用于_VV 应用_VV 光学_NN 和_CC 光学_NN 工程_NN 。_PU
+也_AD 有_VE 一_CD 些人_NN 同时_AD 从事_VV 与_P 光学_NN 的_DEC 基础_NN 研究_NN 和_CC 应用_NN 技术_NN 的_DEG 开发_NN 。_PU
+光物_NN 理学_NN 的_DEC 研究者_NN 使用_VV 或者_CC 开发_VV 新_VA 的_DEC 光源_NN ，_PU 使得_VV 他们_PN 的_DEG 光源_NN 可以_VV 发出_VV 电磁_NN 波谱_NN 上_LC 从_P 微波_NN 到_VV X射线_NN 的_DEC 光_NN 。_PU
+这_DT 个_M 领域_NN 通常_AD 包括_VV 产生_VV 和_P 探测光_NN ，_PU 线型_NN 和_CC 非线性_JJ 光学_NN ，_PU 和_CC 光谱学_NN 。_PU 对_P 激光_NN 的_DEC 研究_NN 和_CC 激光_JJ 光谱学_NN 的_DEG 也_AD 是_VC 光学_NN 物理_NN 的_DEC 一_CD 个_M 重要_JJ 方向_NN 。_PU
+光物_NN 理学_NN 中_LC 主要_VV 的_DEC 研究_NN 方向_NN 为_VC 量子_NN 光学_NN 和_CC 相干性_NN ，_PU 以及_CC 高频_JJ 激光_NN 如_P 飞秒_NN 激光_NN 。_PU
+光物_NN 理学_NN 的_DEG 研究_NN 对于_P 其他_DT 研究_NN 领域_NN 也_AD 提供_VV 了_AS 很_AD 好_VA 的_DEC 理论_NN 和_CC 实验_NN 支持_NN ，_PU 如_P 孤立_JJ 原子_NN 对于_P 超短_VV 的_DEC 强电_JJ 磁场_NN 的_DEC 非线性_JJ 响应_NN ，_PU 原子_NN 和_CC 共振腔_NN 在_P 强_VA 场_M 下_LC 的_DEG 相互_JJ 作用_NN ，_PU 以及_CC 电磁场_NN 的_DEC 量子_NN 性质_NN 。_PU
+光物_NN 理学_NN 的_DEC 其他_DT 重要_JJ 研究_NN 方向_NN 包括_VV ，_PU 研发_VV 新型_JJ 纳米_NN 尺度_NN 的_DEC 光学_NN 观测_NN 技术_NN ，_PU 衍射_NN 光学_NN ，_PU 低_JJ 相干性_JJ 干涉学_NN ，_PU 光学_NN 相_AD 干断_VV 层_NN 扫描_NN ，_PU 以及_CC 近_JJ 场显_NN 微镜_NN 。_PU
+光物_NN 理学_NN 的_DEG 研究_NN 的_DEG 重点_NN 在于_VV 超快_VV ，_PU 超短_VV 的_DEC 光学_NN 及_CC 相关_JJ 技术_NN 。_PU
+光物_NN 理学_NN 的_DEG 应用_NN 使得_VV 通讯_NN ，_PU 医学_NN ，_PU 制造业_NN ，_PU 和_CC 娱乐业_NN 等_ETC 行业_NN 产生_VV 了_AS 进步_NN 。_PU
+现代_JJ 量子_NN 力学_NN 的_DEC 产生_NN 是_VC 基于_P 两_CD 套_M 理论_NN 体系_NN 的_DEG 提出_NN ：_PU 维_CD 尔纳_NN ·_PU 海森堡_NN 的_DEC 矩阵_NN 力学_NN 和_CC 埃尔温_NN ·_PU 薛定谔_NN 的_DEG 波动_NN 力学_NN 。_PU
+在_P 原子_NN 分子_NN 与_CC 光物_NN 理学_NN 中_LC 存在_VV 这_DT 多_CD 种_M 的_DEG 半_CD 经典_NN 方法_NN 。_PU 具体_AD 使用_VV 量子_NN 力学_NN 还_AD 是_VC 经典_NN 物理_NN 的_DEC 方法_NN 取决于_VV 具体_VA 的_DEC 问题_NN 。_PU
+原子_NN 分子_NN 与_CC 光物_NN 理学_NN 中_LC ，_PU 因为_P 近些_DT 年计_NN 算成_VV 本_DT 和_CC 计算_VV 复杂_CD 度_M 的_DEG 大幅_NN 下降_VV ，_PU 半_AD 经典_VV 的_DEC 处理_NN 方法_NN 被_SB 广泛_AD 用于_VV 计算_NN 物理_NN 中_LC 。_PU
+
+当_P 物质_NN 处于_VV 激光_NN 的_DEC 作用_NN 下_LC ，_PU 通常_AD 人们_NN 结合_VV 使用_VV 经典_PN 的_DEG 电磁场_NN 模型_NN 和_CC 完全_JJ 量子化_NN 的_DEC 原子_NN 或_CC 分子_NN 模型_NN 。_PU
+因为_AD 使用_VV 了_AS 经典_VV 的_DEC 电磁场_NN 模型_NN ，_PU 所以_AD 它_PN 不_AD 能_VV 处理_VV 自发_PN 辐射_NN 问题_NN 。_PU
+半_CD 经_P 典方_NN 法_NN 适用于_VV 多_CD 种_M 系统_NN ，_PU 尤其是_AD 处于_VV 高_JJ 强度_NN 激光下_NN 系统_NN 。_PU
+光物_NN 理学_NN 和_CC 量子_NN 光学_NN 的_DEG 区别_NN 在于_VV 前者_CC 使用_VV 半_CD 经典_NN 方法_NN ，_PU 而_CC 后者_NN 通常_AD 使用_VV 完全_VA 的_DEC 量子_NN 力学_NN 方法_NN 。_PU
+
+当_P 使用_VV 半_CD 经典_NN 方法_NN 研究_VV 碰撞_VV 的_DEC 动力学_NN 过程_NN 时_LC ，_PU 原子_NN 或_CC 分子_NN 内部_NN 的_DEG 自由度_NN 通常_AD 被_SB 考虑_VV 为_VC 量_NN 子化_VV 。_PU
+同时_AD 量子_NN 系统_NN 的_DEG 相对_JJ 移动_NN 被_SB 视为_VV 经典_NN 过程_NN 。_PU
+当_P 考虑_VV 中_LC 速_AD 或_CC 高速_AD 碰撞_VV 时_LC ，_PU 可以_VV 使用_VV 经典_NN 方法_NN 处理_VV 原子核_NN ，_PU 并_CC 用_P 完全_JJ 量子_NN 力学_NN 的_DEC 方法_NN 处理_NN 电子_NN ；_PU
+然而_AD 该_DT 近似_AD 在_P 低速_JJ 碰撞_NN 下_LC 失效_VV 。_PU
+
+另_DT 一_CD 种_M 半_AD 经典_VV 的_DEC 研究_NN 电子_NN 动力学_NN 的_DEC 方法_NN 是_VC 蒙_VV 特_P 卡罗_NN 方法_NN 。_PU
+通常_AD 可以_VV 用_P 完全_VA 的_DEC 量子_NN 力学_NN 方法_NN 计算_VV 出_VV 电子_NN 的_DEC 初始_JJ 分布_NN ，_PU 然后_AD 用_P 完全_VA 的_DEC 经典_NN 力学_NN 处理_NN 之后_LC 的_DEG 电子_NN 运动_NN 过程_NN 。_PU
+
+原子_NN 分子_NN 与_CC 光物_NN 理学_NN 通常_AD 认为_VV 原子_NN 或_CC 分子_NN 处于_VV 孤立_NN 状态_NN 。_PU
+原子_NN 模型_NN 只_AD 包括_VV 一_CD 个_M 原子核_NN ，_PU 及_CC 其_PN 周围_NN 环绕_VV 的_DEC 一_CD 个_M 或_CC 多_CD 个_M 束缚态_NN 电子_NN ，_PU 而_CC 最_AD 简单_VA 的_DEC 分子_NN 模型_NN 通常_AD 被_SB 认为_VV 是_VC 氢分子_NN 和_CC 氢分子_NN 离子_NN 。_PU
+通常_AD 被_SB 研究_VV 的_DEC 过程_NN 包括_VV ：_PU 电离_NN ，_PU 多_JJ 光子_NN 过程_NN ，_PU 以及_CC 光子_NN 或_CC 原子_NN 碰撞_NN 导致_VV 的_DEC 激发_NN 。_PU
+
+当_P 我们_PN 考虑_VV 的_DEC 孤立_JJ 原子_NN 或_CC 分子_NN 处于_VV 气态_NN 或_CC 等离子_NN 态_NN 时_LC ，_PU 如果_CS 分子_NN -_PU 分子_NN 相互_AD 作用_VV 的_DEC 时间_NN 尺度_NN 远大于_VV 原子_NN -_PU 分子_NN 过程_NN ，_PU 那么_AD 孤立_VV 原子_NN 或_CC 分子_NN 就_AD 是_VC 一_CD 个_M 很_AD 好_VA 的_DEC 近似_JJ 模型_NN 。_PU
+我们_PN 可以_VV 认为_P 单_CD 个_M 的_DEG 分子_NN 在_P 我们_PN 研究_VV 的_DEC 时间_NN 尺度_NN 下_LC 处于_VV 孤立_NN 状态_NN 。_PU
+根据_P 这_DT 个_M 假设_NN ，_PU 原子_NN 分子物_NN 理学_NN 也_AD 可以_VV 作为_P 等离子_NN 体物_NN 理学_NN 和_CC 大气物_NN 理学_NN 的_DEC 基础理论_NN ，_PU 即使_CS 它们_PN 研究_VV 的_DEC 是_VC 大量_CD 的_DEG 分子_NN 。_PU
+
+核外_NN 电子_NN 形成_VV 概念_NN 上_LC 的_DEC 壳层_NN 结构_NN ，_PU 然而_CC 实际上_AD 它们_PN 处于_VV 概率_NN 上_LC 的_DEG 电子_NN 云分布_NN 。_PU
+一_CD 个_M 原子_NN 的_DEG 最_AD 低_JJ 能级_NN 称为_VV 基态_NN ，_PU 它_PN 可以_VV 通过_P 吸收_VV 光子_NN ，_PU 受到_VV 磁场_NN 作用_NN ，_PU 或_CC 其他_DT 粒子_NN 的_DEC 碰撞_NN 来_MSP 变成_VV 激_JJ 发态_NN 。_PU
+
+当_P 电子_NN 处于_VV 壳层_NN 内_LC 时_LC 通常_AD 被_SB 称为_VV 束缚态_NN 。_PU 将_BA 该_DT 束_M 缚态_NN 电子_NN 移出_VV 其_PN 壳层_NN 及_CC 原子核_NN 的_DEC 吸引_VV 至_CC 无_VE 穷远_NN 所_MSP 需要_VV 的_DEC 能量_NN 被_SB 称为_VV 结合能_NN 。_PU
+如果_CS 电子_NN 吸收_NN 的_DEC 能量_NN 超过_VV 结合_NN 能_VV ，_PU 根据_P 能量_NN 守_VV 恒_AD 定律_VV ，_PU 过剩_VV 的_DEC 能量_NN 转化_VV 为_VC 电子_NN 的_DEG 动能_NN 。_PU
+该_DT 过程_NN 通常_AD 被_SB 称为_VV 电离_NN 过程_NN 。_PU
+
+如果_CS 电子_NN 吸收_NN 的_DEC 能量_NN 小于_VV 结合能_NN ，_PU 它_PN 将_AD 跃迁_VV 到_VV 一_CD 个_M 激发态_NN 或_CC 一_CD 个_M 。_PU
+经过_P 足够_JJ 长_JJ 时间_NN 之后_LC ，_PU 一_CD 个_M 激_JJ 发态_NN 的_DEC 电子_NN 通过_P 自发_JJ 辐射_NN 可以_VV 跃迁_VV 到_VV 一_CD 个_M 低_JJ 能级_NN 态_NN ，_PU 在_P 此_DT 过程_NN 中_LC 系统_NN 将_AD 释放_VV 一_CD 个_M 光子_NN 。_PU
+根据_P 能量_NN 守_VV 恒_AD 定律_VV ，_PU 该_DT 光子_NN 的_DEC 能量_NN 等于_VV 两_CD 个_M 原子_NN 能级_NN 的_DEC 能量_NN 差_VA 。_PU
+然而_AD ，_PU 如果_CS 原子_NN 内层_NN (_PU innershell_NN )_PU 存在_VV 一_CD 个_M 空穴_NN ，_PU 并且_CC 激发_VV 态_AS 的_DEC 电子_NN 可以_VV 跃迁_VV 并_CC 填补_VV 该_DT 空穴_NN ，_PU 该_DT 跃迁_NN 的_DEC 能量_NN 差_AD 可以_VV 转移_VV 至另外_AD 一_CD 个_M 束缚态_NN 电子_NN ，_PU 并_CC 使_VV 其_PN 电离_NN 。_PU
+这_PN 就_AD 是_VC 俄歇_NN 效应_NN ，_PU 在_P 该_DT 跃迁_NN 过程_NN 中_LC 并_AD 不_AD 会_VV 产生_VV 光子_NN 。_PU
+该_DT 效应_NN 使得_VV 一_CD 个_M 高能_JJ 入射_NN 电子_NN 或_CC 光子_NN （_PU 如_P X_NN -_PU 射线_NN )_PU 可以_VV 先_AD 电_VV 离_P 一_CD 个_M 内层_NN 电子_NN 产生_VV 空_JJ 穴_NN ，_PU 然后_AD 使_VV 高_PN 能_VV 级_P 电子_NN 向下_AD 跃迁_VV ，_PU 并_CC 通过_P 俄歇_NN 效应_NN 使得_VV 另_DT 一_CD 个_M 束缚态_NN 电子_NN 电离_NN 。_PU
+也_AD 就_AD 使得_VV 一_CD 个_M 入射_JJ 粒子_NN 电离_NN 两_CD 个_M 电子_NN 称为_VV 了_AS 可能_VV 。_PU
+
+由_P 吸收_VV 光子_NN 导致_VV 的_DEC 电子_NN 跃迁_NN 存在_VV 着_AS 严格_VA 的_DEC ，_PU 然而_AD 由_P 电子_NN 散射_NN 导致_VV 的_DEC 跃迁_NN 通常_AD 并_AD 没有_VV 这_DT 种_M 要求_NN 。_PU
+
+

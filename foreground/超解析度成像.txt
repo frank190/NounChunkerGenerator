@@ -1,0 +1,66 @@
+﻿超分_NN 辨率_VV 成像_NN
+
+超分_NN 辨率_VV 成像_NN （_PU Super_NN -_PU resolutionimaging_NN ，_PU 缩写_VV SR_M ）_PU ，_PU 是_VC 一_CD 种_M 提高_JJ 影片_NN 分辨率_NN 的_DEC 技术_NN 。_PU 在_P 一些_CD 称为_VV 「_PU 光学_NN SR_NN 」_PU 的_DEG SR_NN 技术_NN 中_LC ，_PU 系统_NN 的_DEG 绕射_NN 极限_AD 被_SB 超越_VV ；_PU 而_CC 在_P 其他_DT 所谓_JJ 的_DEG 「_PU 几何_JJ SR」_NN 中_LC ，_PU 数位_NN 感光_NN 元件_NN 的_DEC 分辨率_NN 因而_AD 提高_VV 。_PU 超分_NN 辨率_VV 成像_NN 技术_NN 用于_VV 一般图像_AD 处理_NN 和_CC 超高_JJ 分辨_NN 率显_VV 微镜_NN 。_PU
+
+在_P 2000_CD 年_M 以来_VV ，_PU 小_JJ 波_NN 变换_VV 的_DEC 技术_NN 被_SB 使用_VV 在_P 提高_VV 影像_VV 的_DEC 分辨率_NN 。_PU
+
+DASR(_CD Demirel_NN -_PU AnbarjafariSuperResolution_NR )_NN 是_VC 使用_VV 离散_PN 小波_NN 变换_NN （_PU Discretewavelettransform_NN ）_PU 来_MSP 进行_VV 超分_NN 辨率_VV 成像_VV 的_DEC 方法_NN 。_PU 当时_NT ，_PU 超_P 分辨率_NN 成像_VV 通常_AD 是_VC 以_P 内插_NN 影像_VV 的_DEC 像素值_NN 来_MSP 完成_VV ，_PU 而_CC 作_VV 者认_NN 为_VC ，_PU 对_P 影像_NN 中_LC 的_DEG 高频_JJ 部份_NN 进行_VV 内插_NN 是_VC 造成_VV 品质_NN 降低_VV 的_DEC 主_JJ 要理_NN 由_VA ，_PU 因为_P 内_LC 插高_VV 频部_NN 份让物体_NN 的_DEG 边界_NN 变得_VV 模糊_NN 且_CC 平_VA 滑_VV ，_PU 於_P 是_VC 提出_VV 使_VV 用_P 离散_NN 小_JJ 波_M 变换_NN 的_DEC 算法_NN 来_MSP 减轻_VV 这_DT 个_M 问题_NN 。_PU
+
+影像_AD 可以_VV 表示_VV 成_VV 二_CD 维_NN 的_DEG 讯号_NN ，_PU 经过_P 二_CD 维_NN 的_DEG 离散_NN 小_JJ 波_NN 变换_NN ，_PU 可以_VV 被_SB 分解_VV 成_VV 四_CD 个_M 不同_JJ 频段_NN 的_DEG 影像_NN ，_PU 分別_NN 是_VC ：_PU low_NN -_PU low_NN (_PU LL_NN )_PU ,_PU low_NN -_PU high_NN (_PU LH_NN )_PU ,_PU high_NN -_PU low_NN (_PU H_CD L)_M 和_CC high_NN -_PU high_NN (_PU H_CD H)_M ，_PU 各自_AD 代表_VV 在_P 不同_JJ 维度_NN 是_VC 高频_NN 或_CC 低频_NN ，_PU 举例_NN 来说_LC ，_PU LH_NN 就_AD 是_VC 在_P 原影_JJ 像_NN 的_DEG 第一_OD 维_M (_PU x_OD 轴_NN )_PU 是_VC 低_JJ 频而_NN 在_P 第二_OD 维_M (_PU y_NN 轴_NN )_PU 是_VC 高频_VA 的_DEC 分解_VV 后_LC 结果_NN 。_PU
+
+将_BA 原影_JJ 像分_NN 解为_VV LL_NN ,_PU LH_NN ,_PU HL_NN 和_CC HH_NN 后_LC ，_PU DASR_M 会_VV 对_P 高_JJ 频段_NN 的_DEC 三_CD 张_M 影像_NN LH_NN ,_PU HL_NN 和_CC HH_NN 分別_NN 做_VV 内_NN 插_VV ，_PU 以_P 产生_VV 高分_JJ 辨率_NN 的_DEG LH_NN ,_PU HL_NN 和_CC HH_NN 。_PU 这_AD 是_VC 由于_P 作者_AD 认为_VV ，_PU 将_BA 不同_VA 的_DEC 高频影_NN 像_P 各_DT 自做_NN 内_LC 插_VV ，_PU 能够_VV 避免_VV 彼此_PN 干扰_VV ，_PU 进而_AD 保留_VV 更_AD 多_VA 的_DEC 高频_JJ 资讯_NN 。_PU D_CD AS_M R_CC 不_AD 会_VV 内_LC 插_VV LL_NN ，_PU 而_CC 是_VC 内_JJ 插原图_NN 来_MSP 当作_VV 高分_JJ 辨率_NN 的_DEG LL_NN ，_PU 因为_P 原图_NN 比_P LL_NN 含有_VV 更_AD 多_VA 资讯_NN 。_PU 取得_VV 四_CD 张_M 高分_NN 辨率_NN 的_DEG LL_NN ,_PU LH_NN ,_PU HL_NN 和_CC HH_NN 后_LC ，_PU DASR_M 将_BA 四_CD 张_M 影像_VV 经过_P 逆离_VV 散_VV 小波_NN 变换_NN (_PU Inverseddiscretewavelettransform_NR )_ETC ，_PU 来_MSP 生成_VV 最终_JJ 的_DEG 成像_NN 结果_NN 。_PU
+
+DASR_CD 当时_AD 在_P Lena_NN ,_PU Elaine_NN ,_PU Pepper_NN 和_CC Baboon_NN 上_LC 取得_VV State_NR -_PU of_NN -_PU the_NN -_PU art_NN 的_DEG 结果_NN ，_PU 并_CC 超越_VV 传统_JJ 使用_NN 内_LC 插和_VV 其它_DT 使用_VV 离散_PN 小波_NN 变换_NN 的_DEC 方法_NN 。_PU
+
+随着_P 神经_NN 网路_NN 的_DEG 流行_NN ，_PU 相关_JJ 技术_NN 也_AD 被_SB 应用_VV 在_P 提高_VV 图片_NN 分辨率_NN 。_PU
+
+SRCNN(Super-resolutionconvolutionneuralnetwork)_PU 是_VC 一_CD 个_M 神经_JJ 网路_NN ，_PU 输入_VV 是_VC 一_CD 个_M 低_JJ 分辨率_NN （_PU 视觉_NN 上_LC ）_PU 的_DEC 图像_NN ，_PU 而_CC 输出_VV 是_VC 一_CD 个_M 高分_NN 辨率_NN 的_DEC 图像_NN ，_PU 这里_PN 需要_VV 注意_VV 的_DEC 是_VC ，_PU 在_P 将_BA 图_NN 像_P 餵_NN 进_VV 神经_NN 网路_NN 前_LC ，_PU 需要_VV 先_AD 经过_VV 一_CD 个_M 预处理_NN bicubicinterpolation_NN ，_PU 将_BA 原始_JJ 图片_NN 变成_VV 跟_P 想要_VA 的_DEC 高_JJ 分辨率_NN 图像_NN 一样_VA 大小_VA 后_LC ，_PU 再_AD 餵进_VV 神经_NN 网路_NN 中_LC 。_PU 而_CC 神经_NN 网路_NN 做_VV 的_DEC 事情_NN ，_PU 主要_AD 分成_VV 三_CD 个_M 步骤区_NN 块特_CC 征_VV 抽取_VV 与_P 表达_NN （_PU Patchextractionandrepresentation_NN ）_PU 、_PU 非线性_JJ 对应_NN （_PU non_NN -_PU linearmapping_NN ）_PU 以及_CC 重建_AD （_PU reconstruction_NN ）_PU 。_PU
+
+这_DT 一_CD 步_M 就_AD 如_P 同_DT 一_CD 般_NN 的_DEG CNN(convolutionneuralnetwork_NN )_NN ，_PU 只是_AD 没有_VV 经过_P max_NN -_PU pooling_NN ，_PU 公式_NN 如下_VV 。_PU
+formula_NN
+formulainterpolation_NN 的_DEC 图像_NN ，_PU formula_NN __NN 3_CD 则_AD 为_VC 这_DT 层_M 神经_NN 网路_NN 的_DEG 输出_NN ，_PU formula_NN __NN 4_CD 代_M 表_VV formula_NN __NN 5_CD 个_M formula_NN __NN 6_CD 的_DEG filter_NN （_PU formula_NN __NN 7_CD 是_VC 图像_VA 的_DEC channel_NN 数量_NN ，_PU 而_CC formula_NN __NN 8_CD 则_AD 为_VC filter_NN 的_DEG 大小_NN ）_PU ，_PU formula_NN __NN 9_OD 代_M 表卷积_NN （_PU convolution_NN ）_PU ，_PU formula_NN __NN 10_CD 是_VC 偏移量_NN （_PU bias_NN ）_PU ，_PU 最后_JJ 的_DEG formula_NN
+
+非_JJ 线性_JJ 对应_NN ，_PU 基本上_AD 就_AD 是_VC 持续_AD 利用_VV 一般_JJ CNN_NN 的_DEC 方式_NN 将_BA 前_DT 一_CD 步_M 每_DT 一_CD 块_M 的_DEG formula_NN __NN 5_CD 维_NN 的_DEG 特征_NN 向_VV 量_NN ，_PU 分_NN 別_NN 转换_VV 成_VV formula_NN
+formula_NN
+
+在_P 重建_VV 的_DEC 步骤_NN 中_LC ，_PU 我们_PN 要_VV 考虑_VV 的_DEC 是_VC 每_DT 一_CD 个_M 像素_NN 所_MSP 要_VV 的_DEC 值_NN 是_VC 多少_VA ，_PU 这_DT 个_M 步骤_NN 可以_VV 想成_VV 在_P 多_CD 个_M 相关_JJ 的_DEG 高维度_NN 的_DEG 特征_NN 向_P 量_NN 中_LC ，_PU 取_VV 一_CD 个_M 平均_VA ，_PU 很_AD 凑巧_VA 的_DEC ，_PU 这_PN 刚好_AD 也_AD 很_AD 像_P 一般_VA 的_DEC 卷积层_NN （_PU convolutionlayer_NN ）_PU ，_PU 公式_NN 如下_VV 。_PU
+formula_NN
+
+在_P SRCNN_NN 中_LC 所_MSP 采用_VV 的_DEC 差异_NN 函数_NN （_PU LossFunction_NN ）_PU 是_VC 简单_VA 的_DEC 平均_JJ 方根_NN 差_VA （_PU MeanSquareError_NN ）_PU ，_PU 定义_NN 为_VC 重建_VV 后_LC 的_DEG 相片_NN 每_DT 一_CD 个_M 像素_NN 与_CC 真正_NN 的_DEC 图片_NN 的_DEG 每_DT 一_CD 个_M 像素_NN 的_DEG 差异_NN ，_PU 公式_NN 如下_VV 。_PU
+formula_NN
+formula_NN __NN 17_CD 为_VC SRCNN_NN 的_DEC 参数_NN ，_PU formula_NN __NN 18_CD 为_VC 给定_VV 的_DEC SRCNN_NN 重_AD 建_VV formula_NN __NN 19_CD 的_DEG 图像_NN ，_PU formula_NN __NN 20_CD 则_AD 为_VC 真正_VA 的_DEC 高分_JJ 辨率_NN 图像_NN ，_PU formula_NN
+
+这_DT 篇_M 论文_NN 提供_VV 了_AS 一_CD 个_M 做法_NN ，_PU 可以_VV 应用_VV 在_P 图_NN 像_P 风格_NN 转移_NN （_PU StyleTransfer_NR ）_PU 以及_CC 超高_JJ 分辨率_NN （_PU Super_NN -_PU resolution_NN ）_PU 。_PU
+
+整_DT 个_M 系统_NN 由_P 两_CD 个_M 神经_JJ 网路_NN 组成_VV ，_PU 其中_NN 一_CD 个_M 是_VC 图像_NN 转移_NN 网路_NN formula_NN __NN 22_CD ，_PU 另_DT 一_CD 个_M 则_AD 是_VC 可以_VV 用来_VV 定义_VV 各_DT 种_M 差异_NN 的_DEG 差异_NN 网路_NN formula_NN
+
+图_NN 像_P 转移_NN 网路_NN 的_DEG 输入_NN 为_VC 一_CD 张_M 图像_NN ，_PU 输出_NN 也_AD 是_VC 一_CD 张_M 图像_NN ，_PU 而_CC 这_DT 个_M 网路_NN 的_DEC 参数_NN 以_P formula_NN
+
+这_DT 个_M 图像_NN 转移_NN 网路_NN 由_P 5_CD 个_M residualblock_NN 所_MSP 组成_VV ，_PU 而_CC 所有_DT 非_VC residual_NN 的_DEG convolutionlayer_NN 后面_NN 都_AD 会_VV 接上_VV batchnormalization_NN 。_PU 激活_JJ 函数_NN （_PU activationfunction_NR ）_PU 的_DEC 部分_NN ，_PU 除了_P 在_P 最后_JJ 的_DEG 输出层_NN （_PU outputlayer_NN ）_PU 使用_VV scaledtanh_NN 使得_VV 输出_VV 的_DEC 数值_NN 在_P 0_CD 到_CC 255_CD 之间_LC ，_PU 其他_DT 都_AD 是_VC 使用_VV RELU_NN 。_PU
+
+convolutionlayer_NN 的_DEG filter_NN （_PU kernel_NN ）_PU 的_DEG 数量_NN 上_LC ，_PU 第一_OD 层_M 和_CC 最_AD 后_JJ 一_CD 层_NN 使用_VV formula_NN __NN 26_CD 个_M ，_PU 其他_DT 层_NN 则_AD 是_VC 使用_VV formula_NN
+
+差异_NN 网路_NN 定义_VV 了_AS 各_DT 种_M 差异_NN 函数_NN （_PU lossfunction_NN ）_PU ，_PU 输入_VV 为_VC 两_CD 张_M 图像_NN ，_PU 一_CD 张_M 来自_VV 图像_NN 转移_NN 网路_NN ，_PU 一_CD 张_M 则_AD 是_VC 真正_VA 的_DEC 高分_JJ 辨率_NN 影像_VV ，_PU 输出_VV 为_VC 一_CD 个_M 实数_NN （_PU scalar_NN ）_PU 。_PU
+
+而_AD 这_DT 篇_M 论文_NN 所_MSP 使用_VV 的_DEC 差异_NN 网路_NN 是_VC 16_CD 层_M 的_DEG VGG_NN 网路_NN ，_PU 并_CC 事先_AD 利用_VV ImageNet_NN 训练_NN 过_NN 。_PU 差异_JJ 函数_NN 的_DEC 部分_NN ，_PU 使用_VV 了_AS 两_CD 个_M 不同于_VV 传统_NN 简单_VA 的_DEC 差异_NN 函数_NN 。_PU （_PU CHW_NN 代表_VV featuremap_NN 各_DT 个_M 维度_NN 的_DEG 数值_NN ）_PU
+
+这_DT 个_M 差异_JJ 函数_NN 的_DEG 设计_NN 理念_VA 在于_VV ，_PU 当_P 我们_PN 在_P 看_VV 两_CD 张_M 图片_NN 像_P 不_AD 像_VV 时_LC ，_PU 我们_PN 并_AD 不_AD 是_VC 一_CD 个_M 一_CD 个_M 像素_NN 的_DEC 比较_NN ，_PU 而_CC 是_VC 比较_P 两_CD 张_M 图片_NN 中_LC 的_DEG 特征_NN 像_P 不_AD 像_VV 。_PU 因此_AD ，_PU 他_PN 拿_VV 差异_NN 网路_NN 中_LC 某_DT 一_CD 层_NN 的_DEG 输出_NN ，_PU 当_P 作_VV 一_CD 个_M 图片_NN 特征值_NN ，_PU 再_AD 以_P 两_CD 张_M 图片_NN 的_DEG 特征_NN 值_NN 的_DEC EuclideanDistance_NN 当_P 作_VV 差异_NN 。_PU
+formula_NN
+
+除了_P 一般_JJ 的_DEG 特征_NN 以外_LC ，_PU 我们_PN 也_AD 会_VV 需要_VV 图像_VV 转移_NN 网路_NN 正确_VA 的_DEC 重建_JJ 颜色_NN 、_PU 材质_NN 等等_VV 的_DEC 内容_NN ，_PU 因此_AD 必须_VV 再_AD 加上_VV 风格_NN 重建_AD 差异_VV 函数_NN 。_PU
+在_P 定义_NN 风格_NN 重建_NN 差异_NN 之前_LC ，_PU 我们_PN 先_AD 定义_VV Gram_NN 矩阵_NN formula_NN
+formula_NN
+
+接着_AD 差异_VV 函数_NN 就_AD 可以_VV 定义_VV 为_VC
+formula_NN
+
+而_AD 一般_AD 比较_VV 每_DT 一_CD 个_M 像素_NN 差异_VA 的_DEC 差异_NN 函数_NN ，_PU 则_AD 可以_VV 写_VV 为_VC
+formula_NN
+
+有_VE 了_AS 这_DT 两_CD 个_M 网路_NN 后_LC ，_PU 训练_VV 图像_NN 转移_NN 网路_NN 的_DEC 方法_NN 则_AD 是_VC 最_AD 小化各式_JJ 差异_NN 函数_NN 的_DEG 权重_NN 和_CC （_PU weightedsum_NN ）_PU ，_PU 优化_VV 的_DEC 方法_NN 是_VC 梯度_NN 下降法_NN （_PU StochasticGradientDescent_VV （_PU l_NN (_PU )_NN 是_VC 差_JJ 异函数_NN （_PU lossfunction_NN ）_PU ）_PU ）_PU 。_PU
+formula_NN
+
+这_DT 篇_M 论文_NN 在_P 高分_NN 辨率_NN 图_NN 像_P 这_DT 个_M 传统_JJ 问题_NN 上_LC ，_PU 给_VV 了_AS 一_CD 个_M 快速_VA 且_CC 有效_VA 的_DEC 解法_NN ，_PU 快速_VA 的_DEC 原因_NN 在于_VV ，_PU 在_P 遇到_VV 一_CD 张_M 新_VA 的_DEC 图片_NN 时_LC ，_PU 只_AD 需要_VV 把_BA 图_NN 像_P 餵_NN 进_VV 图像_NN 转移_NN 网路_NN 就_AD 好_VA （_PU 一_CD 次_M forwardpass_NN ）_PU 。_PU 而_CC 在_P 结果_NN 上_LC ，_PU 也_AD 大大_AD 的_DEV 超越_VV 了_AS 之前_NT 的_DEG 做法_NN （_PU 一样_AD 使用_VV 深度_NN 神经_NN 网路_NN ）_PU SRCNN。_PU
+
+
+

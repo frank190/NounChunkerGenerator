@@ -1,0 +1,11 @@
+﻿_NN F_CD 理论_NN
+
+F_CD 理论_NN （_PU F_CD -_PU theory_NN ）_PU 为_VC 弦论衍_NN 生出_VV 的_DEC 词汇_NN ，_PU 可_VV 视为_VV M_NN 理论_NN （_PU Mother_NN -_PU theory_NN ）_PU 的_DEG 伴侣_NN ，_PU 但_CC 意义_NN 则_AD 有所_VV 不同_VA 。_PU 大略_AD 来说_VV ，_PU F_CD 理论_NN 是_VC 源自_VV IIB_NN 型弦理_NN 论_NN ，_PU 并_CC 借由_VV 非_VC 微扰_JJ 方式_NN 成立_VV 的_DEC 。_PU 此外_AD ，_PU IIB_NN 型弦论_NN 则_AD 是_VC 成效_VV 於_P 轴子_NN -_PU 伸缩_VV 子场_NN （_PU axio_NN -_PU dilatonfield_NN )_NN 。_PU
+
+F_CD 理论_NN 并_AD 不_AD 允许_VV 大一_CD 统理论_NN 模型_NN 建立_VV 在_P IIB_NN 型弦_NN 的_DEC 机制_NN ，_PU 而_CC IIB_NN 型弦_NN 则_AD 可以_VV 视为_P F_CD 理论_NN 的_DEC 弱耦合_NN 极限_VA 。_PU 此外_AD ，_PU M_NN 理_NN 论所_NN 对应_VV 的_DEC 是_VC 11_CD 维时空_M ，_PU 而_CC F_CD 理论_NN 则_AD 是_VC 对应_VV 12_CD 维_NN 。_PU 而_CC F_CD 理论_NN 亦_AD 可_VV 联系_VV 至_VV 弦_NN 论地景_NN 的_DEG 概念_NN ，_PU 以及_CC D_NN 膜_NN 的_DEG 交互_NN 作用_VV ，_PU 目前_NT 尚_AD 为_VC 弦论_NN 探讨_NN 中_LC 的_DEG 议题_NN 。_PU
+在_P 三维_NN 空间_NN 中_LC ,_PU 弦有_VV 二_CD 维横_NN 向_P 空间_NN ,_PU 轴子弦_NN 产生_VV 伸缩子_NN 背景场_NN 和_CC 一_CD 个_M 轴子场_NN ,_PU 合起_VV 来_MSP 也是_VV 一_CD 个_M 复标_JJ 量场_NN 。_PU 现在_NT 加上_VV 6_CD 维_M 纵向_JJ 空间_NN ,_PU 由_P 弦_NN 可以_VV 得到_VV D7膜_NN 。_PU 在_P 研究_NN 轴子_NN 弦_NN 的_DEC 时候_NN ，_PU 如果_CS 将_BA 复标量_NN 场解释_NN 为_VC 一_CD 个_M 二_CD 维环面_NN 的_DEG 复_NN 结构_NN 模_NN 可以_VV 很_AD 容易_AD 求解_VV 。_PU 在_P 二_CD 维_M 横向_NN 空间_NN 的_DEG 每_DT 一_CD 点_M 加上_VV 与_P 这_DT 个_M 模_NN 对应_VV 的_DEC 环面_NN ,_PU 我们_PN 得到_VV 一_CD 个_M 4_CD 维_NN 空间_NN 。_PU 如_P 果横_NN 向_P 空间_NN 是_VC 一_CD 个_M 球面_NN ,_PU 这_DT 个_M 4维_NN 空间_NN 就_AD 是_VC 一_CD 个_M K3_NN 流形_VV ,_PU 一_CD 个_M 4_CD 维_NN 的_DEG 卡拉比_NN -_PU 丘流形_NN 。_PU 这_DT 个_M K3_NN 流_NN 形叫_NN 球面_NN 上_LC 的_DEC 椭圆_JJ 纤维_NN ，_PU 每_DT 个_M 纤维_NN 是_VC 一_CD 个_M 环面_NN 。_PU 在_P 一_CD 个_M D7膜_NN 上_LC ,_PU 环面_NN 有_VE 奇异性_NN ，_PU 缩小_VV 为_VC 一_CD 个_M 圆_VV 。_PU 加上_VV 二_CD 维球面_NN ,_PU 紧化_VV 空间_NN 就_AD 是_VC 4_CD 维_NN 的_DEG ,_PU 加上_VV 8_CD 维_M 非_AD 紧_JJ 时空_NN ，_PU 共_AD 有_VE 12_CD 维_M ，_PU 这样_PN 的_DEG 理论_NN 称为_VV F_CD 理论_NN 。_PU
+其中_NN ，_PU 二维环面_NN 被_SB 看成_VV 是_VC SL_NN (_PU 2_CD ,_PU Z)_CD 强弱_AD 对_P 偶_PN 的_DEG 几何_DT 实现_VV ，_PU 因为_P 该_DT 群_M 由_P 环面_NN 的_DEC 几何_JJ 对称性_NN 生成_VV 。_PU 但除_VV 了_AS 这_DT 个_M 复模_NN 参数_NN 之外_LC ,_PU 环面_NN 上_LC 没有_VV 其他_DT 场_M ，_PU 这些_DT 结果_NN 显然_AD 与_P M_NN 理论_VV 有_VE 所_MSP 不同_VA 。_PU
+
+
+
+

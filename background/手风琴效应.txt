@@ -1,0 +1,5 @@
+﻿手_NN 风琴_NN 效应_NN
+
+手风琴_NN 效应_NN （_PU 英文_NN ：_PU Accordioneffect_NN ）_PU 在_P 非线性_JJ 物理学_NN 中_LC 意指_VV 流通_NN 过程_NN 中_LC ，_PU 某_DT 段_M 流动_VV 的_DEC 元素_NN 所_MSP 出现_VV 的_DEC 不_AD 均匀_AD 涨落_VV 。_PU 这_DT 种_M 现象_NN 可_VV 在_P 交通_NN 、_PU 自行车_NN 比_P 赛_NN 和_CC 管道_NN 中_LC 流动_VV 物体_NN 涨落_VV 时_LC 出现_VV 。_PU
+
+

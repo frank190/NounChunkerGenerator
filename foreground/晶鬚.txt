@@ -1,0 +1,8 @@
+﻿晶须_NN
+
+晶须_NN 是_VC 出现_VV 在_P 电子_NN 元件_NN 中_LC 的_DEG 一_CD 种_M 现象_NN ，_PU 是_VC 指_VV 金属_NN 中_LC 长出_VV 类似_JJ 毛发_NN 或_CC 是_VC 须状_JJ 的_DEG 金属_NN 。_PU 锡须_VV 在_P 二十_CD 世纪_NN 初_LC 真空管_NN 时期_NN 就_AD 有_VE 相关_JJ 纪录_NN ，_PU 当时_NT 在_P 制造_VV 时_LC 用_P 纯锡_NN 或是_CC 几近_AD 纯锡_VV 的_DEC 合金_NN 作为_VV 銲料_NN ，_PU 而_CC 在_P 有_VE 銲料_NN 的_DEC 焊点_NN 上_LC 长出_VV 毛发_NN 或是_CC 须状_JJ 的_DEG 金属_NN 物质_NN ，_PU 造成_VV 焊点_NN 之间_LC 的_DEG 短点_NN 。_PU 晶须_NN 会_VV 在_P 有_VE 压缩_NN 应力_NN 的_DEC 情形_NN 下_LC 出现_VV 。_PU 也_AD 有_VE 有关_P 锌_NN 、_PU 镉_NN 甚至_AD 铅晶须_NN 的_DEC 记载_NN 。_PU 针对_P 晶须_NN 问题_NN 的_DEC 改善_VV 有_VE 许多_CD 相关_JJ 技术_NN ，_PU 包括_VV 退火_NN 程序_NN （_PU 加热_NN 及_CC 冷却_NN ）_PU 的_DEG 调整_NN ，_PU 加入_VV 像_P 铜_NN 或_CC 镍_NN 之类_LC 的_DEG 元素_NN ，_PU 或是_CC 用_VV 包覆_VV 以_MSP 避免_VV 短路_NN 。_PU 一般而言_AD ，_PU 加入_VV 铅_CC 可以_VV 使_VV 晶须_NN 的_DEC 成长_NN 放慢_VV 。_PU
+
+由于_P 危害性_JJ 物质_NN 限制_NN 指令_NN （_PU RoHS_NN ）_PU 等_ETC 欧盟_NN 指_VV 令关_VV 注铅_NN 带来_VV 的_DEC 健康_NN 问题_NN 以及_CC 「_PU 高_JJ 科技_NN 垃圾_NN 」_PU 问题_NN (_PU RoHS_NN )_PU ，_PU 欧洲_NN 联盟_VV 在_P 21_CD 世纪_NN 初期_NN 已_AD 在_P 大部份_NN 的_DEG 消费_NN 电子_NN 产品_NN 中_LC 禁止_VV 使用_NN 铅_NN ，_PU 而_CC 无_VE 铅銲料_NN 的_DEG 晶须_NN 问题_NN 又_CC 再度_NN 受到_VV 重视_NN 。_PU
+
+
+

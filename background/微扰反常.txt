@@ -1,0 +1,5 @@
+﻿微扰_NN 反常_NN
+
+反常_NN （_PU anomaly_NN ）_PU 是_VC 指_VV 经_P 典守_NN 恒_AD 定律_VV 在_P 量子论_NN 中_LC 的_DEG 破坏_NN ，_PU 其_PN 著名_NN 例子_NN 是_VC 量子_NN 场论_NN 中_LC 的_DEG 轴矢_NN 流_VV 反常_AD （_PU 或_CC 称为_VV 三_CD 角_M 反常_NN ，_PU Adler_NN -_PU Bell_NN -_PU Jackiw_NN 反常_VV ）_PU 。_PU 在_P 量子_NN 场论_NN 模型_NN 中_LC ，_PU 如_P 果规_NN 范对_P 称性_JJ 出现_VV 反常_NN ，_PU 则_AD 意味_VV 着_AS 理论_NN 的_DEG 不_AD 自洽性_JJ ，_PU 因此_AD 它_PN 经常_AD 被_SB 用来_VV 检查_VV 理论_NN 本身_PN 的_DEG 自洽性_NN 。_PU 反常_AD 在_P 粒子_NN 物理_NN 中_LC 有着_AD 重要_VA 的_DEC 应用_NN ，_PU 其中_NN 包括_VV 对_P formula_NN __NN 1_CD 介子_NN 衰变_NN 过程_NN formula_NN
+
+

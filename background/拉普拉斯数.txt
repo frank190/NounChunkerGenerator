@@ -1,0 +1,12 @@
+﻿拉普拉_VV 斯_DT 数_NN
+
+拉普拉_VV 斯_DT 数_CD （_PU Laplacenumber_NN ，_PU La_NN ）_PU 也_AD 称为_VV 苏拉_NN 特曼数_AD （_PU Suratmannumber_NR ，_PU Su_M ）_PU ，_PU 是_VC 描述_JJ 流体_NN 力学_NN 中_LC 自由_P 表面_NN 的_DEG 无量_JJ 纲_NN ，_PU 是_VC 流体_NN 表面_NN 张力_NN 及_CC 流体_NN 内动量_NN 传播_VV 的_DEC 比值_NN 。_PU
+
+拉普拉_VV 斯_DT 数_NN 的_DEG 定义_NN 如下_VV ：_PU
+
+其中_NN ：_PU
+
+拉普拉_VV 斯_DT 数_NN 可以_VV 用_P 雷诺数_NN Re_NN 和_CC 韦伯数_JJ We_NN 表示_VV ：_PU
+
+
+

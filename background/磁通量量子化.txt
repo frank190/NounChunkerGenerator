@@ -1,0 +1,10 @@
+﻿磁_NN 通量_NN 量子化_NN
+
+磁通量_NN 量子化_NN （_PU Fluxquantization_NN ）_PU 是_VC 一_CD 种_M 超导体_NN 中_LC 的_DEC 磁_NN 通量_NN 量子化_NN 现象_NN ，_PU 磁通量_NN 的_DEG 最_AD 小_JJ 单位_NN 为_VC 磁通量_NN 量子_NN ：_PU
+
+其中_NN h_NN 为_VC 普朗克_NN 常数_NN ，_PU 而_CC e_NN 为_VC 基本_JJ 电荷_NN 。_PU
+
+磁通量_NN 量子化_NN 出现_VV 在_P 有_VE 外加_JJ 磁场_NN 的_DEC 第二_OD 类_M 超导体_NN 中_LC 。_PU 当_P 施加_VV 在_P 第二_OD 型_M 超导体_NN 的_DEC 磁场_NN 小于_VV 临界_JJ 磁场_NN H_NN 时_LC ，_PU 由于_P 迈斯纳_JJ 效应_NN ，_PU 超导体_NN 内_LC 没有_VE 磁通_NN ，_PU 超导体_NN 会_VV 有_VE 超抗_JJ 磁性_NN ，_PU 此_DT 情形_NN 下_LC 的_DEG 磁学_NN 性质_NN 和_CC 第一_OD 类_M 超导体_NN 相同_VA 。_PU 但_CC 若_CS 外加_VV 磁场_NN 大于_VV 另_DT 一_CD 个_M 临界值_NN "_PU H_CD "_PU 时_LC ，_PU 会_VV 有_VE 离散_VV 的_DEC 磁通量_NN ，_PU 而_CC 大部份_NN 材料_NN 仍然_AD 维持_VV 超导_VV 的_DEC 特性_NN 。_PU 上述_JJ 二_CD 个_M 临界_JJ 磁场_NN 都_AD 会_VV 随_P 温度_NN 而_MSP 变化_VV ，_PU 一般_AD 表列_VV 的_DEC 临界_NN 磁场值_NN ，_PU 除非_VV 有_VE 特別_JJ 说明_NN ，_PU 否则_AD 都_AD 是_VC 以_P 零度_NN 时_LC 的_DEG 外插值_NN 为_VC 準_NN 。_PU
+
+
+

@@ -1,0 +1,9 @@
+﻿波形_NN
+
+波形_NN （_PU ）_PU 表示_VV 信号_NN 的_DEG 形状_NN 、_PU 形式_NN ，_PU 这_DT 个_M 信号_NN 可以_VV 是_VC 波_VV 在_P 物理_NN 介质_NN 上_LC 的_DEG 移动_NN ，_PU 也_AD 可以_VV 是_VC 其他_DT 物理量_NN 的_DEG 抽象_NN 表达_NN 形式_NN 。_PU
+
+在_P 许多_CD 情况_NN 里_LC ，_PU 波_P 传播_VV 的_DEC 介质_NN 的_DEG 形式_NN 不_AD 能_VV 直接_AD 用_P 肉眼_NN 观察_VV 。_PU 在_P 这些_DT 情况_NN 中_LC ，_PU “_PU 波形_NN ”_PU 这_DT 个_M 术语_NN 指_VV 相应_JJ 物理_NN 量_NN 在_P 时间_NN 或_CC 空间_NN 上_LC 分布_VV 情况_NN 的_DEC 图形_NN 抽象_NN 。_PU 作为_P 最_AD 典型_VA 的_DEC 例子_NN ，_PU 示波器_NN 可以_VV 被_SB 用来_VV 在_P 显示_NN 设备_NN 上_LC 表现出_VV 两_CD 个_M 探头_NN 之间_LC 电压_NN 的_DEG 变化_NN 情况_NN 。_PU 将_BA 这_DT 个_M 概念_NN 扩展_VV 后_LC ，_PU 波形_NN 也_AD 可以_VV 描述_VV 任何_DT 物理量_NN 在_P 时间_NN 上_LC 变化_VV 所_MSP 对_VV 应函_NN 数_NN 的_DEG 曲线_NN 图形_NN 。_PU
+
+
+
+

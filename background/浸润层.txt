@@ -1,0 +1,8 @@
+﻿_CS 浸润_VV 层_NN
+
+凝聚态_NN 实验物_NN 理学_NN 中_LC 的_DEG 浸润层_NN （_PU 或_CC 润湿层_NN ）_PU 是_VC 指外_NN 延成_VV 长_VA 的_DEC 衬底_NN 表面_NN 上_LC 最早_AD 生长_VV 出_VV 的_DEC 二_CD 维_M 薄层_NN 晶体_NN ；_PU 这里_PN 的_DEG 外延_NN 成长_VV 往往_PN 和_CC 自_P 组装_NN 的_DEC 量子点_NN 或_CC 薄膜_NN 生长_VV 有关_P 。_PU 组成_VV 浸润层_NN 的_DEG 原子_NN 既_CC 可以_VV 是_VC 半_JJ 金属_NN 的_DEC 元素_NN 或_CC 化合物_NN （_PU 例如_AD 自_P 组装_NN 的_DEC 量子点_NN 所_MSP 用_VV 的_DEC InAs_NN ）_PU 或_CC 金属_NN 合金_NN （_PU 对于_P 薄膜_NN 生长_NN ）_PU 。_PU 因为_P 浸润_VV 层_NN 的_DEG 生长_NN 可_VV 以_P 控制_VV 量子点_NN 的_DEC 人工_JJ 原子态_NN （_PU artificialatomicstate_NN ）_PU ，_PU 浸润_VV 层_NN 的_DEG 概念_NN 也_AD 常常_AD 出现_VV 在_P 量子_NN 信息_NN 与_CC 量子_NN 计算机_NN 领域_NN 。_PU
+
+浸润层_NN 可以_VV 改变_VV 量子点_NN 的_DEG 物理_NN 性质_NN 。_PU 浸润层_NN 的_DEG 厚度_NN 和_CC 组成_VV 成分_NN 决定_VV 了_AS 其_PN 对量_NN 子点_NN 的_DEG 作用_NN 。_PU 一般来说_AD ，_PU 浸润层_NN 的_DEG 厚度_NN 约_AD 为_VC 0.5_CD 纳米_NN 。_PU 理论_NN 上_LC ，_PU 因为_P 晶格_NN 的_DEC 失配_NN ，_PU 有限_JJ 厚度_NN 的_DEG 浸润层_NN 是_VC 不_AD 稳定_VA 的_DEC ，_PU 所以_AD 量子点_NN 会_VV 受到_VV 来自_VV 于_P 浸润_VV 层_NN 的_DEG 应变_NN 。_PU
+
+
+

@@ -1,0 +1,24 @@
+﻿盲目_NN 去回_VV 旋积_NN
+
+在_P 电子_NN 工程_NN 以及_CC 应用_VV 数学_NN 的_DEC 领域_NN 中_LC ，_PU 盲目_NN 去回_VV 旋积_NN （_PU Blinddeconvolution_NN ）_PU 指_VV 的_DEC 是_VC 当_P 在_P 对_P 进行_VV 折积_NN 的_DEC 脉冲_NN 响应_NN 函数_NN 缺乏_NN 明确_VA 的_DEC 了解_VV 时而_AD 进行_VV 的_DEC 过程_NN 。_PU
+
+而_AD 在_P 显微_NN 镜学_NN 的_DEC 领域_NN 中_LC ，_PU 盲目_NN 去回_VV 旋积_NN 通常_AD 指_VV 的_DEC 是_VC 当_P 在_P 无法_AD 得到_VV 显微镜_NN 的_DEG 点扩_JJ 散函数_NN （_PU PSF_NN ）_PU 时_LC 进行_VV 了_AS 反折积_NN 。_PU 这_DT 个_M 过程_NN 通常_AD 是_VC 经由_P 分析_NN 输出_VV 的_DEC 结果_NN 来_MSP 得到_VV 对于_P 输入_VV 讯号_NN 适当_VA 的_DEC 猜测_NN 。_PU
+
+在_P 影像_VV 复原_NN 中_LC ，_PU 最_AD 困难_VA 的_DEC 问题_NN 之_DEC 一_CD 是_VC 取得_VV 点_NN 扩散_NN 函数_NN （_PU PSF_NN ）_PU 的_DEG 适当_JJ 估测_NN 以_MSP 用于_VV 许多_CD 影像_M 复原_VA 的_DEC 演算法_NN ，_PU 而_CC 不同于_VV 其他_DT 演算法_NN ，_PU 不_AD 以_P 对_P PSF_NN 特定_JJ 瞭解_NN 为_VC 基础_NN 的_DEG 影像_JJ 复原_NN 的_DEC 方法_NN 就_AD 称为_VV 盲目_NN 去回_VV 旋积_NN 演算法_NN 。_PU
+
+在_P 过去二十年_NT 受到_VV 最_AD 大_JJ 注意_NN 的_DEC 一_CD 个_M 盲目_NN 去回_VV 旋积_NN 方法_NN 是_VC 以_P 最大_JJ 可能性_NN 估测_NN （_PU MLE_NN ）_PU 为_VC 基础_NN ，_PU 而_CC MLE_NN 是_VC 用于_VV 获得_VV 随机_JJ 噪声_NN 破坏量_NN 之_DEG 估测_NN 的_DEC 一_CD 个_M 最_AD 优化_VV 策略_NN ，_PU 简言_VV 之_SP ，_PU MLE_NN 的_DEG 一_CD 个_M 解释_NN 是_VC 将_BA 影像_JJ 资料_NN 想成_VV 随_P 机量_NN ，_PU 此_DT 量_NN 有_VE 从_P 一_CD 群_M 其他_DT 随_P 机量_NN 产生_VV 的_DEC 某_DT 种_M 可能性_NN 。_PU 可能性_JJ 函_NN 是_VC 以_P formula_NN __PU 1_CD 、_PU formula_NN __NN 2_CD 和_CC formula_NN __NN 3_CD ，_PU 於是_CC 问题_NN 是_VC 去求_NN 可能性_NN 函数_NN 的_DEG 最_AD 大值_NN 。_PU 在_P 盲目_NN 回旋积_NN 中_LC ，_PU 用_P 指定_VV 的_DEC 条件_NN 限制_VV 以_P 叠代法_NN 解决_VV 最_AD 优化_JJ 问题_NN ，_PU 并_CC 在_P 假设_VV 收敛_VV 的_DEC 情况_NN 下_LC ，_PU 产生_VV 最_AD 大值_NN 的_DEG 特定_JJ formula_NN __NN 2_CD 和_CC formula_NN
+
+非_AD 叠_JJ 代法_NN 计算_VV 的_DEC 例子_NN 有_VE SeDDaRA_NN 、_PU 倒频_NN 谱_NN 转换_NN 和_CC APEX_NN 。_PU 倒_AD 频_VV 谱_VV 转换_NN 和_CC APEX_NN 方法_NN 假设_VV PSF_NN 有_VE 一_CD 个_M 特定_JJ 的_DEG 形状_NN ，_PU 并且_CC 必须_VV 估计_VV 此_DT 形状_NN 的_DEG 宽度_NN ，_PU 至於_AD SeDDaRA_NR ，_PU 关于_P 场景_NN 的_DEC 资讯_NN 会_VV 以_P 参考_VV 影像_VV 的_DEC 方式_NN 提供_VV ，_PU 因此_AD 此_DT 演算法_NN 是_VC 以_P 比较_VV 模糊_NN 影像_NN 以及_CC 目标_NN 影像_VV 在_P 空间_NN 频率_NN 中_LC 的_DEG 资讯_NN 来_MSP 估计_VV PSF_NN 。_PU
+
+假设_VV 有_VE 一_CD 个_M 讯号_NN 经由_P 通道_NN 传输_NN ，_PU 而_CC 这_DT 个_M 通道_NN 多半_AD 视为_VV 一_CD 个_M 线性_NN 时_LC 不_AD 变_VV 系统_NN ，_PU 因_P 此受器_NN 接受_VV 到_VV 讯号_NN 和_CC 此_DT 通道_NN 脉冲_NN 响应_VV 的_DEC 卷积_NN 。_PU 如果_CS 想要_VV 反转_VV 通道_NN 造成_VV 的_DEC 影响_NN ，_PU 得到_VV 原本_JJ 的_DEG 讯号_NN ，_PU 必须_VV 以_P 一二_OD 次_M 线性_NN 系统_NN 来_MSP 处理_VV 接_VV 受到_VV 的_DEC 讯号_NN ，_PU 来_MSP 反转_VV 通道_NN 造成_VV 的_DEC 响应_NN 。_PU 这_DT 个_M 系统_NN 则_AD 称为_VV 等化器_NN
+
+若_CS 不_AD 借由_VV 维纳_NN 滤波_NN 来_MSP 进行_VV 复原_NN ，_PU 还是_CC 可以_VV 利用_VV 讯号_NN 已_AD 知_VV 的_DEC 资讯_NN 来_MSP 进行_VV 还原_NN ，_PU 例如_AD 可以_VV 将_BA 接_VV 收到_VV 的_DEC 讯号_NN 来_MSP 进行_VV 滤波_NN 已_AD 得到_VV 光谱_NN 的_DEC 功率_NN 密度_NN 。_PU 譬如_AD 已_AD 知_VV 讯号_NN 没有_VE 自_NN 相关_AD ，_PU 就_AD 可以_VV 「_PU 」_PU 接受到_VV 的_DEC 讯号_NN 。_PU
+
+但白化_JJ 滤波_NN 通常_AD 会_VV 造成_VV 某些_DT 相位_NN 的_DEC 扭曲_NN 失真_NN 。_PU 而_CC 盲目_NN 去回_VV 旋积_NN 技术_NN 使用_VV 讯号_NN 的_SP ，_PU 因此_AD 可以_VV 使_VV 失真_VA 的_DEC 相位_NN 得到_VV 修正_VV 。_PU 可以_VV 将_BA 等化器_NN 最_AD 优化_VV 来_MSP 得到_VV 一_CD 个_M 讯号_NN ，_PU 而_CC 此_DT 讯号_NN 的_DEG PSF_NN 很_AD 接近_VV 原先_AD 讯号_VA 的_DEC PSF_NN 。_PU
+
+於_P 1978_CD 年_M 时_LC ，_PU W_NN ._PU C_NN ._PU Gray_NN [_PU 5_CD ]_PU 提出_VV 了_AS 对_P 震测_NN 资料_NN 进行_VV 盲目_NN 去回_VV 旋积_NN 时_LC ，_PU 由于_P 原本_AD 未知_VA 的_DEC 讯号_NN 是_VC 因为_P 尖波(_JJ spikes_NN )_PU 所_MSP 构成_VV ，_PU 因此_AD 能够_VV 得到_VV 如_P 稀疏_NN 限制_NN (_PU sparsityconstraints_NN )_PU 或_CC 是正_AD 规化_VV 如_P l1norm_NN /_PU l2norm_NN 的_DEG 特性_NN 。_PU
+
+声音_NN 讯号_NN 的_DEG 盲目_NN 去回_VV 旋积_NN （_PU 也_AD 称为_VV dereverberation_NN ）_PU 为_VC 混杂_JJ 声音_NN 讯号_NN 中_LC 减少_VV 混响_NN （_PU reverberat_JJ ion_NN ）_PU 的_DEC 程序_NN ，_PU 这_DT 个_M 过程_NN 通常_AD 又_AD 称为_VV 。_PU 混响_VV 是_VC 在_P 录制_VV 声音_NN 讯号_NN 中_LC 有_VE 非_AD 良置_NN （_PU ill_NN -_PU posed_NN ）_PU 情形_NN （_PU 如_P 鸡尾_NN 酒会_NN 效应_NN ）_PU 下_AD 会_VV 产生_VV 的_DEC 问题_NN 。_PU 一_CD 个_M 可能_VV 的_DEC 处理_NN 方式_NN 为_VC 使用_VV 独_NN 立成_JJ 分分析_NN （_PU ICA_NN ）_PU 。_PU
+
+
+

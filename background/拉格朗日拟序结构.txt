@@ -1,0 +1,5 @@
+﻿拉格_NN 朗日_NN 拟_VV 序_NN 结构_NN
+
+拉格_NN 朗日_NN 拟_VV 序_NN 结构_NN （_PU ）_PU 是_VC 指_VV 在_P 时变_NN 系统_NN （_PU 如_P 流体_NN 力学_NN 中_LC 的_DEG 湍流_NN ）_PU 中_LC 区分_NN 不同_JJ 动力学_NN 特征_NN 区域_NN 的_DEG 结构_NN 。_PU 这些_DT 结构_NN 可以_VV 用_VV 有限_VA 时间_NN 李亚普_NN 诺夫_NN 指数_NN （_PU finite_NN -_PU timeLyapunovexponent_NN ）_PU 来_MSP 定义_VV 。_PU 这_DT 一_CD 定义_NN 是_VC 基于_P 拉格_NN 朗日力_NN 学来_VV 描述_VV 的_DEC ，_PU 与_P 参考_NN 系_NN 无关_AD 。_PU 通过_P 有限_JJ 时间_NN 李亚普_NN 诺夫_NN 指数_NN 可以_VV 找到_VV 时间_NN 相关_NN 系统_NN 中_LC 的_DEG 分界线_NN （_PU separatrix_NN ）_PU ，_PU 通常_AD 类似于_VV 时间_NN 无关_AD 系统_NN 中_LC 的_DEG 稳定_JJ 流形_NN 和_CC 非_AD 稳_JJ 定流_NN 形_NN 。_PU 这些_DT 分界线_NN 即_AD 是_VC 拉格_NN 朗日_NN 拟_VV 序_NN 结构_NN 。_PU 拉格_NN 朗日_NN 拟_VV 序_NN 结构_NN 可以_VV 区_NN 分流场_NN 中_LC 有_VE 不同_JJ 动力学_NN 特征_NN 的_DEC 区域_NN ，_PU 而_CC 这些_DT 特征_NN 通常_AD 是_VC 通过_P 速度场_NN 、_PU 甚至_AD 系统_NN 的_DEG 轨迹_NN 无法_AD 显现_VV 的_SP 。_PU 因而_AD 这些_DT 结构_NN 是_VC 分析_NN 时间_NN 相关_NN 系统_NN 的_DEG 有用_JJ 工具_NN 。_PU
+
+

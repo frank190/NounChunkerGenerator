@@ -1,0 +1,10 @@
+﻿非线_NN 性_NN 光学_NN
+
+非线性_JJ 光学_NN 主要_AD 用来_VV 研究_VV 非_VC 线性_JJ 的_DEG 光学_NN 现象_NN 和_CC 理论_NN 。_PU
+
+介质_NN 产生_VV 的_DEC 极化_NN 强度_NN 决定_VV 于_P 入射光_NN 的_DEC 电场_NN 强度_NN ，_PU 其_PN 作用_NN 可_VV 用_P 多_CD 项_M 式展_NN 开成_VV 多阶_JJ 形式_NN ._PU 在_P 通常_JJ 的_DEG 弱光_JJ 条件_NN 下_LC ，_PU 高_JJ 阶项_NN 因为_P 系数_NN 很_AD 小_VA 而_CC 可以_VV 忽略_VV ，_PU 此时_NT 可_VV 近似_AD 看成_VV 一_CD 种_M 线性_JJ 关系_NN 。_PU 但是_AD 在_P 强激_NR 光场_NN 作用_NN 下_LC （_PU 通常_AD 在_P 10V_CD /_PU m_NN 左右_LC ，_PU 由_P 激光_JJ 脉冲_NN 提供_VV ）_PU ，_PU 极化_JJ 强度_NN 的_DEC 高阶项_NN 强度_NN 不_AD 可_VV 被_SB 忽略_VV ，_PU 非_AD 线性_JJ 作用_NN 出现_VV ，_PU 从而_AD 可以_VV 实现_VV 光_NN 和_CC 光_NN 之间_LC 的_DEG 相互_JJ 作用_NN 。_PU 入射_VV 光_NN 的_DEG 强度_NN 越_AD 高_VA ，_PU 高阶_NN 非_JJ 线性_JJ 效应_NN 越_AD 明显_VA 。_PU 非_VC 线性_JJ 光学_NN 直到_AD 激光_VV 出现_VV 后_LC ，_PU 人们_NN 对_P 二_OD 次_M 谐波_NN 产生_VV 的_DEC 发现_NN 才_AD 发展_VV 起来_VV 。_PU (_PU PeterFrankenetal_NN ._PU atUniversityofMichiganin_NN 1961_OD )_PU
+
+非线性_JJ 光学_NN 包括_VV 光学_NN 倍频_NN 、_PU 混频_NN 、_PU 参量_NN 振荡_NN 、_PU 克尔_NN 效应_NN 、_PU 光_AD 孤子_NN 等_ETC 现象_NN 。_PU 利用_VV 强度_NN 极_AD 高_VA 的_DEC 飞秒_NN 激光_NN 可以_VV 产生_VV 高达_NN 上_LC 百_CD 倍_M 的_DEG 倍频_NN 效应_NN ，_PU 可以_VV 用来_VV 产生_VV 深_JJ 紫外光_NN 和_CC 软_P X_NN 射线_NN 。_PU 常用于_VV 产生_VV 非线性_JJ 效应_NN 的_DEC 物质_NN 有_VE 铌酸锂_NN 、_PU 钽酸锂_NN 、_PU 磷酸氧_NN 钛钾_NN （_PU KTP_NN ）_PU 、_PU 磷酸_NN 二_CD 氢钾_NN （_PU KDP_NN ）_PU 、_PU 偏硼酸钡_NN （_PU BBO_NN ）_PU 等晶体_NN （_PU 具有_VV 高_VA 的_DEC 2阶_NN 非_VC 线性_JJ 系数_NN ）_PU 及_CC 稀有_JJ 气体_NN （_PU 主要_AD 用于_VV 产生_VV 高阶_JJ 非_JJ 线性_JJ 效应_NN ）_PU 。_PU 光参量_NN 振荡_NN （_PU OPO_NN ）_PU 是_VC 目前_NT 产生_VV 大_JJ 范围_NN 连续_AD 可_VV 调_VV 波长_NN (_PU 波长_NN 从_P 红_JJ 外到_NN 可_VV 见光_AD 甚至_AD 紫外光_NN )_PU 激光_NN 的_DEC 唯一_JJ 方法_NN 。_PU
+
+
+

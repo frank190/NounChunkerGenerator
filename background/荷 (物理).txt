@@ -1,0 +1,11 @@
+﻿荷_NN (_PU 物理_NN )_PU
+
+物理学_NN 中_LC ，_PU 荷_NN （_PU 英语_NN ：_PU Charge_NN ）_PU 可_VV 指_VV 不同_VA 的_DEC 量值_NN ，_PU 例如_AD 电磁学_NN 中_LC 的_DEG 电荷_NN ，_PU 或是_CC 量子_NN 色动_NN 力学_NN 中_LC 的_DEG 色荷_NN 。_PU 荷_AD 对应于_VV 对_P 称群_NN 中_LC 时_LC 不_AD 变_VV 的_DEC 生成集_NN ，_PU 具体_AD 来说_VA ，_PU 对应于_VV 与_P 哈密顿_JJ 算符_NN 可_VV 交换_VV 的_DEC 生成子_NN 。_PU 通常_AD 使用_VV 字母_NN "_PU Q_NN "_PU 来_MSP 表示_VV 荷_NOI ，_PU 因此_AD 荷_VA 的_DEC 不变性_NN 对应_VV 于_P 湮灭_VV 交换子_NN formula_NN
+
+抽象_AD 地_DEV 说_VV ，_PU 荷_NN 是_VC 一_CD 个_M 我们_PN 所_MSP 研究_VV 的_DEC 物理_NN 系统_NN 的_DEG 连续_JJ 对称性_NN 的_DEC 任何_DT 生成元_NN 。_PU 当_P 一_CD 个_M 物理_NN 系统_NN 具有_VV 某_DT 种_M 对称性_NN 时_LC ，_PU 诺_P 特定_JJ 理_NN 暗示_VV 了_AS 一_CD 个_M 守_VV 恒流_NN 的_DEG 存在性_NN 。_PU 在_P 这_DT 个_M 流_NN 中_LC "_PU 流动_NN "_PU 的_DEC 物质_NN 即_AD 为_VC "_PU 荷_NN "_PU ，_PU 荷_NN 是_VC （_PU 局部_NN ）_PU 对称_VV 群_VA 的_DEC 生成元_NN 。_PU 这_DT 个_M 荷有_JJ 时候_NN 也_AD 被_SB 称为_VV 诺特荷_NN 。_PU
+
+因此_AD ，_PU 比如说_AD ，_PU 电荷_NN 是_VC 电磁学_NN 的_DEG U_NN (_PU 1_CD )_PU 对称性_JJ 的_DEG 生成元_NN 。_PU 它_PN 的_DEG 守_VV 恒流_NN 为_VC 电流_NN 。_PU
+
+粒子_NN 物理_NN 中_LC 引入_VV 了_AS 许多_CD 作为_P 量子_NN 数_NN 的_DEG “_PU 荷_NN ”_PU ，_PU 其中_NN 包括_VV 标准_JJ 模型_NN 中_LC 的_DEG “_PU 荷_NN ”_PU ：_PU
+
+

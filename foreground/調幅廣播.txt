@@ -1,0 +1,22 @@
+﻿调幅_NN 广播_NN
+
+调幅_NN 广播_NN （_PU ，_PU 常_AD 缩写_VV 为_VC AM_NN 广播_VA ）_PU 是_VC 一_CD 种_M 利用_VV 振幅_NN 调变_NN 技术_NN 的_DEG 广播_NN 方式_NN ，_PU 通常_AD 专_AD 指_VV 中波_NN 广播_VV 。_PU
+
+调幅_NN 是_VC 二十_CD 世纪_NN 主要_VA 的_DEC 广播_JJ 技术_NN ，_PU 至_P 二十一_CD 世纪_NN 的_DEC 现在_JJ 仍然_JJ 广泛_NN 地_DEC 使用_NN 中_LC 。_PU
+
+调幅_NN 广播_AD 始于_VV 1906_CD 由_P 范信_NN 达_VV 建立_VV 的_DEC 实验_NN ，_PU 直_AD 到_P 第一_OD 次_M 世界_NN 大战_AD 成为_VV 地_DEC 方性_NN 的_DEC 广播_JJ 电台_NN 。_PU 在_P 接下_VV 来_VV 的_DEC 十_CD 年_M ，_PU 调幅_NN 广播_NN 技术_NN 大幅度_NN 的_DEG 成长_NN 。_PU 第一_OD 家_M 商业_NN 调_VV 幅_NN 电台_NN 始于_P 1920_CD 年代_M 。_PU
+
+调幅_NN 技术_NN 远比_NN 调频_NN 技术_NN 及_CC 数位_NN 广播_NN 技术_NN 简单_NN 。_PU 一_CD 个_M 调幅_NN 广播_AD 接收_VV 机只_NN 需要_VV 侦测_VV 特定_JJ 频率_NN 信号_NN 的_DEG 电压_NN 振幅_NN 变化_NN ，_PU 此动_AD 作称_VV 为_VC 检波_NN ，_PU 再_AD 将_BA 此_DT 电压_NN 变化_NN 经_P 放大_VV 后_LC 驱动_VV 扬声器_NN 。_PU 绝_AD 大多数_CD 调幅_NN 广播_AD 为_VC 单_BA 声道_NN 广播_VV ，_PU 但_CC 一些_CD 国家_NN 和_CC 地区_NN 也_AD 有_VE 少数_CD 立体声_NN 调幅_NN 广播_NN 电台_NN 。_PU
+
+相较于_AD 调频_VV 广播_VA ，_PU 调幅_NN 广播_NN 传输_VV 距离_NN 较_AD 远_VA 。_PU 但_AD 调幅_NN 广播_AD 易受_VV 干扰_NN ，_PU 且_CC 由于_P 载频_NN 的_DEC 频带_NN 比较_VV 窄_VA ，_PU 音质_NN 不及_CC 调频_VV 广播_NN 及_CC 数位_NN 广播_VA 。_PU
+
+一般_JJ 收音机_NN 所_MSP 接收_VV 的_DEC 调幅_NN 广播_NN （_PU AM_NN 广播_VA ）_PU 就_AD 是_VC 指_VV 在_P 中波_NN （_PU MW_NN ,_PU MediumWave_NN ）_PU 波段_NN 的_DEG 调幅_NN 广播_VA 。_PU
+
+依据_P 国际_NN 电信_NN 联盟_NN 的_DEC 规范_NN ，_PU 在_P 台湾_NN 、_PU 港澳_NN 、_PU 中国_NR 大陆_CD 、_PU 新马_NN 所_MSP 属_VV 的_DEC 第三_OD 区_NN （_PU Region3_NN ）_PU ，_PU 即_AD 包括_VV ：_PU 俄罗_NN 斯_AD 除外_VV 的_DEC 亚洲_NN ，_PU 自_P 伊朗_NN （_PU 含_VV ）_PU 以东_LC ，_PU 至_P 澳洲_NN 与_CC 大_VA 洋洲_VA 的_DEC 区域_NN 中_LC ，_PU 中波_NN 广播_AD 使用_VV 526_CD ._PU 5kHz_NN –_AD 1606_CD ._PU 5_CD kHz_M 的_DEG 中频_NN 频段_VV ，_PU 各_DT 频道_NN 中心_NN 频率_NN 数字_NN 为_VC 9_CD 的_DEC 倍数_NN ，_PU 自_P 531_CD kHz_NN –_AD 1602_CD kHz_M ，_PU 频道_NN 间隔_NN 为_VC 9_CD kHz_M 。_PU 至於_AD 美洲_VV 所_MSP 在_VV 的_DEC 第二_OD 区_M （_PU Region2_NN ）_PU ，_PU 则_AD 使用_VV 520_CD kHz_NN –_NN 1_CD ,_PU 610_CD kHz_NN ，_PU 频道_NN 间隔_NN 10_CD kHz_NN 。_PU
+
+使用_VV 高频_JJ 频段_NN 的_DEC 短波_NN 广播_AD 一般_AD 也_AD 是_VC 使用_VV 调幅_NN 技术_NN ，_PU 但_AD 须_VV 使用_VV 具有_VV 短波_JJ 接收_NN 功能_NN 的_DEC 收音机_NN 才_AD 能_VV 接收_VV ，_PU 借由_VV 短波_PN 可_VV 由_P 大气_NN 电离层_NN 反射_NN 的_DEC 特性_NN ，_PU 因此_AD 主要_AD 用作_VV 跨国性_NN 的_DEC 大_JJ 区域_NN 广播_VA ，_PU 但_CC 也_AD 正_AD 因_P 如此_VV ，_PU 接收_VV 效果_NN 会_VV 受_VV 大气_NN 状况_NN 变化_NN 的_DEG 影响_NN 。_PU 高于_VV 一般中波_AD 广播_VV 频率_NN 而_MSP 低于_VV 30_CD MHz_M 的_DEG 频段_NN 都_AD 可_VV 被_SB 视为_VV 短波_NN 广播_VV 。_PU
+
+长波广播_AD 使用_VV 153_CD –_CC 279_CD kHz_NN 的_DEG 频段_NN ，_PU 9_CD kHz_M 步进_LC ，_PU 使用_VV 调幅_NN 技术_NN 。_PU 长_CD 波_M 主要_AD 靠_P 地_DEV 波_VV 传播_VV ，_PU 传播_VV 比较_AD 稳定_VA ，_PU 其_PN 传播_NN 距离_NN 依_P 不同_VA 的_DEC 传播_NN 介质_NN 、_PU 辐射_NN 功率_NN 和_CC 波长_NN 可以_VV 达到_VV 数百_OD 到_CC 数千_OD 公里_PU 。_PU 但_AD 长_VA 波广_NN 播成_VV 本高昂_AD ，_PU 且_CC 极_AD 易_AD 受到_VV 各_DT 种_M 外来_NN 干扰_VV 影响_NN 。_PU 目前_NT 仅_AD 有_VE 欧洲_NR 、_PU 北非_NN 、_PU 前_NN 苏联_VV 地区_NN 及_CC 蒙古国_NN 还_AD 保留_VV 少数_CD 长波_NN 广播_VA 电台_NN 。_PU
+
+
+

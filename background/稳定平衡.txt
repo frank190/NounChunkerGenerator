@@ -1,0 +1,19 @@
+﻿_AD 稳定_VA 平衡_VA
+
+在_P 物理学_NN 中_LC ，_PU 稳定_VV 平衡_NN （_PU ）_PU 是_VC 指_VV 一_CD 个_M 平衡_NN 处_NN 於_P 相对_AD 稳定_VA 的_DEC 状态_NN 。_PU
+
+稳定_VV 平衡_NN 表示_VV 一_CD 个_M 物体_NN 从_P 平衡_NN 的_DEC 位置_NN 运动_VV 短_JJ 距离_NN ，_PU 接着_AD 回到_VV 原来_JJ 位置_NN 的_DEC 状况_NN ，_PU 即_AD 若_CS 处_NN 於_P 平衡_NN 状态_NN 的_DEC 物体_NN 在_P 受到_VV 外力_NN 的_DEG 微小_NN 扰动_VV 而_CC 偏离_VV 平衡_JJ 位置_NN 时_LC ，_PU 若_CS 物体_NN 能_VV 自动_AD 恢复_VV 到_VV 原先_JJ 的_DEG 状态_NN ，_PU 这样_PN 的_DEG 平衡_NN 叫做_VV 稳定_VA 平衡_VA 。_PU
+
+当_P 处_NN 於_P 稳定_VA 平衡_VA 的_DEC 物体_NN 发生_VV 运动_NN 时_LC ，_PU 会_VV 使_VV 其_PN 质心抬_NN 高_VA ，_PU 相反_VA 地_DEV ，_PU 当_P 物体_NN 运动_NN 造成_VV 质心_NN 抬高_VV 就_AD 会_VV 形成_VV 稳定_VA 平衡_VA 。_PU
+
+处_NN 於_P 稳定_VA 平衡_VA 的_DEC 物体_NN ，_PU 其_PN 势能_NN 的_DEC 一_CD 阶_NN 导数_NN 为_VC 零_CD ，_PU 且_CC 二_CD 阶_M 导数_NN 为_VC 正_NN ，_PU 势_NN 能_VV 处_NN 於_VV 极_AD 小_VA 值_NN 。_PU
+
+即_AD 与_P 稳定_JJ 平衡_NN 相反_VV 的_DEC 状态_NN ，_PU 指_VV 一_CD 个_M 平衡_NN 处_NN 於_P 相对_AD 不_AD 稳定_VA 的_DEC 状态_NN 。_PU 不_AD 稳_JJ 平衡_NN 表示_VV 一_CD 个_M 物体_NN 从_P 平衡_NN 的_DEC 位置_NN 运动_VV 短_JJ 距离_NN ，_PU 接着_AD 无法_AD 回到_VV 原来_JJ 位置_NN 而_MSP 进一步_AD 运动_VV 的_DEC 状况_NN ，_PU 即_AD 若_CS 处_NN 於_P 平衡_NN 状态_NN 的_DEC 物体_NN 在_P 受到_VV 外力_NN 的_DEG 微小_NN 扰动_VV 而_CC 偏离_VV 平衡_JJ 位置_NN 时_LC ，_PU 若_CS 物体_NN 无法_AD 自动_AD 恢复_VV 到_VV 原先_JJ 的_DEG 状态_NN ，_PU 这样_PN 的_DEG 平衡_NN 叫做_VV 不_AD 稳_AD 平衡_VA 。_PU
+
+当_P 处_NN 於_VV 不_AD 稳定_VA 平衡_VA 的_DEC 物体_NN 发生_VV 运动_NN 时_LC ，_PU 会_VV 使_VV 其_PN 质心_NN 降低_VV ，_PU 相反_VA 地_DEV ，_PU 当_P 物体_NN 运动_NN 造成_VV 质心_NN 降低_VV 就_AD 会_VV 形成_VV 不_AD 稳_JJ 平衡_NN 。_PU
+
+处_NN 於_P 不_AD 稳_AD 平衡_VA 的_DEC 物体_NN ，_PU 其_PN 势能_NN 的_DEC 一_CD 阶_NN 导数_NN 为_VC 零_CD ，_PU 且_CC 二阶_CS 导数_NN 为_VC 负_NN ，_PU 势能_NN 处_NN 於_P 极大值_NN 。_PU
+
+以力_NN 偶_NOI 来_MSP 探讨_VV 平衡_JJ 稳定_NN 与否_AD ，_PU 当_P 一_CD 稳定_JJ 平衡物体_NN 移动_VV 时_LC ，_PU 所_MSP 形成_VV 的_DEC 力偶会_NN 使_VV 其_PN 恢复_VV 原来_VV 的_DEC 状态_NN ，_PU 不_AD 稳_VV 平衡_NN 物体_NN 移动_VV 时_LC ，_PU 所_MSP 形成_VV 的_DEC 力偶会_NN 使_VV 其_PN 倾复_VV 。_PU
+
+

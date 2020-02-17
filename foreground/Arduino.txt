@@ -1,0 +1,73 @@
+﻿_CD Arduino_NN
+
+Arduino_NN 是_VC 一家_AD 制作_VV 开源_NN 硬件_NN 和_CC 开源_NN 软件_NN 的_DEG 公司_NN ，_PU 同时_AD 兼有_VV 项目_NN 和_CC 用户_NN 社区_VV ，_PU 该_DT 公司_NN 负责_NN 设计_NN 和_CC 制造_NN 单板_NN 微_JJ 控制器_NN 和_CC 微_JJ 控制器_NN 套件_NN ，_PU 用于_VV 构建_NN -_PU {zh_NN -_PU cn_NN :_PU 数字_NN 设备_NN ;_PU zh_NN -_PU tw_NN :_PU 数位_NN 装置_NN ;_PU }_NN -_PU 和_CC -_PU {zh_NN -_PU cn_NN :_PU 交互式_JJ 对象_NN ;_PU zh_NN -_PU tw_NN :_PU 交互式_JJ 物件_NN ;_PU }_NN -_PU ，_PU 以便_AD 在_P 物理_NN 和_CC -_PU {zh_NN -_PU cn_NN :_PU 数字_NN 世界_NN ;_PU zh_NN -_PU tw_NN :_PU 数位_NN 世界_NN ;_PU }_NN -_PU 中_LC 感知_NN 和_CC 控制_NN -_PU {zh_NN -_PU cn_NN :_PU 对象_NN ;_PU zh_NN -_PU tw_NN :_PU 物件_NN ;_PU }_NN -_PU 。_PU 该_DT -_PU {zh_NN -_PU cn_NN :_PU 项目_NN ;_PU zh_NN -_PU tw_NN :_PU 专案_NT ;_PU }_AD -_PU 的_DEC 产品_NN 是_VC 按照_P G_CD N_CD U_NN 宽_AD 通用_P 公共_JJ 许可证_NN （_PU LGPL_NN ）_PU 或_CC GNU_NN 通用_VV 公共_JJ 许可证_NN （_PU GPL_NN ）_PU 许可_VV 的_DEC 开源_NN 硬件_NN 和_CC 软件_NN 分发_VV 的_SP ，_PU Arduino_NN 允许_VV 任何_DT 人_NN 制造_VV Arduino板_NN 和_CC 软件_NN 分发_VV 。_PU Arduino板_NN 可以_VV 以_P 预装_VV 的_DEC 形式_NN 商业_NN 销售_VV ，_PU 也_CC 可以_VV 作为_P DIY_NN 套件_NN 购买_VV 。_PU
+
+Arduino_NN 电路板_NN 设计_VV 使用_VV 各_DT 种_M 微_JJ 处理器_NN 和_CC 控制器_NN 。_PU 这些_DT 电路板_NN 配有_VV 一_CD 组_M 数字_NN 和_CC 模拟_NN I_NN /_PU O_NN 引脚_NN ，_PU 可以_VV 连接_VV 各_DT 种_M 扩展板_NN 或_CC 面_NN 包板_NN （_PU 屏蔽板_NN ）_PU 和_CC 其他_DT 电路_NN 。_PU 这些_DT 电路板_NN 具有_VV -_PU {zh_NN -_PU cn_NN :_PU 串行_VV 通信_NN 接口_NN ;_PU zh_NN -_PU tw_NN :_PU 串行埠_NN ;_PU }_NN -_PU ，_PU 包括_VV 某些_DT 型号_NN 上_LC 的_DEC -_PU {zh_NN -_PU cn_NN :_PU 通用_JJ 串行_NN 总线_NN ;_PU zh_NN -_PU tw_NN :_PU 通用_AD 串行_VV 总线_NN ;_PU }_NN -_PU （_PU USB_NN ）_PU ，_PU 也_AD 用于_VV 从_DT 个_M 人电脑_NN 加载_NN 程序_NN 。_PU 微_JJ 控制器_NN 通常_AD 使用_VV C_NN /_PU C_NN +_NN +_LC -_PU {zh_NN -_PU cn_NN :_PU 编程_NN 语言_NN ;_PU zh_NN -_PU tw_NN :_PU 程式_NN 语言_NN ;_PU }_NN -_PU 。_PU 除了_P 使用_VV 传统_JJ 的_DEG 编译_NN 工具链_NN 之外_LC ，_PU Arduino_NN 项目_NN 还_AD 提供_VV 了_AS 一_CD 个_M 基于_P Processing_NN 语言_NN -_PU {zh_NN -_PU cn_NN :_PU 项目_NN ;_PU zh_NN -_PU tw_NN :_PU 专案_NT ;_PU }_AD -_PU 的_DEC 集成_JJ 开发_NN 环境_NN 。_PU
+
+Arduino_NN -_PU {zh_NN -_PU cn_NN :_PU 项目_NN ;_PU zh_NN -_PU tw_NN :_PU 专案_NN ;_PU }_AD -_PU 始于_VV 2003_CD 年_M ，_PU 作为_P 意大_JJ 利伊_NN 夫雷_NN 亚地区_NN 伊_ETC 夫雷亚_NN 交互_NN 设计_VV 研究所_NN 的_DEC 学生_NN -_PU {zh_NN -_PU cn_NN :_PU 项目_NN ;_PU zh_NN -_PU tw_NN :_PU 专案_VE ;_PU }_NN -_PU ，_PU 目的_NN 是_VC 为_P 新手_JJ 和_CC 专业_NN 人员_NN 提供_VV 一_CD 种_M 低_JJ 成本_NN 且_CC 简单_VA 的_DEC 方法_NN ，_PU 以_MSP 创建_VV 使用_VV 传感器_NN 与_P 环境_NN 相互_AD 作用_VV 的_DEC 设备_NN 执行器_NN 。_PU 适用于_VV 初学者_NN 爱好者_NN 的_DEG 此_DT 类_M 设备_NN 的_DEG 常见_JJ 示_VV 例_NN 包括_VV 简单_VA 机器人_NN 、_PU 恒温器_NN 和_CC 运动_NN 检测器_NN 。_PU
+
+Arduino_NN 这_DT 个_M 名字_NN 来自_VV 意大_JJ 利伊夫_NN 雷亚_VA 的_DEC 一_CD 家_M 酒吧_NN ，_PU 该_DT 项目_NN 的_DEG 一些_CD 创始_VV 人过_P 去常常_AD 会去_VV 这_DT 家_M 酒吧_NN 。_PU 酒吧以伊夫雷亚的Arduin（ArduinofIvrea）_PU 命名_NN ，_PU 他_PN 是_VC 伊_JJ 夫雷亚_NN 边疆_NN 伯_NN 爵_LC ，_PU 也_AD 是_VC 1002_CD 年_M 至_CC 1014_CD 年期_NN 间_LC 的_DEG 意大利_NN 国王_NN 。_PU
+
+使用_VV AtmelAVR_NN 单片机_NN ，_PU 采用_VV 开源_NN 的_DEC 软硬体_NN 平台_NN ，_PU 构建于_VV 开源_NN simpleI_NN /_PU O_NN 介面板_NN ，_PU 并_CC 具有_VV 使用_VV 类似_JJ Java_NN 、_PU C_NN 语言_NN 的_DEC Processing_NN /_PU Wiring_NN 开发_NN 环境_NN 。_PU
+
+Arduino_NN 的_DEG 核心_NN 开发_VV 团队_NN 成员_NN 包括_VV ：_PU 马西_NN 莫_NN ·_PU 班齐_NN （_PU MassimoBanzi_NN ）_PU 、_PU 大卫_CD ·_PU 奎提_NN 耶_ETC 斯_DT （_PU DavidCuartielles_M ）_PU 、_PU 汤姆_NN ·_PU 伊果_NN （_PU TomIgor_NN ）_PU 、_PU 赞布_NN 罗塔_NN ·_PU 马提诺_NN （_PU G_CD ia_M nlucaMartino_NR ）_PU 、_PU 大卫_CD ·_PU 梅利_NN 斯_NN （_PU DavidMellis_M ）_PU 和_CC 尼_CS 可_VV 拉斯_VV ·_PU 兰比提_NN （_PU N_CD icholasZambetti_M ）_PU 。_PU
+
+据说_AD 马西_NR 莫_ETC ·_PU 班齐_NN 之前_LC 是_VC 义大_NR 利Ivrea_NR 一_CD 家_M 高_JJ 科技_NN 设计_VV 学校_VV 的_DEC 老师_NN 。_PU 他_PN 的_DEG 学生们_NN 经常_P 抱怨_VV 找_VV 不_AD 到_VV 便宜_AD 好用_VV 的_DEC 微_JJ 控制器_NN 。_PU 2005_CD 年_M 冬天_NN ，_PU 马西_NN 莫_NN ·_PU 班_NN 齐_AD 跟_P 大卫_AD ·_PU 奎提_NN 耶_VV 斯_PN 讨论_VV 了_AS 这_DT 个_M 问题_NN 。_PU 大卫_AD ·_PU 奎提_NN 耶_NN 斯_AD 是_VC 一_CD 个_M 西班_NN 牙籍_NN 芯片_NN 工程师_NN ，_PU 当时_NT 在_P 这_DT 所_MSP 学_VV 校做_NN 访问_NN 学者_NN 。_PU 两_CD 人_NN 决定_VV 设计_NN 自己_VA 的_DEC 电路_NN 板_NN ，_PU 并_CC 引入_VV 了_AS 马西_NN 莫_NN ·_PU 班齐_NN 的_DEC 学生_NN 大卫_AD ·_PU 梅利_NN 斯_AD 为_VC 电路_NN 板设_VV 计编程_NN 语言_NN 。_PU 两_CD 天_M 以后_LC ，_PU 大卫_AD ·_PU 梅利_NN 斯_DT 就_AD 写出_VV 了_AS 程序_NN 代码_NN 。_PU 又_AD 过_VV 了_AS 三_CD 天_M ，_PU 电路板_NN 就_AD 完工_VV 了_AS 。_PU 这_DT 块_M 电路_NN 板_NN 被_SB 命名_VV 为_VC Arduino_NN 。_PU 几乎_AD 任何_DT 人_NN ，_PU 即_AD 使_VV 不_AD 懂_VV 电脑_NN 编程_NN ，_PU 也_AD 能_VV 用_P Arduino_NN 做出_VV 很_AD 酷_VA 的_DEC 东西_NN ，_PU 比如_AD 对_P 传感器_NN 作出_VV 回应_NN ，_PU 闪烁_NN 灯光_NN ，_PU 还_AD 能_VV 控制_VV 马达_NN 。_PU 随后_AD 马西莫_VV ·_PU 班齐_NN 、_PU 大卫_AD ·_PU 奎提_NN 耶_NOI 斯_DT 和_CC 大_JJ 卫_VV ·_PU 梅利_NN 斯_DT 把_BA 设计_VV 图_NN 放到_VV 了_AS 网上_NN 。_PU 保持_VV 设计_NN 的_DEG 开放_NN 源码_NN 理念_VA ，_PU 因为_P 版权法_NN 可以_VV 监管_VV 开源_NN 软体_NN ，_PU 却_AD 很_AD 难_AD 用_VV 在_P 硬体_NN 上_LC ，_PU 他们_PN 决定_AD 采用_VV 共享_JJ 创意_NN 许可_VV 。_PU 共享_AD 创意_VV 是_VC 为_P 保护开_NN 放版_NN 权行_NN 为_VC 而_MSP 出现_VV 的_DEC 类似_NN G_CD PL_VV 的_DEC 一_CD 种_M 许可_VV （_PU license_VV ）_PU 。_PU 在_P 共_AD 享创_VV 意许可_NN 下_LC ，_PU 任何_DT 人_NN 都_AD 被_SB 允许_VV 生产_VV 印刷_NN 电路板_NN 的_DEG 复制品_NN ，_PU 还_AD 能_VV 重新_AD 设计_VV ，_PU 甚至_AD 销售_VV 原_JJ 设计_NN 的_DEG 复_AD 制品_NN 。_PU 你_PN 不_AD 需要_VV 付版稅_VV ，_PU 甚至_AD 不_AD 用_VV 取得_VV Arduino_NN 团队_NN 的_DEC 许可_NN 。_PU 然而_AD ，_PU 如果_CS 你_PN 重新_AD 发佈_VV 了_AS 引用_VV 设计_NN ，_PU 你_PN 必须_VV 说明_VV 原始_JJ Arduino_NN 团队_NN 的_DEG 贡献_NN 。_PU 如果_CS 你_PN 调整_VV 或_CC 改动_VV 了_AS 电路板_NN ，_PU 你_PN 的_DEG 最新_JJ 设计_NN 必须_VV 使用_VV 相同_VA 或_CC 类似_VA 的_DEC 共享_NN 创意_AD 许可_VV ，_PU 以_MSP 保证_VV 新版_NN 本_DT 的_DEG Arduino_NN 电路板_NN 也_AD 会_VV 一样_VA 的_DEC 自由_NN 和_CC 开放_VV 。_PU 唯_AD 一_CD 被_SB 保留_VV 的_DEC 只有_JJ Arduino_NN 这_DT 个_M 名字_NN 。_PU 它_PN 被_SB 注册_VV 成_VV 了_AS 商标_VV 。_PU 如果_CS 有_VE 人_NN 想用_VV 这_DT 个_M 名字卖_NN 电路板_NN ，_PU 那_DT 他们_PN 可能_VV 必须_VV 付_VV 一_CD 点商_NN 标费_VV 用_P 给_P Arduino_NR 的_DEC 核心_NN 开发_VV 团队_NN 成员_NN 。_PU
+
+赞布_NN 罗塔_NN ·_PU 马提诺_NN 创立_VV 的_DEC ArduinoSrl_NN 被_SB 2009_CD 年_M 创立_VV 的_DEC ArduinoLLC_NN 控告_NN 侵犯_VV 了_AS 他们_PN 的_DEG 著作权_NN ，_PU 这_DT 第二_OD 家_M 被_SB 控侵_VV 权_NN 的_DEG Arduino_NN （_PU 也就_AD 是_VC ArduinoSrl_NN ）_PU ，_PU 原先_AD 叫做_VV SmartProjectsSrl_NR ，_PU 以前是_AD 在_P 义大_NT 利负_VV 责_JJ 生产_NN 制造_VV Arduino_NN 控制板_NN 的_DEG 公司_NN 。_PU 而_CC 第一_OD 家_M Arduino_NN （_PU 也就_AD 是_VC 我们_PN 较_AD 熟悉_VA 的_DEC ArduinoLLC_NN ）_PU 则_AD 负责_VV 开发_VV 控制板_NN ，_PU 并_CC 管理_VV 周边_NN 的_DEG 开源_NN 专题_NN 与_CC 社群_NN 。_PU 在_P 之前_NT ，_PU 原本_JJ 双方_NN 是_VC 合作_VV 的_DEC 关系_NN ；_PU 2014_CD 年马_NN 提诺_NN 与_CC 另外_DT 四_CD 位_M 共同_JJ 创办人_NN ，_PU 对于_P Arduino_NN 品牌_NN 的_DEG 发展_NN 方向_NN 意见_VA 不合_VA ，_PU 导致_VV 马提诺_NN 另外_AD 请费_VV 德里_NN 科_NN ·_PU 穆斯_JJ 托担_NN 任SmartProjects_VV 的_DEC 新执_JJ 行长_NN ，_PU 并_CC 把_BA 公司_NN 名称_NN 改为_VV ArduinoSrl_NN 。_PU
+
+
+原始_VA 的_DEC Arduino_NN 硬体_NN 是_VC 从_P 一_CD 间意_NN 大利_NR 公司_NN SmartProjects_NR 制造_VV 有些_DT Arduino_NN 硬体_NN 则_AD 是_VC 被官_NN 方授权_NN 由_P 美国_NR 公司_NN 和_CC 设计_NN 。_PU 。_PU
+
+「_PU Shields_NR 」_PU 扩充_NN 版_NN 能够_VV 被_SB 插入_VV Arduino_NN 和_CC Arduino_NN 相容_JJ 硬体_NN 。_PU 用途_NN 是_VC 增加_VV Arduino_NN 硬体_NN 上_LC 没有_VV 的_DEC 功能_NN ，_PU 如_P 马达_NN 控制_NN 、_PU GPS_NN 、_PU 有线_JJ 网路_NN 、_PU 液晶_NN 显示器_NN 或者_CC 是_VC 面_JJ 包板_NN 。_PU 使用者_NN 也_AD 可以_VV 自己动_AD 手做_VV Shields_NR 扩充版_NN 。_PU
+
+在_P Arduino_NN 上_LC 执行_VV 的_DEC 程式_NN 可以_VV 使用_VV 任何_DT 能够_VV 被_SB 编译_VV 成_VV Arduino_NN 机器码_NN 的_DEG 程式_NN 语言_NN 编写_VV 。_PU
+
+而_AD Atmel_NN 也_AD 提供_VV 了_AS 数_CD 个_M 可以_VV 开发_VV Atmel_NN 微处_NN 理机_NN 程式_NN 的_DEC 集成_JJ 开发_NN 环境_NN ，_PU AVRStudio_NN 和_CC 更新_VV 的_DEC AtmelStudio_NN 。_PU
+
+目前_NT 微软_AD 在_P 其_PN VisualStudio_NN 也_AD 有_VE 提供_VV Arduino_NN 的_DEG SDK_NN ，_PU 在_P 编译_NN 执行_VV 上_LC 更_AD 方便_VA 。_PU
+而_AD Arduino_NN 计划_VV 也_AD 提供_VV 了_AS ArduinoSoftwareIDE_NN ，_PU 一_CD 套_M 以_P Java_NN 编写_VV 的_DEC 跨_VV 平台_NN 应用_VV 软体_NN 。_PU ArduinoSoftwareIDE_NN 源自_VV 於_P Processing_NN 程式_NN 语言_NN 以及_CC 计划_VV 的_DEC 集成_JJ 开发_NN 环境_NN 。_PU 它_PN 是_VC 被_SB 设计_VV 於_P 介绍_NN 程式_NN 编写_VV 给_P 艺术家_NN 和_CC 不熟_JJ 悉程式_NN 设计_VV 的_DEC 人们_NN ，_PU 且_CC 包含_VV 了_AS 一_CD 个_M 拥有_VV 语法_NN 突显_VA 、_PU 括号_NN 匹配_VV 、_PU 自动_AD 缩排_VV 和_CC 一_CD 键_NN 编译_VV 并_CC 将_BA 可_VV 执行_VV 文件_NN 烧_VV 写入_VV Arduino_NN 硬体_NN 中_LC 的_DEG 编辑器_NN 。_PU
+
+ArduinoSoftwareIDE_NN 使用_VV 与_P C_NN 语言_NN 和_CC C++_NN 相仿_VV 的_DEC 程式_NN 语言_NN ，_PU 并且_CC 提供_VV 了_AS 包含_VV 常见_JJ 的_DEG 输入_NN /_PU 输出_NN 函数_NN 的_DEG 软体_NN 函数库_NN 。_PU 在_P 使用_VV G_CD NUtoolchain_VV 编译_NN 和_CC 链接_NN 后_LC ，_PU ArduinoSoftwareIDE_NN 提供_VV 了_AS 一_CD 个_M 程式_NN 「_PU avrdude_NN 」_PU 用来_VV 转换_VV 可_VV 可_VV 执行_VV 文件_NN 成为_VV 能够_VV 烧_VV 写入_VV Arduino_NN 硬体_NN 的_DEC 固件_NN 。_PU
+
+使用_VV ArduinoSoftwareIDE_NN 编写_NN 的_DEC 程式_NN 被_SB 称为_VV 「_PU sketch_NN 」_PU 。_PU 一_CD 个_M 典型_VA 的_DEC ArduinoC_NN /_PU C_NN +_AD +_VV sketch_NN 程式_NN 会_VV 包含_VV 两_CD 个_M 函数_NN ，_PU 它们_PN 会_VV 在_P 编译_NN 后_LC 合成_VV 为_VC main_NN ()_PU 函数_NN ：_PU
+
+这_PN 是_VC Arduino_NN 的_DEG Blink_NN 范例_NN 程式_NN 。_PU
+
+Arduino_NN 程式_NN 可_VV 由_P 五_CD 个_M 部分_NN 组成_VV ：_PU
+/_PU /_PU 1_CD ._PU 汇入_VV 函数库_NN 与_CC 定义_NN (_PU 可_VV 有_VE 可_VV 无_VE )_PU
+
+
+/_PU /_PU 2_CD ._PU 宣告_NN 常数_NN 与_CC 全域_NN 变量_NN (_PU 可_VV 有_VE 可_VV 无_VE )_PU
+
+constfloatPI_NN =_PU 3_CD ._PU 14159_CD ;_PU
+intr_NN ;_PU
+
+/_PU /_PU 3_CD ._PU 设定_NN 函数_NN (_PU 必要_NT )_PU
+
+/_PU /_PU 4_CD ._PU 无限_JJ 回圈_NN ;_PU (_PU 必要_VA )_PU
+
+/_PU /_PU 5_CD ._PU 自订_NN 函数_NN (_PU 可_VV 有_VE 可_VV 无_VE )_PU
+
+floatarea_NN (_PU floatr_NN )_PU {_PU
+
+其中_NN setup_NN ()_PU 与_CC loop_NN ()_PU 是_VC 一定_JJ 要有_JJ 的_DEG 函数_NN （_PU 均_AD 无_VE 参数_NN 无_VE 传回值_NN ）_PU ，_PU 其_PN 他_PN 则_AD 视_VV 需要_VV 而_MSP 定_VV 。_PU Arduino_NN 语言_NN 采用_VV C/C_NN ++_PU 语法_NN ，_PU
+
+加上_VV 以_P Wiring_NN 为_VV 基础_NN 的_DEC 电子_NN 设计_NN 核心函_NN 数库_NN 组合_VV 而_MSP 成_VV ，_PU 包括_VV DigitalI_NN /_PU O_NN ,_PU AnalogI_NN /_PU O_NN 等_ETC 函数库_NN 。_PU 内建_NN 的_DEC 函数库_NN 可_VV 直接_AD 调用_VV ，_PU
+
+但_AD 若_CS 有_VE 使用_VV 第三_OD 方函_NN 数_CD 库_NN （_PU 例如_AD 驱动_VV 传感器_NN 模块_NN 所_MSP 需_VV 的_DEC 函数库_NN ）_PU ，_PU 则_AD 必须_VV 使用_VV include_NN 前置_NN 指令_VV 引入_VV 。_PU 此外_AD ，_PU 也_AD 可以_VV 用_P 前置_NN 指令_VV define_NN 定义_VV 一_CD 个_M 常数_NN 或_CC 巨集_NN （_PU 运算_NN 式_NN ）_PU 。_PU
+
+前置_NN 指令_VV 乃_VC C_NN 编译器_NN 指令_NN ，_PU 不_AD 属于_VV C_NN 语言_NN 本身_PN ，_PU 其_PN 用途_NN 有_VE 三_CD ：_PU
+
+
+所以_AD 前置_VV 指令_NN 的_DEC 功能_NN 一_CD 言_VV 以_P 蔽_PN 之_DEG 就_AD 是_VC 替换_VV ，_PU include_NN 就_AD 是_VC 在_P 标头_NN 处以_VV 指定_VV 之_DEC 文件_NN 内容_NN 替换_VV ；_PU 而_CC define_NN 就_AD 是_VC 在_P 程式_NN 中_LC 用到_VV 所_MSP 定义_VV 之_DEC 常数_NN 与_CC 巨集_NN 名称_NN 时_LC ，_PU 以_P 其_PN 内容_NN 替换_VV 。_PU
+
+巨集_JJ 的_DEG 功能事_NN 实上_AD 与_P 函数_NN 类似_NN ，_PU 不同_VA 之_DEC 处_NN 是_VC 函数_NN 呼叫_NN 使用_VV 堆叠_VV ，_PU 而_CC 巨集_AD 则_AD 是_VC 直接_AD 放_VV 在_P 源代码_NN 中_LC ，_PU 执行_VV 效率_NN 较_AD 快_VA （_PU 但_AD 若_CS 很_AD 多_VA 地_DEV 方都_NN 要_VV 用到_VV 时_LC ，_PU 编译_VV 后_LC 就_AD 会_VV 比较_VV 大_VA ）_PU 。_PU
+
+头文件_NN 可_VV 用_P 角_NN 括号_NN <_PU >_CD 或_CC 双_CD 引号_NN "_PU "_PU ，_PU 差別_NN 是_VC 用_P 双_CD 引号_NN 时_LC ，_PU 前置_NN 处理器_NN 会_VV 先_AD 从_P 原始档_NN 所_MSP 在_VV 位置_NN 开始_VV 去搜_VV 寻头_NN 文件_NN ；_PU 而_CC 用_P 角括号_NN 则_AD 会_VV 先_AD 从_P libraries_NN 目录_NN 开始_VV 找_VV 。_PU
+
+
+
+
+
+

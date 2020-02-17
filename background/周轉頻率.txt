@@ -1,0 +1,11 @@
+﻿周_NN 转频率_NN
+
+周转_NN 频率_NN 是_VC 在_P 天文_NN 物理_NN ，_PU 特別_NN 是_VC 吸积盘_NN 的_DEG 研究_NN 中_LC ，_PU 流体_NN 在_P 径向_NN 方向_NN 转换_NN 部分_NN 的_DEG 振荡_NN 频率_NN 。_PU 它_PN 可以_VV 被_SB 认为_VV 是_VC 「_PU 瑞利_NN 判別_JJ 式_NN 」_PU 。_PU 当_P 考虑_VV 天文_NN 物理_NN 中盘_NN 面_NN 的_DEG 较_AD 差_JJ 自转_NN
+formula_NN __NN 1_CD ，_PU 周转_NN 频率_NN formula_NN
+此_DT 处_NN R_NN 是_VC 座标_NN 中_LC 的_DEG 径向_NN 。_PU
+
+这_DT 个量_NN 可以_VV 检视_VV 吸积盘_NN 的_DEC 「_PU 边界_NN 」_PU ──_NN 当_P formulaStableCircularOrbit_NN ）_PU 发生_VV 在_P 事件_NN 视界_VV 的_DEC 3_CD 倍_M 距离_NN ──_PU 在_P formula_NN
+
+对_P 克卜勒_NN 的_DEC 盘面_NN ，_PU formula_NN
+
+

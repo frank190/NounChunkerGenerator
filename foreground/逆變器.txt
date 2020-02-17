@@ -1,0 +1,38 @@
+﻿_CS 逆变器_NN
+
+逆变器_NN （_PU 又称_JJ 反流器_NN 、_PU 反_VV 用_P 换流器_NN ；_PU ）_PU 是_VC 一_CD 个_M 利用_VV 高频_JJ 桥式_NN 电路_NN 将_BA 直流电_NN （_PU DC_NN ）_PU 变换_VV 成_VV 交流电_NN （_PU AC_NN ）_PU 的_DEG 电子_NN 器件_NN ，_PU 其_PN 目的_NN 与_CC 整流器_NN 相反_AD （_PU AC_NN 转_CC DC_NN ）_PU ；_PU
+
+逆变器_NN （_PU Inverter_NN ）_PU 及_CC 整流器_NN （_PU Rectifier_NN ）_PU 皆_AD 为_VC 换流器_NN /_PU 变流器_NN （_PU Converter_NN ）_PU 的_DEG 其中_NN 一_CD 种_M 。_PU
+
+根据_P 逆变器_NN 的_DEG 电路_NN 形式_NN 与_CC 输出_VV 的_DEC 交流_NN 信号_NN ，_PU 可_VV 分为_VV 半_CD 桥_M 逆变器_NN 、_PU 全_DT 桥_NN 逆变器_NN 和_CC 三_CD 相桥式_JJ 逆变器_NN 。_PU
+
+半_CD 桥_NN 逆变器_NN 由_P 两_CD 个_M 开关_NN 串联_VV 组成_VV ，_PU 输出端_NN 位于_VV 两_CD 个_M 开关_NN 的_DEG 中点_NN ，_PU 由_P 上_JJ 下_JJ 两_CD 个_M 开关_NN 的_DEG 开通_NN 、_PU 关断_NN 来_MSP 决定_VV 输出_VV 的_DEC 电压_NN 。_PU 半_CD 桥_M 逆变器_NN 配合_VV 两_CD 个_M 分压_JJ 电容_NN ，_PU 可以_VV 输出_VV 双_CD 端_NN 之间_LC 的_DEC 高频_JJ 交流_NN 电_NN 。_PU 开关_NN 旁_LC 一般_AD 需要_VV 并_CC 联续流_VV 二极管_NN ，_PU 以便_AD 在_P 感性_NN 负载_NN 时_LC 起到_VV 续_AD 流_VV 作用_NN 。_PU 半_CD 桥_M 逆变器_NN 配合_VV 正_AD 负_VV 双_CD 电压_NN 源_NN ，_PU 可以_VV 输出_VV 双_CD 端_NN 的_DEG 完全_JJ 交流_NN 、_PU 含有_VV 直流_JJ 分量_NN 的_DEC 交流_NN 以及_CC 完全_AD 直_AD 流_VV 信号_NN 。_PU
+
+全_DT 桥_NN 逆变器_NN 由_P 各_PN 含_VV 两_CD 个_M 开关_NN 的_DEG 两_CD 个_M 桥臂_NN 连接_VV 成正_NN 方形_NN 组成_VV ，_PU 输出端_NN 的_DEG 两_CD 端_NN 分别_AD 位于_VV 两_CD 组_M 开关_NN 的_DEG 中点_NN ，_PU 相当于_VV 取_VV 两_CD 个_M 半桥_NN 的_DEG 电压_NN 差_VA ，_PU 因此_AD 可以_VV 得到_VV 正_AD 负_VV 双向_VA 的_DEC 交流_NN 输出_NN 。_PU 全_DT 桥_NN 逆变器_NN 可以_VV 不_AD 依_VV 赖外加_VV 器件_NN ，_PU 仅仅_AD 使用_VV 单电_JJ 压源_NN 输出_VV 双_CD 端_NN 的_DEG 完全_JJ 交流_NN 、_PU 含有_VV 直流_JJ 分量_NN 的_DEC 交流_NN 以及_CC 完全_AD 直_AD 流_VV 信号_NN 。_PU
+
+三_CD 相桥式_JJ 逆变器_NN 类似于_VV 全_DT 桥_M 逆变器_NN ，_PU 但_CC 它_PN 有_VE 三_CD 个_M 桥臂_NN ，_PU 输出端_NN 的_DEC 三_CD 端_NN 分别_AD 位于_VV 三_CD 组_M 开关_NN 的_DEG 中点_NN ，_PU 取_VV 两_CD 两_CD 之间_LC 的_DEG 电压_NN 差_NN 就_AD 可以_VV 得到_VV 三_CD 相电_NN 所_MSP 需_VV 的_DEC 三_CD 个_M 相电压_NN 。_PU 根据_P 三_CD 组_M 共_CC 六_CD 个_M 开关_NN 的_DEG 开通_NN 顺序_VV ，_PU 三_CD 相桥式_JJ 逆变器_NN 可以_VV 得到_VV 一_CD 组_M 幅值_NN 相等_VA 、_PU 频率_NN 相等_VA 、_PU 相位_NN 相_NN 差_NN 120_CD °_M 的_DEG 三_CD 相_NN 电信_NN 号_NN 。_PU
+
+根据_P 输出端_NN 是否_AD 有_VE 源_NN ，_PU 又_CC 可以_VV 分为_VV 有_VE 源_NN 逆变_NN 和_CC 无源_JJ 逆变_NN 。_PU
+
+如果_CS 逆变器_NN 的_DEG 输出_NN 需要_VV 直接_AD 并入_VV 电网_NN ，_PU 则_AD 属于_VV 有_VE 源_NN 逆变_NN 。_PU 在_P 此_DT 情况_NN 下_LC ，_PU 输出端_NN 原本_AD 已经_AD 有_VE 电压_NN 波动_NN ，_PU 逆变器_NN 只是_AD 向外_AD 输出_VV 能量_NN 。_PU 由于_P 输出端_NN 电压_NN 波动_NN 的_DEG 影响_NN ，_PU 逆变_NN 器件_NN 可以_VV 自动_AD 关断_VV ，_PU 而_CC 无需_AD 在_P 控制_VV 时_LC 予以_VV 强制_NN 关断_VV ，_PU 因此_AD 可以_VV 使用_VV 较_AD 廉价_VA 的_DEC 半控器件_NN 如_P 晶闸管_NN 。_PU
+
+若_CS 逆变器_NN 输出_VV 需要_VV 直接_AD 使用_VV ，_PU 不_AD 并入_VV 电网_NN ，_PU 则_AD 属于_VV 无源_JJ 逆变_NN 。_PU 在_P 此_DT 情况_NN 下_LC ，_PU 由于_P 输出端_NN 没有_VE 电压_NN 波动_NN ，_PU 逆变器_NN 需要_VV 严格_AD 控制_VV 通断_NN ，_PU 因此_AD 必须_VV 使用_VV 全控器件_NN 如_AD 可_VV 关断_VV 晶闸管_NN 等_ETC 。_PU
+
+若_CS 逆变器_NN 输出_VV 需要_VV 并入_VV 电网_NN ，_PU 或是_CC 需要_VV 驱动_VV 一_CD 个_M 已经_AD 在_P 转动_VV 的_DEC 电动机_NN 等_ETC 电感性_NN 负载_NN ，_PU 则_AD 逆变器_NN 输出_NN 信号_NN 的_DEG 相位_NN 将_AD 至关_AD 重要_VV 。_PU 为了_P 控制_VV 逆变器_NN 输出_VV 的_DEC 相位_NN ，_PU 需要_VV 在_P 逆变器_NN 中_LC 加入_VV 相控_JJ 电路_NN 。_PU 常用_JJ 相控_NN 电路_NN 的_DEG 原理_NN 有_VE 如下_JJ 两_CD 种_M ：_PU
+
+相敏_JJ 检测_NN 电路_NN 可以_VV 检测_VV 到_VV 交流_NN 波形_NN 中_LC 的_DEG 某_DT 一_CD 特定点_NN ，_PU 如过_P 零点_NN 、_PU 最_AD 高点_NN 等_ETC 。_PU 当_P 一_CD 个_M 信号_NN 源_NN 每次_AD 到达_VV 此_DT 特定点_NN 时_LC ，_PU 通过_P 调节_VV 其它_DT 信号_NN 源_NN 到达_VV 同样_JJ 的_DEG 点_NN ，_PU 以_MSP 实现_VV 同_DT 相_NN 。_PU 由于_P 交流_NN 电是_NN 时时_NN 变化_VV 的_SP ，_PU 这_DT 种_M 前馈_NN 调节_NN 方式_NN 总_AD 存在_VV 一定_JJ 的_DEG 滞后_NN ，_PU 调节_NN 效果_NN 并_AD 不_AD 理想_VA ，_PU 要_VV 实现_VV 一定_JJ 的_DEG 相位差_NN 也_AD 较_AD 困难_VA 。_PU
+
+锁相_NN 环_NN 电路_NN 通过_P 鉴相器_NN 获得_VV 各_DT 信号_NN 源_NN 的_DEG 当前_NN 相位_VV ，_PU 并_CC 通过_P 反馈_NN 调节_NN 方式_NN 使_VV 各_DT 信号_NN 源_NN 的_DEG 相位_NN 趋于_VV 一致_VA ，_PU 调节_NN 效果_NN 好_VA 、_PU 精度_NN 高_VA ，_PU 也_AD 容易_AD 实现_VV 一定_JJ 的_DEG 相位差_NN 。_PU
+
+反_VV 用_P 换流器_NN 的_DEG 应用_NN 广泛_VA ，_PU 其_PN 主要_AD 应用_VV 如下_VV ：_PU
+
+光伏_NN 逆变器_NN 能够_VV 将_BA 光伏_NN 电池_NN 产生_VV 的_DEC 直流_NN 电能_NN 转换_VV 为_VC 能够_VV 并_P 网_NN 或_CC 直接_AD 使用_VV 的_DEC 交流_NN 电能_NN 。_PU 光_AD 伏发_NN 电是_NN 极_AD 具发_VV 展潜力_NN 的_DEC 可再_JJ 生能源_NN 。_PU 随着_P 光伏_NN 电池_NN 转换_NN 效率_NN 的_DEG 提高_NN ，_PU 制造_NN 成本_NN 的_DEG 降低_NN ，_PU 以及_CC 国家_NN 对于_P 光伏_NN 发电_NN 的_DEG 大力_NN 支持_NN ，_PU 近些_AD 年来_VV 光_AD 伏_JJ 逆变器_NN 作为_P 配套_NN 产品_NN ，_PU 也_AD 不断_AD 快速_AD 发展_VV 。_PU
+
+不间_AD 断_VV 电源_NN 通过_P 有_VE 电_NN 时_LC 将_BA 市电_NN 整_AD 流成_VV 直流_NN 电_NN 存于_VV 电容_NN 当_NN 中_LC ，_PU 并_CC 于_P 停电_VV 时_LC 将_BA 电容_NN 当_P 中电_NN 能_VV 放出_VV 并_CC 转换_VV 成_VV 交流_NN 电_NN ，_PU 来_MSP 为_VV 用电_NN 器_NN 提供_VV 一_CD 个_M 稳定_VA 、_PU 一致_VA 、_PU 可靠_VA 的_DEC 供电_NN 系统_NN 。_PU 逆变器_NN 在_P 其中_NN 主要_AD 起到_VV 将_BA 电容_NN 中_LC 放出_VV 的_DEC 直流_JJ 电转换_NN 为_VV 交流_NN 电_NN 的_DEG 作用_NN ，_PU 同时_AD 对于_P 供电_VV 频率_NN 不_AD 稳_VA 的_DEC 地区_NN ，_PU 在_P 有_VE 电_NN 时_LC 也_AD 可以_VV 将_BA 市电_NN 整_DT 流_NN 再_AD 逆_VV 变_VV ，_PU 以_MSP 获得_VV 一_CD 个_M 稳定_VA 的_DEC 电源_NN 输入_NN 。_PU
+
+为了_P 输电_NN 方便_VA ，_PU 城市_NN 轨道_NN 交通_VV 列车_NN 和_CC -_PU {zh_NN -_PU hans_NN :_PU 公交_NN ;_PU zh_NN -_PU hant_NN :_PU 公共_JJ 运输_NN ;_PU }_NN -_PU 无_VE 轨电车_NN 系统_NN 一般_AD 使用_VV 直流_JJ 供电_NN ，_PU 但_CC 车辆_NN 所_MSP 用_VV 电动机_NN 大都_AD 为_VC 三_CD 相_NN 交流_NN 电机_NN ，_PU 因此_AD 必须_VV 使用_VV 逆变器_NN 进行_VV 逆变_NN 。_PU 新型_JJ 车辆_NN 一般_AD 使用_VV VVVF_NN 变频器_NN 进行_VV 变压_NN 变频_NN 调节_NN ，_PU 以_MSP 更_AD 好_VA 地_DEV 对_P 电机_NN 进行_VV 控制_NN 。_PU
+
+交_NOI -_PU 直_AD -_PU 交_VV 变频器_NN 是_VC 由_P 一_CD 个_M 整流器_NN 和_CC 一_CD 个_M 逆变器_NN 组成_VV 的_DEC ，_PU 通过_P 将_BA 交流_NN 电先_NN 转换_VV 成为_VV 直_CC 流电_VV ，_PU 再_AD 转换_VV 成为_VV 交流电_NN ，_PU 以_MSP 改变_VV 其_PN 频率_NN ，_PU 同时_AD 通过_P 对_P 逆变_JJ 部分_NN 开关_NN 的_DEG 控制_NN 来_MSP 更_AD 好_VA 地_DEV 实现_VV 输出_NN 控制_VV ，_PU 以_MSP 获得_VV 各_DT 种_M 需要_VV 的_DEC 交流_NN 电信号_NN 输出_NN 。_PU 此_DT 等_ETC 技术_NN 目前_NT 已_AD 应用_VV 于_P 变频_VV 式_NN 冷气机_NN 等_ETC 范畴_NN 。_PU
+
+
+

@@ -1,0 +1,10 @@
+﻿管流_NN
+
+管流_NN 是_VC 水力学_NN 及_CC 流体_NN 力学_NN 的_DEC 分支_NN ，_PU 是_VC 指液体_NN 在_P 管道_NN 的_DEG 流动_NN ，_PU 且_CC 液体_NN 不_AD 存_VV 在自_P 由_P 表面_NN （_PU 存在_VV 自由_P 表面_NN 的_DEC 类似_JJ 流动_NN 称为_VV 明渠_NT 流_VV ）_PU 。_PU
+
+管流_NN 和_CC 明渠_NN 流_VV 有_VE 许多_CD 类_M 似之_JJ 处_NN ，_PU 但_CC 两_CD 者_NN 的_DEG 差异_NN 主要_AD 是_VC 在_P 是否_AD 有_VE 自由_JJ 表面_NN 。_PU 管流_NN 没有_VE 自由_JJ 表面_NN ，_PU 因此_AD 不_AD 会_VV 直接_AD 受到_VV 大气_NN 压力_NN 的_DEG 影响_NN ，_PU 但是_CC 会_VV 受到_VV 管子_NN 内_LC 水压_NN 的_DEG 影响_NN 。_PU
+
+不_AD 是_VC 所有_DT 在_VV 封闭_VV 管道_NN 内_LC 的_DEG 液体_NN 流_NN 都_AD 属于_VV 管流_NN ，_PU 例如_AD 就_AD 是_VC 在_P 封闭_VV 管道_NN 内_LC ，_PU 但_AD 多半_AD 存在_VV 自由_P 表面_NN ，_PU 因此_AD 仍_AD 属于_VV 明渠流_JJ 。_PU 唯一_JJ 的_DEG 例外_AD 是_VC 雨水_NN 排水道_NN 全_AD 满_VA 时_LC ，_PU 不_AD 存在_VV 自由_P 表面_NN ，_PU 此时_NT 即_AD 可_VV 视为_VV 管流_NN 。_PU
+
+
+

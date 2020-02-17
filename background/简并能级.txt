@@ -1,0 +1,13 @@
+﻿简_NN 并_CC 能_VV 级_NN
+
+简_NT 并_CC 能_VV 级_NN （_PU ）_PU 在_P 物理学_NN 中_LC ，_PU 简_NN 并_CC 是_VC 指_VV 被_SB 当作_VV 同_DT 一_CD 较_NN 粗糙_NN 物理_NN 状态_NN 的_DEG 两_CD 个_M 或_CC 多_CD 个_M 不同_VA 的_DEC 较_AD 精细_JJ 物理_NN 状态_NN 。_PU
+
+例如_AD 在_P 量子_NN 力学_NN 中_LC ，_PU 原子_NN 中_LC 的_DEG 电子_NN ，_PU 由_P 其_PN 能量_NN 确定_VV 的_DEC 同_DT 一_CD 能级_NN 状态_NN ，_PU 可以_VV 有_VE 两_CD 种_M 不同_JJ 自旋量_NN 子数_NN 的_DEG 状态_NN ，_PU 该_DT 能_VV 级_P 状态_NN 是_VC 两_CD 种_M 不同_VA 的_DEC 自旋_NN 状态_NN 的_DEC 简并态_NN 。_PU
+
+在_P 统计物_NN 理学_NN 中_LC ，_PU 宏观_NN 上_LC 由_P 压强_NN 、_PU 体积_NN 、_PU 温度_NN 确定_VV 的_DEC 同_DT 一_CD 宏观_JJ 热力学_NN 状态_NN ，_PU 在_P 微观_NN 上_LC 可以_VV 对应_VV 大量_NN 不同_VA 的_DEC 微观_NN 状态_NN ，_PU 该_DT 热力学_NN 状态_NN 是_VC 这些_DT 微观_NN 状态_NN 的_DEC 简并态_NN 。_PU 简并_VV 在_P 量子_NN 力学_NN 和_CC 统计_NN 物理_NN 中_LC 的_DEG 意义_NN 不同_VA ，_PU 在_P 统计_NN 物理_NN 中_LC ，_PU 简_NN 并_CC 是_VC 指量子_NN 效应_NN 明显_VV 的_DEC 体系_NN 。_PU
+
+含有_VV 简并_JJ 电子_NN 基态_NN 的_DEC 非_AD 直线型_JJ 分子_NN 都_AD 会_VV 产生_VV 姜_NN -_PU 泰勒_NN 效应_NN ，_PU 而_CC 发生_VV 构_VV 型_NN 扭曲_VV ，_PU 例如_AD 六_CD 水_NN 合_VV 铜离子_NN [_PU Cu_NN (_PU OH_NN )_NN ]_PU 的_DEG 表象_NN 平面_NN 正_CC 方_NN 结构_NN 。_PU
+
+这些_PN 都_AD 是_VC 简并_VV 的_DEC 具体_JJ 例子_NN 。_PU
+
+

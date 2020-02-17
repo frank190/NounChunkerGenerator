@@ -1,0 +1,7 @@
+﻿_NOI ISM_NN 频段_NN
+
+ISM_NN 频段_NN （_PU IndustrialScientificMedicalBand_NR ）_PU ，_PU 中文_NN 意思分_NN 別_NN 是_VC 工业_NN 的_DEC (_PU Industrial_NN )_PU 、_PU 科学_VA 的_DEC (_PU Scientific)_NN 和_CC 医学_NN 的_DEG (_NN Medical_NN )_NN ，_PU 因此_AD 顾_VV 名_NN 思义_VV ISM_NN 频_VV 段_PN 就_AD 是_VC 各国_PN 挪出_VV 某_DT 一_CD 段_M 频_VV 段_PN 主要_AD 开放_VV 给_P 工业_NN ，_PU 科学_NN 和_CC 医学_NN 机构_NN 使用_VV 。_PU 应用_VV 这些_DT 频段_NN 无需_AD 许可_VV 证_JJ 或_CC 费用_VV ，_PU 只_AD 需要_VV 遵守_VV 一定_JJ 的_DEG 发射_NN 功率_NN （_PU 一般_AD 低于_VV 1W_CD ）_PU ，_PU 并且_CC 不_AD 要_VV 对_P 其它_DT 频段_NN 造成_VV 干扰_NN 即_AD 可_VV 。_PU ISM_NN 频段_VV 在_P 各国_PN 的_DEG 规定_NN 并_AD 不_AD 统一_VA 。_PU 如_P 在_P 美国_NR 有_VE 三_CD 个_M 频段_NN 902_CD -_PU 928_CD MHz_NN 、_PU 2400-2484.5MHz_NN 及_CC 5725_CD -_PU 5850_CD MHz_NN ，_PU 而_CC 在_P 欧洲_NN 900_CD MHz_NN 的_DEG 频段_NN 则_AD 有_VE 部份_NN 用于_VV GSM_NR 通信_NN 。_PU 而_CC 2_CD ._PU 4G_CD Hz_M 为_VC 各国_PN 共同_VA 的_DEC ISM_NN 频段_VV 。_PU 因此_AD 无线_JJ 局域网_NN （_PU IEEE802_NN ._PU 11_CD b_M /_PU IEEE802.11g_NN ）_PU 、_PU 蓝牙_NN 、_PU ZigBee_NN 等_ETC 无线_JJ 网络_NN ，_PU 均_AD 可_VV 工作_VV 在_P 2_CD ._PU 4_CD GHz_M 频段_NN 上_LC 。_PU
+
+在_P 国际_NN 电联_NN 无_VE 线电_NN 规则_NN ITU_NN -_PU R_OD 第5_OD 条_M 脚注_NN 5_CD ._PU 138_CD ，_PU 5_CD ._PU 150_CD 和_CC 5_CD ._PU 280_CD 中_LC 指定_VV 的_DEC ISM_NN 频_VV 段_NN 如下_VV ：_PU
+
+

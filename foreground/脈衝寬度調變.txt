@@ -1,0 +1,59 @@
+﻿脉冲_NN 宽度_NN 调变_VV
+
+脉冲_NN 宽度_NN 调制_VV （_PU ，_PU 缩写_VV ：_PU ）_PU ，_PU 简称_JJ 脉宽_NN 调制_VV ，_PU 是_VC 将_BA 模拟_NN 信号_NN 转换_VV 为_VC 脉波_NN 的_DEC 一_CD 种_M 技术_NN ，_PU 一般_AD 转换_VV 后_LC 脉波_NN 的_DEC 周期_NN 固定_VV ，_PU 但_CC 脉波_NN 的_DEG 工作_NN 周期_NN 会_VV 依_P 模拟_NN 信号_NN 的_DEG 大小_NN 而_MSP 改变_VV 。_PU
+
+在_P 模拟_NN 电路_NN 中_LC ，_PU 模拟_NN 信号_NN 的_DEC 值_NN 可以_VV 连续_AD 进行_VV 变化_NN ，_PU 在_P 时间_NN 和_CC 值_NN 的_DEG 幅度_NN 上_LC 都_AD 几乎_AD 没有_VE 限制_NN ，_PU 基本上_AD 可以_VV 取_VV 任何_DT 实数值_NN ，_PU 输入_VV 与_P 输出_NN 也_AD 呈_VV 线性_JJ 变化_NN 。_PU 所以_AD 在_P 模拟_NN 电路_NN 中_LC ，_PU 电压_NN 和_CC 电流_NN 可_VV 直接_AD 用来_VV 进行_VV 控制_NN 对象_NN ，_PU 例如_AD 家用_VV 电器_NN 设备_NN 中_LC 的_DEG 音量_NN 开关_NN 控制_NN 、_PU 采用_VV 卤素_NN 灯泡_NN 灯具_NN 的_DEG 亮度_NN 控制_NN 等等_ETC 。_PU
+
+但_AD 模拟_NN 电路_NN 有_VE 诸多_VA 的_DEC 问题_NN ：_PU 例如_AD 控制_NN 信号_NN 容易_AD 随_P 时间_NN 漂移_VV ，_PU 难以_AD 调节_VV ；_PU 功耗_NN 大_VA ；_PU 易_AD 受_VV 噪声_NN 和_CC 环境_NN 干扰_NN 等等_ETC 。_PU
+
+与_P 模拟_NN 电路_NN 不同_VA ，_PU 数字_NN 电路_NN 是_VC 在_P 预先_AD 确定_VV 的_DEC 范围_NN 内_LC 取值_VV ，_PU 在_P 任何_DT 时刻_NN ，_PU 其_PN 输出_NN 只_AD 可能_VV 为_VC ON_NN 和_CC OFF_NR 两_CD 种_M 状态_NN ，_PU 所以_AD 电压_NN 或_CC 电流_NN 会_VV 通_VV /_PU 断_VV 方式_NN 的_DEG 重复_JJ 脉冲_NN 序列_NN 加载_VV 到_VV 模拟_JJ 负载_NN 。_PU PWM_NN 技术_NN 是_VC 一_CD 种_M 对_P 模拟_NN 信号_NN 电平_NN 的_DEG 数字_NN 编码_NN 方法_NN ，_PU 通过_P 使用_VV 高_JJ 分辨率_NN 计数器_NN （_PU 调制_VV 频率_NN ）_PU 调制_VV 方波_NN 的_DEC 占空比_NN ，_PU 从而_AD 实现_VV 对_P 一_CD 个_M 模拟_NN 信号_NN 的_DEC 电平_NN 进行_VV 编码_NN 。_PU 其_PN 最_AD 大_VA 的_DEC 优点_NN 是_VC 从_P 处理器_NN 到_VV 被控_JJ 对象_NN 之间_LC 的_DEG 所有_DT 信号_NN 都_AD 是_VC 数字_NN 形式_NN 的_DEC ，_PU 无需_AD 再_AD 进行_VV 数模_NN 转换_NN 过程_NN ；_PU 而且_CC 对_P 噪声_NN 的_DEC 抗_VV 干扰_NN 能力_NN 也_AD 大大_AD 增强_VV （_PU 噪声_NN 只有_VV 在_P 强_NN 到_VV 足以_JJ 将_BA 逻辑_NN 值_VV 改变_VV 时_LC ，_PU 才_AD 可_VV 能_VV 对_P 数字_NN 信号_NN 产生_VV 实质_NN 的_DEG 影响_NN ）_PU ，_PU 这_PN 也_AD 是_VC PWM_NN 在_P 通讯_NN 等_ETC 信号_NN 传输行_NN 业得_VV 到_VV 大量_CD 应用_VV 的_DEC 主要_JJ 原因_NN 。_PU
+
+模拟_NN 信号_NN 能否_AD 使用_VV PWM_NN 进行_VV 编码_NN 调制_NN ，_PU 仅_AD 依赖_AD 带宽_VV ，_PU 这_PN 即_AD 意味_VV 着_AS 只要_CS 有_VE 足够_VA 的_DEC 带宽_VV ，_PU 任何_DT 模拟_NN 信号_NN 值_NN 均_AD 可以_VV 采用_VV PWM_NN 技术_NN 进行_VV 调制_NN 编码_NN ，_PU 一般而言_AD ，_PU 负载_NN 需要_VV 的_DEC 调_NN 制_NN 频率_NN 要_VV 高于_VV 10_CD Hz_M ，_PU 在_P 实际_JJ 应用_NN 中_LC ，_PU 频率_NN 约_AD 在_P 1_CD kHz_M 到_VV 200_CD kHz_NN 之间_LC 。_PU
+
+在_P 信号_NN 接收端_NN ，_PU 需_VV 将_BA 信号_NN 解_VV 调还_VV 原_JJ 为_VV 模拟_NN 信号_NN ，_PU 目前_NT 在_P 很多_CD 微型_JJ 控制器_NN (_PU MCU_NN )_PU 内部_NN 都_AD 包含_VV 有_VE PWM_NN 控制器_NN 模块_NN 。_PU
+
+在_P 过去_VV ，_PU 当_P 只有_JJ 部分_NN 能量_NN 需求_NN (_PU 以_P 缝纫机_NN 马达_NN 为_VV 例_NN )_PU ，_PU 一_CD 个_M 变阻器_NN (_PU 被_SB 放在_VV 缝纫机_NN 的_DEG 脚_JJ 踏板_NN 上_LC )_PU 串接_VV 在_P 一_CD 个_M 马达_NN 上_LC 将_AD 会_VV 调整_VV 流入_VV 马达_NN 中_LC 的_DEG 电流_NN ，_PU 同时_AD 会_VV 因为_P 电阻_NN 发热_VV 而_CC 消耗_VV 一些_CD 能量_NN 。_PU 这_DT 其_PN 实_AD 是_VC 一_CD 个_M 可以_VV 接受_VV (_PU 因为_P 总_JJ 能量_NN 够_AD 低_VA )_PU 但_AD 没有_VE 效率_NN 的_DEC 方式_NN 。_PU 然而_AD ，_PU 变阻器_NN 只_AD 是_VC 一_CD 个_M 控制_NN 能量_VA 的_DEC 方法_NN 之_DEG 一(_CD 可_VV 参考_VV 自_VV 耦_NN 变压器_NN 做为_VV 参考_NN )_NN ，_PU 因此_AD 一_CD 个_M 可以_VV 达到_VV 较_AD 低_JJ 成本_NN 又_AD 有_VE 效率_NN 的_DEC 调整_NN 方法_NN 是_VC 被_SB 需要_VV 的_DEC 。_PU 这_DT 个_M 机制_NN 同时_AD 可以_VV 被_SB 运用_VV 来_MSP 当作_VV 电扇_NN 马达_NN 、_PU 帮浦_NN 马达_NN 、_PU 机器_NN 伺服_NN 等_ETC ，_PU 同时_AD 必须_VV 足够_VV 精细_AD 与_P 台灯_NN 系统_NN 互动_VV ，_PU 因此_AD ，_PU 脉冲_NN 宽度_NN 调变应运_VV 而_MSP 生_VV ，_PU 作为_VV 这_DT 个_M 复杂_JJ 问题_NN 的_DEC 一_CD 个_M 解决_NN 方案_NN 。_PU
+
+一_CD 种_M 早期_NN 的_DEC 脉冲_NN 宽度_NN 调变_NN 方式_NN 是_VC 辛克_NR 莱X_NR 10_CD ，_PU 一_CD 个_M 在_P 1960_CD 年代_NN 的_DEC 10_CD 瓦_M 音乐_NN 放大器_NN 之_DEC 套件_NN 版本_NN 。_PU 差_AD 不_AD 多_VA 时期_NN 脉冲_NN 宽度_NN 调变_VV 亦_AD 开始_VV 被_SB 应用_VV 在_P 交流_NN 电马_NN 达控制_NN 之上_LC 。_PU
+
+而_AD 在_P 最近_NT 一_CD 个_M 世纪_NN 中_LC ，_PU 有些_DT 变速_JJ 的_DEG 电子_NN 马达_NN 已经_AD 有_VE 很_AD 好_VA 的_DEC 效率_NN ，_PU 但_CC 他们_PN 相较於_AD 等_ETC 速_NN 马达_NN 来_MSP 说较_VV 为_VC 复杂_VA ，_PU 而且_CC 有_VE 些时_NT 候需_AD 要较_VV 为_VC 大型_JJ 的_DEG 外部_NN 仪器_NN 辅助_NN ，_PU 像是_CC 可_VV 变_VV 电阻_NN 及_CC 如_P 沃德_NN 里_LC 奥纳_VV 多_JJ 驱动器_NN 一样_VA 的_DEC (_PU WardLeonarddrive_NR )_PU 旋转器_NN 。_PU
+
+脉冲_NN 宽度_NN 调变_VV 使用_VV 一_CD 个_M 脉冲_NN 宽度_NN 会_VV 被_SB 调变_VV 的_DEC 方波_NN ，_PU 使得_VV 波型_NN 的_DEG 平均值_NN 会_VV 有所_VV 变化_NN 。_PU 如果_CS 我们_PN 考虑_VV 一_CD 个_M 周期_NN 为_VC formula_NN 的_DEC 脉冲波_NN formula_NN ，_PU 低_AD 值_VV formula_NN ，_PU 高值_NN 为_VC formula_NN ，_PU 跟_P 一_CD 个_M 工作_NN 循环_NN D_NN (_PU dutycycle_NN )_NN ，_PU (_PU 参照_VV 右图_NN )_PU ，_PU 此_DT 波_M 的_DEG 平均值_NN 为_VC ：_PU
+
+当_P formula_NN 是_VC 一_CD 个_M 脉冲波_NN ，_PU 它_PN 的_DEG 值_VV 在_P formula_NN 是_VC formulaformula_NN 是_VC formula_NN
+
+以上_NN 表示_VV 可以_VV 在_P 很多_JJ 状况_NN 下_LC 被_SB 简化_VV ，_PU 当_P formula_NN 及_CC formula_NN
+最_AD 简单_VA 可以_VV 产生_VV 一_CD 个_M 脉冲_NN 宽度_NN 调变_VV 讯号_NN 的_DEC 方式_NN 是_VC 交集性_NN 方法_NN (_PU intersectivemethod_NN )_NN ，_PU 这_DT 个_M 方法_NN 只_AD 需要_VV 使用_VV 锯_VV 齿波_NN 或_CC 三角波_NN (_PU 可以_VV 简单_VA 地_DEV 使用_VV 震荡器_NN 来_MSP 产生_VV )_PU ，_PU 以及_CC 一_CD 个_M 比较器_NN 。_PU 当_P 参考_VV 的_DEC 讯号值_NN (_PU 图_NN 二_CD 的_DEG 红色波_NN )_PU 比_P 锯_VV 齿波_NN (_PU 图_NN 二_CD 的_DEG 蓝色_JJ 波_NN )_NN 来_VV 的_DEC 大_VA ，_PU 则_AD 脉冲_NN 调变_VV 后_LC 的_DEG 结果_NN 会_VV 在_P 高_JJ 状态_NN ，_PU 反之_VV ，_PU 则_AD 在_P 低_JJ 状态_NN 。_PU
+
+以_P 微分_NN 调变_VV 作为_P 控制_VV 脉冲_NN 宽度_NN 调变_VV 的_DEC 方法_NN ，_PU 输出_VV 讯号_NN 将_AD 会_VV 被_SB 积分_VV ，_PU 同时_AD 结果_AD 也_AD 会_VV 被_SB 拿来_VV 与_CC 参考_VV 讯号_NN 增减_VV 一_CD 个_M 偏移量_NN (_PU 作为_P 比较_VV 的_DEC 边界_NN )_PU 比较_VV 。_PU 当_P 每_DT 一_CD 次_M 的_DEG 积分_NN 结果_AD 到达_VV 边界_NN 时_LC ，_PU 脉冲_NN 调变_NN 讯号_NN 便_AD 会_VV 转变_VV 状态_NN 如_P 图_NN 三_CD 。_PU
+
+以_P 积分_NT -_PU 微分_NN 调变_VV 作为_P 控制_VV 脉冲_NN 宽度_NN 调变_VV 的_DEC 方法_NN ，_PU 参考_VV 讯号_NN 与_CC 输出_NN 讯号_NN 会_VV 相_AD 减得_VV 到_VV 误差_JJ 讯号_NN 。_PU 同时此_AD 误差_VV 会_VV 被_SB 积分_VV ，_PU 若_CS 积分_AD 超过_VV 边界_PN ，_PU 输出_NN 结果_NN 便_AD 会_VV 转换_NN 状态_NN (_PU 参考_VV 图_NN 四_CD )_PU 。_PU
+
+空间向量_AD 调变_VV 是_VC 一_CD 种_M 针对_P 多_CD 相位_NN 交流_NN 讯号_NN ，_PU 控制_VV 脉冲_NN 宽度_NN 调变_VV 的_DEC 演算法_NN ，_PU 先_AD 将_AD 参考_VV 讯号_NN 正常_VA 的_DEC 取样_VA ，_PU 接着_AD 对于_P 每_DT 一_CD 次_M 的_DEG 样本_NN 讯号_NN ，_PU 会_VV 有_VE 一些_CD 在_P 参考_VV 向_P 量_NN 相邻_VV 的_DEC 非_AD 零_CD 交换_VV 向_P 量_NN 以及_CC 一_CD 至_CC 多_CD 个_M 的_DEG 零_CD 交换_VV 向_P 量_NN 作为_VV 取样_VA 之_DEC 代表_NN ，_PU 目的_NN 是_VC 合成_VV 出_VV 参考_VV 向_VV 量_NN 。_PU
+
+直接_AD 转矩_NN 控制_VV 是_VC 一_CD 种_M 控制_VV 交流_NN 马达_NN 的_DEC 方式_NN 。_PU 这_DT 个_M 和_CC 微分_NN 调_VV 变_VV 方式_NN 非常_AD 类似_VA (_PU 参考_NN 上面_LC )_PU ，_PU 马达_NN 的_DEC 力矩_NN 以及_CC 磁力线_NN 可以_VV 被_SB 估计_VV ，_PU 当_P 讯号_NN 要_VV 偏离_VV 磁滞带_NN 时_LC ，_PU 借由_VV 打开_NN 装置_NN 的_DEC 半导体_NN 开关_NN ，_PU 可以_VV 使_VV 其_PN 被_SB 控制_VV 在_P 磁滞带_NN 之中_LC 。_PU
+
+很_AD 多_JJ 数位_NN 电路_NN 都_AD 可以_VV 产生_VV 出_VV 脉冲_NN 宽度_NN 调变_VV 讯号_NN (_PU 比_P 方说_NN 很_AD 多_VA 微型_NN 控制器_NN 可以_VV 有_VE 很多_JJ 脉冲_NN 宽度_NN 调变_NN )_PU ，_PU 正常_AD 来说_VV ，_PU 这些_DT 数位_NN 电路_NN 都_AD 会_VV 使用_VV 一_CD 个_M 每_AD 隔_P 一_CD 段_M 固定_JJ 时间_NN 便_AD 会_VV 增加_VV 1_CD 的_DEC 计数器_NN (_PU 直接_AD 或_CC 不_AD 直接_AD 连接_VV 到_VV 电路_NN 的_DEG 时间_NN 皆_AD 可_VV )_PU 并且_CC 在_P 脉冲_NN 宽度_NN 调_VV 变_VV 讯号_NN 的_DEC 最后_JJ 会_VV 被_SB 重置_VV 。_PU 当_P 这_DT 个_M 计数器_NN 比_P 参考值_NN 来_MSP 得多_VV 的_DEC 时候_NN ，_PU 调变_VV 讯号_NN 的_DEG 输出_NN 便_AD 会_VV 转换_NN 状态_NN 。_PU 这_DT 个_M 技术_NN 被_SB 称为_VV 时间_NN 比例_VV ，_PU 特別_NN 是_VC 时间_NN 比例_NN 控制_NN 。_PU
+
+这_DT 个_M 会定_NN 时_LC 增加_VV 的_DEC 计数器_NN 是_VC 一_CD 个_M 离散_NN 版本_VA 的_DEC 相交性_JJ 方法_NN 的_DEC 锯齿波_NN 。_PU 相交性_JJ 方法_NN 的_DEG 类比_NN 比较器_NN 将_AD 会_VV 变成_VV 一_CD 个_M 在_P 现今_JJ 的_DEG 计数值_NN 以及_CC 数位参_NN 考值_NN 之间_LC 简单_VA 的_DEC 积分_NN 比较_VV 。_PU 这_DT 个_M 工作_NN 循环_NN 只_AD 会_VV 在_P 每_DT 一_CD 次_M 离散_NN 的_DEC 步骤_NN 间_LC 有所_VV 变动_VV ，_PU 会_VV 是_VC 一_CD 个_M 计数器_NN 精细度_NN 的_DEC 函数_NN 。_PU 然而_AD ，_PU 一_CD 个_M 高精_NN 细度_NN 的_DEC 计数器_NN 将_AD 可以_VV 提供_VV 令_VV 人_NN 满意_VA 的_DEV 表现_VV 。_PU
+
+有_VE 三_CD 种_M 类型_NN 的_DEG 脉冲_NN 宽度_NN 调变_VV 是_VC 可能_VV 的_DEC ：_PU
+
+上述_JJ 这_DT 三_CD 种_M 类型_NN 的_DEG 调变_NN 所_MSP 产生_VV 的_DEC 光谱_NN 是_VC 相似_VA 的_DEC ，_PU 而且_CC 每_DT 一_CD 种_M 都_AD 会_VV 包含_VV 一_CD 个_M 直流_NN 的_DEC 元素_NN ，_PU 一_CD 个_M 基_NN 底边带_NN 在_P 每_DT 一_CD 个_M 谐波_NN 中_LC ，_PU 会_VV 包含_VV 调变_VV 过后_NT 的_DEG 信号_NN 以及_CC 相位_NN 调变_VV 的_DEC 载波_NN 。_PU 这些_DT 谐波_NN 的_DEC 振幅_NN 大小_AD 会_VV 被_SB 限制_VV 在_P 一_CD 个_M formula_NN (_PU sinc_NN 函数_NN )_PU 的_DEG 包层_NN 中_LC 并_CC 延伸_VV 至_VV 无限_JJ 大_VA ，_PU 这_DT 个_M 无限_JJ 大_VA 的_DEC 频宽_NN 将_AD 会_VV 由_P 非线性_JJ 的_DEG 脉冲_NN 宽度_NN 调变_VV 所_MSP 造成_VV 。_PU 结果_VV ，_PU 一_CD 个_M 数位_NN 的_DEC 脉冲_NN 宽度_NN 调_VV 变_VV 将_AD 会_VV 遭受_VV 到_VV 失真_NN 扭曲_VV 的_DEC 影响_NN ，_PU 并_CC 严重_VA 地_DEV 减少_VV 其_PN 在_P 现代_JJ 通信_NN 系统_NN 上_LC 的_DEG 可_VV 应用性_NN 。_PU 借由_P 限制_JJ 脉冲_NN 宽度_NN 调变_VV 的_DEC 频宽_NN ，_PU 失真_NN 效应_NN 将_AD 可以_VV 被_SB 减少_VV 与_CC 避免_VV 。_PU
+
+反过_AD 来说_VV ，_PU 积分_NN 调变_VV 是_VC 一_CD 个_M 可以_VV 制造_VV 出_VV 连续_JJ 光谱_NN ，_PU 且_CC 不_AD 需要_VV 连续_VV 的_DEC 谐波_NN 之_DEC 随机_NN 过程_NN 。_PU
+
+脉冲_NN 宽度_NN 调变_VV 的_DEC 转换_NN 过程_NN 是_VC 非线性_JJ 的_DEG ，_PU 且_CC 我们_PN 一般_AD 假设_VV 其_PN 在_P 低_JJ 频滤波_NN 的_DEG 还原_NN 上_LC 是_VC 不_AD 完美_VA 的_DEC 。_PU 根据_P 脉冲_NN 宽度_NN 调变_VV 的_DEC 取样_NN 定理_VV ，_PU 我们_PN 可以_VV 发现_VV ，_PU 脉冲_NN 宽度_NN 调变_VV 的_DEC 转换_NN 可以_VV 是_VC 完美_VA 的_DEC 。_PU 这_DT 个_M 定理_NN 叙述_JJ 当_NN "_PU 对于_P 任何_DT 有_VE 基_NN 频频带_NN 限制_VV 的_DEC 讯号_NN ，_PU 若_CS 其_PN 大小_NN 在_P 正_AD 负_VV 0_CD ._PU 637_CD 间_LC ，_PU 可以_VV 被_LB 单位_JJ 大小_NN 的_DEC 脉冲_NN 宽_VA 调变_VV 所_MSP 产生_VV 的_DEC 讯号_NN 所_MSP 代表_VV ，_PU 波_PN 的_DEG 脉冲_NN 数_AD 会_VV 等于_VV 奈奎_NN 斯_AD 特_VA (_PU Nyquist_NN )_PU 取样_VA 的_DEC 数量_NN ，_PU 且_CC 峰值_NN 的_DEC 限制_NN 与_P 波_NN 是_VC 两_CD 阶_NN 还_AD 是_VC 三_CD 阶_NN 互相_AD 独立_VV "_PU 。_PU 取样定_VV 理告_JJ 诉我们_NN ：_PU 一_CD 个_M 有_VE 频带_NN 限制_VV 的_DEC 讯号_NN ，_PU 如果_CS 我们_PN 的_DEG 取样_NN 频率_NN 大于_VV 传递波_NN 频率_NN 的_DEG 两_CD 倍_M ，_PU 则_AD 讯号_NN 传递_VV 后_LC 可以_VV 被_SB 完整_VA 地_DEV 重建_VV 。_PU
+
+脉冲_NN 宽度_NN 调变_NN 可以_VV 用于_VV 控制_VV 伺服_NN 机构_NN 。_PU
+
+在_P 电信_NN 使用_NN 上_LC ，_PU 脉冲_NN 宽度_NN 调变_VV 是_VC 一_CD 种_M 讯号_NN 调变_VV 的_DEC 形式_NN ，_PU 其_PN 脉冲波_NN 的_DEG 宽度_NN 对应_VV 到_VV 另_DT 一_CD 个_M 特定_JJ 资料_NN 会_VV 在_P 传送端_NN 被_SB 编码_VV ，_PU 并_CC 於接_VV 收端_NN 解码_NN 。_PU
+不同_JJ 长度_NN 的_DEC 脉冲波_NN (_PU 要_VV 传递_VV 的_DEC 讯息_NN 本身_PN )_PU 将_AD 会_VV 每_AD 隔_VV 固定_VV 的_DEC 时间_NN 后_LC 被_SB 传递_VV (_PU 载波_VV 的_DEC 频率_NN )_PU
+
+时间_NN 讯号_NN 不_AD 一定_AD 要_VV 被_SB 包含_VV 脉冲_NN 宽度_NN 调变_VV 的_DEC 传递_NN 上_LC ，_PU 事实_AD 上_VV 资料_NN 的_DEC 领先端_NN 可以_VV 被_SB 当成_VV 一_CD 个_M 计时器_NN 使用_VV ，_PU 如果_CS 有_VE 一_CD 个_M 小_VA 的_DEC 偏移量_NN 被_SB 加在_VV 资料值_NN 之上_LC ，_PU 去_VV 避免_VV 资料_NN 值有_VV 一_CD 个_M 长度_NN 为_VC 零_CD 的_DEG 脉冲_NN 波_NN 。_PU
+
+脉冲_NN 宽度_NN 调变_NN 可以_VV 被_SB 用来_VV 控制_VV 对于_P 一_CD 个_M 载子_NN 能量_NN 传递_VV 的_DEC 多寡_NN ，_PU 而_CC 不_AD 会_VV 产生_VV 由_P 阻抗_NN 所_MSP 造成_VV 的_DEC 线性_JJ 能量_NN 传递_VV 损失_NN 。_PU 此_DT 方法_NN 所_MSP 需要_VV 付出_VV 的_DEC 代价_NN 是_VC ，_PU 载子_NN 所_MSP 流失_VV 的_DEC 能量_NN 并_AD 非_VC 一_CD 个_M 常数_NN 且_CC 是_VC 不_AD 连续_VV 的_DEC (_PU 如_P 降压式_JJ 转换器_NN )_NN ，_PU 载子_NN 上_LC 传递_VV 的_DEC 能量_NN 也_AD 不是_AD 连续_VV 的_DEC 。_PU 然而_AD ，_PU 由于_P 载子_NN 可能_VV 是_VC 具有_VV 高频_JJ 电感性_NN 的_DEC ，_PU 这时_AD 就_AD 必须_VV 要_VV 外加_VV 一_CD 个_M 被动_VV 的_DEC 电子_NN 滤波器_NN ，_PU 让_VV 这些_DT 脉冲波_NN 变为_VV 平滑_NN 且_CC 能_VV 复原_VV 平均_JJ 的_DEG 类比波_NN 型_NN ，_PU 能量_NN 流入_VV 载子_NN 才_AD 会_VV 是_VC 连续_VV 的_DEC 。_PU 而_CC 从_P 供应端_NN 流出_VV 的_DEC 能量_NN 则_AD 不是_AD 连续_VV 的_SP ，_PU 因此_AD 大部分_CD 情况_NN 下_LC 需要_VV 额外_JJ 的_DEG 能量_NN 储存_NN 空间_NN 。_PU (_PU 比方_PN 说_VV 在_P 一_CD 个_M 电路_NN 下_LC ，_PU 一_CD 个_M 电容_NN 会_VV 吸收_VV 储存_VV 于_P 供应_NN 端电感_NN 的_DEC 能量_NN 。_PU )_PU
+
+
+
+

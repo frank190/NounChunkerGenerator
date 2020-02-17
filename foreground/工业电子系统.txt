@@ -1,0 +1,5 @@
+﻿工业_NN 电子_NN 系统_NN
+
+工业_NN 电子_NN 系统_NN ，_PU 一_CD 种_M 以_P 嵌入式_NN 系统_NN 为_VC 核心_NN ，_PU 通过_P 系统_NN 软_JJ 硬件_NN 能够_VV 完成_VV 工业_NN 领域_NN 对象_NN （_PU 飞机_NN 、_PU 船舶_NN 、_PU 汽车_NN 、_PU 机械_NN 、_PU 家电_NN 等_ETC ）_PU 的_DEC 状态_NN 感知_VV 、_PU 过程_NN 监视_VV 和_CC 控制_VV ，_PU 实现_VV 对象_P 预定_JJ 功能_NN 的_DEC 电子_NN 系统_NN ，_PU 一般_AD 具有_VV 体系_NN 架构_NN 复杂_VA ，_PU 实时性_NN 、_PU 可靠性_NN 、_PU 安全性_NN 、_PU 经济性_NN 要求_VV 高_VA 的_DEC 特点_NN 。_PU
+
+

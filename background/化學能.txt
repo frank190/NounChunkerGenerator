@@ -1,0 +1,11 @@
+﻿化_NN 学能_NN
+
+化学_NN 能_VV 是_VC 内能_NN 的_DEC 一_CD 种_M ，_PU 指_VV 一些_CD 需要_VV 经由_P 化学_NN 反应_NN 释放_VV 出来_VV 的_DEC 能量_NN 。_PU 例如_AD 煤_NN 的_DEC 能量_NN 是_VC 由_P 燃烧_NN （_PU 与_P 氧反应_NN ）_PU 释放_VV 出来_VV 的_DEC ，_PU 贮存_VV 于_P 煤_NN 里面_LC 的_DEC 能量_NN 即_AD 称为_VV 化学能_NN 。_PU 电池_NN 里_LC 的_DEG 化学_NN 物质_NN ，_PU 是_VC 借着_P 化学_NN 变化_NN 而_MSP 产生_VV 电能_NN 。_PU
+
+生物_NN 里_LC 呼吸_VV 作用_NN 、_PU 光合_JJ 作用_NN 产生_VV 之_DEC 能量_NN ，_PU 也_AD 是_VC 化学能_NN 。_PU
+
+由于_P 化学_NN 能_VV 是_VC 化学_NN 反应_NN 时_LC 产生_VV 的_DEC ，_PU 因此_AD 是_VC 一_CD 种_M 隐蔽_NN 的_DEC 能量_NN ，_PU 不_AD 能_VV 直接_AD 用来_VV 做功_VV ，_PU 只有_AD 在_P 发生_VV 化学_NN 变化_NN 时_LC ，_PU 才_AD 释放_VV 出来_VV ，_PU 变成_VV 热能_NN 或者_CC 其他_DT 形式_NN 的_DEC 能量_NN 。_PU
+
+
+
+

@@ -1,0 +1,7 @@
+﻿传热_NN
+
+热_AD 有_VE 三_CD 种_M 方式_NN ：_PU
+
+根据_P 传热_VV 的_DEC 方式_NN 和_CC 工艺_NN 要求_NN ，_PU 设计_VV 热_JJ 交换器_NN ，_PU 几乎_AD 各_DT 种_M 化学_NN 工业_NN 都_AD 有_VE 热_JJ 交换_NN 过程_NN ，_PU 需要_VV 各_DT 种_M 热_JJ 交换器_NN 。_PU
+
+

@@ -1,0 +1,6 @@
+﻿磁场_NN 观察膜_NN
+
+磁场_NN 观察膜_NN （_PU Magneticfieldviewingfilm_NN ）_PU 是_VC 一_CD 种_M 用于_VV 观察_VV 静止_VV 的_DEC 或者_CC 变化_NN 较为_AD 缓慢_VA 的_DEC 磁场_NN 的_DEC 薄膜_NN 。_PU 它_PN 能_VV 显示_VV 磁场_NN （_PU 磁力线_NN ）_PU 的_DEC 位置_NN 和_CC 方向_NN 。_PU 它_PN 是_VC 具有_VV 易_AD 变形_VV 的_DEC 半_CD 透明_JJ 性质_NN 的_DEC 薄片_NN 结构_NN 。_PU 当_P 磁力线_NN 平行_VV 于_P 此_DT 薄膜_NN 表面_NN 时_LC 呈现_VV 白色_AD ，_PU 当_P 磁力线_NN 垂直_VV 于_P 此_DT 薄膜_NN 表面_NN 时_LC 呈现_VV 黑色_PN 。_PU 当_P 将_BA 此_DT 薄膜_NN 置于_VV 一_CD 个_M 磁极_NN 上_LC 时_LC ，_PU 因_P 磁力线_NN 垂直_VV 于_P 薄膜_NN 表面_NN ，_PU 大_JJ 部分_CD 区域_NN 呈现_VV 黑色_JJ 。_PU 如果_JJ 两_CD 个_M 方形_JJ 磁体_NN 吸附_VV 在_P 一起_NN ，_PU 并_CC 排放置_VV ，_PU 且_CC 极性_JJ 在_P 同_DT 侧面_NN 相反_VA ，_PU 此时_NT 可_VV 观察_VV 到_VV 磁极_NN 的_DEC 地方_NN 呈现_VV 黑_JJ 色_NN ，_PU 两_CD 极_NN 中间_LC 可_VV 观察_VV 到_VV 一_CD 条_M 很_AD 细_VA 的_DEC 白线_NN 。_PU 通常_AD 见到_VV 的_DEC 磁场_NN 观察_VV 薄膜_NN 在_P 未_AD 置入_VV 磁场_NN 时_LC 呈现_VV 绿色_JJ ，_PU 也_AD 有_VE 其他_DT 颜色_NN 的_DEC 磁场_NN 观察_VV 薄膜_NN 。_PU
+
+
+

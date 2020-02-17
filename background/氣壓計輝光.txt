@@ -1,0 +1,5 @@
+﻿气压_NN 计辉光_NN
+
+气压_NN 计辉_NN 光_AD 是_VC 水银_NN 气压计_NN 中_LC 的_DEG 水银_NN 经过_P 摇动_VV 后_LC 发出_VV 的_DEC 光_NN ，_PU 主要_AD 是_VC 因为_P 密封_NN 於_P 管_NN 内_LC 的_DEG 水银_NN 各_DT 种_M 气体_NN 发射_VV 放电_NN ，_PU 在_P 这_PN 的_DEC 过程_NN 中_LC 摇动_VV 是_VC 重要_VA 的_DEC ，_PU 因为_P 水银_NN 在_P 管_NN 中_LC 激荡_VV 飞溅_NN 和_CC 沿_P 玻璃_NN 管壁_NN 流动_NN 可能_VV 是_VC 发光_VV 的_DEC 原因_NN 。_PU 气压_NN 计辉_NN 光_BA 这_DT 种_M 现象_NN 是_VC 在_P 1675_CD 年_M 由_P 法国_NN 天文_NN 学_VV 家皮_NN 卡德_NN (_PU JeanPicard_NN )_PU 发现_VV ，_PU 之后_AD 1709_CD 年_M 豪克_JJ 斯比_NN (F_CD rancisHauksbee_M )_PU 证明_VV 在_P 非_JJ 玻璃_NN 容器_NN 中_LC 也_AD 能_VV 产生_VV 这_DT 种_M 效应_NN ，_PU 而且_CC 不_AD 需要_VV 很_AD 低_VA 的_DEC 气压_NN 。_PU
+
+

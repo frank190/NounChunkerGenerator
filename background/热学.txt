@@ -1,0 +1,11 @@
+﻿热学_NN
+
+热学_NN 又_CC 称热物_NN 理学_NN ，_PU 是_VC 研究_VV 热_JJ 现象_NN （_PU 即_AD 与_P 温度_NN 有关_VV 的_DEC 物理_NN 现象_NN ）_PU 的_DEG 科学_NN 。_PU
+
+热学_NN 一般_AD 分为_VV 热力学_NN 和_CC 统计力_NN 学_VV 两_CD 部分_NN ，_PU 前者_CC 是_VC 建立_VV 在_P 实验_JJ 基础_NN 上_LC 的_DEG 宏观理_NN 论_NN ，_PU 后者_NN 是_VC 建立_VV 在_P 量子_NN 力学_NN 和_CC 数理统_NN 计学_NN 上_LC 的_DEG 微观_JJ 理论_NN 。_PU
+
+热学_NN 是_VC 从_P 18_CD 世纪_NN 末_LC 才_AD 发展_VV 起来_VV ，_PU 主要_AD 是_VC 研究功_NN 与_CC 热_NN 之间_LC 的_DEG 能量_NN 转换_NN 。_PU 在_P 此_DT 功会_NN 被_SB 定义_VV 为_VC 力_NN 与_CC 位移_NN 的_DEC 内积_NN ；_PU 而_CC 热_NOI 则_AD 定义_VV 为_VC 在_P 热力_NN 系统_NN 边界_NN 中_LC ，_PU 由_P 温度_NN 之_DEG 差_NN 所_MSP 造成_VV 的_DEC 能量_NN 传递_VV 。_PU
+
+
+
+

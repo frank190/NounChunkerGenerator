@@ -1,0 +1,14 @@
+﻿数字_NN 电路_NN
+
+数字_NN 电路_NN （_PU ）_PU 或_CC 数字_NN 集成_NN 电路_NN 是_VC 由_P 许多_CD 的_DEG 逻辑门_NN 组成_VV 的_DEC 复杂_JJ 电路_NN 。_PU 与_P 模拟_NN 电路_NN 相比_VV ，_PU 它_PN 主要_AD 进行_VV 数字_NN 信号_NN 的_DEC 处理_NN （_PU 即_AD 信号_NN 以_P 0_CD 与_CC 1_CD 两_CD 个_M 状态_NN 表示_VV ）_PU ，_PU 因此_AD 抗_VV 干扰_NN 能力_NN 较_AD 强_VA 。_PU 数字_NN 集成_NN 电路_NN 有_VE 各_DT 种_M 门电路_NN 、_PU 触发器_NN 以及_CC 由_P 它们_PN 构成_VV 的_DEC 各_DT 种_M 组合_NN 逻辑_NN 电路_NN 和_CC 时序_NN 逻辑_NN 电路_NN 。_PU 一_CD 个_M 数字_NN 系统_NN 一般_AD 由_P 控制_NN 部件_NN 和_CC 运算_NN 部件_NN 组成_VV ，_PU 在_P 时脉_NN 的_DEC 驱动_NN 下_LC ，_PU 控制_NN 部件_NN 控制_VV 运算_NN 部件_NN 完成_VV 所_MSP 要_VV 执行_VV 的_DEC 动作_NN 。_PU 通过_P 类比_JJ 数位_NN 转换器_NN 、_PU 数位类_NN 比_P 转换器_NN ，_PU 数字_NN 电路_NN 可以_VV 和_P 模拟_NN 电路_NN 互相_AD 连接_VV 。_PU
+
+数字_NN 电路_NN 中_LC 研究_VV 的_DEC 主要_JJ 问题_NN 是_VC 输出_NN 信号_NN 的_DEC 状态_NN （_PU “_PU 0_CD ”_PU 或_CC “_PU 1_CD ”_PU ）_PU 和_CC 输入_NN 信号_NN （_PU “_PU 0_CD ”_PU 或_CC “_PU 1_CD ”_PU ）_PU 之间_LC 的_DEG 逻辑_NN 关系_VV ，_PU 即_AD 电路_NN 的_DEG 逻辑_NN 功能_NN 。_PU
+
+数字_NN 电路_NN 的_DEG 研究_NN 方法_NN 是_VC 逻辑_JJ 分析_NN 和_CC 逻辑_NN 设计_NN ，_PU 所_MSP 需要_VV 的_DEC 工具_NN 是_VC 逻辑_NN 代数_NN 。_PU
+（_PU 在_P 正逻_NT 辑下_VV ，_PU “_PU 0_CD ”_PU 是_VC 低_JJ 电平_NN ，_PU “_PU 1_CD ”_PU 是_VC 高_JJ 电平_NN ，_PU 高低_JJ 电平_NN 没有_VE 明确_VA 的_DEC 界限_NN ）_PU
+
+电子_NN 设备_NN 从_P 以_P 模拟_NN 方式_NN 处理_NN 信息_NN ，_PU 转到_VV 以_P 数字_NN 方式_NN 处理_NN 信息_NN 的_DEC 原因_NN ，_PU 主要_AD 在_P 以下_JJ 几_CD 个_M 方面_NN ：_PU
+
+
+
+

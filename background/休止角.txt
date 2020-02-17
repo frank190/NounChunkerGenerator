@@ -1,0 +1,10 @@
+﻿休止_NN 角_NN
+
+休止角_NN ，_PU 亦_AD 作_VV 安息角_NN ，_PU 是_VC 斜面_NN 使置_VV 于_P 其_PN 上_LC 的_DEC 物体_NN 处于_VV 沿_P 斜面_NN 下滑_VV 的_DEC 临界_NN 状态_NN 时_LC ，_PU 与_P 水平_JJ 表面_NN 所_MSP 成_VV 的_DEC 最_AD 小_JJ 角度_NN (_PU 即_AD 随着_P 倾斜_NN 角_NN 增加_VV ，_PU 斜面_NN 上_LC 的_DEC 物体_NN 将_AD 越_AD 容易_AD 下滑_VV ；_PU 当_P 物体_NN 达到_VV 开始_VV 下滑_VV 的_DEC 状态_NN 时_LC ，_PU 该_DT 临界_NN 状态_NN 的_DEC 角度_NN 称为_VV 休止角_NN )_NN 。_PU
+
+大量_JJ 颗粒_NN 状_NN 物质_NN 被_SB 倾倒_VV 于_P 水平面_NN 上_LC 堆积_VV 为_VC 锥体_NN ，_PU 堆积物_NN 的_DEG 表面_NN 与_P 水平面_NN 所_MSP 成_VV 内角_NN 即_AD 为_VC 休止角_NN ，_PU 其_PN 与_CC 密度_NN ，_PU 颗粒_NN 的_DEG 表面积_NN 和_CC 形状_NN ，_PU 及_CC 该_DT 物质_NN 的_DEC 摩擦_NN 系数_NN 相_AD 关_VV 。_PU
+休止角_NN 指_VV 在_P 重力场_NN 中_LC ，_PU 粉料_NN 堆积体_NN 的_DEG 自由_JJ 表面_NN 处于_VV 平衡_NN 的_DEC 极限_NN 状态_NN 时_LC 自_VV 由_P 表面_NN 与_P 水平面_NN 之间_LC 的_DEG 角度_NN 。_PU
+测定_VV 休_VV 止角_NN 的_DEC 方法_NN 有_VE 两_CD 种_M ：_PU 注入法_NN 及_CC 排出法_NN 。_PU 注入法_NN ：_PU 将_BA 粉体_NN 从_P 漏斗_NN 上方_NN 慢慢_AD 加入_VV ，_PU 从_P 漏斗_NN 底部_NN 漏出_VV 的_DEC 物料_NN 在_P 水平面_NN 上_LC 形成_VV 圆锥状_NN 堆积体_NN 的_DEG 倾斜角_NN 。_PU 排出_NN 法_NN ：_PU 将_BA 粉体_NN 加入_VV 到_VV 圆筒_NN 容器_NN 内_LC ，_PU 使_VV 圆筒_NN 底面_NN 保持_VV 水平_NN ，_PU 当_P 粉体_NN 从_P 简底_NN 的_DEG 中心孔_NN 流出_VV ，_PU 在_P 筒_NN 内_LC 形成_VV 的_DEC 逆_VV 圆锥状_NN 残留_JJ 粉体_NN 堆积体_NN 的_DEG 倾斜角_NN 。_PU
+这_DT 两_CD 种_M 倾斜角_NN 都_AD 是_VC 休止角_NN ，_PU 有时_AD 也_AD 采用_VV 倾斜法_NN ；_PU 在_P 绕水_NN 平轴慢速_AD 回转_VV 的_DEC 圆筒_NN 容器_NN 内_LC 加入_VV 占_VV 其_PN 容积_NN 的_DEG 1_CD /_PU 2_CD ～_PU 1_CD /_PU 3_CD 的_DEG 粉体_NN ，_PU 当_P 粉体_NN 的_DEC 表面_NN 产生_VV 滑动_VV 时_LC ，_PU 测定_VV 其_PN 表面_NN 的_DEC 倾斜_VV 角_NN 。_PU
+休止角_NN 越_AD 小_VA ，_PU 摩擦力_NN 越_AD 小_VA ，_PU 流动性_NN 越_AD 好_VA ，_PU 一般_AD 认为_VV θ≤_NN 30_CD 度_M 时_LC 流动性_NN 好_VA ，_PU θ≤_NN 40_CD 度_M 时_LC 可以_VV 满足_VV 生产_NN 过程_NN 中_LC 的_DEG 流动性_NN 需求_NN 。_PU
+

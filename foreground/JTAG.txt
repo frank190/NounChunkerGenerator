@@ -1,0 +1,29 @@
+﻿_CD JTAG_NN
+
+JTAG_NN 是_VC 联合_VV 测试_VV 工作组_NN （_PU JointTestActionGroup_NN ）_PU 的_DEG 简称_NN ，_PU 是_VC 在_P 名为_P 标准_NN 测试_VV 访问_NN 端口_NN 和_CC 边界_NN 扫描_NN 结构_NN 的_DEG IEEE_NN 的_DEG 标准_NN 1149_CD ._PU 1_CD 的_DEG 常用_JJ 名称_NN 。_PU 此_DT 标准_NN 用于_VV 验证_NN 设计_NN 与_P 测试_NN 生产_VV 出_VV 的_DEC 印刷_NN 电路板_NN 功能_NN 。_PU
+
+1990_CD 年_M JTAG_NN 正式_NN 由_P IEEE_NN 的_DEG 1149_CD ._PU 1_CD -_PU 1990_CD 号_M 文档_NN 标准化_NN ，_PU 在_P 1994年_NN ，_PU 加入_VV 了_AS 补充_VV 文档_NN 对_P 边界_NN 扫描_NN 描述_VV 语言_NN （_PU BSDL_NN ）_PU 进行_VV 了_AS 说明_NN 。_PU 从_P 那时_NT 开始_VV ，_PU 这_DT 个_M 标准_NN 被_SB 全球_VV 的_DEC 电子_NN 企业_NN 广泛_AD 采用_VV 。_PU 边界_NN 扫描_NN 几乎_AD 成为_VV 了_AS JTAG_NN 的_DEC 同义词_NN 。_PU
+
+在_P 设计_VV 印刷_NN 电路版_NN 时_LC ，_PU 目前_NT 最_AD 主要_AD 用_VV 在_P 测试_VV 积体_NN 电路_NN 的_DEC 副区块_NN ，_PU 而且_CC 也_AD 提供_VV 一_CD 个_M 在_P 嵌入式_NN 系统_NN 很_AD 有用_VA 的_DEC 侦错_NN 机制_NN ，_PU 提供_VV 一_CD 个_M 在_P 系统_NN 中_LC 方便_VA 的_DEC "_PU 后门_NN "_PU 。_PU 当_P 使用_VV 一些_CD 侦错_NN 工具_NN 像_P 电路_NN 内_JJ 模拟器_NN 用_P JTAG_NN 当_P 做讯号_NN 传输_VV 的_DEC 机制_NN ，_PU 使得_VV 程式_NN 设计师_NN 可以_VV 经由_P JTAG_NN 去_VV 读取_VV 集成_VV 在_P CPU_NN 上_LC 的_DEG 侦错_NN 模块_NN 。_PU 侦错_NN 模块_NN 可以_VV 让_VV 程式_NN 设计_VV 师侦_NN 错_AD 嵌入_VV 式_NN 系统_NN 中_LC 的_DEG 软体_NN 。_PU
+
+JTAG_NN 的_DEC 介面_NN 是_VC 一_CD 种_M 特殊_VA 的_DEC 4_CD /_PU 5_CD 个_M 接脚_NN 介面_NN 连到_NN 芯片_NN 上_LC ，_PU 所以_AD 在_P 电路_NN 版_NN 上_LC 的_DEG 很多_CD 芯片_NN 可以_VV 将_BA 他们_PN 的_DEG JTAG_NN 接脚_VV 通过_P DaisyChain_NN 的_DEC 方式_NN 连_VV 在_P 一起_NN ，_PU 并且_CC Probe_NN 只_AD 需_VV 连接_VV 到_VV 一_CD 个_M “_PU JTAG_NN 端口_NN ”_PU 就_AD 可以_VV 访问_VV 一_CD 块_M 印刷_NN 电路板_NN 上_LC 的_DEG 所有_DT IC_NN 。_PU 这些_DT 连接_NN 引脚_NN 是_VC ：_PU
+
+
+因为_P 只_AD 有_VE 一_CD 条_M 数据线_NN ，_PU 通信_NN 协议_NN 有_VE 必要_JJ 像_VV 其_PN 他_PN ，_PU 如_P SPI_NN 一样_AD 为_VC 串行_VV 传输_NN 。_PU 时钟_NN 由_P TCK_NN 引脚_NN 输入_VV 。_PU 配置_NN 是_VC 通过_P TMS_NN 引脚_VV 采用_VV 状态机_NN 的_DEG 形式_NN 一_CD 次_M 操作_NN 一_CD 位_M 来_MSP 实现_VV 的_SP 。_PU 每_DT 一_CD 位_M 数据_NN 在_P 每_DT 个_M TCK_NN 时_LC 钟脉冲_NN 下_LC 分别_AD 由_P TDI_NN 和_CC TDO_NN 引脚_NN 传入_VV 或_CC 传出_VV 。_PU 可以_VV 通过_P 加载_VV 不同_VA 的_DEC 命令_NN 模式_NN 来_MSP 读取_VV 芯片_NN 的_DEG 标识_NN ，_PU 对_P 输入_VV 引脚_NN 采样_VV ，_PU 驱动_NN （_PU 或_CC 悬空_NN ）_PU 输出_VV 引脚_VV ，_PU 操控_NN 芯片_NN 功能_NN ，_PU 或者_CC 旁路_NN （_PU 将_BA TDI_NN 与_CC TDO_NN 连通_VV 以_MSP 在_P 逻辑_NN 上_LC 短接_VV 多_CD 个_M 芯片_NN 的_DEG 链路_NN ）_PU 。_PU TCK_NN 的_DEG 工作_NN 频率_NN 依_P 芯片_NN 的_DEG 不同_JJ 而_CC 不同_JJ ，_PU 但_CC 其_PN 通常_AD 工作_VV 在_P 10_CD -_PU 100_CD MHz_NN （_PU 每_DT 位_M 10_NN -_PU 100_CD ns_M ）_PU 。_PU
+
+当_P 在_P 集成_JJ 电路_NN 中_LC 进行_VV 边界_NN 扫描_NN 时_LC ，_PU 被_SB 处理_VV 的_DEC 信号_NN 是_VC 在_P 同_DT 一_CD 块_M IC_NN 的_DEG 不同_JJ 功能_NN 模块_NN 间_LC 的_DEG ，_PU 而_CC 不_AD 是_VC 不同_JJ IC_NN 之间_LC 的_SP 。_PU
+
+TRST_NN 引脚_NN 是_VC 一_CD 个_M 可选_JJ 的_DEG 相对_JJ 待测_NN 逻辑_NN 低_JJ 电平_NN 有效_VA 的_DEC 复位_NN 开关_NN ——_PU 通常_AD 是_VC 异步_VA 的_DEC ，_PU 但_AD 有时_AD 也_AD 是_VC 同步_VA 的_DEC ，_PU 依_P 芯片_NN 而_MSP 定_VV 。_PU 如果_CS 该_DT 引脚_NN 没有_VV 定义_VV ，_PU 则_AD 待测_VV 逻辑_NN 可_VV 由_P 同步_AD 时钟_AD 输入_VV 复位_NN 指令_NN 而_MSP 复位_VV 。_PU
+
+尽管_CS 如此_VV ，_PU 极少_AD 消费类_NN 产品_NN 提供_VV 外部_NN 的_DEG JTAG_NN 端口_NN 接口_NN ，_PU 但_AD 作为_P 开发_VV 样品_NN 的_DEG 残留_NN ，_PU 这些_DT 接口_NN 在_P 印刷_NN 电路板_NN 上_LC 十分_AD 常见_VA 。_PU 在_P 研发_VV 后_LC ，_PU 这些_DT 接口_NN 常常_AD 为_VC 反向_NN 工程_NN 提供_VV 了_AS 非常_AD 良好_VA 的_DEC 途径_NN 。_PU
+
+关于_P 制造商_NN 的_DEC 扩展_NN ：_PU 英飞凌_NN ，_PU MIPSEJTAG_NN ，_PU 飞思_NN 卡尔_NN COP_NN ,_PU ARMETM_NN (_PU ExtendedTraceMacrocell_NN )_PU ,_PU OnCEetc_NN ._PU
+
+
+可以_VV 通过_P 使用_VV 一些_CD 支持_VV JTAG_NN 的_DEG 应用_NN 程序_NN 来_MSP 访问_VV JTAG_NN 接口_NN 。_PU
+
+
+
+
+
+

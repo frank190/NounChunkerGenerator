@@ -1,0 +1,6 @@
+﻿自_VV 然_AD 对_P 流_NN
+
+自然_AD 对流_VV 是_VC 没有_VE 外界_NN 驱动力_NN 但_CC 流体_NN 依然_AD 存在_VV 运动_VV 的_DEC 情况_NN ，_PU 引起_VV 这_DT 种_M 对流_NN 的_DEC 内_JJ 在_P 力量_NN 是_VC 温度差_NN 或者_CC （_PU 组分_NN 的_DEC ）_PU 浓度_NN 差_VA 。_PU
+自然_AD 对流_VV 常_AD 在_P 地球_NN 大气层_NN 和_CC 海洋_NN 发生_VV 。_PU
+
+

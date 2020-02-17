@@ -1,0 +1,10 @@
+﻿_NN 信号_NN 处理_NN
+
+在_P 计算机_NN 科学_NN 、_PU 药物_NN 分析_NN 、_PU 电子_NN 学_NN 等_ETC 学科_NN 中_LC ，_PU 信号_NN 处理_NN （_PU ）_PU 是_VC 指_VV 对_P 信号_NN 表示_VV 、_PU 变换_NN 、_PU 运算_NN 等_ETC 进行_VV 处理_NN 的_DEC 过程_NN 。_PU
+
+信号_NN 处理_NN 可以_VV 用于_VV 沟通人_NN 类_NN 之间_LC ，_PU 或_CC 人_NN 与_P 机器_NN 之间_LC 的_DEG 联系_NN ；_PU 用以_VV 探测_VV 我们_PN 周围_NN 的_DEC 环境_NN ，_PU 并_CC 揭示_VV 出_VV 那些_DT 不_AD 易_AD 观察_VV 到_VV 的_DEC 状态_NN 和_CC 构造_VV 细节_NN ，_PU 以及_CC 用来_VV 控制_VV 和_CC 利用_VV 能源_NN 与_CC 信息_NN 。_PU 例如_AD ，_PU 我们_PN 可能_VV 希望_VV 分开_VV 两_CD 个_M 或_CC 多_CD 个_M 多少_AD 有些_DT 混_VV 在_P 一起_NN 的_DEC 信号_NN ，_PU 或者_CC 想_VV 增强_NN 信号_NN 模型_NN 中_LC 的_DEG 某些_DT 成分_NN 或_CC 参数_NN 。_PU
+
+几十_CD 年来_M ，_PU 信号_NN 处理_VV 在_P 诸如_AD 语音_NN 与_CC 资料_NN 通讯_VV 、_PU 生物_NN 医学_NN 工程_NN 、_PU 声学_NN 、_PU 声呐_NN 、_PU 雷达_NN 、_PU 地震_VV 、_PU 石油_NN 勘探_NN 、_PU 仪器_NN 仪表_NN 、_PU 机器人_NN 、_PU 日用_JJ 电子_NN 产品_NN 以及_CC 其它_DT 很_AD 多_VA 的_DEC 这样_JJ 一些_CD 广泛_NN 的_DEC 领域_NN 内_LC 起_VV 着_AS 关键_VV 的_DEC 作用_NN 。_PU
+
+
+

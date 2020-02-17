@@ -1,0 +1,8 @@
+﻿_CS 反应_VV 离子_NN 刻蚀_NN
+
+反应_JJ 离子_NN 刻蚀_NN （_PU 英文_NN ：_PU Reactive_NN -_PU IonEtching_NN ，_PU 或_CC 简写_VV 为_VC RIE_NN ）_PU 是_VC 一_CD 种_M 半导体_NN 生产_NN 加工_NN 工艺_NN ，_PU 它_PN 利用_VV 由_P 等离子体_NN 强化_VV 后_LC 的_DEG 反应_JJ 离子_NN 气体_NN 轰击_VV 目标_NN 材料_NN ，_PU 来_MSP 达到_VV 刻蚀_NN 的_DEC 目的_NN 。_PU 气体_NN 在_P 低压_NN （_PU 真空_NN )_PU 环境_NN 下_LC 由_P 电磁场_NN 产生_VV ，_PU 等离子体_NN 中_LC 的_DEC 高能_JJ 离子_NN 轰击_NN 芯片_NN 表面_NN 并_CC 与_P 之_DEG 反应_NN 。_PU
+RIE_NN 系统_NN 的_DEC 典型_NN 的_DEC 设备_NN （_PU 平行_JJ 板式_NN ）_PU 一般_AD 包括_VV 一_CD 个_M 圆柱形_JJ 真空室_NN ，_PU 真空室_NN 底部_NN 放置_VV 用来_VV 放_VV 芯片_NN 盘子_NN 。_PU 盘子_NN 与_CC 室体_NN 的_DEC 其他_DT 部分_NN 绝缘_AD 。_PU 气体_NN 由_P 小口_NN 注入_VV 真空室_NN 上部_NN ，_PU 由_P 底部_NN 排出_VV 进入_VV 真空泵_NN 。_PU 气体_NN 的_DEG 种类_NN 和_CC 多少_AD 取决于_VV 蚀刻_NN 的_DEC 程序_NN 。_PU 比如_VV ，_PU 六_CD 氟_M 化硫_NN 经常_AD 用来_VV 蚀_CD 刻_M 硅_NN 。_PU 通过_P 调节_NN 气体_NN 流速_NN 以及_CC 排气孔_NN ，_PU 气压_NN 一般_AD 被_SB 保持_VV 在_P 几_CD 托_M （_PU Torr_NN ）_PU 至_CC 几百_CD 托_NN ，_PU
+其他_DT RIE_NN 系统_NN 包括_VV 感应_NN 耦合_NN 等_ETC 离子体_NN RIE_NN （_PU inductivelycoupledplasma或者简称_PU ICPRIE_NN ）_PU 。_PU 在_P 这_DT 种_M 系统_NN 中_LC ，_PU 气体_NN 由_P 射频_NN （_PU RF_NN ）_PU 供能_VV 的_DEC 磁场_NN 所_MSP 产生_VV 。_PU 等离子体_NN 的_DEG 浓度_NN 可_VV 达_VV 非常_AD 高_VA ，_PU 但是_AD 蚀_BA 刻_M 会_VV 变得_VV 更加_AD 各_AD 向_P 同性_PN 。_PU
+一_CD 个_M 平行_JJ 板式_NN 和_CC 感应_NN 耦合_NN 等离子_NN 体式_NN 所_MSP 组合_VV 而_MSP 成_VV 的_DEC RIE_NN 也_AD 是_VC 可以_VV 实现_VV 的_SP 。_PU 这_DT 一_CD 系统_NN 中_LC ，_PU ICP_NN 用来_VV 产生_VV 高_JJ 浓度_NN 等_ETC 离子体_NN 来_MSP 加快_VV 蚀刻_NN 速率_NN ，_PU 另_DT 一_CD 单独_NN 加_VV 在_P 芯片_NN （_PU 硅片_NN ）_PU 上_LC 的_DEG 射频_NN （_PU RF_NN ）_PU 偏_AD 压_VV 用来_VV 产生_VV 定向_JJ 电场_NN ，_PU 以_MSP 达到_VV 各_DT 向_M 异性_NN 的_DEC 效果_NN 。_PU
+
+

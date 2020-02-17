@@ -1,0 +1,9 @@
+﻿_NN 中性_JJ 点嵌_NN 位_NN
+
+中性_JJ 点嵌位_NN （_PU Neutralpointclamped_NN ）_PU 简称_VV NPC_NN ，_PU 是_VC 多_JJ 电平_NN 逆变器_NN 或_CC 变频器_NN 会_VV 使用_VV 的_DEC 一_CD 种_M 拓朴_VV ，_PU 常用_AD 在_P 大_JJ 功率_NN 的_DEG 应用_NN 中_LC 。_PU 这_DT 类_M 的_DEG 电气_NN 设备_NN 可_VV 用_VV 在_P 功率_NN 高_VA 达数_NN 百万_CD 瓦_M 特_AD 的_DEC 应用_NN 中_LC 。_PU
+
+以_P 使用_VV 四_CD 个_M 功率_NN 晶体_NN 串联_VV 的_DEC 三电平_NN 变频器_NN 为_VV 例_NN ，_PU 中性点_NN 嵌位_NN 会_VV 将_BA 上臂_NN 二_CD 个_M 功率_NN 晶体_NN 中间_NN 的_DEG 电压_NN 经由_P 二极体_NN 嵌位_VV 到_VV 中性点_NN ，_PU 下臂_NN 二_CD 个_M 功率_NN 晶体_NN 中间_NN 的_DEG 电压_NN 经由_P 另_DT 一_CD 个_M 二极体_NN 嵌位_VV 到_VV 中性点_NN 。_PU
+
+
+
+

@@ -1,0 +1,24 @@
+﻿电源_NN 电压_NN 抑制比_NN
+
+在_P 电子_NN 设备_NN 中_LC ，_PU 电源_NN 抑制比_NN (_PU powersupplyrejectionratio_NN ,_PU PSRR_NN )_PU 是_VC 一_CD 个_M 经常_AD 在_P 电子_NN 放大器_NN （_PU 特_AD 別_NN 是_VC 运算_VV 放大器_NN ）_PU 或_CC 稳压器_NN 的_DEG 规格_NN 书_NN 出现_VV 的_DEC 参数_NN ，_PU 用来_VV 描述_VV 某_DT 一_CD 设备_NN 对_P 电源_NN 噪声_NN (_PU 来自_VV 电源_NN 的_DEC 噪声_NN )_PU 的_DEG 抑制_NN 能力_NN 。_PU
+
+电源_NN 抑制比_NN 的_DEC 定义_NN 是_VC 电源_NN 电压_NN 变化_NN 做成_VV 设备_NN 输出_VV 的_DEC 电压_NN 相应_JJ 变化_NN 的_DEC 比例_NN 。_PU 因为_P 此_DT 比_NN 值_VV 一般_AD 较_AD 大_VA ，_PU 为_P 方便_VV 使用_VV ，_PU 常_AD 以_P 分贝_VV （_PU dB_NN ）_PU 作为_VV 单位_NN ，_PU 理想_VA 的_DEC 设备_NN 其_PN PSRR_NN 是_VC 无限_AD 大_VA 。_PU PSRR_NN 会_VV 随_P 频率_NN 而_MSP 改变_VV ，_PU 规格书_NN 一般_AD 会_VV 以_P 图表_NN 展示_VV 不同_JJ 频率_NN 下_LC 的_DEG PSRR_NN ，_PU 较_AD 简单_VA 的_DEC 方式_NN 会_VV 只_AD 标示_VV 某_DT 特定_JJ 频率_NN 下_LC 的_DEG PSRR_NN 作_VV 参_NN 考用_VV 。_PU
+
+formula_NN
+
+在_P 放大器_NN 的_DEG 情况_NN 下_LC ，_PU 由于_P 整_DT 个_M 线路_NN 有_VE 闭环_NN 增益_VV （_PU A_NN ）_PU ，_PU 电源_NN 的_DEC 噪声_NN （_PU △_PU V_NN ）_PU 会_VV 被_SB 放大_VV 而_MSP 得出_VV （_PU △V_M ）_PU ，_PU 放大器_NN 本身_PN 的_DEG PSRR_NN 会_VV 是_VC ：_PU
+
+formula_NN
+
+例如_AD 一_CD 个_M 放大器_NN PSRR_NN =_VV 100_CD dB_M ，_PU 应用_VV 在_P 一_CD 个_M 闭环_NN 增_VV 益_NN =_VV 40_CD dB_M 的_DEG 线路_NN 时_LC ，_PU 整体_JJ 线路_NN 的_DEC PSRR_NN 就_AD 是_VC ：_PU
+
+formula_NN
+
+如此_AD ，_PU 即_AD 当_P 电源_NN 有_VE 1V_CD 的_DEG 噪声_NN 时_LC ，_PU 输出_VV 的_DEC 噪声_NN 就_AD 是_VC ：_PU
+
+formula_NN
+
+
+
+
+

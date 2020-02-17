@@ -1,0 +1,12 @@
+﻿_NN 零_CD 极子_NN
+
+零极子_NN （_PU nullator_NN ）_PU 为_VC 电子学_NN 中_LC 理想_VV 的_DEC 非线性_JJ 非_JJ 时变_NN 单_AD 埠_LB 网路_NN ，_PU 端点_NN 之间_LC 的_DEC 电流_NN 及_CC 电压_NN 均_AD 为_VC 零_CD 。_PU 零_CD 极子_NN 同时_AD 具有_VV 短路_NN （_PU 电压_NN 为_VC 零_CD ）_PU 及_CC 开路_NN （_PU 电流_NN 为_VC 零_CD ）_PU 的_DEG 特性_NN ，_PU 同时_AD 是_VC 电压源_NN 也_AD 是_VC 电流源_NN
+
+在_P 电路_NN 中_LC 加入_VV 一_CD 个_M 零极子_NN 类似_NN 增加_VV 一_CD 个_M 电路_NN 需_VV 满足_VV 的_DEC 「_PU 限制_NN 条件_NN 」_PU ，_PU 强迫_NN 电路_NN 调整_VV 其他_DT 元件_NN 的_DEG 电压_NN 及_CC 电流_NN 以_MSP 满足_VV 此_DT 一_CD 条件_NN 。_PU 例如_AD 有_VE 负回授_NN 的_DEC 理想_NN 运算_VV 放大器_NN 输入_VV 就_AD 类似_JJ 零极子_NN ，_PU 没有_VE 输入_VV 电流_NN ，_PU 输入_VV 的_DEC 二_CD 端子_NN 电压_NN 差_NN 为_VC 零_CD ，_PU 因此_AD 这些_DT 条件_NN 可以_VV 用来_VV 分析_VV 输算_NN 放大器_NN 周边_NN 的_DEG 电路_NN 。_PU
+
+零极子_NN 可以_VV 和_CC 任_VV 意子_NN （_PU norator_NN ，_PU 电压_NN 及_CC 电流_NN 为_VC 任意值_NN 的_DEC 元件_NN ）_PU 配对_VV ，_PU 以_MSP 形成_VV 零_CD 任偶_M （_PU Nullor_NN ）_PU 。_PU
+
+若_CS 零极子_NN 和_CC 任意子_NN 并联_VV ，_PU 结果_NN 类似_NN 短路_NN （_PU 零_CD 电压_NN ，_PU 电流_NN 为_VC 任意值_NN ）_PU 。_PU 若_CS 零极子_NN 和_CC 任意子_NN 串联_VV ，_PU 结果_AD 类似_VV 开路_NN （_PU 零_CD 电流_NN ，_PU 电压_NN 为_VC 任意值_NN ）_PU 。_PU
+
+
+

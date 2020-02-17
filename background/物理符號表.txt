@@ -1,0 +1,8 @@
+﻿物理_NN 符号_NN 表_NN
+
+这_PN 是_VC 一_CD 个_M 普通_JJ 物理_NN 常数_NN 和_CC 符号_NN 的_DEC 清单_NN ，_PU 以_P 粗体字_NN 表示_VV 的_DEC 符号_NN 为_VC 向_P 量_NN 。_PU 物理_NN 上_LC ，_PU 有_VE 一_CD 组_M 常_AD 在_P 数学_NN 表达式_NN 中_LC 出现_VV 的_DEC 符号_NN 。_PU 工作者_NN 熟悉_VV 这些_DT 符号_NN ，_PU 不是_CC 每_DT 次_M 使用_NN 都_AD 加以_VV 说明_NN 。_PU 所以_AD ，_PU 对于_P 物理_NN 初学者_NN ，_PU 下面_NN 的_DEG 列表_NN 给出_VV 了_AS 很多_CD 常见_VA 的_DEC 符号_NN 包括_VV 名称_NN 、_PU 读法_NN 。_PU
+
+念法_NN 通常_AD 以_P 英文_NN 字母_NN 的_DEG 发音_NN 或者_CC 中文_NN 翻译_VV 。_PU
+
+
+

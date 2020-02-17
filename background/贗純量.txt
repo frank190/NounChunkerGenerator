@@ -1,0 +1,8 @@
+﻿赝_NN 纯_JJ 量_NN
+
+赝纯量_NN （_PU ）_PU 为_VC 类似_JJ 纯量_NN 的_DEG 数量_NN ，_PU 但_CC 在_P 空间_NN 反演_VV 、_PU 瑕_NN 旋转_NN 时_LC 会_VV 多出_VV 负号_NN ，_PU 纯量_CD 则_AD 不_AD 会_VV 。_PU
+
+赝向量_NN 与_CC 向_P 量_NN 的_DEG 内积_NN 会_VV 是_VC 赝_JJ 纯量_NN 。_PU 赝纯量_NN 的_DEG 一_CD 个_M 典型_JJ 例子_NN 为_VC 三_CD 重积_NN 。_PU 设_VV 空间_NN 中_LC 有_VE 三_CD 向_P 量_NN A_NN 、_PU B_NN 、_PU C_NN ，_PU 彼此_PN 线性_JJ 独立_NN ；_PU A_NN 与_CC B_NN 的_DEG 叉积_NN formula_NN __NN 1_CD 为_VC 一_CD 赝_NN 向_P 量_NN ，_PU 此_DT 叉积_NN 再_AD 与_P C_NN 做_VV 内积_NN 可_VV 得_VV 三_CD 重积_NN formula_NN
+
+
+

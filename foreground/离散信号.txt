@@ -1,0 +1,10 @@
+﻿离散_VV 信号_NN
+
+离散_NN 信号_NN 是_VC 在_P 连续_JJ 信号_NN 上_LC 采样_AD 得到_VV 的_DEC 信号_NN 。_PU 与_P 连续_JJ 信号_NN 的_DEC 自_JJ 变量_NN 是_VC 连续_VV 的_DEC 不同_JJ ，_PU 离散_NN 信号_NN 是_VC 一_CD 个_M 序列_NN ，_PU 即_AD 其_PN 自_P 变量_NN 是_VC “_PU 离散_NN ”_PU 的_SP 。_PU 这_DT 个_M 序列_NN 的_DEG 每_DT 一_CD 个_M 值_NN 都_AD 可以_VV 被_SB 看作_VV 是_VC 连续_JJ 信号_NN 的_DEC 一_CD 个_M 采样_NN 。_PU 由于_P 离散_NN 信号_NN 只是_AD 采样_VV 的_DEC 序列_NN ，_PU 并_CC 不_AD 能_VV 从_P 中_LC 获得_VV 采样率_NN ，_PU 因此_AD 采样率_NN 必须_VV 另外_AD 存储_VV 。_PU 以_P 时间_NN 为_VC 自_P 变量_VV 的_DEC 离散_NN 信号_NN 为_VC 离散_VV 时间_NN 信号_NN 。_PU
+
+离散_NN 信号_NN 并_AD 不_AD 等同于_VV 数字_NN 信号_NN 。_PU 数字_NN 信号_NN 不仅_AD 是_VC 离散_VV 的_DEC ，_PU 而且_CC 是_VC 经过_P 量化_VV 的_DEC 。_PU 即_AD ，_PU 不仅_CC 其_PN 自_VV 变量_NN 是_VC 离散_PN 的_DEG ，_PU 其_PN 值_NN 也_AD 是_VC 离散_VV 的_DEC 。_PU 因此_AD 离散_VV 信号_NN 的_DEG 精度_NN 可以_VV 是_VC 无限_VA 的_DEC ，_PU 而_CC 数字_NN 信号_NN 的_DEG 精度_NN 是_VC 有限_VA 的_DEC 。_PU 而_CC 有着_P 无限_JJ 精度_NN ，_PU 亦_AD 即_AD 在_P 值_NN 上_LC 连续_VV 的_DEC 离散_NN 信号_NN 又_AD 叫_VV 抽样_NN 信号_NN 。_PU 所以_AD 离散_NN 信号_NN 包括_VV 了_AS 数字_NN 信号_NN 和_CC 抽样_NN 信号_NN 。_PU
+
+实际_JJ 的_DEG 离散_NN 信号_NN 都_AD 是_VC 从_P 连续_JJ 信号_NN 采样_VV 而_MSP 来_VV ，_PU 由_P 此_PN 引出_VV 了_AS 采样_NN 定理_NN 。_PU
+
+
+

@@ -1,0 +1,5 @@
+﻿_JJ 表面物_NN 理学_NN
+
+表面物_NN 理学_NN 是_VC 固体物_NN 理学_NN 的_DEC 分支_NN 之一_LC ，_PU 它_PN 主要_AD 是_VC 在_P 高_JJ 真空_NN 中_LC 用_P 电子束_NN 、_PU 离子束_NN 、_PU 原子束_NN 、_PU 光子_NN 、_PU 热_NN 、_PU 电场_NN 和_CC 磁场_NN 等_ETC 与_P 固体_NN 的_DEG 面_NN 交互_NN 用_P ，_PU 并且_CC 借此得知_VV 固体_NN 的_DEC 表面_NN 几_CD 层_M 原子_NN 的_DEC 电子_NN 状态_NN 、_PU 原子_NN 的_DEG 排列_NN 情况_NN 、_PU 吸附_VV 在_P 表面_NN 上_LC 的_DEG 外_JJ 来原子_NN 或_CC 分子_NN 以及_CC 其他_DT 物理_NN 性质_NN 。_PU 表面物_NN 理学_NN 是_VC 1960_CD 年代_NN 以后_LC 固体物_NN 理学_NN 中_LC 的_DEG 一_CD 个_M 重要_VA 而且_CC 发展_NN 极为_AD 迅速_VA 的_DEC 领域_NN ，_PU 目前_NT 对_P 半导体_NN 的_DEG 研究_NN 和_CC 制造_VV 非常_AD 重要_VA 。_PU
+
+

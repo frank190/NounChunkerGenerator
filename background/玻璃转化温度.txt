@@ -1,0 +1,11 @@
+﻿玻璃_NN 转化_NN 温度_NN
+
+玻璃_NN 转化_NN 温度_NN （_PU glasstransitiontemperature_NN ,_PU T_NN ）_PU 是_VC 玻璃态_NN 物质_NN 在_P 玻璃态_NN 和_CC 高_JJ 弹态_NN 之间_LC 相互_AD 可逆_VV 转化_VV 的_DEC 温度_NN 。_PU
+
+当_P 达到_VV 某_DT 一_CD 温度_NN 时_LC ，_PU 这_DT 区域_NN 的_DEC 分子_NN 链会_NN 做_VV 局部_NN 运动_NN ，_PU 这_DT 个_M 温度_NN 称作_NN 「_PU 玻璃_NN 转移_NN 温度_NN 」_PU （_PU Tg_NN ）_PU 。_PU 若_CS 温度_NN 低于_VV Tg_NN ，_PU 因_P 分子链_NN 无法_AD 运动_VV ，_PU 这时_JJ 材料_NN 处_NN 於_P 刚硬_VA 的_DEC 「_PU 玻璃态_NN 」_PU 。_PU 当_P 温度_NN 高于_VV Tg_NN 时_LC ，_PU 无_VE 定形_NN 状态_NN 的_DEC 分子链_NN 开始_AD 运动_VV ，_PU 材料_NN 会_VV 呈现_VV 类似_JJ 橡胶_NN 般_NN 柔软_NN 可_VV 挠_NN 的_DEC 性质_NN 。_PU
+
+玻璃_NN 转化_NN 表现出_VV 二_CD 级_M 相变_VV 的_DEC 表现_NN ，_PU 物质_NN 的_DEC 热容_NN 会_VV 发生_VV 连续_JJ 的_DEG 变化_NN ，_PU 但是_CC 玻璃_NN 转化_NN 实际上_AD 是_VC 一_CD 个_M 动力学_NN 转化_VV ，_PU 因此_AD 玻璃_NN 转化_NN 温度_NN 的_DEG 具体_JJ 数值_NN 是_VC 与_P 温度_NN 变化_NN 的_DEC 速度_NN 相关_VV 。_PU 常见_VA 的_DEC 玻璃态_NN 物质_NN 有_VE 大部分_CD 的_DEG 高分子_NN 材料_NN 和_CC 玻璃_NN 等等_ETC ，_PU 在_P 工业_NN 上_LC 有_VE 重要_JJ 应用_NN 的_DEC 玻璃_NN 态_NN 物质_NN 还_AD 有_VE 玻璃_NN 态_NN 金属_NN 。_PU
+
+决定_VV 无_VE 定形_NN 高分子_NN 材料_NN 是_VC 坚硬_VV 或者_CC 是_VC 柔软_VA 的_DEC 因素_NN ：_PU 若_CS Tg>_NN 室温_NN ，_PU 则_AD 高_JJ 分子_NN 材料_NN 是_VC 坚硬_VA 的_DEC ；_PU 若_CS Tg_NN <_PU 室温_NN ，_PU 则_AD 高_JJ 分子_NN 材料_NN 是_VC 柔软_VA 的_DEC 。_PU
+
+

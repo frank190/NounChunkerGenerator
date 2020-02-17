@@ -1,0 +1,9 @@
+﻿_CS 重叠_VV 区_NN
+
+重叠_JJ 区是_NN 中_LC 的_DEG 词_NN ，_PU 是_VC 在_VV 在_P 二_CD 个_M 或_CC 多_CD 个_M 之间_LC 的_DEG 区域_NN ，_PU 在_P 此_DT 区_NN 中_LC 各_DT 广播_NN 站以_VV 相同_VA 的_DEC 频率_NN 发射_NN 讯号_NN ，_PU 而且_CC 接_VV 受到_VV 的_DEC 强度_NN 相当_VV 。_PU 在_P 此_DT 区域_NN 中_LC 会_VV 出现_VV 的_DEC 情形_NN 。_PU
+
+为了_P 避免_VV 此_DT 一_CD 情形_NN ，_PU 会_VV 使用_VV 有_VE 的_DEG 接收器_NN ，_PU 天线_NN 方向_NN 调整_VV 到_VV 只_AD 接收_VV 到_VV 一_CD 个_M 广_AD 播站_VV 的_DEC 讯号_NN 。_PU 或者_CC 可以_VV 用_VV 单边带_NN 调制_VV 的_DEC 方式_NN 来_MSP 调制_VV 讯号_NN 。_PU
+
+若_CS 是_VC 数位_NN 广播_VA （_PU 包括_VV DRM_NN 及_CC DAB_NN ）_PU ，_PU 则_AD 没有_VE 重叠_JJ 区_NN 的_DEG 干扰_NN 问题_NN 。_PU
+
+

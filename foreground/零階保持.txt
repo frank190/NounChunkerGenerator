@@ -1,0 +1,29 @@
+﻿_NN 零_OD 阶_M 保持_NN
+
+零_CD 阶_NN 保持_NN （_PU zero_NN -_PU orderhold_NN ）_PU 简称_VV ZOH_NN ，_PU 是_VC 传统_JJ 数位类_NN 比_P 转换器_NN （_PU D_CD AC_M ）_PU 上_LC 的_DEG 数学_NN 模型_NN 。_PU 此_DT 作法_NN 会_VV 在_P 各_DT 取样_NN 区间_NN 之间_LC ，_PU 让_VV 信号_NN 维持_NN 之前_LC 的_DEG 值_NN ，_PU 以_P 此_DT 方式_NN 将_BA 离散_NN 信号_NN 转换_VV 为_VC 连续_JJ 信号_NN ，_PU 在_P 电子_NN 通讯_NN 上_LC 有_VE 许多_CD 的_DEG 应用_NN 。_PU
+
+零_CD 阶_NN 保持_VV 可以_VV 从_P 取样_JJ 数列_NN "_PU x_NN "_PU ["n"_PU ]_PU 重建_NN 为_VC 以下_JJ 的_DEG 连续_JJ 时间_NN 信号_NN ，_PU 假设_VV 每_DT 一_CD 个_M 取样_VA 的_DEC 时间_NN 间隔_NN 都_AD 是_VC "_PU T_NN "_PU ：_PU
+
+函数_NN formula_NN __NN 3_CD 如_P 图_NN 1_CD 所_MSP 示_VV ，_PU 而_CC formula_NN
+
+上述_JJ ZOH_NN 输出_VV 的_DEC 方程式_NN 也_AD 可以_VV 表示_VV 为_VC 冲激_JJ 响应_NN 分段_NN 常数_NN 函数_NN （_PU rect_NN 函数_NN ）_PU 的_DEG 线性_NN 时_LC 不_AD 变_VV 滤波器_NN 之_DEG 输出_NN ，_PU 输入_VV 则_AD 是_VC 狄拉克_NN δ函_NN 数乘_NN 以_MSP 取样_VV 数值_NN 所_MSP 产生_VV 的_DEC 脉冲_NN 序列_NN 。_PU 滤波器_NN 可以_VV 在_P 频域_NN 下_LC 进行_VV 分析_NN ，_PU 和_CC 其他_DT 的_DEG 信号_NN 重建_NN 方式_NN 进行_VV 比较_NN ，_PU 例如_AD 依_P 采样_NT 定理_VV 建议_VV 的_SP ，_PU 或是_CC 在_P 二_CD 个_M 取样点_NN 之_DEG 间线性_NN 内_LC 插_VV 的_DEC 一_CD 阶_NN 保持_VV 。_PU
+
+在_P 此_DT 作法_NN 中_LC ，_PU 会_VV 将_BA 狄拉克_NN δ函数_NN 的_DEG 脉冲_NN 序列_NN "_PU x_NN "_PU (_NN "_PU t_NN "_PU )_PU 经过_P 低_VA 通_VV 滤波器_NN 还原_NN 为_VC 连续_JJ 信号_NN "_PU x_NN "_PU (_NN "_PU t_NN "_PU )_NN 。_PU
+
+虽然_CS 实际_VV 的_DEC 数位类_NN 比_P 转换器_NN （_PU D_CD AC_M ）_PU 不_AD 是_VC 以_P 此_DT 方式_NN 进行_VV ，_PU 不过_P 其_PN 其_PN 特性_NN 可以_VV 建模_VV 为_VC 将_BA 假想_JJ 脉冲_NN 序列_NN "_PU x_NN "_PU ("t")_PU 用_P LTI_NN 滤波_NN 后_LC 所_MSP 得_VV 的_DEC 特性_NN ，_PU 而_CC 此_DT 滤波器_NN 的_DEG 特性_NN 是_VC 每_DT 一_CD 个_M 输入_VV 脉冲_NN 都_AD 可以_VV 产生_VV 持续_VV 到_VV 下_DT 一_CD 个_M 取样点_NN 的_DEC 常数_NN 步阶_NN 输出_VV 。_PU
+
+一开始_AD 先_AD 从_P 取样_VV 讯号_NN ，_PU 配合_VV delta_NN 函数_NN 建立_VV 连续_JJ 讯号_NN ：_PU
+
+其中_NN "_PU T_NN "_PU 的_DEG 比例_NN 是_VC 因为_P 将_BA delta_NN 函数_NN 配合_NN 时间_NN 调整_VV 比例而_AD 产生_VV 的_DEC ，_PU 其_PN 意思_NN 是_VC 使_VV "_PU x_NN "_PU ("t")_PU 的_DEG 平均值_NN 等于_VV 在_P 取样_VA 的_DEC 数值_NN ，_PU 因此_AD 低_AD 通_VV 滤波器_NN 的_DEC 直流_NN 增_VV 益_NN 设定_VV 为_VC 1_CD 即_AD 可_VV 。_PU 有些文献_AD 使用_VV 这_DT 种_M 比例_NN 调整_VV 方式_NN ，_PU 不过_P 许多_CD 文献_NN 不_AD 考虑_VV delta_NN 函数_NN 的_DEC 系数_NN '_PU T_NN "_PU ，_PU 因此_AD 低_AD 通_VV 滤波器_NN 会_VV 有_VE 一_CD 个_M 直流_NN 增益_VV "_PU T_NN "_PU ，_PU 也_AD 就_AD 会_VV 随_P 取样_VA 时间_NN 而_MSP 变化_VV 。_PU
+
+零_CD 阶_NN 保持_VV 是_VC 假想_VA 的_DEC 或_CC 线性_NN 系统_NN ，_PU 可以_VV 将_BA 调变_VV 后_LC 的_DEG 迪拉克_NN 脉冲_NN "_PU x_NN "_PU ("t")_PU 转换_NN 为_VC 片段_NN 连续_VV 的_DEC 讯号_NN （_PU 如_P 图_NN 2_CD ）_PU 。_PU
+
+其_PN 等效_JJ 的_DEG 冲激_NN 响应_NN （_PU 如_P 图_NN 4_CD ）_PU 为_VC ：_PU
+
+其_PN 等效_JJ 频率_NN 响应_VV 为_VC 冲激_NN 响应_VV 的_DEC 傅里叶_NN 变换_NN 。_PU
+
+ZOH_NN 的_DEG 传递_NN 函数_NN 拉普_VV 拉_VV 斯_DT 变换_NN 可以_VV 用_VV 将_BA "_PU s_NN "_PU 替代为_VV "_PU i_NN "_PU 2_CD π_NN "_PU f_NN "_PU 而_MSP 得_VV
+
+实际_JJ 的_DEG 数位类_NN 比_P 转换器_NN （_PU D_CD AC_M ）_PU 不_AD 会_VV 输出_VV 狄拉克_NN δ函数_NN 的_DEG 序列_NN "_PU x_NN "_PU ("t")_PU （_PU 因此_AD ，_PU 若_CS 是_VC 理想_VA 的_DEC 低_JJ 通滤波_NN ，_PU 会_VV 在_P 取样_JJ 前_NN 得到_VV 独特_VA 的_DEC 频宽受_NN 限制_VV 的_DEC 讯号_NN ）_PU ，_PU 会_VV 输出_VV 方波_NN 的_DEC 序列_NN "_PU x_NN "_PU ("t")_PU （_PU 阶跃_NN 函数_NN ）_PU ，_PU 因此_AD ZOH_NN 在_P DAC_NN 的_DEG 频率_NN 响应_NN 中_LC 会_VV 有_VE 一_CD 个_M 本质_NN 造成_VV 的_DEC 影响_NN ，_PU 在_P 频率_NN 较_AD 高_VA 时_LC ，_PU 会_VV 有_VE 轻微_VA 的_DEC （_PU 在_P 奈奎_NN 斯_DT 特频率_NN 处_NN 降低_VV 3_CD ._PU 9224_CD  _M dB_NN ，_PU 对应_VV sinc_NN (_PU 1_CD /_PU 2_CD )_PU =_NN 2_CD /_PU π_NN ）_PU 。_PU 此_DT 衰减_NN 是_VC 因为_P 传统_NN DAC_NR 的_DEC 「_PU 保持_VV 」_PU 特性_NN ，_PU 不_AD 是_VC 因为_P 在_P 传统_JJ 类比_NN 数位_NN 转换器_NN 前面_NN 的_DEG 电路_NN 的_DEG 影响_NN 。_PU
+
+

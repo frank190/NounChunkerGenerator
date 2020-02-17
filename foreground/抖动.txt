@@ -1,0 +1,25 @@
+﻿_CD 抖动_NN
+
+抖动_NN （_PU '_PU ）_PU ，_PU 又_CC 可_VV 称为_VV 时基_NN 误差_VV ，_PU 指_VV 的_DEC 是_VC 电子学_NN 和_CC 电信_NN 领域_NN 中_LC ，_PU 周期_NN 信号_NN 与_P 真实_NT 周期_NN 之间_LC 的_DEG 差异_NN ，_PU 通常_AD 是_VC 相当于_VV 参考_VV 时钟_NN 信号_NN 而言_VA 。_PU
+
+时基_NN 误差_AD 会_VV 影响_VV 数位类_NN 比_P 转换器_NN 的_DEG 类比_NN 输出_VV 。_PU 在_P 通讯_NN 链接_NN （_PU 如_P USB_NN ，_PU PCI_NN -_PU E_NN ，_PU SATA_NN ，_PU OC_NN -_PU 48_CD ）_PU 中_LC ，_PU 尤其是_AD 采样_VV 讯号_NN 的_DEG 还原_NN 过程_NN 中_LC ，_PU 是_VC 不_AD 希望_VV 发生_VV 抖动_NN 的_SP 。_PU
+
+像_P 所有_DT 的_DEG 随_JJ 时间_NN 变化_VV 的_DEC 讯号_NN 一样_VA ，_PU 抖动_NN 可以_VV 被_SB 量化_VV ，_PU 比如_AD 均_AD 方根_VA ，_PU 峰_NN -_PU 峰值_NN 位移_NN ；_PU 也_AD 可以_VV 用_P 频谱_NN 分布_VV 进行_VV 量化_NN 。_PU
+
+抖动_JJ 周期_NN 是_VC 指_VV 一_CD 个_M 讯号_NN 的_DEG 两_CD 次_M 峰值_NN 之间_LC 的_DEG 时间_NN 发生_VV 变化_NN 的_DEC 周期_NN 。_PU 抖动_JJ 频率_NN 是_VC 指_VV 抖动_JJ 周期_NN 的_DEC 倒数_NN 。_PU 如果_CS 抖动_VV 频率_NN 对_P 系统_NN 影响_VV 不_AD 大_VA ，_PU 在_P 低阶_NN 系统_NN 设计_NN 中_LC 可以_VV 不_AD 用_VV 加以_VV 考虑_VV 。_PU
+
+在_P 数位_NN 音响_NN 系统_NN 中_LC ，_PU 抖动_NN 是_VC 造成_VV 音质_NN 减损_NN 的_DEC 明显_JJ 因素_NN ，_PU 数位_NN 资料_NN 没有_VV 错误_VV ，_PU 但是_CC 抖动_JJ 问题_NN 较_AD 多时_VA 、_PU 还原_VA 的_DEC 声音_NN 就_AD 是_VC 差_VV 了_AS 一_CD 截_M ；_PU 减少_VV 抖动_NN 是_VC 提高_VV 音质_NN 的_DEC 有效_JJ 方法_NN ，_PU 例如_AD 高精_VA 确度_VA 的_DEC 振荡器_NN 为_VC 系统_NN 时_LC 脉_LC （_PU 有些_DT 甚至_AD 用_P 原子钟_NN ）_PU 、_PU 非常_AD 精準_VA 的_DEC CD_NN 制作_NN （_PU XRCD_NN ）_PU 、_PU 使用_VV I2S_NN 介面_NN 、_PU 导线_NN 机械_NN 线路_NN 等_ETC 采用_VV 优良_VA 的_DEC 结构_NN 及_CC 材料_NN 等等_VV 。_PU
+
+任何_DT 经过_P 采样_VV 的_DEC 数位_NN 讯号_NN ，_PU 在_P 还原_NN 时_LC 需要_VV 知道_VV 当时_NT 的_DEG 采样_NN 时_LC 脉_LC ，_PU 而_CC 在_P 还原_NN 点时_NN 资讯_NN 还没_AD 传达_VV 完成_VV ，_PU 将_BA 使_VV 还原_NN 的_DEG 讯号_NN 不_AD 完美_VA ，_PU 这_PN 在_P 实时_NN 系统_NN 会_VV 造成_VV 更_AD 严重_VA 的_DEC 失真_NN ，_PU Jitter_NN 属于_VV 数位_NN 噪声_NN 的_DEC 一_CD 种_M ，_PU 成因_NN 与_CC 解决_NN 方式_NN 将_AD 在_P 下面_LC 的_DEG 章节_NN 说明_NN 。_PU
+
+Jitter_NN 主要_VA 的_DEC 来源_NN 就_AD 是_VC 电讯号_NN 的_DEG 传递_NN 时间_NN 不同_VA ，_PU 我们_PN 知道_VV 任何_DT 导线_NN 都_AD 会_VV 有_VE 电容_NN ，_PU 电容_NN 就_AD 是_VC 影响_VV 高_JJ 电位_NN 至_VV 低_JJ 电位_NN /_PU 低_JJ 电位_NN 至_VV 高_JJ 电位_NN 的_DEG 阻碍_NN (_PU 也就是_AD 0_CD 到_VV 1_CD ，_PU 1_CD 到_CC 0_CD 的_DEG 充放电_NN 时间_NN )_PU ，_PU 然而_AD 不只_AD 是_VC 导线_NN 自己_VV 的_DEC 电容_NN ，_PU 导线_NN 与_P 导线_NN 之间_LC 的_DEG 串音_NN 效应_NN 也_AD 会_VV 导致_VV 导线_NN 充电_VV 时间_NN 的_DEG 阻碍_NN 。_PU 这样_PN 的_DEG 讯号_NN 延迟_VV 致使_NN 类比_NN 数位_NN 转换器_NN 以及_CC 数位类_NN 比_P 转换器_NN 发生_VV 采样_VA 、_PU 还原_NN 误差_VV 。_PU 除了_P 电容_NN 以外_LC ，_PU 电磁_NN 干扰_NN （_PU EMI_NN ）_PU 也_AD 会_VV 造成_VV Jitter_NN 时基_NN 误差_NN 。_PU
+因此_AD 一_CD 段_M 好_VA 的_DEC 数位_NN 导线_NN 必须_VV 对_P 以下_JJ 几_CD 个_M 项目_NN 加以_VV 设计_NN :_PU
+
+
+除了_P 传达_VV 讯号_NN 外_LC ，_PU 对于_P 时_NN 脉_NN 讯号_NN 的_DEG 不_AD 準_VV 确_AD 亦_AD 有_VE 可能_NN 造成_VV Jitter_NN ，_PU 例如_AD 硬体_NN 的_DEC 严重_JJ 震动_NN ，_PU 也_AD 会_VV 影响_VV 震荡石_NN 英体_NN ，_PU 使得_VV 时_LC 脉_VV 来源_DT 制造_VV 出来_VV 的_DEC 方波_NN 不_AD 再_AD 是_VC 完美_VA 的_DEC 方波_NN ，_PU 在_P 这样_PN 的_DEG 情况_NN 下_LC ，_PU 纵使_NN 讯号_NN 传达_NN 没有_VE Jitter_NN ，_PU 但_CC 时钟_M 的_DEG 认定_NN 已_AD 经有_VV 了_AS 误差_NN ，_PU 这样_PN 的_DEG 情形_NN 亦_AD 可_VV 等_ETC 效於_NN 时_LC 基_AD 出现_VV 了_AS 误差_NN 。_PU
+
+对于_P Jitter_NN 的_DEG 解决_NN 方法_NN 有_VE 以下_JJ 两_CD 个_M 方向_NN
+对于_P 时脉_NN 来源_AD 加以_VV 保护_NN ，_PU 甚至_AD 使用_VV 多重_VA 时_LC 脉_VV 加以_VV 校正_NN ，_PU 大量_AD 降低_VV 时_LC 脉_NN 的_DEG 误差_NN ，_PU 或是_CC 锁_VV 相_NN 回路_NN 加以_VV 校正_NN 。_PU
+
+
+

@@ -1,0 +1,17 @@
+﻿体胀_NN 系数_NN
+
+体胀_NN 系数_NN 是_VC 指_VV 在_P 一定_JJ 温度_NN 范围_NN 内_LC ，_PU 体积_NN 和_CC 温度_NN 微分_NN 表达_VV 式_NN 的_DEG 差分_NN 近似_VA ，_PU 其_PN 精确值_NN 要求_NN 温度_NN 的_DEG 变化_NN 与_CC 体积_NN 的_DEG 变化_NN 无限_AD 接近于_VV 零_CD ，_PU 因此_AD 在_P 不同_JJ 温度_NN 梯度_NN 范围_NN 内_LC 的_DEG 体胀_NN 系数_NN 通常_AD 并_AD 不_AD 为_VV 常数_NN 。_PU
+
+从_P 体胀_NN 系数_NN 的_DEG 定义_NN 出发_VV ，_PU 液体_NN 在_P 某_DT 一_CD 压力_NN p_NN 下_LC ，_PU 其_PN 表达式_JJ 如下_NN ，_PU 其中_NN V_NN 为_VC 液体_NN 体积_NN ，_PU T_NN 为_VC 液体_NN 温度_NN ：_PU
+
+formula_NN
+
+若_CS 将_BA 体胀_NN 系数_NN 从_P 体积_NN 转换_VV 到_VV 密度_NN ，_PU 表达式_NN 如下_VV ，_PU 其中_NN ρ_NN 为_VC 液体_NN 密度_NN ：_PU
+
+formula_NN
+
+formula_NN
+
+在_P 固体_NN ，_PU 液体_NN 和_CC 气体_NN 中_LC ，_PU 气体_NN 的_DEG 体胀_NN 系数_NN 最_AD 大_VA ，_PU 固体_NN 最_AD 小_VA 。_PU 各向同性_NN 固体_NN 的_DEC 体胀_NN 系数_NN ，_PU 约_AD 为_P 其_PN 线胀_NN 系数_NN 的_DEC 三_CD 倍_M 。_PU 当_P 外界_NN 压_VV 强_AD 不_AD 变_VV 时_LC ，_PU 一_CD 切气体_NN 的_DEG 体胀_NN 系数_NN 都_AD 近_AD 似相_VA 等_ETC ，_PU 约_AD 为_VC 0_CD ._PU 00367_CD /_PU 度_M ，_PU 即_AD 约_AD 1_CD /_PU 273_CD 度_M 。_PU
+
+

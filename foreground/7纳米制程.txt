@@ -1,0 +1,22 @@
+﻿7_CD 纳米_NN 制程_NN
+
+7纳_OD 米_M 制程_NN 是_VC 半导体_NN 制造_NN 制程_NN 的_DEC 一_CD 个_M 水平_NN 。_PU
+
+在_P 2015年_NT 7月_NT ，_PU IBM_NN 宣布_NN 以_P 硅锗_NN 制程_NN 做出_VV 第一_OD 个_M 可_VV 运作_VV 的_DEC 7_CD 纳米_NN 电晶体_NN
+。_PU 台积_NN 电_NN 在_P 2017_CD 年年_NN 中_LC 推出_VV 试验_NN 产品_NN ，_PU 并_CC 於_P 2018_CD 年_M 第2_OD 季_M 首先_AD 量产_VV 第一_OD 代_M 7_CD 奈米_M 芯片_NN 。_PU
+
+第一_OD 个_M 问世_NN 量产_VV 的_DEC 7nm_NN 芯片_NN 是_VC 苹果_NN 公司_NN AppleA_NN 12_CD Bionic_NN ，_PU 用于_VV 2018_CD 年_M 末_LC 推出_VV 的_DEC iPhoneXS_NN 和_CC iPhoneXR_NN 智慧_NN 型_NN 手机_NN 。_PU 2019_CD 年_M 末_LC 发表_VV 的_DEC AppleA_NN 13_CD Bionic_NN 使用_VV 台积_NN 电第_NN 二_CD 代_M 7_CD nm_M 制程_NN 生产_NN ，_PU 用于_VV iPhone_NN 11_CD 及_CC iPhone_NN 11_CD Pro_M 。_PU
+
+高通_JJ Snapdragon_NN 855_CD 和_CC 华为_P 海思_NN 的_DEC 麒麟_NN 980_CD 芯片_NN 也_AD 都_AD 采用_VV 了_AS 台积_NN 电_NN 的_DEG 7_CD 纳米_NN 工艺_NN 。_PU 高通_JJ 骁龙_NN 8_CD cx_M 是_VC PC_NN 业界_NN 首_NOI 款_NN 7_CD nm_M 处理器_NN 。_PU
+
+AMD_NN 於_P 2019_CD 年_M 推出_VV 采用_VV 了_AS 台积_NN 电7nmFinFET_NN 制程_NN 的_DEC RX5700_NN 系列_NN G_CD P_CC U_NN 和_CC Zen2_NN 微架_NN 构RyzenCPU_PU 。_PU 而_CC Intel_NN 预计_VV 2021_CD 年_M 推出_VV 。_PU
+
+台积_NN 电_NN 在_P 第二_OD 代_M 7_CD nm_M 才_AD 引入_VV 极_NN 紫外光_NN 刻_NN ，_PU 而_CC 三星_NN 与_CC Intel_NN 则_AD 计划_VV 直接_AD 量产_VV 采用_VV 极_JJ 紫_NN 外_JJ 光刻_NN 工艺_NN 的_DEC 7nm_NN 芯片_NN 。_PU
+
+然而_AD Intel_NN 的_DEG 10_CD nm_M 在_VV 台积_NN 电量_NN 产第_VV 一_CD 代_M 7_CD nm_M 量产_VV 时_LC 仍未_AD 量产_VV ；_PU 虽然_CS 说_VV Intel_NN 的_DEG 10_CD nm_M 在_P 量产_VV 时_LC 、_PU 其_PN 预期_NN 性能_NN 最_AD 差_VA 也_AD 仅_AD 略_AD 输_VV 他_PN 厂_NN 的_DEG 7_CD nm_M ，_PU 但_CC 台积_NN 电_NN 的_DEG 一_CD 代_M 7_CD nm_M 、_PU 是_VC 第一_OD 个_M 让_VV Intel_NN 失去_VV 领先_AD 地位_VV 的_DEC 量产_NN 制程_NN 。_PU
+
+台积电_NN 和_CC 三星_NN 皆_AD 将_BA 后续_JJ 优化_NN 的_DEC 制程_NN 命名_NN 为_VC 6_CD 奈米_M ，_PU 於_P 2019_CD 年_M 量产_NN 。_PU
+
+7_CD 纳米_VV 的_DEC 后继_NN 制程_NN 计划_VV 是_VC 5_CD 纳米_NN 。_PU
+
+

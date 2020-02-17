@@ -1,0 +1,20 @@
+﻿HDr_VV eady_NR
+
+-_PU {H_NN |_NN zh_NN -_PU hans_NN :_PU 支持_NN ;_PU zh_NN -_PU hant_NN :_PU 支援_NN }_PU -_PU
+
+HDready_CD 是_VC 欧洲_NN 资讯_NN 通讯_NN 技术_NN 协会_NN （_PU EICTA_NN ）_PU 在_P 2004年_NT 1月_NT 宣布_VV 的_DEC 标準_NN 。_PU 他们_PN 提出_VV 了_AS 这_PN 标準_VV ，_PU 是_VC 为了_P 区別_VV 出_VV 显示_NN 设备_NN 的_DEG 品质_NN ，_PU 能够_VV 处理_VV 和_CC 显示_VV 高清_JJ 晰度_NN 电视_NN 的_DEG 讯号_NN 。_PU
+
+事实_NN 上_LC ，_PU 那些_DT 支援_NN HDReady_NN 的_DEC 产品_NN ，_PU 并_CC 无必_AD 要_VV 加上_VV 这_DT 标签_NN 。_PU HDReady_NN 的_DEG 原意_NN ，_PU 是_VC 显示_NN 设备_NN 能够_VV 从_P HD_NN 讯号_NN 上_LC 显示_VV 完整_VA 的_DEC 影像解_NN 像度_NN ，_PU 从而_AD 展现_VV 像素_NN 较_AD 高_VA 的_DEC 影像_NN 。_PU 而_CC 大_JJ 部分_NN 的_DEG HDReady_NN 的_DEG 电视_NN ，_PU 都_AD 没有_VV 足够_VA 的_DEC 解像度_NN （_PU 1920x1080_CD 像素_NN 或_CC 1280x720_CD 像素_NN ，_PU 通常_AD 是_VC 1366x768_CD 非_AD 完整_VV 16_CD :_PU 9_CD 比例_NN 象_P 素_OD ）_PU ，_PU 来_MSP 显示_VV HD_NN 讯号_NN 的_DEC 完整_JJ 像素图_NN 像_P 。_PU 理论_NN 上_LC ，_PU 除了_P 这些_DT 像素_NN 不_AD 足_VA 外_LC ，_PU 抽样理_AD 论反_VA 映出_VV ，_PU 适当_VA 的_DEC 重建_NN 滤波器_NN 需要_VV 比_P 数码_NN 抽样_VA 更_AD 多_VA 的_DEC 像素_NN 於_P 萤幕_NN 上_LC ，_PU 来_MSP 提供_VV 最_AD 大_VA 的_DEC 锐利度_NN ；_PU 这_PN 就_AD 是_VC 为何_DT 普通_JJ 清晰度_NN 的_DEG 电视_NN （_PU 尤其_AD 是_VC DVD_NN ）_PU ，_PU 於_P 高清_JJ 晰度_NN 电视_NN 下_LC ，_PU 看起_VV 来_MSP 比起_VV 最_AD 好_VA 的_DEC 标準_NN 清晰度_NN 的_DEG 电视质_NN 素_AD 更为_AD 良好_VA 。_PU
+
+HDcompatible_VV （_PU 相_AD 容高_VV 清晰度_NN 电视_NN 讯号_NN ）_PU 这_DT 标_NN 準_LC ，_PU 亦_AD 於_P 英国_NR 所_MSP 采用_VV ；_PU 这_PN 标_VV 準_NN 表示_VV 显示_NN 设备_NN 设有_VV H_CD DM_M I_NN 功能_NN ，_PU 但_CC 画面_NN 解像度_NN 仍然_AD 停於_VV HDReady_NR 的_DEC 解_VV 像度_NN 。_PU
+
+许多_CD 桌上型_JJ 电脑_NN 以及_CC 手提_NN 电脑_NN 的_DEC 解像度_NN ，_PU 其_PN 实_AD 已经_AD 高于_VV HDR_CD eady_M 的_DEC 水平_NN ；_PU 但是_AD ，_PU 除非_P 它们_PN 同时_AD 接驳_VV 到_VV 其他_DT 设备_NN ，_PU 否则_AD 它们_PN 没有_VV HDReady_NR 的_DEG 标签_NN 资格_NN 。_PU
+
+任何_DT 电脑_NN 配备_NN 1280x720_CD 或_CC 更_AD 高解_JJ 像度_NN 的_DEC 萤幕_NN ，_PU 已经_AD 完全_AD 能够_VV 播放_VV HD_NR 影片_NN ，_PU 事实上不_AD 适用于_VV 大部分_CD 电脑_NN 。_PU
+
+贴有_VV 「_PU HDready_VV 」_PU 标记_NN 的_DEC 显示_NN 产品_NN 要_VV 包含_VV 以下_JJ 条件_NN ：_PU
+
+另外_AD ，_PU 「HDready_NN 1080p_CD 」_PU ，_PU 并_CC 非_VC FullHD_NR ，_PU 但_AD 与_P HDReady_NN 有_VE 差_NN 別_NN ，_PU 及_CC 画质_NN 上_LC 的_DEG 提升_NN 。_PU 它_PN 的_DEG 标志_NN 是_VC 反白_VV 的_DEC 黑底白_NN 字_NN 「_PU HDReady_NN 1080p_CD 」_PU 。_PU
+
+
+

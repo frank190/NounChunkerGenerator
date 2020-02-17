@@ -1,0 +1,14 @@
+﻿_CD IEEE829_NN
+
+IEEE829-1998_NN ，_PU 也_AD 被_SB 称做_VV 829_CD 软件_NN 测试_VV 文档_NN 标准_NN ，_PU 作为_VV 一_CD 个_M IEEE_NN 的_DEG 标准_NN 定义_VV 了_AS 一_CD 套_M 文档_NN 用于_VV 8_CD 个_M 已_AD 定义_VV 的_DEC 软件_NN 测试_VV 阶段_NN ，_PU 每_DT 个_M 阶段_NN 可能_VV 产生_VV 它_PN 自己_PN 单独_JJ 的_DEG 文件_NN 类型_NN 。_PU 这_DT 个_M 标准_NN 定义_VV 了_AS 文档_NN 的_DEC 格式_NN 但是_AD 没有_VE 规定_JJ 它们_PN 是否_AD 必须_VV 全部_DT 被_SB 应用_VV ，_PU 也_AD 不_AD 包括_VV 这些_DT 文档_NN 中_LC 任何_DT 相关_JJ 的_DEG 其它_DT 标准_NN 的_DEC 内容_NN 。_PU
+
+
+IEEE829_NN 中_LC 可能_VV 引用_VV 到_VV 的_DEC 其他_DT 标准_NN ：_PU
+
+
+这_DT 个_M 标准_NN 的_DEC 内容_NN ，_PU 有_VE 部分_NN 是_VC 来自于_VV ISEB_NN 基金会_NN 的_DEG 培训_NN 课程_NN ，_PU 和_CC （_PU 英国_NR 计算机_NN 协会_NN ）_PU 推动_VV 的_DEC 软件_NN 测试_VV 执业_NN 证书_NN 考试_VV 。_PU ISTQB_NN （_PU 国际_NN 软件_NN 测试_VV 资质_NN 认证_VV 委员会_NN ）_PU 遵循_VV 基于_P ISEB_NN （_PU 英国_NN 信息_NN 系统_NN 考试_VV 委员会_NN ）_PU 的_DEC 课程_NN 提纲_NN 和_CC 德国_NN 的_DEG ASQF_NN 教学_NN 大纲_AD ，_PU 同时_AD 被_SB I_NN EEE_NR 829_CD 采纳_VV 为_VC 软件_NN 测试_VV 文档_VV 的_DEC 参考_NN 标准_NN 。_PU
+
+一_CD 个_M 对_P IEEE829-1998_NN 的_DEG 修正_NN ，_PU 叫做_VV IEEE829-2008_NN ，_PU 发表_VV 在_P 2008年_NT 7月_NT 18日_NT 并_CC 已经_AD 被_SB 批准_VV 来_MSP 取代_VV 1998_CD 版本_NN 。_PU
+
+
+

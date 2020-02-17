@@ -1,0 +1,43 @@
+﻿绝缘_NN 栅双_NN 极晶_NN 体管_NN
+
+绝缘栅_NN 双极_NN 电晶体_NN （_PU ）_PU ，_PU 是_VC 半导体_NN 器件_NN 的_DEG 一_CD 种_M ，_PU 主要_AD 用于_VV 电动_JJ 车辆_NN 、_PU 铁路_NN 机车_NN 及_CC 动车组_NN 的_DEC 交流_NN 电电_NN 动机_NN 的_DEG 输出_NN 控制_NN 。_PU 传统_JJ 的_DEG BJT_NN 导通_NN 电阻_NN 小_VA ，_PU 但是_CC 驱动_NN 电流_NN 大_VA ，_PU 而_CC MOSFET_NN 的_DEC 导通_NN 电阻_NN 大_VA ，_PU 却_AD 有着_P 驱动_NN 电流_NN 小_VA 的_DEC 优点_NN 。_PU IGBT_NN 正_AD 是_VC 结合_VV 了_AS 这_DT 两_CD 者_NN 的_DEG 优点_NN ：_PU 不仅_CC 驱动_NN 电流_NN 小_VA ，_PU 导通_NN 电阻_NN 也_AD 很_AD 低_VA 。_PU
+
+这_DT 种_M 电晶体_NN 结合_VV 了_AS 金属_NN 氧化物_NN 半导体_NN 场效_NN 应晶_NN 体管_NN （_PU ）_PU 的_DEC 高_JJ 电流_NN 单栅_NN 控制_VV 特性_NN 及_CC 双极性_JJ 电晶体_NN 的_DEC 低饱_NN 和_CC 电压_NN 的_DEC 能力_NN ，_PU 在_P 单一_JJ 的_DEG IGBT_NN 器件_NN 里_LC ，_PU 会_VV 透过_VV 把_BA 一_CD 个_M 隔离_VV 的_DEC 场效_NN 应_VV 电晶体_NN （_PU FET_NN ）_PU 结合_VV ，_PU 作为_P 其_PN 控制_VV 输入_NN ，_PU 并_CC 以_P 双极性_JJ 电晶体_NN 作_VV 开关_NN 。_PU
+
+绝缘_NN 栅双_NN 极晶_NN 体管_NN 其_PN 基本_JJ 包装_NN 为_VC 三_CD 个_M 端点_NN 的_DEC 功率_NN 级_NN 半导体_NN 元件_NN ，_PU 其_PN 特点_NN 为_VC 高_JJ 效率_NN 及_CC 切换_NN 速度_NN 快_VA ，_PU 为_P 改善_VV 功率_NN 级_NN BJT_NN 运作_VV 的_DEC 工作_NN 状况_NN 而_MSP 诞生_VV 。_PU
+
+IGBT_NN 结合_VV 了_AS 场效_NN 电晶_NN 体闸_NN 极_AD 易_AD 驱动_VV 的_DEC 特性_NN 与_CC 双极性_JJ 电晶体_NN 耐_VV 高_JJ 电流_NN 与_P 低_JJ 导通_NN 电压_NN 压降_NN 特性_NN ，_PU IGBT_NN 通常_AD 用于_VV 中高_JJ 容量_NN 功率_NN 场合_NN ，_PU 如_P 切换式_JJ 电源_NN 供应器_NN 、_PU 马达_NN 控制_NN 与_P 电磁炉_NN 。_PU 大型_JJ 的_DEG IGBT_NN 模块_NN 应用_VV 于数_NN 百_CD 安培_NN 与_CC 六千_CD 伏特_VV 的_DEC 电力_NN 系统_NN 领域_NN ，_PU 其_PN 模块_NN 内部_NN 包含_VV 数_CD 个_M 单一_JJ IGBT_NN 元件_NN 与_P 保护_NN 电路_NN 。_PU
+
+IGBT_NN 为_VC 近数_NN 十_CD 年_M 发明_NN 产物_NN ，_PU 第一_OD 代_M IGBT_NN 产品_NN 於_P 1980_CD 年代_NN 与_CC 1990_NN 年初期_NN ，_PU 但_CC 其_PN 切换_NN 速度_NN 不_AD 快_VA 且_CC 开关_NN 截止_NN 时_LC 易_AD 产生_VV 拴锁_NN 现象_NN 与_P 二_OD 次_M 崩溃_NN 现象_NN ，_PU 第二_OD 代_M IGBT_NN 产品_NN 便_AD 有_VE 很_AD 大_VA 的_DEC 进展_NN ，_PU 第三_OD 代_M IGBT_NN 产品_NN 为_VC 目前_NT 主流_NN ，_PU 其_PN 直逼_NN 功率级_NN MOSFET_NN 的_DEC 速度_NN 并且_CC 在_P 电压_NN 电流_NN 容量_NN 上_LC 有_VE 很_AD 大_VA 的_DEC 进步_NN 。_PU
+
+IGBT_NN 是_VC 强_JJ 电流_NN 、_PU 高压_JJ 应用_NN 和_CC 快速_AD 终端_AD 设备_VV 用_P 垂直_JJ 功率_NN MOSFET_NN 的_DEC 自然_NN 进化_VV 。_PU 由于_P 实现_VV 一_CD 个_M 较_AD 高_VA 的_DEC 击穿_NN 电压_NN BVDSS_NN 需要_VV 一_CD 个_M 源漏_NN 通道_NN ，_PU 而_CC 这_DT 个_M 通道_NN 却_AD 具有_VV 很_AD 高_VA 的_DEC 电阻率_NN ，_PU 因而_AD 造成_VV 功率_NN MOSFET_NN 具有_VV RDS_NN (_PU on_NN )_PU 数值_NN 高_VA 的_DEC 特征_NN ，_PU IGBT_NN 消除_VV 了_AS 现有_JJ 功率_NN MOSFET_NN 的_DEC 这些_DT 主要_JJ 缺点_NN 。_PU 虽然_CS 最新_VV 一_CD 代_M 功率_NN MOSFET_NN 器件_NN 大幅度_NN 改进_VV 了_AS RDS_NN (_PU on_NN )_PU 特性_NN ，_PU 但是_AD 在_P 高_JJ 耐压_NN 的_DEC 器件_NN 上_LC ，_PU 功率_NN 导通_NN 损耗_NN 仍然_AD 要_VV 比_P IGBT_NN 技术_NN 高出_VV 很_AD 多_VA 。_PU 较_AD 低_VA 的_DEC 压降_NN ，_PU 转换_VV 成_VV 一_CD 个_M 低_JJ VCE_NN (_PU sat)_NN 的_DEC 能力_NN ，_PU 以及_CC IGBT_NN 的_DEG 结构_NN ，_PU 同_DT 一_CD 个_M 标准_JJ 双极器件_NN 相比_VV ，_PU 可_VV 支持_VV 更_AD 高_JJ 电流_NN 密度_NN ，_PU 并_CC 简化_VV IGBT_NN 驱动器_NN 的_DEG 原理图_NN 。_PU
+
+IGBT_NN 硅片_NN 的_DEG 结构_NN 与_CC 功率_NN MOSFET_NN 的_DEG 结构_NN 十分_CD 相似_VA ，_PU 主要_AD 差异_VV 是_VC IGBT_NN 增加_VV 了_AS P_NN +基片_NN 和_CC 一_CD 个_M N_CD +_NN 缓冲层_NN (_PU N_CD PT_M -_PU 非_AD 穿通_VV -_PU IGBT_NN 技术_NN 没有_VV 增加_VV 这_DT 个_M 部分_NN )_PU 。_PU 如_P 等_ETC 效_NN 电路图_NN 所_MSP 示_VV (_PU 图_NN 1_CD )_PU ，_PU 其中_NN 一_CD 个_M MOSFET_NN 驱动_VV 两_CD 个_M 双极_JJ 器件_NN 。_PU 基片_NN 的_DEC 应用_NN 在_P 管体_NN 的_DEC P_NN +_NN 和_CC N_NN +_CC 区_NN 之间_LC 创建_VV 了_AS 一_CD 个_M J1_NN 结_NN 。_PU
+当_P 正_JJ 栅偏压_NN 使_VV 栅极_NN 下面_NN 反演_VV P_NN 基区_NN 时_LC ，_PU 一_CD 个_M N_NN 沟道_NN 形成_VV ，_PU 同时_AD 出现_VV 一_CD 个_M 电子流_NN ，_PU 并_CC 完全_AD 按照_P 功_NN MOSFET_NN 的_DEC 方式_NN 产生_VV 一_CD 股_M 电流_NN 。_PU 如果_CS 这_DT 个_M 电子_NN 流_VV 产生_VV 的_DEC 电压_NN 在_P 0_CD ._PU 7V_CD 范围_NN 内_LC ，_PU 那么_AD ，_PU J1_NN 将_AD 处于_VV 正向_AD 偏压_VV ，_PU 一些空穴_AD 注入_VV N-区_NN 内_LC ，_PU 并_CC 调整_VV 阴阳极_NN 之间_LC 的_DEG 电阻率_NN ，_PU 这_DT 种_M 方式_NN 降低_VV 了_AS 功率_NN 导通_NN 的_DEC 总_JJ 损耗_NN ，_PU 并_CC 启动_VV 了_AS 第二_OD 个_M 电_NN 荷流_NN 。_PU 最后_NT 的_DEG 结果_NN 是_VC ，_PU 在_P 半导体_NN 层次_NN 内_LC 临时_AD 出现_VV 两_CD 种_M 不同_VA 的_DEC 电流_NN 拓扑_NN ：_PU 一_CD 个_M 电子_NN 流(_NN MOSFET_NN 电流_NN )_PU ；_PU 空穴_NN 电流_NN (_PU 双极_NN )_PU 。_PU
+
+当_P 在_P 栅极_NN 施加_VV 一_CD 个_M 负_VV 偏压_NN 或_CC 栅压_NN 低于_VV 门限值_NN 时_LC ，_PU 沟道_NN 被_SB 禁止_VV ，_PU 没有_VE 空穴_NN 注入_NN N_NN -_PU 区_NN 内_LC 。_PU 在_P 任何_DT 情况_NN 下_LC ，_PU 如果_CS MOSFET_NN 电流_NN 在_P 开关_NN 阶段_NN 迅速_AD 下降_VV ，_PU 集电极_NN 电流_NN 则_AD 逐渐_AD 降低_VV ，_PU 这_PN 是_VC 因为_P 换向_NN 开始_VV 后_LC ，_PU 在_P N_NN 层_NN 内_LC 还_AD 存在_VV 少数_NN 的_DEC 载流_NN 子_NN (_PU 少子_NN )_NN 。_PU 这_DT 种_M 残余_NN 电流值_NN (_PU 尾流_NN )_PU 的_DEG 降低_NN ，_PU 完全_AD 取决于_VV 关断_VV 时电荷_NN 的_DEG 密度_NN ，_PU 而_CC 密度_NN 又_AD 与_P 几_CD 种_M 因素_AD 有关_VV ，_PU 如掺_CS 杂质_NN 的_DEG 数量_NN 和_CC 拓扑_NN ，_PU 层次_JJ 厚度_NN 和_CC 温度_NN 。_PU 少子_NN 的_DEC 衰减_NN 使_VV 集电极_NN 电流_NN 具有_VV 特征_NN 尾流_NN 波形_NN ，_PU 集电极_NN 电流_NN 引起_VV 以下_JJ 问题_NN ：_PU 功耗升_NN 高_VA ；_PU 交叉_NN 导通_NN 问题_NN ，_PU 特别_AD 是_VC 在_P 使用_VV 续流_JJ 二极管_NN 的_DEG 设备_NN 上_LC ，_PU 问题_NN 更加_AD 明显_VA 。_PU
+
+鉴于_VV 尾流_NN 与_CC 少子_NN 的_DEC 重组_JJ 有关_AD ，_PU 尾流_NN 的_DEC 电流_NN 值_NN 应_VV 与_P 芯片_NN 的_DEG 温度_NN 、_PU IC_NN 和_CC VCE_NN 密切_NN 相关_VV 的_DEC 空穴_NN 移动性_NN 有_VE 密切_VV 的_DEC 关系_NN 。_PU 因此_AD ，_PU 根据_P 所_MSP 达到_VV 的_DEC 温度_NN ，_PU 降低_VV 这_DT 种_M 作用_NN 在_P 终端_NN 设备_NN 设计_NN 上_LC 的_DEC 电流_NN 的_DEG 不理_NN 想_VV 效应_NN 是_VC 可行_VV 的_DEC 。_PU
+
+当_P 集电极_NN 被_SB 施加_VV 一_CD 个_M 反向_JJ 电压_NN 时_LC ，_PU J1_NN 就_AD 会_VV 受到_VV 反向_JJ 偏压_NN 控制_NN ，_PU 耗尽层_NN 则_AD 会_VV 向_P N_CD -_PU 区_NN 扩展_NN 。_PU 因_P 过多_VA 地_DEV 降低_VV 这_DT 个_M 层面_NN 的_DEG 厚度_NN ，_PU 将_AD 无法_AD 取得_VV 一_CD 个_M 有效_VA 的_DEC 阻断_NN 能力_NN ，_PU 所以_AD ，_PU 这_DT 个_M 机制_NN 十分_AD 重要_VV 。_PU 另_DT 一_CD 方面_NN ，_PU 如果_CS 过大_VA 地_DEV 增加_VV 这_DT 个_M 区域_NN 尺寸_NN ，_PU 就_AD 会_VV 连续_AD 地_DEV 提高_VV 压降_NN 。_PU
+第二_OD 点_M 清楚_VA 地_DEV 说明_VV 了_AS NPT_NN 器件_NN 的_DEG 压降_NN 比_NN 等_ETC 效_NN (_NN IC_NN 和_CC 速度_NN 相同_VA )_PU PT_NN 器件_NN 的_DEG 压降_NN 高_VA 的_DEC 原因_NN 。_PU
+
+当_P 栅极_NN 和_CC 发射极_NN 短接_VV 并_CC 在_P 集电极_NN 端子_NN 施加_VV 一_CD 个_M 正电压_NN 时_LC ，_PU P_NN /_PU NJ3_NN 结_VV 受反_VV 向_P 电压_NN 控制_NN 。_PU 此时_NT ，_PU 仍然_AD 是_VC 由_P N_CD 漂移区_NN 中_LC 的_DEG 耗尽层_NN 承受_VV 外部_NN 施加_VV 的_DEC 电压_NN 。_PU
+
+IGBT_NN 在_P 集电极_NN 与_CC 发射极_NN 之间_LC 有_VE 一_CD 个_M 寄生_VV PNPN_NN 晶闸管_NN ，_PU 如_P 图_NN 1_CD 所_MSP 示_VV 。_PU 在_P 特殊_JJ 条件_NN 下_LC ，_PU 这_DT 种_M 寄生_NN 器件_NN 会_VV 导通_VV 。_PU 这_DT 种_M 现象_NN 会_VV 使_VV 集电极_NN 与_CC 发射极_NN 之间_LC 的_DEC 电流_NN 量_NN 增加_VV ，_PU 对_P 等效_JJ MOSFET_NN 的_DEG 控制_NN 能力_NN 降低_VV ，_PU 通常_AD 还_AD 会_VV 引起_VV 器件_NN 击_VV 穿_VV 问题_NN 。_PU 晶闸管_NN 导通_VV 现象_NN 被_SB 称为_VV IGBT_NN 闩锁_NN ，_PU 具体_VA 地_DEV 说_VV ，_PU 这_DT 种_M 缺陷_NN 的_DEC 原因_NN 互_AD 不_AD 相同_VA ，_PU 与_P 器件_NN 的_DEG 状态_NN 有_VE 密切_JJ 关系_NN 。_PU 通常_JJ 情况_NN 下_LC ，_PU 静态_NN 和_CC 动态闩_NN 锁有_VV 如下_JJ 主要_JJ 区别_NN ：_PU
+
+当_P 晶闸管_NN 全部_AD 导通_VV 时_LC ，_PU 静态_NN 闩锁_NN 出现_VV 。_PU
+只_AD 在_P 关断_VV 时_LC 才_AD 会_VV 出现_VV 动态_NN 闩锁_NN 。_PU 这_DT 一_CD 特殊_JJ 现象_NN 严重_VA 地_DEV 限制_VV 了_AS 安全_VV 操作区_NN 。_PU
+为_P 防止_VV 寄生NPN_NN 和_CC PNP_NN 晶体管_NN 的_DEG 有害_JJ 现象_NN ，_PU 有_VE 必要_CS 采取_VV 以下_JJ 措施_NN ：_PU
+防止_VV NPN_NN 部分_NN 接通_VV ，_PU 分别_AD 改变_VV 布局_NN 和_CC 掺杂_VV 级别_NN 。_PU
+降低_VV NPN_NN 和_CC PNP_NN 晶体管_NN 的_DEG 总_JJ 电流_NN 增益_NN 。_PU
+此外_AD ，_PU 闩锁_NN 电流_NN 对_P PNP_NN 和_CC NPN_NN 器件_NN 的_DEG 电流_NN 增益_VV 有_VE 一定_JJ 的_DEG 影响_NN ，_PU 因此_AD ，_PU 它_PN 与_P 结温_NN 的_DEC 关系_NN 也_AD 非常_AD 密切_VV ；_PU 在_P 结温_NN 和_CC 增益_NN 提高_VV 的_DEC 情况_NN 下_LC ，_PU P基区_NN 的_DEG 电阻率_NN 会_VV 升高_VV ，_PU 破坏_VV 了_AS 整体_NN 特性_NN 。_PU 因此_AD ，_PU 器件_NN 制造商_NN 必须_VV 注意_VV 将_BA 集电极_NN 最_AD 大_JJ 电流_NN 值_NN 与_P 闩锁_NN 电流_NN 之间_LC 保持_VV 一定_JJ 的_DEG 比例_NN ，_PU 通常_AD 比例_VV 为_VC 1_CD ：_PU 5_CD 。_PU
+
+电联车_NN 或_CC 电动_JJ 车辆_NN 之_DEG 马达_NN 驱动器_NN 、_PU 变频_JJ 冷气_NN 、_PU 变频_NN 冰箱_NN ，_PU 甚至_AD 是_VC 大_JJ 瓦特_NN 输出_VV 音响_NN 放大器_NN 的_DEG 音源_NN 驱动_NN 元件_NN 。_PU IGBT_NN 特点_NN 在于_VV 可以_VV 大_JJ 功率_NN 场合_NN 可以_VV 快速_AD 做切_VV 换_VV 动作_NN ，_PU 因此_AD 通常_JJ 应用_NN 方面_NN 都_AD 配合_VV 脉冲_NN 宽度_NN 调变_VV （_PU PulseWidthModulation_NN ,_PU PWM_NN ）_PU 与_CC 低通_JJ 滤波器_NN （_PU Low_NN -_PU passFilters_NN ）_PU 。_PU
+
+由于_P 半导体_NN 元件_NN 技术_NN 的_DEG 精进_NN ，_PU 半导体_NN 源料_NN 品质_NN 的_DEG 提升_NN ，_PU IGBT_NN 单价_NN 价格_NN 越来越_AD 便宜_VV ，_PU 其_PN 应用_NN 范围_NN 更_AD 贴近_VV 家用_JJ 产品_NN 范围_NN ，_PU 不_AD 再只_AD 是_VC 高_JJ 功率_NN 级_NN 的_DEG 电力_NN 系统_NN 应用_NN 范畴_NN ，_PU 如_P 电动_JJ 车辆_NN 与_CC 混合_JJ 动力车_NN 的_DEG 马达_NN 驱动器_NN 便_AD 是_VC 使用_VV IGBT_NN 元件_NN ，_PU 丰田_NR 汽车_NN 第二_OD 代_M 混合_JJ 动力车_NN PriusII_NN 便_AD 使用_VV 50_CD kwIGBT_NN 模块_NN 变频器_NN 控制_VV 两_CD 组_M 交流_NN 马达_NN /_PU 发电机_NN 以便_AD 与_P 直流_JJ 电池_NN 组作_NN 电力_NN 能量_NN 之间_LC 的_DEG 转换_NN 。_PU
+
+
+
+
+

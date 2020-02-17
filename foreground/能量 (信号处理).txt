@@ -1,0 +1,14 @@
+﻿能量_NN (_PU 信号_NN 处理_NN )_PU
+
+在_P 信号_NN 处理_NN 中_LC ，_PU 时域_NN 连续_NN 信号_NN "_PU x_CD "_PU ("t")_PU 的_DEG 能量_NN formula_NN
+
+严格_AD 来说_VV ，_PU 在_P 这里_PN 的_DEC “_PU 能量_NN ”_PU 和_CC 在_P 物理_NN 以及_CC 其它_DT 学科_NN 中_LC 传统_JJ 意义_NN 上_LC 的_DEC 能量_NN 并_AD 不_AD 相同_VA 。_PU 这_DT 两_CD 个_M 概念_NN 是_VC 类似_VA 的_DEC ，_PU 并_CC 可以_VV 互相_AD 转化_VV ：_PU
+
+相似_VA 的_DEC ，_PU 信号_NN x_NN (_PU t_NN )_PU 的_DEG 光谱_NN 能量_VV 密度_NN 是_VC
+
+这里_PN "_PU X"("f_NN "_PU )_NN 是_VC 经过_P 傅_CD 氏_M 变换_NN 的_DEC "_PU x_NN "_PU (_NN "_PU t_NN "_PU )_NN 。_PU
+
+作为_P 帕塞瓦_NN 尔定_VV 理_NN 的_DEG 延续_NN ，_PU 可以_VV 证明_VV 信号_NN 能量_NN 总是_AD 等于_VV 信号_NN 光谱_NN 能量_VV 密度_NN 中_LC 所有_DT 频率_NN 分量_NN 的_DEG 和_CC 。_PU
+
+
+

@@ -1,0 +1,11 @@
+﻿_CD BISS_NN
+
+BISS_NN ，_PU 全称_AD BasicInteroperableScramblingSystem_NR ，_PU 是_VC 在_P 数字_NN 电视_NN 系统_NN 中_LC 使用_VV 的_DEC 一_CD 种_M 加扰_NN 方法_NN ，_PU 由_P 欧洲_NN 广_AD 播联_VV 盟_NN 所_MSP 制定_VV 的_DEC 卫星_NN 广播_AD 加密_VV 系统_NN ，_PU 众多_CD 硬件_NN 制造商_NN 皆_AD 支援_VV 此_DT 协定_NN 。_PU 相对于_P CAS_NN 的_DEG 密钥_NN 每_AD 隔_VV 一定_JJ 周期_NN （_PU 一般_AD 为_VC 5_CD ~_PU 30_CD 秒_M ）_PU 变化_NN ，_PU 通过_P 专用_JJ 通道_NN 并_CC 有_VE 专用_JJ 软件_NN （_PU ECMG_NN 、_PU EMMG)_NN 或_CC 设备_NN （_PU 如_P 加扰机_NN ）_PU 面言_NN ，_PU 这_PN 是_VC 一_CD 种_M 密钥_NN 固定_VV 的_DEC 方法_NN ，_PU 不_AD 需要_VV CAS_NN 等_ETC 软件_NN 和_CC 功能_NN 复杂_VA 的_DEC 加扰机_NN ，_PU 密钥_VV 的_DEC 传输_NN 可以_VV 是_VC 口口_NN 相传_VV 等_ETC 非常_AD 简单_VA 的_DEC 方式_NN 。_PU
+
+由于_P 卫星_NN 新闻_AD 直播_VV 不同于_VV 一般_JJ 卫星_NN 电视_NN ，_PU 不_AD 适宜_VV 采用_VV 一般_JJ 的_DEG 加密_JJ 方法_NN 。_PU 若_CS 卫星_NN 新闻_NN 信号_NN 在_P 传送_VV 时_LC 没有_VE 任何_DT 加密_VV ，_PU 这_PN 有_VE 机会_NN 被_SB 有心_VV 人士_NR 直接_AD 从_P 其_PN 卫星_NN 信号_NN 收看_VV ，_PU 因此_AD 有_VE 需要_VV 制定_VV 一_CD 种_M 简单_VA 的_DEV 加密_VV 制式_VV ，_PU 来_MSP 应付_VV 此_DT 类_M 特殊_JJ 需要_NN 。_PU BISS_NN 加密_VV 由_P 12_OD 位_M 金钥_NN (_PU sessionkey_NN )_PU 保护_VV ，_PU 只有_AD 发射_NN 方_NN 及_CC 接收方_NN 才_AD 知道_VV 。_PU 发射机_NN 及_CC 接收机_NN 均_AD 需要_VV 输入_VV 相同_VA 的_DEC 金钥_NN 才_AD 能_VV 解码_NN 。_PU
+
+其_PN 加扰_VV 算法_NN 是_VC 基于_P DVB_NN -_PU CSA_NN (_PU DVB_NN 通用_VV 加扰_NN 算法_NN )_PU 。_PU
+
+
+
+

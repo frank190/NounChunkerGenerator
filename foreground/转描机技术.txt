@@ -1,0 +1,15 @@
+﻿转描机_NN 技术_NN
+
+转描机_NN 技术_NN 是_VC 一_CD 种_M 动画家_NN 用来_VV 逐帧_VV 地_DEC 追踪_NN 真实_AD 运动_VV 的_DEC 动画_NN 技术_NN 。_PU 这_DT 种_M 技术_NN 最早_AD 是_VC 把_BA 预先_AD 拍好_VV 的_DEC 电影_NN 投放_VV 到_VV 毛玻璃_NN 上_LC ，_PU 然后动_AD 画家_NN 将_BA 其_PN 描绘_NN 下来_VV 。_PU 这_DT 个_M 投影仪_NN 被_SB 称为_VV 转描机_NN （_PU Rotoscope_NN ）_PU ._PU
+
+转描机_NN 技术_NN 最早_AD 由_P 马克_NN 思_NN ·_PU 弗雷歇尔_NN （_PU MaxFleischer_NN ）_PU 约_AD 在_P 1914_CD 年_M 发明_NN 。_PU 他_PN 把_BA 这_DT 项_M 技术_NN 用_VV 在_VV 了_AS 他_PN 的_DEG 系列片_NN 《_PU 逃出_VV 墨水池_NN 》_PU （_PU OutoftheInkwell_NN ）_PU 当_P 中_LC ，_PU 他_PN 的_DEG 哥哥_NN 戴_VV 夫_NN ·_PU 弗雷歇_NN 尔_NN （_PU DaveFleischer_NN ）_PU 身穿_VV 小_JJ 丑服_NN 扮演_VV 了_AS 动画脚_NN 本_DT 电影_NN 中_LC 小丑_AD 可_VV 可_VV 的_DEC 角色_NN 。_PU
+
+弗雷_NN 歇尔_VV 在_P 他_PN 后来_VV 的_DEC 卡通_NN 中_LC 也_AD 使用_VV 了_AS 转描机_NN 的_DEG 技术_NN ，_PU 著名_VA 的_DEC 有_VE 1930_CD 年代_NN 早期_VV 的_DEC 三部_NN BettyBoop_NN 卡通_NN 中_LC 的_DEG CabCalloway_NN 舞蹈_NN 动作_NN 以及_CC 《_PU 格列佛_NN 游记_NN 》_PU 中_LC 格列_NN 佛_NN 的_DEG 动画_NN 。_PU
+
+华特_NR 迪士_NN 尼_NOI 公司_NN 和_CC 他_PN 的_DEG 动画_NN 制作_VV 家们_NN 很_AD 仔细_VA 和_CC 有效_VA 的_DEC 把_BA 转描_NN 技术_NN 运用_VV 到_VV 了_AS 他们_PN 1937_CD 年_M 的_DEG 电影_NN 白雪_NN 公主_NN 和_CC 七_CD 个_M 小_JJ 矮人_NN 。_PU 转描_NN 技术_NN 也_AD 被_SB 用在_VV 了_AS 迪士_NN 尼后来很_AD 多_AD 具有_VV 人类_NN 角色_VA 的_DEC 电影_NN 中_LC ，_PU 比如_AD 灰姑娘_NN ._PU 后来_VV ，_PU 当_P 迪士_NN 尼动画_NN 变得_VV 越来越_AD 风格化_NN （_PU 例如_AD 1961年_NN 的_DEG 电影_NN 101_CD 斑点_NN 狗_LC ，_PU 转_VV 描_NN 技术_NN 主要_AD 用来_VV 学习_VV 人物_NN 和_CC 动物_NN 的_DEG 运动_NN ，_PU 而_CC 不_AD 是_VC 直接_AD 描摹_VV 制作_NN 电影_NN 。_PU
+
+转描_NN 技术_NN 被_SB 广泛_VA 的_DEC 运用_VV 到_VV 了_AS 中国_JJ 的_DEG 第一_OD 部_M 动画_JJ 电影_NN 1941_CD 年_M 的_DEG 铁扇_NN 公_NN 主当_NN 中_LC 。_PU
+
+
+
+

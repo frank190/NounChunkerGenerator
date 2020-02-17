@@ -1,0 +1,6 @@
+﻿消_VV 音室_NN
+
+消音室_NN 或_CC 称消_JJ 声室_NN 、_PU 无_VE 响室_NN ，_PU 是_VC 指_VV 一_CD 种_M 把_BA 内部_NN 声音_NN 反射_NN 和_CC 外部_NN 的_DEG 杂音_NN 减到_VV 最_AD 小_VA 的_DEC 声学_NN 实验室_NN ，_PU 外部_NN 杂音_NN 是_VC 靠_P 建筑_VV 本身_PN 以及_CC 厚实_VA 的_DEC 砖石墙_NN 和_CC 消音室_NN 里通风_NN 管道_NN 中_LC 的_DEG 消音器_NN 消除_VV 的_DEC （_PU 即使_CS 是_VC 消音室_NN 也_AD 要_VV 有_VE 让_VV 空气_NN 流动_VV 的_DEC 出口_NN ，_PU 否则_AD 会_VV 危害_VV 到_VV 里面_NN 工作_NN 人员_NN 的_DEG 健康_NN ）_PU 。_PU 则室表_JJ 内面_NN 用_P 毯状_NN 或_CC 制成_VV 水平_NN 和_CC 垂直_JJ 的_DEG 楔形_JJ 吸声_NN 材料_NN 覆盖_NN ，_PU 让_VV 声音_NN 反射_NN 减小_VV 到_VV 一千_CD 分之一_M 。_PU 消音室_NN 主要_VA 的_DEC 目的_NN 是_VC 模拟_JJ 自由_NN 空间_NN 无_VE 障碍_VV 的_DEC 声学_NN 条件_NN 。_PU
+
+
+

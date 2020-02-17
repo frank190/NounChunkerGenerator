@@ -1,0 +1,6 @@
+﻿纠_NR 缠谱_NN
+
+纠_AD 缠谱_VV (_PU entanglementspectrum_NN )_PU 是_VC 一_CD 个_M 由_P Li_NN 和_CC Haldane_NN 在_P 2008_CD 年_M 提出_VV 的_DEC 量子_NN 力学_NN 概念_NN ，_PU 可_VV 作为_P 纠_AD 缠熵_VV 的_DEC 推广_NN ，_PU 用来_VV 分析_VV 量子_NN 多体_NN 系统_NN 的_DEG 波函数_NN 。_PU 纠_AD 缠谱_VV 的_DEC 数学_NN 定义_NN 是_VC
+其中_NN formula_NN __NN 2_CD 是_VC 约_AD 化_JJ 密度_NN 矩阵_NN 的_DEC 第f_OD ormula_Err
+
+

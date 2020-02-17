@@ -1,0 +1,6 @@
+﻿吸_VV 收限_VV
+
+吸收限_NN (_PU absorptionedge_NN )_PU 是_VC 指_VV 物质_NN 对_P 电磁波_NN 的_DEG 吸收量_NN 随着_P 辐射_NN 频率_NN 的_DEG 增大_NN ，_PU 而_CC 辐射_NN 频率_NN 增加_VV 至_VV 某_DT 一_CD 限度_NN 时_LC 吸收量_NN 会_VV 骤然_AD 减小_VV ，_PU 而_CC 这_DT 个_M 限度_NN 称作_VV 吸收限_NN 。_PU 吸收限_NN 的_DEG 大小_NN 与_CC 原子_NN 中_LC 电子_NN 占有_VV 的_DEC 能_VV 级_M 有关_VA 。_PU
+
+
+

@@ -1,0 +1,12 @@
+﻿链路_NN 层_NN 发现_VV 协议_NN
+
+链路层_NN 发现_VV 协议_NN （_PU ，_PU LLDP_NN ）_PU 是_VC 一_CD 种_M 数据_NN 链路_NN 层_NN 协议_NN ，_PU 网络_NN 设备_NN 可以_VV 通过_P 在_P 本_DT 地_NN 网络_NN 中_LC 发送_VV LLDPDU_NN （_PU LinkLayerDiscoveryProtocolDataUnit_NN ）_PU 来_MSP 通告_VV 其他_DT 设备_NN 自身_PN 的_DEG 状态_NN 。_PU 是_VC 一_CD 种_M 能够_VV 使_VV 网络_NN 中_LC 的_DEG 设备_NN 互相_AD 发现_VV 并_CC 通告_VV 状态_NN 、_PU 交互_NN 信息_NN 的_DEC 协议_NN 。_PU
+
+LLDP_NN 协议_NN 属于_VV 链路层_NN 协议_NN ，_PU 它_PN 的_DEG 以太_JJ 类型_NN 为_VC 0x88_CD cc_NN 。_PU 一_CD 个_M 标准_VA 的_DEC LLDP_NN 帧_NN 格式_NN 如下_VV ：_PU
+
+
+
+TLV_NN 的_DEG 类型_NN 部分_NN 的_DEG 取值_NN 中_LC ，_PU 0_CD ~_PU 8_CD 以及_CC 127_CD 是_VC 规范_NN 中_LC 已经_AD 明确_AD 占用_VV 的_DEC 数值_NN ，_PU 9_CD ~_PU 126_CD 则_AD 是_VC 预留_VV 的_DEC 数值_NN ，_PU 其_PN 详细_JJ 定义_NN 如下_VV ：_PU
+
+
+

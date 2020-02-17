@@ -1,0 +1,23 @@
+﻿本_DT 质_NN 安全_NN
+
+本_DT 质_NN 安全_NN （_PU ）_PU 是_VC 一_CD 种_M 使_VV 电子_NN 设备_NN 在_P 爆炸性_JJ 气体_NN 环境_NN 及_CC 不_AD 正常_AD 操作_VV 条件_NN 下_LC 可以_VV 安全_AD 运作_VV 的_DEC 保护_NN 技术_NN ，_PU 设计_NN 方式_NN 是_VC 避免_VV 设备_NN 释放_VV 足以_VV 引燃_VV 易燃物_NN 的_DEC 能量_NN 。_PU 本质安全_AD 概念_VV 的_DEC 发展_NN 是_VC 为了_P 在_P 危险_NN 区域_NN 下_LC ，_PU （_PU 例如_AD 北海_NN 的_DEC 天然_JJ 气平台_NN ）_PU 程序_NN 控制_NN 仪表_NN 的_DEC 安全_NN 运作_VV 。_PU
+
+降低_VV 爆炸_NN 风险_NN 可以_VV 由_P 三_CD 个_M 方式_NN 来_MSP 进行_VV ：_PU 限制_VV 爆炸_NN 范围_NN 、_PU 隔离_NN 及_CC 预防_NN ，_PU 本质_NN 安全_AD 是_VC 预防_NN 方面_NN 相当_AD 有效_VA 的_DEC 方式_NN 。_PU 本质安全_AD 是_VC 固有_VV 安全_VV 在_P 仪器_NN 上_LC 的_DEG 应用_NN 。_PU 以往_NT 认为_VV 像_P 马达_NN 或_CC 照明_NN 等_ETC 高_JJ 功率_NN 电路_NN 不_AD 适用_VV 本质_NN 安全_VA 的_DEC 保护_NN 方式_NN ，_PU 不过_AD 配合_VV （_PU 简称_VV DART_NN ）_PU 的_DEC 技术_NN ，_PU 高_JJ 功率_NN 电路_NN 也_AD 可以_VV 适用_VV 本质_PN 安全_VA 的_DEC 保护_NN 方式_NN 。_PU
+
+本质_AD 安全_VA 的_DEC 理论_NN 基础_NN 是_VC 确_AD 保_VV 系统_NN 中_LC 的_DEG 电能_NN 及_CC 热能_NN 均_AD 低到_VV 不_AD 会_VV 使_VV 爆炸性_NN 气体_NN 燃烧_VV ，_PU 因此_AD 在_P 危险_NN 区域_NN 下_LC 只_AD 允许_VV 流过_VV 低_JJ 电压_NN 及_CC 小_JJ 电流_NN ，_PU 而且_CC 对于_P 能量_NN 储存_VV 有_VE 严格_NN 的_DEG 限制_NN 。_PU
+
+最_AD 常用_VV 的_DEC 保护_NN 方式_NN 是_VC 利用_VV 多_CD 个_M 电阻_NN 串联_VV 来_MSP 限制_VV 流_VV 过_AS 的_DEC 电流_NN （_PU 假设_JJ 电阻_NN 失效_VV 时_LC 会_VV 开路_NN ）_PU ，_PU 或_CC 是_VC 用_P 多_CD 个_M 齐纳_JJ 二极体_NN 接到_VV 地点_NN 来_MSP 限制_VV 电压_NN （_PU 假设_VV 二极体_NN 失效_VV 时_LC 会_VV 短路_NN ）_PU 。_PU 有时_AD 也_AD 会有_VV 时_LC 也_AD 会_VV 用_VV 电隔_NN 离_VV 的_DEC 屏障_NN 方式_NN 。_PU 本_DT 质_NN 安全_NN 屏障_VV 的_DEC 认证_NN 法规_NN 要求_VV 在_P 这些_DT 限制_NN 元件_NN 若_CS 损坏_VV 在_P 一定_JJ 程度_NN 以下_LC ，_PU 仍_AD 能_VV 维持_VV 其_PN 认证_NN 的_DEG 电压_NN 及_CC 电流_NN 。_PU
+
+例如_AD 一_CD 个_M 在_P 危险_NN 区域_NN 使用_VV 的_DEC 量测_NN 设备_NN 需_VV 设计_VV 在_P 小_JJ 电压_NN 及_CC 小_JJ 电流_NN 下_LC 运作_VV ，_PU 而且_CC 不_AD 能_VV 有_VE 大_JJ 电容_NN 或_CC 电感_NN ，_PU 以免_AD 放电_VV 时会_NN 产生_VV 火花_NN 。_PU 设备_NN 需_VV 依_P 认证_VV 的_DEC 接线_NN 方式_NN 接到_VV 位_VV 在_P 非_AD 危险_NN 区域_NN ，_PU 有_VE 安全_VA 屏障_VA 的_DEC 控制盘_NN 内_LC ，_PU 安全_AD 屏障_VV 的_DEC 目的_NN 是_VC 在_P 确认_VV 不论_JJ 量测_NN 电路_NN 和_CC 外部_NN 电源_NN 设备_NN 之间_LC 有_VE 任何_DT 意外_JJ 的_DEG 短路_NN ，_PU 流入_VV 危险_NN 区域_NN 的_DEG 电压_NN 及_CC 电流_NN 仍_AD 需_VV 维持_VV 在_P 认证_NN 要求_NN 的_DEC 电压_NN 及_CC 电流_NN 范围_NN 内_LC 。_PU
+
+一般_JJ 设备_NN 在_P 正常_AD 使用_VV 时_LC ，_PU 可以_VV 会_VV 因为_P 开关_NN 、_PU 马达_NN 电刷_NN 、_PU 连接器_NN 或_CC 其他_DT 元件_NN 内部_NN 产生_VV 微小_NN 的_DEC 火花_NN 。_PU 这些_DT 火花_NN 会_VV 引燃_VV 周遭_NN 的_DEC 可燃_JJ 气体_NN ，_PU 本_DT 质_NN 安全_NN 设备_NN 的_DEG 设计_NN 原理_NN 是_VC 不_AD 包含_VV 任何_DT 会_VV 产生_VV 火花_NN 的_DEC 元件_NN ，_PU 若_CS 有_VE 储能_NN 元件_NN ，_PU 其_PN 储能_NN 也_AD 不_AD 能_VV 大_AD 到_VV 足以_VV 产生_VV 火花_NN 。_PU 例如_AD 若_CS 在_VV 进行_VV 可燃物品_NN 的_DEC 时_LC ，_PU 当_P 物品_NN 在_P 海运码头_NN ，_PU 油轮_NN 或_CC 驳船_NN 之间_LC 运输_VV 时_LC ，_PU 需_VV 利用_VV 联络_NN ，_PU 若_CS 在_P 一些_CD 意外_NN 事件_NN （_PU 如_P 可燃物_NN 品泼洒_NN ）_PU 时_LC 需_VV 停止_VV 运输_NN 。_PU 而_CC 美国_NR 海岸警_NN 卫队_NN 即_AD 要求_VV 双向_AD 无_VE 线电_NN 需_VV 通过_P 本质_PN 安全_VA 的_DEC 认证_VV 。_PU
+
+另_DT 一_CD 个_M 有关_JJ 本质_NN 安全_VA 的_DEC 概念_NN 是_VC 控制_VV 零件_NN 异常_NN 时_LC 的_DEG 温度_NN 。_PU 在_P 一些_CD 特定_JJ 的_DEG 故障_NN 下_LC （_PU 例如_AD 半导体_NN 内部_NN 短路_NN ）_PU ，_PU 其_PN 温度_NN 会_VV 较_AD 正常_AD 使用_VV 的_DEC 温度_NN 高出_VV 许多_VV 。_PU 此时_NT 需_VV 使用_VV 像_P 类似_JJ 限流_NN 电阻_NN 或_CC 保险丝_NN 之_DEG 类_NN 的_DEG 保护_NN 元件_NN ，_PU 确保_VV 在_P 任何_DT 情形_NN 下_LC ，_PU 元件_NN 温度_NN 都_AD 不_AD 会_VV 达到_VV 使_VV 可燃_JJ 气体_NN 自燃_VV 的_DEC 程度_NN 。_PU
+
+除了_P 适当_AD 设计_VV 的_DEC 电池_NN 供电_NN 设备_NN 外_LC ，_PU 其他_DT 的_DEG 现场_NN 设备_NN 或_CC 接线_NN 都_AD 不_AD 能_VV 只_AD 靠_P 本身_PN 就_AD 可_VV 达到_VV 本_DT 质_NN 安全_NN ，_PU 需要_VV 配合_VV 适当_JJ 设计_NN 的_DEC 本质_JJ 安全_NN 系统_NN 才_AD 会_VV 确保_VV 其_PN 本质_NN 安全_NN 。_PU 这_DT 类_M 的_DEG 系统_NN 一般_AD 都_AD 有_VE 详细_VA 的_DEC 说明书_NN ，_PU 以_MSP 确保_VV 其_PN 安全_AD 使用_VV 及_CC 维护_VV 。_PU
+
+许多_CD 机构_NN 都_AD 提出_VV 了_AS 本质_NN 安全_VA 的_DEC 标準_NN ，_PU 也_AD 会_VV 评估_VV 制造商_NN 的_DEC 产品_NN 是否_AD 符合_VV 标準_NN 。_PU 这些_DT 机构_NN 可以_VV 是_VC 政府_NN 的_DEC 部门_NN ，_PU 也_CC 可以_VV 由_P 保险_NN 公司_NN 、_PU 制造商_NN 、_PU 产业_NN 中_LC 对_P 安全标_NN 準_AD 有_VE 兴趣_NN 的_DEC 业者_NN 所_MSP 组成_VV 。_PU 若_CS 产品_NN 通过_P 认证_VV ，_PU 制造_VV 商_NN 可_VV 在_P 产品_NN 上_LC 增加_VV 一_CD 标签_NN 或是_CC 图示_NN ，_PU 以_P 识別_NN 产品_NN 已_AD 通过_P 对应_VV 的_DEC 产品_NN 安全标_NN 準_NN 。_PU 这_DT 类_M 机构_NN 包括_VV 美国_NR 的_DEC 及_CC 加拿_VV 大_VA 的_DEC 加拿_NN 大标_AD 準协会_VV （_PU CSA_NN ）_PU ，_PU 在_P 欧洲_NN 则_AD 有位_VV 在_P 德国_NR 的_DEC ZELM_NR 及_CC 在_P 荷兰_NR 的_DEC KEMA_NR 。_PU 为了_P 促进_VV 世界_NN 贸易_NN ，_PU 国际_NN 的_DEC 各_DT 标準_NN 组织_VV 已_AD 开始_VV 进行_VV 集成_JJ 工作_NN ，_PU 目标_NN 是_VC 在_P 某_DT 一_CD 国家_NN 通过_P 认证_VV 的_DEC 本质_NN 安全_NN 产品_NN ，_PU 在_P 不_AD 重新_VV 进行_VV 测试_NN 的_DEC 条件_NN 下_LC ，_PU 可以_VV 通卨_VV 其他_DT 国家_NN 的_DEC 本质_NN 安全_AD 认证_VV 。_PU
+
+
+
+

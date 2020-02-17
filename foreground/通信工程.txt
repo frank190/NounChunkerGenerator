@@ -1,0 +1,17 @@
+﻿通信_NN 工程_NN
+
+通信_NN 工程_NN （_PU 也_AD 作_VV 信息_NN 工程_NN 、_PU 电信_NN 工程_NN ，_PU 旧称_NN 远_JJ 距离_NN 通信_NN 工程_NN 、_PU 弱电_NN 工程_NN ）_PU 是_VC 电子_NN 工程_NN 的_DEG 重要_JJ 分支_NN ，_PU 同时_AD 也_AD 是_VC 其中_DT 一_CD 个_M 基础学科_NN 。_PU 该_DT 学科_NN 关注_VA 的_DEC 是_VC 通信_NN 过程_NN 中_LC 的_DEG 信息_NN 传输_NN 和_CC 信号_NN 处理_NN 的_DEC 原理_NN 和_CC 应用_NN 。_PU
+
+通信_NN 工程_NN 研究_VV 的_DEC 是_VC ，_PU 以_P 电磁波_NN 、_PU 声波_NN 或_CC 光波_NN 的_DEG 形式_NN 把_BA 信息_NN 通过_P 电脉冲_NN ，_PU 从_P 发送端_NN （_PU 信源_NN ）_PU 传输_VV 到_VV 一_CD 个_M 或_CC 多_CD 个_M 接受_NN （_PU 信宿_NN ）_PU 。_PU 接受端_NN 能_VV 否正_AD 确辨_VV 认_VV 信息_NN ，_PU 取决于_VV 传输_NN 中_LC 的_DEG 损耗_NN 高低_NN 。_PU 信号_NN 处理_NN 是_VC 通信_NN 工程_NN 中_LC 一_CD 个_M 重要_JJ 环节_NN ，_PU 其_PN 包括_VV 过滤_NN ，_PU 编码_NN 和_CC 解码_NN 等_ETC 。_PU
+
+通信_NN 工程_NN 所_MSP 关注_VV 的_DEC 频段_NN 涉及_VV 甚_AD 广_VA 。_PU 低_JJ 频段_NN ，_PU 亦_AD 即_AD 低_JJ 赫兹_NN ，_PU 关心_NN 的_DEC 是_VC 技术_NN 声学_NN 或_CC 低频_NN 技术_NN 。_PU 高_JJ 频段_NN 中_LC 关注_VV 的_DEC 范围_NN 从_P 微波_NN 或_CC 雷达_NN 系统_NN 到_VV 可_VV 见光_VV 的_DEC 激光_NN 或_CC 镭射_NN 系统_NN 。_PU 微波_NN 到_VV 可见光_NN 中间_NN 的_DEG 频段_NN 几乎_AD 都_AD 是_VC 通信_NN 工程_NN 的_DEC 研究_NN 对象_NN 。_PU 除_P 此_PN 之外_LC ，_PU 通信_NN 过程_NN 中_LC 所_MSP 应用_VV 的_DEC 媒介_NN 和_CC 技术_NN ，_PU 包括_VV 通信_NN 系统_NN 在_P 陆上_NT 、_PU 水下_NR 、_PU 空中_NR 和_CC 宇宙_NR 空间_NN 中_LC 的_DEG 应用_NN ，_PU 也_AD 是_VC 相当_AD 丰富_VA 的_DEC 。_PU
+
+通信_NN 工程_NN 的_DEC 基础_NN 建立_VV 于_P 应用_JJ 数学_NN 中_LC 的_DEG 数理_NN 方程_NN 。_PU 其_PN 理论_NN 起点_NN 是_VC 物质_NN 与_P 波_NN 在_P 傅_NN 里_LC 叶热扩散_NN 和_CC 麦克_NN 斯_DT 韦_NN 电动力_NN 条件_NN 下_LC 观察_VV 到_VV 的_DEC 传播_NN 现象_NN 。_PU
+
+世界_NN 上_LC 由_P 人类_NN 创造_VV 的_DEC 最_AD 大_VA 的_DEC 通信_NN 系统_NN 是_VC 公共_JJ 交换_NN 电话网_NN （_PU ）_PU 。_PU 另外_DT 一_CD 个_M 正_AD 在_P 迅速_AD 发展_VV 的_DEC 大型_JJ 通信_NN 系统_NN ——_PU 网际_NN 网路_NN ——_PU 正_AD 逐步_AD 形成_VV 电话网_NN 的_DEC 规模_NN ，_PU 并_CC 终将_AD 有_VE 一_CD 天_M 取_VV 而_MSP 代之_VV 。_PU
+
+不_AD 可_VV 否认_VV 的_DEC 是_VC ，_PU 如今_CS 通信_NN 工程_NN 正_AD 在_P 转变_VV 为_VC 信息_NN 工程_NN ，_PU 英特网_NN 就_AD 是_VC 一_CD 个_M 很_AD 好_VA 的_DEC 例子_NN 。_PU 一_CD 方面_NN 通信_NN 系统_NN 常常_AD 是_VC 信息_NN 与_CC 应用_NN 技术_NN 的_DEG 计算_NN 系统_NN 的_DEG 一_CD 个_M 重要_JJ 组成_JJ 部分_NN ，_PU 另_DT 一_CD 方面_NN 现代_JJ 通信_NN 系统_NN 给_P 信息_NN 工程_NN 予以_VV 理论_NN 和_CC 方法_NN 指导_VV ，_PU 并_CC 处于_VV 计算_NN 系统_NN 的_DEG 核心_NN 位置_NN 。_PU
+
+
+
+

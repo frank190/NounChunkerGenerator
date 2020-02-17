@@ -1,0 +1,45 @@
+﻿_CD Chirp_NN -_PU Z_NN 转换_NN
+
+啁啾_NN -_PU Z_NN 转换_NN （_PU Chirp_NN -_PU Ztransform_NN ）_PU 为_VC 离散傅_NN 立叶_VV 变换_NN （_PU DFT_NN ）_PU 的_DEC 一般化_NN ，_PU 是_VC 一_CD 种_M 适合_VV 於_P 计算_VV 当_P 取_VV 样频率_NN 间隔_NN （_PU samplingfrequencyinterval_NN ）_PU 与_CC 取样_VA 时间_NN 间隔_NN （_PU samplingtimeinterval_NN ）_PU 乘积_VV 的_DEC 倒数_NN 不_AD 等于_VV 信号_NN 的_DEC 时频_NN 分布_NN 面积_NN 时_LC 的_DEG 演_NN 算法_NN ，_PU 其_PN 为_VC 利用_VV 卷积_NN 来_MSP 实现_VV 任意_JJ 大小_NN 的_DEC 离散傅_NN 立叶_VV 变换_NN （_PU DFT_NN ）_PU 的_DEG 快速_AD 傅立_VV 叶_AD 变换_VV 演_VV 算法_NN 。_PU
+
+具体来说_AD ，_PU 啁啾_NN -_PU Z_NN 转换_NN 沿着_P 对_P 数螺_NN 旋轮廓_NN ，_PU 计算_VV 出_VV 有限_JJ 数量_NN 的_DEG 点z_JJ 的_DEG Z_NN 转换_NN ，_PU 其_PN 定义_NN 如下_VV ：_PU
+
+其中_NN "_PU A_NN "_PU 为_VC 起始点_NN ，_PU "_PU W_NN "_PU 为_VC 点_NN 与_CC 点_NN 之间_LC 的_DEG 比率_NN ，_PU "_PU M_NN "_PU 为_VC 需要_VV 计算_VV 的_DEC 点_NN 的_DEG 数量_NN 。_PU
+
+离散_NN 信号_NN formula_NN
+
+其中_NN formula_NN __NN 5_CD 这_DT 项_M 的_DEG formula_NN
+
+所以_AD
+
+而_AD 将_BA 此_DT 平_CD 方展_NN 开式_NN 带回_VV 原式_NN 我们_PN 可以_VV 得到_VV
+
+上面_NN 的_DEC 累加_JJ 结果_NN 恰_AD 为_VC 两_CD 个_M 序列_NN "_PU a_NN "_PU 及_CC "_PU b_NN "_PU 的_DEG 卷积_NN ，_PU 两_CD 序列_NN 的_DEG 定义_NN 如下_VV ：_PU
+
+而_MSP 产生_VV 的_DEC 卷积_NN 结果_NN 会_VV 再_AD 乘上_VV "_PU N_CD "_PU 个_M 相位_JJ 的_DEG 参数_NN "_PU b_NN "_PU ：_PU
+
+因此_AD 离散_VV 信号_NN
+formula_NN
+的_DEG 离散傅_NN 立叶_VV 变换_VV 现在_NT 可以_VV 分成_VV 三_CD 个_M 步骤_NN 来_MSP 实现_VV ：_PU
+
+如此_AD 即_AD 可_VV 得到_VV 不同_JJ 频率_NN 成分_NN 的_DEG formula_NN
+
+此_DT 卷积_NN 动作_NN 可以_VV 透过_VV 卷积_NN 理论_NN 所_MSP 实现_VV ，_PU 其中_NN ，_PU 由于_P 这些_DT 快速_AD 傅立_VV 叶_NN 转换_NN 结果_NN 的_DEG 长度_NN "_PU N_CD "_PU 不同_VA ，_PU 导致_VV 我们_PN 必须_VV 透过_VV 补_VV 零_CD 的_DEG 方式_NN ，_PU 将_BA 快速_AD 傅立_VV 叶_NN 转换_NN 的_DEC 结果_NN 补_VV 至_P 长度_NN 大于_VV 或_CC 等于_VV "_PU 2_CD N_CD -_PU 1_CD "_PU ，_PU 才_AD 能_VV 精确_AD 计算_VV 其_PN 卷积_NN 结果_NN 。_PU 此外_AD ，_PU 布鲁_NN 斯_DT 坦_NN 演_VV 算法_NN 提供_VV 一_CD 个_M 时间_NN 复杂_VA 度_DEC 为_VC O_NN (_PU "_PU N_CD "_PU log_M "_PU N_NN "_PU )_NN 的_DEG 方式_NN 计算_VV 质数_NN 大小_NN 的_DEC 离散傅_NN 立_VV 叶_NN 转换_VV 。_PU
+
+在_P 布鲁_NN 斯_DT 坦演_NN 算法_NN 的_DEG 卷积_NN 过程_NN 中_LC 使用_VV 补_NN 零_OD 的_DEG 方式_NN 是_VC 值得_VV 讨论_VV 的_DEC 。_PU 如果_CS 我们_PN 将_BA 讯号_NN 补_VV 至_P 长度_NN 为_VC "_PU M_NN "_PU ≥_NN 2_CD "_PU N_CD "_PU –_NN 1_CD ，_PU 代表_P "_PU a_NN "_PU 被_SB 扩展_VV 至_VV 长度_NN 为_VC "_PU M_NN "_PU 的_DEG 阵列_NN "_PU A_NN "_PU ，_PU 其中_NN 当_P 0_CD ≤_M "_PU n"<"N_M "_PU 时_LC ，_PU "_PU A_NN "_PU =_NN "_PU a_NN "_PU ，_PU 否则_AD "_PU A_NN "_PU =_NN 0_CD 。_PU 然而_AD ，_PU 基_NN 於_P 卷积_NN 中_LC 的_DEG "_PU b_NN "_PU 项_NN ，_PU "_PU b_OD "_PU 需要_VV n_NN 的_DEG 正值_NN 和_CC 负值_NN 。_PU 在_P 阵列_NN 中_LC 补_VV 零_CD 的_DEG 离散_NN 傅_NN 立_VV 叶_NN 转换_VV 的_DEC 周期性_NN 边界_NN ，_PU 代表_VV 着_AS "_PU -_PU n_NR "_PU 等于_VV "_PU M_NN -_PU n_NN "_PU 。_PU 因此_AD ，_PU "_PU b_NN "_PU 被_SB 扩展_VV 到_VV 长度_NN 为_VC "_PU M_NN "_PU 的_DEG 阵列_NN "_PU B_NN "_PU ，_PU 其中_NN "_PU B_NN "_PU =_NN "_PU b_NN "_PU ，_PU "_PU B_NN "_PU =_NN "_PU B_NN "_PU =_NN "_PU b_NN "_PU (_PU 当_P 0_CD <_PU "_PU n_NN "_PU &_NN lt_NN )_PU ，_PU 否则_AD ，_PU "_PU B_NN "_PU =_NN 0_CD 。_PU 然后_AD 根据_P 通常_JJ 的_DEG 卷积_NN 定理_VV 对_P "_PU A_NN "_PU 和_CC "_PU B_NN "_PU 进行_VV 快速_JJ 傅立_NN 叶_NN 转换_VV ，_PU 逐点_NN 相_MSP 乘_VV ，_PU 并_CC 进行_VV 逆快_JJ 速傅_NN 立_VV 叶_NN 转换_VV 以_MSP 获得_VV "_PU a_NN "_PU 和_CC "_PU b_OD "_PU 的_DEG 卷积_NN 。_PU
+
+让_VV 我们_PN 更_AD 準确_VA 地_DEV 说明_VV ，_PU 布鲁斯_AD 坦演_VV 算法_VV 的_DEC 离散傅_NN 立_VV 叶_NN 转换_VV 需要_VV 什么_AD 类型_NN 的_DEG 卷积_NN 。_PU 如果_CS 序列_NN "_PU b_CD "_PU 在_P 具有_VV 周期_NN "_PU N_CD "_PU 的_DEG "_PU n_NN "_PU 中_LC 是_VC 具有_VV 周期性_NN 的_DEC ，_PU 那么_AD 它_PN 将_AD 是_VC 长度_NN 为_VC "_PU N_CD "_PU 的_DEG 循环_NN 卷积_NN ，_PU 并且_CC ，_PU 为了_P 计算_VV 上_LC 的_DEG 方便_VA 而_CC 使用_VV 补_NN 零_OD 的_DEG 方式_NN 。_PU 但_AD 是_VC ，_PU 通常_JJ 情况_NN 并非_CC 如此_VV ：_PU
+
+因此_AD ，_PU 当_P "_PU N_CD "_PU 为_VC 偶数_NN 时_LC ，_PU 卷积_NN 是_VC 具有_VV 周期性_NN 的_DEC ，_PU 但_CC 在_P 这_DT 种_M 情况_NN 下_LC ，_PU 人们_NN 通常_AD 使用_VV 更_AD 有_VE 效率_NN 的_DEG 快速傅_NN 立_VV 叶_NN 转换_VV 演_VV 算法_NN ，_PU 例如_AD Cooley_NN -_PU Tukey_NN 演算法_NN ；_PU 反之_AD ，_PU 当_P "_PU N_CD "_PU 为_VC 奇数_NN 时_LC ，_PU "_PU b_NN "_PU 是_VC 反_VV 周期_NN 性_NN 的_DEG ，_PU 并且_CC 具有_VV 长度_NN "_PU N_CD "_PU 的_DEG 负循_NN 环卷积_NN 。_PU 然而_AD ，_PU 当_P 如_P 上_NN 所_MSP 述_VV ，_PU 使用_VV 补_NN 零_OD 的_DEG 方式_NN 江_NN 阵列_NN 补到_VV 至少_AD 2_CD "_PU N_CD "_PU −_NN 1_CD 的_DEG 长度_NN 时_LC ，_PU 两_CD 者_NN 之间_LC 的_DEG 差异_JJ 消失_NN 。_PU
+
+上述_JJ 提到_VV 的_DEC 布鲁_NN 斯_DT 坦演_NN 算法_NN 也_AD 可以_VV 基_NN 於_P 单方面_NN 的_DEG Z_NN 转换_NN ，_PU 用以_VV 计算_VV 更_AD 一般_JJ 化_NN 的_DEG 转换_NN (_PU Rabineretal_NN ,_PU 1969_CD )_PU ，_PU 特別_NN 是_VC 具有_VV 以下_JJ 形式_NN 的_DEG 转换_NN ：_PU
+
+其中_NN "_PU z_NN "_PU 为_VC 任意_JJ 复数_NN ，_PU "_PU N_CD "_PU 以及_CC "_PU M_NR "_PU 分別为_NR 输入_VV 及_CC 输出_VV 的_DEC 数量_NN 。_PU
+
+由_P 前面_NN 所_MSP 提到_VV 的_DEC 布鲁_NN 斯_DT 坦演_NN 算法_NN ，_PU 我们_PN 可以_VV 进行_VV 如此_JJ 的_DEG 转换_NN 。_PU 例如_AD ，_PU 获得_VV 讯号_NN 某_DT 一_CD 部分_NN 频_VV 谱_NN 中_LC 的_DEG 内_JJ 插值_NN ，_PU 以及_CC 在_P 传递_NN 函数_NN 分析_NN 中_LC 增加_VV 任_VV 意极点_NN ，_PU 皆_AD 为_P 其_PN 应用_VV 之_DEC 一_CD 。_PU
+
+该_DT 演_NN 算法_NN 被_SB 称为_VV 啁啾_NN -_PU Z_NN 转换_NN 演算法_NN ，_PU 是_VC 因为_P 在_P 傅_NN 立_VV 叶_NN 转换_VV 的_DEC 情境_NN (_PU |_NN "_PU z_NN "_PU |_NN =_PU 1_CD )_PU 下_LC ，_PU 一_CD 序列_NN "_PU b_NN "_PU 是_VC 一_CD 复_CC 数_CD 正弦波_NN ，_PU 而_CC 在_P 雷达_NN 系统_NN 中_LC 则_AD 被_SB 称作_VV 「_PU 啁啾_VV 」_PU 。_PU
+
+
+
+

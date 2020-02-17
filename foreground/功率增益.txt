@@ -1,0 +1,6 @@
+﻿功率_NN 增益_NN
+
+功率_NN 增益_NN （_PU ）_PU 是_VC 指_VV 一_CD 个_M 电路_NN 里_LC 输出_VV 功率_NN 和_CC 输入_NN 功率_NN 的_DEG 比例_NN 。_PU 不_AD 像_P 其他_DT 的_DEG 信号_NN 增益_VV ，_PU 例如_AD 电压_NN 增益_NN 和_CC 电流_NN 增益_NN ，_PU 功率_NN 增益_NN 由于_VV “_PU 输入_VV 功率_NN ”_PU 和_CC “_PU 输出_NN 功率_NN ”_PU 本身_PN 有着_P 相对_JJ 模糊_NN 的_DEC 定义_NN ，_PU 因此_AD 有时_AD 显得_VV 有点_NT 混淆_VV 。_PU 三_CD 种_M 重要_VA 的_DEC 功率_NN 增益_NN 包括_VV ：_PU 运算_NN 功率_NN 增益_NN （_PU ）_PU 、_PU 转换_NN 功率_NN 增益_NN （_PU ）_PU 和_CC 有效_JJ 功率_NN 增益_NN （_PU ）_PU 。_PU 值得_VV 注意_NN 的_DEC 是_VC ，_PU 上述_JJ 三_CD 种_M 增益_NN 的_DEC 定义_NN 均_AD 基于_P 功率_NN 的_DEG 平均_JJ 效果_NN ，_PU 而_AD 非_AD 瞬_VA 时_LC 功率_NN ，_PU 不_AD 过_VV “_PU 平均_JJ ”_PU 二_OD 字_NN 经常_AD 被_SB 省略_VV ，_PU 在_P 有_VE 的_DEC 情况_NN 会_VV 引起_VV 混淆_VV 。_PU
+
+
+

@@ -1,0 +1,275 @@
+﻿二端口_NN 网络_NN
+
+二_CD 端口_NN 网络_NN （_PU ）_PU 又_CC 称双_NN 端口_NN 网络_NN 、_PU 双口_NN 网络_NN ，_PU 是_VC 四_CD 端子_NN 网络_NN （_PU 四端_NN 网络_NN ）_PU 的_DEC 一_CD 种_M ，_PU 是_VC 具有_VV 2_CD 个_M 端口_NN 的_DEG 电路_NN 或_CC 装置_NN ，_PU 端口_NN 与_P 电路_NN 内部_NN 网络_NN 相_AD 连接_VV 。_PU 一_CD 个_M 端口_NN 由_P 2_CD 个_M 端子_NN 组成_VV ，_PU 当_P 这_DT 2_CD 个_M 端子_NN 满足_NN 端口_NN 条件_NN ，_PU 即_AD 一_CD 个_M 端子_NN 流入_VV 的_DEC 电流_NN 等于_VV 另_DT 一_CD 个_M 端子_NN 流出_VV 的_DEC 电流_NN 时_LC ，_PU 则_AD 这_DT 2_CD 个_M 端子_NN 就_AD 构成_VV 了_AS 一_CD 个_M 端口_NN ，_PU 换句话说_AD ，_PU 也就是_AD 相同_VA 的_DEC 电流_NN 从_P 同_DT 一_CD 端口_NN 流入_VV 并_CC 流出_VV 。_PU 二_CD 端口_NN 网络_NN 的_DEG 实例_NN 包括_VV 电晶体_NN 的_DEC 小_JJ 信号_NN 模型_NN （_PU 如_P 混合_JJ π_NN 模型_NN ）_PU 、_PU 电子_NN 滤波器_NN 以及_CC 阻抗_NN 匹配_NN 网络_NN 。_PU 被动_JJ 二端口_NN 网络_NN 的_DEC 分析_NN 是_VC 互_AD 易_VA 定理_VV 的_DEC 副产物_NN ，_PU 最初_AD 由_P 洛伦_NN 兹_NOI 提出_VV 。_PU
+
+二_CD 端口_NN 网络_NN 能将_NN 电路_NN 的_DEG 整体_NN 或_CC 一_CD 部分_NN 用_VV 它们_PN 相应_JJ 的_DEG 外_JJ 特性_NN 参数_NN 来_MSP 表示_VV ，_PU 而_CC 不_AD 用_VV 考虑_VV 其_PN 内部_NN 的_DEG 具体_JJ 情况_NN ，_PU 这样_AD 被_SB 表示_VV 的_DEC 电路_NN 就_AD 成为_VV 具有_VV 一_CD 组_M 特殊_JJ 性质_NN 的_DEC “_PU 黑箱_NN ”_PU ，_PU 从而_AD 就_AD 能_VV 抽象_VV 化_JJ 电路_NN 的_DEG 物理_NN 组成_VV ，_PU 简化_VV 分析_NN 。_PU 任意_AD 具有_VV 4_CD 个_M 端子_NN 的_DEG 线性_JJ 电路_NN 都_AD 可以_VV 变换_VV 成_VV 二端口_NN 网络_NN ，_PU 且_CC 满足_VV 不_AD 含_VV 独立源_NN 的_DEC 条件_NN 和_CC 端口_NN 条件_NN 。_PU
+
+描述_VV 二端口_NN 网络_NN 的_DEC 参数_NN 不_AD 只_AD 有_VE 一_CD 组_M ，_PU 常_AD 用_VV 的_DEC 几_CD 组_M 参数_NN 是_VC 分别_AD 为_VC 阻抗_NN 参数_NN Z_NN 、_PU 导纳_NN 参数_NN Y_NN 、_PU 混合_JJ 参数_NN h_NN 、_PU g_NN 和_CC 传输_NN 参数_NN ，_PU 每_DT 组_M 参数_NN 都_AD 在_P 下文_NN 中_LC 有_VE 描述_NN 。_PU 这_DT 几_CD 组_M 参数_NN 只_AD 能_VV 用于_VV 线性_JJ 网络_NN ，_PU 因为_P 它们_PN 导出_VV 的_DEC 条件_NN 是_VC 假定_AD 任何_DT 给定_VV 的_DEC 电路_NN 情况_NN 都_AD 是_VC 各_DT 种_M 短路_NN 和_CC 开路_NN 情况_NN 的_DEC 线性_JJ 叠加_NN 。_PU 这_DT 几_CD 组_M 参数_NN 通常_AD 用_P 矩阵_NN 表示_VV 法_NN 表示_VV ，_PU 通过_P 以下_JJ 变量_NN 建立_VV 关系_VV ：_PU
+如_P 图_NN 1_CD 所_MSP 示_VV 。_PU 这些_DT 电流_NN 和_CC 电压_NN 变量_NN 在_AD 低_VA 频到_NN 中_LC 频_VV 情况_NN 下_LC 是_VC 非常_AD 有用_VA 的_DEC 。_PU 在_P 高频_JJ 情况_NN 下_LC （_PU 如_P 微波_NN 频率_NN ）_PU ，_PU 使用_VV 功率_NN 和_CC 能量_NN 变量_NN 会_VV 更_AD 合适_VA ，_PU 这时_NT 二_CD 端口_NN 电流_NN －_PU 电压法_NN 就_AD 应该_VV 由_P 基_NN 於_P S_NN 的_DEC 方法_NN 代替_VV 。_PU
+
+请_VV 注意_VV ，_PU 四端子_NN 网络_NN （_PU four_NN -_PU terminalnetwork_NN ）_PU 等同于_VV 四端_NN 网络_NN （_PU quadripole_NN ，_PU 注意_NN 与_P 四极子_NN （_PU quadrupole_NN ）_PU 区分_NT ）_PU ，_PU 但_CC 不_AD 等同于_VV 二_CD 端口_NN 网络_NN ，_PU 因为_P 只_AD 有_VE 2_CD 个_M 端子_NN 满足_VV 流入_VV 一_CD 个_M 端子_NN 的_DEC 电流_NN 等_ETC 于_P 流出_VV 另_DT 一_CD 个_M 端子_NN 的_DEC 电流_NN 时_LC ，_PU 即_AD 满足_VV 端口_NN 条件_NN 时_LC ，_PU 才_AD 能称_VV 这_DT 2_CD 个_M 端子_NN 为_VC 一_CD 个_M 端口_NN ，_PU 而_CC 四_CD 端子_NN 网络_NN 的_DEG 端子_NN 可能_VV 无法_AD 满足_VV 端口_NN 条件_NN 。_PU 因此_AD 对於_VV 一_CD 个_M 四_CD 端子_NN 网络_NN ，_PU 只有_AD 当_P 连接_VV 到_VV 其_PN 内部_NN 电路_NN 的_DEG 2_CD 对_M 端子_NN 满足_NN 端口_NN 条件_NN 时_LC ，_PU 这_DT 个_M 四端子_NN 网络_NN 才_AD 是_VC 一_CD 个_M 二_CD 端口_NN 网络_NN 。_PU
+
+二_CD 端口_NN 网络_NN 具有_VV 若干_CD 常_AD 用于_VV 实际_JJ 网络_NN 中_LC 的_DEG 特定_JJ 性质_NN ，_PU 能_VV 大大_AD 简化_VV 分析_NN 。_PU 这些_DT 性质_NN 包括_VV ：_PU
+
+
+阻抗_NN 参数_NN 又_AD 称开_VV 路阻_NN 抗_VV 参数_NN ，_PU 因为_P 计算_VV 这_DT 一_CD 参数_NN 时_LC 电路_NN 满足_VV 开路_NN 条件_NN I_NN =_PU 0_CD （_PU 其中_NN x_NN =_PU 1_CD ,_PU 2_CD ，_PU 分别_AD 表示_VV 流_VV 过_AS 2_CD 个_M 端口_NN 的_DEG 输入_NN 和_CC 输出_NN 电流_NN ）_PU 。_PU
+
+一般_JJ 形式_NN 的_DEG 开路阻_NN 抗矩阵_NN （_PU Z_NN 参数_NN 矩阵_NN ）_PU 中_LC ，_PU 所有_DT 的_DEG 输出_NN 电压_NN 都_AD 用_P Z_NN 参数_NN 矩阵_NN 和_CC 输入_VV 电流_NN 表示_VV ，_PU 满足_VV 如下_JJ 矩阵_NN 方程_NN ：_PU
+
+其中_NN formula_NN __NN 32_CD 和_CC formula_NN __NN 33_CD 分别_AD 是_VC formula_NN 阶_NN 方阵_NN formula_NN __NN 35_CD 和_CC formula_NN
+
+二_CD 端口_NN 网络_NN 的_DEG Z_NN 参数_NN 矩阵_NN 方程_NN 的_DEG 具体_JJ 形式_NN 如下_VV ，_PU 其中_NN formula_NN
+
+其中_NN
+
+对於_P n_NN 端口_NN 网络_NN ，_PU 以上_JJ 表达式_NN 可_VV 归纳_VV 为_VC
+
+Z_NN 参数_NN 矩阵_NN 中_LC 每_DT 一_CD 元素_NN 的_DEC 单位_NN 均_AD 是_VC 欧姆_VV 。_PU
+
+对於_AD 互_AD 易_VA 网络_NN ，_PU formula_NN __NN 6_CD 。_PU 对於对_P 称网络_NN ，_PU formula_NN __NN 43_CD 。_PU 对於_P 互_AD 易_AD 无_VE 耗_VV 网络_NN ，_PU 所有_DT 的_DEG formula_NN
+图_NN 3_CD 展示_VV 了_AS 一_CD 个_M 双极型_JJ 电流镜_NN ，_PU 发射极_NN 接入_VV 电阻_NN 是_VC 为了_P 增加_VV 电流镜_NN 的_DEG 输出_NN 电阻_NN 。_PU 晶体管_NN "_PU Q_NN "_PU 是_VC 二极管_NN 接法_VV ，_PU 也就是说_AD 其_PN 集电极_NN －_PU 基极_NN 电压_NN 为_VC 零_CD 。_PU 图_NN 4_CD 展示_VV 了_AS 一_CD 个_M 与_P 图_NN 3_CD 电路_NN 等_ETC 效_NN 的_DEC 小_JJ 信号_NN 电路_NN 。_PU 晶体管_NN "_PU Q_NN "_PU 由_P 其_PN 发射极_NN 电阻_NN "_PU r_NN "_PU ≈_NN "_PU V_NN  _NN /_PU  _NN I_NN "_PU （_PU "_PU V_NR "_PU =热_NN 电压_NN ，_PU "I"=Q点发_PU 射极_NN 电流_NN ）_PU 表示_VV ，_PU 这_PN 是_VC 因为_P "_PU Q_OD "_PU 的_DEG 混合π_NN 模型_NN 中_LC 的_DEG 独立_JJ 电流源_NN 消耗_VV 的_DEC 电流_NN 与_P "_PU r_NR "_PU 上_LC 跨接_VV 的_DEC 电阻_NN 1_CD  _NN /_PU  _NN "_PU g_NN "_PU 消耗_VV 的_DEC 电流_NN 相同_VA ，_PU 所以_AD 这样_AD 简化_VV 电路_NN 是_VC 可行_VV 的_DEC 。_PU 第二_OD 个_M 晶体管_NN "_PU Q_NN "_PU 用_P 其_PN 混合_VV π_NN 模型_NN 表示_VV 。_PU 表_VV 1_CD 列出_VV 的_DEC Z_NN 参数_NN 表达_VV 式使图_NN 2_CD 中_LC 的_DEG Z_NN 参数_NN 等_ETC 效_NN 电路_NN 与_P 图_NN 4_CD 中_LC 的_DEG 小_JJ 信号_NN 电路_NN 成_VV 为_VC 电学_NN 等_ETC 效_NN 电路_NN 。_PU
+电阻_NN "_PU R_NN "_PU 引入_VV 的_DEC 负反馈_NN 在_P 参数_NN 中_LC 有_VE 所体_JJ 现。_NN 例如_AD ，_PU 当_P 电流镜_NN 在_P 差_NN 分_VV 放大器_NN 中_LC 用作_VV 有_VE 源_NN 负载_NN 时_LC ，_PU "I≈-I"_PU ，_PU 这_PN 使得_VV 电流镜_NN 的_DEG 输出阻_NN 抗_VV 近似_AD 为_VC "_PU R_NN -_PU R_NN "_PU ≈_NN 2_CD β_NN "_PU rR_NN "_PU /_PU ("r+2R")_PU ，_PU 但是_CC 如果_CS 未_AD 接入_VV 负_VV 反馈_NN （_PU 即_AD "_PU R_NN "_PU =_VV 0_CD Ω_M ）_PU ，_PU 输出阻_NN 抗_VV 仅_AD 为_VC "_PU r_NN "_PU 。_PU 同时_AD ，_PU 电流_NN 镜_NN 基_NN 准测_VV 的_DEC 阻_NN 抗_VV 近似_CC 为_VC "_PU R_NN "_PU  _NN − _NN "_PU R_NN "_PU ≈_NN formulaformula_NN
+
+导纳_NN 参数_NN 又_AD 称_VV 短路_NN 导纳_NN 参数_NN ，_PU 因为_P 计算_VV 这_DT 一_CD 参数_NN 时_LC 电路_NN 满足_VV 短路_NN 条件_NN V_NN =_PU 0_CD （_PU 其中_NN x_NN =_PU 1_CD ,_PU 2_CD ，_PU 分别_AD 表示_VV 2_CD 个_M 端口_NN 上_LC 的_DEG 输入_NN 和_CC 输出_NN 电压_NN ）_PU 。_PU
+
+一般_JJ 形式_NN 的_DEG 短路_NN 导纳_VV 参数_NN （_PU Y_NN 参数_NN 矩阵_NN ）_PU 中_LC ，_PU 所有_DT 的_DEG 输出_NN 电流_NN 都_AD 用_P Y_NN 参数_NN 矩阵_NN 和_CC 输入_NN 电压_NN 表示_VV ，_PU 满足_VV 如_P 下_NN 矩阵_NN 方程_NN ：_PU
+
+其中_NN formula_NN __NN 33_CD 和_CC formula_NN __NN 32_CD 分别_AD 是_VC formula_NN 阶_NN 方阵_NN formula_NN __NN 36_CD 和_CC formula_NN
+
+二_CD 端口_NN 网络_NN 的_DEG Y_NN 参数_NN 矩阵_NN 方程_NN 的_DEG 具体_JJ 形式_NN 如下_VV ，_PU 其中_NN formula_NN
+
+其中_NN
+
+对於_P n_NN 端口_NN 网络_NN ，_PU 以上_JJ 表达式_NN 可_VV 归纳_VV 为_VC
+
+Y_NN 参数_NN 矩阵_NN 中_LC 每_DT 一_CD 元素_NN 的_DEC 单位_NN 均_AD 是_VC 西门子_NN 。_PU
+
+对於_AD 互_AD 易_VA 网络_NN ，_PU formula_NN __NN 8_CD 。_PU 对於对_P 称网络_NN ，_PU formula_NN __NN 59_CD 。_PU 对於_P 互_AD 易_AD 无_VE 耗_VV 网络_NN ，_PU 所有_DT 的_DEG formula_NN
+
+混合_JJ 参数_NN （_PU h_NN 参数_NN ）_PU 又_AD 称_VV 第一_OD 类_M 混合_JJ 参数_NN 。_PU 下式_NN 中_LC 的_DEG formula_NN
+
+其中_NN
+
+对於_AD 互_AD 易_VA 网络_NN ，_PU formula_NN __NN 9_CD 。_PU 对於对_P 称网络_NN ，_PU formula_NN
+
+当_P 输出端_NN 需要_VV 电流_NN 放大_NN 电路_NN 时_LC ，_PU 这_DT 种_M 等效_NN 电路_NN 常_AD 被_SB 选用_VV 。_PU 请_VV 注意_VV ，_PU 混合_VV 参数_NN 矩阵_NN 的_DEC 非_AD 对_P 角线_NN 元素_NN 均_AD 为_VC 无量_AD 纲量_VV ，_PU 而_CC 对_P 角线_NN 元素_NN 的_DEC 量_NN 纲_NN 互为_AD 倒数_NN 。_PU
+
+
+"_PU h_NN "_PU 、_PU "h_NN "_PU 、_PU "h"_NN 和_CC "_PU h_OD "_PU 分别_AD 对应_VV "_PU h_NN "_PU 、_PU "h_NN "_PU 、_PU "h"_NN 和_CC 1_CD /_PU "_PU h_NN "_PU 。_PU
+
+表_NN 2_CD 中_LC 列出_VV 的_DEC 公式_NN 使_VV 图_NN 6_CD 中_LC 的_DEG 晶体管_NN 与_P 图_NN 8_CD 中_LC 其_PN 相应_JJ 的_DEG 小_JJ 信号_NN 低_VA 频_CC 混合_JJ π_NN 模型_NN 成为_VV h_NN 参数_NN 等_ETC 效_NN 电路_NN 。_PU
+
+图_NN 8_CD 中_LC ：_PU
+
+如_P 上_NN 所_MSP 示_VV ，_PU "_PU h"_NN 为_VC 负_NN ，_PU 这_PN 是_VC 因为_P 一般_JJ 规定_JJ 电流_NN "_PU I_NN "_PU 、_PU "I"_NN 流入_VV 二端口_NN 的_DEG 方向_NN 为_VC 正_BA 方向_NN 。_PU "_PU h_NN "_PU 为_VC 非_JJ 零_CD 值_NN 表明_VV 输出_NN 电压_NN 对_P 输入_VV 电压_NN 有_VE 影响_NN ，_PU 也就是_AD 说放_VV 大_JJ 电路_NN 为_VC 双向_JJ 放大_NN 电路_NN ；_PU 若_CS "_PU h_NN "_PU =_NN 0_CD ，_PU 则_AD 放_VV 大_JJ 电路_NN 为_VC 单向_JJ 放大_NN 电路_NN 。_PU
+
+下式_NN 中_LC 的_DEG formula_NN
+
+其中_NN
+
+对於_AD 互_AD 易_VA 网络_NN ，_PU formula_NN __NN 10_CD 。_PU 对於对_P 称网络_NN ，_PU formula_NN
+
+当_P 输出端_NN 需要_VV 电压_NN 放大_NN 电路_NN 时_LC ，_PU 这_DT 种_M 等效_NN 电路_NN 常_AD 被_SB 选用_VV 。_PU 请_VV 注意_VV ，_PU g_NN 参数_NN 矩阵_NN 的_DEC 非_AD 对_P 角线_NN 元素_NN 均_AD 为_VC 无量_AD 纲量_VV ，_PU 而_CC 对_P 角线_NN 元素_NN 的_DEG 量_NN 纲互_NN 为_VC 倒数_NN 。_PU
+
+表_NN 3_CD 中_LC 列出_VV 的_DEC 公式_NN 使_VV 图_NN 9_CD 中_LC 的_DEG 晶体管_NN 与_CC 图_NN 10_CD 中_LC 其_PN 相应_JJ 的_DEG 小_JJ 信号_NN 低_VA 频_CC 混合_JJ π_NN 模型_NN 成为_VV h_NN 参数_NN 等_ETC 效_NN 电路_NN 。_PU
+
+图_NN 10_CD 中_LC ：_PU
+
+如_P 上_NN 所_MSP 示_VV ，_PU "_PU g_NN "_PU 为_VC 负_NN ，_PU 这_PN 是_VC 因为_P 一般_AD 规定_VV 二_CD 端口_NN 电流_NN "_PU I_NN "_PU 、_PU "I"_NN 流入_VV 的_DEC 方向_NN 为_VC 正_BA 方向_NN 。_PU "_PU g_NN "_PU 为_VC 非_VC 零_CD 值_NN 表明_VV 输出_NN 电流_NN 对_P 输入_VV 电流_NN 有_VE 影响_NN ，_PU 也就是_AD 说放_VV 大_JJ 电路_NN 为_VC 双向_JJ 放大_NN 电路_NN ；_PU 若_CS "_PU g_NN "_PU =_NN 0_CD ，_PU 则_AD 放大_NN 电路_NN 为_VC 单向_JJ 放大_NN 电路_NN 。_PU
+
+传输参_NN 数又称_NN ABCD_NN 参数_NN 、_PU 级联_NN 参数_NN 、_PU 传输线_NN 参数_NN 、_PU F_CD 参数_NN 、_PU T_NN 参数_NN （_PU 注意_NN 不_AD 要_VV 与_P 散射_NN 传输参_NN 数混淆_NN ）_PU ，_PU 其_PN 定义_NN 有_VE 多_CD 种_M 不同_VA 的_DEC 形式_NN ，_PU 下面_NN 列出_VV 两_CD 种_M 最_AD 常见_VA 的_DEC 等价_NN 定义_NN 形式_NN 。_PU
+
+最_AD 常见_VA 的_DEC 一_CD 种_M 定义_NN 形式_NN 如下_VV ，_PU 下式_NN 中_LC 的_DEG formula_NN
+
+其中_NN
+
+对於_AD 互_AD 易_VA 网络_NN ，_PU formula_NN __NN 12_CD 。_PU 对於对_P 称网络_NN ，_PU formula_NN
+
+这_DT 种_M 表示法_NN 是_VC 首选_NN 方法_NN ，_PU 因为_P 当_P 参数_NN 用于_VV 表示_VV 二端口_NN 的_DEC 级联_NN 时_LC ，_PU 书写_NN 矩阵_VA 的_DEC 顺序_NN 与_P 绘制_NN 电路图_NN 相同_VA ，_PU 都_AD 是_VC 从_P 左到_NN 右_NN 。_PU
+
+下面_NN 给出_VV 的_DEC 定义_NN 形式_NN 是_VC 上述_JJ 定义_NN 的_DEC 变体_NN ，_PU 下式_NN 中_LC 的_DEG formula_NN
+
+其中_NN
+
+以上_JJ 公式_NN 中_LC 的_DEG formula_NN __NN 82_CD 和_CC formula_NN __NN 83_CD 为_VC 负_NN ，_PU 因为_P formula_NN __NN 84_CD 被_SB 定义_VV 为_VC formula_NN __NN 85_CD 的_DEG 相反_JJ 数_NN ，_PU 即_AD formula_NN __NN 86_CD 。_PU 采用_VV 这_DT 一_CD 约定_JJ 的_DEG 原因_NN 是_VC 若_CS 满足_VV 上述_JJ 关系_NN ，_PU 一_CD 个_M 二_CD 端口_NN 网络_NN 的_DEG 输出_NN 电流_NN 与_P 下_DT 一_CD 个_M 与_P 其_PN 级联_VV 的_DEC 二_CD 端口_NN 网络_NN 的_DEG 输入_NN 电流_NN 相_NN 等_ETC 。_PU 因此_AD ，_PU 输入_VV 电压_NN /_PU 电流_NN 矩阵_NN 向_P -_PU {_NN }_PU -_PU 量_NN 可以_VV 被_SB 直接_AD 替换_VV 为_VC 前_DT 一_CD 个_M 二_CD 端口_NN 网络_NN 的_DEC 矩阵_NN 方程_NN 以_MSP 构造_VV 组合_NN formula_NN
+
+电话_NN 四线_NN 传输_NN 系统_NN （_PU Telephonyfour_NN -_PU wireTransmissionSystems_NN ）_PU 的_DEC ABCD_NN 矩阵_NN 是_VC 於_P 1977_CD 年_M 由_P P·K_NN ·_PU 韦_NN 伯_OD （_PU P.K_M ._PU Webb_NN ）_PU 在_P BritishPostOfficeResearchDepartmentReport_NR 630_CD 中_LC 定义_VV 。_PU
+
+部分_NN 学者_VV 将_BA formula_NN (_PU i_NN ,_PU j_NN =_PU 1_CD ,_PU 2_CD )_PU ，_PU 将_BA 逆_VV formula_NN (_PU i_NN ,_PU j_NN =_PU 1_CD ,_PU 2_CD )_PU ，_PU 二者_NN 都_AD 很_AD 简洁_VA ，_PU 且_CC 不_AD 会_VV 与_P 电路_NN 元件_NN 的_DEG 符号_NN 混淆_VV 。_PU 下列_JJ 公式_NN 中_LC 的_DEG formula_NN __NN 90_CD 为_VC 二_CD 端口_NN 网络_NN 的_DEG A_NN 参数_NN 矩阵_NN （_PU 传输矩阵_VV 、_PU 传输_VV 参数_NN 矩阵_VV 、_PU T_NN 参_NN 数矩阵_NN ）_PU ，_PU formula_NN
+
+两_CD 种_M 形式_NN 满足_VV 的_DEC 关系_NN 非常_AD 简单_VA ，_PU 互为_VV 逆矩阵_NN ，_PU 即_AD
+
+请_VV 注意_VV ，_PU A_NN 矩阵_NN 、_PU B_NN 矩阵_NN 分别_AD 代表_VV ABCD_NN 矩阵_NN 、_PU 反向_VV ABCD_NN 矩阵_NN ，_PU 不_AD 要_VV 与_P 定义_NN 一_CD 中_LC 的_DEG 参数_NN A_NN 、_PU B_NN 混淆_NN 。_PU
+
+下_DT 表_NN 列出_VV 了_AS 一些_CD 简单_VA 的_DEC 基本_JJ 电路_NN 元件_NN 的_DEG 反向_JJ 传输参_NN 数矩阵_NN （_PU B_NN 参数_NN 矩阵_NN ）_PU 。_PU
+
+当_P 联接_VV 2_CD 个_M 或_CC 2_CD 个_M 以上_LC 的_DEG 二端口_NN 网络_NN 时_LC ，_PU 组合_VV 网络_NN 的_DEG 二_CD 端口_NN 参数_NN 可以_VV 通过_P 对_P 组合_NN 网络_NN 的_DEG 每_DT 一_CD 组_M 成_VV 部分_NN 的_DEC 参数_NN 矩阵_NN 进行_VV 矩阵_NN 代数_NN 运算_NN 求取_VV 。_PU 若_CS 恰当_VA 的_DEC 选取_NN 与_CC 二端口_NN 联接_NN 方式_NN 相_AD 匹配_VV 的_DEC 二端口_NN 参数_NN ，_PU 矩阵_NN 运算_NN 将_AD 会_VV 极为_AD 简单_VA ，_PU 例如_AD 串联_VV 联接_VV 最好_AD 用_VV Z_NN 参数_NN 来_MSP 描述_VV 。_PU
+
+二_CD 端口_NN 网络_NN 的_DEG 联接_NN 中_LC 要_VV 注意_NN 端口_NN 的_DEG 组合_NN 规则_NN ，_PU 因为_P 当_P 连接_VV 电势_NN 相异_VV 的_DEC 部分_NN 时_LC ，_PU 有_VE 一些_CD 连接_VV 会_VV 导致_VV 组合_VV 网络_NN 不_AD 满足_VV 端口_NN 条件_NN ，_PU 且_CC 违反_NN 组合_VV 规则_NN 。_PU 要_VV 解决_VV 这_DT 一_CD 难题_NN ，_PU 可以_VV 在_P 出现_VV 问题_NN 的_DEC 二_CD 端口_NN 网络_NN 输出端_NN 接入_VV 匝数_NN 比_NN 为_VC 1_CD :_PU 1_CD 的_DEG 理想_NN 变压器_NN 。_PU 这_DT 一_CD 举动_NN 并_AD 不_AD 会_VV 改变_VV 二_CD 端口_NN 网络_NN 的_DEC 参数_NN ，_PU 而且_CC 还_AD 能_VV 保证_VV 二端口_NN 网络_NN 互相_AD 联接_VV 时_LC 满足_VV 端口_NN 条件_NN 。_PU 图_NN 12_CD 和_CC 图_NN 13_CD 中_LC 分别_AD 展示_VV 了_AS 串联_VV 联接_NN 中_LC 有关_VV 这_DT 一_CD 问题_NN 的_DEC 一_CD 个_M 实例_NN 和_CC 解决_NN 方案_NN 。_PU
+
+简表_NR ：_PU
+
+若_CS 两_CD 个_M 二端口_NN 网络_NN 以_MSP 串联_VV 方式_NN 联接_NN （_PU 图_NN 11_CD ）_PU ，_PU 最好_AD 选择_VV Z_NN 参数_NN 来_MSP 描述_VV 二_CD 端口_NN 网络_NN 。_PU 组合_VV 网络_NN 的_DEG Z_NN 参数_NN 矩阵_NN 是_VC 由_P 两_CD 个_M 独立_NN 网络_NN 分别_VV 的_DEC Z_NN 参数_NN 矩阵_NN 相_AD 加得_VV 到_VV ：_PU
+
+两_CD 个_M 独立_JJ 网络_NN 的_DEG Z参_NN 数矩阵_NN 方程_NN 如下_VV ：_PU
+
+此时_NT ，_PU formula_NN __NN 98_CD 、_PU formula_NN __NN 99_CD 、_PU formula_NN __NN 100_CD 和_CC formula_NN __NN 85_CD 分别_AD 满足_VV 关系_JJ formula_NN __NN 102_CD 、_PU formula_NN __NN 103_CD 、_PU formula_NN __NN 104_CD 、_PU formula_NN
+
+因此_AD ，_PU 串联_VV 二_CD 端口_NN 网络_NN 的_DEG Z_NN 参数_NN 矩阵_NN 为_VC
+
+如前_NT 文_NN 所_MSP 述_VV ，_PU 有些_DT 组合_NN 网络_NN 不_AD 能_VV 通过_P 分析_NN 结果_NN 直接_AD 串联_VV 得到_VV 。_PU 一_CD 个_M 简单_VA 的_DEC 实例_NN 是_VC 由_P 电阻_NN "_PU R_NN "_PU 和_CC "_PU R_OD "_PU 组成_VV 的_DEC L_NN 形_NN 网络_NN 。_PU 这_DT 一_CD 网络_NN 的_DEG Z_NN 参数_NN 为_VC ：_PU
+
+图_NN 12_CD 展示_VV 了_AS 2_CD 个_M 串联_VV 的_DEC 相同_JJ 网络_NN 。_PU 理论_NN 上_LC ，_PU 由_P 矩阵_NN 相_AD 加得_VV 到_VV 的_DEC 整体_JJ "_PU Z_NN "_PU 参数_NN 为_VC
+
+但是_AD ，_PU 如果_CS 直接_AD 分析_VV 这_DT 一_CD 组合网_NN 络会_NN 得到_VV
+
+二_CD 者_NN 的_DEG 分歧_NN 在于_VV 下方_NN 二_CD 端口_NN 网络_NN 中_LC 的_DEG "R"_CD 被_SB 加在_VV 输出_NN 端口_NN 的_DEC 2_CD 个_M 端子_NN 间_LC 的_DEG 电阻_NN 短_AD 接_VA ，_PU 这_PN 就_AD 导致_VV 2_CD 个_M 独立_NN 网络_NN 中_LC 每_DT 一_CD 网络_NN 的_DEG 输入_NN 端口_NN 中_LC 分别_AD 有_VE 一_CD 个_M 端子_NN 无_VE 电流_NN 流过_VV ，_PU 但_CC 另_DT 一_CD 个_M 端子_NN 仍_AD 有_VE 电流_NN 流入_VV 。_PU 因此_AD ，_PU 2_CD 个_M 原始_JJ 网络_NN 的_DEG 输入_NN 端口_NN 都_AD 无法_AD 满足_VV 端口_NN 条件_NN 。_PU 解决_VV 方案_NN 是_VC 在_P 2_CD 个_M 二端口_NN 网络_NN 中_LC 至少_AD 一_CD 个_M 网络_NN 的_DEG 输出端_NN 接入_VV 一_CD 个_M 理想_NN 变压器_NN （_PU 图_NN 13_CD ）_PU 。_PU 虽然_CS 这_DT 种_M 方法_NN 是_VC 教科_NR 书_NN 上_LC 常见_VA 的_DEC 介绍_NN 二_CD 端口_NN 网络_NN 原理_NN 的_DEC 方法_NN ，_PU 在_P 每_DT 个_M 独立_NN 二_CD 端口_NN 网络_NN 的_DEG 设计_NN 中_LC 都_AD 使用_VV 变压器_NN 是否_AD 实用_VV 是_VC 需要_VV 考虑_VV 的_DEC 问题_NN 。_PU
+
+若_CS 两_CD 个_M 二端口_NN 网络_NN 以_MSP 并联_VV 方式_NN 联接_NN （_PU 图_NN 14_CD ）_PU ，_PU 最好_AD 选择_VV Y_NN 参数_NN 来_MSP 描述_VV 二_CD 端口_NN 网络_NN 。_PU 组合_VV 网络_NN 的_DEG Y_NN 参数_NN 矩阵_NN 是_VC 由_P 两_CD 个_M 独立_NN 网络_NN 分别_VV 的_DEC Y_NN 参数_NN 矩阵_NN 相_AD 加得_VV 到_VV ：_PU
+
+两_CD 个_M 独立_JJ 网络_NN 的_DEG Y参_NN 数矩阵_NN 方程_NN 如下_VV ：_PU
+
+此时_NT ，_PU formula_NN __NN 100_CD 、_PU formula_NN __NN 85_CD 、_PU formula_NN __NN 98_CD 和_CC formula_NN __NN 99_CD 分别_AD 满足_VV 关系_JJ formula_NN __NN 118_CD 、_PU formula_NN __NN 119_CD 、_PU formula_NN __NN 102_CD 、_PU formula_NN
+
+因此_AD ，_PU 并联_VV 二_CD 端口_NN 网络_NN 的_DEG Y参_NN 数矩阵_NN 为_VC
+
+若_CS 两_CD 个_M 二端口_NN 网络_NN 以_MSP 串－_VV 并_CC 联_VV 方式_NN 联接_NN （_PU 图_NN 15_CD ）_PU ，_PU 最好_AD 选择_VV h_NN 参数_NN 来_MSP 描述_VV 二_CD 端口_NN 网络_NN 。_PU 组合_VV 网络_NN 的_DEG h_NN 参数_NN 矩阵_NN 是_VC 由_P 两_CD 个_M 独立_NN 网络_NN 分别_VV 的_DEC h_NN 参数_NN 矩阵_NN 相_AD 加得_VV 到_VV ：_PU
+
+两_CD 个_M 独立_JJ 网络_NN 的_DEG h_NN 参数_NN 矩阵_NN 方程_NN 如下_VV ：_PU
+
+此时_NT ，_PU formula_NN __NN 100_CD 、_PU formula_NN __NN 85_CD 、_PU formula_NN __NN 98_CD 和_CC formula_NN __NN 99_CD 分别_AD 满足_VV 关系_JJ formula_NN __NN 118_CD 、_PU formula_NN __NN 119_CD 、_PU formula_NN __NN 102_CD 、_PU formula_NN
+
+因此_AD ，_PU 并联_VV 二_CD 端口_NN 网络_NN 的_DEG h参_NN 数矩阵_NN 为_VC
+
+若_CS 两_CD 个_M 二端口_NN 网络_NN 以_P 并_CC －_PU 串联_NN 方式_NN 联接_NN （_PU 图_NN 16_CD ）_PU ，_PU 最好_AD 选择_VV g_NN 参数_NN 来_MSP 描述_VV 二_CD 端口_NN 网络_NN 。_PU 组合_VV 网络_NN 的_DEG g_NN 参数_NN 矩阵_NN 是_VC 由_P 两_CD 个_M 独立_NN 网络_NN 分别_VV 的_DEC h_NN 参数_NN 矩阵_NN 相_AD 加得_VV 到_VV ：_PU
+
+两_CD 个_M 独立_JJ 网络_NN 的_DEG g参_NN 数矩阵_NN 方程_NN 如下_VV ：_PU
+
+此时_NT ，_PU formula_NN __NN 100_CD 、_PU formula_NN __NN 85_CD 、_PU formula_NN __NN 98_CD 和_CC formula_NN __NN 99_CD 分别_AD 满足_VV 关系_JJ formula_NN __NN 118_CD 、_PU formula_NN __NN 119_CD 、_PU formula_NN __NN 102_CD 、_PU formula_NN
+
+因此_AD ，_PU 并联_VV 二_CD 端口_NN 网络_NN 的_DEG g参_NN 数矩阵_NN 为_VC
+
+级联_VV 又_AD 称_VV 链联_NN ，_PU 是_VC 将_BA 二端口_NN 网络_NN 输出_NN 端口_NN 的_DEC 2_CD 个_M 端子_NN 分别_AD 连接_VV 到_VV 下_DT 一_CD 个_M 二_CD 端口_NN 网络_NN 输入_NN 端口_NN 的_DEC 2_CD 个_M 端子_NN 的_DEC 联接_NN 方式_NN 。_PU 若_CS 两_CD 个_M 二_CD 端口_NN 网络_NN 以_P 级联_NN 方式_NN 联接_NN （_PU 图_NN 17_CD ）_PU ，_PU 最好_AD 选择_VV ABCD_NN 参数_NN 来_MSP 描述_VV 二_CD 端口_NN 网络_NN 。_PU 组合_VV 网络_NN 的_DEG ABCD_NN 参数_NN 矩阵_NN 是_VC 由_P 两_CD 个_M 独立_NN 网络_NN 分别_VV 的_DEC ABCD_NN 参数_NN 矩阵_NN 进行_VV 矩阵_NN 相_AD 乘得到_VV ：_PU
+
+"_PU n_OD "_PU 个_M 二_CD 端口_NN 网络_NN 组成_VV 的_DEC 级联_NN 网络_NN 的_DEC 参数_NN 可以_VV 通过_P 对_P "_PU n"_CD 个_M 矩阵_NN 进行_VV 矩阵_NN 相_AD 乘得_VV 到_VV 。_PU 若_CS 利用_VV "_PU b_NN "_PU 参数_NN 矩阵_NN 计算级_NN 联网络_NN 的_DEC 参数_NN ，_PU 也_AD 是_VC 通过_P 对_P "_PU n"_CD 个_M 矩阵_NN 进行_VV 矩阵_NN 相_AD 乘_VV 实现_VV ，_PU 不过_CC 矩阵_AD 相乘_VV 的_DEC 顺序_NN 必须_VV 颠倒_NN ：_PU
+
+两_CD 个_M 独立_JJ 网络_NN 的_DEG ABCD_NN 参数_NN 矩阵_NN 方程_NN 如下_VV ：_PU
+
+此时_NT ，_PU formula_NN __NN 154_CD 、_PU formula_NN __NN 155_CD 、_PU formula_NN __NN 156_CD 和_CC formula_NN
+
+因此_AD ，_PU 级联_VV 二_CD 端口_NN 网络_NN 的_DEG ABCD_NN 参数_NN 矩阵_NN 为_VC
+
+下面_NN 给出_VV 一_CD 个_M 实例_NN ：_PU
+
+假设_VV 一_CD 个_M 二_CD 端口_NN 网络_NN 由_P 串联_VV 电阻_NN "_PU R_CD "_PU 后_LC 接_VV 并_CC 联电容_VV "_PU C_NN "_PU 组成_VV ，_PU 这_PN 一_CD 网络_NN 整体_NN 上_LC 可以_VV 被_SB 视为_VV 2_CD 个_M 结构_NN 更为_AD 简单_VA 的_DEC 网络_NN 的_DEC 级联_NN ：_PU
+
+整_DT 个_M 网络_NN 的_DEC 传输_NN 矩阵_NN formula_NN
+
+因此_AD
+
+上述_JJ 参数_NN 都_AD 是_VC 就_JJ 端口_NN 的_DEG 电压_NN 和_CC 电流_NN 而_MSP 言_VV 定义_VV 的_DEC ，_PU 而_CC S_NN 参数_NN 是_VC 就_JJ 端口_NN 的_DEG 而_MSP 言_VV 定义_VV 的_DEC 。_PU S_NN 参数_NN 常_AD 用于_VV 特_AD 高频_JJ 和_CC 微波_NN 频率_NN ，_PU 因为_VV ：_PU
+1_CD ._PU 从_P 测量_NN 上_LC 看_VV ，_PU 在_P 这_DT 类_M 高频_NN 条件_NN 下_LC ，_PU 电压_NN 和_CC 电流_NN 很_AD 难_AD 直接_AD 测定_VV ，_PU 而_CC 利用_VV 定向_JJ 耦合器_NN 可以_VV 很_AD 容易_VA 地_DEV 测定_VV 入_VV 射_NN 功率_NN 和_CC 反射_NN 功率_NN ；_PU
+2_CD ._PU S_NN 参数_NN 适合_NN 系统_NN 级联_VV ，_PU 当_P 特征_NN 阻抗_NN 匹配_NN 时_LC ，_PU 根据_P 独立_NN 系统_NN 的_DEG 特性_NN 预测_VV 最终_JJ 的_DEG 结果_NN 较为_AD 方便_VA ；_PU
+3_CD ._PU 和_CC 微波_NN 工程_NN 中_LC 常用_VV 的_DEC 概念_NN ，_PU 如_P 放射_NN 系数_NN 、_PU 衰减_VV 增_VV 益_NN 密切_NN 相关_VV ；_PU
+
+S_NN 参数_NN 矩阵_NN 方程_NN 定义_VV 为_VC
+
+其中_NN formula_NN __NN 168_CD 是_VC 端口_NN "_PU k_CD "_PU 上_LC 的_DEG 入射波_NN ，_PU formula_NN __NN 169_CD 是_VC 端口_NN "_PU k_CD "_PU 上_LC 的_DEG 反射波_NN ，_PU 一般_AD 规定_VV formula_NN __NN 168_CD 和_CC formula_NN
+
+每_DT 一_CD 个_M 端口_NN 的_DEG 入射波_NN 定义_NN 为_VC
+
+每_DT 一_CD 个_M 端口_NN 的_DEG 反射波_NN 定义_NN 为_VC
+
+其中_NN formula_NN __NN 174_CD 是_VC 每_DT 一_CD 个_M 端口_NN 基准_NN 阻抗_VV 构成_VV 的_DEC 对_P 角矩阵_NN ，_PU formula_NN __NN 175_CD 是_VC formula_NN __NN 174_CD 的_DEG 按元_NN 素_AD 的_DEG （_PU eleme_JJ nt_NN -_PU wise_NN ）_PU 复_AD 共轭矩阵_NN ，_PU formula_NN __NN 177_CD 和_CC formulaformula_NN
+
+若_CS 假设_VV 每_DT 一_CD 个_M 端口_NN 上_LC 的_DEG 基准阻_NN 抗_VV 均_AD 相等_VA ，_PU 则_AD 定义_VV 可_VV 简化_VV 为_VC
+
+其中_NN formula_NN
+
+上述_JJ 矩阵_NN 方程_NN 以_P 参数_NN formula_NN __NN 183_CD 、_PU formula_NN __NN 184_CD 、_PU formula_NN __NN 185_CD 和_CC formula_NN __NN 186_CD 给出_VV 了_AS 每_DT 一_CD 端口_NN 的_DEG 反射功_NN 率波_NN 与_CC 入射功_NN 率波_NN 的_DEC 关系_NN 。_PU 若_CS 在_P 端口_NN 1_CD 加入_VV 射功率_NN 波_ETC formula_NN __NN 187_CD ，_PU 由_P 其_PN 引起_VV 的_DEC 出射_VV 波_DT 一_CD 部分_NN 会_VV 出现_VV 在_P 端口_NN 1_CD （_PU formula_NN __NN 188_CD ）_PU ，_PU 另_DT 一_CD 部分_NN 会_VV 出现_VV 在_P 端口_NN 2_CD （_PU formula_NN __NN 189_CD ）_PU ；_PU 同理_AD ，_PU 端口_NN 2_CD 加入_VV 射功率_NN 波_CC formula_NN __NN 190_CD ，_PU 由_P 其_PN 引起_VV 的_DEC 出射波_NN 一_CD 部分_NN 会_VV 出现_VV 在_P 端口_NN 1_CD （_PU formula_NN __NN 191_CD ）_PU ，_PU 另_DT 一_CD 部分_NN 会_VV 出现_VV 在_P 端口_NN 2_CD （_PU formula_NN __NN 192_CD ）_PU 。_PU 端口_NN 1_CD 的_DEG 两_CD 股_M 出_VV 射波_NN 之_DEG 和_CC 为_VC formula_NN __NN 193_CD ，_PU 端口_NN 2_CD 的_DEG 两_CD 股_M 出射_VV 波_AS 之_DEC 和_CC 为_VC formula_NN __NN 194_CD 。_PU 不过_P 还_AD 存在_VV 一_CD 种_M 特殊_JJ 情况_NN ：_PU 按照_P S_NN 参数_NN 的_DEC 定义_NN ，_PU 若_CS 端口_NN 2_CD 终端_NN 接入_VV 的_DEC 负载_NN 阻抗_NN 与_CC 系统_NN 阻_AD 抗_VV formula_NN __NN 195_CD 相等_LC （_PU 端口_NN 2_CD 匹配_VV ）_PU ，_PU 那么_AD 由_P 最_AD 大_JJ 功率_NN 传输_NN 定理_VV ，_PU formula_NN __NN 194_CD 会_VV 被_SB 完全_AD 吸收_VV ，_PU 这_PN 使得_VV formula_NN
+
+同样_AD ，_PU 如果_CS 端口_NN 1_CD 终端_NN 接入_VV 的_DEC 负载_NN 阻抗_NN 与_CC 系统_NN 阻_NN 抗_VV 相_NN 等_ETC （_PU 端口_NN 1_CD 匹配_VV ）_PU ，_PU formula_NN
+
+各_DT 参数_NN 的_DEG 物理_NN 含义_NN 和_CC 网络_NN 特性_NN 如下_VV ：_PU
+
+对於_AD 互_AD 易_VA 网络_NN ，_PU formula_NN __NN 207_CD 。_PU 对於对_P 称网络_NN ，_PU formula_NN __NN 208_CD 。_PU 对於_P 反对称_AD 网络_VV ，_PU formula_NN __NN 209_CD 。_PU 对於_P 互_AD 易_AD 无_VE 耗_VV 网络_NN ，_PU formula_NN __NN 210_CD 且_CC formula_NN
+
+二_CD 端口_NN 网络_NN 的_DEG S_NN 参数_NN 矩阵_NN 很_AD 常用_VA ，_PU 是_VC 生成_VV 的_DEC 大型_JJ 网络_NN 的_DEC 高阶_NN 矩阵_NN 的_DEC 基本_JJ 组成_NN 部分_NN 。_PU
+
+非_AD 互易_JJ 网络_NN 的_DEG 一_CD 个_M 典型_JJ 例子_NN 是_VC 工作_VV 在_P 线性_JJ （_PU 小_JJ 信号_NN ）_PU 条件_NN 下_LC 的_DEG 放大器_NN ，_PU 而_CC 互_AD 易_AD 网络_VV 的_DEC 例子_NN 是_VC 匹配_NN 衰减器_NN 。_PU 在_P 以下_JJ 的_DEG 参数_NN 中_LC ，_PU 按_P 一般_AD 约定_AD 假设_VV 输入_NN 和_CC 输出_NN 分别_AD 连接_VV 到_VV 端口_NN 1_CD 和_CC 端口_NN 2_CD 。_PU 系统_NN 额_NN 定_VV 阻抗_NN 、_PU 频率_NN 以及_CC 其_PN 他会_JJ 影响_NN 装置_NN 的_DEC 因素_NN 也_AD 都_AD 一定_VA 要_VV 事先_AD 精确_VA 规定_VV 。_PU
+
+
+
+
+
+
+
+
+
+散射传_NN 输参_NN 数又称_NN T_NN 参数_NN ，_PU 是_VC 从_P 入射波_NN 和_CC 反射波_NN 的_DEG 角度_NN 来_MSP 定义_VV 的_DEC 参数_NN 。_PU T_NN 参数_NN 与_CC S_NN 参数_NN 的_DEG 不同_JJ 之_DEG 处_NN ，_PU 在于_P T_NN 参数_NN 是_VC 将_BA 端口_NN 1_CD 的_DEG 信号_NN 波_NN 与_P 端口_NN 2_CD 的_DEG 信号_NN 波_NN 关联_VV 起来_VV ，_PU 而_CC S_NN 参数_NN 是_VC 将_BA 反射波_NN 与_CC 入射波_NN 关联_VV 起来_VV 。_PU 从_P 这_DT 一_CD 方面_NN 来说_LC ，_PU T_NN 参数_NN 与_CC ABCD_NN 参数_NN 充当_VV 了_AS 相同_VA 的_DEC 角色_NN ，_PU 能_VV 通过_VV 将_BA 级联_NN 网络_NN 组成_VV 部分_NN 的_DEG T_NN 参数_NN 进行_VV 矩阵_NN 相_AD 乘得_VV 到_VV 级联_NN 组合_NN 网络_NN 的_DEG T_NN 参数_NN 。_PU 同_P ABCD_NN 参数_VV 一样_VA ，_PU T_NN 参数_NN 也_AD 可_VV 称为_VV 传输_NN 参数_NN 。_PU T_NN 参数_NN 不_AD 像_P S_NN 参数_NN 一样_VA 容易_AD 直接_AD 测出_VV ，_PU 但是_AD 可以_VV 通过_P S_NN 参数_NN 非常_AD 容易_VA 地_DEV 转换_VV 得出_VV 。_PU
+
+二_CD 端口_NN 网络_NN 的_DEG T_NN 参数_NN 矩阵_NN 与_CC S_NN 参数_NN 矩阵_NN 非常_AD 接近_VV ，_PU T_NN 参数_NN 是_VC 与_P 归_DT 一_CD 化_NN 入_VV 射波_NN 和_CC 归一化_JJ 反射波_NN 有关_VV ，_PU 符合_VV 如下_JJ 关系_NN ：_PU
+
+另_DT 一_CD 种_M 定义_NN 方式_NN ：_PU
+
+MATLAB_NN 的_DEG RF_NN 工具箱_NN 插件_NN 以及_CC 多部_NN 著作_ETC （_PU 如_P 《_PU Networkscatteringparameters_NN 》_PU ）_PU 均_AD 采用_VV 第一_OD 种_M 定义_VV ，_PU 而_CC 本_DT 节_NN 的_DEG S_NN 与_CC T_NN 参数_NN 的_DEG 转换_NN 公式_NN 是_VC 基_NN 於_P 第二_OD 种_M 定义_NN 推导_VV 的_SP ，_PU 因此_AD 要_VV 特别_AD 注意_VV ，_PU 而_CC 将_BA 第一_OD 种_M 定义_NN 中_LC 的_DEG T_NN 和_CC T_NN 交换_NN ，_PU T_NN 和_CC T_NN 交换_NN 并_AD 不_AD 会_VV 影响_VV 定义_VV 的_DEC 正确性_NN 。_PU
+
+与_P S_NN 参数_NN 相比_VV ，_PU T_NN 参数_NN 的_DEG 优点_NN 在于_VV 其_PN 只_AD 需要_VV 将_BA 每_DT 个_M 级联_VV 的_DEC 独立_NN 二_CD 端口_NN 的_DEG T_NN 参_NN 数矩阵_NN 进行_VV 矩阵_NN 相_AD 乘_VA ，_PU 就_AD 能_VV 确定_VV 若干_CD 个_M 级联_NN 二_CD 端口_NN 网络_NN 的_DEC 效果_NN 。_PU 将_BA 二_CD 端口_NN 网络_NN 1_CD 、_PU 2_CD 和_CC 3_CD 的_DEG T_NN 参数_NN 矩阵_AD 分别_AD 设为_VV formula_NN __NN 251_CD 、_PU formula_NN __NN 252_CD 和_CC formula_NN __NN 253_CD ，_PU 则_AD 3_CD 个_M 级联_VV 的_DEC 二_CD 端口_NN 网络_NN 的_DEG T_NN 参数_NN 矩阵_NN 顺序_AD 相乘_VV 就_AD 能_VV 得到_VV 组合_NN 网络_NN 的_DEC 矩阵_NN formula_NN
+
+如_P S_NN 参数_NN 一样_VA ，_PU T_NN 参数_NN 是_VC 复_VV 值_NN ，_PU 二_CD 者_NN 可以_VV 直接_AD 转换_VV 。_PU 虽然_CS 级联_VV T_NN 参数_NN 是_VC 由_P 独立_NN 网络_NN 的_DEG T_NN 参数_NN 进行_VV 简单_VA 的_DEC 矩阵_NN 相_AD 乘得_VV 到_VV ，_PU 但是_AD 将_BA 每_DT 个_M 网络_NN 的_DEG S_NN 参数_NN 转换_VV 为_VC T_NN 参数_NN 进行_VV 运算_NN 后_LC ，_PU 再_AD 将_BA 级联_VV 网络_NN 的_DEG T_NN 参数_NN 转换_VV 为_VC 等效_JJ 的_DEG 级联_NN 网络_NN S_NN 参数_NN 是_VC 有_VE 意义_NN 的_DEC ，_PU 因为_P 这_DT 种_M 运算_NN 方法_NN 在_P 实际_JJ 中常_JJ 常需_NN 要_VV 应用_VV 。_PU 不过_AD 在_P 运算_VV 完成_VV 后_LC ，_PU 所有_DT 端口_NN 间_LC 的_DEG 双向_JJ 复全波_NN 互_AD 作用_VV 就_AD 要_VV 考虑_VV 到_VV 。_PU 下列_NN 等式_JJ 是_VC S_NN 与_CC T_NN 参数_NN 相互_AD 转换_VV 的_DEC 公式_NN 。_PU
+
+S_NN 参数_NN 转换_VV 为_VC T_NN 参数_NN ：_PU
+
+T_NN 参数_NN 转换_VV 为_VC S_NN 参数_NN ：_PU
+
+其中_NN formula_NN __NN 264_CD ，_PU formula_NN
+将_BA h_NN 参数_NN 方程组_NN 进行_VV 等式_JJ 变形_NN ，_PU 得到_VV Y_NN 参数_NN 方程组_NN 的_DEG 形式_NN ：_PU
+将_BA 第一_OD 个_M 式子_NN 代入_VV 第二_OD 个_M 式子_NN ：_PU
+对_P 第二_OD 个_M 式子_NN 进行_VV 整理_NN ：_PU
+其中_NN formula_NN
+
+整理_VV 后_LC 的_DEG Y_NN 参数_NN 方程组_NN 为_VC
+与_P Y_NN 参数_NN 方程组_NN 的_DEG 标准_NN 形式_NN 进行_VV 比较_NN ，_PU 可以_VV 得到_VV 以下_JJ 代换_NN 关系_NN ：_PU
+其中_NN
+散射_NN 参数_NN （_PU S_NN 参数_NN ）_PU 一般_AD 通过_P 直接_AD 测量_VV 得到_VV ，_PU 但_CC 也_AD 可_VV 通过_P 与_P 其他_DT 参数_NN 相互_AD 转换_VV 导出_VV ，_PU 下面_NN 举出_VV S_NN 参数_NN 与_CC 其他_DT 参数_NN 的_DEG 转换_NN 公式_NN 示例_VV 。_PU
+
+二_CD 端口_NN S_NN 参数_NN 可以_VV 由_P 等效_JJ 的_DEG 二端口_NN Z_NN 参数_NN 得出_VV ，_PU 表达式_JJ 如下_NN ：_PU
+
+其中_NN
+
+而_AD formula_NN
+
+上_NN 式_NN 中_LC 的_DEG formula_NN __NN 280_CD 和_CC formula_NN __NN 281一_CD 般用_JJ 复数_NN 表示_VV 。_PU 注意_AD 对於_VV 某些_DT 特定_JJ formula_NN __NN 281_CD 值_NN ，_PU formula_NN __NN 283_CD 将_AD 会_VV 为_VC 0_CD ，_PU 因此_AD 这_DT 将_BA 导致_VV 计算_VV formula_NN __NN 280_CD 的_DEG 表达式_NN 中_LC 分母_VV formula_NR
+
+二_CD 端口_NN Y_NN 参数_NN 可以_VV 由_P 等效_JJ 的_DEG 二端口_NN S_NN 参数_NN 得出_VV ，_PU 表达式_JJ 如下_NN ：_PU
+
+其中_NN
+
+而_AD formula_NN __NN 182_CD 是_VC 每_DT 一_CD 端口_NN 的_DEG 特性_NN 阻抗_NN （_PU 假定_NN 对於_P 2_CD 个_M 端口_NN 特性_NN 阻抗_NN 相同_VA ）_PU 。_PU 上式_NN 中_LC 的_DEG formula_NN __NN 280_CD 和_CC formula_NN __NN 293一_CD 般用_JJ 复数_NN 表示_VV 。_PU 注意_AD 对於_VV 某些_DT 特定_JJ formula_NN __NN 280_CD 值_NN ，_PU formula_NN __NN 283_CD 将_AD 会_VV 为_VC 0_CD ，_PU 因此_AD 这_DT 将_BA 导致_VV 计算_VV formula_NN __NN 293_CD 的_DEG 表达式_NN 中_LC 分母_VV formula_NR
+
+二_CD 端口_NN S_NN 参数_NN 也_AD 可_VV 由_P 等效_JJ 的_DEG 二端口_NN Y_NN 参数_NN 得出_VV ，_PU 表达式_JJ 如下_NN ：_PU
+
+其中_NN
+
+而_AD formula_NN
+
+输入_VV 阻抗_NN Z_NN 、_PU 输出_VV 阻抗_NN Z_NN 、_PU 电流_NN 增益_NN K_NN 、_PU 电压_NN 增益_NN K_NN 分别_AD 定义_VV 为_VC ：_PU
+formula_NN
+
+其中_NN Z_NN 是_VC 连接_VV 到_VV 端口_NN 2_CD 上_LC 的_DEG 负载阻_NN 抗_NN ，_PU Z_NN 是_VC 连接_VV 到_VV 端口_NN 1_CD 上_LC 的_DEG 电源_NN 阻抗_NN 。_PU
+输入_VV 阻抗_NN 为_VC
+不_AD 带_VV 负载_VV 的_DEC 二_CD 端口_NN 网络_NN 的_DEG h_NN 参数_NN 方程组_NN 为_VC
+接入_VV 负载_NN 后_LC
+将_BA 上式_JJ 代入h_NN 参数_NN 方程组_NN ，_PU 并_CC 进行_VV 等式_JJ 变换_NN
+
+其中_NN formula_NN
+二_CD 端口_NN 网络_NN 非常_AD 普遍_VA ，_PU 如_P 放大器_NN 和_CC 滤波器_NN 都_AD 是_VC 二_CD 端口_NN 网络_NN ，_PU 但是_CC 如_P 定向_JJ 耦合器_NN 和_CC 等_ETC 电阻_NN 网络_NN 有_VE 多于_VV 2_CD 个_M 的_DEG 端口_NN 。_PU 下列_JJ 表示法_NN 可_VV 用于_VV 具有_VV 任意_NN 端口_NN 数_NN 的_DEG 网络_NN ：_PU
+
+
+例如_AD ，_PU 三_CD 端口_NN 网络_NN 的_DEG 阻抗_NN 参数_NN 为_VC 下列_JJ 形式_NN ：_PU
+
+而_MSP 下列_VV 参数_NN 只_AD 限於_VV 在_P 二端口_NN 网络_NN 中_LC 应用_VV ：_PU
+
+
+
+

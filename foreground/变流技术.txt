@@ -1,0 +1,22 @@
+﻿变流_NN 技术_NN
+
+变流_NN 技术_NN 或_CC 电能_NN 转换_VV 是_VC 电机_NN 工程_NN 、_PU 电力_NN 工程_NN 以及_CC 中_LC 的_DEG 名称_NN ，_PU 是_VC 一_CD 种_M 电能_NN 变换_VV 的_DEC 技术_NN ，_PU 可能_VV 是_VC 直_JJ 流电_NN 和_CC 交流电_NN 之间_LC 的_DEG 转换_NN ，_PU 电压_NN 及_CC 电流_NN 的_DEC 调整_VV ，_PU 或_CC 是_VC 两_CD 者_NN 都_AD 有_VE 。_PU 例如_AD 常见_VA 的_DEC 充电器_NN ，_PU 就_AD 使用_VV 了_AS 交流_NN 电变_NN 直_AD 流电_VV 的_DEC 变流_NN 技术_NN 。_PU
+
+变流_NN 技术_NN 可能_VV 利用_VV 机电_NN 设备_NN 或是_CC 电力_NN 电子_NN 电路_NN 来_MSP 变换_VV 电能_NN 。_PU 简单_VA 的_DEC 可能_VV 像是_AD 用_P 变压器_NN 调整_VV 交流_NN 电_NN 的_DEG 电压_NN ，_PU 但_CC 也_AD 可_VV 能_VV 是_VC 更_AD 复杂_VA 的_DEC 系统_NN （_PU 包括_VV 用_P 电力_NN 电子_NN 元件_NN 构成_VV 各_DT 种_M 电力_NN 变换_NN 电路_NN ，_PU 对_P 电路_NN 进行_VV 控制_NN ，_PU 以及_CC 用_P 这些_DT 技术_NN 构成_VV 更为_AD 复杂_VA 电力_NN 电子_NN 装置_NN 和_CC 系统_NN ）_PU 。_PU
+
+变流_NN 技术_NN 也_AD 可以_VV 指_VV 一_CD 种_M 由_P 市电_NN 频率_NN 交流_NN 电_NN 转换_VV 其他_DT 频率_NN 电源_NN 的_DEC 技术_NN 。_PU 电能_NN 转换_NN 系统_NN 一般_AD 也_AD 会_VV 包括_VV 冗余_NN 及_CC 。_PU
+
+有_VE 一_CD 种_M 变流_NN 技术_NN 分类_NN 的_DEC 方式_NN ，_PU 是_VC 依照_P 其_PN 输入_VV 及_CC 输出_VV 是_VC 交流电_NN （_PU AC_NN ）_PU 或_CC 直流电_NN （_PU DC_NN ）_PU 来_MSP 区分_VV ：_PU
+
+也_AD 有些_DT 设备_NN 及_CC 方式_NN 是_VC 依照_P 单相_JJ 交流_NN 电_NN 及_CC 三_CD 相交_JJ 流电_NN 来_MSP 分类_VV 。_PU
+
+标準_NN 的_DEC 交流_NN 电频率_NN 会_VV 随_P 国家_NN 而_CC 不同_VA ，_PU 在_P 北美洲_NN 、_PU 南美_NN 的_DEG 北部_NN 、_PU 台湾_NN 及_CC 韩国_NR 等_ETC 国家_NN ，_PU 主要_JJ 交流_NN 电频率_NN 是_VC 60_CD  赫兹_NN （_PU Hz_CD ）_PU ，_PU 而_CC 在_P 世界_NN 其他_DT 地区_NN ，_PU 主要_JJ 交流_NN 电频率_NN 是_VC 50_CD  赫兹_NN （_PU Hz_CD ）_PU 。_PU 飞机_NN 一般_AD 是_VC 用_P 400_CD  _CD Hzpower_NN ，_PU 因此_AD 当_P 飞机_NN 降落_VV ，_PU 需要_VV 充电_VV 时_LC ，_PU 需_VV 有_VE 设备_NN 将_BA 地面_NN 的_DEG 50_CD  _CD Hz_NN 或_CC 60_CD  Hz_M 交流_NN 电_NN 转换_VV 到_VV 飞机_NN 上_LC 用_VV 的_DEC 400_CD  Hz_M 。_PU
+
+有些_DT 特殊_JJ 的_DEG 电路_NN ，_PU 例如_AD 像_P 阴极_NN 射线管_NN 中_LC 使用_VV 的_DEC 回扫_NN 变压器_NN ，_PU 也_CC 可以_VV 视为_VV 是_VC 电能_JJ 转换_NN 元件_NN 。_PU
+
+家用_VV 的_DEC 电子_NN 用品_NN 多半_AD 会_VV 有_VE 称为_VV 交流_NN 适配器_NN （_PU ACadapter_NN ）_PU 的_DEG 电源_NN 供应器_NN ，_PU 可以_VV 将_BA 家用_JJ 插头_NN 中_LC 的_DEC 交流_NN 电转_NN 为_VC 电路_NN 需要_VV 的_DEC 低_JJ 电压_NN 直_AD 流电_VV 。_PU 若_CS 需要_VV 去_VV 使用_VV 电压_NN 交流电_NN （_PU 120V_CD /_PU 240V_CD ）_PU 的_DEG 国家_NN 旅行_NN ，_PU 也_AD 会_VV 使用_VV （_PU 或_CC 称为_VV 旅行_NN 适配器_NN ）_PU 来_MSP 转换_VV 电压_NN 。_PU 不过_AD 也_AD 有_VE 一些_CD 适配器_NN 不_AD 作_VV 电压_NN 的_DEG 转换_NN ，_PU 只是_AD 转换_VV 两_CD 种_M 不同_JJ 形状_NN 的_DEC 插头_NN 与_CC 插座_NN 而_MSP 已_AD 。_PU
+
+
+
+
+

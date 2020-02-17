@@ -1,0 +1,8 @@
+﻿安托_NN 万_CD 方程_NN
+
+安托_VV 万_CD 方程_NN (_PU Antoineequation_NN )_PU 是_VC 工程_NN 上_LC 广泛_AD 使用_VV 与_P 实验_NN 数据_NN 吻合_NN 较_AD 好_VA 的_DEC 经验_NN 方程_NN 。_PU
+
+其中_NN ：_PU
+计算水_NN 之_DEG 蒸_NN 汽压_NN 时_LC ,_PU A_NN =_PU 8_CD ._PU 07131_CD ,_PU B_NN =_PU 1730_CD ._PU 63_CD ,_PU C_NN =_PU 233_CD ._PU 426_CD 。_PU
+
+

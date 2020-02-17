@@ -1,0 +1,36 @@
+﻿半_CD 导体_NN 器件_NN 制造_NN
+
+半导体_NN 制程_NN 是_VC 被_SB 用于_VV 制造_VV 芯片_NN ，_PU 一_CD 种_M 日常_AD 使用_VV 的_DEC 电气_NN 和_CC 电子_NN 器件_NN 中_LC 集成_JJ 电路_NN 的_DEG 处理_NN 工艺_NN 。_PU 它_PN 是_VC 一_CD 系列_M 照相_NN 和_CC 化学_NN 处理_NN 步骤_NN ，_PU 在_P 其中_NN 电子_NN 电路_NN 逐渐_AD 形成_VV 在_P 使用_VV 纯_JJ 半导体_NN 材料_NN 制作_VV 的_DEC 芯片_NN 上_LC 。_PU
+
+硅_NN 是_VC 今天_NN 最_AD 常用_VV 的_DEC 半导体_NN 材料_NN ，_PU 其他_DT 还_AD 有_VE 各_DT 种_M 复合_JJ 半导体_NN 材料_NN 。_PU
+
+从_P 一开_AD 始_AD 晶圆_VV 加工_VV ，_PU 到_VV 芯片_NN 封装_NN 测试_NN ，_PU 直到_VV 发货_NN ，_PU 通常_AD 需要_VV 6_CD 到_CC 8_CD 周_M ，_PU 并且_CC 是_VC 在_P 晶圆厂_NN 内_LC 完成_VV 。_PU
+
+国际_NN 半导体_NN 技术_NN 发展_NN 蓝图_NN
+典型_VA 的_DEC 芯片_NN 是_VC 用_P 极度_NN 纯净_VA 的_DEC 硅_NN 以_P 柴_NN 可_VV 拉_P 斯_DT 基法_NN 、_PU 泡生法_NN 等_ETC 方式_NN 长成_VV 直径_NN 的_DEC 单晶_NN 圆柱_NN （_PU 梨形_JJ 人造_NN 宝石_NN ）_PU 。_PU 这些_DT 硅碇_NN 被_SB 切成_VV 芯片_NN 大约_AD 0_CD ._PU 75_CD 毫米_M 厚_VA 并_CC 抛光_VV 为_VC 非常_AD 平整_VA 的_DEC 表面_NN 。_PU
+
+一_CD 旦晶_NN 圆准_NN 备好_VV 之后_LC ，_PU 很多_CD 工艺_NN 步骤_NN 对于_P 生产_NN 需要_VV 的_DEC 半导体_NN 集成_NN 电路_NN 是_VC 必要_VA 的_DEC 。_PU 总之_AD ，_PU 这些_DT 步骤_NN 可_VV 分成_VV 四_CD 组_M ：_PU
+
+在_P 半导体_NN 制程_NN 中_LC ，_PU 不同_VA 的_DEC 生产_NN 工序_NN 可_VV 归为_VV 如下_JJ 四_CD 类_M ：_PU 沉积_NN 、_PU 清除_VV 、_PU 制作_VV 布线_NN 图案_NN 、_PU 以及_CC 电学_NN 属性_NN 的_DEC 调整_NN 。_PU
+
+"_PU 前端_NN 工艺_NN "_PU 指_VV 的_DEC 是_VC 在_P 硅_NN 上_LC 直接_AD 形成_VV 晶体管_NN 。_PU 双极_JJ 二极管_NN ，_PU mos_NN 管等_NN
+
+芯片_NN 处理_NN 高度_NN 有_VE 序化_NN 的_DEC 本质_NN 增加_VV 了_AS 对_P 不同_JJ 处理_NN 步骤_NN 之间_LC 度量_NN 方法_NN 的_DEG 需求_NN 。_PU 芯片_NN 测试_VV 度量_NN 设备_NN 被_SB 用于_VV 检验_NN 芯片_NN 仍然_AD 完好_VA 且_CC 没有_VV 被_SB 前面_VV 的_DEC 处理_NN 步骤_NN 损坏_VV 。_PU 如果_CS Ifthenumberofdies_NN —_PU the_NN 集成_JJ 电路_NN sthatwilleventuallybecomechips_NN —_PU 当_P 一块_NN 芯片_NN 测量_NN 失败_NN 次数_NN 超过_VV 一_CD 个_M 预先_AD 设定_VV 的_DEC 阈值_NN 时_LC ，_PU 芯片_NN 将_BA 被_SB 废弃_VV 而_MSP 非_AD 继续_VV 后续_VV 的_DEC 处理_NN 工艺_NN 。_PU
+
+
+许多_CD 有毒_JJ 材料_NN 在_P 制造_NN 过程_NN 中_LC 被_SB 使用_VV 。_PU 这些_PN 包括_VV ：_PU
+
+
+工人_NN 直接_AD 暴露_VV 在_P 这些_DT 有毒_JJ 物质_NN 下_LC 是_VC 致命_NN 的_DEC 。_PU 通常_JJ IC_NN 制造业_NN 高度_NN 自动_AD 化能_VV 帮助_VV 降低_VV 暴露_VV 于_P 这_DT 一_CD 类_M 物品_NN 的_DEC 风险_NN 。_PU
+
+当_P 线宽远_NN 高于_VV 10_CD 微米_NN 时_LC ，_PU 纯_JJ 净度_NN 还_AD 不_AD 像_P 今天_NT 的_DEG 器件_NN 生产_NN 中_LC 那样_AD 至关_AD 紧要_VV 。_PU 旦随_VV 着_AS 器件_NN 变得_VV 越来越_AD 集成_VV ，_PU 无尘室_AD 也_AD 变得_VV 越来越_AD 干净_VV 。_PU 今天_NT ，_PU 工厂_NN 内_LC 是_VC 加压_VV 过滤空气_NN ，_PU 来_MSP 去除_VV 哪怕_AD 那些_DT 可_VV 能留_VV 在_P 芯片_NN 上_LC 并_AD 形成_VV 缺陷_NN 的_DEC 最_AD 小_VA 的_DEC 粒子_NN 。_PU 半导体_NN 制造_NN 产线_NN 里_LC 的_DEG 工人_NN 被_SB 要求_VV 穿着_VV 无_VE 尘衣_NN 来_MSP 保护_VV 器件_NN 不_AD 被_SB 人类_VV 污染_NN 。_PU
+
+在_P 利润_VV 增长_VV 的_DEC 推动_NN 下_LC ，_PU 在_P 1960_CD 年代_NN 半导体_NN 器件_NN 生产遍_NN 及_CC 德克_NN 萨_NN 斯_DT 州_NN 和_CC 加州_NN 乃_AD 至全_AD 世界_VV ，_PU 比如_AD 爱尔兰_VV 、_PU 以_P 色列_NN 、_PU 日本_NN 、_PU 台湾_NN 、_PU 韩国_NN 和_CC 新_JJ 加坡_VV ，_PU 且_CC 在_P 今天_NT 已_AD 是_VC 一_CD 个_M 全球_NN 商业_NN 。_PU
+
+半导体_NN 生产商_NN 的_DEC 领袖_NN 大都_AD 在_P 全世_AD 界拥_VV 有_VE 产线_NN 。_PU 英特尔_AD ，_PU 世界_NN 最_AD 大_VA 的_DEC 生产商_NN ，_PU 以及_CC 在_P 美_NOI 其他_DT 顶级_NN 生产商_NN 包括_VV 台积电_NN （_PU 台湾_NN ）_PU 、_PU 三星_NN （_PU 韩国_NR ）_PU 、_PU 德_NN 州仪器_NN （_PU 美国_NR ）_PU 、_PU 超微_JJ 半导体_NN （_PU 美国_NR ）_PU 、_PU 联电_NN （_PU 台湾_NN ）_PU 、_PU 东芝_NN （_PU 日本_NN ）_PU 、_PU NEC_NN 电子_NN （_PU 日本_NN ）_PU 、_PU 意法_NN 半导体_NN （_PU 欧洲_NN ）_PU 、_PU 英飞凌_NN （_PU 欧洲_NN ）_PU 、_PU 瑞萨_NN （_PU 日本_NN ）_PU 、_PU 索尼_NN （_PU 日本_NN ）_PU ，_PU 以及_CC 恩智浦_NN 半导体_NN （_PU 欧洲_NN ）_PU 在_P 欧洲_NN 和_CC 亚洲_NN 都_AD 有_VE 自己_PN 的_DEG 设备_NN 。_PU
+
+在_P 2006_CD 年_M ，_PU 在_P 美国_NR 有_VE 大约_CD 5000_CD 家_M 半导体_NN 和_CC 电子_NN 零件_NN 生产商_NN ，_PU 营业_NN 额达_NN 1650亿_CD 美元_NN 。_PU
+
+
+
+

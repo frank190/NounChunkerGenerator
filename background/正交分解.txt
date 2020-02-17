@@ -1,0 +1,7 @@
+﻿正交_VV 分解_M
+
+正交_JJ 分解_NN 是_VC 解决_VV 物理_NN 学矢量_NN 计算_VV 问题_NN 的_DEC 一_CD 种_M 矢量_NN 分解_NN 方法_NN 。_PU
+
+一般来说_AD 方法_NN 是_VC 这样_PN 的_DEG ：_PU
+
+

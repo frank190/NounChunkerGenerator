@@ -1,0 +1,11 @@
+﻿_CD IEEE1541-2002_NN
+
+IEEE1541-2002_NN 是_VC 电气_NN 电子_NN 工程_NN 师学会_NN （_PU IEEE_NN ）_PU 在_P 2002年_NT 发布_VV 的_DEC 旨在_JJ 规范_NN 二_CD 进制_VV 计量_NN 单位_NN 的_DEC 前缀_NN 与_P 数量级_NN 的_DEG 标准_NN 。_PU 该_DT 标准_JJ 推荐_NN 使用_NN ：_PU
+
+
+该_DT 标准_NN 是_VC 为了_P 解决_VV 之前_NT 十_CD 进制_VV 、_PU 二_OD 进_NN 制_VV 单位_JJ 前_NN 缀_VV 和_CC 数量级_NN 混乱_VA 的_DEC 问题_NN 。_PU 在_P SI_NN 标准_NN 中_LC ，_PU 相邻_VV 前_JJ 缀_NN （_PU kilo_NN 、_PU mega_NN 、_PU giga_NN 、_PU tera_NN 、_PU peta_NN 、_PU exa_NN 等_ETC ）_PU 的_DEG 数量级_NN 比_NN 是_VC 10_CD ，_PU 而_CC 根据_P IEEE_NN 标准_NN ，_PU 新_JJ 前缀_JJ （_PU kibi_NN 、_PU mebi_NN 、_PU gibi_NN 、_PU tebi_NN 、_PU pebi_NN 、_PU exbi_NN 等_ETC ）_PU 相邻_JJ 数量级_NN 比_NN 是_VC 2_CD 。_PU 举例_NN 来讲_LC ：_PU
+
+另外_AD ，_PU 该_DT 标准_JJ 实际_NN 上_LC 是_VC 采用_VV 了_AS 1998_CD 年_M 国际_NN 电工_NN 委员会_NN （_PU IEC_NN ）_PU 制定_VV 的_DEC 前缀_NN 标准_NN 。_PU
+
+
+

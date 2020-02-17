@@ -1,0 +1,13 @@
+﻿相图_NN
+
+相_NN 图_NN （_PU ）_PU ，_PU 也_AD 称_VV 相态_JJ 图_NN 、_PU 相_NN 平衡_NN 状态图_NN ，_PU 是_VC 用来_VV 表示_VV 相_NOI 平衡_NN 系统_NN 的_DEG 组成_NN 与_P 一些_CD 参数_NN （_PU 如_P 温度_NN 、_PU 压力_NN ）_PU 之间_LC 关系_VV 的_DEC 一_CD 种_M 图_NN 。_PU 它_PN 在_P 物理_NN 化学_NN 、_PU 矿物学_NN 和_CC 材料_NN 科学_NN 中_LC 具有_VV 很_AD 重要_VA 的_DEC 地位_NN 。_PU
+
+-_PU {zh_NN -_PU hant_NN :_PU ;_PU zh_NN -_PU hans_NN :_PU ;_PU }_CD -_PU
+
+简单_VA 的_DEC 相_NN 图_NN 如_P 水_NN 的_DEG formula_NN 图_NN （_PU 见_VV 右_NN ）_PU ，_PU 从中_NN 可以_VV 很_AD 容易_VA 地_DEV 读出_VV 水_NN 的_DEC 三_CD 相_NN 点_NN 、_PU 临界点_NN 等_ETC 信息_NN 。_PU 图_NN 中_LC 的_DEG 分隔线_NN 称为_VV “_PU 两_CD 相_M 平衡线_NN ”_PU ，_PU 所_MSP 划出_VV 的_DEC 范围_NN 表示_VV 单相区_NN （_PU 双_CD 变量_NN 系统_NN ）_PU ，_PU 两_CD 个_M 变量_NN 可以_VV 同时_AD 在_P 一定_JJ 范围_NN 内_LC 改变_VV 而_CC 无_VE 新_JJ 相_AD 出现_VV 。_PU
+
+常见_VA 的_DEC 二_CD 组_M 分_NN 系统_NN 相_AD 图_NN 有_VE 压力_NN -_PU 组成_VV 图_NN 、_PU 温度_NN -_PU 组成_VV 图_NN 、_PU 蒸汽压_NN -_PU 液相_NN 组成图_NN 、_PU 溶解度图_NN （_PU 温度_NN -_PU 组成_VV ）_PU 、_PU 低_JJ 共熔_NN 混合物_NN 相_NN 图_NN 等_ETC 。_PU
+
+
+
+

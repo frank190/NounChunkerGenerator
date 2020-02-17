@@ -1,0 +1,27 @@
+﻿正_CD 实_BA 函数_NN
+
+正_AD 实_JJ 函数_NN （_PU Positive_NN -_PU realfunctions_NN ）_PU 的_DEG 缩写_NN 是_VC PR_NN 函数_NN 或_CC 是_VC PRF_NN ，_PU 是_VC 在_P 电路_NN 分析_NN 中_LC 会_VV 出现_VV 的_DEC 一_CD 种_M 数学_NN 函数_NN 。_PU 正_AD 实_P 函数_NN 是_VC 复数_CD 函数_NN "_PU Z_NN "_PU ("s")_PU ，_PU 其_PN 变量_NN "_PU s_NN "_PU 也_AD 是_VC 复_AD 数_CD 。_PU 有_VE 理函数_NN 若_VV 在_P 复_AD 平面_JJ 的_DEG 右半边_NN 都_AD 有_VE 正_NN 的_DEG 实部_NN ，_PU 且_CC 可_VV 解析_VV ，_PU 在_P 实轴_NN 上_LC 都_AD 为_VC 实数_NN ，_PU 就_AD 是_VC 正_AD 实_P 函数_NN 。_PU
+
+其_PN 定义_NN 可以_VV 表示_VV 为_VC 下式_NN ：_PU
+
+在_P 电路_NN 分析_NN 中_LC "_PU Z_NN "_PU ("s")_PU 表示_VV 阻抗_NN ，_PU 而_CC "_PU s_NN "_PU 为_VC S_NN 平面_NN 变量_NN ，_PU 也常_AD 用_VV 其_PN 实部_NN 及_CC 虚部_NN 表示_VV ：_PU
+
+则_AD 正_AD 实_BA 函数_NN 的_DEC 定义_NN 会_VV 改为_VV 下_NN 式_NN ：_PU
+
+正_AD 实_JJ 函数_NN 在_P 电路_NN 分析_VV 的_DEC 重要性_JJ 在于_VV 正_AD 实_JJ 函数_NN 的_DEC 条件_NN 也_AD 就_AD 是_VC 电路_NN 可_VV 实现_VV 性_NN 的_DEC 条件_NN 。_PU "_PU Z_NN "_PU (_NN "_PU s_NN "_PU )_PU 可_VV 实现_VV 为_VC 有理_JJ 阻抗_NN 当_P 且_CC 仅_AD 当_P 其_PN 符合_VV 正_AD 实_JJ 函数_NN 的_DEC 条件_NN 。_PU 此_DT 情形_NN 下_LC 的_DEG 可_VV 实现_VV 表示_VV 可以_VV 用有_VV 限_CD 个_M 分立_JJ 理想_NN 的_DEC 被动_JJ 线性_JJ 元件_NN （_PU 以_P 电路_NN 来_MSP 说就_VV 是_VC 电阻器_NN 、_PU 电感_NN 元件_NN 、_PU 电容器_NN ）_PU 来_MSP 实现_VV 。_PU
+
+「_PU 正_AD 实_P 函数_NN 」_PU 最早_AD 是_VC 由_P 所_MSP 定义_VV ，_PU 描述_VV 符合_VV 以下_JJ 条件_NN 的_DEC 函数_NN "_PU Z_NN "_PU ("s")_PU ：_PU
+许多_CD 作者_NN 严格_AD 依照_VV 上述_JJ 定义_NN ，_PU 包括_VV 明确_AD 要求_VV 是_VC 有理_JJ 函数_NN 。_PU 不过_P Cauer_NN 之前_LC 就_AD 有_VE 提出_VV 类似_NN ，_PU 但_CC 要求_NN 较_AD 宽_VA 的_DEC 条件_NN ，_PU 也_AD 有_VE 些作者_NN 将_BA 「_PU 正_AD 实_P 函数_NN 」_PU 的_DEC 定义_NN 认为_VV 是_VC Cauer_NR 提出_VV 的_DEC 这_DT 一_CD 种_M ，_PU 其他_DT 作者_JJ 则认_NN 为_VC Cauer_NN 的_DEC 定义_NN 是_VC 基本_AD 定义_VV 的_DEC 扩展_NN 版本_NN 。_PU
+
+正_AD 实_JJ 函数_NN 的_DEC 条件_NN 最早_AD 是_VC 由_P (1926_CD )_PU 提出_VV ，_PU 他_PN 确定_VV 了_AS 这些_PN 是_VC 必要_JJ 条件_NN 。_PU
+(1931_CD )_PU 开始_AD 使用_VV 「_PU 正_AD 实_P 」_PU （_PU positive_NN -_PU real_NN ）_PU 一_CD 词_M ，_PU 并且_CC 证明_VV 是_VC 可_VV 实现_VV 的_DEC 充份_NN 条件_NN 及_CC 必要_JJ 条件_NN 。_PU
+
+
+正_AD 实_JJ 函数_NN 有_VE 许多_CD 的_DEG 扩展_NN 版本_NN ，_PU 希望_VV 用_VV 导抗_NN 函数_NN 来_MSP 处理_VV 更_AD 大_JJ 范围_NN 的_DEC 被动线性_NN 电路_NN 。_PU
+若_CS 是_VC 由_P 包括_VV 无_VE 限个_NN 数_NN 的_DEG 元件_NN 形成_VV 的_DEC 电路_NN （_PU 例如_AD 半_AD 无_VE 限阶_NN 的_DEC ）_PU ，_PU 其_PN 阻抗_NN "_PU Z_NN "_PU ("s")_PU 不_AD 一定_JJ 会是_NN "_PU s_NN "_PU 的_DEG 有限_JJ 函数_NN ，_PU 而_CC 在_P 负_VV 的_DEC 实_NN "_PU s_NN "_PU 轴_NN 也_AD 会_VV 有_VE 。_PU 为了_P 正_AD 实_AD 函数_VA 的_DEC 定义_NN 可以_VV 适应_VV 这_DT 类_M 的_DEC 函数_NN ，_PU 需要_VV 放宽_VV 正_AD 实_JJ 函数_NN 的_DEG 要求_NN ，_PU 从_P 所有_DT 的_DEG 实数_NN "_PU s_NN "_PU 下_LC ，_PU 函数_NN 都_AD 要_VV 是_VC 实数_NN ，_PU 变成_VV 只要_CS 在_VV 正_AD 实_AD 数_CD "_PU s_NN "_PU 下_LC ，_PU 函数_NN 都_AD 要_VV 是_VC 实数_NN 即_AD 可_VV 。_PU 可能_VV 是_VC 无理_JJ 函数_NN 的_DEG "_PU Z_NN "_PU (_NN "_PU s_NN "_PU )_NN 是_VC 正_AD 实_P 函数_NN 若_CS 且_CC 唯_AD 且_CC
+有_VE 些作者_NN 由_P 这_DT 个_M 较_AD 宽_VA 的_DEC 定义_NN 开始_VV ，_PU 将_BA 有_VE 理函数_NN 的_DEG 情形_NN 视为_P 特例_NN 。_PU
+
+超过_VV 一_CD 个_M 的_DEG 线性_NN 电路_NN 可以_VV 用_P 或_CC 来_MSP 描述_VV 。_PU 透过_AD 延伸_VV 到_VV 矩阵_NN 函数_NN 的_DEG 正实_JJ 函数_NN 定义_NN ，_PU 可以_VV 区分_AD 那些_DT 是_VC 可以_VV 由_P 被动_JJ 元件_NN 实现_VV 的_DEC 电路_NN 。_PU 矩阵值_NN 函数_NN （_PU 可能_VV 是_VC 无理_JJ 函数_NN ）_PU "Z"("s")_PU 是_VC 正实_NR 函数_NN 的_DEG 充份_NN 必要_JJ 条件_NN 是_VC
+
+
+

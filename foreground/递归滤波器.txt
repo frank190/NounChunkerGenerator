@@ -1,0 +1,8 @@
+﻿递归_NN 滤波器_NN
+
+递归_NN 滤波器_NN 是_VC 在_P 信号_NN 处理_NN 中_LC 的_DEG 一_CD 种_M 滤波器_NN ，_PU 用_P 其中_NN 一_CD 个_M 或_CC 多_CD 个_M 输出_NN 信号_NN 为_P 其_PN 输入_VV 。_PU 这_DT 种_M 滤波器_NN 一般_AD 会_VV 产生_VV 无穷_JJ 长度_NN 的_DEC 脉冲_NN 响应_NN （_PU 一般_AD 称为_VV 无限_JJ 脉冲_NN 响应_NN ，_PU 简称_VV IIR_NN ）_PU ，_PU 其_PN 特点_NN 是_VC 指数_NN 成长_VV 、_PU 指数_NN 衰减_VV 或是_CC 弦_JJ 波_M 的_DEG 输出_NN 。_PU
+
+不过_AD 递归_VV 滤波器_NN 不_AD 一定_AD 都_AD 有_VE 无穷_JJ 脉冲_NN 响应_NN ，_PU 像_P 有些_DT 移动_VV 平均_JJ 的_DEG 实现_NN 方式_NN 就_AD 会_VV 用到_VV 递归_NN 滤波器_NN ，_PU 不过_AD 仍_AD 为_VC 有_VE 限脉_NN 冲响应_NN 。_PU
+
+
+

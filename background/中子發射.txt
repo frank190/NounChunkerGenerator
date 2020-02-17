@@ -1,0 +1,12 @@
+﻿中子_NN 发射_NN
+
+中子_NN 发射_NN 是_VC 原子_NN 排除_VV 多余_JJ 中子_NN 的_DEC 一_CD 种_M 放射性_NN 衰变_VV 的_DEC 形式_NN ，_PU 只是_AD 很_AD 单纯_VA 的_DEC 将_BA 中子_NN 从_P 核_NN 中_LC 拋出_VV 。_PU 同_DT 位_M 素氦_NN -_PU 5_CD 和_CC 铍_CD -_PU 13_CD 是_VC 中子_NN 发射_NN 的_DEC 两_CD 个_M 例子_NN ，_PU 但是_CC 氦_JJ -_PU 5_CD 的_DEG 衰变_NN 也_AD 可以_VV 是_VC α衰变_NN （_PU 由_P 定义看_NN ）_PU 。_PU
+
+许多_CD 重_BA 的_DEG 同位素_NN ，_PU 最_AD 著名_VA 的_DEC 是_VC 鉲_CD -_PU 252_CD ，_PU 可以_VV 经由_P 不同_VA 的_DEC 放射性_NN 衰变_NN 过程_NN ，_PU 一_CD 种_M 自发性_JJ 分裂_NN ，_PU 放射_VV 出_VV 中子_NN 。_PU
+
+由于_P 在_P 这_DT 个_M 过程_NN 中_LC 只有_VV 一_CD 个_M 中子_NN 被_SB 失去_VV 了_AS ，_PU 原子_NN 不_AD 获得_VV 或_CC 失去_VV 任何_DT 质子_NN 。_PU 这_DT 意味_NN 着_VA ，_PU 原子_NN 不_AD 会_VV 成为_VV 不同_JJ 元素_NN 的_DEG 原子_NN 。_PU 取而代之_VV 的_DEC 是_VC ，_PU 原子_NN 将_AD 成_VV 为_VC 原来_JJ 元素_NN 的_DEC 一_CD 个_M 新_VA 的_DEC 同位素_NN ，_PU 例如_AD ，_PU 在_P 发射_NN 的_DEG 其_PN 9_CD 个_M 中子_NN 里_LC 的_DEG 一_CD 个_M 中子_NN 之后_LC ，_PU 铍_NN -_PU 13_CD 成为_VV 铍_CD -_PU 12_CD 。_PU
+
+中子_NN 在_P 核分裂_NN 的_DEC 过程_NN 中_LC 会_VV 被_SB 吸收_VV ，_PU 也_AD 会_VV 被_SB 发射_VV ，_PU 核_BA 连锁_NN 反应_VV 就_AD 是_VC 中子_NN 的_DEC 传播_NN 引起_VV 的_DEC 。_PU
+
+
+

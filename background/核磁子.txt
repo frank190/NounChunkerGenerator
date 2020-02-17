@@ -1,0 +1,18 @@
+﻿_NN 核_NN 磁子_NN
+
+核磁子_NN 是_VC 有关_P 磁矩_NN 的_DEC 物理_NN 常数_NN ，_PU 符号_NN formula_NN
+
+若_CS 在_P 高斯_JJ 单位_NN 制下_VV 为_VC ：_PU
+
+其中_NN ：_PU
+
+在_P 国际_NN 单位制_NN 下_LC ，_PU 核磁子_NN 数值_NN 为_VC
+在_P 高斯_JJ 单位制_NN 下_LC ，_PU 其_PN 数值_NN 为_VC
+
+核磁子_NN 是_VC 像_P 核子_NN 或_CC 原子_NN 核_NN 等_ETC 重粒子_NN 磁偶_NN 极_AD 矩_VA 的_DEC 自然_JJ 单位_NN 。_PU
+
+电子_NN 因为_P 其_PN 荷质_NN 比较_VV 核子_NN 大_VA 很_AD 多_VA ，_PU 其_PN 磁偶极_NN 矩_NN 也_AD 比_VV 核子_NN 大_VA 很_AD 多_VA ，_PU 一般_AD 会_VV 用_P 玻尔_NN 磁子_NN 为_VC 其_PN 单位_NN 。_PU
+
+
+
+

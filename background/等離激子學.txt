@@ -1,0 +1,11 @@
+﻿_NN 等_ETC 离_VV 激子学_NN
+
+等_ETC 离_P 激子学_NN （_PU Plasmonics_NN ，_PU 台湾译_NN 为_VC 电浆子_NN 光学_NN ）_PU 是_VC 由_P 美国_NR 加州理_NN 工学_NN 院应_NN 用_VV 物理_NN 及_CC 材料_NN 科学_NN 小组_NN 创立_VV 的_DEC 。_PU
+
+美国_NR 加州理_NN 工学_NN 院应_NN 用_VV 物理_NN 及_CC 材料_NN 科学_NN 小组_NN ,_PU 用_P 光波_NN 产生_VV 一_CD 种_M 他_PN 们命名_NN 为_VC Plasmon_NN （_PU 「_PU 等离_JJ 激子_NN 」_PU ,_PU 台湾译_NN 为_VC 电浆子_NN ）_PU 的_DEG 电波_NN ,_PU 把光_NN 信号_NN 塞_AD 到_VV 纳米级_NN 结构_NN 之中_LC 。_PU 在_P 2000_CD 年_M 时_LC 把_BA 这_DT 门学_NN 问命名_NN 为_VC 等_ETC 离_NOI 激子学_NN 。_PU
+
+电脑_NN 芯片_NN 设计师_NN 可以_VV 用_P 等_ETC 离_VV 激子_NN 电路_NN ,_PU 建立_VV 高速_JJ 数据_NN 传输_VV 通道_NN ,_PU 让_VV 大量_CD 数据_P 在_P 芯片_NN 中_LC 传递_VV 。_PU
+
+使用_VV 等_ETC 离_VV 激子_NN 部件_NN ,_PU 可以_VV 制造_VV 分辨_NN 能力_NN 更_AD 强_VA 的_DEC 显微镜_NN 、_PU 更_AD 有_VE 效率_NN 的_DEG 发光_JJ 二极管_NN 、_PU 更_AD 灵敏_VA 的_DEC 分子_NN 与_CC 生物_NN 探测器_NN 。_PU
+
+

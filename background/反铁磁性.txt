@@ -1,0 +1,14 @@
+﻿反铁_NN 磁性_NN
+
+反_VV 铁_JJ 磁性_NN （_PU ）_PU ，_PU 或_CC 称反_VV 强_JJ 磁性_NN ，_PU 是_VC 磁性_JJ 材料_NN 的_DEG 磁学_NN 性质_NN 的_DEC 一_CD 种_M 。_PU 在_P 这_DT 种_M 材料_NN 中_LC ，_PU 相邻_JJ 电子_NN 自旋呈_NN 相反_NN 方向_NN 排列_VV ，_PU 其_PN 磁化率_NN 因而_AD 接近于_VV 零_CD 。_PU 1932_CD 年_M 由_P LouisN_NN é_NN el_NN 首次_AD 发现_VV 。_PU 例如_AD ，_PU 铬_NN 、_PU 锰_NN 、_PU 轻镧_NN 系元_NN 素等_VA 等_ETC ，_PU 都_AD 具有_VV 反铁_JJ 磁性_NN 。_PU
+
+当_P 温度_NN 大于_VV 奈尔_VV 温度_NN formula_NN __NN 1_CD 时_LC ，_PU 磁化率_NN formula_NN __NN 2_CD 与_P 温度_NN formula_NN
+
+做_VV 实验_NN 得到_VV 的_DEC 经_VV 验关_NN 系式_NN 为_VC
+
+其中_NN ，_PU formula_NN __NN 6_CD 是_VC 依_P 物质_NN 而_MSP 定_VV 的_DEC 常数_NN ，_PU 与_P formula_NN
+
+理论而言_AD ，_PU 当_P 温度_NN 小于_VV 奈尔_NN 温度_NN formula_NN
+
+
+

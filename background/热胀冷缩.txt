@@ -1,0 +1,8 @@
+﻿热胀_NN 冷缩_NN
+
+热胀_NN 冷缩_NN 是_VC 指_VV 物体_NN 受热_VV 时_LC 会_VV 膨胀_NN ，_PU 遇冷_VV 时_LC 会_VV 收缩_VV 的_DEC 特性_NN 。_PU 由于_P 物体_NN 内_LC 的_DEG 粒子_NN （_PU 原子_NN ）_PU 运动_VV 会_VV 随_P 温度_NN 改变_NN ，_PU 当_P 温度_NN 上升_VV 时_LC ，_PU 粒子_NN 的_DEG 振动_NN 幅度_NN 加大_VV ，_PU 令_VV 物体_NN 膨胀_NN ；_PU 但_AD 当_P 温度_NN 下降_VV 时_LC ，_PU 粒子_NN 的_DEG 振动_NN 幅度_NN 便_AD 会_VV 减少_VV ，_PU 使_VV 物体_NN 收缩_VV 。_PU
+
+热胀_NN 冷缩_NN 是_VC 一般_JJ 物体_NN 的_DEG 特性_NN ，_PU 4_CD 度_M 以下_LC 的_DEC 水_NN 、_PU 锑_NN 、_PU 铋_NN 、_PU 镓_NN 和_CC 青铜_NN 等_ETC 物质_NN ，_PU 在_P 某些_DT 温度_NN 范围_NN 内_LC 受热_VV 时_LC 收缩_VV ，_PU 遇冷_VV 时_LC 会_VV 膨胀_VV ，_PU 恰_AD 与_P 一般物体_NN 特性_NN 相反_VA 。_PU 因此_AD ，_PU 水_NN 结冰_VV 时_LC ，_PU 冰_NN 是_VC 先_VV 在_P 水面_NN 出现_VV 。_PU 由于_P 铁轨_NN 有_VE 热胀_NN 冷缩_VV 的_DEC 特性_NN ，_PU 因此_AD 铁轨_NN 链接_VV 时_LC 须_VV 保持_VV 一定_JJ 距离_NN ，_PU 避免_VV 轨道_NN 间_LC 互相_AD 挤压_VV 导致_VV 变形_VV 。_PU
+
+
+

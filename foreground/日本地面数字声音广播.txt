@@ -1,0 +1,13 @@
+﻿日_NT 本_DT 地面_NN 数字_NN 声音_NN 广播_VA
+
+日本_NR 地面_NN 数字声_NN 音广播_NN （_PU ）_PU 是_VC 2003_CD 年_M 至_CC 2011_CD 年期_NN 间_LC ，_PU 日本_NR 在_P 东京_NR 和_CC 大阪_CD 推出_VV 的_DEC 数字_NN 声音_NN 广播_VA 服务_NN ，_PU 使用_VV ISDB_NN -_PU T_NN 标准_NN 。_PU
+
+2003年_NT 10月_NT 10日_NT ，_PU 地面_NN 数字_NN 声音_NN 广播_VV 在_P 东京_NN 和_CC 大阪_NN 试播_VV ，_PU 使用_VV 相当于_VV 电视_NN 7_CD 频道_NN （_PU 日本_NR 标准_NN ，_PU 190_CD ._PU 214286_CD MHz_M ）_PU 的_DEC 频点_NN 播出_VV 。_PU 日本_NR 总务_NN 省原_NN 计划_VV 2006_CD 年_M 正式_NN 开通_VV 数字_NN 广播_NN ，_PU 但_CC 最终_AD 未_AD 能_VV 实现_VV 。_PU 2007年_NT 6月_NT 28日_NT ，_PU 负责_NN 运营_NN 数字_NN 广播_VA 的_DEC “_PU ”_PU （_PU DRP_NN ）_PU 表示_VV ，_PU 由于_P 7_CD 频道_NN 所_MSP 在_VV 的_DEC 频段_NN （_PU 170_CD -_PU 202_CD ._PU 5MHz_NN ）_PU 将分_AD 配给_VV 其它_DT 用途_NN ，_PU 2011_CD 年_M 后_LC 的_DEG 数字_NN 广播_NN 将_AD 无法_AD 使用_VV 这_DT 一_CD 频率_NN 。_PU 2008年_NT 3月_NT 31日_NT ，_PU FM_NN 东京_NN 和_CC 的_DEC 数字_NN 广_AD 播频_VV 道停播_NN 。_PU 2010_CD 年_M 6月30_NN 日_NN ，_PU 大阪_AD 地区_VV 的_DEC 数字_NN 广播_AD 停播_VV ；_PU 次年_NN 3月_NT 31日_NT ，_PU 东京_NR 地区_NN 的_DEG 数字_NN 广播_VA 也_AD 宣告_VV 结束_NN 。_PU 至此_AD 日本_NR 的_DEG 地面_NN 数字声_NN 音广_NN 播成_VV 为_VC 历史_PN 。_PU
+
+日本_NR 地面_NN 数字_NN 广播_NN 采用_VV 日本_NR 自主_NN 研发_VV 的_DEC ISDB_NN 标准_NN 的_DEC 衍生_NN 标准_NN ——_PU ISDB_NN -_PU T_NR （_PU ISDBforTerrestrialSoundBroadcasting_NR ，_PU 即_AD 适用于_VV 地面_NN 声音_NN 广播_VA 的_DEC ISDB_NN ）_PU ，_PU 使用_VV 用_VV 正交_JJ 频分_NN 复_AD 用_P 技术_NN （_PU OFDM_NN ）_PU ，_PU 使用_VV 了_AS 两_CD 种_M 传输带_NN 宽_VA ，_PU 对于_P 1_CD 段_M 是_VC 429_CD kHz_NN ，_PU 对于_P 3_CD 段_M 传输_NN 是_VC 1.3_CD MHz_NN 。_PU 数字_NN 广播_VA 的_DEC 码率_NN 为_VC 280_CD kbps_NN ，_PU 压缩_NN 方式_NN 为_VC MPEG_NN -_PU 2_CD AAC_NN 。_PU 除_P 传统_JJ 声音_NN 广播_VA 外_LC ，_PU 还_AD 可_VV 提供_VV 视频_NN 画面_NN 、_PU 双向_JJ 互动_NN 等_ETC 功能_NN 。_PU
+
+发射站_NN 方面_NN ，_PU 东京_NR 地区_NN 的_DEG 数字_NN 广播_NN 信号_NN 通过_P 东京_NN 铁塔_NN 发射_VV ，_PU 早期_CS 功率_NN 800_CD W_M ，_PU 2007_CD 年_M 2月_NT 19日_NT 增加_VV 到_VV 2.4kW_NN ，_PU 可_VV 覆盖_VV 东京都_NN 、_PU 埼玉县_NN 全境_AD 以及_CC 千_CD 叶县_NN 和_CC 神奈_NN 川县_NN 部分_NN 地区_VA ；_PU 大阪_NN 地区_AD 通过_P 位于_VV 大阪府_NN 与_CC 奈良县_NN 交界_NN 处_NN 的_DEC 生驹山_NN 发射台_NN 发射_NN ，_PU 功率_NN 240W_NN ，_PU 可_VV 覆盖_VV 大_JJ 阪府_NN 、_PU 奈良县_NN 全境_AD 以及_CC 京都_AD 府_NN 和_CC 兵库_NN 县部_NN 分地区_NN 。_PU
+
+以下_NN 为_VC 停播_VV 时_LC 所_MSP 发射_VV 的_DEC 频道_NN 。_PU
+
+

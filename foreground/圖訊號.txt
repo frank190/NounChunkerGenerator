@@ -1,0 +1,24 @@
+﻿图_NN 讯号_NN
+
+图_NN 讯号_NN （_PU G_CD raphSignal_M ）_PU 的_DEG 构造_NN 方法_NN 为_VV 在_P 一_CD 张_M 图_NN 的_DEG 顶点_NN 上_LC 赋予_VV 值_VV ，_PU 故_AD 在_P 讨论_VV 一_CD 个_M 图_NN 讯号_NN 时_LC ，_PU 必须_VV 先_AD 有_VE 一_CD 张_M 图_NN 。_PU
+
+图_NN 讯号_NN 与_CC 离散_NN 时间_NN 讯号_NN 相_AD 对应_VV ，_PU 分別_NN 是_VC 图_NN 讯号_NN 处理_NN 和_CC 数位_NN 讯号_NN 处理_NN 的_DEC 处理_NN 对象_NN 。_PU
+
+图_NN 讯号_NN 的_DEG 指标域_NN 为_VC 图_NN 的_DEG 顶点_NN 集合_VV 。_PU 与_CC 离散_NN 时间_NN 讯号_NN 不同_VA ，_PU 因为_P 图_NN 的_DEG 性质_NN ，_PU 指标_VV 不_AD 一定_JJ 有_VE 前后_JJ 的_DEG 方向性_NN ，_PU 故_AD 一般而言_AD 不_AD 能_VV 将_BA 图_NN 讯号_NN 的_DEG 指标域_NN 比_AD 拟作_VV 时间_NN 。_PU 然而_AD ，_PU 为了_P 与_P 数位_NN 讯号_NN 处理_NN 中_LC 的_DEG 概念_NN 相_AD 呼应_VV ，_PU 有时还_AD 是_VC 会_VV 将_BA 其_PN 称作_VV 时_LC 域_CD 。_PU
+
+所有_DT 有_VE 限维_NN 的_DEC 离散_NN 时间_NN 讯号_NN 皆_AD 可_VV 用_P 图_NN 讯号_NN 来_MSP 表示_VV ，_PU 例如_AD
+更_AD 高维_JJ 离散_NN 时间_NN 讯号_NN 亦_AD 可_VV 用_P 高维_NN 栅格_NN 来_MSP 表示_VV 。_PU
+
+图讯号_NN 处理_NN （_PU 英语_NN ：_PU GraphSignalProcess_NN ,_PU GSP_NN ）_PU ，_PU 是_VC 与_P 数位_NN 讯号_NN 处理_NN 类似_NN ，_PU 但_CC 处理_NN 对象_NN 为_VC 图_NN 讯号_NN 的_DEG 一_CD 个_M 讯号_NN 处理_VV 的_DEC 分支_NN 。_PU
+
+图讯号_NN 处理_NN 的_DEC 目的_NN 为_VC 测量_NN 及_CC 分析图_NN 讯号_NN ，_PU 发展_NN 初期_NN ，_PU 数学家_NN 与_CC 工程师_NN 从_P 图论_NN 傅_NN 立_VV 叶_NN 转换_VV 开始_VV ，_PU 仿照_VV 数位_NN 讯号_NN 处理_NN 中_LC 现有_JJ 的_DEG 处理_NN 工具_NN ，_PU 试图_AD 做出_VV 对应_VV 的_DEC 图_NN 讯号_NN 处理_VV 版本_NN 。_PU 然而_AD 当_P 时域_NN 从_P 普通_VA 的_DEC 整数_NN 改变_VV 成图_VV ，_PU 因_P 诸多_CD 的_DEG 不_AD 确定_JJ 性_NN ，_PU 并_CC 无法_AD 将_BA 所有_DT 可_VV 使用_VV 的_DEC 工具_NN 完整_VA 地_DEV 推广_VV 至_VV 图_NN 讯号_NN 处理_VV 版本_NN （_PU 见_VV 下例_NR ）_PU 。_PU
+
+图讯号_NN 处理_NN 的_DEC 数学理_NN 论基础_NN 为_VC 谱_P 图理论_NN （_PU 英语_NN ：_PU Spectralgraphtheor_NR y_ETC ）_PU 。_PU
+
+图讯号_NN 处理_NN 领域_NN 和_CC 数位_NN 讯号_NN 处理_NN 领域_NN 相似_VA ，_PU 工程_NN 师_VV 在_P 时域_NN 、_PU 频域_NN 、_PU 小_JJ 波域_NN 中_LC 研究_VV 图_NN 讯号_NN ，_PU 但_CC 这些_DT 域_NN 的_DEG 形象_NN 与_P 数位_NN 讯号_NN 处理_NN 中_LC 使用_VV 到_VV 的_DEC 皆_AD 有些_DT 微差別_NN ，_PU 例如_AD ：_PU
+时域_NN 与_CC 频域_NN 的_DEC 对应_JJ 关系_NN 由_P 图论_NN 傅_NN 立_VV 叶_NN 转换_VV 定义_VV ，_PU 同_DT 一_CD 张图_NN 下_LC ，_PU 不同_VA 的_DEC 图论_NN 傅_NN 立_VV 叶_NN 转换_NN 定义_VV 出_VV 的_DEC 频域_NN 未必_AD 相同_VA 。_PU
+
+现阶_JJ 段图_NN 讯号_NN 处理_NN 的_DEC 理论_NN 工具_NN 皆_AD 与_P 数位_NN 讯号_NN 处理_VV 有_VE 对应_JJ 关系_NN ：_PU
+
+
+

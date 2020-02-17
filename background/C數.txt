@@ -1,0 +1,5 @@
+﻿C数_Err
+
+c数_NN （_PU ）_PU 是_VC 狄拉克_NN （_PU 中文_NN ：_PU 保罗_NN ·_PU 狄拉克_NN ）_PU 用_VV 过_AS 的_DEC 一_CD 种_M 命名法_NN ，_PU 用来_VV 表示_VV 量子_NN 力学_NN 中_LC 可以_VV 交换_VV 相_AD 乘次_VV 序而_NN 结果_NN 不变_VA 的_DEC 量_NN （_PU 一般_AD 是_VC 纯_JJ 量_NN ）_PU ，_PU 和_CC 对应_VV 的_DEC 是_VC q_NN 数_NN ，_PU q数_NN 不_AD 满足_VV 乘_VV 法_NN 交换律_NN （_PU 中文_NN ：_PU 乘_VV 法_NN 交换律_NN ）_PU ，_PU 一般_AD 是_VC 算符_NN （_PU 中文_NN ：_PU 算符_VV ）_PU 。_PU
+
+

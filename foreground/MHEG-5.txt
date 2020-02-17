@@ -1,0 +1,9 @@
+﻿_CD MHEG_NN -_PU 5_CD
+
+MHEG_NN -_PU 5_CD （_PU 信息_NN 技术_NN -_PU 多媒体_NN 和_CC 超媒体_NN 信息_NN 编码_NN 第5_OD 部分_NN ，_PU ISO_NN ／_PU IECIS13522-5:1997_NN ）_PU ，_PU 是_VC 展现_VV 多媒体_NN 和_CC 超媒体_NN 内容_NN 的_DEC 国际_NN 技术_NN 标準_NN ，_PU 由_P 「_PU 多媒体_NN 超媒体_NN 标_VV 準_NN 专家_JJ 组织_NN 」_PU （_PU MultimediaandHypermediaExpertsGroup_NN ，_PU MHEG_NN ）_PU 制订_VV ，_PU 最常_AD 用于_VV 提供_VV 互动_JJ 电视_NN 服务_NN 。_PU MHEG_NN -_PU 5_CD 与_P 另_DT 一_CD 个_M 互动_JJ 电视_NN 技术_NN MHP_NN 的_DEG 分別_NN ，_PU 在于_VV MHEG_NN -_PU 5_CD 所_MSP 需_VV 的_DEC CPU_NN 的_DEG MIPS_NN 数值_NN 和_CC 记忆体_NN 远_AD 比_P MHP_NN 为_VC 少_VA ，_PU 中间件_NN 和_CC 机顶盒_NN 的_DEG 成本_NN 亦_AD 较_AD MHP_NN 便宜_VA ，_PU 而且_CC 完全_AD 不_AD 需要_VV 支付授_NN 权费_NN 。_PU
+
+MHEG_NN -_PU 5_CD 在_P 英国_NN 和_CC 新西兰_NN 的_DEG 免费_NN 电视台_NN 和_CC 香港_NN 的_DEG 无线_JJ 电视_NN 皆_AD 有_VE 选用_VV ，_PU 而_CC 台湾_VA 、_PU 新加_JJ 坡_NN 、_PU 马_NN 来_MSP 西亚_VV 、_PU 印度_NN 、_PU 土耳其_NN 、_PU 爱尔兰_NN 和_CC 俄罗_NN 斯等_VA 地_DEV 亦正_VV 在_P 对_P MHEG_NR -_PU 5_CD 技术_NN 进行_VV 测试_NN 和_CC 评估_NN 。_PU
+
+
+
+

@@ -1,0 +1,11 @@
+﻿讯号_NN 速度_NN
+
+波_NN 的_DEG 讯号_NN 速度_NN 是_VC 指_VV 一_CD 脉冲波_NN 行经_VV 介质_NN 的_DEC 速度_NN 。_PU 其_PN 定义_NN 通常_AD 是_VC 根据_P 脉冲_NN 呈_VV 最高_JJ 强度_NN 半_AD 值_VA 的_DEC 位置_NN 。_PU
+
+以_P 电磁_NN 辐射_NN 如_P 光_NN 而言_LC ，_PU 讯号_NN 速度_NN 通常_AD 等同于_VV 群_NN 速度_NN ，_PU 在_P 此_DT 情形_NN 下_LC ，_PU 相_AD 速度_NN  _NN  _AD 可以_VV 超过_VV 真空_NN 中_LC 的_DEG 光速 _NN ，_PU 但_CC 讯号_NN 速度_NN  _NN  永_NN 远_AD 会_VV 比_P   _NN 小_VA 或_CC 等于_VV  _NN 。_PU 例外_AD 发生_VV 在_P 介质_NN 出现_VV 吸收_VV 共_AD 振_JJ 现象_NN 的_DEG 附近_JJ 频率_NN （_PU ）_PU ，_PU >_NN 。_PU
+
+光_AD 在_P 一_CD 般_M 介质_NN 中_LC 传输_VV 时_LC ，_PU <，>，_PU 但_CC 信号_NN 速度_NN 依然_AD 不高于_VV  _CD 。_PU
+
+
+
+

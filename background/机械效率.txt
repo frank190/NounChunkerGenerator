@@ -1,0 +1,13 @@
+﻿_NN 机械_NN 效率_NN
+
+机械_NN 效率_NN （_PU ）_PU ，_PU 常用_JJ 希腊字_NN 母η_NN 表示_VV 。_PU 是_VC 机械_NN 输出功_NN （_PU 有用_JJ 功）_NN 和_CC 输入功_NN （_PU 动力功_NN ）_PU 的_DEG 比值_NN 。_PU 用_P 公式_NN 表示_VV 为_VC formula_NN __NN 1_CD 由于_P 大多_CD 数机_NN 械_NN 是_VC 在_P 接收_VV 输入功_NN 的_DEC 同时_NN 就_AD 输出_VV 功_NN ，_PU 而且_CC 输入_VV 输出_VV 的_DEC 快慢_JJ 也_NN 互相_AD 适应_VV ，_PU 所以_AD 机械_NN 效率_NN 又_AD 可_VV 定义_VV 为_VC ：_PU 输出_NN 功率_NN formula_NN 与_CC 输入_NN 功率_NN formula_NN 的_DEG 百分比_NN ，_PU 即_AD formula_NN __NN 4_CD 。_PU 在_P 初中_NN 物理_NN ，_PU 机械_NN 效率_NN 被_SB 定义_VV 为_VC 有用_JJ 功formula_NN __NN 5_CD 与_P 总_JJ 功formula_NN __NN 6_CD 的_DEG 比值_NN ，_PU 即_AD formula_NN
+
+滑轮_NN （_PU ）_PU 是_VC 可以_VV 绕_VV 着_AS 中心轴_NN 旋转_VV 的_DEC 圆轮_NN 。_PU 在_P 圆轮_NN 的_DEG 圆周面_NN 具有_VV 凹槽_NN ，_PU 将_BA 绳索_NN 缠绕_VV 於_P 凹槽_NN ，_PU 用力_NN 牵拉_NN 绳索_NN 两_CD 端_NN 的_DEG 任一端_NN ，_PU 则_AD 绳索_VV 与_P 圆轮_NN 之间_LC 的_DEG 摩擦力_NN 会_VV 促使_VV 圆轮_NN 绕_VV 着_AS 中心轴_NN 旋转_VV 。_PU 根据_P 特点_NN 滑轮_NN 可_VV 分为_VV 动滑轮_NN 、_PU 定滑轮_NN 以及_CC 滑轮组_NN 。_PU
+
+滑轮_NN 的_DEC 机械_NN 效率_NN 为_VC 有用_JJ 功_NN 与_CC 总功_NN 之比_LC ，_PU 即_AD formula_NN
+根据_P 公式_NN formula_NN __NN 12_CD 或_CC formula_NN
+
+斜面_NN （_PU ）_PU 是_VC 一_CD 种_M 倾斜_VV 的_DEC 平板_NN ，_PU 能够_VV 将_BA 物体_NN 比较_VV 不_AD 费力_VA 地_DEV 从_P 低处_NN 提升_VV 至高处_AD ，_PU 但_AD 提升_VV 这_DT 物体_NN 的_DEG 路径_NN 长度_NN 也_AD 会_VV 增加_VV 。_PU 斜面_NN 是_VC 古代_JJ 希腊人_NN 提出_VV 的_DEC 六_CD 种_M 简单_VA 机械_NN 之中_LC 的_DEG 一_CD 种_M 。_PU 假_JJ 若斜面_NN 的_DEG 斜度_NN 越_AD 小_VA ，_PU 则_AD 斜面_NN 与_P 水平面_NN 之间_LC 的_DEC 夹角_NN 越_AD 小_VA ，_PU 需_VV 施加_VV 於_P 物体_NN 的_DEG 作用_NN 力_NN 会_VV 越_AD 小_VA ，_PU 但_AD 移动_VV 距离_NN 也_AD 越_AD 长_VA ；_PU 反之_AD 亦_AD 然_AD 。_PU 假设_JJ 移动_NN 负载_VV 不_AD 会_VV 造成_VV 能_VV 量_NN 的_DEG 储存_NN 或_CC 耗散_NN ，_PU 则_AD 斜面_NN 的_DEC 是_VC 其_PN 长度_NN 与_CC 提升_NN 高度_NN 的_DEG 比率_NN 。_PU 用_P 公式_NN 表达_VV 为_VC formula_NN
+美国_NR 电气_NN 制造_VV 商协会_NN （_PU N_CD EMA_M ）_PU 要求_NN ，_PU 1_CD 到_CC 4_CD 匹_M 的_DEC 小型_JJ 电动机_NN 效率_NN 最_AD 小_VA 达到_VV 78_CD ._PU 8%_CD ，_PU 125_CD 匹_M 或_CC 以上_NN 的_DEC 大型_JJ 电动机_NN 最_AD 小_VA 达到_VV 92_CD ._PU 4%_CD 。_PU
+
+

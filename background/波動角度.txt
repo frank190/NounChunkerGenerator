@@ -1,0 +1,21 @@
+﻿_CS 波动_NN 角度_NN
+
+波动_NN 角度_NN （_PU 英语_NN ：_PU Angleofincidence_NN ）_PU ，_PU 这里_PN 集合_VV 了_AS 有关_JJ 波动_NN 的_DEC 角度_NN 的_DEC 定义_NN 。_PU
+
+入射角_NN ，_PU 常用_JJ 符号_NN formula_NN __NN 1_CD 或_CC formula_NN
+
+反射角_NN ，_PU 常用_JJ 符号_NN formula_NN __NN 3_CD 或_CC formula_NN
+
+折射角_NN ，_PU 常用_JJ 符号_NN formula_NN __NN 3_CD 或_CC formula_NN
+
+衍射角_NN 或_CC 绕射角_NN ，_PU 常用_JJ 符号_NN formula_NN __NN 7_CD 或_CC formula_NN
+
+临界角_NN ，_PU 常用_JJ 符号_NN formula_NN __NN 9_CD 或_CC formula_NN
+
+偏向角_NN 或_CC 散射角_NN ，_PU 常用_JJ 符号_NN formula_NN
+
+布鲁司_NN 特角_NN 或_CC 极化角_NN ，_PU 常用_JJ 符号_NN formula_NN
+
+光_NN 的_DEG 折射_NN 定律_NN
+
+

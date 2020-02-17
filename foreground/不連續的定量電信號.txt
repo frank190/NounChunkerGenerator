@@ -1,0 +1,5 @@
+﻿_AD 不_AD 连续_VV 的_DEC 定量电_NN 信号_NN
+
+自然_JJ 界所_NN 产生_VV 的_DEC 量化类_NN 比_P 连续_JJ 性电_NN 信号_NN 经过_P 电路_NN 运算_VV 将_BA 连续_JJ 性电_NN 信号_NN 转换_VV 为_VC 信号_NN 的_DEC 状态_NN 是_VC （_PU “_PU 0_CD ”_PU 或_CC “_PU 1_CD ”_PU ）_PU 的_DEC 状态_NN 。_PU 此_DT “_PU 0_CD ”_PU 或_CC “_PU 1_CD ”_PU 的_DEG 信号_NN 经由_P 电路_NN 所_MSP 组成_VV 并_CC 运算_VV 的_DEC 信号_NN 即_AD 称为_VV 不_AD 连续_VV 的_DEC 定量电_NN 信号_NN 。_PU
+
+

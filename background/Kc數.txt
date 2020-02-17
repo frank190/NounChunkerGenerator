@@ -1,0 +1,21 @@
+﻿_CD Kc_NN 数_NN
+
+在_P 流体_NN 力学_NN 中_LC ，_PU Kc_NN 数_NN （_PU Keulegan_NN –_NN Carpenternumber_NN ）_PU 是_VC 一_CD 个_M 无量_AD 纲数_NN ，_PU 用来_VV 描述_VV 一_CD 个_M 在_P 振荡_NN 流场_NN 中_LC 的_DEG 物体_NN ，_PU 所_MSP 受到_VV 的_DEC 阻力_NN 相对_AD 惯性_JJ 力_NN 之间_LC 的_DEG 关系_NN ，_PU 也_CC 可_VV 可以_VV 用_VV 在_P 一_CD 物体_NN 在_P 静_AD 止_VV 流体_NN 中_LC 振荡_VV 的_DEC 情形_NN 。_PU Kc_NN 数小_NN 表示_VV 惯性力_NN 的_DEG 影响_NN 比_P 阻力_NN 要_AD 大_VA ，_PU Kc_NN 数_AD 大_VA 表示_NN （_PU 紊流_NN ）_PU 阻力_NN 的_DEG 影响_NN 较_AD 大_VA 。_PU
+
+Kc_NN 数_NN 的_DEG 定义_NN 如_P 下_NN
+
+其中_NN
+
+在_P 探讨_VV 海浪_NN 对_P 沉积物_NN 运移_NN 的_DEG 影响_NN 时_LC ，_PU 会_VV 使用_VV 另_DT 一_CD 个_M 相关_JJ 的_DEG 位移_NN 参数δ_NN （_PU displacementparameter_NN ）_PU 来_MSP 表示_VV ：_PU
+
+其中_NN
+
+若_CS 将_BA 纳维_NN －_PU 斯_DT 托克_NN 斯_DT 方程_NN 的_DEC 加速_JJ 度项_NN 进行_VV ，_PU 也_CC 可以_VV 找到_VV Kc_NN 数_NN ：_PU
+
+
+将_BA 以上_JJ 二式_NN 相_AD 除_P 即_AD 可_VV 得到_VV Kc_NN 数_NN 。_PU
+
+斯_DT 特劳_NN 哈_LB 尔数_NN 和_CC Kc_NN 数_NN 有些_DT 相近_VV 。_PU 斯_PN 特劳_JJ 哈尔_NN 数_VV 在_P 形式_NN 上_LC 是_VC Kc_NN 数_NN 的_DEG 倒数_NN 。_PU 斯_DT 特劳_NN 哈_LB 尔数_NN 可以_VV 求得_VV 将_BA 一_CD 物体_NN 置入_VV 稳定_VA 的_DEC 流场_NN 后_LC ，_PU 其_PN 产生_VV 的_DEC 频率_NN ，_PU 可以_VV 作为_P 流场_NN 不_AD 稳定性_JJ 的_DEG 指标_NN 。_PU 而_CC Kc_NN 数_NN 是_VC 和_CC 不_AD 稳定_VA 流场_NN 对_P 物体_NN 的_DEG 影响_NN 有关_P 。_PU
+
+
+

@@ -1,0 +1,16 @@
+﻿水_NN 火箭_NN
+
+水火箭_NN 是_VC 以_P 水_NN 的_DEG 压力_NN 作为_VV 推动力_NN 来_MSP 推动_VV 前进_NN 的_DEC 一_CD 种_M 模型_JJ 火箭_NN 。_PU 用_P 橡皮_NN 塞_AD 紧_VA 的_DEC 瓶子_NN ，_PU 形成_VV 一_CD 个_M 密闭_VV 的_DEC 空间_NN ．_PU 把_BA 气体_NN 打入_VV 密闭_VV 的_DEC 容器_NN 内_LC ，_PU 使_VV 得容器_NN 内_LC 空气_NN 的_DEC 气压_NN 增大_VV ，_PU 当_P 超过_VV 橡皮_NN 塞_NN 与_P 瓶口_NN 接合_VV 的_DEC 最_AD 大_JJ 程度_NN 时_LC ，_PU 瓶口_NN 与_CC 橡皮_NN 塞_NN 自由_P 脱离_VV ，_PU 箭_NN 内_LC 水_NN 向后_AD 喷出_VV ，_PU 获得_VV 反作_NN 用_VV 力射_VV 出_VV ．_PU 水_NN 火箭_NN 和_CC 火箭_NN 最_AD 大_VA 的_DEC 不同_JJ ，_PU 在于_P 其_PN 推进_VV 的_DEC 媒介_NN 由_P 高温_NN 空气_NN 变成_VV 水_NN 而已_LC 。_PU 在_P 发射_NN 水_NN 火箭_NN 前_LC 会_VV 灌入_VV 空气_NN 达_VV 一定_JJ 压力_NN ，_PU 由于_P 高压_NN 会_VV 自然_AD 向_P 低压_JJ 流去_NN ，_PU 故_AD 在_P 喷嘴_NN 被_SB 打开_VV 时_LC ，_PU 空气_NN 自然_AD 向_P 喷嘴_NN 流去_VV ，_PU 但_CC 由于_P 水_NN 挡_VV 在_P 前方_NN ，_PU 故_AD 水_NN 会_VV 被_SB 空气_VV 推出_VV 火箭_NN ，_PU 而_CC 火箭_NN 也_AD 借此_AD 获得_VV 向前_NT 的_DEG 速度_NN 。_PU
+ps_NN ._PU 会_VV 喷出_VV 很多_CD 水_NN 不_AD 要站_VV 在_P 瓶口_NN 后方_LC 、_PU 也_AD 不_AD 能_VV 对_P 人_NN 发射_VV ！_PU (_PU 20191030_CD 豆_M 花冰_NN )_PU
+
+次序_NN ：_PU
+
+注意在_AD 发射_VV 水_NN 火箭_NN 前_LC ，_PU 需要_VV 先_AD 使用_VV 泵_LC ，_PU 把_BA 它_PN 的_DEG 内部_NN 充满_VV 空气_NN ，_PU 当_P 水_NN 火箭_NN 内_LC 的_DEG 压力_NN 大于_VV 大_JJ 气压力_NN 之后_LC ，_PU 水_NN 才_AD 会_VV 向外_AD 喷射_VV 。_PU
+
+如_P 有_VE 发射器_NN ，_PU 不_AD 需_VV 塞入_VV 橡皮塞_NN 。_PU
+
+增加_VV 尾翼_NN 可以_VV 改变_VV 空气_NN 动力_NN 中心_NN ，_PU 使_VV 飞行_VV 更_AD 稳定_VA ；_PU 增加_VV 鼻锥_NN 则_AD 能够_VV 减少_VV 空气_NN 阻力_NN 。_PU
+
+http_NN :_PU /_PU /ftp_NN ._PU klps_NN ._PU kh_NN ._PU edu_NN ._PU tw_NN /_PU topic_NN /_PU 91_CD
+
+

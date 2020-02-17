@@ -1,0 +1,5 @@
+﻿维格_NN 纳晶格_NN
+
+维格_NN 纳晶格_NN （_PU ）_PU 是_VC 凝聚体物_NN 理学_NN 中_LC 电子_NN 的_DEC 一_CD 种_M 规则_JJ 排列_JJ 阵列_NN ，_PU 是_VC 低_JJ 密度_NN 之_DEG 正电荷海_NN 中_LC 的_DEG 势能_NN 最_AD 低_VA 的_DEC 组态_NN ，_PU 其中_NN 库仑_NN 作用_VV 在_P 其_PN 动能_NN 佔_AD 优势_VA 地_DEV 位_VV 。_PU
+
+

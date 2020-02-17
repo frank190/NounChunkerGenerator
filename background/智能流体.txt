@@ -1,0 +1,11 @@
+﻿智_NN 能_VV 流体_NN
+
+智能_NN 流体_NN （_PU ）_PU 指_VV 的_DEC 是_VC 用_P 电场_NN 或_CC 磁场_NN 可以_VV 改变_VV 其_PN 流动_NN 性能_NN （_PU 主要_AD 为_VC 粘滞_NN 系数_NN ）_PU 的_DEC 流体_NN 。_PU
+
+智能_NN 流体_NN 分为_VV 二_CD 大类_M ；_PU 电流_NN 变液_NN 和_CC 磁流_NN 变液_NN 。_PU 电流_NN 变液_NN 一般_AD 是_VC 由_P 半导体_NN 颗粒_NN 在_P 介电质_NN 油_NN 中_LC 组成_VV 悬浮液_NN ；_PU 而_CC 磁流_NN 变液_NN 则_AD 是_VC 由_P 磁性_JJ 颗粒_NN 在_P 非_AD 磁性_JJ 油类_NN 中_LC 组成_VV 的_DEC 悬浮液_NN 。_PU 二_CD 种_M 流体_NN 的_DEC 流动_NN 机理_NN 都_AD 是_VC 相同_VA 的_DEC ；_PU 电场_NN 使_VV 电流_NN 变液_NN 内_LC 颗粒_NN 极_AD 化_VC ；_PU 磁场_NN 使_VV 磁流_NN 变液_VV 的_DEC 颗粒_NN 磁_NN 化_LC ，_PU 并_CC 成_VV 线状_NN ，_PU 从而_AD 使_VV 它们_PN 的_DEG 流动性_NN 改变_VV 。_PU 电场_NN 或_CC 磁场_NN 去掉_VV 后_LC ，_PU 它们_PN 的_DEG 性_NN 又_AD 可_VV 复原_VV 。_PU
+
+电流_NN 变液_NN 在_P 电场_NN 作用_NN 下_LC ，_PU 其_PN 粘滞_NN 系数_NN 可_VV 发生_VV 10_CD 级_M 的_DEG 变化_NN ；_PU 例如_AD ；_PU 一_CD 典型_VA 的_DEC 电流_NN 变液_NN ，_PU 在_P 电场_NN 作用_NN 下_LC ；_PU 只要_CS 在_P 毫秒_JJ 的_DEG 晌应_NN 时间_NN 内_LC ，_PU 就_AD 可_VV 变成_VV 凝胶_NN ；_PU 这_DT 种_M 过程_NN 是_VC 可_VV 逆的_VV 。_PU 它_PN 有时_AD 也_AD 称为_VV 温_NOI 斯_DT 洛夫_NN 效应_NN ，_PU 它_PN 是_VC 美国_NR 发明_NN 家威_NN 利斯_VV ·_PU 温斯洛_NN 夫于_VV 1947_CD 年_M 发明_NN 的_SP 。_PU
+
+电流_NN 变液_NN 的_DEC 主要_JJ 用途_NN 为_VC 制造_VV 快速_JJ 液压阀_NN 和_CC 离合器_NN ；_PU 它们_PN 的_DEG 间距_NN 在_P 1mm_CD 左右_NN ；_PU 所_MSP 加_VV 电压_NN 约_AD 为_VC 1KV_NN 。_PU 磁流_NN 变液_NN 在_P 磁场_NN 作用_NN 下_LC ，_PU 它_PN 的_DEG 外观_NN 粘滞_NN 系数_NN 可_VV 一直_AD 变为_VV 粘弹性_JJ 固体_NN ；_PU 改变_VV 磁场_NN 强度_NN ；_PU 可_VV 精确_AD 控制_VV 它_PN 的_DEG 内_JJ 应力_NN 状态_NN ；_PU 可以_VV 传送_VV 力_VV 。_PU 它_PN 的_DEG 主要_AD 应用_VV 在_P 工业_NN 中_LC 制造_VV 各_DT 种_M 阻尼器_NN 和_CC 减震器_NN 。_PU
+
+

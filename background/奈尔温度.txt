@@ -1,0 +1,9 @@
+﻿奈尔_NN 温度_NN
+
+奈尔_NR 温度_NN （_PU ）_PU ，_PU T_NN ，_PU 指_VV 的_DEC 是_VC 反_VV 铁_JJ 磁性_JJ 材料_NN 转变_VV 为_VC 顺磁性_JJ 材料_NN 所_MSP 需要_VV 达到_VV 的_DEC 温度_NN 。_PU 在_P 这_DT 个_M 温度_NN 的_DEC 时候_NN ，_PU 晶体_NN 内部_NN 的_DEG 原子_NN 内_LC 能_VV 会大_VV 到_VV 足以_JJ 破坏_NN 材料_NN 内部_NN 宏观_VV 磁性_NN 排列_VV ，_PU 从而_AD 发生_VV 相_MSP 变_VV ，_PU 由_P 反_VV 铁_JJ 磁性_NN 转变_VV 为_VC 顺磁性_NN 。_PU
+
+奈尔_NR 温度_NN 可_VV 类比_VV 於_P 居_NN -_PU {_NN 里_LC }_PU -_PU 温度_NN T_NN （_PU 相对于_P 铁磁性_NN 而_MSP 言_VV ）_PU 。_PU 它_PN 是_VC 因_P 纪念_NN 1970_CD 年诺_NN 贝尔物_NN 理学_NN 奖得主_NN 、_PU 法国物_NN 理学_NN 者路_NN 易_VA ·_PU 奈尔_NN （_PU 1904_CD 年_M -_PU 2000_CD 年_M ）_PU 而_MSP 得名_VV 。_PU
+
+下_CS 表为_VV 一些_CD 物质_NN 的_DEC 奈尔_NN 温度_NN ：_PU
+
+

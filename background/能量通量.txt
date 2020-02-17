@@ -1,0 +1,6 @@
+﻿能量_NN 通量_NN
+
+能量_NN 通量_NN （_PU ）_PU ，_PU 又_AD 称为_VV 能流_NN ，_PU 为_P 能量_NN 传递_VV 通过_P 一_CD 表面_NN 的_DEC 时变率_NN 。_PU 此_DT 一_CD 物理量_NN 可_VV 有_VE 两_CD 种_M 定义_NN ，_PU 端_NN 看所_VV 在_VV 领域_NN ：_PU
+
+
+

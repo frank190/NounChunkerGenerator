@@ -1,0 +1,25 @@
+﻿分子束_NN 外延_NN
+
+分子束_NN 外延_NN （_PU ）_PU 是_VC 使_VV 单晶_NN 材料_NN 生长_VV 的_DEC 一_CD 种_M 方法_NN ，_PU 由_P 贝尔_NN 实验室_NN 的_DEG J.R_NN ._PU 亚瑟_NN （_PU ）_PU 和_CC 卓以_NN 和_CC （_PU ）_PU 于_P 1960_CD 年代_M 后期_LC 发明_NN 。_PU
+
+分子_NN 束外_NN 延于_VV 高_JJ 真空_NN 或_CC 超高_JJ 真空_NN （_PU ，_PU 10_CD 帕斯卡_M ）_PU 的_DEG 环境_NN 进行_VV 。_PU 分子束_NN 外延_NN 最_AD 重要_VA 的_DEC 方面_NN 是_VC 其_PN 低_JJ 沉积率_NN ，_PU 通常_AD 使_VV 薄膜_NN 以_P 每_DT 小时_NN 低于_VV 3000_CD 纳米_NN 的_DEC 速度_NN 磊晶_NN 生长_NN 。_PU 如此_AD 低_VA 的_DEC 沉积率_NN 要求_NN 真空_NN 程度_NN 足够_VA 高_VA ，_PU 以_P 达到_VV 其他_DT 沉积_NN 方式_NN 同等_AD 级别_VV 的_DEC 洁净_NN 程度_NN 。_PU
+
+在_P 固体源_NN 的_DEC 分子束_NN 外延_NN 过程_NN 中_LC ，_PU 诸如_AD 镓_NN 、_PU 砷_NN 的_DEG 元素_NN ，_PU 会_VV 以_P 超纯_NN （_PU ）_PU 的_DEG 形式_NN 在_P 独立_VV 的_DEC 石英_NN （_PU ）_PU 中_LC 被_SB 加热_VV ，_PU 直_AD 到_P 它们_PN 开始_VV 缓慢_AD 升华_VV 。_PU 然后_AD ，_PU 这些_DT 气态_NN 物质_NN 在_P 晶圆_NN 上_LC 凝结_VV ，_PU 而且_CC 它们_PN 在_P 那里_PN 互相_AD 作用_VV 。_PU 以_P 镓_NN 和_CC 砷_NN 为_VV 例_NN ，_PU 上述_JJ 作用_NN 可以_VV 产生_VV 单晶_NN 砷化镓_NN 。_PU 术语_NN “_PU （_PU 分子_NN ）_PU 束_NN ”_PU 的_DEG 意思_NN 是_VC 过程_NN 中_LC 的_DEG 气体_NN 原子_NN 并_AD 不_AD 产生_VV 相互_AD 作用_VV ，_PU 也_AD 不_AD 与_P 真空室_NN 物质_NN 反应_NN ，_PU 除非_VV 它们_PN 接触_VV 到_VV 晶圆_NN 。_PU 这_PN 是_VC 因为_P 这些_DT 气体_NN 具有_VV 较_AD 长_VA 的_DEC 平均_JJ 自由程_NN 。_PU
+
+外延_NN 过程_NN 中_LC ，_PU 反射_NN 高能_NN 电子_NN 衍射_NN （_PU ，_PU 缩写_VV ：_PU RHEED_NN ）_PU 经常_AD 被_SB 用来_VV 检测_VV 晶体_NN 层次_AD 生长_VV 的_DEC 进程_NN 。_PU 计算机_NN 能够_VV 控制_VV 反应室_NN 前方_NN 的_DEC 一_CD 个_M “_PU 阀门_NN ”_PU ，_PU 从而_AD 实现_VV 对_P 每_DT 个_M 层次_JJ 的_DEG 精确_JJ 控制_NN ，_PU 其_PN 精确度_NN 可以_VV 达到_VV 单_JJ 层_NN 原子_NN 。_PU 不同_JJ 材料_NN 层次_VV 的_DEC 精细_JJ 结构_NN 可以_VV 通过_P 这_DT 种_M 方式_NN 产生_VV 。_PU 此_DT 种_M 控制_NN 方式_NN 可以_VV 把_BA 电子_NN 束缚_NN 在_P 一定_JJ 空间_NN 里_LC ，_PU 产生_VV 量子阱_NN （_PU ）_PU 和_CC 量子点_NN （_PU ）_PU 。_PU 上述_JJ 的_DEG “_PU 层_NN ”_PU 对于_P 很多_CD 现代_JJ 的_DEG 半导体_NN 器件_NN 十_CD 分关键_NN ，_PU 包括_VV 激光_NN 二极管_NN 和_CC 发光_JJ 二极管_NN 。_PU
+
+有_VE 的_DEG 系统_NN 需要_VV 冷却_VV 底层_NN 。_PU 生长室_NN 的_DEG 超高_JJ 真空_NN 环境_NN 必须_VV 使用_VV 一_CD 个_M 低_JJ 温泵_NN （_PU ）_PU 来_MSP 维持_VV ，_PU 而_CC 液氮_NN 或_CC 低_JJ 温氮气_NN 可以_VV 使_VV 内部_NN 温度_NN 冷却_VV 到_VV 77_CD 开_VV 尔文_NN （_PU −_NN 196_CD 摄氏度_NN ）_PU 。_PU 低温_NN 环境_NN 可以_VV 进一步_AD 降低_VV 真空_NN 中_LC 杂质_VV 的_DEC 含量_NN ，_PU 为_VC 沉积_JJ 薄膜_NN 提供_VV 更_AD 好_VA 的_DEC 条件_NN 。_PU 在_P 其他_DT 系统_NN 里_LC ，_PU 晶体_NN 生长_VV 的_DEC 晶圆_NN 可能_VV 会_VV 被_SB 安装_VV 在_P 一_CD 个_M 旋转_VV 的_DEC 圆盘_NN 上_LC ，_PU 这_DT 个_M 圆盘_NN 可以_VV 被_SB 加热_VV 到_VV 几_DT 百_CD 摄氏度_NN 。_PU
+
+分子束_NN 外延_NN 也_AD 曾_AD 被_SB 用于_VV 某些_DT 种类_NN 有机_JJ 半导体_NN （_PU ）_PU 的_DEG 沉积_NN 过程_NN 。_PU 在_P 上述_JJ 的_DEG 情况_NN 中_LC ，_PU 被_SB 气化_VV 、_PU 然后_AD 在_P 晶圆_NN 沉积_VV 的_DEC 是_VC 材料_NN 的_DEC 有机_JJ 分子_NN 而非_CC 原子_NN 。_PU 其他_DT 的_DEG 分支_NN 还_AD 包括_VV 气态_NN 源分子_NN 束_NN 外延_NN （_PU ）_PU ，_PU 这_DT 一_CD 方式_NN 与_CC 化学_NN 气相_NN 沉积_NN （_PU ）_PU 类似_VA 。_PU
+
+最_AD 新_VA 的_DEC 分子束_NN 外延_NN 技术_NN 还_AD 在_P 新型_JJ 电子_NN 器件_NN 制造_NN 、_PU 电磁_NN 应用_NN 、_PU 光学_NN 应用_NN 等_ETC 领域_NN 中_LC ，_PU 被_SB 用于_VV 氧化物_NN 材料_NN 的_DEG 沉积_NN 。_PU 为了_P 实现_VV 这些_DT 目的_NN ，_PU 分子束_NN 外延_NN 系统_NN 必须_VV 进行_VV 改进_NN ，_PU 从而_AD 能够_VV 与_P 氧源协_NN 同_DT 作用_NN 。_PU
+
+ATG_NN 不_AD 稳定_VA 性_DEV ，_PU 全称_AD 阿萨_NR 罗_ETC -_PU 蒂勒_NN -_PU 格林菲_NN 尔_VV 德_NN 不_AD 稳定_VA 性_NN （_PU ）_PU ，_PU 或_CC 简称_VV 为_VC 格林菲_NN 尔_VV 德_NN 不_AD 稳定_VA 性_NN ，_PU 是_VC 分子束_NN 外延_NN 过程_NN 中_LC 经常_AD 遇到_VV 的_DEC 一_CD 种_M 弹性_NN 不_AD 稳定_VA 状况_NN 。_PU 假设_VV 生长_VV 的_DEC 薄膜_NN 和_CC 支撑_NN 晶体_NN 的_DEC 晶格_NN 尺寸_NN 错位_VV （_PU ）_PU ，_PU 弹性_JJ 能量_NN 将_AD 会_VV 在_P 生长_VV 的_DEC 薄膜_NN 上_LC 积累_VV 。_PU 当_P 其_PN 达到_VV 一定_JJ 的_DEG 转折量_NN 时_LC ，_PU 薄膜_NN 可以_VV 通过_P 分裂_NN 为_VC 几_CD 个_M 孤立块_NN 的_DEG 方式_NN ，_PU 使_VV 自由_P 能量_VV 的_DEC 数值_NN 降低_VV ，_PU 这样_AD 积累_VV 的_DEC 张力_NN 就_AD 可以_VV 得以_VV 释放_VV 。_PU 上述_JJ 的_DEG “_PU 转折量_NN ”_PU 的_DEG 数值_NN 取决于_VV 材料_NN 的_DEG 杨氏_NN 模量_NN （_PU ）_PU 、_PU 错位_NN 的_DEG 尺寸_NN 以及_CC 表面_NN 张力_NN 。_PU
+
+已经_AD 有_VE 不_AD 少关于_VV ATG_NN 不_AD 稳定_VA 性_NN 在_P 应用_NN 方面_NN 的_DEC 研究_NN 正_AD 在_P 进行_VV ，_PU 例如_AD 量子点_NN 的_DEC 自组装_NN （_PU ）_PU 。_PU
+
+
+
+
+
+

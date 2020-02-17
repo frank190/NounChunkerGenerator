@@ -1,0 +1,10 @@
+﻿算子_NN 积_VV 展开_NN
+
+算子_NN 积_VV 展开_JJ （_PU OperatorPr_JJ oductExpansion_NR ,_PU "_PU OPE_NN "_PU ）_PU 是_VC 共形_JJ 场论_NN 的_DEC 一_CD 种_M 工具_NN ，_PU 用来_VV 计算_VV 局部_NN 算子_NN 的_DEC 积_NN （_PU 当_P 其中_NN 两_CD 个_M 局部_NN 算子_NN ，_PU localoperators_NN ，_PU 靠近_VV ）_PU 的_DEC 期望值_NN 。_PU
+
+在_P 两_CD 维_M 共型_JJ 场论_NN ，_PU 算子_NN 积_VV 展开_VV 的_DEC 原则_NN 是_VC ，_PU 两_CD 支_M 局部_NN 算子_NN
+formula_NN __NN 1_CD ，_PU 若_CS formula_NN
+
+
+
+

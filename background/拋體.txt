@@ -1,0 +1,19 @@
+﻿拋体_NN
+
+拋体_NN （_PU Projectile_NN ）_PU ，_PU 也称_JJ 抛射物_NN ，_PU 是_VC 指_VV 任何_DT 被_SB 外力_VV 推进_VV 拋射_VV 到_VV 空间_NN 中_LC 飞行_VV 的_DEC 物体_NN 。_PU 虽然_CS 被_SB 投扔_VV 的_DEC 球_NN 可_VV 视为_VV 一_CD 种_M 拋体_NN ，_PU 不过_AD 在_P 武器_VV 弹道学_NN 中_LC ，_PU 拋体_NN 更常_AD 被_SB 提到_VV 。_PU 在_P 下面_NN 可_VV 接续_VV 看到_VV 拋体_NN 运动_VV 的_DEC 轨迹_NN 方程式_NN 。_PU
+
+除了_P 用_P 手_NN 投掷_VV 的_DEC 飞镖_NN 、_PU 标枪_NN 等_ETC 类似_JJ 武器_NN 之外_LC ，_PU 弓箭_NN 、_PU 弩_NN 、_PU 弹弓_NN 、_PU 投石器_NN 、_PU 弩炮_NN 等_ETC 都_AD 是_VC 利用_VV 机械_NN 工具_NN 的_DEG 应力_NN 来_MSP 发射_VV 。_PU 另外_AD 也_AD 有_VE 用_P 压缩_JJ 气体_NN 来_MSP 当作_VV 物体_NN 的_DEC 动力_NN ，_PU 比如_AD 吹箭_NN 和_CC 气枪_NN 。_PU 然而_AD 大_VA 多数_CD 的_DEG 枪械_NN 都_AD 是_VC 利用_VV 化学_NN 反应_NN 来_MSP 产生_VV 大量_CD 气体_NN 推进_VV ，_PU Lightgasguns_NN 就_AD 是_VC 属于_VV 此_DT 类型_NN 。_PU 在_P 军事_NN 方面_NN ，_PU 有些_DT 拋射物_NN 的_DEG 飞行_NN 是_VC 利用_VV 喷射_NN 引擎_NN 或是_CC 火箭_NN 引擎_NN 。_PU
+
+在_P 综_NN 多_VV 拋体_NN 中_LC ，_PU 以_P 砲弹_NN 为_VV 例_NN ，_PU 物体_NN 内_LC 带有_VV 火药_NN 或者_CC 是_VC 其他_DT （_PU 例如_AD :_PU 毒气_NN ）_PU 可_VV 被_SB 设计_VV 造成_VV 特別_NN 损害_VV 的_DEC 物体_NN 。_PU
+
+不_AD 含_VV 爆炸性_NN 炸药_NN 的_DEG 拋体_NN 称为_VV 运动_JJ 拋体_NN 、_PU 拋体_NN 武器_VV 、_PU 拋体_NN 弹头_NN 、_PU 拋体_NN 穿透_VV 。_PU 而_CC 古典_VV 的_DEC 拋体_NN 武器_VV 、_PU 弹头_NN 通常_AD 都_AD 是_VC 钝_VA 的_DEC ，_PU 像_AD 是_VC 石头_NN 、_PU 类似_JJ 圆形_NN 的_DEC 武器_NN ，_PU 像_P 弓箭_NN 或者_CC 是_VC 弹头_NN 。_PU 其中_NN 拋射体_NN 中_LC 不_AD 含有_VV 炸药_NN 的_SP ，_PU 如_P 发射轨_NN 道弹_NN 、_PU 螺旋子_NN 弹_NN 、_PU 重量_NN 螺_NN 旋弹_VV 以及_CC 动能_AD 穿甲弹_VV 。_PU 这些_DT 武器_NN 利用_VV 他们_PN 高_JJ 初速_JJ 的_DEG 特性_NN ，_PU 且_CC 利用_VV 旋转_NN 来_MSP 将_BA 他们_PN 的_DEG 动能_NN 转换_VV 成_VV 更具_NN 破坏性_NN 的_DEC 冲击波_NN 和_CC 热量_NN 。_PU 一_CD 些武器_NN 瞄準_VV 的_DEC 对象_NN 为_VC 在_P 太空_NN 中_LC 飞行_VV 的_DEC 反卫_NN 星武器_NN 和_CC 反导_JJ 弹武器_NN 。_PU 因为_P 他们_PN 有_VE 很_AD 高_VA 的_DEC 初速度_NN ，_PU 所以_AD 他们_PN 可以_VV 单纯_VV 的_DEC 利_NN 用_P 释_NN 放动_VV 能_VV 来_MSP 达到_VV 摧毁_VV 目标_NN 的_DEC 目的_NN ，_PU 所以_AD 爆炸物_NN 是_VC 不_AD 需要_VV 的_DEC 。_PU 比较起_VV TNT_NR 炸药_NN 所_MSP 造成_VV 的_DEC 能量_NN ，_PU 4_CD ._PU 6百万_CD 焦耳_NN /_PU 千_CD 克_M ，_PU 如果_CS 能源_NN 动能_VV 拦截器_NN 的_DEG 关闭_JJ 速度_NN 是_VC 10_CD km/s_M ，_PU 则_AD 能量_NN 为_VC 50百万_CD 焦耳_NN /_PU 千_CD 克_M 。_PU
+
+这_PN 可以_VV 省去_VV 昂贵_VA 的_DEC 重量_NN ，_PU 也_CC 可以_VV 去除_VV 时间_NN 的_DEC 準确性_NN 。_PU 这_DT 种_M 方法_NN 很_AD 好_VA ，_PU 但_AD 是_VC 重点_NN 是_VC 要_VV 接触_VV 到_VV 目标_NN ，_PU 所以_AD 需要_VV 一_CD 个_M 更_AD 精确_VA 的_DEC 轨迹_NN 。_PU 关于_P 反导_VV 弹武器_NN ，_PU 箭式_JJ 导弹_NN 和_CC MIM_NN -_PU 104_CD 爱国者_NN 飞弹_VV 有_VE 爆炸性_NN ，_PU 但是_AD 动能_VV 拦截器_NN (_PU KEI_NN )_PU 和_CC 轻型_JJ 外_JJ 大气层_NN 飞弹_VV (_PU RIM_NN -_PU 161_CD 标準_NN 导弹_VV 三_CD 型_M )_PU ，_PU 以及_CC THAAD_NN 则_AD 无_VE 爆炸性_NN 。_PU 另外_AD 还_AD 有_VE 超高_JJ 速终端_NN 弹道_NN 、_PU （_PU EKV_NN ）_PU 。_PU
+
+动能_AD 飞弹_VV 也_AD 能_VV 由_P 飞行器_NN 所_MSP 击落_VV ，_PU 例如_AD 经由_P 具体_VA 的_DEC 击中_NN 目标_NN ，_PU 由_P 更_AD 精_AD 準解_VV 附带_NN 伤害_NN 较_AD 少_VA 的_DEC 方式_NN ，_PU 可以_VV 应用于_VV 取代_VV 炸药_VV 的_DEC 常规_NN 飞弹_VV 。_PU 一_CD 个_M 典型_VA 的_DEC 炸弹_VV 有_VE 质量_NN 为_VC 900_CD 公斤_NN ，_PU 冲击_NN 速度_NN 800_CD 公里_NN /_PU 小时_NN （_PU 220_CD 米/秒_M ）_PU 。_PU 也_AD 可以_VV 用来_VV 试着_VV 用_VV 爆炸_NN 的_DEC 方式_NN 让_VV 炸弹_VV 下落_VV 。_PU 该_DT 方法_NN 已_AD 用于_VV 伊拉克_NN 自由_AD 行动_VV 以及_CC 随后_VV 的_DEC 军事_NN 行动_VV 在_P 伊拉克_NN 融合_VV 钢管_NN 混凝土_NN 培训_VV 炸弹_VV ，_PU 联合_VV 直接_AD 攻击_VV 弹药_NN 全球_AD 定位_VV 系统_NN 制导_NN 部件_NN ，_PU 攻击_NN 车辆_NN 和_CC 其他_DT 相对_P “_PU 软目标_NN ”_PU 过於_AD 靠近_VV 平民_NN 结构_NN ，_PU 使用_VV 常规_JJ 高_JJ 爆弹_NN 等_ETC 。_PU 一_CD 颗_M 动力_NN 炸弹_NN 也_AD 可能_VV 包含_VV 由_P 地球_NN 轨道_NN 所_MSP 落下_VV 的_DEC 拋体_NN 。_PU 在_P 科幻_NN 小说_NN 中_LC 常_AD 出现_VV 的_DEC 光_NN 速武器_NN 可以_VV 称为_VV RKV_NN 。_PU
+
+
+
+
+
+

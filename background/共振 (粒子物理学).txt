@@ -1,0 +1,7 @@
+﻿共振_NN (_PU 粒子物_NN 理学_NN )_PU
+
+在_P 粒子物_NN 理学_NN 中_LC ，_PU 共_AD 振_CD 是_VC 位于_VV 周围_NN 某些_AD 发现_VV 了_AS 一定_JJ 的_DEG 能量_NN 峰值_NN 微_JJ 分截面_NN 的_DEG 散射_NN 实验_NN 。_PU 这些_DT 峰值_NN 是_VC 与_P 亚原子_NN 粒子_NN （_PU 例如_AD 核子_NN ，_PU delta_NN 粒子_NN ，_PU 埃普西_NN 隆介子_NN ）_PU 以及_CC 他们_PN 激发_VV 态_NN 。_PU 该_DT 共_CD 振_NN 的_DEG 宽度_NN （_PU "_PU Γ_NN "_PU ）_PU 是_VC 相关_JJ 的_DEG 寿命_NN （_PU "_PU τ_OD "_PU 粒子_NN ）_PU （_PU 或_CC 它_PN 的_DEG 激_JJ 发态_NN ）_PU 的_DEG 关系_NN
+formula_NN
+
+
+

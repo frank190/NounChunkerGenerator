@@ -1,0 +1,11 @@
+﻿_NN 安全_AD 工作_VV 区_NN
+
+安全_AD 工作区_NN （_PU ）_PU ，_PU 是_VC 指_VV 功率_NN 半导体_NN 器件_NN （_PU 例如_AD 双极性_JJ 晶体管_NN 、_PU 场效_NN 应管_VV 、_PU 晶闸管_NN 以及_CC 绝缘_JJ 栅双_NN 极晶_NN 体管_NN ）_PU 能够_VV 按照_VV 预期_NN 正常_AD 工作_VV 而_CC 不_AD 会_VV 造成_VV 损坏_VV 时_LC 的_DEG 电压_NN 电流_NN 等_ETC 条件_NN 的_DEG 范围_NN 。_PU
+
+在_P 半导体_NN 器件_NN 产品_NN 的_DEG 手册_NN 或_CC datasheet_NN 里_LC ，_PU 安全工_NN 作_VV 区_NN 通常_AD 以_P 图像_NN 的_DEG 形式_NN 标明_NN ，_PU 以_P 电晶体_NN 为_VV 例_NN ，_PU 安全工_NN 作_VV 区_NN 标示_VV 图_NN 的_DEG 横坐标_NN 是_VC V_NN （_PU 集电极_NN -_PU 发射_NN 极_CC 电压_NN ）_PU 、_PU 纵坐标_NN 是_VC I_NN （_PU 集电极_NN -_PU 发射_NN 极_CC 电流_NN ）_PU ，_PU 而_CC 安全_AD 工作区_NN 的_DEG 范围_NN 即_AD 为_VC 图_NN 中_LC 曲线_NN 与_CC 坐标轴_NN 所_MSP 包围_VV 的_DEC 区域_NN 。_PU 这_DT 一_CD 边界_NN 曲线_NN 中_LC 结合_VV 了_AS 器件_NN 的_DEG 以下_JJ 各_DT 项_M 工作_NN 限制_NN ：_PU 最_AD 大_JJ 电压_NN 、_PU 最_AD 大_JJ 电流_NN 、_PU 与_CC 最_AD 大_JJ 耗散_NN 电功率_NN ，_PU 而_CC 这些_DT 限制_NN 中_LC 也_AD 包含_VV 了_AS 对_P -_PU {zh_NN -_PU cn_NN :_PU 结_NN ;_PU zh_NN -_PU tw_NN :_PU 接面_NN }_PU -_PU 的_DEG 温度_NN 、_PU 内部_NN 热阻_VA 、_PU 晶粒_NN 焊线_NN 的_DEC 载流_NN 能力_NN 和_CC 二_CD 次_M 击穿_VV 这_DT 几_CD 项_M 因素_VA 的_DEC 考虑_VV 。_PU
+
+除了_P 可_VV 依照_AD 连续_AD 工作_VV 条件_NN 画出_VV 安全_NN 区域_NN 之外_LC ，_PU 也_AD 可以_VV 另_DT 针_M 对脉波_NN （_PU 例如_AD ：_PU 1mS_NN 或_CC 10_CD mS_M ）_PU 的_DEG 瞬间_NN 工作_NN 条件_NN 作出_VV 脉波_NN 下_LC 的_DEG 安全工_NN 作_VV 区域_NN 。_PU
+
+
+
+

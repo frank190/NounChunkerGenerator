@@ -1,0 +1,56 @@
+﻿率_NN 失真理_NN 论_NN
+
+-_PU {zh_NN -_PU tw_NN :_PU 资料_NN ;_PU zh_NN -_PU hk_NN :_PU 数据_NN ;_PU zh_NN -_PU cn_NN :_PU 数据_NN ;_PU }_NN -_PU 率失_NN 真_AD 理论_VA （_PU Ratedistortiontheory_NN ）_PU 或_CC 称_VV 信息率_NN -_PU 失真_AD 理论_VA （_PU informationrate_NN -_PU distortiontheory_NN ）_PU 是_VC 信息论_NN 的_DEC 主要_JJ 分支_NN ，_PU 其_PN 的_DEG 基本_JJ 问题_NN 可以_VV 归结_VV 如下_VV ：_PU 对于_P 一_CD 个_M 给定_VV 的_DEC 信源_NN （_PU source_NN ,_PU inputsignal_NN ）_PU 分布_VV 与_P 失真_NN 度量_NN ，_PU 在_P 特定_JJ 的_DEG 码率_NN 下_LC 能_VV 达到_VV 的_DEC 最_AD 小_JJ 期望_NN 失真_VV ；_PU 或者_CC 为了_P 满足_VV 一定_JJ 的_DEG 失真_JJ 限制_NN ，_PU 可_VV 允许_VV 的_DEC 最_AD 大码_NN 率为_VV 何_DT ，_PU D_NN 定义_VV 为_VC 失真_VA 的_DEC 符号_NN 。_PU
+
+要_VV 完全_AD 避免_VV 失真几乎_AD 不_AD 可能_VV 。_PU 处理_NN 信号_NN 时_LC 必须_VV 允许_VV 有_VE 限度_NN 的_DEC 失真﹐_NN 可_VV 减小_VV 所_MSP 必需_VV 的_DEC 信息率_NN 。_PU 1959_CD 年﹐_NN ClaudeShannon_NN 首先_AD 发表_VV 《_PU 逼真度_NN 準_NN 则_AD 下_VA 的_DEC 离散_NN 信源_NN 编码_NN 定理_NN 》_PU 一_CD 文_NN ，_PU 提出_VV 了_AS 率失_VV 真_AD 函数_NN 的_DEG 概念_NN 。_PU
+
+失真_VV 函数_NN 能量化_NN 输入_VV 与_CC 输出_VV 的_DEC 差异_NN ，_PU 以便_AD 进行_VV 数学_NN 分析_NN 。_PU 令_VV 输入_NN 信号_NN 为_VC formula_NN __NN 1_CD ，_PU 输出_NN 信号_NN 为_VC formula_NN __NN 2_CD ，_PU 定义_VV 失真_NN 函数_NN 为_VC formula_NN
+
+formula_NN
+
+汉明_NN 失真_NN 函数_NN 能_VV 描述_VV 错误率_NN ，_PU 定义_VV 为_VC ：_PU
+
+formula_NN
+
+对_P 汉明_NN 失真_NN 函数_NN 取期_NN 望值_NN 即_AD 为_VC 传输_VV 错_JJ 误率_NN 。_PU
+
+最常_AD 用于_VV 量测_VV 连续_JJ 字符_NN 传输_VV 的_DEC 失真_NN ，_PU 定义_VV 为_VC ：_PU
+
+formula_NN
+
+平方_NN 误差_AD 失真_VV 函数_NN 不_AD 适用于_VV 语音_NN 或_CC 影像_NN 方面_NN ，_PU 因为_P 人类_NN 感官_NN 对于_P 语音_NN 或_CC 影像_VV 的_DEC 平方_NN 误差_AD 失真_VV 并_AD 不_AD 敏感_VA 。_PU
+
+下列_NN 是_VC 率_VV 与_P 失真_NN （_PU rateanddistortion_NN ）_PU 的_DEG 最_AD 小_JJ 化关_NN 系_NN 函数_NN :_PU
+
+这里_PN "_PU Q_NN "_PU (_NN "_PU y_NN "_PU |_NN "_PU x_NN "_PU )_NN ,_PU 有时_AD 被_SB 称为_VV 一_CD 个_M 测试_VV 频道_NN （_PU testchannel_NN ）_PU ,_PU 系_VC 一_CD 种_M 条件_NN 机率_NN 之_DEG 机率_NN 密度_NN 函数_NN (_PU PDF)_NN ，_PU 其中_NN 频道_NN 输出_NN (_PU compressedsignal_NN )_NN "_PU Y_NN "_PU 相对于_P 来源_NN (_PU originalsignal_NN )_NN "_PU X_NN "_PU ,_PU 以及_CC "_PU I_NN "_PU ("Y";"X")_PU 是_VC 一_CD 种_M 互_AD 信息_NN （_PU MutualInformation_NN ）_PU ，_PU 在_P "_PU Y_NN "_PU 与_CC "_PU X_NN "_PU 之间_LC 被_SB 定义_VV 为_VC
+
+此_DT 处_NN 的_DEG "_PU H_CD "_PU ("Y")与"H"("Y"|"X")_PU 是_VC 指_VV 信宿_NN （_PU outputsignal_NN ）_PU "_PU Y_OD "_PU 的_DEG 熵_NN （_PU entropy_NN ）_PU 以及_CC 基_NN 於_P 信源_NN （_PU sourcesignal_NN ）_PU 和_CC 信宿_NN （_PU outputsignal_NN ）_PU 相关_VV 的_DEC 条件熵_NN （_PU conditionalentropy_NN ）_PU ,_PU 分別_NN 为_VC :_PU
+
+这_DT 一_CD 样_M 来_MSP 便_AD 可_VV 推导_VV 出率_NN 失真_VA 的_DEC 公式_NN ,_PU 相关_JJ 表示_VV 如_P 下_NN :_PU
+
+这_DT 两_CD 个_M 公式_NN 之间_LC 互为_AD 可_VV 逆推_VV 。_PU
+如果_CS 我们_PN 假设_VV "_PU P_NN "_PU ("x")_PU 是_VC 常态_JJ 分配_NN 并_CC 取_VV 方差σ_NN ,_PU 并且_CC 假设_VV 讯号_NN "_PU X_NN "_PU 是_VC 连续_AD 统计_VV 独立性_JJ (_NN 或_CC 等同于_VV 来源_AD 无_VE 记忆_NN 或_CC 讯号_NN 不_AD 相关_VV )_PU ,_PU 我们_PN 可以_VV 发现_VV 下列_NN 的_DEG 率失_NN 真公式_JJ 之_DEG 「_PU 公式解_NN 」_PU （_PU analyticalexpression_NN ）_PU :_PU
+
+下图_NN 是_VC 本_DT 公式_NN 的_DEC 几何_JJ 面貌_NN :_PU
+
+率失_VV 真理_NN 论告_NN 诉我们_NN “_PU 没有_VE 压缩_NN 系统_NN 存在_VV 于_P 灰色_NN 区块_NN 之外_LC ”_PU 。_PU 可以_VV 说越_AD 是_VC 接近_VV 红色_JJ 边界_NN ，_PU 执行_VV 效率_NN 越_AD 好_VA 。_PU 一般而言_AD ，_PU 想要_VV 接近_VV 边界_NN 就_AD 必须_VV 透过_AD 增加_VV 码块_NN （_PU codingblock）_PU 的_DEG 长度_NN 参数_NN 。_PU 然而_AD ，_PU 块长度_NN （_PU blocklengths_NN ）_PU 的_DEC 取得_VV 则_AD 来自_VV 率_VV 失真_JJ 公式_NN 的_DEC 量化_NN （_PU quantizers_NN ）_PU 有关_VV 。_PU
+
+这样_PN 的_DEG 率失_NN 真理论_NN （_PU rate_NN –distortionfunction_PU ）_PU 仅_AD 适用于_VV 高_VA 斯_DT 无_VE 记忆_NN 信源_NN （_PU G_CD aussianmemorylesssources_M ）_PU 。_PU
+
+伯努利_NN 信号源_NN formula_NN __NN 13_CD ，_PU formula_NN
+
+formula_NN
+
+平行_JJ 高斯_NN 信号源_NN 的_DEG 率失_NN 真_AD 函数_NN 为_VC 一经_CD 典的反_JJ 注水_NN 算法_NN (_PU Reversewater-fillingalgorithm)_PU ，_PU 我们_PN 可以_VV 找出_VV 一_CD 阈值_NN formula_NN __NN 16_CD ，_PU 只_AD 有_VE 方差_NN 大于_VV formula_NN
+
+我们_PN 可以_VV 使用_VV 平方_NN 误差_AD 失真_VV 函数_NN ，_PU 计算_VV 平行_JJ 高斯_JJ 信号_NN 源_NN 的_DEG 率失_NN 真_AD 函数_NN 。_PU 注意_VV ，_PU 此_DT 处_NN 信号_NN 源_NN 不_AD 一定_JJ 同_NN 分布_VV ：_PU
+
+formula_NN __NN 18_CD 且_CC formula_NN
+
+formula_NN
+
+其中_NN ，_PU
+
+<_PU math_NN >_PU D_NN =_NOI \_PU begin_NN {_PU cases_NN }_PU \_PU lambda_NN ,_PU &_NN \_PU text{_NN if_NN }_PU {_NN \_PU lambda_NN }_PU <_PU
+
+

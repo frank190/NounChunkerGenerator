@@ -1,0 +1,14 @@
+﻿_CS 滑动_VV 摩擦_NN
+
+滑动_VV 摩擦_NN 是_VC 摩擦_VV 的_DEC 一_CD 种_M ，_PU 指_VV 的_DEC 是_VC 一_CD 个_M 物体_NN 在_P 另_DT 一_CD 个_M 物体_NN 表面_NN 上_LC 发生_VV 相对于_P 另_DT 一_CD 个_M 物体_NN 滑动_VV 运动_NN 的_DEC 时候_NN ，_PU 要_VV 受到_VV 另_DT 一_CD 个_M 物体_NN 阻碍_VV 它_PN 相对_AD 滑动_VV 的_DEC 力_NN ，_PU 这_DT 种_M 力_NN 就_AD 叫做_VV 滑动_VV 摩擦力_NN 。_PU 滑动_VV 摩擦力_NN 的_DEG 方向_NN 总和_AD 接触面_NN 相_AD 切_VA ，_PU 并_CC 和_P 物体_NN 的_DEG 相对_JJ 运动_NN 相反_VA 。_PU
+
+
+滑动_VV 摩擦_NN 力点_NN 大小跟正_AD 向_P 力成_VV 正比_VA ，_PU 就_AD 是_VC 跟_P 一_CD 个_M 物体_NN 对_P 另_DT 一_CD 个_M 物体_NN 表面_NN 的_DEC 垂直_JJ 作用力_NN 成_VV 正比_NN 。_PU 滑动_VV 摩擦力_NN 的_DEG 计算_NN 公式_NN 为_VC
+
+formula_NN
+
+其中_NN F_NN 等于_VV 滑动_VV 摩擦力_NN ，_PU μ_NN 为_VC 动_NN 摩擦_NN 系数_NN ，_PU F_CD 为_VC 正向力_NN 。_PU
+
+
+
+

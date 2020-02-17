@@ -1,0 +1,122 @@
+﻿希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN
+
+希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN （_PU Hilbert_NN -_PU HuangTransform_NN ）_PU ，_PU 由_P 台湾_NN 中央_NN 研究_NN 院院_NN 士黄锷_NN （_PU N_CD ordenE_M ._PU Huang_NN ）_PU 等人_AD 提出_VV ，_PU 将_BA 欲分_NN 析_VV 数据_NN 分解_VV 为_VC 本质_NN 模态_NN 函数_NN （_PU intrinsicmodefunctions,_PU IMF_NN ）_PU ，_PU 这样_JJ 的_DEG 分解_NN 流程_NN 称为_VV 经验_NN 模态_NN 分解_NN (_PU EmpiricalModeDecomposition_NN ,_PU EMD)_NN 的_DEC 方法_NN 。_PU 然后_AD 将_BA IMF_NN 作_VV 希尔_NN 伯_NN 特_NN 转换_NN (_PU HilbertTransform_NN )_PU ，_PU 正确_VA 地_DEV 获得_VV 资料_NN 的_DEC 瞬_NN 时_LC 频率_NN 。_PU 此_DT 方法_NN 处理_VV 对象_NN 乃_VC 针对_P 非_AD 稳_JJ 态_NN 与_CC 非_JJ 线性_JJ 讯号_NN 。_PU 与_P 其他_DT 数学_NN 转换_NN 运算_NN （_PU 如_P 傅立叶_NN 变换_NN ）_PU 不同_VA ，_PU 希尔_NN 伯特_NN -_PU 黄转_JJ 换算_NN 是_VC 一_CD 种_M 应用_VV 在_P 数据_NN 资料_NN 上_LC 的_DEG 演算法_NN ，_PU 而_AD 非理论_AD 工具_NN 。_PU
+
+任何_DT 一_CD 个_M 资料_NN ，_PU 满足_VV 下列_JJ 两_CD 个_M 条件_NN 即_AD 可_VV 称作_VV 本质_NN 模态_NN 函数_NN 。_PU
+⒈局部_NN 极大值_NN (_PU localmaxima_NN )_PU 以及_CC 局部_NN 极_CC 小值_NN (_PU localminima_NN )_PU 的_DEG 数目_NN 之_DEG 和_CC 必须_VV 与_P 零_CD 交越_NN 点_NN (_PU zerocrossing_NN )_PU 的_DEG 数目_NN 相_NN 等_ETC 或是_CC 最多_AD 只_AD 能_VV 差_VA 1_CD ，_PU 也就是说_AD 一_CD 个_M 极_AD 值_VV 后面_LC 必需_VV 马_NN 上_LC 接_VV 一_CD 个_M 零_CD 交越_NN 点_NN 。_PU
+
+⒉_AD 在_P 任何_DT 时间_NN 点_NN ，_PU 局部_NN 最_AD 大_VA 值_VV 所_MSP 定义_VV 的_DEC 上_NN 包络_VV 线_NN (_PU upperenvelope_NN )_PU 与_P 局部_NN 极_AD 小_VA 值_NN 所_MSP 定义_VV 的_DEC 下_NN 包络_VV 线_NN ，_PU 取_VV 平均_AD 要_VV 接近_VV 为_VC 零_CD 。_PU
+因此_AD ，_PU 一_CD 个_M 函数_NN 若_CS 属于_VV IMF_NN ，_PU 代表_VV 其_PN 波形_JJ 局部_NN 对_P 称於_VV 零_CD 平均值_M 。_PU 此_DT 类_M 函数_NN 类似_NN 於_P 弦波_NN （_PU sinusoid_NN -_PU like_NN ）_PU ，_PU 但是_CC 这些_DT 类似_NN 於_P 弦波_VV 的_DEC 部分_CD 其_PN 周期_NN 与_CC 振幅_NN 可以_VV 不_AD 是_VC 固定_VV 。_PU 因为_P ，_PU 可以_VV 直接_AD 使用_VV 希尔_VV 伯_NN 特_NN 转换_NN ，_PU 求得_VV 有_VE 意义_NN 的_DEC 瞬_NN 时_LC 频率_NN 。_PU
+
+建立_VV IMF_NN 是_VC 为了_P 满足_VV 希尔_VV 伯_NN 特_NN 转换_NN 对于_P 瞬_NN 时_LC 频率_NN 的_DEG 限制_NN 条件_NN 之_DEC 前置_NN 处理_VV ，_PU 也_AD 是_VC 一_CD 种_M 转换_NN 的_DEC 过程_NN 。_PU 我们_PN 将_BA IMF_NN 来_MSP 做希_VV 尔伯_JJ 特_NN 转换_NN 可以_VV 得到_VV 较_AD 良好_VA 的_DEC 特性_NN ，_PU 不_AD 幸_VV 的_DEC 是_VC 大_JJ 部分_NN 的_DEC 资料_NN 并_AD 不_AD 是_VC IMF_NN ，_PU 而_CC 是_VC 由_P 许多_CD 弦波_NN 所_MSP 合成_VV 的_DEC 一_CD 个_M 组合_NN 。_PU 如_P 此_DT 一_CD 来_M ，_PU 希尔_NN 伯_NN 特_AD 转换_VV 并_CC 不_AD 能_VV 得到_VV 正确_VA 的_DEC 瞬_NN 时_LC 频率_NN ，_PU 我们_PN 便_AD 无法_AD 準确_VV 的_DEC 分析_NN 资料_NN 。_PU 为了_P 解决_VV 非_JJ 线性_JJ （_PU non_NN -_PU linear_NN ）_PU 与_CC 非_AD 稳态_JJ （_PU non_NN -_PU stationary_NN ）_PU 资料_NN 在_P 分解_VV 成_VV IMF_NN 时_LC 所_MSP 遇到_VV 的_DEC 困难_NN ，_PU 便_AD 发展出_VV EMD_NN 。_PU
+
+经验_NN 模态_NN 分解_VV 是_VC 将_BA 讯号_NN 分解_VV 成_VV IMF_NN 的_DEG 组合_NN 。_PU 经验_NN 模态_NN 分解_VV 是_VC 借着_P 不断_AD 重覆_VV 的_DEC 筛选_NN 程序_NN 来_MSP 逐步_AD 找出_VV IMF_NN 。_PU
+以_P 讯号_NN formula_NN
+步骤_NN 1_CD :_PU 找出_VV formulaspline_NN )_PU ，_PU 分別_NN 将_BA 局部_NN 极_AD 大值串_AD 连成_VV 上_LC 包络线_NN 与_P 局部_NN 极_AD 小_VA 值_DEV 串连_VV 成_VV 下_NN 包络_VV 线_NN 。_PU
+步骤_NN 2_CD :_PU 求出_VV 上_JJ 下_JJ 包络线_NN 之_DEG 平均_NN ，_PU 得到_VV 均值_JJ 包络线_NN formula_NN
+步骤_NN 3_CD :_PU 原始_JJ 信号_NN formula_NN __NN 1_CD 与_CC 均值_CD 包络线_NN 相减_VV ，_PU 得到_VV 第一_OD 个_M 分量_NN formula_NN
+步骤_NN 4_CD :_PU 检查_VV formula_NN __NN 5_CD 是_VC 否_AD 符合_VV IMF_NN 的_DEC 条件_NN 。_PU 如果_CS 不_AD 符合_VV ，_PU 则_AD 回到_VV 步骤_NN 1_CD 并且_CC 将_BA formula_NN
+重复_JJ 筛选_NN formula_NN
+直到_VV formula_NN __NN 12_CD 符合_VV IMF_NN 的_DEC 条件_NN ，_PU 即_AD 得到_VV 第一_OD 个_M IMF_NN 分量_NN formula_NN
+步骤_NN 5_CD :_PU 原始_JJ 讯号_NN formula_NN __NN 1_CD 减去_VV formula_NN __NN 13_CD 可_VV 得到_VV 剩余量_NN formula_NN
+步骤_NN 6_CD :_PU 将_BA formula_NN __NN 17_CD 当_P 作新_VV 的_DEC 资料_NN ，_PU 重新_AD 执行_VV 步骤_NN 1_CD 至_VV 步骤_NN 5_CD ，_PU 得到_VV 新_VA 的_DEC 剩余量_NN formula_NN __NN 20_CD 。_PU 如此_AD 重复_VV formula_NN
+formula_NN
+formula_NN
+formula_NN
+当_P 第f_OD ormula_2_JJ 1_CD 个_M 剩余量_NN formulafunction_NN )_NN ，_PU 将_AD 无法_AD 再_AD 分解_VV IMF_NN 时_LC ，_PU 整_DT 个_M EMD_NN 的_DEG 分解_NN 过程_NN 完成_VV 。_PU 原始_AD 讯号_NN formula_NN __NN 1_CD 可以_VV 表示_VV 成_VV formulatrend_NN )_PU 分量_NN formula_NN
+
+如此_AD 一来_VV ，_PU 原始_JJ 资料_NN 便_AD 分解_VV 成_VV n_CD 个_M IMF_NN 和_CC 一_CD 个_M 趋势_NN 函数_NN ，_PU 我们_PN 便_AD 可_VV 将_BA IMF_NN 做_VV 希尔_VV 伯_NN 特_NN 转换_NN 来_MSP 进行_VV 瞬时_NN 频率_VV 的_DEC 分析_NN 。_PU
+
+为了_P 确保_VV 经验_NN 模态_NN 分析法_NN 分解_VV 出_VV 的_DEC 本质_NN 模态_NN 函数_NN 能够_VV 保留_VV 瞬_AS 时频率_NN 与_CC 瞬_NN 时_LC 振幅_NN 的_DEC 物理_NN 意义_NN ，_PU 必须_VV 设定_VV 筛选_NN 的_DEC 停止_JJ 準则_NN 来_MSP 决定_VV 筛选_NN 的_DEC 次数_NN ，_PU 以_MSP 避免_VV 次数_NN 过_AD 多_VA ，_PU 破坏_VV 其_PN 信号_NN 的_DEC 物理_NN 性质_NN 。_PU 而_CC 大_JJ 部分_NN 的_DEG 判断準_NN 则_AD 建立_VV 在_P 振幅_NN 及_CC 能量_NN 的_DEG 判断_NN 上_LC ，_PU 以下_NN 将_BA 介绍_VV 几_CD 种_M 不同_VA 的_DEC 停止_NN 準则_NN 。_PU
+
+标準_NN 差_NN 準则_NN :_PU 利用_VV 连续_JJ 两_CD 次_M 筛选_NN 结果_NN 的_DEC 分量_NN 标準_NN 差_VA (_PU StandardDeviation_NN ,_PU SD)_NN 作为_P 停止_VV 準_DER 则_AD 如_P 下式_NN 所_MSP 示_VV ，_PU 一般_AD 当_P 标準_NN 差小于_VV 0_CD ._PU 2_CD 到_CC 0_CD ._PU 3_CD 间_LC 时_LC ，_PU 即_AD 停止_VV 筛选_NN 动作_VV 。_PU
+
+formula_NN
+Linderhed_NN 则_AD 使用_VV 真_DT 二_CD 维_NN EMD_NN 来_MSP 压缩_VV 图档_NN ，_PU 相_AD 较於_AD 其他_DT 类型_NN 的_DEG 压缩_NN 方式_NN ，_PU 此_DT 方法_NN 能_VV 提供_VV 一_CD 个_M 更_AD 低_VA 的_DEC 失真率_NN 。_PU
+SongandZhang_CD [_PU 2001_CD ]_PU ,_PU Damervaletal_NN ._PU [_PU 2005_NN ]_PU andYuanetal_NN ._PU [_PU 2008_NN ]_PU 则_AD 使用_VV Delaunaytriangulation_NN 来_MSP 找寻_VV 图形_NN 的_DEG 上界_NN 以及_CC 下界_VV 。_PU
+依据_P 需求_NN 决定极_AD 大值_VV 的_DEC 定义_NN 以及_CC 不同_VA 的_DEC 渐进_NN 方式_NN 的_DEC 选择_NN ，_PU 可以_VV 分別_AD 得到_VV 不同_VA 的_DEC 效果_NN 。_PU
+
+由_P 前述_JJ 可知_NN ，_PU 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 与_CC 传统_JJ 的_DEG 傅立_NN 叶转换_NN 、_PU 小波_NN 转换_NN （_PU wavelet_NN ）_PU 、_PU 短时_JJ 间傅_NN 立_VV 叶_NN 转换_NN （_PU short_NN -_PU timefouriertransform_NR ,_PU STFT_NR ）_PU 不同_NR 等_ETC 建立_VV 在_P 卷积_NN （_PU Convolution_NN ）_PU 上_LC 的_DEG 讯号_NN 处理_NN 方式_NN ，_PU 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 是_VC 一_CD 套_M 基_NN 於_P 差值_NN 所_MSP 建立_VV 出来_VV 的_DEC 讯号_NN 处理_NN 模式_NN ，_PU 在_P 大多数_CD 的_DEG 情况_NN 下_LC ，_PU 运算量_NN 会_VV 远小于_VV 上述_JJ 基_NN 於_P 旋积_NN 所_MSP 延伸_VV 出来_VV 的_DEC 讯号_NN 转换_NN 方式_NN 。_PU
+
+由于_P 本质_NN 上_LC 的_DEG 差异_NN ，_PU 透过_P 希尔_NN 伯特_NN -_PU 黄_AD 转换_VV 在_P 各_DT 种_M 应用_NN 上_LC ，_PU 皆_AD 有_VE 可能_NN 得到_VV 一_CD 种_M 新_VA 的_DEC 解读_NN 方式_NN 与_CC 成果_NN ，_PU 因此_AD 希尔_VV 伯_CD 特_M -_PU 黄转换_NN 被_SB 广泛_VV 到_VV 运用_VV 到_VV 各_DT 个_M 领域_NN 之中_LC ：_PU
+
+1_CD ._PU ECG_NN 的_DEG 分析_NN ：_PU
+
+由于_P ECG_NN 再_AD 测量_VV 时_LC ，_PU 常_AD 会_VV 有_VE 基準线_NN (_PU baseline_NN )_PU 的_DEG 偏移_NN ，_PU 因此_AD 使用_VV 希尔_VV 伯特_NN -_PU 黄_JJ 转换_NN 最后_AD 可以_VV 在_P EMD_NN 中_LC ，_PU 找到_VV 整体_JJ 的_DEG 趋势线_NN ，_PU 将_BA 之_PN 屏弃_VV 之后_AD 就_AD 能_VV 得到_VV 基準线_NN 校準_VV 之后_LC 的_DEG ECG_NN 信号_NN 。_PU
+除_P 此_PN 之外_LC ，_PU ECG_NN 经过_P 希尔_VV 伯_CD 特_M -_PU 黄_JJ 转换_NN 处理_VV 之后_LC ，_PU 可以_VV 有效_VA 的_DEC 滤掉_NN 原本_VA 的_DEC 高频_JJ 噪声_NN ，_PU 使得_VV 相较於_AD FFT_NR 之后_LC 的_DEG 频谱_NN ，_PU 相_AD 较於_AD 直接_AD 转换_VV 的_DEC 原讯号_NN 相比_VV ，_PU 在_P ECG_NN 相_AD 对应_VV 的_DEC 峰值_NN 频率_NN 能够_VV 较为_AD 专_AD 一_CD 清楚_NN 。_PU
+
+2_CD ._PU 太_BA 阳黑子_NN 的_DEG 观测_NN ：_PU 2015_CD 年_M 1月21_NN 日_NN (_PU 三_CD )_PU 17_CD :_PU 56_CD (_PU UTC_NN )_PU
+
+太阳_NT 黑子_NN 是_VC 观察_VV 太阳_AD 活动_VV 的_DEC 一_CD 个_M 重要_JJ 依据_NN ，_PU 透过_P 太阳_NT 黑子_NN 的_DEC 观测_NN ，_PU 人们_NN 可以_VV 得知_VV 太阳_NT 目前_NT 的_DEG 活跃_NN 程度_NN ，_PU 由于_P 太阳_NT 黑子_NN 的_DEC 多寡大_NN 小_VA 等_ETC ，_PU 皆_AD 为_VC 不_AD 稳定_VA 、_PU 非_VC 线性_JJ 的_DEG 讯号_NN ，_PU 因此_AD 对于_P 傅立_VV 叶_AD 变换_VV 来_MSP 说_VV ，_PU
+可能_VV 会_VV 因为_P WindowsFunction_NN 的_DEG 性质_NN 差异_NN ，_PU 使得_VV 反映_NN 出来_VV 当下_VV 的_DEC 资料_NN 有所_AD 误差_VV 。_PU 而_CC 对于_P 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 来说_LC ，_PU 并_AD 不_AD 会_VV 造成_VV 太_AD 大_VA 的_DEC 影响_NN ，_PU 因此_AD 希尔_VV 伯_NN 特_NN -_PU 黄_NN 转换_VV 在_P 太阳_JJ 黑子_NN 的_DEC 观测_NN 上_LC 能_VV 有_VE 较_AD 佳_VA 的_DEC 结果_NN 。_PU
+
+3_CD ._PU 语音_NN 辨识_NN ：_PU
+
+由于_P 每_DT 个人_NN 的_DEG 音色_NN 、_PU 说话_NN 习惯_NN 是_VC 截然_P 不同_VA 的_DEC ，_PU 透过_P 希尔_NN 伯_NN 特_AD -_PU 黄_JJ 转换_NN ，_PU 能够_VV 将_BA 各_DT 种_M 不同_JJ 频率_NN 的_DEG 泛音_NN 以及_CC 振_DT 幅_M 有_VE 规律_NN 且_CC 有效_VA 的_DEV 分离_VV 出来_VV ，_PU 对于_P 语音_NN 辨识_VV 来_MSP 说_VV 是_VC 非常_AD 好_VA 的_DEC 转换_NN 工具_NN 。_PU 同时_AD ，_PU 除了_P 作为_VV 区分人_NN 与_CC 人_NN 之间_LC 身份_VV 的_DEC 特性_NN 之外_LC ，_PU 希尔_VV 伯_CD 特_M -_PU 黄转换_NN 之后_LC 的_DEG 语音_NN 讯号_NN ，_PU 对于_P 应用_VV 大量_NN 机器_NN 学习_VV 的_DEC 语音_NN 相关_JJ 技术_NN 来说_LC ，_PU 是_VC 一_CD 个_M 分类_JJ 清楚_NN 且_CC 特性_NN 明显_VA 的_DEC 训练_NN 资料_NN ，_PU 能够_VV 进一步_AD 用来_VV 发展_VV 语意_NN 辨识_NN 等_ETC 需要_VV 依靠_P 大量_CD 资料_NN ，_PU 才_AD 能_VV 建构_NN 出有_VV 效模型_JJ 的_DEG 技术_NN 。_PU 此_DT 类_M 特性_NN 为_VC 傅_NN 立_VV 叶_NN 转换_VV 难以_AD 比拟_VV 的_SP 。_PU
+
+4_CD ._PU 建筑_NN 结构_NN 的_DEG 检测_NN ：_PU
+
+希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 能_VV 将_BA 讯号_NN 拆解_VV 成_VV 许多_CD 种子_NN 讯号_NN ，_PU 透过比_AD 对_P 结构_NN 检测_VV 产生_VV 的_DEC 讯号_NN ，_PU 能_VV 清楚_VA 的_DEV 找到_VV 异常_NN 的_DEG 检测_NN 讯号_NN ，_PU 并_CC 进一步_AD 找出_VV 建筑_NN 结构_NN 有_VE 安全_VA 疑虑_VA 之_DEC 处_NN 。_PU
+
+5_CD ._PU 经济_P 数据_NN 的_DEG 预测_NN ：_PU
+
+希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 可以_VV 处理_VV 金融_NN 相关_VV 的_DEC 趋势_NN ，_PU 找到_VV 短期_NN 中期_NN 长期_VA 的_DEC 相关_JJ 趋势_NN 。_PU
+
+例如_AD 在_P 股票_NN 数据_NN 资料_NN 中_LC 先_AD 找到_VV 一_CD 条_M 平滑_NN 的_DEC 趋势_NN 曲线_NN 以_MSP 拟合_VV 经验_PN 数据_NN ，_PU 再_AD 以_P 与_P 原_JJ 数据_NN 的_DEG 差值_NN 包含_VV 尽可能_AD 多_VA 的_DEC 有_VE 意义_NN 的_DEC 周期_NN ;_PU 而_CC 平滑_JJ 曲线_NN 可_VV 呈现_VV 长期_NN 趋势_VV ，_PU 差值_NN 则_AD 可_VV 进一步_AD 用于_VV 分析_VV 短期_AD 行为_VV 。_PU
+
+6_CD ._PU 影像_VV 处理_NN ：_PU
+
+希尔_NN 伯特_NN -_PU 黄_NN 转换_VV 在_P 改良_NN EMD_NN 之后_LC ,_PU 在_P 影像_VV 的_DEC 融合_NN 与_CC 增强_NN 上_LC ，_PU 相较於_AD 原本_VA 的_DEC EMD_NN 快_NN 上_LC 一_CD 倍_M 。_PU
+
+7_CD ._PU 地震_NN 研究_NN ：_PU
+
+希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 用来_VV 处理_VV 地震_NN 表面波_NN 的_DEG 散射_NN 并_CC 比对_VV 经过_P 傅_NN 立_VV 叶_NN 转换_VV 后_LC 之后_LC 的_DEG 地震_NN 信号_NN ，_PU 提供_VV 另_DT 一_CD 种_M 角度_NN 研究_VV 并_CC 解析_VV 地震_NN 信号_NN 。_PU
+西元_NN 1999_CD 年_M 时_LC ，_PU 台湾_NN 发生_VV 惨重_VA 的_DEC 集集_NN 大地震_AD ，_PU 在_P 事后_AD 比对_P 由_P 傅_NN 立_VV 叶_NN 转换_VV 所_MSP 产生_VV 的_DEC 频谱_NN 分析_VV ，_PU 发现_VV 在_P 非_AD 静态_JJ 、_PU 非线性_JJ 的_DEG 的_DEC 表面_NN 信号_NN 之中_LC ，_PU 因为_P 傅_NN 立_VV 叶_NN 转换_VV 本_DT 身线性_NN 的_DEC 特性_NN ，_PU 使得_VV 低频_NN 信号_NN 被_SB 严重_AD 低估_VA ，_PU 同时_AD 产生_VV 大力_NN 的_DEC 高频_JJ 泛音_NN 。_PU
+由于_P 地震_NN 讯号_NN 大多_AD 为_VC 非_AD 静态_JJ 、_PU 非线性_JJ 的_DEG ，_PU 这样_PN 的_DEG 特性_NN 透过_P 希尔_NN 伯_NN 特_AD -_PU 黄_JJ 转换_NN 分析_NN ，_PU 可能_VV 可以_VV 得到_VV 重_AD 大_VA 的_DEC 分析_NN 成果_VV ，_PU 透过_AD 分离_VV 并_CC 保真_VV 原有_JJ 信号_NN ，_PU 可以_VV 得知_VV 高频_JJ 讯号_NN 与_P 低_VA 频_VV 讯号_NN 可能_VV 发_VV 別_NN 来自_VV 於_P 不同_VA 的_DEC 区域_NN ，_PU 借此_AD 研究_VV 地壳_NN 运动_NN 。_PU
+
+8_CD ._PU 神经_NR 科学_NN ：_PU
+
+EEG_NN 运用_VV 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 之后_LC ，_PU 将_BA 之_NOI 与_P TMS_NN 做_VV 比对_P ，_PU 找寻_VV 脑部_NN 对于_VV 输入_NN 信号_NN 的_DEG 反应_NN 。_PU
+
+9_CD ._PU 大气_NN 科学_NN ：_PU
+由于_P 大气_NN 科学_NN 中_LC ，_PU 无论_AD 是_VC 气流_NN 、_PU 降雨_NN 等_ETC ，_PU 多半皆_NN 为_VC 间歇性_JJ 的_DEG 讯号_NN ，_PU 并_CC 不_AD 会_VV 是_VC 一_CD 个_M 稳定_VA 的_DEC 连续_JJ 信号_NN ，_PU 不过_AD 透过_VV 频_VV 宽_DER 较_AD 窄_VA 的_DEC IMF_NN ，_PU 使得_VV 最后_AD 得到_VV 的_DEC 结果_NN ，_PU 可以_VV 呈现_VV 一_CD 个_M 周期_NN 且_CC 有_VE 趋势_NN 的_DEG 变化_NN 。_PU 例如_AD ：_PU 曾经_CS 有_VE 研究_NN 运用_VV 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 以_P 3_CD 至_CC 5_CD 年_M 为_P 周期_NN 分析_VV 后_LC 指出_VV 维_NN 吉尼亚_NN （_PU Virginia_NN ）_PU 的_DEG 降雨_NN 与_CC SouthernOscillation_NN 指数_NN 的_DEG 相关_NN 系数_NN 高达_VA 0_CD ._PU 65_CD 。_PU
+
+10_CD ._PU 卫星_NN 讯号_NN
+
+可_VV 用来_VV 分析_VV 非_JJ 线性_JJ 且_CC 不_AD 稳定_VA 的_DEC 太空_NN 天气_NN 数据_NN (_PU 例如_AD 地球_NN 磁场_NN 的_DEG Kp_NN 指数_NN 、_PU 质子_NN 密度_NN 、_PU 电子_NN 密度_NN 、_PU 10.7cmradioflux_NN (_PU RF)_NN 或_CC X射线_NN 等等_NN )_PU ，_PU 可以_VV 结合_VV 这些_DT 太空_NN 天气_NN 的_DEC 相关_JJ 参数_NN ，_PU 进而_AD 避免_VV SEU_NR (_PU SingleEventUpset_NR )_PU 甚至_AD 其余_DT ARO_NN (AutomaticReconfigurationOrder)_PU 事件_NN 的_DEG 发生_NN 机率_NN ，_PU 也_AD 可_VV 使得_VV 卫星_NN 任务_NN 更为_AD 稳定_VA 。_PU
+总结_NN 以上_LC ，_PU 可以_VV 发现_VV 希尔_VV 伯特_NN -_PU 黄_JJ 转换_NN 与_CC 传统_JJ 的_DEG 频谱_NN 分析_VV 有_VE 极_AD 大_VA 的_DEC 差异_NN ，_PU 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 由于_P 透过_VV EMD_NN 来_MSP 分析_VV ，_PU 使得_VV 其_PN 在_P 预测_VV 趋势_NN 、_PU 分类_NN 资料_NN （_PU 频率_NN 、_PU 时间_NN ）_PU 上_LC ，_PU 相较於_AD 传统_VA 的_DEC 基_NN 於_P 傅_NN 立_VV 叶_NN 转换_VV 所_MSP 发展_VV 出来_VV 的_DEC 信号_NN 技术_NN ，_PU 更_AD 能够_VV 让_VV 使用者_NN 从_P 信号_NN 之中_LC 找到_VV 想要_VV 的_DEC 趋势_NN ，_PU 因此_AD 在_P 各_DT 个_M 不同_JJ 领域_NN 之中_LC ，_PU 都_AD 能_VV 或_CC 多_VA 或_CC 少_AD 看到_VV 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 的_DEC 应用_NN 。_PU 这些_DT 应用_NN 在_P 传统_NN 信号_NN 处理_NN 领域_NN 是_VC 较为_AD 少见_VA 的_DEC ，_PU 不过_AD 由于_P 希尔_NN 伯特_NN -_PU 黄转_NN 的_DEC 建立_NN 方式_NN 的_DEG 特性_NN ，_PU 使得_VV 他_PN 在_P 统计_NN 上_LC 拥有_VV 极_AD 大_VA 的_DEC 优点_NN 。_PU
+
+由_P 上述_JJ 可知_NN ，_PU 经验_NN 模态_NN 分解_NN (_PU EMD)_NN 是_VC 透过_P 最大_JJ 值重_NN 建讯号_NN ，_PU 并_CC 剔除_VV 之_DEC 。_PU 因此_AD ，_PU 渐进_VA 的_DEC 方式_NN 对于_P 希尔_NN 伯_NN 特_AD -_PU 黄_JJ 转换_NN 来说_LC ，_PU 是_VC 一_CD 个_M 非常_AD 重要_VA 的_DEC 选择_NN ，_PU 不同_VA 的_DEC 渐进_JJ 选择_NN 会_VV 影响_VV 到_VV 希尔_NN 伯_NN 特_AD -_PU 黄_JJ 转换_NN 最后_NT 的_DEG 结果_NN 。_PU 在_P 大多数_CD 的_DEG 情况_NN 之中_LC ，_PU 所_MSP 选择_VV 的_DEC 大多_CD 都_AD 是_VC 贝_JJ 兹_JJ 曲线_NN ，_PU 其_PN 能够_VV 有效_AD 产生_VV 出弦波_NN ，_PU 不过_AD 在_P 某些_DT 极端_NN 例子_NN 中_LC ，_PU 例如_AD 脉冲波_NN 等_ETC ，_PU 使用_VV 贝_DT 兹_M 曲线_NN 作为_VV 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 的_DEC 渐进_NN 方式_NN ，_PU 会_VV 使_VV 得得_VV 出来_VV 的_DEC 结果_NN 变得_VV 平滑_NN 而_MSP 丧失_VV 了_AS 脉冲波_NN 的_DEG 特性_NN 。_PU 因此_AD 针对_VV 输入_NN 信号_NN 选择_VV 适当_VA 的_DEC 渐进_NN 方式_NN ，_PU 对于_P 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 是_VC 非常_AD 重要_VA 的_DEC 课题_NN 。_PU 一般而言_AD ，_PU 越_AD 多_CD 阶_M （_PU order_NN ）_PU 的_DEC 曲线_NN 会_VV 得到_VV 较_AD 佳_VA 的_DEC 渐进_JJ 效果_NN ，_PU 不_AD 过同_VA 时_LC 的_DEG 也_AD 会_VV 增加_VV 计算量_NN 。_PU
+
+同时_AD ，_PU 倘若_NN 没有_VV 设定_NN 结束_NN 递回_VV 的_DEC 条件_NN ，_PU 任意_DT 一_CD 个_M 讯号_NN 最后_AD 是否_AD 都_AD 能_VV 制造_VV 出有_VV 限组_JJ IMF_NN ，_PU 换言_VV 之_DEC ，_PU IMF_NN 的_DEG 叠加_NN 是否_AD 可以_VV 收敛_VV 成_VV 任意_JJ 一_CD 个_M 讯号_NN ，_PU 这_DT 个_M 问题_NN 在_P 经过_P 证明_VV 之后_LC ，_PU 发现_VV 是_VC 一_CD 个_M NP_NN 问题_NN 。_PU
+
+傅立_VV 叶_NN 变换_NN 是_VC 将_BA 一_CD 个_M 讯号_NN 分解_VV 成_VV 无限_JJ 多_CD 个_M 弦波_NN 来_MSP 分析_VV 资料_NN ，_PU 但是_AD 希尔_VV 伯_CD 特_M -_PU 黄_JJ 转换_NN 则_AD 是_VC 将_BA 一_CD 个_M 讯号_NN 分解_VV 成数_CD 个_M 近似_JJ 於_NN 弦波_NN 的_DEC 讯号_NN （_PU 周期_NN 、_PU 振幅_NN 不_AD 固定_VV ）_PU 和_CC 一_CD 个_M 趋势_NN 函数_NN 来_MSP 做_VV 分析_NN 。_PU
+
+两_CD 者_NN 各_AD 有_VE 其_PN 优_NN 缺点_NN ，_PU 整理_AD 如下_VV
+
+优点_NN ：_PU
+
+1_CD ._PU 避免_VV 复杂_VA 的_DEC 数学_NN 运算_NN
+
+2_CD ._PU 可_VV 分析_VV 频率_NN 会_VV 随_P 时间_NN 变化_VV 的_DEC 讯号_NN
+
+3_CD ._PU 较_AD 适_VV 於_P 分析_NN 气候_NN 、_PU 经济_NN 等_ETC 具有_VV 趋势_NN 的_DEC 资料_NN
+
+4_CD ._PU 可以_VV 找出_VV 一_CD 个_M 函数_NN 的_DEG 趋势_NN
+缺点_NN ：_PU
+
+1_CD ._PU 缺乏_NN 严谨_VA 的_DEC 物理_NN 及_CC 数学_NN 上_LC 的_DEG 意义_NN
+
+2_CD ._PU 需要_VV 复杂_VA 的_DEC 递回_NN ，_PU 运算_NN 时间_NN 反而_AD 比短_VV 时距_NN 傅立_VV 叶_NN 变换_NN 要_VV 长_NN
+
+3_CD ._PU 希尔_NN 伯_NN 特_NN 转换_NN 未_AD 必能_VV 正确_AD 计算_VV 出_VV 本质_NN 模态_NN 函数_NN 之_DEG 瞬_NN 时_LC 频率_NN
+
+4_CD ._PU 无法_AD 使用_VV 快速_AD 傅立_VV 叶_NN 变换_NN
+
+5_CD ._PU 只有_AD 在_P 特例_NN （_PU 组合_NN 较_AD 简单_VA 的_DEC 资料_NN ）_PU 时_LC 使用_VV 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 较_AD 快_VA
+
+传统_NN 上_LC 认为_VV 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 是_VC 一_CD 套_M 无用_AD 且_CC 精_VA 準度_NN 低_VA 的_DEC 方式_NN ，_PU 同时_AD 在_P 发展_VV 前期_NN ，_PU 受到_VV Bedrosiantheorem_NN 的_DEG 限制_NN ，_PU 直到_VV 后续_JJ 又_CC 许多_JJ 改良_NN 方法_NN 之后_LC ，_PU 使得_VV 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 的_DEC 缺点_NN 得到_VV 改善_VV 。_PU 同时_AD 其_PN 善于_VV 处理_VV 非_VC 静态_JJ 、_PU 非线性_JJ 的_DEG 特性_NN 使得_VV 希尔_NN 伯特_NN -_PU 黄_JJ 转换_NN 提供_VV 了_AS 另外_DT 一_CD 套_M 分析_NN 工具_NN ，_PU 弥补_VV 了_AS 傅立_JJ 叶转_NN 换先_AD 天上_VV 的_DEC 系统_NN 限制_VV 。_PU 混合_VV 两_CD 种_M 方式_NN 之后_LC ，_PU 相_AD 较於_AD 单用_VV 一_CD 种_M 方式_NN 的_DEC 信号_NN ，_PU 能够_VV 得到_VV 更_AD 多_VA 的_DEC 资讯_NN 提供_VV 判读_NN 及_CC 分析_NN 。_PU
+
+
+
+

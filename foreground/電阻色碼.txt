@@ -1,0 +1,15 @@
+﻿电阻_NN 色码_NN
+
+电阻_NN 色码_NN ，_PU 是_VC 一_CD 种_M 以色_JJ 彩码_NN 标示_VV 出_VV 电阻器_NN 的_DEG 电阻_NN 值_NN 与_P 误差_NN 范围_NN 的_DEC 方式_NN ，_PU 电容_NN 及_CC 电感_NN 也_AD 可_VV 用_P 相同_JJ 方式_NN 标示_VV 其_PN 容值_NN （_PU 或_CC 感值_NN ）_PU 及_CC 误差_NN 范围_NN 。_PU
+
+色码_NN 标示_VV 的_DEC 电阻_NN 其_PN 单位_NN 取_VV 欧姆_NN （_PU Ω_NN ）_PU 、_PU 电感取_NN 微亨_NN （_PU µ_NN H_OD ）_PU 、_PU 电容_NN 取_VV 皮法_NN （_PU pF_NN ）_PU 。_PU 按_P RLC_NN 排列_VV 记忆_NN ，_PU 各自_PN 基本_JJ 单位_NN 前_LC 缀_VV 系数_NN 的_DEG 规律_NN 为_VC 公_NN 比_P μ逐缩_NN 。_PU
+
+
+例如_AD ：_PU 一_CD 个_M 电阻_NN 所_MSP 用_VV 的_DEC 色码_NN 顺序_NN 为_VC "_PU 黄_JJ ,_PU 紫_JJ ,_PU 红_JJ ,_PU 金_JJ "_PU
+
+电阻_NN 色码_NN 的_DEG 标準_NN 被_SB 制定_VV 在_P EN60062:2005_NN :_PU
+
+
+
+
+

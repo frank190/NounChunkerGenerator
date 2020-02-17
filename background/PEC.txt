@@ -1,0 +1,9 @@
+﻿_CS PEC_NN
+
+PEC_NN 是_VC 理想_JJ 电导体_NN （_PU PerfectElectricConductor_NR ）_PU 的_DEC 缩写_NN 。_PU 很_AD 长_JJ 时间_NN 以来_LC ，_PU PEC_NN 一直_AD 被_SB 用于_VV 天线_NN 的_DEC groundplane_NN 材料_NN 。_PU
+
+其_PN 优点_NN 有_VE ：_PU
+
+缺点_NN 有_VE ：_PU
+
+

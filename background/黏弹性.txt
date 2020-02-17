@@ -1,0 +1,5 @@
+﻿黏弹_NN 性_NN
+
+黏弹性_NN （_PU ）_PU 是_VC 黏性_NN 和_CC 弹性_NN 的_DEG 结合_NN ，_PU 亦_AD 即_AD 黏性_JJ 流体_NN 与_P 弹性_JJ 固体_NN 的_DEC 流动_NN 特性_NN 组合_VV ，_PU 日常_AD 生活_NN 中_LC ，_PU 水_NN 的_DEG 流动_NN 就_AD 是_VC 典型_VA 的_DEC 黏性_JJ 流体_NN ，_PU 橡胶_NN 的_DEC 变形_JJ 属于_VV 弹性体_NN 。_PU
+
+

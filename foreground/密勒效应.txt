@@ -1,0 +1,49 @@
+﻿密勒_NN 效应_NN
+
+米勒_NN 效应_NN （_PU ）_PU 是_VC 在_P 电子学_NN 中_LC ，_PU 反_VV 相_NN 放_VV 大_JJ 电路_NN 中_LC ，_PU 输入_VV 与_P 输出_NN 之间_LC 的_DEG 分布_NN 电容_NN 或_CC 寄生_NN 电容_NN 由于_P 放大器_NN 的_DEG 放大_NN 作用_NN ，_PU 其_PN 等效_JJ 到_NN 输入端_NN 的_DEC 电容值_NN 会_VV 扩大_VV 1_CD +_M K_CD 倍_M ，_PU 其中_NN K_NN 是_VC 该_DT 级_M 放大_NN 电路_NN 电压_NN 放大_NN 倍数_NN 。_PU 虽然_CS 一般_JJ 密勒效_NN 应指_VV 的_DEC 是_VC 电容_NN 的_DEG 放大_NN ，_PU 但是_CC 任何_DT 输入_NN 与_CC 其它_DT 高放_JJ 大节_NN 之间_LC 的_DEG 阻抗_NN 也_AD 能够_VV 通过_P 密勒_NN 效应_NN 改变_VV 放大器_NN 的_DEG 输入阻抗_NN 。_PU
+
+输入_VV 电容_NN 的_DEG 增长值_NN 为_VC
+formula_NN __NN 2_CD 是_VC 放大器_NN 的_DEG 增益_NN ，_PU formula_NN
+
+密勒_NN 效应_NN 是_VC 米勒_NN 定理_VV 的_DEC 一_CD 个_M 特殊_JJ 情况_NN 。_PU
+
+米勒_NN 效应_NN 是_VC 以_P 约翰_NN ·_PU 米尔顿_NN ·_PU 密勒_NN 命名_NN 的_DEC 。_PU 1919_CD 年_M 或_CC 1920_CD 年_M 密勒_VV 在_P 研究_NN 真空管_NN 三极管_NN 时_LC 发现_VV 了_AS 这_DT 个_M 效应_NN ，_PU 但是_CC 这_DT 个_M 效应_NN 也_AD 适用于_VV 现代_JJ 的_DEG 半导体_NN 三极管_NN 。_PU
+
+假设_VV 一_CD 个_M 放大率_NN 为_VC formula_NN __NN 2_CD 的_DEG 理想_NN 电压_NN 放大器_NN ，_PU 其_PN 输入_NN 和_CC 输出点_NN 之间_LC 的_DEG 阻抗_NN 为_VC formula_NN __NN 5_CD 。_PU 其_PN 输出_NN 电压_NN 因此_AD 为_VC formula_NN
+
+这_DT 个_M 电流_NN 流_VV 过_AS 阻抗_NN formula_NN __NN 5_CD ，_PU 上面_NN 的_DEC 方程_NN 显示_NN 由于_P 放大器_NN 的_DEG 放大率_NN 实际上_AD 一_CD 个_M 更_AD 大_VA 的_DEC 电流_NN 流过_VV formula_NN __NN 5_CD ，_PU 实际上_AD formula_NN
+
+假如_AD formula_NN
+由_P 此_PN 导出_VV 的_DEC 输入阻_NN 抗_VV 为_VC
+
+因此_AD 密_VA 勒_NN 效应_NN 显示_VV 的_DEC 电容_NN formula_NN __NN 15_CD 为_VC 实际_NN 上_LC 的_DEG 电容_NN formula_NN __NN 3_CD 乘以_VV formula_NN
+
+大多数_AD 放大器_NN 是_VC 反向_VV 放大器_NN ，_PU 即_AD formula_NN
+
+当然_CS 这_DT 个_M 提高_VV 的_DEC 电容_NN 会_VV 破坏_VV 高频_NN 反应_NN 。_PU 比如_AD 达_VV 灵_NN 顿_VV 电晶体_NN 的_DEC 小_JJ 连接_NN 和_CC 电容_NN 会_VV 由于_P 密勒_NN 效应_NN 和_CC 达_VV 零顿_NN 电晶体_NN 的_DEC 高放_JJ 大率_NN 大大_AD 降低_VV 高频_NN 反应_NN 。_PU
+
+密勒效_NN 应适_VV 用于_VV 所有_DT 阻抗_NN ，_PU 不仅_CC 电容_NN 。_PU 纯_JJ 电阻_NN 或者_CC 纯_JJ 电感_NN 被_SB 除以_VV formula_NN
+
+值得_VV 注意_NN 的_DEC 是_VC 密勒_NN 电容_NN 是_VC 向_P 输入_VV 看_VV 进去_VV 的_DEC 电容_NN 。_PU 在_P 寻找_VV 所有_DT RC_NN 时间_NN 常数_NN 时_LC 非常_AD 重要_VA 的_DEC 是_VC 也_AD 注意_AD 输出_VV 的_DEC 阻抗_NN 。_PU 输出_VV 的_DEC 阻抗_NN 往往_AD 被_SB 忽视_VV ，_PU 原因_AD 是_VC formula_NN
+
+使用_VV 共源_NN 共_CC 栅_NN 或者_CC 使用_VV 级_NN 联_VV 放大器_NN 来_MSP 取代_VV 共射_CD 电极_NN 可以_VV 减轻_VV 密勒_NN 效应_NN 。_PU 在_P 反馈_NN 放大器_NN 中_LC 密勒_NN 效应_NN 甚至_AD 有_VE 优点_NN ，_PU 因为_P 否则_VA 的_DEC 话需_NN 要_VV 用来_VV 稳定_VV 住_VV 放大器_NN 的_DEG 电容器_NN 太_AD 大_VA 了_SP ，_PU 无法_AD 包含_VV 在_P 电路_NN 中_LC ，_PU 一般_AD 在_P 集成_JJ 电路_NN 中_LC 电容_NN 需要_VV 的_DEC 面积_NN 最_AD 大_VA ，_PU 因此_AD 大_VA 的_DEC 电容_NN 往往_P 很_AD 麻烦_VA 。_PU
+
+图_NN 2_CD （_PU 图示_NN 可能_VV 有错_VV ，_PU 应该_VV 为_VC 负_JJ 反馈_NN 电路_NN ）_PU 显示_VV 了_AS 一_CD 个_M 放大器_NN 电路_NN ，_PU 图_NN 1_CD 中_LC 联系_VV 输出_VV 和_CC 输入_VV 的_DEC 阻抗_NN 在_P 这里_PN 是_VC 电容_NN formula_NN __NN 21_CD 。_PU 一_CD 个_M 戴维_NN 宁_CC 电源_NN formula_NN __NN 22_CD 通过_P 一_CD 个_M 戴维_NN 宁_CC 电阻_NN formula_NN __NN 23_CD 驱动_VV 这_DT 个_M 电路_NN 。_PU 在_P 输出端_NN 一_CD 个_M formula_NN __NN 24_CD 电路_NN 作为_VV 负载_NN （_PU 这_DT 个_M 负载_NN 在_P 这里_PN 的_DEG 讨论_NN 中_LC 不_AD 重要_VA ，_PU 它_PN 仅仅_AD 被_SB 用来_VV 完整_VV 整_DT 个_M 电路_NN ）_PU 。_PU 图_NN 中_LC 的_DEG 电容_NN 向_P 输出_NN 电路_NN 提供_VV formula_NN
+
+图_NN 3_CD 中_LC 的_DEG 电路_NN 与_P 图_NN 2_CD 的_DEG 一_CD 样_M ，_PU 但是_AD 使用_VV 了_AS 密勒_NN 效应_NN 。_PU 反馈_NN 电容_NN 在_P 输入端_NN 被_SB 密勒_VV 电容_NN formula_NN __NN 15_CD 取代_VV ，_PU 它_PN 与_P 图_NN 2_CD 中_LC 的_DEG 反馈_NN 电容_NN formula_NN __NN 21_CD 吸取_VV 同样_AD 多_VA 的_DEC 电流_NN 。_PU 因此_AD 在_P 两_CD 个_M 电路_NN 中_LC 输入_NN 电路_NN 看到_VV 的_DEC 负载_NN 是_VC 一样_VA 的_DEC 。_PU 在_P 输出端_NN 上_VV 一_CD 个_M 相关_JJ 电流_NN 电源_NN 向_P 输出_VV 负载_NN 提供_VV 与_P 图_NN 2_CD 一_CD 样_M 大_VA 的_DEC 电流_NN 。_PU 也就是说_AD 流经_VV formula_NN
+
+由于_P 流过图_NN 3_CD 中_LC 的_DEG 密勒_NN 电容_NN 的_DEC 电流_NN 与_CC 流过图_NN 2_CD 中_LC 的_DEG 反馈_NN 电容_NN 一样_VA 大_VA ，_PU 米勒_NN 效应_NN 被_SB 用来_VV 把_BA formula_NN __NN 15_CD 与_CC formula_NN
+或_CC
+这_DT 个_M 结果_NN 即_AD 引_VV 导章_NN 中_LC 的_DEG formula_NN
+
+图_NN 中_LC 的_DEG 运算_NN 放大器_NN formula_NN __NN 34_CD 的_DEG 放大率_NN 与_CC 频率_NN 无关_AD ，_PU 但是_CC 它_PN 显示_VV 了_AS 密勒_NN 效应_NN ，_PU 也就是说_AD formula_NN __NN 21_CD 对_P 这_DT 个_M 电路_NN 的_DEG 频率_NN 反响_VV 的_DEC 影响_NN 。_PU 这_DT 个_M 影响_NN 对于_P 密勒效_NN 应来_VV 说_VV 是_VC 典型_VA 的_DEC 。_PU 假如_AD formula_NN __NN 36F_CD ，_PU 则_AD 电路_NN 的_DEG 输出_NN 电压_NN 为_VC formula_NN __NN 37_CD ，_PU 它_PN 与_P 频率_NN 无关_AD 。_PU 但是_AD 加入_VV formula_NN
+在_P 频率_NN 足够_VA 高_VA ，_PU formula_NN __NN 40_CD 的_DEC 情况_NN 下_LC 输出_VV 电压_NN 下降_VV 。_PU 因此_AD 整_DT 个_M 电路_NN 是_VC 一_CD 个_M 低_JJ 通滤波器_NN 。_PU 在_P 模拟_JJ 放大器_NN 中_LC 密勒_NN 效应_NN 对_P 电路_NN 的_DEG 频率_NN 反响_VV 有_VE 非常_AD 大_VA 的_DEC 影响_NN 。_PU 在_P 这_DT 个_M 例子_NN 中_LC 频率_VV formula_NN __NN 41_CD 在_P formula_NN
+
+需要_VV 注意_VV 的_DEC 是_VC formula_NN __NN 15_CD 对_P 放大器_NN 带宽_VV 的_DEC 限制_NN 在_P 阻抗_NN 驱动器_NN 低_VA （_PU 假如_AD formula_NN __NN 23_CD 小_VA 的_DEC 话formula_NN
+
+这_DT 个_M 简单_NN 电路_NN 的_DEG 输出_NN 电压_NN 总是_NN formula_NN
+
+在_P 上面_NN 的_DEG 例子_NN 中_LC 我们_PN 假设_VV formula_NN __NN 34_CD 不_AD 受_VV 频率_NN 影响_NN ，_PU 但是_CC 实际_JJ 的_DEG 运算_NN 放大器_NN 往往_P 本身_PN 就_AD 受_VV 频率_NN 影响_NN 。_PU 受_VV 频率_NN 影响_VV 的_DEC formula_NN __NN 34_CD 使得_VV 密勒_NN 电容_NN 也_AD 受_VV 频率_NN 影响_VV ，_PU 因此_AD formula_NN __NN 15_CD 不_AD 再_AD 像_P 一_CD 个_M 普通_VA 的_DEC 电容_NN 那样_AD 反应_VV 。_PU 不过_AD 一般_AD formula_NN __NN 34_CD 只有_AD 在_P 频率_NN 远远_AD 高于_VV 截止_NN 频率_NN 的_DEC 情况_NN 下_LC 才_AD 反映_VV 出_VV 它_PN 受_VV 频率_NN 的_DEG 影响_NN ，_PU 因此_AD 在_P 截止_NN 频率_NN 以下_LC formula_NN __NN 34_CD 可以_VV 被_SB 看作_VV 是_VC 不_AD 受_VV 频率_NN 影响_VV 的_DEC 。_PU 在_P 低频_NN 下_LC 使用_VV formula_NN __NN 34_CD 来_MSP 计算_VV formula_NN __NN 15_CD 被_SB 称为_VV 密勒_NN 近似_VA 。_PU 在_P 这_DT 种_M 情况_NN 下_LC formula_NN
+
+
+

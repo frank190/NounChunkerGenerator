@@ -1,0 +1,9 @@
+﻿磁振_NN 脉冲_NN 序列_NN
+
+磁振_NN 脉冲_NN 序列_NN (_PU MRpulsesequence_NN )_PU 出现_VV 在_P 核磁_NN 共振_NN 相关_VV 的_DEC 领域_NN ，_PU 包括_VV 了_AS 传统_JJ 的_DEG 核磁_NN 共振_AD 频谱_VV (1952_CD 年_M )_PU 、_PU 磁振造_NN 影_NN 以及_CC 核磁_NN 共振_NN 量子_NN 电脑_NN (_PU 简称_VV 磁振量脑_NN )_NN 。_PU 历_DT 史_NN 上_LC ，_PU 一开始_AD 脉冲_VV 序列_NN 是_VC 只有_VE 不同_JJ 翻转角_NN 的_DEC 射频_NN 脉冲_NN ，_PU 例如_AD 磁振_NN 频谱_VV 研究_NN 中_LC 的_DEG 自由_JJ 感应_NN 衰减_NN (_PU FID)_NN 与_CC 自_P 旋回_JJ 讯(_NN spinecho_NN )_NN 。_PU 尔后_NT 梯度_NN 磁场_NN 也_AD 被_SB 运用_VV 上_LC ，_PU 出现_VV 在_P 磁振_NN 造影_VV (1972_CD 年_M )_PU ，_PU 或_CC 较_AD 晚期_VA 的_DEC 多量子_NN 同_P 调_NN (_PU MQC_NN )_PU 研究_NN ，_PU 在_P 磁振量_NN 脑_NN 的_DEG 初始态_NN 準备_NN 法_NN 中_LC ，_PU 利用_VV 多量子_NN 同_AD 调达_VV 到_VV 空间_NN 平均_VA (_PU spatialaveraging_NN )_PU 的_DEC 方法_NN 也_AD 利用_VV 到梯度_JJ 磁场_NN 。_PU
+
+传统_NN 上_LC ，_PU 基本_JJ 的_DEG 磁共振_NN 必然_AD 含有_VV 射频_NN 电磁波_NN 的_DEG 照射_NN ，_PU 以_P 对_P 自_P 旋造_VV 成_VV 激发_VA ，_PU 使_VV 其_PN 所_MSP 对应_VV 的_DEC 磁化_NN 强度_NN 等_ETC 全部_AD 或_CC 部分_AD 转到_VV 垂直_JJ 主_JJ 磁场_NN 的_DEG 方向_NN (_PU 称为_VV 横向_NN )_PU 而_MSP 制造_VV 出_VV 时_LC 变_VV 信号_NN ，_PU 呈现_VV 为_VC 自由_JJ 感应_NN 衰减_NN 。_PU 若_CS 额外_NN 利用_VV 射频_NN 脉冲_NN 进行_VV 聚焦_NN ，_PU 则_AD 可以_VV 得到_VV 自_P 旋回讯_NN 。_PU
+
+在_P 造_P 影_NN 上_LC ，_PU 为了_P 得到_VV 空间_NN 分布_VV ，_PU 处_NN 处自_VV 旋_NOI 进动_VV 频率_NN 必须_VV 有_VE 所差_DT 异_VA ，_PU 以_P 利用_VV 频率_NN 转换_VV 成_VV 空间_NN 资讯_NN 。_PU 此时_NT ，_PU 梯度_JJ 磁场_NN 就_AD 会_VV 派上_VV 用_VV 场_NN 。_PU
+
+

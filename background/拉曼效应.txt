@@ -1,0 +1,16 @@
+﻿拉曼_NN 效应_NN
+
+拉曼_NN 效应_NN （_PU ）_PU ，_PU 也_AD 称拉_VV 曼散射_NN （_PU Ramanscattering_NN ）_PU ，_PU 一_CD 种_M 光子_NN 的_DEC 非_JJ 弹性_JJ 散射_NN 现象_NN ，_PU 1928_CD 年_M 由_P 印度_NN 物理_NN 学家_NN 钱_NN 德_NN 拉塞_NN 卡拉_NN ·_PU 拉曼_NN 发现_VV ，_PU 指光_NN 波_NN 在_P 被_SB 散射_VV 后频率_NN 发生_VV 变化_NN 的_DEC 现象_NN 。_PU
+
+当_P 光线_NN 从_P 一_CD 个_M 原子_NN 或_CC 分子_NN 散射_VV 出来_VV 时_LC ，_PU 绝_AD 大多数_CD 的_DEG 光子_NN ，_PU 都_AD 是_VC 弹性_JJ 散射_NN 的_SP ，_PU 这_PN 称为_VV 瑞利_NR 散射_NN 。_PU 在_P 瑞利_NN 散射_NN 下_LC ，_PU 散射_VV 出来_VV 的_DEC 光子_NN ，_PU 跟_P 射入_VV 时_LC 的_DEG 光子_NN ，_PU 它_PN 的_DEG 能量_NN 、_PU 频率_NN 与_CC 波长_NN 是_VC 相同_VA 的_DEC 。_PU 然而_AD ，_PU 有_VE 一_CD 小_JJ 部份_NN 散射_VV 的_DEC 光子_NN （_PU 大约_AD 是_VC 一千万_CD 个_M 光子_NN 中_LC 会_VV 出现_VV 一_CD 个_M ）_PU ，_PU 散射_VV 后_LC 的_DEG 频率_NN 会_VV 产生_VV 变化_NN ，_PU 通常_AD 是_VC 低于_VV 射入_VV 时_LC 的_DEG 光子_NN 频率_NN ，_PU 原因_AD 是_VC 入射_VV 光子_NN 和_CC 介质_NN 分子_NN 之间_LC 发生_VV 能量_NN 交换_NN 。_PU 这_PN 即_AD 是_VC 拉曼_VV 散射_VV 。_PU
+
+利用_VV 拉曼_NN 效应_NN 产生_VV 的_DEC 雷射_NN ，_PU 称为_VV 拉曼_NN 雷射_NN 。_PU
+
+拉曼_AD 散射_VV 可以_VV 分为_VV 两_CD 类_M ：_PU
+
+1_CD ._PU 斯_DT 托克_NN 散射_VV ：_PU 材料_NN 吸收_VV 能量_NN ，_PU 导致_VV 散射_NN 光子_NN 能量_NN 低于_VV 入射_NN 光子_NN ；_PU
+
+2_CD ._PU 非_AD 斯_DT 托克_NN 散射_VV ：_PU 材料_NN 失去_VV 能量_VV ，_PU 导致_VV 散射_VV 光子_NN 能量_NN 高于_VV 入射_NN 光子_NN 。_PU
+
+
+

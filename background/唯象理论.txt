@@ -1,0 +1,8 @@
+﻿_NN 唯_AD 象_P 理论_NN
+
+唯_AD 象_P 理论_NN （_PU phenomenology_NN ）_PU ，_PU 是_VC 物理学_NN 中_LC 解释_NN 物理_NN 现象_NN 时_LC ，_PU 不_AD 用_P 其_PN 内_VV 在_P 原因_NN ，_PU 而_CC 是_VC 用_P 概括_NN 试验_NN 事实_VA 而_MSP 得到_VV 的_DEC 物理_NN 规律_NN 。_PU 唯_AD 象_P 理论_NN 是_VC 试验_NN 现象_NN 的_DEG 概括_NN 和_CC 提炼_VV ，_PU 但_CC 仍_AD 无法_AD 用_P 已_AD 有_VE 的_DEC 科学_JJ 理论_NN 体系_NN 作出_VV 解释_VV 。_PU 即_AD “_PU 知_VV 其_PN 然_AD 不_AD 知_VV 其_PN 所以_AD 然_AD ”_PU 。_PU 唯_AD 象_P 理论_NT 对_P 物理_NN 现象_AD 有_VE 描述_JJ 与_CC 预言_JJ 功能_NN ，_PU 但_AD 没有_VE 解释_JJ 功能_NN 。_PU 最_AD 典型_VA 的_DEC 例子_NN 如_P 开普勒_NN 三_CD 定律_VV ，_PU 就_AD 是_VC 对_P 天文_NN 观测_VV 到_VV 的_DEC 行星_NN 运动_NN 现象_NN 的_DEG 总结_NN 。_PU 实际上_AD 支配_VV 开_VV 普勒_NN 三_CD 定律_VV 的_DEC 内_JJ 在_P 机制_NN 是_VC 牛顿_VA 的_DEC 万_CD 有_VE 引力_NN 定律_VV 。_PU 进一步_AD 层次_VV ，_PU 牛顿_VA 的_DEC 万_CD 有_VE 引力_NN 定律_VV 也_AD 是_VC 唯_AD 象_VV 的_SP ，_PU 需要_VV 用_VV 广义_VA 相_AD 对论_VV 去_VV 解释_VV 。_PU 若_CS 推广_VV 到_VV 量子_NN 层面_NN ，_PU 即_AD 量子_NN 引力_NN 理论_VA ，_PU 则_AD 为_VC 一_CD 个_M 物理_NN 学_VV 家尚_NN 未_AD 解决_VV 的_DEC 问题_NN 。_PU
+
+杨振_NN 宁把物_NN 理学_NN 研究_NN 分为_VV 三_CD 个_M 阶段_NN ：_PU 试验_NN 、_PU 唯_AD 象_P 理论_NN 、_PU 理论_NN 架构_NN 。_PU
+
+
+

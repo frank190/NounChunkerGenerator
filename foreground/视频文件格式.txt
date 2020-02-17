@@ -1,0 +1,7 @@
+﻿视频_NN 文件_NN 格式_NN
+
+视频_NN 是_VC 现在_JJ 电脑_NN 中_LC 多_AD 媒体_NN 系统_NN 中_LC 的_DEG 重要_JJ 一环_NN 。_PU 为了_P 适应_VV 储存_NN 视频_NN 的_DEC 需要_NN ，_PU 人们_NN 设定_VV 了_AS 不同_VA 的_DEC 视频_NN 文件_NN 格式_NN 来_MSP 把_BA 视频_NN 和_CC 音频_NN 放_VV 在_P 一_CD 个_M 文件_NN 中_LC ，_PU 以_P 方便_VA 同时_AD 回放_VV 。_PU
+
+影片_NN 档_NN 是_VC 一_CD 种_M 包含_VV 不同_JJ 视讯轨_NN 和_CC 音讯轨_NN 的_DEC 文件_NN ，_PU 不同_JJ 文件_NN 使用_VV 的_DEC 文件_NN 格式_NN 会_VV 影响_VV 到_VV 视频档_NN 的_DEG 相容性_NN 。_PU
+
+

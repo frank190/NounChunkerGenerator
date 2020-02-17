@@ -1,0 +1,7 @@
+﻿涡流_NN 扩散_NN
+
+涡流_NN 扩散_NN （_PU Eddydiffusion_NN ）_PU 是_VC 因为_P 在_P 大气_NN 或是_CC 其他_DT 流体_NN 系统_NN 中_LC ，_PU 因为_P 涡流_NN 产生_VV 的_DEC 扩散_NN 作用_NN 。_PU 在_P 另_DT 一_CD 个_M 定义_NN 中_LC ，_PU 是_VC 因为_P 涡流_NN 造成_VV 的_DEC 混合_NN ，_PU 涡流_NN 可以_VV 小到_VV 紊流_NN 中_LC 的_DEG ，_PU 也_CC 可以_VV 大_VA 到_VV 像_P 海洋_NN 环流_NN 。_PU
+
+因为_P 大气_NN 中_LC 混合_VV 的_DEC 微观_NN 过程_NN 太_AD 复杂_VA ，_PU 无法_AD 具体_VV 的_DEC 建模_NN ，_PU 大气_NN 建模者_NN 一般_AD 都_AD 会_VV 将_BA 大气_NN 的_DEG 混合_NN 视为_VV 「_PU 涡流_NN 」_PU 的_DEG 扩散_NN 程序_NN 。_PU 依_P 此_DT 研究_NN 方式_NN ，_PU 各_DT 压力_NN 等级_VV 的_DEC 扩散_NN 速度_NN 会_VV 用_P 一_CD 个_M 称为_VV 涡流_NN 扩散_NN 系数_NN （_PU eddydiffusioncoefficient_NR ）_PU K_NN 来_MSP 建模_VV ，_PU 涡流_NN 扩散_NN 系数_NN 有时_AD 也_AD 称为_VV 涡流_NN 扩散率_NN （_PU eddydiffusivity_NR ）_PU ，_PU 单位_NN formula_NN
+
+

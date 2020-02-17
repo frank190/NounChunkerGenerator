@@ -1,0 +1,7 @@
+﻿_NN 插件机_NN
+
+插件机_NN 是_VC 把_BA 编带_JJ 电子_NN 元器件_NN 按照_P 程序_NN 自动_AD 安装_VV 在_P 印刷_NN 电路板_NN 上_LC 的_DEC 机器_NN 。_PU 传统_JJ 的_DEG 电子_NN 装配_NN 行业_NN 主要_AD 靠_P 工人_NN 把_BA 电子_NN 元器_NN 件插_VV 在_P 电路板_NN 上_LC 。_PU 自_VV 从_P 机器_NN 开始_VV 大_JJ 规模_NN 生产_NN ，_PU 人手_NN 工_NN 插件_NN 的_DEG 速度_NN 慢_VA ，_PU 工艺_NN 差_VA 的_DEC 缺陷_NN 暴露_AD 出来_VV 。_PU 用_P 插件_NN 机把_NN 电子_NN 原件_NN 自动_AD 安装_VV 在_P 电路板_NN 上_LC ，_PU 可以_VV 节省_VV 人工_NN 成本_NN ，_PU 提高_VV 插件_NN 工艺_NN 水平_NN 。_PU
+
+插件机_NN 的_DEG 操作_NN 基本上_AD 包括_VV 了_AS 电容_NN 、_PU 电感_NN 、_PU 连接器_NN 等_ETC 这_DT 一_CD 类元_NN 器件_NN ，_PU 设计_VV 工序_NN 的_DEC 工程_NN 人员_NN 会_VV 根据_P 工作量_NN 和_CC 合理性_NN 对_P 每_DT 个_M 工位_NN 的_DEC 插件_NN 部位_NN 做_VV 分工_AD ，_PU 每_DT 个_M 机械_NN 只_AD 负责_VV 安装_VV 几_CD 个_M 原件_NN ，_PU 而且_CC 重复_AD 同样_VA 的_DEC 操作_NN ，_PU 尽可能_AD 地_DEV 减少_VV 出错机_NN 会_VV 。_PU
+
+

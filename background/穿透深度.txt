@@ -1,0 +1,11 @@
+﻿穿_VV 透_JJ 深度_NN
+
+穿透_VV 深度_NN 是_VC 光_NN 或_CC 其他_DT 电磁_NN 辐射_NN 对_P 某_DT 材料_NN 的_DEG 穿透_NN 能力_NN 的_DEG 量度_NN ，_PU 其_PN 定义_NN 为_VC 进入_VV 材料_NN 内部_NN 的_DEG 电磁_NN 辐射_NN 强度_NN 减弱_VV 为_VC 表面_NN 上_LC 最_AD 初_JJ 强度_NN 的_DEC 1_CD /_PU e_NN （_PU 约_AD 37%_CD ）_PU 距离_NN 材料_NN 表面_NN 的_DEG 深度_NN 。_PU
+
+当_P 电磁波_NN 入射_VV 到_VV 某_DT 材料_NN 的_DEG 表面_NN 时_LC ，_PU 部分_NN 会_VV 被_SB 反射_VV ，_PU 另_DT 一_CD 部分_NN 则_AD 会_VV 进入_VV 材料_NN 的_DEG 内部_NN 。_PU 这_DT 一_CD 部分_NN 的_DEC 电磁波_NN 将_BA 和_CC 材料_NN 内部_NN 的_DEG 原子_NN 发生_VV 相互_AD 作用_VV ：_PU 取决于_VV 材料_NN 的_DEG 性质_NN ，_PU 材料_NN 中_LC 的_DEG 电磁波_NN 可能_VV 传递_VV 得_DER 很_AD 远_VA ，_PU 也_AD 可以_VV 衰减_VV 得_VV 非常_AD 快_VA 。_PU 对于_P 给定_VV 的_DEC 某_DT 种_M 材料_NN ，_PU 穿透_VV 深度_NN 一般_AD 和_P 电磁波_NN 的_DEC 波长_NN 相_AD 关_VA 。_PU
+
+根据_P 比尔_NN -_PU 朗_NN 伯定律_NN ，_PU 电磁波_NN 在_P 材料_NN 内部_NN 的_DEG 强度_NN 随着_P 距离_NN 材料_NN 表面_NN 的_DEG 深度_NN 呈_VV 指数_NN 衰减_VV ：_PU
+若_CS  _P formula_NN 表示_VV 穿透_NN 深度_NN ，_PU 则_AD 有_VE
+
+
+

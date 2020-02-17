@@ -1,0 +1,10 @@
+﻿能隙_NN
+
+能隙_NN （_PU bandgap_NN 或_CC energygap_NN ）_PU 也_AD 译作_NN 能_VV 带隙_VV （_PU energybandgap_NN ）_PU 、_PU 禁带_NN -_PU {}-_NN 宽度_NN （_PU widthofforbiddenband_NN ）_PU ，_PU 在_P 固态物_NN 理学_NN 中_LC 泛指_VV 半导体_NN 或_CC 绝缘体_NN 的_DEG 价带_NN 顶端_NN 至_VV 传导_VV 带_VV 底端_NN 的_DEC 能量_NN 差距_VA 。_PU
+
+对_P 一_CD 个_M -_PU {A_NN |_NN zh_NN -_PU cn_NN :_PU 本_DT 征_VV 半导体_NN ;_PU zh_NN -_PU hk_NN :_PU 本_DT 征_VV 半导体_NN ;_PU zh_NN -_PU tw_NN :_PU 本_DT 质_NN 半导体_NN ;_PU }_NN -_PU 而_MSP 言_VV ，_PU 其_PN 导电性_NN 与_CC 能隙_NN 的_DEG 大小_NN 有关_VA ，_PU 只有_AD 获得_VV 足够_AD 能量_VV 的_DEC 电子_NN 才能_NN 从_P 价带_NN 被_SB 激发_VV ，_PU 跨过_AD 能隙_VV 并_CC 跃迁_VV 至_VV 传导带_NN 。_PU 利用_VV 费米_M -_PU 狄拉克_NN 统计_NN 可以_VV 得到_VV 电子_NN 占据_VV 某_DT 个_M 能阶_NN formula_NN __NN 1_CD 的_DEG 机率_NN 。_PU 又_AD 假设_VV formula_NN __NN 2_CD ，_PU formula_NN __NN 3_CD 是_VC 所谓_JJ 的_DEG 费米_NN 能阶_VV ，_PU 电子_NN 占据_NN formula_NN
+在_P 上_DT 式_NN 中_LC ，_PU formula_NN __NN 6_CD 是_VC 能_VV 隙_PN 的_DEG 宽度_NN 、_PU formula_NN __NN 7_CD 是_VC 波兹曼_NN 常数_CD ，_PU 而_CC formula_NN
+
+半导体_NN 材料_NN 的_DEG 能隙_NN 可以_VV 利用_VV 一些_CD 工程_NN 手法_NN 加以_VV 调整_VV ，_PU 特別是_AD 在_P 化合物_NN 半导体_NN 中_LC ，_PU 例如_AD 控制_VV 砷化镓铝_NN （_PU AlGaAs_NN ）_PU 或_CC 砷化镓铟_NN （_PU InGaAs_NN ）_PU 各_DT 种_M 元素_NN 间_LC 的_DEG 比例_NN ，_PU 或是_CC 利用_VV 如_P 分子束_NN 磊晶_NN （_PU MolecularBeamEpitaxy_NN ,_PU MBE_NN ）_PU 成长出_VV 多_CD 层_M 的_DEG 磊晶_NN 材料_NN 。_PU 这_DT 类_M 半导体_NN 材料_NN 在_P 高速_JJ 半导体_NN 元件_NN 或是_CC 光电_NN 元件_NN ，_PU 如_P -_PU {zh_NN -_PU cn_NN :_PU 异质_NN 结_VV 双极性_JJ 晶体管_NN ;_PU zh_NN -_PU tw_NN :_PU 异质_NN 接面_NN 双_VV 载子_NN 电晶体_NN ;_PU }-（HeterojunctionBipolarTransistor,_PU HBT_NN ）_PU 、_PU -_PU {A_NN |_NN zh_NN -_PU hans_NN :_PU 激光_JJ 二极管_NN ;_PU zh_NN -_PU hk_NN :_PU 激光_JJ 二极管_NN ;_PU zh_NN -_PU tw_NN :_PU 雷射_NN 二极体_NN ;_PU }_NN -_PU ，_PU 或是_CC 太阳_AD 能_VV 电池_NN 上_LC 已经_AD 成为_VV 主流_NN 。_PU
+
+

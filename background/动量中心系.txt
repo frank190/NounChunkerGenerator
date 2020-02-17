@@ -1,0 +1,27 @@
+﻿动量_NN 中心系_NN
+
+在_P 物理学_NN 中_LC ，_PU 动量_NN 中心系_NN （_PU Center_NN -_PU of_NN -_PU momentumframe_NR ）_PU 是_VC 人为_AD 选取_VV 的_DEC 这样_JJ 一_CD 个_M 参考系_NN ，_PU 在_P 此_DT 参考_NN 系_NN 中_LC ，_PU 系统_NN 的_DEG 总动量_NN 为_VC 零_CD 。_PU 动量_NN 中心_NN 系又_AD 叫做_VV 零动量系_NN （_PU zero_NN -_PU momentumframe_NR ）_PU 。_PU
+
+动量_NN 中心系_NN -_PU {_NN }_PU -_PU 的_DEG 特例_NN 是_VC 质心_JJ 参考_NN 系_NN ，_PU 即_AD 原点_NN 固定_VV 在_P 体系_NN 质心_NN 的_DEC 动量_NN 中心系_NN 。_PU
+
+一_CD 个_M 质点组_NN 组成_VV 的_DEC 系统_NN ，_PU 在_P 惯性_JJ 参考_NN 系_NN K_NN 中_LC ，_PU 各_DT 质点_NN 组成_VV 的_DEC 动量_NN 为_VC formula_NN __NN 1_CD ，_PU formula_NN
+
+另_DT 一_CD 参考系_NN K_NN '_PU 以_P 速度_NN formula_NN
+
+其中_NN ，_PU formula_NN
+
+则_AD 使_VV formula_NN __NN 8_CD ，_PU K_NN '_PU 系_NN 即_AD 为_VC 动量_NN 中心系_NN ，_PU 相对于_P K_NN 系_NN 的_DEG 速度_NN 为_VC formula_NN
+
+动量_NN 中心系_NN -_PU {_NN }_PU -_NN 中_LC ，_PU 系统_NN 总_JJ 线动量_NN 为_VC 零_CD 。_PU
+
+在_P 牛顿_NN 力学_NN 中_LC ，_PU 系统_NN 总能量_NN 在_P 动量_NN 中心系_NN -_PU {_NN }_PU -_NN 中_LC 的_DEG 观测值_NN ，_PU 为_P 系统_NN 在_P 不同_JJ 惯性_NN 系_NN 下_LC 被_SB 观测_VV 到_VV 所_MSP 具有_VV 能量_JJ 的_DEG “_PU 最_AD 小值_NN ”_PU 。_PU
+
+在_P 狭义_NN 相对_AD 论_NN 中_LC ，_PU 系统_NN 在_P 动量_NN 中心系_NN -_PU {_NN }_PU -_NN 中_LC 的_DEG 能量_NN 为_VC 系统_NN 的_DEG 静止_NN 能量_NN ，_PU 进而_AD 可_VV 给出_VV 系统_NN 的_DEG 静止_JJ 质量_NN
+
+其中_NN ，_PU formula_NN 为_VC 光速_NN 。_PU
+对于_P 质心_NN ，_PU 有_VE
+再_AD 由_P 牛顿_NN 第二_OD 定律_NN ，_PU 有_VE
+其中_NN ，_PU formula_NN 为_VV 质点_NN 系_NN 合_VV 外力_NN ，_PU formula_NN 为_VC 质心加_NN 速度_NN 。_PU 上_VV 式_NN 即_AD 为_VC 质心_NN 运动_NN 定理_NN （_PU theoremofmotionofcenter-_PU of_NN -_PU mass_NN ）_PU ，_PU 或_CC 简称_VV 为_VV 质心_NN 定理_NN 。_PU 即_AD 可以_VV 将_BA 质点_NN 组质心_NN 的_DEC 运动_NN 看做_VV 一_CD 个_M 质点_NN 的_DEG 运动_NN ，_PU 该_DT 质点_NN 质量_NN 等于_VV 整_DT 个_M 质点_NN 系_NN 的_DEG 质量_NN ，_PU 而_CC 此_DT 质点_M 所_MSP 受_VV 的_DEC 力_NN 是_VC 质点系_NN 的_DEC 合_NN 外力_NN 。_PU 当_P 合_VV 外力_NN 为_VC 零时_CD ，_PU 质心_NR 系_NN -_PU {_NN }_PU -_PU 为_VC 惯性_NN 系_NN ，_PU 否则_AD ，_PU 质心系_NN -_PU {_NN }_PU -_PU 为_VC 非_JJ 惯性_NN 系_NN ，_PU 在_P 质心系_NN -_PU {_NN }_PU -_PU 中_LC 各_DT 质点_NN 都_AD 受到_VV 一_CD 个_M 惯性力_NN formula_NN
+
+
+

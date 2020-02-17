@@ -1,0 +1,13 @@
+﻿蜗牛_NN 球_NN
+
+蜗牛球_NN ，_PU 英文_NN snailball_NN ,_PU 为_VC 一_CD 内腔_NN 含有_VV 黏滞性_NN 流体_NN 之_DEG 中空球壳_NN ，_PU 因_P 能_VV 於_P 斜坡_NN 上_LC 缓慢_AD 滚下_VV 而_MSP 得_VV 其_PN 名_NN 。_PU 蜗牛球_NN 为_VC 一_CD 种_M 科学_NN 教具_NN ，_PU 可以_VV 演示_VV 重心_NN 和_CC 流体_NN 黏滞性_NN 的_DEC 科学_NN 原理_NN 。_PU
+
+蜗牛球_NN 或_CC 蜗牛瓶_NN ，_PU 可以_VV 从_P 斜坡_NN 上_LC 以_P 非常_AD 低_VA 的_DEC 速度_NN 缓缓_VV 滚下_VV ，_PU 或_CC 呈现_VV 渐歇性_JJ 滚动_NN ，_PU 若_CS 坡度_NN 够_AD 大_VA 或_CC 速度_NN 条件_NN 许可_VV 时_LC ，_PU 则_AD 恢复_VV 正常_JJ 球体_NN 之_DEC 滚动_NN 状态_NN 。_PU
+
+空球壳_NN 之_DEG 取得_VV 较_AD 不_AD 易_VA ，_PU 而_CC 简易_VA 的_DEC 一_CD 维_NN 蜗牛瓶_NN 使用_VV 瓶子_NN 即_AD 可_VV 达成_VV ，_PU 将_BA 胶水_NN 装入瓶_NN 中_LC 约_AD 1_CD /_PU 3_CD 至_CC 1_CD /_PU 2_CD 满_M 后_LC 将_BA 瓶盖盖_NN 上_LC ,_PU 或_CC 直接_AD 使用_VV 圆柱型_JJ 胶水瓶_NN ,_PU 瓶_NN 内_LC 留剩_VV 约_AD 1_CD /_PU 3_CD 至_CC 1_CD /_PU 2_CD 满_M 后_LC 横放_VV 于_P 斜坡_NN 上_LC 即_AD 可_VV 完成_VV 装置_NN 架构_NN 。_PU
+
+调整_VV 斜坡_NN 坡度_NN ，_PU 使_VV 蜗牛瓶_NN 延斜_VV 坡滚_NN 下_LC 能够_VV 呈现_VV 缓慢_NN 或_CC 间歇性_NN 之_DEC 滚动_JJ 运动_NN ，_PU 若_CS 坡度_NN 较_AD 大_VA 而_CC 速度_NN 较_AD 快_VA 时_LC ，_PU 缓慢_VV 或_CC 间歇_VV 之_DEC 滚动_NN 将_AD 成为_VV 正常_VA 的_DEC 加速_JJ 滚动_NN 。_PU 缓慢_AD 滚动_VV 之_DEC 成因_NN 是_VC 因为_P 瓶_NN 内_LC 的_DEG 高_JJ 黏滞性_NN 流体_NN 会於_AD 旋转_VV 使_VV 瓶子_NN 整体_NN 的_DEG 重心_NN 移动_VV 至_VV 瓶子_NN 与_CC 斜坡_NN 之_DEG 接触_NN 点_NN 正_CC 上_JJ 方而_NN 使_VV 转矩_NN 消失_VV 所_MSP 致_VV ，_PU 而_CC 滚动_VV 之_DEC 速度_NN 取决_VV 於_P 黏滞性_JJ 流体_NN 使_VV 重心_NN 转移_VV 之_DEC 速度_NN ，_PU 间歇性_JJ 滚动_NN 之_DEG 成因_NN 是_VC 因为_P 瓶子_NN 之_DEG 动能_NN 和_CC 重心_NN 位置_NN 之_DEC 摇晃_NN 平_AD 衡现_VV 象而_AD 看似_VV 渐_AD 歇_VV 。_PU 当_P 旋转_NN 速度_NN 较_AD 高_VA 且_CC 黏滞性_NN 流体_NN 於_P 瓶_NN 内_LC 分布_NN 较_AD 均匀_VA 时_LC ，_PU 整体_JJ 动能_NN 会比_VV 重心_JJ 之_DEG 最大_JJ 位能_NN 还_AD 高_VA ，_PU 即_AD 会_VV 形成_VV 连续_AD 滚落_VV 之_DEC 现象_NN 。_PU
+
+蜗牛_NN 球_NN
+
+

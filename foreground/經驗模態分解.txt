@@ -1,0 +1,36 @@
+﻿_CD 经验_NN 模态_NN 分解_NN
+
+经验_NN 模态_NN 分解_NN （_PU EmpiricalModeDecomposition_NN ，_PU 缩写_VV EMD_NN ）_PU 是_VC 由_P 黄锷_NN （_PU N_CD ._PU E_NN ._PU Huang_NN ）_PU 与_P 其他_DT 人_NN 在_P 美国_NR 国家_NN 宇航局_NN 於_P 1998_CD 年_M 创造性_NN 地_DEV 提出_VV 的_DEC 一_CD 种_M 新型_JJ 自适应_NN 信号_NN 时_LC 频_VV 处理_NN 方法_NN ，_PU 特別_AD 适用于_VV 非线性_JJ 非_JJ 平稳_JJ 信号_NN 的_DEC 分析_NN 处理_VV 。_PU
+
+经验_NN 模态_NN 分解_NN （_PU EmpiricalModeDecomposition_NN ，_PU 简称_VV EMD_NN ）_PU 方法_NN 被_SB 认为_VV 是_VC 2000_CD 年_M 来_MSP 以_P 傅立叶_NN 变换_VV 为_VV 基础_NN 的_DEG 线性_NN 和_CC 稳态频_NN 谱_VV 分析_VV 的_DEC 一_CD 个_M 重_AD 大_JJ 突破_NN [_PU 1_CD ]_PU ，_PU 该_DT 方法_NN 是_VC 依据_P 数据_NN 自身_PN 的_DEG 时间_NN 尺度_NN 特征_NN 来_MSP 进行_VV 信号_NN 分解_VV ，_PU 无须_VV 预先_AD 设定_VV 任何_DT 基_NN 函数_NN 。_PU
+
+这_DT 一_CD 点_M 与_CC 建立_VV 在_P 先验性_NN 的_DEC 谐波基_NN 函数_NN 和_CC 小波基_NN 函数_NN 上_LC 的_DEG 傅_NN 里_LC 叶分_NN 解_VV 与_P 小波_NN 分解_NN 方法_NN 具有_VV 本质性_NN 的_DEC 差別_NN 。_PU 正_AD 是_VC 由于_P 这样_PN 的_DEG 特点_NN ，_PU EMD_NN 方法_NN 在_P 理论_NN 上_LC 可以_VV 应用于_VV 任何_DT 类型_NN 的_DEG 信号_NN 的_DEC 分解_NN ，_PU 因而_AD 在_P 处理_VV 非_VC 平稳_JJ 及_CC 非线性_JJ 数据_NN 上_LC ，_PU 具有_VV 非常_AD 明显_VA 的_DEC 优势_NN ，_PU 适合_VV 於_P 分析_NN 非_JJ 线性_JJ 、_PU 非_JJ 平稳_JJ 信号_NN 序列_NN ，_PU 具有_VV 很_AD 高_VA 的_DEC 信噪比_NN 。_PU 所以_AD ，_PU EMD_NN 方法_NN 一经_AD 提出_VV 后_LC ，_PU 就_AD 在_P 不同_VA 的_DEC 工程_NN 领域_NN 得到_VV 了_AS 迅速_AD 有效_VA 的_DEC 应用_NN ，_PU 例如_AD 在_P 海洋_NN 、_PU 大气_NN 、_PU 天体_NN 观测_VV 资料_NN 与_CC 地震_NN 记录_NN 分析_NN 、_PU 机械_NN 故障_NN 诊断_NN 、_PU 密频_JJ 动力_NN 系统_NN 的_DEG 阻尼_NN 识別_NN 以及_CC 大型_JJ 土木_NN 工程_NN 结构_NN 的_DEG 模态_NN 参数_NN 识別_NN 方面_NN 。_PU
+该_DT 方法_NN 的_DEG 关键_NN 是_VC 经验_NN 模式_NN 分解_VV ，_PU 它_PN 能_VV 使_VV 复杂_NN 信号_NN 分解_VV 为_VC 有_VE 限个_NN 本征模_NN 函数_NN （_PU IntrinsicModeFunction_NN ，_PU 简称_VV IMF_NN ）_PU ，_PU 所_MSP 分解_VV 出来_VV 的_DEC 各_DT IMF_NN 份量_NN 包含_VV 了_AS 原_JJ 信号_NN 的_DEG 不同_JJ 时间_NN 尺度_NN 的_DEG 局部_NN 特征_NN 信号_NN 。_PU 经验_NN 模态_NN 分解法_NN 能_VV 使_VV 非_AD 平稳_JJ 数据_NN 进行_VV 平稳化_NN 处理_NN ，_PU 再_AD 进行_VV 希尔_NN 伯_NN 特_AD 变换_VV 获得_VV 时_LC 频谱图_NN ，_PU 得到_VV 有_VE 物理_NN 意义_NN 的_DEC 频率_NN 。_PU 与_CC 短时_AD 傅立_VV 叶_NN 变换_NN 、_PU 小波_NN 分解_VV 等_ETC 方法_NN 相比_VV ，_PU 这_DT 种_M 方法_NN 是_VC 直观_VA 的_DEC 、_PU 直接_VV 的_DEC 、_PU 后验_NN 的_DEC 和_CC 自_P 适应_JJ 的_DEG ，_PU 因为_P 基函_NN 数_NN 是_VC 由_P 数据_NN 本身_PN 所_MSP 分解_VV 得到_VV 。_PU 由于_P 分解_VV 是_VC 基_NN 於_P 信号_NN 序列_NN 时间_NN 尺度_NN 的_DEG 局部_NN 特性_NN ，_PU 因此_AD 具有_VV 自_P 适应_JJ 性_NN 。_PU
+
+对_P 数据_NN 信号_NN 进行_VV EMD_NN 分解_VV 就_AD 是_VC 为了_P 获得_VV 本_DT 征模_NN 函数_NN ，_PU 因此_AD ，_PU 在_P 介绍_NN EMD_NN 分析_NN 方法_NN 的_DEG 具体_JJ 过程_NN 之前_LC 可_VV 先_AD 介绍_VV EMD_NN 分解_NN 过程_NN 中_LC 所_MSP 涉及_VV 的_DEC 基本_JJ 概念_NN 的_DEC 定义_NN ：_PU 本_DT 征模_NN 函数_NN ，_PU 这_PN 是_VC 掌握_VV EMD_NN 方法_NN 的_DEC 基础_NN 。_PU 在_P 物理_NN 上_LC ，_PU 如果_CS 瞬_CD 时频_NN 率有_VV 意义_NN ，_PU 那么_AD 函数_NN 必须_VV 是_VC 对称_VA 的_DEC ，_PU 局部_NN 均_AD 值_VV 为_VC 零_CD ，_PU 并且_CC 具有_VV 相同_VA 的_DEC 过_NN 零点_NN 和_CC 极值点_NN 数目_NN 。_PU 在_P 此_DT 基础_NN 上_LC ，_PU 有_VE 人_NN 提出_VV 了_AS 本_DT 征模_NN 函数_NN （_PU IntrinsicModeFunction_NR ，_PU 简称_VV IMF_NN ）_PU 的_DEG 概念_NN 。_PU 本_DT 征模_NN 函数_NN 任意_VV 一_CD 点_M 的_DEG 瞬时_NN 频率_NN 都_AD 是_VC 有_VE 意义_NN 的_DEC 。_PU 任何_DT 信号_NN 都_AD 是_VC 由_P 若干_CD 本_DT 征模_NN 函数_NN 组成_VV ，_PU 在_P 任何_DT 时候_NN ，_PU 一_CD 个_M 信号_NN 都_AD 可以_VV 包含_VV 若干_CD 个_M 本_DT 征模_NN 函数_NN ，_PU 如果_CS 本_DT 征模_NN 函数_NN 之间_LC 相互_AD 重叠_VV ，_PU 便_AD 形成_VV 复合_JJ 信号_NN 。_PU EMD_NN 分解_VV 的_DEC 目的_NN 就_AD 是_VC 为了_P 获取_VV 本征模_NN 函数_NN ，_PU 再_AD 对_P 各_DT 个_M 本征模_NN 函数_NN 进行_VV 希尔_NN 伯_NN 特_AD 变换_NN ，_PU 得到_VV 希尔伯_NN 特_AD 谱_VA 。_PU
+一_CD 个_M 本_DT 征模_NN 函数_NN 必须_VV 满足_VV 以下_JJ 两_CD 个_M 条件_NN ：_PU
+
+⑴_OD l_M 函数_NN 在_P 整_DT 个_M 时间_NN 范围_NN 内_LC ，_PU 局部_NN 极_AD 值_VV 点_NN 和_CC 过_VV 零_CD 点_M 的_DEG 数目_NN 必须_VV 相等_VV 或_CC 最多_AD 相差_VV 一_CD 个_M ；_PU
+
+⑵_AD 在_P 任意_VV 时刻点_NN ，_PU 局部_NN 最_AD 大值_VA 的_DEC 包络_NN （_PU 上_LC 包络_VV 线_NN ）_PU 和_CC 局部_NN 最_AD 小值_NN 的_DEC 包络_NN （_PU 下_LC 包络_VV 线_NN ）_PU 平均_AD 必须_VV 为_VC 零_CD 。_PU
+第一_OD 个_M 条件_NN 是_VC 很_AD 明显_VA 的_DEC ，_PU 它_PN 与_P 传统_JJ 的_DEG 平稳_JJ 高斯_JJ 信号_NN 的_DEC 窄带_NN 要求_NN 类似_VA 。_PU 对于_P 第二_OD 个_M 条件_NN ，_PU 是_VC 一_CD 个_M 新_VA 的_DEC 概念_NN ，_PU 它_PN 把_BA 经典_VV 的_DEC 全局性_JJ 要求_NN 修改_VV 为_VC 局部性_NN 要求_NN ，_PU 使_VV 瞬_NN 时_LC 频率_NN 不_AD 再_AD 受_VV 不_AD 对_P 称波形_JJ 所_MSP 形成_VV 的_DEC 不_AD 必要_VA 的_DEC 波动_NN 所_MSP 影响_VV 。_PU 实际上_AD ，_PU 这_DT 个_M 条件_NN 应为_VV 「_PU 数据_NN 的_DEG 局部_NN 均_AD 值_VV 是_VC 零_CD 」_PU 。_PU 但是_AD 对于_P 非_AD 平稳_JJ 数据_NN 来说_LC ，_PU 计算_VV 局部_NN 均_AD 值_VV 涉及_VV 到_VV 「_PU 局部_NN 时间_NN 尺度_NN 」_PU 的_DEG 概念_NN ，_PU 而_CC 这_PN 是_VC 很_AD 难_AD 定义_VV 的_DEC 。_PU 因此_AD ，_PU 在_P 第二_OD 个_M 条件_NN 中_LC 使用_VV 了_AS 局部_NN 极_AD 大值_AD 包络_VV 和_P 局部_NN 极_AD 小_VA 值_DEV 包络_VV 的_DEC 平均_NN 为_VC 零_CD 来_MSP 代替_VV ，_PU 使_VV 信号_NN 的_DEC 波形_JJ 局部_NN 对称_VV 。_PU 研究_NN 表明_VV ，_PU 在_P 一般_AD 情况_NN 下_LC ，_PU 使用_VV 这_DT 种_M 代替_NN ，_PU 瞬_NN 时_LC 频率_NN 还_AD 是_VC 符合_VV 所_MSP 研_VV 究系统_NN 的_DEG 物理_NN 意义_NN 。_PU 本_DT 征模_NN 函数_NN 表征_VV 了_AS 数据_NN 的_DEG 内在_JJ 的_DEG 振动_NN 模式_NN 。_PU 由_P 本_DT 征模_NN 函数_NN 的_DEC 定义_NN 可知_VV ，_PU 由过_P 零点_NN 所_MSP 定义_VV 的_DEC 本_DT 征模_NN 函数_NN 的_DEG 每_DT 一_CD 个_M 振动_JJ 周期_NN ，_PU 只_AD 有_VE 一_CD 个_M 振动_NN 模式_NN ，_PU 没有_VE 其他_DT 复杂_VA 的_DEC 奇波_NN ；_PU 一_CD 个_M 本_DT 征模_NN 函数_NN 没有_VV 约束_AD 为_VC 是_VC 一_CD 个_M 窄带_NN 信号_NN ，_PU 并且_CC 可以_VV 是_VC 频率_NN 和_CC 幅值_NN 的_DEC 调制_NN ，_PU 还_AD 可以_VV 是_VC 非_AD 稳态_VA 的_DEC ；_PU 单_AD 由_P 频率_NN 或_CC 单_AD 由_P 幅值_NN 调制_VV 的_DEC 信号_NN 也_AD 可_VV 成为_VV 本_DT 征模_NN 函数_NN 。_PU
+
+由于_P 大多数_CD 所有_DT 要_NN 分析_VV 的_DEC 数据_NN 都_AD 不_AD 是_VC 本_DT 征模_NN 函数_NN ，_PU 在_P 任意_NN 时_LC 间点_NN 上_LC ，_PU 数据_NN 可能_VV 包含_VV 多_CD 个_M 波动_NN 模式_NN ，_PU 这_PN 就_AD 是_VC 简单_VA 的_DEC 希尔_NN 伯_NN 特_AD 变换_VV 不_AD 能_VV 完全_AD 表征_VV 一般_AD 数据_NN 的_DEG 频率_NN 特性_NN 的_DEC 原因_NN 。_PU 於_AD 是_VC 需要_VV 对_P 原_JJ 数据_NN 进行_VV EMD_NN 分解_VV 来_MSP 获得_VV 本_DT 征模_NN 函数_NN 。_PU
+
+EMD_NN 分解_NN 方法_NN 是_VC 基_NN 於_P 以下_JJ 假设_JJ 条件_NN ：_PU
+
+⑴_NN 数据_NN 至少_AD 有_VE 两_CD 个_M 极值_NN ，_PU 一_CD 个_M 最_AD 大值_NN 和_CC 一_CD 个_M 最_AD 小值_NN ；_PU
+
+⑵_NN 数据_NN 的_DEG 局部_NN 时域_NN 特性_NN 是_VC 由_P 极值点_NN 间_LC 的_DEG 时间_NN 尺度_NN 唯_AD 一_AD 确定_VV ；_PU
+
+⑶_AD 如果_CS 数据_NN 没有_VE 极值点_NN 但_CC 有_VE 拐点_NN ，_PU 则_AD 可以_VV 通过_P 对_P 数据_NN 微_VA 分_PU 一_CD 次_M 或_CC 多_CD 次求_NN 得极_NN 值_NN ，_PU 然后_AD 再_AD 通过_P 积分_NN 来_MSP 获得_VV 分解_NN 结果_NN 。_PU 这_DT 种_M 方法_NN 的_DEC 本质_NN 是_VC 通过_P 数据_NN 的_DEG 特征_NN 时间_NN 尺度_NN 来_MSP 获得_VV 本_DT 征_VV 波动_NN 模式_NN ，_PU 然后_AD 分解_VV 数据_NN 。_PU 这_DT 种_M 分解_NN 过程_NN 可以_VV 形象_VA 地_DEV 称之_VV 为_VC 「_PU 筛选_NN （_PU sifting_NN ）_PU 」_PU 过程_NN 。_PU
+
+分解_NN 过程_NN 是_VC ：_PU 找出_VV 原_JJ 数据_NN 序列_NN X_NN （_PU t_NN ）_PU 所有_DT 的_DEG 极大_JJ 值点_NN 并用_VV 三_CD 次_M 样条_NN 插值_NN 函数_NN 拟合_NN 形成_VV 原_JJ 数据_NN 的_DEG 上_JJ 包络线_NN ；_PU 同样_AD ，_PU 找出_VV 所有_DT 的_DEG 极_AD 小_JJ 值点_NN ，_PU 并_CC 将_BA 所有_DT 的_DEG 极_AD 小_JJ 值点_NN 通过_P 三_CD 次_M 样条_NN 插值_NN 函数_NN 拟合_NN 形成_VV 数据_NN 的_DEG 下_JJ 包络线_NN ，_PU 上_NN 包络_VV 线_NN 和_CC 下_JJ 包络线_NN 的_DEC 均值_NN 记作_VV ml_NN ，_PU 将_BA 原_JJ 数据_NN 序列_NN X_NN （_PU t_NN ）_PU 减去_VV 该_DT 平均_JJ 包络_NN ml_NN ，_PU 得到_VV 一_CD 个_M 新_VA 的_DEC 数据_NN 序列_NN h_NN ，_PU ：_PU
+
+X_NN (_PU t_NN )_PU -_PU ml_NN =_NN hl_NN
+
+由_P 原_JJ 数据_NN 减去_VV 包络_NN 平均_VV 后_LC 的_DEG 新_JJ 数据_NN ，_PU 若_CS 还_AD 存在_VV 负_VV 的_DEC 局部_NN 极_AD 大_VA 值_NN 和_CC 正_NN 的_DEG 局部_NN 极_AD 小_VA 值_SP ，_PU 说明_VV 这_DT 还_AD 不_AD 是_VC 一_CD 个_M 本_DT 征模_NN 函数_NN ，_PU 需要_VV 继续_VV 进行_VV 「_PU 筛选_NN 」_PU 。_PU
+
+
+
+

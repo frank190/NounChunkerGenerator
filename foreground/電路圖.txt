@@ -1,0 +1,9 @@
+﻿_CS 电路图_NN
+
+电路图_NN ／_PU 原理图_NN （_PU 英文_NN ：_PU circuitdiagram_NN 、_PU electricaldiagram_NN 、_PU elementarydiagram_NN 、_PU electronicschematic_NN ）_PU ，_PU 是_VC 一_CD 种_M 简化_VV 的_DEC 电路_NN 图形_NN 表示_VV 。_PU 电路图_NN 使用_VV 简单_VA 的_DEC 图示_NN 组成_NN 电路_NN ，_PU 电路_NN 符号_NN 彼此_AD 连接_VV ，_PU 这_DT 两_CD 种_M 类型_NN 的_DEG 显示_NN 设备_NN 之间_LC 的_DEG 连接_NN ，_PU 包括_VV 电源_NN 和_CC 讯号_NN 的_DEC 连接_NN 。_PU 电路图_NN 里_LC 各_DT 电子_NN 元件_NN 的_DEC 位置_NN ，_PU 并_CC 未_AD 反应_VV 在_P 完成_VV 的_DEC 实体_NN 电路_NN 上_LC 它们_PN 的_DEG 位置_NN 。_PU
+
+不_AD 像_P 区块图_NN 或_CC 分布图_NN ，_PU 在_P 电路图_NN 中_LC 显示_NN 电路_NN 的_DEG 实际_JJ 使用_NN 的_DEC 连线_NN 。_PU
+电路图_NN 被_SB 用于_VV 电路_NN 设计_NN ，_PU 或是_CC 规划_VV 印刷_NN 电路板_NN 的_DEG 布线_NN ，_PU 或_CC 维修_NN 电器_NN 和_CC 电子_NN 设备_NN 。_PU
+
+
+

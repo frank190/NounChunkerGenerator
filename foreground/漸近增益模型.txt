@@ -1,0 +1,28 @@
+﻿渐近增_VV 益_NN 模型_NN
+
+渐_AD 近_JJ 增益_NN 模型_NN （_PU asymptoticgainmodel_NN ）_PU ，_PU 也_AD 称为_VV Rosenstark_NN 方法_NN ，_PU 是_VC 由_P 以下_JJ 渐近_NN 增益_VV 的_DEC 关系_NN 来_MSP 表示_VV 负反馈_NN 放大器_NN 的_DEG 增益_NN ：_PU
+其中_NN formula_NN
+
+图_NN 1_CD 是_VC 渐近_JJ 增益_NN 模型_NN 的_DEG 方块图_NN 。_PU 渐_AD 近_AD 增益_VV 的_DEC 关系_NN 也_AD 可以_VV 用_P 信号_NN 流_P 图_NN 表示_VV ，_PU 如_P 图_NN 二_CD 。_PU 渐_AD 近_AD 增_VV 益_NN 模型_NN 是_VC 的_DEG 特例_NN 。_PU
+渐_AD 近_AD 增益_VV "_PU G_CD "_PU 是_VC 返回_VV 比_P 趋近_VV 无限_AD 大_VA 时_LC 的_DEG 系统_NN 增益_VV ：_PU
+
+而_AD 直接_AD 传递_VV 项_CD "_PU G_CD "_PU 也_AD 称为_VV 前_LC 馈_AD 增益_VV ，_PU 是_VC 返回_VV 比_VV 为_VC 零_CD 时_LC 的_DEG 系统_NN 增益_VV ：_PU
+
+
+使用_VV 此_DT 模型_NN 分析_NN ，_PU 可_VV 分为_VV 以下_JJ 步骤_NN ：_PU
+
+上述_JJ 的_DEG 步骤_NN 可以_VV 在_P SPICE_NN 中_LC 用_P 小_JJ 信号_NN 模型_NN 的_DEG 手工_NN 分析_NN 求得_VV 。_PU 此_DT 作法_NN 中_LC ，_PU 已经_AD 可以_VV 找到_VV 设备_NN 的_DEG 相依_JJ 电源_NN 。_PU 相反_VV 的_DEC ，_PU 若_CS 是_VC 用_P 实际_JJ 设备_NN 进行_VV 实验_NN ，_PU 或_CC 是_VC 用_P 数值_NN 产生_VV 的_DEC 模型_NN 进行_VV SPICE_NN 模拟_NN ，_PU 无法_AD 求得_VV 设备_NN 的_DEG 相依_JJ 电源_NN ，_PU 就_AD 需要_VV 透过_VV 其他_DT 方式_NN 来_MSP 计算_VV 返回比_NN 。_PU
+
+和_CC 经_P 典回授_NN 控制_VV 理论_NN 中_LC 不_AD 考虑_VV 前_DT 馈_CD 项_M 的_DEG 影响_NN （_PU "_PU G_CD "_PU ）_PU ，_PU 若_CS 省_NN 略_AD 前_JJ 馈项_NN ，_PU 渐_AD 近_AD 增益_NN 模型_NN 的_DEG 增益_NN 为_VC
+
+在_P 经典_AD 控制_VV 理论_NN 中_LC ，_PU 若_CS 开_VV 回路_NN 增_VV 益_NN 用_P A_NN 来_MSP 表示_VV ，_PU 则_AD 有_VE 回授_NN 时_LC 的_DEG 增益_NN （_PU 闭_VV 回路_NN 增益_VV ）_PU 为_VC ：_PU
+
+比较_VV 上述_JJ 两_CD 式_NN ，_PU 可以_VV 计算_VV 回_VV 授因_NN 素_NN "_PU β_NN "_PU ：_PU
+
+而_MSP 开回_VV 路增_NN 益_NN 为_VC ：_PU
+
+若_CS 其_PN 準确度_NN 足够_VV ，_PU 上_VV 式_NN 公式_NN 是_VC 另外_DT 一_CD 个_M 计算_NN "_PU T_NN "_PU 的_DEG 方式_NN ：_PU 计算开_NN 回路_NN 增_VV 益_NN 以及_CC "_PU G_CD "_PU ，_PU 用_P 此_DT 式_NN 来_MSP 计算_VV "_PU T"_VV 。_PU 一般_AD 这_DT 两_CD 项_M 会比_NN "_PU T_NN "_PU 容易_AD 计算_VV 。_PU
+
+
+
+

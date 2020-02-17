@@ -1,0 +1,15 @@
+﻿莫_NN 顿数_NN
+
+莫_AD 顿数_NN （_PU ，_PU 简称_VV Mo_NN ）_PU 是_VC 流体_NN 力学_NN 的_DEG 无量_JJ 纲_NN ，_PU 和_CC 厄特沃_NN 什_DT 数_NN 一起_AD 描述_VV 泡泡_VV 或是_CC 水滴_AD 在_P 流体_NN 或是_CC 连续_AD 相中_VV 移动_VV 时_LC 的_DEG 外形_NN 。_PU 莫_AD 顿_M 数定义_NN 为_VC ：_PU
+
+其中_NN ：_PU
+
+针对_VV 内部_NN 密度_NN 小到_NN 可以_VV 忽略_VV 的_DEC 泡泡_NN ，_PU 莫_AD 顿数_NN 可以_VV 简化_VV 如下_VV ：_PU
+
+莫_AD 顿数_NN 可以_VV 用韦_VV 伯数_CD 、_PU 福禄数_NN 和_CC 雷诺_NN 数_CD 定义_VV ：_PU
+
+上述_JJ 的_DEG 福禄_NN 数定义_NN 如下_VV ：_PU
+
+其中_NN
+
+

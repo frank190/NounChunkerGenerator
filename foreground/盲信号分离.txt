@@ -1,0 +1,54 @@
+﻿盲_NN 信号_NN 分离_NN
+
+盲_NN 信号_NN 分离_VV ，_PU 信号_NN 分离_VV ，_PU 盲_NN 信号_NN 源_NN 分离_VV 指_VV 的_DEC 是_VC 从_P 多_CD 个_M 观测_VV 到_VV 的_DEC 混合_JJ 信号_NN 中_LC 分析_VV 出没_VV 有_VE 观测_VV 的_DEC 原始_NN 信号_NN 。_PU 通常_AD 观测_VV 到_VV 的_DEC 混合_JJ 信号_NN 来自_VV 多_CD 个_M 传感器_NN 的_DEG 输出_NN ，_PU 并且_CC 传感器_NN 的_DEG 输出_NN 信号_NN 独立性_NN （_PU 线性_JJ 不相关_NN ）_PU 。_PU 盲_NN 信号_NN 的_DEC “_PU 盲_NN ”_PU 字_NN 强调_VV 了_AS 两点_NN ：_PU 1_CD )_PU 原始_JJ 信号_NN 并_AD 不_AD 知道_VV ；_PU 2_CD )_PU 对于_P 信号_NN 混合_VV 的_DEC 方法_NN 也_AD 不_AD 知道_VV 。_PU 最常_AD 用_VV 在_P 的_DEG 领域_NN 是_VC 在_P 数位_NN 讯号_NN 处理_VV ，_PU 且_CC 牵涉_VV 到_VV 对_P 混合_JJ 讯号_NN 的_DEG 分析_NN 。_PU 最_AD 主要_VA 的_DEC 目标_NN 就_AD 是_VC 将_BA 原始_VA 的_DEC 信号_NN 还原_CC 出_VV 原始_JJ 单一_JJ 的_DEG 讯号_NN 。_PU 经_P 典来_NT 诠释_VV 信号_NN 分离_VV 的_DEC 例子_NN 是_VC 鸡尾_NN 酒会_NN 效应_NN ，_PU 当_P 许多_CD 人_NN 一起_AD 在_VV 同_DT 一_CD 个_M 空间_NN 里_LC 说话_VV 的_DEC 时候_NN ，_PU 听_VV 者_NN 可以_VV 专注_AD 於_P 某_DT 一_CD 个_M 人说_NN 的_DEG 话_NN 上_LC ，_PU 人类_NN 的_DEG 脑袋_NN 可以_VV 处理_VV 这_DT 类_M 的_DEG 语音_NN 讯号_NN 分离_VV 问题_NN ，_PU 但是_CC 在_P 数位_NN 语音_NN 处理_NN 里_LC ，_PU 这_DT 个_M 问题_NN 还_AD 是_VC 一_CD 个_M 困难_VA 的_DEC 问题_NN 。_PU
+
+这_DT 个_M 问题_NN 到_VV 目前_NT 为_VC 止还_VV 是_VC 欠定_VV 的_DEC ，_PU 但是_CC 在_P 一些_CD 特定_JJ 的_DEG 情况_NN 下_LC ，_PU 有_VE 一些_CD 很_AD 有用_VA 的_DEC 解决_NN 方式_NN 。_PU 这_DT 个_M 领域_NN 在_P 早期_NT 都_AD 是_VC 集中_VV 在_P 研究_NN 时间_NN 讯号_NN ，_PU 像是_CC 声音_NN ，_PU 然而_AD ，_PU 盲_NN 信号_NN 分离_VV 目前_NT 已经_AD 可以_VV 处理_VV 在_P 多_CD 为_VC 杜_NN 的_DEC 资料_NN 上_LC ，_PU 像_P 是_VC 图片_NN 和_CC 张量_NN ，_PU 是_VC 有_VE 可能_NN 不_AD 会_VV 时间_NN 维度_NN 的_DEC 。_PU
+
+虽然_CS 这_DT 个_M 问题_NN 已经_AD 提出_VV 了_AS 许多_CD 解决_NN 方式_NN ，_PU 然而_AD 现在_NT 还_AD 是_VC 持续_VV 的_DEC 被_SB 研究_VV 当_P 中_LC ，_PU 当_P 时间_NN 没有_VE 延迟_VV 的_DEC 时_NN 候_LC ，_PU 有些_DT 成功_VV 的_DEC 解决_NN 方式_NN 像_AD 是_VC 主_JJ 成分_NN 分析_NN 和_CC 独立_NN 成分_NN 分析_VV ，_PU 运算式_JJ 听觉_NN 场景_NN 分析_NN 就_AD 是_VC 一_CD 个_M 领域_NN 在_P 研究_NN 如_P 何_PN 根据_P 人类_NN 的_DEC 听觉_NN 来_MSP 尝试_VV 达到_VV 语音_NN 讯号_NN 的_DEG 分离_NN 。_PU
+
+人脑_NN 在_P 处理_VV 这_DT 种_M 问题_NN 的_DEC 时候_NN 是_VC 即时_NT 的_DEG ，_PU 这_DT 种_M 能力_NN 通常_AD 称为_VV 听觉_NN 场景_NN 分析_NN 或是_CC 鸡尾_NN 酒会_NN 效应_NN 。_PU
+
+如果_CS 可以_VV 对_P 信号_NN 混合_VV 的_DEC 方式_NN 直接_AD 建模_VV ，_PU 当然_AD 是_VC 最_AD 好_VA 的_DEC 方法_NN 。_PU 但是_AD ，_PU 在_P 盲_NN 信号_NN 分离_NN 中_LC 我们_PN 并_AD 不_AD 知道_VV ，_PU 信号_NN 混合_VV 的_DEC 方式_NN ，_PU 所以_AD ，_PU 只_AD 能_VV 采用_VV 统计_VV 的_DEC 方法_NN 。_PU 算法_NN 做出_VV 了_AS 如下_VV 的_DEC 假定_NN ：_PU
+
+具有_VV formula_NN __NN 1_CD 个_M 独立_VA 的_DEC 信号_NN 源_NN formula_NN __NN 2_CD 和_CC formula_NN __NN 3_CD 个_M 独立_VA 的_DEC 观察量_NN formula_NN
+
+formula_NN
+
+其中_NN formula_NN __NN 6_CD ,_PU formula_NN __NN 7_CD ,_PU formula_NN __NN 8_CD 是_VC 一_CD 个_M formula_NN __NN 9_CD 的_DEG 系数_NN 矩阵_NN ，_PU 原_JJ 问题_NN 变成_VV 了_AS 已_AD 知_VV formula_NN __NN 10_CD 和_CC formula_NN __NN 11_CD 的_DEG 独立性_NN ，_PU 求_VV 对_P formula_NN
+
+formula_NN
+
+其中_NN formula_NN __NN 14_CD 是_VC 对_P formula_NN __NN 11_CD 的_DEG 估计_NN ，_PU W_NN 是_VC 一_CD 个_M formula_NN
+
+1_CD )_PU 各_DT 源_NN 信号_NN formula_NN __NN 17_CD 均_AD 为_VC 零均值_NN 信号_NN ，_PU 实_AD 随_P 机变量_NN ，_PU 信号_NN 之间_LC 统计_VV 独立_VA 。_PU 如_P 果源_NN 信号_NN formula_NN __NN 17_CD 的_DEG 概率_NN 密度_NN 为_VC formula_NN __NN 19_CD ,_PU 则_AD formula_NN __NN 20_CD 的_DEG 概率_NN 密度_NN 为_VC :_PU formula_NN
+
+2_CD )_PU 源_NN 信号_NN 数目_NN formula_NN __NN 1_CD 小于_VV 等于_VV 观察_NN 信号_NN 数目_NN formula_NN __NN 3_CD ，_PU 即_AD formula_NN __NN 24_CD 。_PU 混合_JJ 矩阵_NN formula_NN __NN 8_CD 是_VC 一_CD 个_M formula_NN __NN 26_CD 的_DEC 矩阵_NN 。_PU 假定_JJ formula_NN
+
+3_CD )_PU 源_NN 信号_NN 中_LC 只_AD 允许_VV 有_VE 一_CD 个_M 高斯_JJ 分布_NN ，_PU 当_P 多于_VV 一_CD 个_M 高斯_JJ 分布_NN 时_LC ，_PU 源_NN 信号_NN 变得_VV 不_AD 可_VV 分_SP 。_PU
+
+自然_JJ 梯度_NN 法_NN 的_DEG 计算_NN 公式_NN 为_VC ：_PU formula_NN
+
+其中_NN formula_NN __NN 29_CD 为_VC 我们_PN 需要_VV 估计_VV 的_DEC 矩阵_NN 。_PU formula_NN __NN 30_CD 为_VC 步长_NN ,_PU formula_NN __NN 31_CD 是_VC 一_CD 个_M 非_AD 线性_JJ 变换_NN ，_PU 比如_AD formula_NN
+
+实际_JJ 计算_NN 时_LC y_NN 为_VC 一_CD 个_M formula_NN
+
+1_CD )_PU 初始化_JJ W(0)_NN 为_VC 单位_JJ 矩阵_NN
+
+2_CD )_PU 循环_NN 执行_VV 如下_JJ 的_DEG 步骤_NN ,_PU 直_AD 到_P W_NN (_PU n_NN +_PU 1_CD )_PU 与_CC W_NN (_PU n_NN )_PU 差异_NN 小于_VV 规定值_NN formula_NN
+
+3_CD )_PU 利用_VV 公式_NN formula_NN __NN 35_CD ,_PU (_PU 其中_NN formula_NN
+
+4_CD )_PU 利用_VV 公式_NN formula_NN
+
+在_P 信号_NN 分离_VV 的_DEC 方法_NN 中_LC ，_PU 大_JJ 部分_NN 的_DEG 论文_NN 都_AD 是_VC 利用_VV 短时_JJ 距傅_NN 立叶_VV 变换_VV ，_PU 将_BA 声音_NN 转换_VV 成_VV 时_NN 频谱_VV ，_PU 且_CC 会_VV 用_VV 梅尔_NN 刻度_NN ，_PU 模仿人_NN 耳_VV 对_P 等距音_JJ 高_JJ 变化_NN 的_DEC 感官_NN ，_PU 来_MSP 做到_VV 抽样_JJ 频率_NN 的_DEC 减少_VV ，_PU 最后_AD 再_AD 从_P 混和_VV 信号_NN 的_DEC 时_NN 频_VV 谱_NN 中_LC 找出_VV 由_P 一_CD 个_M 信号_NN 源_NN 所_MSP 发出_VV 干净_VA 的_DEC 单一_JJ 讯号_NN 的_DEC 时_NN 频_VV 谱_NN ，_PU 用_P 反短_VV 时_LC 距_VV 傅_NN 立_VV 叶_NN 转换_VV 找出_VV 单一_JJ 讯号_NN 的_DEC 声音_NN 。_PU 有_VE 一_CD 部分_NN 的_DEG 论文_NN 是_VC 用_P 非线性_JJ 回归_NN 的_DEC 技术_NN 来_MSP 找出_VV ，_PU 而_CC 说到_VV 经典_VA 的_DEC 作法_NN ，_PU 就_AD 要_VV 提到_VV 这_DT 篇_M 论文_NN ，_PU 要_VV 解决_VV 的_DEC 是_VC 盲_JJ 信号_NN 分离_VV ，_PU 作法_AD 是_VC 将_BA 时频_NN 谱_NN 的_DEG 抽样_NN 时刻_NN 和_CC 频率_NN ，_PU 利用_VV 神经_NN 网路_NN 和_CC 集群_NN 来_MSP 分成_VV 不同_VA 群_SP ，_PU 每_DT 一_CD 群_M 代表_VV 的_DEC 是_VC 哪_DT 一_CD 个_M 讲话者_NN 在_P 那_DT 个_M 抽样_NN 里_LC 佔_CS 了_AS 最_AD 大_VA 的_DEC 比例_NN ，_PU 这_DT 种_M 方法_NN 称为_VV "_PU deepclustering_NN "_PU ，_PU 有_VE 许多_CD 论文_NN \_PU 都_AD 是_VC 在_P 这_DT 上面_NN 做_VV 延伸_VV 。_PU
+
+然而_AD 利用_VV 时频谱_NN 来_MSP 作为_VV 讯号_NN 的_DEG 特征_NN ，_PU 有_VE 几_CD 项_M 缺点_NN 的_DEC ，_PU
+
+
+
+
+这些_DT 问题_NN 都_AD 发生_VV 在_P 用时_NT 频谱_VV 来_MSP 做_VV 讯号_NN 分离_VV ，_PU 而_CC 最_AD 直觉_VA 的_DEC 解决_NN 方式_NN 就_AD 是_VC 直接_AD 在_P 时域_NN 上_LC 做_VV ，_PU 这样_AD 就_AD 可以_VV 避免_VV 将_BA 声音_NN 的_DEG 大小声_NN 和_CC 相位做_NN 分离_VV 。_PU 其中_NN 表现_VV 的_DEC 最_AD 好_VA 的_DEC 就_AD 是_VC Conv_NN -_PU Tasnet_NN 这_DT 个_M 方法_NN ，_PU Conv_NN -_PU Tasnet_NN 可_VV 分为_VV 三_CD 个_M 区块_NN ，_PU 编码器_NN （_PU encoder_NN ）_PU 、_PU 分离器_NN （_PU separator_NN ）_PU 和_CC 解码器_NN （_PU decoder_NN ）_PU ，_PU 编码器_NN 将_BA 一_CD 小段_M 的_DEG 混_NN 和_CC 讯换_NN 转换_NN 为_VC 在_P 特征_NN 空间_NN （_PU featurespace_NN ）_PU 上_LC 的_DEG 特征_NN 向量_VV ，_PU 借由_VV 这_DT 个_M 特征_NN 向量_VV ，_PU 分离器_NN 要_VV 找出_VV 一_CD 个_M 相_AD 对应_VV 的_DEC 遮罩_NN （_PU mask_NN ）_PU ，_PU 将_BA 特征_NN 向_P 量_NN 和_CC 遮罩做_NN 相乘_VV 后_LC ，_PU 再_AD 用_P 解码器_NN 将_BA 其_PN 转换_VV 为_VC 原始_JJ 讯号源_NN 所_MSP 发出_VV 的_DEC 单一_JJ 讯号_NN 。_PU
+
+盲_NN 信号_NN 分离_VV 最早_AD 由_P Herault_NN 和_CC Jutten_NN 在_P 1985_CD 年_M 提出_VV ，_PU 发表_VV 在_P 一篇_NN 法文_NN 杂志_VA 上_LC 。_PU 随后_AD 他们_PN 相继_AD 发表_VV 文章_NN 对_P 盲_NN 信号_NN 问题_NN 做出_VV 分析_NN ，_PU 提出_VV 了_AS 一_CD 种_M 自_AD 适应_VV 的_DEC 方法_NN 。_PU 其他_DT 一_CD 些学者_NN 对_P 他们_PN 的_DEC 方法_NN 进行_VV 了_AS 分析_NN ，_PU 分析_VV 了_AS 他们_PN 提出_VV 的_DEC 方法_NN 的_DEC 稳定性_NN ，_PU 在_P 他们_PN 工作_VV 的_DEC 基础_NN 上_LC ，_PU 引入_VV 了_AS 神经_NR 网络_NN 的_DEC 方法_NN 对_P 盲_NN 信号_NN 进行_VV 分离_NN ，_PU 并_CC 对_P 其_PN 稳定性_NN 进行_VV 了_AS 分析_NN 。_PU
+
+

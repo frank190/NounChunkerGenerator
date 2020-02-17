@@ -1,0 +1,12 @@
+﻿介面_NN (_PU 资讯_NN 科技_NN )_PU
+
+-_PU {zh_NN :_PU 介面_NN ;_PU zh_NN -_PU cn_NN :_PU 接口_NN ;_PU zh_NN -_PU tw_NN :_PU 介面_NN }_PU -_PU （_PU ）_PU ，_PU 台湾译_NN 为_VC -_PU {_PU 介_NN }_PU -_PU 面_NN ，_PU 仲介_NN 之面_LC 的_DEG 意思_NN ；_PU 中国_NR 大_JJ 陆译作_NN -_PU {界}-_PU 面_NN ，_PU 也_AD 译作_NN -_PU {_NN 接口_NN }_PU -_PU ，_PU 但_CC 「_PU port_NN 」_PU 大陆_CD 也_AD 是_VC 译作_NN -_PU {_NN 接口_NN }_PU -_PU 。_PU 介面_NN 泛指_NN 实体_NN 把_BA 自己_AD 提供_VV 给_P 外界_VV 的_DEC 一_CD 种_M 抽象化物_NN （_PU 可以_VV 为_VV 另_DT 一_CD 实体_NN ）_PU ，_PU 用以_VV 由_P 内部_NN 操作分_NN 离出_VV 外部_NN 沟通_NN 方法_NN ，_PU 使_VV 其_PN 能_VV 被_SB 修改_VV 内部_NN 而_CC 不_AD 影响_VV 外界_NN 其他_DT 实体_NN 与_P 其_PN 互动_VV 的_DEC 方式_NN ，_PU 就_AD 如_P 物件_NN 导向_NN 程式_NN 设计_VV 提供_VV 的_DEC 多重_JJ 抽象化_NN 。_PU 介面_NN 可能_VV 也_AD 提供_VV 某_DT 种_M 意义_NN 上_LC 的_DEG 在_P 讲_VV 不同_JJ 语言_NN 的_DEC 实体_NN 之间_LC 的_DEG 翻译_NN ，_PU 诸如_AD 人类_NN 与_CC 电脑_NN 之间_LC 。_PU 因为_P 介面_NN 是_VC 一_CD 种_M 间接_AD 手段_VV ，_PU 所以_AD 相_AD 比起_VV 直接_AD 沟通_VV ，_PU 会_VV 引致_VV 些_CD 额外_NN 负担_NN 。_PU
+
+人类_NN 与_CC 电脑_NN 等_ETC 资讯_NN 机器_NN 或_CC 人类_NN 与_CC 程式_NN 之间_LC 的_DEG 介面_NN 称为_VV 使用者_NN 介面_NN 。_PU 电脑_NN 等_ETC 资讯_NN 机器_NN 硬体_NN 元件_NN 间_LC 的_DEG 介面_NN 叫_VV 硬体_NN 介面_NN 。_PU 电脑_NN 等_ETC 资讯_NN 机器_NN 软体_NN 元件_NN 间_LC 的_DEG 介面_NN 叫_VV 软体_NN 介面_NN 。_PU
+硬体_NN 介面_NN 为_VC 电脑_NN 等_ETC 的_DEG 资讯_NN 机器_NN 的_DEC 硬体_NN 之间_LC 通信_VV 时_LC 的_DEG 物理_NN 连接器_NN 形状_NN 、_PU 传送_VV 接收_NN 信号_NN 的_DEC 方法_NN （_PU 协定_NN ）_PU 等等_VV 的_DEC 规格_NN 。_PU 主要_AD 可_VV 分为_VV 并列_AD 链接_VV 的_DEC 和_CC 位元_NN 序列_NN 链接_VV 的_DEC 。_PU 序列_NN 链接者_NN 相_AD 比起_VV 并列_AD 链接者_NN ，_PU 多_AD 得_VV 多_AD 使用_VV 同_DT 一_CD 电线_NN 作为_VV 信号_NN 控制线_NN 和_CC 电源_NN 供应线_NN 。_PU 个人_NN 电脑_NN 领域_NN ，_PU 因_P 并列_AD 链接_VV 向_P 更_AD 高_JJ 传输_NN 速度_NN 的_DEG 发展_NN 遇到_VV 瓶_VV 项_NN ，_PU 而_CC 在_P 向_P 各_DT 介面_NN 的_DEC 序列_NN 链接_NN 方式_NN 迁移_VV （_PU 参看_VV 总_JJ 线_NN ）_PU 。_PU
+
+
+
+
+
+

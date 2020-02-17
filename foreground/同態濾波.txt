@@ -1,0 +1,29 @@
+﻿同_JJ 态滤波_NN
+
+同_DT 态滤波_NN 是_VC 一_CD 种_M 广泛_AD 用于_VV 信号_NN 和_CC 图像_NN 处理_VV 的_DEC 技术_NN ，_PU 将_BA 原本_JJ 的_DEG 信号_NN 经由_P 非_JJ 线性_JJ 映射_NN ，_PU 转换_VV 到_VV 可以_VV 使用_VV 线性_JJ 滤波器_NN 的_DEG 不同_JJ 域_NN ，_PU 做完_NN 运算_VV 后_LC 再_AD 映射_VV 回原_NN 始域_NN 。_PU 同_DT 态_NN 的_DEG 性质_NN 就_AD 是_VC 保持_VV 相关_JJ 的_DEG 属性_NN 不_AD 变_VV ，_PU 而_CC 同_DT 态滤波_NN 的_DEC 好处_NN 是_VC 将_BA 原本_AD 复杂_VA 的_DEC 运算_NN 转为_VV 效能_NN 相同_VA 但_CC 相对_AD 简单_VA 的_DEC 运算_NN 。_PU 这_DT 个_M 概念_NN 在_P 1960_CD 年代_NN 由_P ，_PU 和_CC 在_P 麻省_NN 理工_NN 学院_VV 提出_VV 。_PU
+
+同_DT 态滤波_NN 利用_VV 去除_VV 乘性_JJ 噪声_NN (_PU )_NN ，_PU 可以_VV 同时_AD 增加_VV 对_P 比度_NN 以及_CC 标準化_NN 亮度_NN ，_PU 借此_AD 达到_VV 图像_NN 增强_VV 的_DEC 目的_NN 。_PU
+
+一_CD 副_JJ 图像_NN 可以_VV 表示_VV 为_VC 其_PN 照度_NN (_PU illumination_NN )_PU 分量_NN 和_CC 反射_NN (_PU reflectance_NN )_PU 分量_NN 的_DEG 乘积_NN ，_PU 虽然_CS 在_P 时域_NN 上_LC 这_DT 两_CD 者_NN 是_VC 不_AD 可_VV 分离_VV 的_DEC ，_PU 但是_AD 经由_P 傅立叶_NN 转换_VV 两_CD 者_NN 在_P 频域_NN 中_LC 可以_VV 线性_JJ 分离_NN 。_PU 由于_P 照度_NN 可视_VV 为_VC 环境_NN 中_LC 的_DEG 照明_NN ，_PU 相对_AD 变化_VV 很_AD 小_VA ，_PU 可以_VV 看作_VV 是_VC 图像_VA 的_DEC 低_JJ 频成份_NN ；_PU 而_CC 反射率_NN 相对_P 变化_VV 较_AD 大_VA ，_PU 则_AD 可视_VV 为_VC 高频_JJ 成份_NN 。_PU 通过_P 分別_NN 处理_VV 照度_NN 和_CC 反射率_NN 对像元_NN 灰度_NN 值_NN 的_DEG 影响_NN ，_PU 通常_AD 是_VC 借由_P 高_JJ 通滤波器_NN (_PU high_NN -_PU passfilter_NN )_NN ，_PU 让_VV 图像_NN 的_DEG 照明_NN 更加_AD 均匀_VA ，_PU 达到_VV 增强_VV 阴影区_NN 细节_NN 特征_NN 的_DEC 目的_NN 。_PU
+
+对于_P 一_CD 副_M 图像_NN ，_PU 可_VV 表示_VV 为_VC 照射_JJ 分量_NN 和_CC 反射_NN 分量_NN 的_DEG 乘积_NN ，_PU 即_AD
+
+formula_NN
+
+其中_NN ，_PU m_NN 为_VC 图像_NN ，_PU i_NN 为_VC 照度_NN 分量_NN ，_PU r_NN 为_VC 反射_NN 分量_NN 。_PU
+
+为了_P 在_P 频域_NN 中_LC 使用_VV 高通_JJ 滤波器_NN ，_PU 我们_PN 必须_VV 进行_VV 傅立_NN 叶_NN 转换_VV ，_PU 但_CC 由于_P 上_NN 式_NN 是_VC 一_CD 个_M 乘积式_NN ，_PU 不_AD 能_VV 直接_AD 对_P 照度_NN 和_CC 反射_NN 的_DEC 频率_NN 分量_NN 进行_VV 操作_NN ，_PU 因此_AD 对上式_JJ 取_VV 对数_NN
+
+formula_NN
+
+最后_AD ，_PU 对_P n_NN 使用_NN 指数_NN 函数_NN (_PU exponential_NN )_PU 来_MSP 复原_VV 我们_PN 一开_AD 始取_VV 的_DEC 自然_JJ 对数_NN
+
+formula_NN
+
+其中_NN m_NN '_PU 为_VC 做完_VV 同_DT 态滤波_NN 的_DEC 新图_NN 像_NN 。_PU
+
+在_P 对数_NN 谱域_NN 中_LC 使用_VV 同_DT 态滤波_NN 来_MSP 将_BA 滤波_NN 效应_NN (_PU filtereffect_NN )_PU 与_P 激励_NN 效应_NN (_PU excitationeffect_NN )_PU 分开_VV ，_PU 例如_AD 在_P 表示_VV 声音_NN 的_DEG 倒频谱_NN (_PU cepstrum_NN )_PU 计算_NN 中_LC ，_PU 对数_NN 谱域_NN 中_LC 的_DEG 增强_NN 可以_VV 提高_VV 声音_NN 清晰度_NN ，_PU 可以_VV 应_VV 於_P 於_P 助听器_NN 。_PU
+
+同_DT 态滤波_NN 用于_VV 消除_VV 源自_VV sEMG_NN 信号_NN 的_DEC 随机_NN 脉冲串_NN 的_DEG 影响_NN 。_PU 通过_P 这_DT 种_M 方式_NN ，_PU 只_AD 保留_VV 有关_JJ 运动_NN 单元_NN 动作_NN 电位_NN （_PU MUAP_NN ）_PU 形状_NN 和_CC 振幅_NN 的_DEG 信息_NN ，_PU 如此_AD 用于_VV 估计_VV MUAP_NN 本身_PN 的_DEG 时域_NN 模型_NN 参数_NN 。_PU
+
+

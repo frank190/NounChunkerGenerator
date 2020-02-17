@@ -1,0 +1,7 @@
+﻿HDBaseT_Err
+
+HDBaseT_NR 是_VC 由_P HDBaseT_NN 联盟_NN 推广_NN 和_CC 推进_VV 的_DEC 消费_NN 电子_NN 产品_NN 和_CC 商业_NN 连接_VV 标准_NN ，_PU 它_PN 可_VV 通过_VV （_PU Cat5e_M 或_CC 更_AD 高_VA ）_PU 传输_VV 未_AD 压缩_VV （_PU HD_M ）_PU 、_PU 音频_NN 、_PU 电能_NN 、_PU 、_PU 以太_NR 网_NN 、_PU USB_NN 和_CC 一些_CD 控制_NN 信号_NN ，_PU 其_PN 使用_NN 与_CC 以_MSP 太_VV 网_NN 相同_VA 的_DEC 。_PU
+
+
+
+

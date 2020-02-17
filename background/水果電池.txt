@@ -1,0 +1,7 @@
+﻿水果_NN 电池_NN
+
+水果_NN 电池_NN 是_VC 利用_VV 水果_NN 的_DEC 氧化还原_NN 反应_NN 产生_VV 电位差_NN 来_MSP 进行_VV 发电_NN 。_PU
+
+一般而言_AD ，_PU 水果_NN 含有_VV 丰富_VA 的_DEC 维生素_NN C_NN 而_CC 呈_VV 现酸性_NN ，_PU 水果_CS 电池_NN 的_DEG 原理_NN 即_AD 是_VC 利用_VV 果汁_NN 中_LC 酸性_JJ 物质_NN 的_DEC 氢离子_NN 在_P 正极_NN 被_SB 还原_VV 成_VV 氢气_NN （_PU 氢_NN 之_DEG 标準_NN 还原_CC 电位_NN 为_VC 0_CD ._PU 0_CD 0_CD V_M ）_PU ，_PU 而_CC 负极_NN 的_DEC 锌易_NN 被_SB 氧化_VV （_PU 锌_NN 的_DEG 标準_NN 氧化_NN 电位_NN 为_VC 0_CD ._PU 74V_CD ）_PU 。_PU 因此_AD ，_PU 以_P 铜片_NN 为_VC 正极_NN ，_PU 锌片_NN 为_VC 负极_NN 时_LC ，_PU 产生_VV 的_DEC 电位差_NN 为_VC 0_CD ._PU 74V_CD
+
+

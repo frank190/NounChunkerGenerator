@@ -1,0 +1,14 @@
+﻿死区_NN 时间_NN
+
+Deadtime_NR 或_CC deadtime_NN 是_VC 粒子_NN 侦测器_NN 系统_NN 或_CC 开关_NN 电源_NN 系统_NN 中_LC 特定_JJ 长度_NN 的_DEG 不动作_NN 时间_NN 。_PU
+
+在_P 粒子_NN 和_CC 核子_NN 物理_NN 的_DEC 粒子_NN 侦测器_NN 系统_NN ，_PU deadtime_NN 意指_VV 在_P 每_DT 个_M 事件_NN （_PU event_NN ）_PU 发生_VV 后_LC ，_PU 系统_NN 不_AD 能_VV 再_AD 记录_VV 接着_AD 发生_VV 的_DEC 事件_NN 的_DEC 那_DT 段_M 时间_NN 。_PU 就像_AD 用_P 闪光灯_NN 拍照_VV 后_LC ，_PU 眼睛_NN 需要_VV 一_CD 段_M 时间_NN 调整_VV ，_PU 才_AD 能_VV 再_AD 看见_VV 。_PU
+
+开关_NN 电源_NN 系统_NN 中_LC ，_PU Deadtime_NN 是_VC 指为_VV 了_AS 避免_VV 推挽式_JJ 连接_NN 的_DEC 两_CD 个_M 电晶体_NN 开关_NN 同时_AD 导通_VV 而_CC 引入_VV 的_DEC 时间_NN 。_PU
+
+推挽式_JJ 连接_NN 的_DEC 两_CD 个_M 电晶体_NN 开关_NN ，_PU 交互_AD 地_DEV 导通_VV 和_CC 关闭_VV 来_MSP 改变_VV 线圈_NN 中_LC 电流_NN 的_DEG 方向_NN 。_PU 为_VC 避免_VV 两_CD 个_M 电晶体_NN 同时_AD 导通_VV 造成_VV 不要_VA 的_DEC ，_PU 控制_VV 电路_NN 在_P 开关_NN 动作_NN 引入_VV 了_AS deadtime_NN 特性_NN 。_PU 在_P deadtime_NN 期间_NN ，_PU 即使_CS 前置_NN 系统_NN 发出_VV 要_VV 另_DT 一_CD 颗_M 电晶体_NN 导通_VV 的_DEC 信号_NN ，_PU 控制_NN 电路_NN 仍_AD 保持_VV 关闭_VV 的_DEC 驱动_NN 状态_NN 。_PU
+
+死时_VV 、_PU 死区_NN 、_PU 空载_NN 时间_NN 、_PU 无_VE 信号_NN 时间_NN 、_PU 空白_NN 时间_NN
+
+
+

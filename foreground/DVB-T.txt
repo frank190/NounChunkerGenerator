@@ -1,0 +1,9 @@
+﻿_CD DVB_NN -_PU T_NN
+
+地面_NN 数码_NN 视讯_NN 广播_VA （_PU ，_PU 缩写_VV ：_PU ）_PU ，_PU 是_VC 欧洲_NN 广播_AD 联盟_VV 在_P 1997年_NT 发佈_VV 的_DEC 数码_NN 地面_NN 电视_NN 视讯_NN 广播_AD 传输_VV ，_PU 最早_AD 是_VC 1998_CD 年_M 在_P 英国_NR 实行_NN 广播_VA 。_PU
+
+2007_CD 年_M ，_PU 欧洲_NN DVB_NN 组织_NN 推出_VV 改良版_NN 的_DEC DVB_NN -_PU T2_NN 地面_LC 数码_NN 电视_NN 广播标_NN 準_NN ，_PU 频_VV 谱_VV 利用率_NN 及_CC 有效_JJ 传_NN 输码_NN 率得_VV 到_VV 较_AD 大_VA 提高_VV 。_PU DVB_M -_PU T2_CD 先_AD 从_P 没有_VV 采用_VV DVB_NN -_PU T_NN 地面_NN 数码_NN 电视_NN 广播_NN 模式_NN 的_DEC 第三_OD 世界_NN 开始_NN 进行_VV 推广_NN ，_PU 已_AD 逐步_AD 完成_VV 产业化_NN ，_PU 价格_NN 大_JJ 幅度_NN 下降_VV ，_PU 随后_AD 欧洲_VV 很多_CD 国家_NN 也_AD 开始_VV 采用_VV ，_PU 逐步_AD 替换_VV DVB_NN -_PU T_NN 。_PU
+
+DVB_NN -_PU T2_NN 亮点_NN 是_VC 能_VV 提供_VV 较_AD 高_VA 的_DEC 系统_NN 净_JJ 荷码率_NN （_PU 最_AD 大_JJ 净_JJ 荷码率_NN 高达_NN 51_CD Mbps_NN ，_PU 比_P 目前_NT 有_VE 线及_JJ 卫星_NN 数码_NN 电视能_NN 提供_VV 的_DEC 单_JJ 通道_NN 净_JJ 荷码率_NN 还_AD 高_VA ）_PU ，_PU 采用_VV 分集_AD 接收_VV 改进_VV 了_AS 单频网_NN 接收_VV 效果_NN ，_PU 接收_VV 门限_NN 更_AD 低等_VA 。_PU
+
+

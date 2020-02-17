@@ -1,0 +1,99 @@
+﻿希尔_NN 伯_NN 特_NN 转换_NN
+
+在_P 数学_NN 和_CC 信号_NN 处理_NN 中_LC ，_PU 希尔_NN 伯_NN 特_AD 变换_NN （_PU ）_PU 是_VC 一_CD 个_M 对_P 函数_NN "_PU u_NN "_PU ("t")_PU 产生_VV 定_VV 义域_NN 相同_VA 的_DEC 函数_NN "_PU H_CD "_PU ("u")("t")_PU 的_DEG 线性_JJ 算子_NN 。_PU
+
+希尔伯_NN 特_AD 变换_VV 在_P 信号_NN 处理_NN 中_LC 很_AD 重要_VV ，_PU 能够_VV 导出_VV 信号_NN "_PU u_CD "_PU ("t")_PU 的_DEG 解析_NN 表示_VV 。_PU 这就_AD 意味_VV 着_AS 将_BA 实_JJ 信号_NN "_PU u_CD "_PU ("t")_PU 拓展_VV 到_VV 复_NN 平面_LC ，_PU 使_VV 其_PN 满足_VV 柯西_NR －_PU 黎曼_NR 方程_NN 。_PU
+例如_AD ，_PU 希尔伯_NN 特_AD 变换_VV 引出_VV 了_AS 傅里_NN 叶_NN 分析_NN 中_LC 给定_VV 函数_NN 的_SP ，_PU 也就是_AD 。_PU 等价_VA 地_DEV 说_VV ，_PU 它_PN 是_VC 奇_JJ 异积_NN 分算子_NN 与_CC 的_DEG 一_CD 个_M 例子_NN 。_PU
+
+希尔伯_NN 特_AD 变换_VV 最初_AD 只_AD 对_P 周期_NN 函数_NN （_PU 也就_AD 是_VC 圆_NN 上_LC 的_DEC 函数_NN ）_PU 有_VE 定义_NN ，_PU 在_P 这_DT 种_M 情况_NN 下_LC 它_PN 就_AD 是_VC 与_P "_PU 希尔_NN 伯_NN 特_CC 核_NN "_PU 的_DEG 卷积_NN 。_PU 然而_AD 更_AD 常见_VA 的_DEC 情况_NN 下_LC ，_PU 对于_P 定义_VV 在_P 实直线_NN R（_NN 上_LC 半_AD 平面_JJ 的_DEG 边界_NN ）_PU 上_LC 的_DEC 函数_NN ，_PU 希尔伯_NN 特_AD 变换_VV 是_VC 指_VV 与_P "_PU 柯西核_NN "_PU 卷积_NN 。_PU 希尔_NN 伯_NN 特_AD 变换_NN 与_CC 有着_P 密切_VV 的_DEC 联系_NN ，_PU 帕利_NN -_PU 维纳_VV 定理_NN 是_VC 将_BA 上_DT 半_CD 平面_NN 内_LC 的_DEG 全_DT 纯_JJ 函数_NN 与_CC 实直线_NN 上_LC 的_DEC 函数_NN 的_DEG 傅里_NN 叶_AD 变换_VV 相联系_NN 起来_VV 的_DEC 另_DT 一_CD 种_M 结果_NN 。_PU
+
+希尔_NN 伯_NN 特_NN 转换_NN 是_VC 以_P 大卫_NN ·_PU 希尔_NN 伯_NN 特_AD 来_VV 命名_VV 的_DEC ，_PU 他_PN 首先_AD 引入_VV 了_AS 该_DT 算子_NN 来_MSP 解决_VV 全_DT 纯_JJ 函数_NN 的_DEG 的_DEC 一_CD 个_M 特殊_JJ 情况_NN 。_PU
+"_PU u_OD "_PU 的_DEG 希尔_NN 伯_NN 特_AD 变换_NN 可以_VV 认为_VV 是_VC "_PU u_NN "_PU ("t")_PU 与_P 函数_NN "_PU h_NN "_PU ("t")=1/("t")_PU 的_DEG 卷积_NN 。_PU 由于_P "_PU h_NN "_PU ("t")_PU 是_VC 不_AD ，_PU 定义_VV 卷积_NN 的_DEG 积分_CD 不_AD 收敛_VV 。_PU 因而_AD 希尔_VV 伯_OD 特_AD 变换_VV 是_VC 使用_VV 柯_NN 西主值_NN （_PU 这里_PN 记_VV 为_VC p_NN ._PU v_CC ._PU ）_PU 定义_VV 的_DEC 。_PU 准确_AD 说来_VV ，_PU 函数_NN （_PU 或_CC 信号_NN ）_PU "u"("t")_PU 的_DEG 希尔_NN 伯_NN 特_AD 变换_NN 是_VC ：_PU
+
+假设_VV 此_DT 积分_NN 作为_VV 主值_NN 存在_VV 。_PU 这_PN 就_AD 是_VC "_PU u_NN "_PU 与_CC 缓增_NN 分布_VV p.v._NN 1_CD /_PU "_PU t_OD "_PU 的_DEG 卷积_NN （_PU 由于_P ；_PU 参见_VV ）_PU 。_PU 另外_AD ，_PU 通过_P 改变_VV 变量_NN ，_PU 主值_NN 积分_NN 可以_VV 显式_VV 地_DEV 写为_VV ：_PU
+
+若_CS 希尔_VV 伯_CD 特变_NN 换接_AD 连用_VV 在_P 函数_NN "_PU u_NN "_PU 上_NN 两_CD 次_M ，_PU 结果_AD 就_AD 是_VC 负_VV "_PU u_NN "_PU ：_PU
+
+假设_AD 定义_VV 两_CD 次_M 迭代_VV 的_DEC 积分_NN 都_AD 收敛_VV 。_PU 特别_AD 地_DEV ，_PU 逆_VV 变换_NN 是_VC −_NN "_PU H_NN "_PU 。_PU 可以_VV 通过_P 考虑_VV "_PU u_NN "_PU ("t")_PU 的_DEG 傅里叶_NN 变换_VV 的_DEC 希尔_NN 伯_NN 特_AD 变换_NN 效应_NN 看出_VV 这_DT 一_CD 事实_NN （_PU 参见_VV 下面_NN 的_DEG 与_CC 傅里_NN 叶_AD 变换_VV 的_DEC 关系_NN ）_PU 。_PU
+
+对上_AD 半_AD 平面_JJ 的_DEG 解析_NN 函数_NN ，_PU 希尔伯_NN 特_AD 变换_VV 描述_VV 了_AS 边界_NN 值_NN 的_DEG 实部_NN 与_CC 虚部_NN 之间_LC 的_DEG 关系_JJ 。_PU 也就是说_AD ，_PU 如果_CS "_PU f_NN "_PU (_NN "_PU z_NN "_PU )_NN 是_VC 在_P Im_NN "_PU z_NN "_PU  _NN >_PU  _NN 0_CD 平面_NN 内_LC 的_DEG 解析_NN 函数_NN ，_PU 而_CC "_PU u_NN "_PU ("t")=_PU Re_NN  _NN "_PU f_NN "_PU (_NN "_PU t_NN "_PU  + _NN 0_CD ·_PU "_PU i_NN "_PU  _NN )_PU ，_PU 假设_VV 希尔伯_NN 特_AD 变换_VV 存在_VV ，_PU 则_AD Im_NN  _NN "_PU f_NN "_PU (_NN "_PU t_NN "_PU  + _NN 0_CD ·_PU "i" )="H"("u")("t")_PU 取决于_VV 一_CD 个_M 相加性_JJ 常数_NN 。_PU
+
+希尔_NN 伯_NN 特_NN 转换_NN 之_DEC 频率_NN 响应_NN 由_P 傅_NN 立_VV 叶_NN 变换_VV 给出_VV ：_PU
+
+其中_NN
+
+即_AD 为_P 符号_NN 函数_NN 。_PU
+
+既然_CS ：_PU
+
+希尔_NN 伯_NN 特_AD 转换_VV 会_VV 将_BA 负频率_NN 成分_NN formula_NR
+
+我们_PN 也注_JJ 意到_NN ：_PU formula_NN __NN 10_CD 。_PU 因此_AD 将_BA 上面_NN 方程式_NN 乘上_VV formula_NN
+
+从_P 中_LC ，_PU 可以_VV 看出_VV 反_VV （_PU 逆_VV ）_PU 希尔_VV 伯_NN 特_NN 转换_NN
+
+
+常数_NN 之_DEG 希尔_NN 伯_NN 特_AD 转换_VV 为_VC 零_CD
+
+若_CS 1_CD <_PU "_PU p_NN "_PU <_PU ∞_NN ，_PU 则_AD "_PU L_NN "_PU (_NN R_OD )_PU 之_DEG 希尔_NN 伯_NN 特_AD 转换_VV 为_VC 一_CD 有_VE 界_NN 算子_NN ，_PU 表示_VV 存在_VV 一_CD 常数_NN "_PU C_NN "_PU 使得_VV
+
+对_P 所有_DT "_PU u_NN "_PU ∈_NN "_PU L_NN "_PU (R)_NN 。_PU 这_DT 个_M 定理_NN 由_P 所_MSP 推得_VV ；_PU 请_VV 一并_AD 参见_VV 。_PU
+最佳_JJ 常数_NN "_PU C_NN "_PU 可_VV 由_P 下列_JJ 算式_NN 得到_VV :_PU
+
+这_DT 个_M 结果_NN 由_P 所_MSP 推得_VV ；_PU 请_VV 一并_AD 参见_VV 。_PU 上述_JJ 最佳_JJ 常数_NN 计算_NN 方式_NN 应用_VV 在_P 周期性_NN 希尔_NN 伯_NN 特_AD 转换_VV 一_CD 样_M 成立_VV 。_PU
+
+希尔_NN 伯_NN 特_NN 转换_NN 的_DEC 边界_NN 指_VV 的_DEC 是_VC "_PU L"(R_M )_PU 对_P 称级_JJ 数运_NN 算子_NN 对于_P 在_P "_PU L"(R_M )_PU 之中_LC "_PU f_NN "_PU 的_DEG 收敛_NN
+
+请_VV 参见_VV 。_PU
+
+希尔_NN 伯_NN 特_AD 转换_VV 为_VC 一_CD 反_VV 自_P 伴算子_NN ，_PU 链接_NN "_PU L_CD "_PU (_CD R_M )_PU 与_P 其_PN 对_P 偶_PN 空间_NN "_PU L_NN "_PU (_PU R_NN )_PU ，_PU 其中_NN "_PU p_NN "_PU 和_CC "_PU q_NN "_PU 为_VC 赫尔德_NN 共_AD 轭_VA 且_CC 1_CD  _M <_PU  _NN "_PU p_NN "_PU ,_NN "_PU q_NN "_PU  _NN <_PU  ∞_NN ._PU 以_P 符号_NN 表示_VV
+
+对_P "_PU u_NN "_PU  ∈ _NN "_PU L_NN "_PU (R)_PU 且_CC "_PU v_CC "_PU  ∈ _NN "_PU L_NN "_PU (_PU R_NN )_PU ._PU
+
+希尔_NN 伯_NN 特_AD 转换_VV 为_VC 一_CD 反_M -_PU 对_P 合_NOI ，_PU 意即_NN
+
+假定_VV 每_DT 一_CD 转换_VV 皆_AD 完_VV 整定_AD 义过_VV 。_PU 由于_P "_PU H_OD "_PU 保存_VV 了_AS "_PU L_NN "_PU (_PU R_NN )_PU 空间_NN ，_PU 这_PN 特_AD 別代_NN 表希_VV 尔伯_OD 特_AD 转换_VV 在_VV "_PU L"(R_M )_PU 上_NN 是_VC 可逆_VV 的_DEC ，_PU 且_CC
+
+正式_PN 上_LC ，_PU 一_CD 个_M 式子_NN 其_PN 希尔_NN 伯_NN 特_NN 转换_NN 的_DEC 微分_NN 即_AD 为_VC 其_PN 微分_NN 的_DEG 希尔_NN 伯_NN 特_NN 转换_NN ，_PU 意_NN 即_AD 这_DT 两_CD 者_NN 是_VC 可以_VV 交换_VV 的_DEC 线性_JJ 算子_NN
+
+此_DT 一_CD 特性_NN 亦_AD 可_VV 迭代_VV
+
+给定_VV "_PU u_NN "_PU 以及_CC 其_PN 前_LC k_OD 次_M 微分_NN 皆_AD 属于_VV "_PU L"(R_M )_PU 空间_NN ，_PU 此_DT 项论_NN 述_VV 为_VC 严格_JJ 成立_NN 。_PU 在_P 频域_NN 上_LC 可以_VV 轻易_AD 验证_VV 这件_NN 事情_NN ，_PU 由于_P 微分_NN 在_P 频域_NN 上_LC 即_AD 为_VC 与_P ω_OD 之_DEG 乘积_NN 。_PU
+
+希尔_NN 伯_NN 特_NN 转换_NN 可_VV 表示_VV 为_VC 与_P 一_CD 缓_VV 增_VV 分布_VV 之_DEC 旋积_NN
+
+因此_AD 可_VV 如此_AD 表示_VV
+
+然而_AD ，_PU 事前_NT 此_DT 特性_NN 可能_VV 只有_VV 对_P 紧_JJ 支撑_NN 之_DEG 分布_NN "_PU u_CD "_PU 定义_VV 。_PU 由于_P 紧_NN 支撑_NN 函数_NN 在_P "_PU L_NN "_PU 上_NN 是_VC 稠密_VA 的_DEC ，_PU 因此_AD 此_DT 项_M 特性_NN 可能_VV 严格_AD 成立_VV 。_PU 另_DT 一_CD 角度_NN 来看_VV ，_PU 也_AD 可_VV 使用_VV "_PU h_NN "_PU ("t")_PU 其_PN 微分_NN 之_DEC 特性_NN 来_MSP 证明_VV
+
+在_P 大_JJ 部分_NN 的_DEC 用途_NN ，_PU 希尔_NN 伯_NN 特_NN 转换_NN 可_VV 被_SB 视为_VV 是_VC 一_CD 旋积_NN 。_PU 举例_VV 而_MSP 言_VV ，_PU 旋积_NN 与_CC 希尔_NN 伯_NN 特_NN 转换_NN 具备_VV 下列_NN 可_VV 交换_VV 的_DEC 特性_NN
+
+若_CS "_PU u_NN "_PU 和_CC "_PU v_CC "_PU 为_VC 紧_JJ 支撑_NN 分布_VV ，_PU 则_AD 此_DT 项论_NN 述严_VV 格_DER 成立_VV ，_PU 在_P 这_DT 个_M 状况_NN 下_LC
+
+希尔_NN 伯_NN 特_AD 转换_VV 在_P 空间_NN "_PU L_NN "_PU (_NN R_P )_NN 上_LC 有_VE 下列_JJ 特性_NN
+
+实际上_AD ，_PU 有_VE 更_AD 大一_JJ 部分_NN 的_DEC 算子_NN 可_VV 与_P 希尔_NN 伯_NN 特_AD 转换_VV 交换_NN 。_PU 群组_NR SL_NN (_PU 2_CD ,_PU R_CD )_PU 由_P 么正算_NR 符_ETC "_PU U_NN "_PU 可_VV 在_P 空间_NN "_PU L_NN "_PU (_PU R_OD )_PU 上_LC 由_P 以下式_JJ 子_JJ 表示_NN
+
+注意_NN ：_PU 有_VE 些作者_NN ，_PU 例如_AD Bracewell_NN ，_PU 将_BA 我们_PN 的_DEG formula_NN
+
+对于_P 一_CD 离散_NN 函数_NN u[n]_NN ，_PU 以及_CC 其_PN 离散_NN 傅利_NN 叶_NN 转换_NN 函数_NN U_NN (_PU ω_NN )_PU ，_PU 可_VV 推得_VV 其_PN 希尔_NN 伯_NN 特_NN 转换_NN 为_VC :_PU
+
+其中_NN
+
+此外_AD ，_PU 根据_P 折积_NN 定律_VV ，_PU 另_DT 一_CD 个_M 相等_VV 的_DEC 方程式_NN 为_VC :_PU
+
+其中_NN
+
+当_P 折积_NN 经由_P 数值_NN 运算_NN 后_LC ，_PU 一_CD FIR_M 近似_AD 将_BA 取代_VV "_PU h_NN "_PU [_NN "_PU n_NN "_PU ]_PU ，_PU 如_P
+图_NN 1_CD 所_MSP 示_VV ，_PU 可以_VV 见到_VV 频率_NN 响应_VV 在_P 通带_NN 之_DEG 两_CD 端_NN (_PU 0_CD 与_P 奈奎_NN 斯_DT 特频率_NN )_PU 的_DEG 陡降_NN ，_PU 形成_VV 一_CD 带通_VV 滤波器_NN 。_PU 其中_NN 高频_NN 部分_NN 可_VV 借由_VV 一_CD FIR_M 滤波器_NN 回复_VV ，_PU 如_P 图_NN 2_CD 所_MSP 示_VV 。_PU 然而_AD 实际上_AD ，_PU 一_CD 个_M 经过_VV 适当_AD 取样_VA 的_DEC "_PU u_NN "_PU [_NN "_PU n_NN "_PU ]_PU 序列_NN 在_P 高频_JJ 部分_NN 已经_AD 不_AD 具有_VV 可用_VV 的_DEC 分量_NN 。_PU 当_P 脉冲_NN 响应_NN 持续_VV 越_AD 久_VA ，_PU 低_JJ 频部_NN 分也_AD 可以_VV 被_SB 回复_VV 。_PU
+
+用_P FIR_NN 近似_VA "_PU h"["n_NN "_PU ]_PU 的_DEC 时候_NN ，_PU 交叠_NN 储存法_NN 是_VC 一_CD 个_M 对于_P 很_AD 长_VA 的_DEC "_PU u_NN "_PU ["n"_PU ]_PU 序列_NN 做_VV 折积_NN 运算_NN 的_DEC 有效_JJ 方法_NN 。_PU 有_VE 时候_NN 阵列_NN F_CD F_CD T{"h_M "_PU ["n"]}会被σ(ω)相对应之取样_PU 序列_NN 所_MSP 取代_VV 。_PU 如此_AD 将_AD 会_VV 有_VE 与_P 周期_NN 叠加_VV 函数_NN 做_VV 折积_NN 之_DEC 效果_NN :_PU
+
+图_NN 3_CD 比较_VV 了_AS "_PU h_NN "_PU ["n"]_PU 之_DEG 半周期_NN 与_P 一_CD 相同_JJ 长度_NN 分量_NN 之_NN "_PU h_NN "_PU ["n"_PU ]_PU 。_PU 两_CD 者_NN 之间_LC 之_DEG 差异_NN 与_P 两_CD 者_NN 之_DEG 长度_NN 皆_AD 不_AD 短于_VV 区段_NN 长度_NN (_PU "_PU N_CD "_PU )_CD 之_DEG 现象_NN 为_VC 失真_VV 的_DEC 来源_NN ，_PU 且_CC 失真_NN 可_VV 经由_P 增加_VV 区段_NN 长度_NN 与_CC 交叠_NN 参数_NN 来_MSP 有效_AD 减少_VV 。_PU
+
+MATLAB_NN 中_LC 有_VE 一_CD 函数_NN hilbert_NN (u,N)，_PU 此_DT 函数_NN 会_VV 回传_VV 一_CD 复数_NN 序列_NN ，_PU 其中_NN 虚部_NN 序列_NN 为_VC "_PU u_NN "_PU ["n"]_PU 之_DEG 离散_NN 希尔_NN 伯_NN 特_NN 转换_NN 近似_VA ，_PU 实部_NN 序列_NN 为_VC 原本_JJ 输入_NN 之_DEG 序列_NN ，_PU 所以_AD 这样_VA 的_DEC 复数_NN 输出_NN 等于_VV 是_VC "_PU u_NN "_PU ["n"]_PU 的_DEG 分析_NN 讯号_NN 。_PU 与_P 前述_JJ 类似_NN ，_PU hilbert_NN (u,N)只使用来自sgn(_PU ω_OD )_PU 分布_VV 的_DEC 取样_VA ，_PU 因此_AD 是_VC 与_P "_PU h_NN "_PU [_NN "_PU n_NN "_PU ]_PU 的_DEG 折积_NN 。_PU 如_P 前段_NN 所_MSP 述_VV ，_PU 失真_AD 可_VV 借由_VV 选择_NN 比_P 实际_JJ 之_DEG "_PU u_NN "_PU ["n"_PU ]_PU 序列_NN 更_AD 大_VA 的_DEC "_PU N_CD "_PU 与_CC 舍弃_VV 适当_JJ 数量_NN 的_DEG 输出_NN 取样_VA 来_MSP 有效_AD 减少_VV 。_PU 图_NN 4_CD 为_VC 这_DT 种_M 失真_NN 的_DEC 一_CD 个_M 例子_NN 。_PU
+
+
+
+
+

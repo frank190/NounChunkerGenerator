@@ -1,0 +1,7 @@
+﻿维_NN 里_LC 定理_VV
+
+维_NN 里_LC 定理_NN （_PU ，_PU 又_CC 称位力_NN 定理_VV ，_PU 均_BA 功定理_NN ）_PU 是_VC 描述_VV 稳定_VA 的_DEC 多_CD 自_M 由度体_NN 系_NN 的_DEG 总动能_NN 和_CC 体系_NN 的_DEG 总势_NN 能_VV 时间_NN 平均_VA 之间_LC 的_DEG 数学_NN 关系_NN 。_PU 如果_CS 考虑_VV 一_CD 个_M 有_VE N_CD 个_M 质点_NN 的_DEC 体系_NN ，_PU 其_PN 数学_NN 表达式_NN 为_VC ：_PU
+
+其中_NN formula_NN 更常_AD 译作_VV 均位_NN 力积_NN 或_CC 简称_JJ 位力_NN ）_PU 。_PU 最常_AD 用于_VV 统计_NN 物理_NN 中_LC 以_P 时间_NN 平均_VA 的_DEC 方法_NN 求出_VV 多_CD 自_M 由度_NN 体系_NN 较为_AD 难求_VV 的_DEC 宏观量_NN 。_PU 其_PN 应用_NN 不_AD 限於_VV 此_DT ，_PU 位力_NN 定理_NN 可以_VV 被_SB 轻松_VV 推广_VV 到_VV 其他_DT 物理_NN 量_NN 的_DEG 计算_NN 。_PU 对于_P 不同_JJ 形式_NN 的_DEG 势能_NN ，_PU 等式_JJ 右_JJ 边求_NN 和_CC 项前_NN 的_DEC 系数_NN 可能_VV 不同_VA 。_PU 例如_AD 在_P 两_CD 体_M 问题_NN 中_LC ，_PU 假定_JJ 势能_NN 形式_VV 为_VC formula_NN 则_AD 定理_VV 的_DEC 形式_NN 为_VC formula_NN 数学_NN 角度_NN 上_LC 来讲_AD ，_PU 与_P 欧拉_NN 关于_P 齐_DT 次_M 函数_NN 的_DEC 定理_NN 有关_VV 。_PU
+
+

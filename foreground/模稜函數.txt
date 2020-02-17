@@ -1,0 +1,29 @@
+﻿模稜_NN 函数_NN
+
+模稜_NN 函数_NN 是_VC 一_CD 套_M 用于_VV 讯号_NN 分析_NN 与_CC 讯号_NN 设计_NN 的_DEG 数学_NN 方法_NN ，_PU 为_VC 菲力浦_NN ·_PU 伍_CD 德沃德_NN （_PU PhilipWoodward_NN ）_PU 在_P 1953_CD 年_M 所_MSP 提出_VV 。_PU 其_PN 原初_JJ 目的_NN 是_VC 用来_VV 分析_VV 雷达_AD 回_VV 波讯_NN 号受_VV 时间_NN 延迟_VV 和_CC 都_AD 卜_JJ 勒位移_NN 的_DEG 影响_NN ，_PU 但_AD 在_P 随后_NT 的_DEG 发展_NN 中_LC ，_PU 也_AD 广泛_VA 的_DEC 被_SB 使用_VV 在_P 时_NN 频_VV 分析_NN 、_PU 讯号_NN 处理_NN 等_ETC 领域_NN 上_LC 。_PU
+
+函数_NN formula_NN __NN 1_CD 的_DEG 模稜_NN 函数_NN formula_NN
+其中_NN ，_PU formula_NN __NN 4_CD 代表_VV 着_AS 和_P 原始_JJ 讯号_NN 的_DEG 时间_NN 差_NN 分_NN 值_LC ，_PU 而_CC formulaDomain_NN ）_PU 。_PU 以_P 雷达_NN 应用_NN 来说_LC ，_PU formulaDelay_NN ）_PU ，_PU formulaFrequencyShift_NN ）_PU 。_PU 星号_NN formula_NN __NN 8_CD 代_M 表对_VV 函数_NN 取_VV 其_PN 共轭_JJ 复数_NN 。_PU 上_DT 式_NN 为_VC 自_P 时_LC 域_VV 定义_VV 之_DEC 模稜_NN 函数_NN 。_PU 我们_PN 也_AD 可以_VV 透过_P 函数_NN formula_NN __NN 1_CD 的_DEG 傅立_NN 叶_NN 转换_VV 对_P formula_NN
+稍_AD 经_P 修改_NN ，_PU 模稜_NN 函数_NN 也_AD 可以_VV 用_P 对称_VA 的_DEC 形式_NN 定义_VV 之_DEC ，_PU 称为_VV 对称_NN 模稜_NN 函数_NN （_PU SymmetricAmbiguityFunction_NN ）_PU ：_PU
+
+formula_NN
+
+模稜_NN 函数_NN 有_VE 下列_JJ 几_CD 种_M 基本_JJ 性质_NN ：_PU
+模稜_NN 函数_NN 最_AD 大值永远_AD 发生_VV 在_P 模稜域_NN 的_DEC 原点_NN formula_NN
+
+模稜_NN 函数_NN 为_VC 一_CD 对_M 称函数_NN ：_PU <_PU br_NN >_PU
+
+当_P 我们_PN 设定_JJ 频率_NN 差值_NN formula_NN __NN 5_CD 为_VC 0_CD 时_LC ，_PU 模稜_NN 函数_NN 将_AD 退化_VV 为_VC 讯号_NN formula_NN
+
+若_CS 方波_NN 定义_VV 为_VC ：_PU :_PU formula_NN __NN 23_CD ,_PU 则_AD 其_PN 模稜_NN 函数_NN formula_NN
+formula_NN
+formula_NN
+
+对_P 一_CD 个_M 高斯_JJ 讯号_NN formula_NN
+formula_NN
+
+模稜_NN 函数_NN 是_VC 伍德_CD 沃德_NN 依据_P 维格_NN 纳_NN 分布_VV 改良_VV 而_MSP 来_VV 。_PU 两_CD 者_NN 之间_LC 详细_VA 的_DEC 关系_NN 请_VV 参阅_VV 模糊_NN 函数_NN 与_CC 韦格_NN 纳_NN 分布_VV 的_DEC 关系_NN 。_PU
+
+模稜_NN 函数_NN 一开_AD 始即_AD 是_VC 由_P 雷达_NN 领域_NN 研究学_NN 者菲_NN 利浦_NN ·_PU 伍_CD 德沃德_NN 由_P 维格_NN 纳_NN 分布_AD 发展_VV 而_MSP 来_VV ，_PU 因此_AD 其_PN 原初_JJ 应用_NN 多_AD 为_VC 雷达_NN 相关_AD ，_PU 是_VC 该_DT 领域_NN 相当_AD 重要_VA 的_DEC 基础理论_NN 。_PU 随着_P 时序_NN 的_DEG 演进_NN 和_CC 时频_NN 分析_NN 方法_NN 的_DEC 兴起_NN ，_PU 越来越_AD 多_VA 的_DEC 时频_NN 分析_NN 方法_NN 使用_VV 了_AS 模稜_NN 函数_NN 的_DEG 观念_NN 。_PU 例如_AD ，_PU 西摩_NN ·_PU 斯_DT 坦_CD 於_P 1981_CD 年_M 提到_VV ，_PU 模稜_NN 函数_NN 可以_VV 用来_VV 估算_VV 具有_VV 相同_JJ 成分_NN 之_DEG 两_CD 个_M 讯号_NN ，_PU 因_P 受_VV 外加_NN 噪声_NN 干扰_VV 而_MSP 造成_VV 之_DEC 频率_NN 、_PU 时间_NN 位移_VV ；_PU 而_CC 时_LC 频_VV 分析_NN 工具_NN 科恩克_NN 莱斯_AD 分布_VV 则_AD 是_VC 运用_VV 一_CD 函数_NN 之_DEG 模稜_NN 函数_NN 并_CC 搭配_VV 适当_VA 的_DEC 遮罩_NN 函数_NN ，_PU 做为_AD 分析_VV 该_DT 函数_NN 时频_NN 特性_NN 的_DEC 基础_NN 。_PU
+
+

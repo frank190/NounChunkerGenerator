@@ -1,0 +1,10 @@
+﻿哈密顿_NN 算符_NN
+
+量子_NN 力学_NN 中_LC ，_PU 哈密顿_JJ 算符_NN （_PU ，_PU 缩写_VV 符号_NN ：_PU 或_CC formula_NN 为_VC 一_CD 个_M 可观_VA 测量_VV ，_PU 对_P 应於_NN 系统_NN 的_DEG 总_JJ 能量_NN 。_PU 一如_AD 其他_DT 所有_DT 算符_NN ，_PU 哈_AD 密_VA 顿_DEV 算符_VV 的_DEC 谱_NN 为_VC 测量_NN 系统_NN 总_AD 能_VV 是_VC 所有_DT 可能_NN 结果_VV 的_DEC 集合_NN 。_PU 如同_P 其他_DT 自伴_NN 算符_VV ，_PU 哈密顿_AD 算符_VV 的_DEC 谱_NN 可以_VV 透过_P 谱测度_NN （_PU spectralmeasure_NN ）_PU 被_SB 分解_VV ，_PU 成为_VV 纯点_NN （_PU purepoint_NN ）_PU 、_PU 绝对_JJ 连续_NN （_PU absolutelycontinuous_NN ）_PU 、_PU 奇点_NN （_PU singular_NN ）_PU 三_CD 种_M 部分_NN 。_PU 纯点_NN 谱_VV 与_P 本_DT 征向量_NN 相应_VV ，_PU 而_CC 后者_NN 又_AD 对应_VV 到_VV 系统_NN 的_DEG 束缚态_NN （_PU boundstates_NN ）_PU 。_PU 绝对_AD 连续_VV 谱_VV 则_AD 对应_VV 到_VV 自由_P 态_NN （_PU freestates_NN ）_PU 。_PU 奇点_NN 谱_VV 则_AD 很_AD 有趣_VA 地_DEV 由_P 物理学_NN 上_LC 不_AD 可能_VV 的_DEC 结果_NN 所_MSP 组成_VV 。_PU 举例_VV 来_MSP 说_VV ，_PU 考虑_VV 有_VE 限深_JJ 方形阱_NN 的_DEC 情形_NN ，_PU 其_PN 许可_VV 了_AS 具有_VV 离散负_NN 能量_VV 的_DEC 束缚态_NN ，_PU 以及_CC 具有_VV 连续_JJ 正能量_NN 的_DEG 自由态_NN 。_PU
+
+哈密顿_AD 算符_VV 产生_VV 了_AS 量子态_NN 的_DEC 时间_NN 演化_VV 。_PU 若_CS formula_NN 为_VC 在_P 时间_NN "_PU t_CD "_PU 的_DEG 系统_NN 状态_NN ，_PU
+
+其中_NN formula_NN 为_VC 约化_JJ 普朗克_NN 常数_NN 。_PU 此_DT 方程式_NN 为_VC 薛丁格_NN 方程式_NN 。_PU （_PU 其_PN 与_CC 哈密顿_NN -_PU 雅_CS 可_VV 比_P 方程_NN 具有_VV 相同_JJ 形式_NN ，_PU 也_AD 因为_P 此_PN ，_PU "_PU H_OD "_PU 冠_AD 有_VE 哈密_CD 顿_M 之名_LC 。_PU ）_PU 若给_CD 定系统_AD 在_P 某_DT 一_CD 初始_JJ 时间_NN （_PU "_PU t_NN "_PU =_NN 0_CD ）_PU 的_DEG 状态_NN ，_PU 我们_PN 可以_VV 积分_AD 得到_VV 接下来_AD 任何_DT 时间_NN 的_DEC 系统_NN 状态_NN 。_PU 其中_NN 特_AD 別_VA 的_DEC 是_VC ，_PU 若_CS "_PU H_NN "_PU 与_P 时间_NN 无关_AD ，_PU 则_AD
+
+
+

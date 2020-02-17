@@ -1,0 +1,10 @@
+﻿德布_NN 罗意_NN -_PU 玻姆_NN 理论_NN
+
+一般_AD 认为_VV ，_PU 德布_NR 罗意_NN -_PU 玻姆_NN 理论_NN 是_VC 一_CD 种_M 量子_NN 力学_NN 诠释_NN 。_PU 亦_AD 称_VV 因果性_NN 诠释_NN （_PU CausalInterpretation_NN ）_PU 、_PU 存在性_JJ 诠释_NN （_PU OntologicalInterpretation_NN ）_PU 、_PU 玻姆_NN 诠释_NN 、_PU 玻姆_NN 力学_NN （_PU BohmianMechanics_NN ）_PU ，_PU 有时_AD 也_AD 不_AD 严格_VA 地_DEV 与_P 导航_NN 波理论_NN （_PU Pilot_NN -_PU WaveTheory_NN ）_PU 混同_VV 。_PU 需注意_NN ，_PU 该_DT 理论_NN 有_VE 多_CD 种_M 未_AD 规范_VV 的_DEC 命名_NN 并存_AD 。_PU 因_P 使用者_NN 和_CC 语境_NN 的_DEG 不同_JJ ，_PU 命名_NN 指代_VV 的_DEC 理论_NN 范围_NN 和_CC 强调_NN 的_DEC 理论_NN 重点_NN 可能_VV 存在_VV 差异_NN ，_PU 或者_CC 命名_NN 可能_VV 指代_VV 该_DT 理论_NN 体系_NN 的_DEG 不同_JJ 发展_NN 阶段_NN ，_PU 虽然_CS 它们_PN 所_MSP 指代_VV 的_DEC 内容_NN 通常_AD 是_VC 相_AD 关联_VV 的_DEC 。_PU
+
+德布_NN 罗意_NN -_PU 玻姆_NN 理论_NN 是_VC 由_P 路易_NN ·_PU 德布_NN 罗意_NN 初创_LC ，_PU 戴维_NN ·_PU 玻姆_NN 重新_AD 发现_VV 并_CC 与_P 巴席_NN ·_PU 海利_NN （_PU BasilHiley_NN ）_PU 等_ETC 合作者_NN 做_VV 进一步_AD 扩展_VV 而_MSP 成_VV 的_DEC 理论_NN 。_PU 此_DT 理论_CS 在_P 历史上_AD 曾_AD 因_P 遭受_VV 强烈_AD 反对_VV 和_CC 广泛_AD 冷遇_VV 而_CC 两_CD 度_M 沉寂_NN （_PU 1920s_CD -_PU 1950s_CD ,_PU 1950s_CD -_PU 1970s_CD ）_PU 。_PU 和_CC 当时_NT 的_DEG 物理_NN 学界_NN 的_DEG 主流_NN 态度_NN 成_VV 鲜明_AD 对比_VV ，_PU 约翰_NT ·_PU 贝尔_NN 是_VC 当时_NT 该_DT 理论_NN 的_DEC 少数_CD 积极_JJ 声援者_NN 之一_LC 。_PU
+
+德布_NN 罗意_NN -_PU 玻姆_NN 理论_NN 是_VC 一_CD 种_M 非_AD 局域_VV 的_DEC 决定性_NN 的_DEC 隐_NN 变量_NN 理论_NN 。_PU 在_P 该_DT 理论_NN 中_LC ，_PU 微观_JJ 粒子_NN 可以_VV 有_VE 确定_VV 的_DEC 位置_NN 和_CC 动量_NN ，_PU 因此_AD 可以_VV 用_P 明确_VA 的_DEC 轨线_NN （_PU trajectory_NN ）_PU 描述_VV 其_PN 运动_NN ，_PU 但_CC 对于_P 粒子_NN 位置_NN 和_CC 速度_NN 的_DEG 测量_NN ，_PU 依然_AD 必须_VV 遵守_VV 不_AD 确定性_JJ 原理_NN 。_PU 粒子_NN 接受波_NN 函数_NN 的_DEG 引导_NN ，_PU 通过_P 与_P 量子势_NN （_PU Quantumpotential_NN ）_PU 的_DEC 交互_NN 作用_VV ，_PU 表现_VV 出非局域_NN 的_DEG 整体性_NN 。_PU 波函_NN 数_CD 根据_P 薛定谔_NN 波动_NN 方程_NN 演化_VV ，_PU 从不_AD 坍缩_VV 。_PU 该_DT 理论_NN 可以_VV 完全_AD 重现_VV 与_P 传统_JJ 统计_NN 性_NN 量子_NN 力学_NN 的_DEG 相同_VA 的_DEC 实验_NN 结果_NN 。_PU
+
+
+

@@ -1,0 +1,29 @@
+﻿FreeSync_VV
+
+F_CD reeSync_VV 是_VC 用于_VV LCD_NN 显示器_NN 的_DEG 自适_NN 应同步_AD 技术_NN 的_DEG 品牌_NN 名称_NN ，_PU 其_PN 支持_NN 动态_VV ，_PU 旨在_AD 减少_VV 由于_P 内容_NN 的_DEC 帧速率_NN 未_AD 对齐_VV 而_MSP 导致_VV 的_DEC 画面_NN 撕裂_NN 和_CC 延迟_NN 。_PU
+
+F_CD reeSync_VV 由_P AMD_NN 开发_VV ，_PU 并_CC 于_P 2014_CD 年_M 首次_JJ 发布_NN ，_PU 与_P Nvidia_NN 的_DEC 专有_JJ 技术_NN G_NN -_PU Sync_NN 为_VC 竞争_NN 关系_VV 。_PU 该_DT 技术_NN 为_VC 免版税_NN 、_PU 免费_NN 使用_VV ，_PU 且_CC 没有_VE 性能_NN 损失_NN 。_PU
+
+F_CD reeSync_VV 动态_NN 地_DEV 调整_VV 显示_NN 刷新率_NN 到_VV 可_VV 变的_VV 帧速率_NN ，_PU 因为_P 渲染_JJ 复杂_JJ 游戏_NN 内容_NN 时_LC 有着_P 不_AD 均匀_VA 的_DEC GPU_NN 负载_NN ，_PU 而_CC 固定_VV 的_DEC 视频_NN 内容_NN 使用_VV 的_DEC 较_AD 低_VA 的_DEC 23_CD ._PU 97_CD /_PU 24_CD /_PU 29_CD ._PU 97_CD /_PU 30_CD 帧每秒_M 。_PU 这有_DT 助于_VV 消除_VV 由于_P 视频_NN 接口_NN 必须_VV 完成_VV 当_P 前帧而_NR 导致_VV 的_DEC 卡顿_NN 延迟_VV ，_PU 以及_CC 在_P 传输_NN 过程_NN 中_LC 启动_VV 新_JJ 帧_NN （_PU 垂直_AD 同步_AD 关闭_VV ）_PU 所_MSP 导致_VV 的_DEC 画面_NN 撕裂_NN 。_PU 支持_VV 的_DEC 最_AD 大_JJ 刷新率_NN 范围_NN 为_VC 9_CD -_PU 240_CD Hz_M 。_PU FreeSync_M 可以_VV 通过_P 即_AD 插_VV 即_AD 用_VV 自动_AD 启用_VV ，_PU 使_VV 其_PN 对_P 操作_NN 系统_NN 和_CC 最终_JJ 用户_NN 透明_VV 。_PU
+
+不同_JJ 刷新率_NN 之间_LC 可以_VV 无缝_AD 转换_VV ，_PU 用户_NN 不_AD 会_VV 察觉_VV 。_PU 同_PN 步机_NN 制使_VV 视频_NN 接口_NN 保持_VV 像素_NN 时钟_NN 速率_NN ，_PU 但_CC 动态_NN 调整_VV 垂直_JJ 空白_JJ 间隙_NN 。_PU 监视器_NN 将_AD 保持_VV 显示_NN 当_P 前接_VV 收到_VV 的_DEC 图像_NN ，_PU 直到_VV 一_CD 个_M 新帧_NN 呈递_VV 给_VV 显卡_VV 的_DEC 帧_NN 缓冲器_NN ，_PU 然后_AD 立即_AD 开始_VV 传输_VV 新_JJ 图像_NN 。_PU 这_DT 种_M 简单机_NN 制_VV 提供_VV 了_AS 低_JJ 延迟_NN 且_CC 平滑_NN 的_DEC 监视器_NN ，_PU 基本无_AD 间断_VV 的_DEC 观看_NN 体验_NN ，_PU 同时_AD 降低_VV 了_AS 时序_NN 控制器_NN （_PU TCON_NN ）_PU 和_CC 显示_NN 面板_NN 接口_NN 的_DEC 实现_JJ 复杂性_NN 。_PU 它_PN 还_AD 有助于_VV 在_P 不_AD 接收_VV 新_JJ 图像_NN 时_LC 降低_VV 面板_NN 的_DEG 刷新率_NN ，_PU 从而_AD 延长_VV 电池_NN 续_AD 航_VA 。_PU
+
+VESA_NN 宣布_NN 自_P 适应_NN 同步_AD （_PU Adaptive_NN -_PU Sync_NN ）_PU 是_VC DisplayPort1_NN ._PU 2a_NN 规范_NN 的_DEC 一_CD 个_M 组成_JJ 部分_NN ；_PU F_CD reeSync_NR 是_VC 一_CD 种_M 硬件_NN -_PU 软件_NN 解决_NN 方案_NN ，_PU 它_PN 使用_VV DisplayPort_NR 自适_NN 应同_AD 步协_VV 议_NN 来_MSP 实现_VV 流畅_NN 、_PU 无_VE 撕裂_NN 且_CC 低_AD 延迟_VV 的_DEC 游戏_NN 体验_NN 。_PU FreeSync_NN 也_AD 已_AD 在_P HDMI_NN 接口_NN 上_LC 实现_VV 。_PU
+
+2017年_NT 1月_NT ，_PU AMD_NN 宣布_NN 推出_VV 第二_OD 代_M FreeSync_NN 。_PU 技术_NN 要求_NN 包括_VV ：_PU 移除_VV 最_AD 低_JJ 帧速率_NN 、_PU 设置_VV 屏幕_NN 延迟_VV 最_AD 大_JJ 值等_NN 。_PU FreeSync2_NN 还_AD 支持_VV 宽_JJ 色域_NN 色彩_NN 空间_NN （_PU 使_VV 色彩量_NN 增加_VV 一_CD 倍_M ）_PU 和_CC 增加_VV 的_DEC 显示_NN 亮度_NN ，_PU 使_VV 显卡_NN 驱动_NN 程序_NN 和_CC 应用_JJ 软件_NN 能_VV 直接_AD 支持_VV 显示_NN 。_PU 显示器_NN 的_DEC /_PU 用于_VV 色彩_NN 原色_JJ 和_CC 最_AD 大_VA /_PU 最_AD 小_JJ 亮度_NN 的_DEC EDID_NN 元数_NN 据_VV 在_P 写入_VV 帧_NN 缓冲器_NN 时_LC 用于_VV 色调_VV 映射_NN 环节_NN 的_DEV 调整_VV ，_PU 从而_AD 减少_VV 操作_NN 系统_NN 层_NN 面_NN 色彩_NN 管理_VV 以及_CC 视频_NN 接口_NN 电路_NN 上_LC 的_DEG 色彩_NN 空间_NN 和_CC 传输_NN 功能_NN （_PU EOTF_NN ）_PU 的_DEG 处理_NN 环节_NN ，_PU 进而_AD 减少_VV 输出_NN 延迟_VV 。_PU
+
+性能_NN 标准_VV HDR400_CD 至_CC 1000_CD
+
+从_P 第二_OD 代_M GraphicsCoreNext_NN 开始_VV 的_DEC 所有_DT AMDGPU_NN 支持_VV F_CD reeSync_NN 。_PU
+
+MicrosoftXboxOne_NR 主机_NN 中_LC 的_DEC AMDDurangoAPU_NN 。_PU （_PU FreeSync_NN ）_PU
+
+MicrosoftXboxOneS_NR 主机_NN 中_LC 的_DEC AMDEdmondtonAPU_NN 。_PU （_PU 支持_NN HDR_NR 的_DEC FreeSync_NR 2.0_NN ）_PU
+
+MicrosoftXboxOneX_NR 主机_NN 中_LC 的_DEC AMDScorpioAPU_NN 。_PU （_PU 支持_NN HDR_NR 的_DEC FreeSync_NR 2.0_NN ）_PU
+
+N_CD Vidia_NR 10_NN 系列_NN 和_CC 20_NN 系列_NN GPU_NN ，_PU 使用_VV 驱动_NN 程序_NN 417_CD ._PU 71_CD 或_CC 更_AD 高_JJ 版本_NN
+
+
+
+

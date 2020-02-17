@@ -1,0 +1,75 @@
+﻿_AD 高_JJ 效率_NN 视频_NN 编码_NN
+
+高_JJ 效率_NN 视讯_NN 编码_NN （_PU HighEfficiencyVideoCoding_NN ，_PU 简称_VV HEVC_NN ）_PU ，_PU 又_AD 称为_VV H_CD ._PU 265_CD 和_CC MPEG_NN -_PU H_OD 第2_OD 部_M 分_NN ，_PU 是_VC 一_CD 种_M 视讯_NN 压缩_NN 标準_VV ，_PU 被_SB 视为_VV 是_VC ITU_NN -_PU TH_NN ._PU 264_CD /_PU MPEG_NN -_PU 4AVC_NN 标準_NN 的_DEC 继任者_NN 。_PU 2004_CD 年_M 开始_VV 由_P ISO_NN /_PU IECMovingPictureExpertsGroup_NN （_PU MPEG_NN ）_PU 和_CC ITU_NN -_PU TVideoCodingExpertsGroup_NN （_PU VCEG_NN ）_PU 作为_VV ISO_NN /_PU IEC_NN 23008_CD -_PU 2_CD "_PU MPEG_NN -_PU HPart_NN 2_CD "_PU 或_CC 称作_VV ITU_NN -_PU T_CD "_PU H_CD ._PU 265_CD "_PU 开始_VV 制定_VV 。_PU 第一_OD 版_NN 的_DEG HEVC_NN /_PU H_CD ._PU 265_CD 视讯_NN 压缩_NN 标準_VV 在_P 2013年_NT 4月_NT 13日_NT 被_SB 接受_VV 为_VC 国际_NN 电信_NN 联盟_NN （_PU ITU_NN -_PU T_NN ）_PU 的_DEG 正式_NN 标準_VV 。_PU HEVC_M 被_SB 认为_VV 不仅_AD 提昇_VV 影像_NR 品质_NN ，_PU 同时_AD 也_AD 能_VV 达到_VV H_CD ._PU 264_CD /_PU MPEG_NN -_PU 4_CD AVC_NN 两_CD 倍_M 之_DEG 压缩率_NN （_PU 等同于_VV 同样_JJ 画面_NN 品质_NN 下位_NN 元率_NN 减少_VV 到_VV 了_AS 50%_CD ）_PU ，_PU 可_VV 支援_VV 4_CD K_NN 分辨率_NN 甚至_VV 到_VV 超高_JJ 画质_NN 电视_NN （_PU UHDTV_NN ）_PU ，_PU 最高_JJ 分辨率_NN 可_VV 达到_VV 8192_CD ×_PU 4320_CD （_PU 8_CD K_M 分辨率_NN ）_PU 。_PU
+
+数_CD 个_M 基_NN 於_P HEVC_NN 延伸_VV 的_DEC 编码_NN 标準_NN 正_AD 在_P 进行_VV 中_LC ，_PU 包含_VV rangeextensions_NN （_PU 支援_NN 进阶_VV 的_DEC 影片_NN 格式_NN ）_PU 、_PU 可调式_JJ 编码_NN 和_CC 3D_NN 视讯_NN 编码_NN 标準_NN 。_PU
+
+在_P H_CD ._PU 264_CD /_PU AVC_NN 标準_NN 制定完_NN （_PU 2003_CD 年_M ）_PU 的_DEG 后_DT 一_CD 年_M ，_PU VCEG_NN 组织_NN 便_AD 开始_VV 研究_VV 更_AD 先进_VA 的_DEC 视讯_NN 压缩_NN 技术_NN ，_PU 期望_NN 能够_VV 发展_VV 下_DT 一_CD 代_M 视讯_NN 压缩_NN 标準_VV ，_PU 或_CC 期望_NN 能_VV 大量_CD 提昇_NN 压缩率_NN 成为_VV H_CD ._PU 264_CD /_PU AVC_NN 的_DEG 延伸_NN 版本_NN 。_PU 2005年_NT 1月_NT ，_PU VCEG_NN 开始_VV 将_BA 这些_DT 议题统_NN 整_AD 称为_VV KeyTechnicalAreas_NN （_PU KTA_NN ）_PU ，_PU 并且_CC 开发_VV 了_AS 一_CD 个_M 同名_VA 的_DEC 软体_NN 编_VV 解码器_NN KTASoftware_NN 来_MSP 评估_VV 被_SB 提案_VV 的_DEC 新_JJ 技术_NN 。_PU KTAsoftware_NN 是_VC 基_NN 於_P H_NN ._PU 264_CD /_PU AVC_NN 的_DEG 标準_NN 参考_VV 软体_NN JointModel_NN （_PU JM_NN ）_PU 上_LC ，_PU 加入_VV 新_VA 的_DEC 编码_NN 技术_NN 并_CC 与_P JM_NN 的_DEG 编码_NN 效率_NN 做_VV 比较_VV 。_PU 到_VV 了_AS 2007_CD 年_M ，_PU KTASoftware_NN 的_DEG 编码_NN 效率_NN 较_AD JM_NN 提升_VV 了_AS 不少_VA 。_PU
+
+为_P 此_DT 目的_NN MPEG_NN 与_CC VCEG_NN 联合_VV 成立_VV 了_AS 一_CD 个_M JointCollaborativeTeamonVideoCoding_NN （_PU JCT_NN -_PU VC_NN ）_PU 作为_VV 共同_AD 开发_VV HEVC_NR 的_DEC 团队_NN 。_PU 。_PU 并_CC 每_DT 四_CD 个_M 月_NN 进行_VV 一次_JJ 标準_NN 讨论_VV 与_CC 制定_VV 的_DEC 会议_NN 。_PU 并_CC 发佈_VV 了_AS HEVC_NN 的_DEG 标準_NN 参考_VV 软体_NN HEVCTestModel_NR （_PU HM_NR ）_PU 。_PU
+
+HEVC_NR 标準_NN （_PU 第一_OD 个_M 版本_NN ）_PU 制定_VV 的_DEC 时程_NN 如下_VV ：_PU
+
+HEV_NR C_NN 与_CC H_NN ._PU 264_CD /_PU AVC_NN 和_CC 许多_CD 其他_DT 视讯_NN 压缩_NN 编码_VV 一样_VA ，_PU 都_AD 是_VC 采用_VV HybridVideoCoding_NR 的_DEC 架构_NN （_PU 如_P 右图_NR ）_PU ，_PU 但_CC 在_P 各_DT 部分_CD 加入_VV 了_AS 一些_CD 新_JJ 技术_NN 或者_CC 提升_VV 了_AS 原本_JJ 编码_NN 工具_NN 的_DEG 效率_NN 。_PU
+
+编码_NN 树单元_NN （_PU CodingTreeBlock_NN ,_PU CTU_NN ）_PU 是_VC HEVC_NN 的_DEG 基本_JJ 编码_NN 单位_NN ，_PU 有如_P H_CD ._PU 264_CD /_PU AVC_NN 的_DEG Macroblock_NN 。_PU H_CC EVC_NR 支援_NN 8x8_CD 到_CC 64_CD ×_PU 64_CD 像素_NN 的_DEC CTU_NN 大小_NN 。_PU 编码_NN 树单元_NN 可_VV 向下_AD 分割_VV 编码_NN 单元_NN （_PU CodingUnit_NN ，_PU CU_NN ）_PU 、_PU 预测_JJ 单元_NN （_PU PredictionUnit_NN ，_PU PU_NN ）_PU 及_CC 转换_NN 单元_NN （_PU TransformUnit_NN ，_PU TU_NN ）_PU 。_PU
+
+HEVC_NR 帧_NN 内_LC 编码_NN 将_AD 预测_VV 的_DEC 方向_NN 性_NN 增加_VV 到_VV 33_CD 种_M ，_PU 并_CC 加入_VV 平面_NN 预测_NN （_PU PlanarPrediction_NN ）_PU 产生_VV 平滑_NN 的_DEC 取样面_NN 。_PU
+
+HEVC_NR 有_VE 两_CD 个_M 环路_NN 滤波器_NN ，_PU 解块_NN 滤波器_NN （_PU D_CD BF_M ）_PU 与_CC 样本_JJ 自适_NN 应_VV 偏移量_NN （_PU S_CD AO_M ）_PU 滤波器_NN
+
+H_CD ._PU 265_CD /_PU HEVC_PU 的_DEG DBF_NN 使用_NN H_NN ._PU 264_CD /_PU MPEG_NN -_PU 4_CD AVC_NN 类似_VA 的_DEC 设计_NN ，_PU 更_AD 好_VA 的_DEC 支持_NN 并行_AD 处理_VV 是_VC 类似_VA 的_DEC 。_PU 在_P HEVC_NN 的_DEG DBF_NN 只_AD 适_VV ​​_NN 用于_VV 一_CD 个_M 8_CD ×_PU 8_CD 个_M 采样_NN 网格_NN ，_PU 而_CC 与_P H_CD ._PU 264_CD /_PU MPEG_NN -_PU 4_CD AVC_NN 的_DEG DBF_NN 适用_VV 的_DEC 一_CD 个_M 4_CD ×_PU 4_CD 个_M 采样_NN 网格_NN 不同_VA 。_PU HEVC_NN 的_DEG DBF_NN 使用_VV 一_CD 个_M 8_CD ×_PU 8_CD 个_M 采样网_NN 格_NN ，_PU 因为_P 没有_VE 导致_VV 明显_VA 的_DEC 降解_NN ，_PU 并_CC 显著_AD 提高_VV 了_AS 并行_VV 处理_NN ，_PU 因为_VV 的_DEC DBF_NN 不_AD 再_AD 导致_VV 级联_NN 与_CC 其他_DT 操作_NN 的_DEG 相互_JJ 作用_NN 。_PU 另_DT 一_CD 个_M 变化_NN 是_VC HEVC_NR 只_AD 允许_VV 为_VC 0_CD 〜_NN 2_CD 的_DEG 三_CD 个_M DBF_NN 的_DEG 深度_NN 。_PU H_CC EVC_NR 的_DEC DBF_NN 也_AD 是_VC 的_DEC 先做_JJ 画面_NN 的_DEC 垂直_JJ 边缘_NN 的_DEC 水平_JJ 滤波_NN 之后_LC 再_AD 做_VV 对于_P 水平_JJ 边缘_NN 的_DEC 垂直_JJ 滤波_NN ，_PU 有利于_VV 平行_JJ 处理_NN （_PU 多线程_NN ）_PU 。_PU
+
+在_P DBF_NN 之后_LC 的_DEG 使用_NN SAO_NN 过滤器_NN ，_PU 并_CC 使用_VV 偏移_VV 以_MSP 产生_VV 更_AD 好_VA 地_DEV 重建_VV 原始_NN 信号_NN 。_PU 每_DT 个_M CTB_NN 的_DEG SAO_NN 滤波器_NN 可_VV 有_VE 两_CD 个_M 模式_NN ：_PU 边缘_NN 偏移_NN 模式_NN ​_NN ​_NN 或_CC 带_VV 偏移_NN 模式_NN 。_PU 边缘_NN 偏移_VV 量_NN 模式_NN 中_LC 通过_P 比较_VV 的_DEC 取样_VA 的_DEC 值_NN ，_PU 根据_P 比较_VV 两_CD 个_M 邻居_NN ，_PU 将_BA 样品_NN 分为_VV 五_CD 类_M 之一_NN ：_PU 最_AD 小_VA ，_PU 两_CD 种_M 边缘_NN ，_PU 最_AD 大值_NN ，_PU 或_CC 两_CD 者_NN 都_AD 不_AD 是_VC ，_PU 对于_P 每_DT 个_M 第一_OD 四_CD 类_M 施加_VV 一_CD 个_M 偏移量_NN 。_PU 能带_NN 偏移_VV 的_DEC 模式_NN 可_VV 分类_VV 成_VV 32_CD 个_M 频带_NN ，_PU 并_CC 选择_VV 四_CD 个_M 连续_JJ 频带_NN 传送_VV 偏移量_NN 。_PU SAO_NN 滤波器_NN 设计_VV 来_MSP 以_P 提高_VV 图像_NN 质量_NN ，_PU 并_CC 减少_VV 振荡_NN 效应_NN
+
+注_NN ：_PU 在_P 追求_NN 与_CC 原始_JJ 视频_NN 的_DEC 相似度_NN （_PU 或_CC 称_VV 高_JJ 还原度_NN ）_PU 的_DEG 编码_NN 过程_NN 中_LC ，_PU 该_DT 选项_NN 通常_AD 被_SB 认为_VV 是_VC 不利于_VV 画面_NN 细节_NN 保留_VV 的_SP 。_PU
+
+使用_VV 了_AS 跟_P H_CD ._PU 264_CD /_PU AVCHighProfile_NN 中_LC 一样_VA 的_DEC CABAC_NN （_PU 前_DT 文_NN 参考_VV 之_DEC 适应性_NN 二_CD 元_M 算术_NN 编码_NN ）_PU 演算法_NN 来_MSP 做熵_VV 编码_VV ，_PU 拋弃_VV 了_AS CAVLC_NN 。_PU
+
+HEVC_NR 定义_VV 了_AS 包含_VV Main_NN 和_CC High_NN 2_CD 种_M 「_PU 层级_M 」_PU （_PU tiers_NN ）_PU ，_PU 以及_CC 13_CD 种_M 「_PU 等级_M 」_PU （_PU levels_NN ）_PU 。_PU 层级_NN 是_VC 被_SB 设计_VV 来_MSP 面对_VV 不同_VA 的_DEC 应用_NN ，_PU 对_P 其_PN "_PU 最_AD 大位_NN 元率_NN "_PU 做_VV 限制_NN 。_PU 其中_NN Maintier_NN 是_VC 被_SB 设计_VV 给_P 大_JJ 部分_NN 的_DEG 应用_NN ，_PU 而_CC Hightier_NR 是_VC 被_SB 设计_VV 给_P 高_JJ 要求_NN 的_DEC 应用_NN 。_PU 等级_JJ 则_AD 是_VC 针对_P 位元_NN 流_VV 设定_VV 了_AS 一_CD 组_M 限制_VV ，_PU 与_P Profile_NN 相似_VA 。_PU 当_P 一_CD 个_M 解码器_NN 符合_VV 给定_VV 了_AS 的_DEC 层级_NN 与_CC 等级_NN ，_PU 代表_VV 此_DT 解码器_NN 也_AD 被_SB 要求_VV 必须_VV 能_VV 解码_NN 用_P 该_DT 层级_NN /_PU 等级_NN 及_CC 较_AD 低_JJ 层级_NN /_PU 等级_NN 所_MSP 编码_VV 出来_VV 的_DEC 位_NN 元流_NN 。_PU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

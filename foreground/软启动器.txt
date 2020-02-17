@@ -1,0 +1,7 @@
+﻿软_NN 启动器_NN
+
+通常_AD 而言_VV ，_PU 3_CD 相_NN 交流_NN 电机_NN 有_VE 很_AD 大_VA 的_DEC 启动_NN 电流_NN ,_PU 通常_AD 可以_VV 高_JJ 达额_NN 定_VV 电流_NN 的_DEC 7_CD -_PU 15_CD 倍_M 。_PU 如果_CS 将_BA 其_PN 直接_AD 连到_VV 电网_NN 上_LC ,_PU 启动_JJ 电流_NN 会_VV 对_P 电网_NN 造成_VV 很_AD 大_VA 的_DEC 冲击_NN 。_PU 同样_VA 的_DEC ，_PU 由于_P 其_PN 较_AD 大_VA 的_DEC 启动_NN 电流_NN ,_PU 电机_NN 的_DEG 启动_NN 扭矩_NN 亦_AD 可_VV 达到_VV 额定_JJ 转矩_NN 的_DEC 2_CD -_PU 5_CD 倍_M ，_PU 过_AD 高_VA 的_DEC 负载_NN 同样_AD 会_VV 对_P 其_PN 负载_VV 的_DEC 机械_NN ，_PU 如_P 压缩机_NN 、_PU 泵_NN 等_ETC 造成_VV 不良_JJ 的_DEG 影响_NN 。_PU 为了_P 避免_VV 上述_JJ 情况_NN ，_PU 人们_AD 使用_VV 软_JJ 启动器_NN 来_MSP 限制_VV 电机_NN 的_DEG 启动_NN 电流_NN 和_CC 扭矩_NN 。_PU 当然_CC 变频器_NN 也_AD 可以_VV 达到_VV 这_DT 个_M 要求_NN ，_PU 但是_CC 相对而_AD 言软_VV 启动器_NN 是_VC 一_CD 种_M 较为_AD 经济_VV 的_DEC 选择_NN 。_PU
+
+输送带_NN 、_PU 压缩机_NN 、_PU 风机_NN 、_PU 泵_NN 、_PU 搅拌_NN 装置_NN 、_PU 离心_NN 分离机_NN 、_PU 铣床_NN 、_PU 磨床_NN 、_PU 破碎机_NN 、_PU 圆锯_NN 。_PU
+
+

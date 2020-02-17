@@ -1,0 +1,7 @@
+﻿拓扑_NN 缺陷_NN
+
+拓扑_VV 孤_JJ 立波_NN （_PU ）_PU 指_VV 两_CD 种_M 相连_VV 的_DEC 结构_NN 位于_VV 不同_VA 的_DEC 相面_NN ，_PU 导致_VV 这_DT 两_CD 种_M 结构_NN 之间_LC 无法_AD 无缝_AD 对接_VV 。_PU 如_P 有_VE 绳_NN 电话机_NN 在_P 多次_AD 使用_VV 之后_LC ，_PU 电话绳_NN 会_VV 出现_VV 旋转_NN 方向_NN 不_AD 一_VA 的_DEC 情形_NN ，_PU 导致_VV 电话绳_NN 形成_VV 了_AS 许多_CD 段_M ，_PU 每_DT 段_M 的_DEG 旋转_NN 方向_NN 和_CC 前_DT 一_CD 段_M 相反_VV 。_PU 拓扑孤立_VV 波_VV 在_P 现代_JJ 电子_NN 元件_NN 的_DEC 半导体_NN 中_LC 时常_AD 出现_VV ，_PU 并_CC 通常_AD 造成_VV 半导体_NN 元件_NN 的_DEG 损坏_NN ，_PU 因此_AD 拓扑_VV 孤_JJ 立波_NN 也_AD 称为_VV 拓扑_NN 缺陷_NN （_PU ）_PU 。_PU
+
+在_P 数学_NN 、_PU 物理_NN 领域_NN 中_LC ，_PU 拓扑_VV 孤_JJ 立波_NN 和_CC 拓扑_NN 缺陷_VV 指_VV 一_CD 组_M 偏_AD 微_JJ 分方程_NN 或_CC 量子_NN 场论_NN 的_DEC 解_NN ，_PU 该_DT 解_NN 与_P 不同_JJ 伦_NN 。_PU
+
+

@@ -1,0 +1,10 @@
+﻿固_VV 有_VE 速度_NN
+
+相对_AD 论_NN 中_LC ，_PU 固有_JJ 速度_NN （_PU ，_PU 也_AD 称作_VV Celerity_NN ）_PU 是_VC 在_P 速度_NN 以外_LC 可_VV 用来_VV 测量_VV 运动_NN 的_DEC 物理量_NN 。_PU 相对于_P 一_CD 位_M 观察者_NN 的_DEG 速度_NN 是_VC 每_DT 单位_NN 时间_NN 的_DEG 距离_NN ，_PU 其中_NN 距离_NN 与_P 时间_NN 都_AD 是_VC 由_P 该_DT 观察者_NN 所_MSP 测量_VV ，_PU 即_AD ；_PU 相对于_P 该_DT 观察者_NN 的_DEG 固有_JJ 速度_NN ，_PU 则_AD 是_VC 观察者_NN 测量_VV 的_DEC 距离_NN 除_P 以_MSP 受_VV 观察_VV 的_DEC 移动物_NN 体所_NN 携带_VV 的_DEC 时钟_NN 所_MSP 经过_VV 的_DEC 时间_NN （_PU 原_JJ 时_LC "_PU τ_NN "_PU ）_PU ，_PU 即_AD 。_PU 从_P 固_AD 有_VE 速度_NN 的_DEC 定义_NN 也_AD 可_VV 看出_VV ：_PU 固有_VV 速度_NN 是_VC 四_CD 维_NN 速度_NN 的_DEC 三维_NN 空间_NN 分量_NN 。_PU
+
+在_P 低_JJ 速度_NN 情形_NN 下_LC ，_PU 固_AD 有_VE 速度_NN 与_CC 速度_NN 相等_VV ；_PU 然而_AD 在_P 高_JJ 速度_NN 的_DEC 情形_NN （_PU 接近_VV 光速_NN "_PU c_NN "_PU ）_PU ，_PU 采用_VV 固有_JJ 速度_NN 来_MSP 描述_VV 运动_NN 现象_NN 反而_AD 能_VV 保有_VV 原先牛_AD 顿力学_NN 中_LC 使用_VV 速度_NN 的_DEG 数学_NN 形式_NN 。_PU 举例_VV 来_MSP 说_VV ，_PU 固_AD 有_VE 速度_NN 等于_VV 每_DT 单位_NN 质量_NN 下_LC 的_DEG 动量_NN ，_PU 在_P 任何_DT 速率_NN 下_LC 皆_AD 成立_VV ，_PU 因此_AD 没有_VE 上限_NN 。_PU 如同_JJ 右图_NN 所_MSP 显示_VV ，_PU 在_P 高_JJ 速度_NN 下_LC ，_PU 固_AD 有_VE 速度_NN 也_AD 与_P 移动物体_NN 的_DEC 能量_NN 呈_VV 正比_NN 。_PU
+
+固有_VE 速度_NN 是_VC （_PU 座标_NN ）_PU 速度_NN 与_P 劳仑_NN 兹因_NN 子_NN 的_DEG 乘积_NN 。_PU 对于_P 单方向_JJ 运动_NN 来说_LC ，_PU 固_AD 有_VE 速度_NN 也_AD 与_P 快度_NN "_PU η_NN "_PU 呈_VV 简单关_NN 系式_NN ：_PU
+
+
+

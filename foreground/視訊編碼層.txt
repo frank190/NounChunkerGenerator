@@ -1,0 +1,8 @@
+﻿视讯_NN 编码层_NN
+
+视讯_NN 编码层_NN （_PU VideoCodingLayer_NN ，_PU VCL_NN ）_PU ，_PU 是_VC H_CD ._PU 264_CD /_PU AVC_NN 的_DEG 规格_NN ，_PU 意思_NN 是_VC 压缩_VV 后_LC 、_PU 去冗余_NN （_PU VisualRedundancy_NN ）_PU 的_DEG 影像_JJ 资料_NN ，_PU 其_PN 技术_NN 核心_NN 包括_VV 动作_NN 估计_VV 、_PU 转换_VV 编码_NN 、_PU 预测_VV 编码_NN 、_PU 去_VV 区块_NN 效应_NN 滤波_NN 、_PU 及_CC 熵_NN 编码_NN 等_ETC 。_PU
+
+视讯_NN 编码_NN 层_NN 往往_AD 与_P 网路_NN 抽象层_NN （_PU N_CD AL_M ）_PU 相互_AD 配合_VV ，_PU 标準_VV 的_DEC NAL_NN -_PU unit_NN 总共_AD 规范_VA （_PU profile_NN ）_PU 有_VE 12_CD 种_M ，_PU 这_PN 12_CD 种_M 型式_NN 可_VV 粗_P 分成_VV VCLNAL_NN -_PU unit_NN 及_CC non_NN -_PU VCLNAL_NN -_PU unit_NN ，_PU 其中_NN VCLNAL_NN -_PU unit_NN 是_VC 指_VV N_CD AL_M -_PU unit_NN 中_LC 存放_VV 的_DEC 完全_AD 是_VC VCL_NN 的_DEG 影像_JJ 资料_NN 。_PU
+
+
+

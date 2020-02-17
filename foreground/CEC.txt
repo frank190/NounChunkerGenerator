@@ -1,0 +1,13 @@
+﻿_CD CEC_NN
+
+消费者_NN 电子_NN 控制_NN （_PU ）_PU 是_VC 一_CD 个_M HDMI_NN 特性_NN ，_PU 设计_VV 允许_VV 用户_NN 只用_VV 一_CD 个_M 遥控器_NN ，_PU 就_AD 能_VV 通过_P HDMI_NN 控制_VV 所有_DT 连接_VV 的_DEC 设备_NN 。_PU 例如_AD ，_PU 用_P 电视机_NN 遥控器_NN 控制机_NN 顶盒_NN 或_CC DVD_NN 播放机_NN 。_PU 最多_AD 可_VV 控制_VV 15_CD 个_M 设备_NN 。_PU CEC_NN 也_AD 允许_VV 启用_VV 了_AS CEC_NN 的_DEC 设备_NN 无_VE 用户_NN 干预_VV 互相_AD 控制_VV 。_PU
+
+CEC_NN 是_VC 一_CD 个_M 单线_NN 双向_AD 串行_VV 总线_NN ，_PU 基于_P CENELEC_NN 标准_NN 的_DEC AV_NN ._PU link_NN 协议_NN 完成_VV 远程_JJ 控制_NN 功能_NN 。_PU 尽管_CS CEC_NN 在_P 产品_NN 中_LC 的_DEG 实现_NN 是_VC 可选_VV 的_DEC ，_PU 但_CC CEC_NN 硬件_NN 线路_NN 是_VC 强制_VV 的_DEC 。_PU CEC_NN 在_P HDMI_NN 标准_NN 1_CD ._PU 0_CD 中_LC 定义_VV ，_PU 在_P HDMI_NN 1_CD ._PU 2_CD 、_PU HDMI_NN 1_CD ._PU 2a_CD 、_PU HDMI_NN 1.3_CD a_NN 中_LC 更_AD 新_VA （_PU 在_P 总线_NN 中_LC 增加_VV 计时器_NN 和_CC 音频_NN 指令_NN ）_PU 。_PU USB_NN 转_VV CEC_NN 适配器_NN 的_DEG 出现_VV 允许_VV 计算机_NN 控制_VV 启用_VV 了_AS CEC_NN 的_DEC 设备_NN 。_PU
+
+CEC_NN 的_DEG 商业_NN 名称_NN 是_VC ：_PU
+以下_AD 列出_VV 最_AD 常用_VA 的_DEC HDMI_NN -_PU CEC_NN 命令_NN ：_PU
+
+
+
+
+

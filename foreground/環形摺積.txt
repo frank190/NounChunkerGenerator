@@ -1,0 +1,65 @@
+﻿环形_NN 折积_NN
+
+环形_JJ 折积_NN 与_CC 线性_JJ 折积_NN 类似_VA ，_PU 皆_AD 是_VC 针对_P 两_CD 个_M 函数_NN 的_DEG 运算_NN 子_NN 。_PU 假设_JJ 两_CD 个_M 函数_NN 分別_NN 为_VC "_PU f"_NN 与_CC "_PU g_NN "_PU ，_PU 则_AD 折积_NN 运算_NN 过程_NN 即_AD 为_VC 将_BA 其中_NN 一_CD 个_M 函数_NN (_PU 如_P "_PU f_NN "_PU )_PU 经过_P 翻转_VV 后_LC ，_PU 对于_P 每_DT 个_M 位移量_NN ，_PU 将_BA 重叠_VV 的_DEC 部份_NN 相_AD 乘累_VV 加_VV 起来_VV (_PU 见下_VV 文_NN 定义_VV )_PU 。_PU 不同_VA 的_DEC 地方_NN 在_VV 于_P 环形_JJ 折积_NN 的_DEC 位移_NN 为_VC 环形_JJ 位移_NN ，_PU 而_CC 线性_JJ 折积_NN 的_DEC 位移_NN 为_VC 平移_VV 。_PU 折积_NN 亦_AD 可以_VV 视为_AD 滑动_VV 平移_VV 的_DEC 推广_NN 。_PU
+
+两_CD 个_M 函数_NN 的_DEG 环形_JJ 折积_NN 定义_VV 为_VC 对_P 一_CD 个_M 或_CC 两_CD 个_M 函数_NN 做_VV 周期_NN 延伸_VV 后_LC 之_DEG 折积_NN 运算_NN ，_PU 而_CC 所谓_JJ 的_DEG 周期_NN 延伸_VV 是_VC 指_VV 原来_VV 的_DEC 函数_NN 平移_VV 固定_JJ 长度_NN 的_DEC 整数倍_NN 再_AD 全部_AD 加起_VV 来_MSP 所_MSP 产生_VV 的_DEC 新_JJ 函数_NN 。_PU
+"_PU x_NN "_PU ("t")_PU 经过_P 周期_NN 延伸_VV 后_LC 之_DEG 函数_NN 可_VV 写成_VV 下式_NN :_PU
+
+其中_NN T_NN 为_VC 周期_NN (_PU 即_AD 周期_NN 延伸_NN 中_LC 的_DEG 固定_JJ 长度_NN )_PU
+
+对_P "_PU x(t_M )_PU "_PU 与_CC "_PU h(t_M )_PU "_PU 计算_VV 环形_JJ 折积_NN 的_DEG 运算_NN (_PU formula_NN
+
+其中_NN *_PU 表示_VV 线性_JJ 折积_NN 运算子_NN
+
+此_DT 两_CD 定义_NN 的_DEC 等价_JJ 关系_NN 证明_VV 如下_VV :_PU
+
+上述_JJ 为_NN 针对_P 两_CD 个_M 连续_JJ 信号_NN (_PU 函数_NN )_PU 的_DEG 环形_JJ 折积_NN 之_DEC 定义_NN 的_DEC 说明_NN ，_PU 类似_VA 的_DEC ，_PU 我们_PN 对于_P 周期_NN 为_VC "_PU N_CD "_PU 的_DEG 离散_NN 信号_NN 之_DEC 环形_JJ 折积_NN (_PU formula_NN
+
+离散_NN 信号_NN 的_DEC 环形_JJ 折积_NN 可以_VV 结合_VV 快速_AD 傅立_VV 叶_NN 变换_NN 与_CC 折积理_NN 论做_NN 相当_AD 有_VE 效率_NN 的_DEG 计算_NN ，_PU 然而_AD ，_PU 在_P 实际上_AD 信号_NN 处理_NN 或_CC 系统_NN 理论_VA 的_DEC 应用_NN ，_PU 线性_JJ 折积_NN 运算_NN 较_AD 常_AD 被_SB 考虑_VV 也_AD 较_AD 有_VE 物理_NN 意义_NN ，_PU 於是_VV ，_PU 如果_CS 可_VV 将_BA 一_CD 个_M 线性_JJ 折积_NN 的_DEG 计算_NN 问题_NN 转化_NN 为_VC 求算_NN 环形_NN 折积_NN ，_PU 则_AD 一般_AD 当_P 两_CD 个_M 输入_NN 信号_NN 长度_NN 相距_VV 不_AD 远_VA 时_LC ，_PU 往往_P 计算量_NN 可以_VV 大为_AD 减少_VV ，_PU 增加_VV 了_AS 计算线_NN 性_NN 折积_NN 的_DEG 效率_NN ，_PU 至於_AD 线性_JJ 折积_NN 与_CC 环形_JJ 折积_NN 的_DEC 关系_NN 以及_CC 如何_AD 利用_VV 环形_JJ 折积_NN 与_CC 傅立_JJ 叶变_NN 换求_VV 得线性_JJ 折积_NN 结果_NN ，_PU 将_AD 于_P 下文_VV 进一步_AD 讨论_VV 。_PU
+
+连续_JJ 信号_NN 线性_JJ 折积_NN
+离散_NN 信号_NN 线性_JJ 折积_NN
+
+对于_P 一_CD 个_M 线性_JJ 非_JJ 时变_NN (_PU LTI_NN )_PU 之_DEG 系统_NN ，_PU 输出_VV 的_DEC 信号_NN "_PU y_NN "_PU ("n")_PU 可以_VV 经由_P 输入_NN 信号_NN "_PU x_CD "_PU ("n")_PU 与_P 系统_NN 的_DEG 脉冲_NN 响应_NN "_PU h_NN "_PU (_NN "_PU n_NN "_PU )_NN 的_DEG 线性_JJ 折积_NN 而_MSP 得_VV 。_PU
+也_AD 因此_AD ，_PU 在_P 实际_JJ 的_DEG 应用_NN 上_LC ，_PU 线性_JJ 折积_NN 的_DEG 运算_NN 较为_AD 具有_VV 物理_NN 意义_NN ，_PU 如_P 数位_NN 滤波器_NN 的_DEG 滤波_NN 过程_NN 即_AD 为_VC 一_CD 个_M 线性_JJ 折积_NN 的_DEG 运算_NN 。_PU
+
+环形_JJ 折积_NN 定义_NN 如_P 前文_NN 所_MSP 述_VV ，_PU 运算_NN 上_LC 是_VC 将_BA 线性_JJ 折积_NN 的_DEC 头尾_NN 相_AD 连变_VV 成_VV 环形_NN ，_PU 观念_NN 上_LC 可_VV 想像_VV 为_VC 一_CD 个_M 输入_VV 在_P 内环_NN ，_PU 另_DT 一_CD 个_M 输入_VV 在_P 外环_NN ，_PU 然后_AD 每_DT 一_CD 个_M 输出_VV 的_DEC 求得_VV 皆_AD 是_VC 经由_P 内环_NN 与_CC 外环_NN 对应_AD 位置_NN 的_DEC 乘加_NN 。_PU 计算_VV 下_DT 一_CD 个_M 输出_VV 则_AD 将_BA 内环_NN 固定_VV 不动_AD ，_PU 外环_NN 圆周_NN 位移_VV 一_CD 格_M ，_PU 再_AD 做_VV 对应_JJ 位置_NN 之_DEC 乘加_NN 得到_VV 此_DT 输出_NN ，_PU 以_P 此_DT 类推_NN 。_PU (_PU 圆环_NN 上_LC 的_DEC 点数_NN 即_AD 为_VC 周期_NN 延伸_VV 的_DEC 周期_NN "_PU T_NN "_PU 或_CC "_PU N_CD "_PU )_PU
+
+不管_CS 是_VC 线性_JJ 折积_NN 或_CC 环形_JJ 折积_NN 均_AD 有_VE 反折_VV 、_PU 位移_NN 、_PU 相乘_VV 并_CC 求和_VV 的_DEC 运算_NN ，_PU 但线性_JJ 折积_NN 的_DEC 位移_NN 是_VC 平移_VV ，_PU 环形_JJ 折积_NN 的_DEC 位移_NN 则_AD 是_VC 圆周_NN 位移_VV 。_PU 除_P 此_PN 之外_LC ，_PU 线性_JJ 折积_NN 并_AD 不_AD 要求_VV 两_CD 序列_NN 长度_NN 相等_VV ，_PU 若_CS "_PU x_NN "_PU ("n")_PU 长度_NN 为_VC "_PU M_NN "_PU ，_PU "_PU h_NN "_PU ("n")_PU 长度_NN 为_VC "_PU N_CD "_PU ，_PU 则_AD 其_PN 折积_NN 输出_NN "_PU y_NN "_PU ("n")_PU 长度_NN 为_VC "_PU M_NN "_PU +_NN "_PU N_CD "_PU -1_CD ，_PU 而_CC 环形_JJ 折积_NN 则_AD 要求_VV 两_CD 输入_VV 序列_NN 等_ETC 长_VA (_PU 假设_VV 为_VC "_PU L_NN "_PU )_NN ，_PU 且_CC 折积_NN 输出_VV 的_DEC 长度_NN 也_AD 为_VC "_PU L_NN "_PU 。_PU 一般_AD 情况_NN 下_LC ，_PU 两_CD 等_ETC 长_JJ 序列_NN 的_DEG 环形_JJ 折积_NN 与_CC 线性_JJ 折积_NN 的_DEG 结果_NN 是_VC 不同_VA 的_DEC (_PU 因为_P 环形_JJ 周期_NN 序列_NN 产生_VV 的_DEC 影响_NN )_PU ，_PU 但_CC 当_P "_PU L_NN "_PU ≥_NN "_PU M_NN "_PU +_NN "_PU N_NN "_PU -_PU 1_CD 时_LC ，_PU 两_CD 者_NN 的_DEG 结果_NN 相同_VA 。_PU
+
+右图_NN 为_VC 一_CD 个_M 实际_JJ 范例_NN ，_PU 可_VV 比较_VV 相同_VA 的_DEC 两_CD 输入_NN 信号_NN ，_PU 线性_JJ 折积_NN 与_CC 环形_JJ 折积_NN 输出_VV 的_DEC 差异_NN 。_PU
+
+由_P 以上_JJ 讨论_NN 知道_VV 一般_JJ 的_DEG 情况_NN ，_PU 线性_JJ 折积_NN 与_CC 环形_JJ 折积_NN 的_DEG 输出_NN 结果_NN 并_AD 不_AD 会_VV 相同_VA ，_PU 且_CC 一_CD 般线性_JJ 折积_NN 较_AD 实用_VA 而_CC 有_VE 意义_NN 。_PU 然而_AD 离散_VV 信号_NN 的_DEC 处理_NN 上_LC ，_PU 由于_P 环形_JJ 折积_NN 可以_VV 借由_VV 快速_AD 傅立_VV 叶_NN 变换_NN 较_AD 有_VE 效率_NN 的_DEC 求得_VV ，_PU 所以_AD 两_CD 输入_NN 信号_NN 的_DEG 线性_JJ 折积_NN ，_PU 如_P 何利_PN 用_P 环形_JJ 折积_NN 与_CC 快速_AD 傅立_VV 叶_NN 变换_NN 得到_VV ，_PU 在_P 信号_NN 处理_NN 及_CC 相关_JJ 应用_NN 上_LC 是_VC 特_VV 別_NN 重要_VA 的_DEC 。_PU
+
+我们_PN 根据_P 折积_NN 理论_NN 知道_NN
+
+然而_AD "_PU FFT_NN "_PU 的_DEG 点数_NN 该如_AD 何选_AD 取呢_VV ？_PU
+因为_P "_PU FFT_NR "_PU 与_P "_PU IFFT_NN "_PU 的_DEG 点数_NN 皆_AD 要_VV 是_VC 一样_VA 的_DEC ，_PU 且_CC 特_AD 別_JJ 要_VV 注意_VV 的_DEC 一_CD 点_M 是_VC :_PU
+
+其中_NN "_PU FFT_NN "_PU 为_VC "_PU L"点_NN "_PU FFT_NN "_PU ；_PU "IFFT_NN "_PU 为_VC "_PU L"点_NN "_PU IFFT_NN "_PU
+(_PU (_NN "_PU a_NN "_PU )):"a"除以"L"_PU 的_DEG 余数_NN
+
+上式_JJ 表示_VV 根据_P 折积_NN 理论_NN 与_CC 快速_AD 傅立_VV 叶_NN 变换_NN ，_PU 我们_PN 求得_VV 的_DEC 是_VC 两_CD 个_M 输入_NN 信号_NN 的_DEC 环形_JJ 折积_NN 而_AD 不_AD 是_VC 线性_JJ 折积_NN
+
+依据_P 两_CD 个_M 输入_NN 信号_NN 的_DEG 长度_NN ，_PU 计算_NN 方法_NN 可_VV 分类_AD 如下_VV :_PU
+由于_P 此_DT 种_M 类_NN 在_P 实际_JJ 应用_NN 上_LC 相当_VV 少_VA 且_CC 较_AD 不_AD 实际_VA ，_PU 故_AD 在_P 此_PN 不_AD 进一步_JJ 讨论_NN
+
+假设_VV "_PU x_NN "_PU ["n"]_PU 的_DEG 范围_NN [_PU "n","n"]_PU ，_PU 长度_NN 为_VC "_PU N_CD "_PU ="n"-"n"+1；"h"["n"]_PU 的_DEG 范围_NN 为_VC [_PU "k","k"]_PU ，_PU 长度_NN "_PU K_NN "_PU 为_VC "_PU k_NN "_PU -"k"+1_Err
+在_P 这_DT 个_M 情况_NN 下_LC ，_PU "x"["n"_PU ]_PU 与_P "_PU h_NN "_PU [_NN "_PU n_NN "_PU ]_PU 的_DEG 线性_JJ 折积_NN 为_VC
+
+容易_AD 以_P 图解_NN 推得_VV "_PU y_NN "_PU ["n"]_PU 有_VE 值_NN 的_DEC 范围_NN 为_VC [_PU "_PU k_NN "_PU +_NN "_PU n_NN "_PU ,_NN "_PU k_NN "_PU +_NN "_PU n_NN "_PU ]_PU ，_PU 输出_NN 长度_NN 为_VC formula_NN (_PU 输出_NN 信号_NN 长度_NN 比_P 两_CD 输入_NN 信号_NN 大_VA )_PU
+
+於是_AD 如_P 欲_NN 以_MSP 快速_AD 傅立_VV 叶_NN 变换_NN 计算线_NN 性_NN 折积_NN ，_PU 则_AD 傅立_VV 叶_AD 变换_VV 之_DEC 点数_NN "_PU M_NN "_PU 要_VV 取_VV "_PU N_CD "_PU +_NN "_PU K_NN "_PU -_PU 1_CD ，_PU 不_AD 足部_NN 份补_VV 零_CD ，_PU 实作_NN 方法_NN 如下_VV ：_PU
+
+由于_P 折积_NN 运算_VV 的_DEC 对称性_NN ，_PU 此_DT 种类_NN 与_CC "_PU x"["n_M "_PU ]_PU 为_VC 有_VE 限长_NN 信号_NN ，_PU 而_CC "_PU h_NN "_PU ["n"_PU ]_PU 为_VC 无_VE 限长_NN 信号_NN 的_DEC 情况_NN 完全_AD 相同_VA 。_PU
+假设_VV "_PU x_NN "_PU ["n"]_PU 的_DEG 范围_NN [_PU "n","n"]_PU ，_PU 长度_NN 为_VC "_PU N_CD "_PU ="n"-"n"+1，"h"["n"_PU ]_PU 长度_NN 为_VC 无_VE 限长_NN 。_PU
+在_P 此_DT 情况_NN 下_LC ，_PU 折积_NN 输出_NN "_PU y_NN "_PU ["n"_PU ]_PU 每_DT 一_CD 点_M 皆_AD 有_VE 值_NN 。_PU 但_AD 当_P 我们_PN 只_AD 想求_VV 出_VV "_PU y_NN "_PU [_PU "_PU n_NN "_PU ]_PU 的_DEG 其中_NN 一_CD 段_M 时_LC ，_PU 依_P 然_AD 可_VV 利用_VV 快速_AD 傅立_VV 叶_AD 变换_VV 实_AD 作_VV 。_PU
+如果_CS 我们_PN 希望_VV 算出_VV "_PU y_NN "_PU ["n"_PU ]_PU 在_P 范围_NN [_PU "_PU m_NN "_PU ,"m"]_PU 之间_LC 的_DEG 值_NN ，_PU 此_DT 段_M 长度_NN 为_VC "_PU M_NN "_PU =_NN "_PU m_NN "_PU -_NN "_PU m_NN "_PU +_NN 1_CD ，_PU 此时_AD 可_VV 图_NN 解_VV 发现_VV ，_PU 在_P "_PU h_NN "_PU [_PU "_PU n_NN "_PU ]_PU 中_LC 与_P 我们_PN 关心_JJ 的_DEG 输出_NN 范围_NN 有_VE 关联_VV 之_DEC "_PU h_NN "_PU [_NN "_PU n_NN "_PU ]_PU 范围_NN 为_VC [_PU "_PU m_NN "_PU -_NN "_PU n_NN "_PU ,_NN "_PU m_NN "_PU -_NN "_PU n_NN "_PU ]_PU ，_PU 需要_VV 使用_VV 的_DEC "_PU F_CD FT_M "_PU 点数_NN 为_VC "_PU L_NN "_PU ="N"+"M"-1("M"_PU 为_VC 输出_NN 信号_NN 关心_NN 的_DEG 长度_NN )_PU
+
+实作_NN 方法_NN 如下_VV :_PU
+
+当_P 计算_VV 折积_NN 之_DEC 两_CD 信号_NN 长度_NN 相差_AD 很_AD 大_VA 时_LC ，_PU 利用_VV 快速_AD 傅立_VV 叶_NN 变换_NN 计算_NN 折积_NN 是_VC 较_AD 没有_VE 效率_NN 的_DEC ，_PU 此时_NT 较_AD 有_VE 效率_NN 的_DEC 方法_NN 是_VC 将_BA 较_AD 长_VA 的_DEC 信号_NN 切成_VV 一_CD 段段_NN 的_DEG 区块_NN ，_PU 以_P 此_PN 每_DT 一_CD 区块_NN 对_P 另_DT 一_CD 输入_NN 信号_NN 进行_VV 折积_NN 再_AD 合并_VA ，_PU 常见_VA 的_DEC 区块_NN 折积_NN 方法_NN 包括_VV 重叠_VV -_PU 相加_VV 之_DEC 折积法_NN 与_CC 重叠_NN -_PU 储存_VV 之_DEC 折积法_NN ，_PU 针对_P 长度_NN 的_DEG 不同_JJ ，_PU 区块_NN 长度_NN 的_DEC 选取_NN 亦_AD 会_VV 影响_VV 计算_VV 的_DEC 效率_NN 。_PU
+
+
+
+

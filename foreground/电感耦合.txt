@@ -1,0 +1,6 @@
+﻿电感_NN 耦合_NN
+
+在_P 电子_NN 工程_NN 学_NN 中_LC ，_PU 由于_P 电磁_NN 感应_NN 使_VV 一_CD 根_M 导线_NN 中_LC 的_DEC 电流_NN 变化_NN 引起_VV 电动势_NN 通过_P 另_DT 一_CD 根_M 导线_NN 的_DEG 一_CD 端_NN ，_PU 这样_AD 配置_VV 的_DEC 两_CD 个_M 导体_NN 称为_VV 是_VC 互感_JJ 耦合_NN ，_PU 或_CC 称_VV 磁耦合_NN ，_PU 这_DT 种_M 状态_NN 的_DEC 电流_NN 变化_NN 是_VC 根据_P 法拉_NN 第_VV 电磁_NN 感应_NN 定律_NN 产生_VV 感应_NN 电动势_NN 。_PU 电感_NN 耦合_NN 可以_VV 由_P 互感_NN 来_MSP 度量_VV 。_PU 如_AD 要_VV 加强_VV 两_CD 根_M 导线_NN 的_DEG 耦合_NN ,_PU 可_VV 将_BA 其_PN 绕成_VV 线圈_NN 并_CC 以_P 同_DT 轴_NN 方式_NN 接近_VV 放置_NN ,_PU 这样_AD 一_CD 个_M 线圈_NN 的_DEG 磁场_NN 会_VV 穿过_VV 另_DT 一_CD 个_M 线圈_NN 。_PU 互_AD 感_VV 耦合_NN 是_VC 许_VV 多仪器_NN 的_DEG 原理_NN ,_PU 其中_NN 一_CD 个_M 重要_VA 的_DEC 应用_NN 就_AD 是_VC 变压器_NN 。_PU
+
+
+

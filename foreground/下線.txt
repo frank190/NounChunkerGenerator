@@ -1,0 +1,10 @@
+﻿下线_NN
+
+下线_NN （_PU ,_PU ）_PU 一_CD 词_NN 指_VV 的_DEC 是_VC 积体_NN 电路_NN （_PU IC_NN ）_PU 或_CC 印刷_NN 电路板_NN （_PU PCB_NN ）_PU 设计_VV 的_DEC 最后_JJ 步骤_NN ，_PU 也就是_AD 送交_VV 制造_VV 。_PU
+
+在_P 工业_NN 生产_NN 领域_NN ，_PU 「_PU 下线_NN 」_PU 指_VV 的_DEC 是_VC 产品_NN 完成_VV 生产线_NN 组装_NN 制造_VV 的_DEC 过程_NN ，_PU 离开_VV 生产线_NN 。_PU
+
+今日_NT 的_DEG IC_NN 设计_NN 过程_NN 需_VV 使用_VV 到_VV 各_DT 种_M 电子_NN 设计_NN 自动_AD 化工具_VV ，_PU 经过_P 漫长_VA 且_CC 复杂_VA 的_DEC 模拟_NN 跟_VV 验证_VV 之后_LC ，_PU 才_AD 能够_VV 将_BA 设计_VV 好_VA 的_DEC 电路_NN 交由_VV 半导体_NN 器件_NN 制造_VV 的_DEC 工厂_NN （_PU 晶圆厂_NN ）_PU 生产_VV ，_PU 称之为_VV 「_PU 下线_VV 」_PU 。_PU 因此_AD 在_P 业界_NN 当中_LC ，_PU 这_DT 个_M 词_NN 或_CC 多_VA 或_CC 少_VA 也_AD 包含_VV 了_AS 一些_CD 设计_NN 大功_AD 告成_VV 的_DEC 祝贺_NN 意味_NN 在_VV 。_PU
+
+
+

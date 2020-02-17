@@ -1,0 +1,22 @@
+﻿蒸镀_NN
+
+蒸镀_NN （_PU ）_PU 是_VC 指_VV 将_BA 金属_NN 和_CC 氧化物_NN 等_ETC 蒸发_VV ，_PU 使_VV 其_PN 於_P 素材_NN 的_DEG 表面附_NN 著_AD 形成_VV 一_CD 层_M 薄膜_NN 的_DEC 一_CD 种_M 方法_NN 。_PU 蒸_NN 镀_VV 可_VV 大_VA 略_AD 分为_AD 物理_NN 蒸镀_NN （_PU PVD_NN ）_PU 与_P 化学_NN 蒸镀_NN (_PU CVD_NN )_PU 两_CD 种_M 。_PU
+
+接下_AD 来以_VV PVD_NN 的_DEC 一_CD 种_M 真空蒸_NN 镀来_VV 说明_NN 。_PU
+
+在_P 达_VV 真空_NN 的_DEC 容器_NN 中_LC 、_PU 将_BA 欲蒸_NN 镀_VV 的_DEC 材料_NN 加热_VV 直至_AD 汽化_VV 昇_DER 华_NN 、_PU 并_CC 使_VV 此_DT 气体_NN 附_NN 著_AD 於_P 放置_VV 在_P 附近_NN 的_DEC 基板_NN 表面_NN 上_LC 、_PU 形成_VV 一_CD 层_M 薄膜_NN 。_PU 依_P 蒸镀_NN 材料_NN 、_PU 基板_NN 的_DEG 种类_NN 可_VV 分为_VV :_PU 抵抗_VV 加热_NN 、_PU 电子束_NN 、_PU 高_JJ 周波_NN 诱导_VV 、_PU 雷射_NN 等_ETC 加热_NN 方式_NN 。_PU 蒸镀_JJ 材料_NN 有_VE 铝_NN 、_PU 亚铅_NN 、_PU 金_NN 、_PU 银_NN 、_PU 白金_NN 、_PU 镍_NN 等_ETC 金属_NN 材料_NN 与_CC 可_VV 产生_VV 光学_NN 特性_NN 薄膜_NN 的_DEC 材料_NN ，_PU 主要_AD 有_VE 使用_VV SiO_NR 、_PU TiO_NN 、_PU ZrO_NN 、_PU MgF_NN 等_ETC 氧化物_NN 与_P 氟化物_NN 。_PU 蒸镀_NN 除_P 金属_NN 外_LC ，_PU 树脂_NN 与_CC 玻璃_NN 也_AD 可以_VV 使用_VV 、_PU 近年_NT 来连纸也_NT 变成_VV 可_VV 蒸_NN 镀_VV 。_PU
+
+成膜_NN 时_LC 依_P 基板_NN 与_CC 蒸镀_JJ 材料_NN 可_VV 先_AD 使用_VV RF_NN 等离子_NN 与_CC 离子_NN 枪_NN 照射_VV 来_MSP 使_VV 蒸镀_NN 有_VE 更_AD 高_VA 的_DEC 密著度_NN 。_PU 但_AD 是_VC 、_PU 被蒸_JJ 镀物_NN 是_VC 树脂_NN 的_DEC 时候_NN 这样_AD 做_VV 会_VV 造成_VV 反_VV 效果_NN ，_PU 因此_AD 在_P 被_SB 蒸镀_VV 物_NN 的_DEC 材质_NN 不_AD 明确_VA 下_LC 必须_VV 进行_VV 调查_NN 与_P 事前_NT 的_DEG 实验_NN 以_MSP 免造_VV 成_VV 失败_NN 。_PU
+
+RF_NN 等离子_NN 加工法_NN 为_VC 真空槽_NN 内_LC 加入_VV 氩_NN 与_P 氧气_NN ，_PU 使_VV 已经_AD 离子_NN 化_NN 的_DEC 被_LB 蒸_NN 镀_VV 物_NN 表面_NN 变质_NN （_PU RF_NN 离子化_NN ）_PU 。_PU 而_CC 离子_NN 枪加_NN 工法_NN 是_VC 在_P 离子_NN 枪_NN 内部_NN 加入_VV 氩_NN 与_P 氧气_NN 后_LC 在_P 离子_NN 化_NN 的_DEG 基板_NN 表面_NN 设置_VV 开有_VV φ_NN 1_CD mm_M 左_JJ 右_JJ 小孔_NN 的_DEC 画素_NN 电极_NN ，_PU 而后_AD 将_BA 离子_NN 枪_NN 往_P 该_DT 处_NN 照射_VV 进行_VV 加工_NN （_PU IAD：IonAssistDeposition_NN ）_PU
+
+将容器_NN 真空化_NN 的_DEC 作用_NN 为_VC ，_PU 蒸镀_JJ 材料_NN 的_DEG 分子_NN 在_P 到_VV 达基板_NN 之前_LC ，_PU 避免_VV 与_P 容器_NN 内_LC 残存_VV 的_DEC 气体_NN 分子_NN 发生_VV 冲突_NN ，_PU 以及_CC 可以_VV 降低_VV 蒸镀_NN 材料_NN 的_DEG 蒸发_NN 温度_NN 。_PU 一般_AD 需要_VV 10_CD -_PU 3_CD ～_PU 10_CD -_PU 4_CD Pa_M 程度_NN 的_DEC 真空度_NN ，_PU 要_VV 达成_VV 真空_NN 情况_NN 需_VV 使用_VV 真空_NN 帮浦_VV 。_PU
+
+蒸镀_VV 时_LC 的_DEG 量_NN 测膜_NN 厚_AD 有_VE 使用_VV 分光学_NN 反射_NN 与_CC 折射率_NN 来_MSP 计算_VV 与_CC 以_P 水晶_NN 震动_NN 分子_NN 的_DEC 蒸镀_NN 材料_NN 的_DEG 振动数_NN 变化_NN 来_MSP 测量_VV 膜_NN 厚等_NN 方法_NN 。_PU
+
+光学_NN 薄膜_NN （_PU 眼镜_NN 与_CC 镜片_NN 的_DEG 反射防_NN 止膜_NN 、_PU 特殊_JJ 镜子_NN 等_ETC ）_PU 、_PU 磁带_NN （_PU 录音_NN 、_PU 录影带_NN 等_ETC ）_PU 、_PU 构成_VV 显示器_NN 的_DEC 电极・_NN 半导体_NN 膜・_NN 绝_CC 縁膜_NN 等_ETC （_PU 电浆_NN 电视_NN 与_CC 有机_JJ EL_NN 、_PU 液晶_NN 显示器_NN ）_PU 、_PU 手机_NN 、_PU PDA_NN 的_DEG 萤幕_NN 表面・_NN 装饰_NN 表面_NN 用_VV 的_DEC 涂层_NN 、_PU 电子_NN 零件_NN (_PU 电容_NN 、_PU 半导体_NN 集积_NN 回路_NN 等_ETC ）_PU 、_PU 食品_NN 包装_NN 材料_NN （_PU 装饼_NN 干糖_NN 果用_VV 的_DEC 袋子_NN 有_VE 的_DEG 蒸_NN 镀_VV 上_NN 一_CD 层_M 铝膜_NN ）_PU 、_PU 以至_JJ 於_NN 新颖_JJ 材料_NN 与_CC 建材_NN 、_PU 各式_JJ 各样_JJ 范围_NN 广泛_AD 接可_VV 使用_VV 此_DT 加工法_NN 。_PU 电子_NN 显微镜_NN 的_DEG 标本_NN 在_P 制作_VV 时_LC 也_AD 使用_VV 此_DT 加工法_NN 。_PU
+
+1857_CD 年_M MichaelFaraday_NN 最早_AD 提出_VV 基本_JJ 原理_NN ，_PU 而后_NR 、_PU 1930_CD 年代_NN 由于_P 油扩散式_JJ 真空_NN 帮浦_NN 实_AD 用化_VV 、_PU 蒸镀_NN 主要_AD 用于_VV 制作_VV 镜片_NN 反射防_NN 止膜_NN 。_PU 第二_OD 次_M 世界_NN 大战时_AD 、_PU 其他_DT 的_DEG 光学_NN 机器_NN 的_DEG 需求_NN 提高_VV 、_PU 真空_NN 蒸镀_NN 也_AD 因此_AD 快速_AD 发展_VV 。_PU
+
+
+

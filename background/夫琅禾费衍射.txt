@@ -1,0 +1,44 @@
+﻿夫_NN 琅禾费_NN 衍射_NN
+
+在_P 光学_NN 上_LC ，_PU 夫琅禾_NN 费_NN 衍射_NN （_PU 以_P 约_AD 瑟夫_VV ·_PU 冯_NN ·_PU 夫琅_NN 和_CC 费命名_NN ）_PU ，_PU 又_CC 称_VV 远场_JJ 衍射_NN ，_PU 是_VC 波动_JJ 衍射_NN 的_DEC 一_CD 种_M ，_PU 在_P 场波_NN 通过_P 圆孔_NN 或_CC 狭缝_NN 时_LC 发生_VV ，_PU 导致_VV 观测_VV 到_VV 的_DEC 成像_NN 大小_AD 有所_VV 改变_NN ，_PU 成因_VV 是_VC 观测点_NN 的_DEG 远场_NN 位置_NN ，_PU 及_CC 通过_P 圆孔_NN 向外_LC 的_DEG 衍射波_NN 有_VE 渐趋_JJ 平面波_NN 的_DEG 性质_NN 。_PU
+
+夫琅禾_NN 费_NN 衍射_NN 可_VV 在_P 菲涅_NN 耳_AD 衍射_VV 的_DEC 近场_NN 距离_VV 外观_NN 测到_VV ，_PU 而_CC 菲涅耳_NR 衍射会_NN 同时_AD 影响_VV 到_CC 成像_VV 的_DEC 大小_NN 及_CC 形状_NN ，_PU 而且_CC 只_AD 会_VV 在_P 菲涅_NR 耳数_NN formula_NN
+
+在_P 纯量_JJ 衍射_NN 理论_NN 中_LC ，_PU 夫琅禾_NN 费_NN 近似_AD 是_VC 对_P 菲涅耳_NR 衍射_NN 积分_NN 的_DEG 远场_NN 近似_VA 式_LC ，_PU
+
+夫琅禾_NN 费_NN 衍射_NN 使用_VV 惠更斯_NN －_PU 菲涅耳_NN 原理_NN ，_PU 借以_VV 把_BA 通过_P 圆孔_NN 或_CC 狭缝_NN 的_DEC 一_CD 波动_NN 分成_VV 多_CD 个_M 向外_VV 的_DEC 波动_NN ，_PU 使用_VV 透镜_NN 来_MSP 有目_VV 的_DEC 地衍_NN 射光_NN 的_DEC 观测_NN 实验_NN 一般_AD 被_SB 用作_VV 描述_VV 这_DT 个_M 原理_NN 。_PU 当_P 波动_NN 通过_VV 时_LC ，_PU 波动_NN 会_VV 被_SB 衍射_VV 分成_VV 两_CD 个_M 波动_NN ，_PU 之后_AD 以_P 平行_VV 的_DEC 角度_NN 各自_PN 行进_VV ，_PU 后面_LC 跟着_P 进来_VV 的_DEC 波动_NN 亦_AD 是_VC 如此_AD ，_PU 在_P 观测_VV 时_LC 把_BA 屏幕_NN 放_VV 在_P 行进_NN 路线_NN 上_LC 来_MSP 看成_VV 像条纹_P 这_DT 个_M 方法_NN 就_AD 用到_VV 这样_PN 的_DEG 原理_NN 。_PU
+
+当_P 一_AD 遭到_VV 衍射_NN 的_DEC 波动_NN 在_P 最_AD 初_JJ 衍射点_NN 的_DEC 近场_JJ 距离_NN ，_PU 在_P 与_P 其他_DT 波动_NN 平行_VA 下_LC 被_SB 观测_VV 到_VV 时_LC ，_PU 我们_PN 会_VV 看到_VV 菲涅耳_NR 衍射_NN ，_PU 因为_P 用_P 圆孔_NN 与_CC 屏幕_NN formula_NN
+间_CS 距离_VV 用_P 菲涅_NN 耳数_NN 方程_NN 式计_VV 算出_VV 的_DEC 结果_NN 小于_VV 1_CD ，_PU 这_DT 方程_NN 可_VV 在_P 观测_VV 平行_JJ 波_NN 的_DEG 衍射_NN 程度_NN 时_LC 用到_VV ，_PU 方程_NN 需要_VV 的_DEC 物理量_NN 为_VV 圆孔_NN 或_CC 缝隙_NN 的_DEG 大小_NN formula_NN __PU 4_CD 、_PU 波长_NN formula_NN __NN 5_CD 以及_CC 离_P 圆孔_NN 的_DEC 距离_NN formula_NN
+
+观测_VV 时_LC ，_PU 会_VV 看到_VV 菲涅耳_NN 衍射_NN 所_MSP 产生_VV 的_DEC 圆孔_NN 成像_VV ，_PU 大小_NN 与_CC 形状_NN 会_VV 与_P 原来_JJ 的_DEG 圆孔_NN 不_AD 一样_VA ，_PU 即_AD 是_VC 说_VV 边缘_NN 多少_AD 会_VV 有_VE 一些_CD 锯齿_NN 在_P ，_PU 但是_CC 夫琅禾_NR 费_NN 衍射_VV 的_DEC 成像_NN 则_AD 只有_AD 大小_VA 的_DEC 改变_NN ，_PU 这_PN 是_VC 因为_P 远场_JJ 的_DEG 波动_NN 比较_VV 接近_AD 平行_VV 光束_NN 及_CC 平面波_NN 的_DEG 性质_NN 。_PU
+
+远场_JJ 衍射条_NN 纹可_VV 在_P 校準_NN 好_VA 的_DEC 透镜_NN 的_DEC 成像_JJ 平面_NN 上_LC 被_SB 观测_VV 到_VV （_PU 大小_NN 除外_LC ）_PU 。_PU 点状_JJ 光源_NN 在_P 衍射屏_NN 产生_VV 的_DEC 远场_NN 条纹_NN 可_VV 在_P 光源_NN 的_DEC 成_VV 像平面_NN 上_LC 被_SB 观测_VV 到_VV 。_PU
+
+假如_VV 一_CD 光源_NN 与_CC 观察_NN 用_VV 的_DEC 屏幕_NN 离_P 衍射圆孔_NN （_PU 可以_VV 是_VC 狭缝_NN ）_PU 足够_VV 远_VA 的_DEC 话_NN ，_PU 到_VV 达圆孔_NN 及_CC 屏幕_NN 的_DEC 波前_NN 可_VV 被_SB 视为_VV 準直_NN 或_CC 平面波_NN 。_PU 菲涅_NN 耳_NN 衍射_NN （_PU 或_CC 近_JJ 场衍射_NN ）_PU 只_AD 会_VV 在_P 上述_JJ 情况_NN 不_AD 被_SB 满足_VV 时_LC 发生_VV ，_PU 而_CC 这时_NT 就_AD 需要_VV 考虑_VV 到_VV 入射_VV 波前_NT 的_DEG 弧度_NN 。_PU
+
+在_P 远场_JJ 衍射_NN 中_LC ，_PU 如果_CS 观测_VV 屏幕_NN 在_P 圆孔_NN 不动_VA 时_LC 往后_AD 移动_VV ，_PU 则_AD 产生_VV 的_DEC 条纹会_NN 一致_VA 地_DEV 改变_VV 大_VA 小_VA 。_PU 但_AD 近_AD 场_LB 衍射_NN 则_AD 不_AD 会_VV 这样_AD ，_PU 衍射_NN 条纹_NN 的_DEG 大小_NN 与_CC 影状_NN 都_AD 会_VV 改变_VV 。_PU
+
+要_VV 做到_VV 夫琅禾_NN 费_NN 狭缝_NN 衍射_NN ，_PU 可以_VV 使用_VV 两_CD 块_M 透镜_NN 及_CC 一片_NN 屏幕_VV 。_PU 使用_VV 点状_JJ 光源_NN 及_CC 準直_JJ 透镜_NN 可以_VV 做出_VV 平行_JJ 光束_NN ，_PU 然后_AD 这_DT 光束_NN 会_VV 通过_P 狭缝_NN 。_PU 狭缝_NN 后_LC 会_VV 有_VE 另_DT 一_CD 块_M 透镜_NN ，_PU 把_BA 平行_JJ 光束_NN 聚焦_VV 到_VV 屏幕_NN 上_LC 作_VV 观测_VV 之_DEC 用_VV 。_PU 同样_AD 的_DEV 设置_VV 可_VV 用于_VV 多_CD 狭缝_NN 衍射_NN ，_PU 会_VV 造出_VV 不同_VA 的_DEC 衍射_NN 条纹_NN 。_PU
+
+由于_P 这_DT 种_M 衍射_NN 数学_NN 上_LC 并_AD 不_AD 复杂_VA ，_PU 实验_NN 设置_VV 可以_VV 很_AD 準确_VA 地_DEV 找出_VV 入射_NN 单_AD 色光_NN 的_DEC 波长_NN 。_PU
+
+在_P 以下_JJ 的_DEG 表述_NN ，_PU 我们_PN 假设_JJ 电场_NN 或_CC 其_PN 他场_NN 可_VV 用_P 下式_NN 表示_VV ：_PU
+下面_NN 将_AD 会_VV 假设_VV 所有_DT 的_DEG 场_NN 大小_NN 都_AD 跟_P 时间_NN 有_VE 关系_VV ，_PU 而_CC 关系式_JJ 为_VV formula_NN __NN 8_CD 。_PU 如果_CS 这些_DT 场入射_NN formula_NN __NN 9_CD 平面_NN 上_LC 的_DEG 一_CD 个_M 光圈_NN ，_PU 光圈_NN 的_DEC 复数_NN 透射率_NN 为_VC formula_NN __NN 10_CD ，_PU 这样_AD 我们_PN 就_AD 可以_VV 通过_P 惠更斯_NN －_PU 菲涅耳_NR 原理_NN 及_CC 平行_JJ 光束_NN 近似_VA ，_PU 来_MSP 计算_VV 出_VV 远场_JJ 衍射_NN 与_CC 远场球_NN 坐标_NN 角度_NN formula_NN
+其中_NN formula_NN
+注意_NN 光圈_NN 函_NN 数取_NN 的_DEC 量_NN 为_VC 复数场_NN ，_PU 而_CC 不_AD 是_VC 波动_VV 的_DEC 强度_NN （_PU 振辐_NN 的_DEG 平方_NN ）_PU 。_PU 复_CC 数值_NN 是_VC 用于_VV 表示_VV 相位差_NN 的_DEC 。_PU
+
+在_P 许多_CD 个案_NN 中_LC ，_PU formula_NN __NN 15_CD 、_PU formula_NN __NN 16_CD 及_CC formula_NN
+其中_NN 我们_PN 同时_AD 也_AD 忽略_AD 掉_VV 与_P formula_NN __NN 19_CD 的_DEG 关系_NN 。_PU 这_PN 是_VC 从_P 空间_NN 坐标_VV formula_NN __NN 20_CD 到_VV formula_NN
+
+在_P 上述_JJ 两_CD 种_M 近似_NN 下_LC ，_PU 方程_NN 都_AD 不_AD 会_VV 提供_VV 绝对_JJ 振幅_NN ，_PU 因为_P （_PU 电_NN ）_PU 场_VV 在_P 空间_NN 积分_VV 后_LC 并_AD 不_AD 会_VV 像_P 能量_NN 或_CC 功率_NN 这些物_NN 理量_NN 那样_AD 守恒_VV 。_PU 要_VV 求得_VV 振辐_NN 必须_VV 把_BA 积分_NN 归_VV 一_CD 化_M ，_PU 使得_VV
+
+夫琅禾_NN 费_NN 衍射_NN 最_AD 简单_VA 的_DEC 例子_NN 是_VC 狭缝_NN 衍射_NN ，_PU 即_AD formula_NN __NN 23时_NT formula_NN __NN 24_CD ，_PU 而_CC 其他_DT 时候_NN 则_AD formula_NN
+非_AD 归_VV 一_CD 化_M sinc_NN 函数_NN 的_DEG 最_AD 大_JJ 值_VV 位于_VV formula_NN __NN 27_CD ，_PU 而_CC 零_CD 值_NN 则_AD 位于_VV formula_NN __NN 28_CD ，_PU 其中_NN formula_NN
+一_CD 高_VA 斯_DT 剖面_NN （_PU 例如_AD 投影片_NN 上_LC 模糊_NN 的_DEC 透光_JJ 大_JJ 圆点_NN ）_PU 为_VC formula_NN
+例如_AD ，_PU 假设_VV 有_VE 一_CD 雷射光_NN ，_PU 其_PN 强度_NN 剖面_NN 的_DEC 半峰_NN 全_AD 宽_VA 为_VC formula_NN __NN 32_CD ，_PU 则_AD formula_NN __NN 33_CD 。_PU 波长_NN 为_VC formula_NN
+也就是说_AD 强度_NN 的_DEC 角半峰_NN 全_AD 宽_VA 为_VC formula_NN
+
+
+
+

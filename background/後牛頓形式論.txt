@@ -1,0 +1,27 @@
+﻿_NN 后_LC 牛顿_NN 形式_NN 论_NN
+
+在_P 不同_VA 的_DEC 引力_NN 度规_NN 理论_NN 中_LC ，_PU 决定_JJ 时_JJ 空度_NN 规_NN 的_DEG 场方_NN 程_NN 具有_VV 很_AD 大_VA 的_DEC 差异_NN 。_PU 但是_AD ，_PU 在_P 弱场_NN 和_CC 慢_NN 运动_NN 及_CC 低能_NN 的_DEC 情况_NN 下_LC ，_PU 几乎_AD 所有_DT 度规_NN 理论_VA 的_DEC 时空度_NN 规_NN 都_AD 具有_VV 相同_VA 的_DEC 结构_NN ，_PU 都_AD 可以_VV 写成_VV 闵_NN 可_VV 夫_NN 斯_DT 基度_NN 规加_VV 上_JJ 微挠_NN ，_PU 并_CC 按照_P 由_P 系统_NN 的_DEC 物质_NN 变量_NN 所_MSP 定义_VV 的_DEC 各_DT 种_M 引力势_NN 的_DEC 幂级_NN 数展开_NN 。_PU 各_DT 种_M 度规理_NN 论都_NN 具有_VV 相同_JJ 形式_NN 的_DEC 度规展_NN 开式_VV ，_PU 它们_PN 的_DEG 区别_NN 仅_AD 在于_VV 展开_NN 系数_NN 有_VE 不同_VA 的_DEC 值_NN 。_PU 这样_AD ，_PU 就_AD 可以_VV 用_P 一_CD 个_M 统一_JJ 的_DEG 后_JJ 牛顿_NN 理论_PU 来_MSP 描述_VV 各_DT 种_M 度规_NN 理论_VA 。_PU 这样_AD 一_CD 个_M 统一_VA 的_DEC 理论_NN 称为_VV
+参数化_NN 后_LC 牛顿_VV （_PU PPN_NN ）_PU 形式_NN 体系_NN ，_PU 度规展_JJ 开式_NN 中_LC 的_DEG 展开_NN 系数_NN 称为_VV PPN_NN 参数_NN 。_PU
+
+采用_VV 近_AD 整体_JJ 罗伦_NN 兹_JJ 坐标_NN 系_NN ，_PU 其中_NN 的_DEG 坐标_NN 为_VC formula_NN
+
+
+formula_NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

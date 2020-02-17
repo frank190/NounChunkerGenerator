@@ -1,0 +1,24 @@
+﻿接地_NN
+
+在_P 电机_NN 工程_NN 学_NN 里_LC ，_PU 接_VV 地_DEC 这_DT 术语_NN ，_PU 依_P 著_AS 不同_VA 的_DEC 应用_NN 领域_NN ，_PU 有_VE 几_CD 种_M 意思_NN 。_PU 接地是_NN 电路_NN 内部_NN 的_DEG 一_CD 个_M 电位_NN 参考_NN 点_NN 。_PU 从_P 这_DT 参考_NN 点_NN ，_PU 可以_VV 测量_VV 其它_DT 电位_NN 。_PU 接地也_NN 可以_VV 被_SB 认为_VV 是_VC 电流_NN 的_DEC 一_CD 个_M 共同_AD 回归_VV 路径_NN （_PU 称为_VV 地_DEV 回_VV 电路_NN 或_CC 地_DEG 回路_NN ）_PU ，_PU 或是_CC 与_P 大地_VA 的_DEC 一_CD 个_M 直接_AD 有形_VV 的_DEC 连接_NN 。_PU
+
+因为_P 下述_JJ 几_CD 个_M 理由_VA ，_PU 电机_NN 工程_NN 师会_NN 将_BA 电路_NN 连接_VV 到_VV 接地_NN ：_PU
+
+在_P 电子_NN 电路_NN 理论_NN 里_LC ，_PU 接_VV 地_DEV 通常_AD 被_SB 理想_VV 化为_P 一_CD 个_M 无穷_JJ 电荷_NN 电源_NN 或_CC 电荷_NN 吸收槽_NN ，_PU 可以_VV 无_VE 限制_VV 的_DEC 吸收_NN 电流_NN ，_PU 同时_AD 保持_VV 电位_NN 不_AD 变_VV 。_PU
+
+接地_AD 是_VC 电学_NN 中_LC 的_DEG 概念_NN 。_PU 在_P 供电_NN 系统_NN 和_CC 电路_NN 设计_NN 中_LC 意义_VV 并_CC 不_AD 相同_VA 。_PU
+
+在_P 市电_NN 系统_NN ，_PU 地线_NN 是_VC 指_VV 一_CD 根_M 理论_NN 上_LC 与_P 大地_NN 等_ETC 电位_NN 的_DEG 导线_NN ，_PU 因_P 其_PN 对地_NN 电压_NN 小_VA ，_PU 不_AD 会_VV 对_P 人畜_NN 造成_VV 伤害_NN ，_PU 可_VV 用于_VV 保护_NN 。_PU 为了_P 使_VV 其_PN 与_P 大地_JJ 电位_NN 相近_AD ，_PU 一般_AD 民用_VV 将_BA 其_PN 与_P 水管_NN 相连_VV ，_PU 因_P 水管_NN 与_CC 大地_AD 相连_VV 而_CC 达到_VV 释放_VV 电能_NN 的_DEC 效果_NN ；_PU 而_CC 工业_NN 上_LC 一般_AD 将_BA 地线_NN 与_CC 避雷针_NN 的_DEC 接地体_NN 等_ETC 插入_VV 地下_JJ 的_DEG 设施_NN 相_AD 连以_VV 达到_VV 更_AD 好_VA 的_DEC 放电_NN 效果_NN 。_PU
+
+由于_P 电感性_JJ 电器_NN 一般_AD 在_P 金属_NN 机壳_NN 上_LC 会_VV 因_P 感应_NN 而_MSP 产生_VV 一些_CD 较_AD 小_VA 的_DEC 电压_NN ，_PU 也_CC 可能_VV 由于_P 漏电_NN 原因_NN 使机_NN 壳带_NN 电_NN ，_PU 为_VC 保证_VV 使用_NN 安全_VA ，_PU 应_VV 将_BA 地线_NN 与_P 电器_NN 外壳_NN 相_AD 连以_VV 通过_P 大地_AD 放电_VV 。_PU
+
+在_P 香港_NN ，_PU 接地线_NN 俗称_JJ 水线_NN ，_PU 因为_P 住宅_VV 通常_AD 是_VC 将_BA 配电箱_NN 的_DEG 地线_NN 连接_VV 到_VV 自来_PN 水管_CS （_PU 通常_AD 是_VC 金属_NN ）_PU 来_MSP 接地_VV 。_PU 。_PU 此外_AD ，_PU 如果_CS 装修_VV 时_LC 误_VV 把_BA 金属_NN 水管_NN 换成_VV 胶水管_NN ，_PU 接地便_NN 失去_VV 作用_NN 。_PU
+
+地_DEV 线_NN 一般_AD 用_P 黄绿_NN 相间_LC 或_CC 绿色_JJ 导线_NN 包裹_VV ，_PU 也_CC 可以_VV 没有_VV 包裹_VV 。_PU
+
+在_P 电路_NN 设计_VV 时_LC ，_PU 地_DEG 线则_NN 被_SB 广泛_AD 作为_P 电位_NN 的_DEG 参考点_NN ，_PU 为_VC 整_DT 个_M 电路_NN 提供_VV 一_CD 个_M 基准_JJ 电位_NN 。_PU 此时_NT ，_PU 地_DEG 线_NN 不_AD 是_VC 真正_AD 与_P 大地_AD 相连_VV ，_PU 而_CC 往往_AD 与_P 输入_VV 电源线_NN 的_DEC 一_CD 根_M 相连_VV （_PU 通常_AD 是_VC 零线_NN ）_PU ，_PU 其_PN 电位_NN 也_AD 与_P 大_VA 地_DEC 电位_NN 无关_AD 。_PU 整_DT 个_M 电路_NN 在_P 设计_VV 时_LC ，_PU 以_P 地线_NN 上_LC 电压_NN 为_VC 0V_CD ，_PU 以_P 统一_OD 整_DT 个_M 电路_NN 电位_NN 。_PU 例如_AD USB_NN 第5_OD 针_M 是_VC GND_NN ，_PU 代表_VV 一_CD 个_M 电压_NN 的_DEG 参考点_NN 。_PU
+
+在_P 强弱_JJ 电隔_NN 离_NN 或_CC 高_JJ 低频_NN 信号_NN 隔离_NN 等_ETC 场合_NN ，_PU 一_CD 个_M 电路_NN 中_LC 可能_VV 有_VE 多_CD 个_M 彼_DT 此_DT 电位_NN 不同_VA 的_DEC 地线_NN ，_PU 分别_AD 称为_VV 强_JJ 电地_NN 、_PU 弱_CS 电地_NN 、_PU 电源_NN 地_NN 、_PU 信号_NN 地_NN 、_PU 高_JJ 频地_NN 、_PU 低_JJ 频地_NN 等_ETC 。_PU
+
+
+

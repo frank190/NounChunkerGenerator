@@ -1,0 +1,12 @@
+﻿_CS 排水法_NN
+
+排水法_NN 为_VC 物理学_NN 中_LC 一_CD 种_M 计算_VV 测量_NN 物体_NN 体积_NN 的_DEC 方法_NN ，_PU 一般_AD 被_SB 用作_VV 测量_NN 不规_JJ 则形状_NN 的_DEC 物体_NN ，_PU 由于_P 该些_DT 不规_JJ 则形状_NN 的_DEC 物体_NN 无法_AD 或_CC 难以_AD 被_SB 分割_VV 成_VV 更_AD 细小_VA 的_DEC 矩形_JJ 立体_NN ，_PU 因_P 很_AD 难以_AD 简单_VA 的_DEC 数学_NN 公式_NN 计算_VV 。_PU 排水法_NN 準备_NN 的_DEG 工具_NN 有_VE ：_PU 杯_NN ，_PU 一_CD 只_M 量_NN 杯_LC ，_PU 水_NN 。_PU 把_BA 要量度_NN 体积_NN 的_DEC 物体_NN 放进_VV 一_CD 个_M 有_VE 盛_NN 满水_VV 的_DEC 杯_NN 预先_AD 在_P 杯口_NN 旁_LC 放量杯_NN ，_PU 当_P 物体_NN 放到_VV 杯时_NN ，_PU 水_AD 会_VV 满溢_VV 到_VV 量_NN 杯_NN ，_PU 量_NN 杯_NN 里_LC 的_DEG 水_NN 的_DEG 体积_NN 便_AD 是_VC 物体_NN 的_DEG 体积_NN 。_PU
+
+首先_AD 準备_VV 一_CD 个_M 能够_VV 完全_AD 容纳_VV 接受_VV 测量_NN 物体_NN 的_DEC 容器_NN ，_PU 将_BA 该_DT 容器_NN 以_P 液体_NN （_PU 例如_AD 水_NN ）_PU 完全_AD 注满_VV ，_PU 然后_AD 将_BA 受_VV 测量_NN 物体_NN 放进_VV 容器_NN ，_PU 由于_P 液体_NN 受_VV 测量_NN 物体_NN 的_DEG 挤压_NN ，_PU 因而_AD 会流_VV 出容器_NN ，_PU 之外_LC ，_PU 因此_AD 流出_VV 容器_NN 的_DEG 液体_NN 的_DEG 体积_NN 等_ETC 同_DT 受_NN 测量_NN 物体_NN 的_DEG 体积_NN ，_PU 只_AD 需_VV 量_NN 度全部_NN 流出_VV 液体_NN 的_DEG 体积_NN ，_PU 便_AD 可以_VV 得知_VV 受_VV 测量_NN 物体_NN 的_DEG 体积_NN 。_PU
+
+P_NN ._PU S_NN 利用_VV 排水法_NN 来_MSP 测量_VV 乒乓球_NN 的_DEG 体积_NN ，_PU 因为_P 乒乓球_NN 会_VV 浮_NN 於_P 水面_NN 上_LC ，_PU 所以_AD 将_BA 乒乓_NN 球绑_NN 上_LC 重_P 石_NN (_PU 要_VV 先_AD 将_BA 重石体_NN 积量_VV 出_VV )_PU ，_PU 使_VV 乒乓球_NN 全部_AD 没入_VV 水_NN 中_LC ，_PU 即_AD 可得_VV 全部_DT 的_DEG 总体积_NN ，_PU 包括_VV 乒乓球_NN 体积_NN 、_PU 重石_NN 体积_NN 及_CC 水_NN 的_DEG 体积_NN ，_PU 此_DT 即_AD 称为_VV 重锤法_NN 。_PU
+
+
+因_P 此容器_NN 的_DEG 维度_NN 需_VV 比_P 受测_NN 物件_NN 的_DEC 大_VA 。_PU
+
+

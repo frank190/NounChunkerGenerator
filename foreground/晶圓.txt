@@ -1,0 +1,26 @@
+﻿晶圆_NN
+
+晶圆_NN （_PU ）_PU 是_VC 指_VV 制作_VV 硅_NN 半导体_NN 集成_NN 电路_NN 所_MSP 用_VV 的_DEC 硅芯片_NN ，_PU 由于_P 其_PN 形状_NN 为_VC 圆形_NN ，_PU 故_AD 称为_VV 晶圆_NN 。_PU 晶圆_NN 是_VC 生产_VV 集成_JJ 电路_NN 所_MSP 用_VV 的_DEC 载体_NN ，_PU 一般_AD 晶圆_VV 产量_NN 多_AD 为_VC 单晶硅_NN 圆片_NN 。_PU
+
+晶圆_NN 是_VC 最_AD 常用_VA 的_DEC 半导体_NN 材料_NN ，_PU 按_P 其_PN 直径_NN 分为_VV 3_CD 英寸_NN 、_PU 4_CD 英寸_NN 、_PU 5_CD 英寸_NN 、_PU 6_CD 英寸_NN 、_PU 8_CD 英寸_NN 等_ETC 规格_NN ，_PU 近来_AD 发展_VV 出_VV 12_CD 英寸_NN 甚至_AD 研发_VV 更_AD 大_JJ 规格_NN （_PU 14_CD 英寸_NN 、_PU 15_CD 英寸_NN 、_PU 16_CD 英寸_NN 、_PU 20_CD 英寸_NN 以上_LC 等_ETC ）_PU 。_PU 晶圆_NN 越_AD 大_VA ，_PU 同_DT 一_CD 圆片_NN 上_LC 可_VV 生产_VV 的_DEC 集成_JJ 电路_NN （_PU integratedcircuit,_PU IC_NN ）_PU 就_AD 越_AD 多_VA ，_PU 可_VV 降低_VV 成本_NN ；_PU 但对_JJ 材料_NN 技术_NN 和_CC 生产_NN 技术_NN 的_DEG 要求_NN 更_AD 高_VA ，_PU 例如_AD 均匀_VA 度_M 等等_VA 的_DEC 问题_NN 。_PU 一般_AD 认为_VV 硅晶圆_NN 的_DEG 直径_NN 越_AD 大_VA ，_PU 代表_VV 着_AS 这_DT 座晶_NN 圆厂_NN 有_VE 更_AD 好_VA 的_DEC 技术_NN ，_PU 在_P 生产_NN 晶圆_VV 的_DEC 过程_NN 当中_LC ，_PU 良品率_NN 是_VC 很_AD 重要_VA 的_DEC 条件_NN 。_PU
+
+很_AD 简单_VA 的_DEV 说_VV ，_PU 首先_AD 由_P 普通_JJ 硅砂_NN 拉制_VV 提炼_NN ，_PU 经过_P 溶解_VV 、_PU 提纯_NN 、_PU 蒸馏_NN 一系_AD 列_VV 措施_NN 制成_VV 单晶硅_NN 棒_VA ，_PU 单晶硅_NN 棒_NOI 经过_P 切片_NN 、_PU 拋光_NN 之后_LC ，_PU 就_AD 得到_VV 了_AS 单晶硅_NN 圆片_NN ，_PU 也_AD 即_AD 晶圆_VV 。_PU
+
+从_P 晶圆_NN 要_VV 加工_VV 成_VV 为_VV 产品_NN 需要_VV 专业_AD 精细_VA 的_DEC 分工_NN 。_PU
+
+英特尔_NN （_PU Intel_NN ）_PU 等_ETC 公司_NN 则_AD 自行_AD 设计_VV 并_CC 制造_VV 自己_PN 的_DEG IC_NN 晶圆_VV 直至_AD 完成_VV 并_CC 行销_VV 其_PN 产品_NN 。_PU 三星_NN 电子_NN 等_ETC 则_AD 兼有_VV 晶圆_JJ 代工_NN 及_CC 自制_JJ 业务_NN 。_PU
+
+著_AS 名晶_NN 圆代_NN 工厂_NN 有_VE 台积电_NN 、_PU 安森美_NN 、_PU 联华_NN 电子_NN 、_PU 格罗_NN 方德_NN （_PU G_CD l_M obalFoundries_NN ）_PU 及_CC 中芯_NN 国际_NN 等_ETC 。_PU
+例如_AD ：_PU 环球晶_NN （_PU 台湾_NN 股票_NN 代号_NN ：_PU 6488_CD ）_PU 、_PU 合晶_NN （_PU 台湾_NN 股票_NN 代号_NN ：_PU 6182_CD ）_PU 、_PU 中美晶_NN （_PU 台湾_NN 股票_NN 代号_NN ：_PU 5483_CD ）_PU 、_PU 日本_NR 的_DEC 信越_NR 化学_NN 、_PU Sumco_NN 等_ETC 。_PU
+
+日月_NN 光_NN 半导体_NN 、_PU 艾克_NN 尔_NN 国际_NN 科技_NN 等_ETC 则_AD 为_VC 世界_NN 前_LC 二_AD 大_JJ 晶圆_NN 产业_VV 后_JJ 段_M 的_DEG 封装_NN 、_PU 测试_VV 厂商_NN 。_PU
+
+主要_AD 制造_VV 多_CD 晶硅_NN 的_DEC 大厂_NN 有_VE ：_PU
+Hemlock_VV （_PU 美_NN ）_PU 、_PU MEMC_NN （_PU 美_NN ）_PU 、_PU Wacker_NN （_PU 德_NN ）_PU 、_PU REC_NN （_PU 挪_NN ）_PU 、_PU 东洋_NR 化工_NN /_PU OCI_NN （_PU 韩_NN ）_PU 、_PU 德山_NN /_PU Tokuyama_NN （_PU 日_NN ）_PU 和_CC 协鑫_NN 集团_NN /_PU GCL_NN （_PU 大陆_CD ）_PU 。_PU
+
+仅_AD 从_P 事IC_NN 设计_VV 的_DEC 公司_NN 有_VE 美国_NR 的_DEC 高通_NR 、_PU 台湾_NN 的_DEG 联发科_NN 技等_NN 。_PU
+
+南亚科技_NN 、_PU 瑞晶_NN 科技_NN （_PU 现_AD 已_AD 并入_VV 美光_JJ 科技_NN ，_PU 更_AD 名台_NN 湾美_NN 光记_NN 忆体_NN ）_PU 、_PU Hynix_NN 、_PU 美光_NR 科技_NN （_PU Micron_NN ）_PU 等_ETC 则_AD 专_AD 於_P 记忆体_NN 产品_NN 。_PU
+
+
+

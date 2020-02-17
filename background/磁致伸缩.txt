@@ -1,0 +1,5 @@
+﻿磁致_NN 伸缩_VV
+
+磁致_AD 伸缩_VV 效应_NN （_PU ）_PU 指_VV 的_DEC 是_VC 对_P 软磁体_NN 进行_VV 磁化_NN 后_LC ，_PU 其_PN 形状_NN 、_PU 大小_AD 会_VV 发生_VV 变化_NN 的_DEC 物理_NN 现象_NN ,_PU 该_DT 现象_NN 在_P 19_CD 世纪_NN 中_LC 叶被_NR 人们_NR 发现_VV 。_PU 磁致_NN 伸缩_VV 现象_NN 具有_VV 各_DT 向_P 异性_NN 。_PU 当_P 长度_NN 为_VC l_NN 的_DEC 磁性_JJ 材料_NN 在_P 磁化_NN 方向_NN 上_LC 的_DEG 长度_NN 变化_VV 为_VC Δ_NN l_NN 时_LC ，_PU 磁致_NN 伸缩率_NN 可_VV 表示_VV 为_VC ：_PU λ=Δ_NN l_NN /_PU l_NN 。_PU 由于_P 磁致_NN 伸缩率_NN 一般_AD 在_P 10_CD 以下_LC ，_PU 所以_AD 对_P 磁致_NN 伸缩_VV 效应_NN 的_DEC 应用_NN 远_AD 不_AD 如_P 对_P 压电_NN 效应_NN 的_DEC 应用_NN 广泛_VA 。_PU 到_VV 20_CD 世纪_NN 60_CD 、_PU 70_CD 年代_NN 后_LC ，_PU 发现_VV 了_AS 伸缩率_NN 在_P 10_CD 的_DEC 超磁致_NN 伸缩_VV 材料_NN 。_PU 磁致_NN 伸缩_VV 效应_NN 才_AD 重新_AD 受到_VV 重视_NN 。_PU
+
+

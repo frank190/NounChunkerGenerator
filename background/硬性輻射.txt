@@ -1,0 +1,8 @@
+﻿硬性_JJ 辐射_NN
+
+硬性_JJ 辐射_NN 一_CD 语_NN 是_VC 用_P 来形_JJ 容高_JJ 能量_NN 电磁波_NN ，_PU 典型_VA 的_DEC 高能_NN X_NN 射线_NN 或_CC 则伽马_JJ 射线_NN 。_PU 硬性_JJ 辐射_NN 主要_AD 是_VC 涉及_VV 射线_NN 能量_NN 能_VV 穿透_VV 已_AD 知_VV 物质_NN 的_DEG 厚度_NN ，_PU 像_CS 是_VC 典型_JJ 铅_NN 的_DEG 防护罩_NN 。_PU
+
+硬性_JJ 辐射_NN 能够_VV 通过_P 单位_NN 面积_NN 的_DEG 质量_NN 为_VC 167_CD g_M ·_PU cm_NN 的_DEC 铅_NN （_PU 由_P 能量_NN "_PU p_NN "_PU 大于_VV 1_CD GeV_M ，_PU "_PU m_NN "_PU 为_VC E_CD >_PU 300_CD MeV_NN 、_PU 及_CC "_PU e"_NN 和_CC "_PU g_NN "_PU 为_VC E_NN >_PU 10_CD GeV_M 等_ETC 所_MSP 构成_VV ）_PU
+
+
+

@@ -1,0 +1,8 @@
+﻿环_NN 猜想_VV
+
+环猜想_NN （_PU ）_PU 是_VC 基普_NN ·_PU 索恩于_VV 1972_CD 年_M 提出_VV 的_DEC 一_CD 个_M 关于_VV 黑洞_NN 的_DEC 猜想_NN 。_PU 环猜_JJ 想是指_NN ，_PU 一_CD 个_M 经历_AD 压缩_VV 的_DEC 物体_NN 只有_AD 当_P 其_PN 能_VV 被_P 一_CD 个_M 具有_VV 临界_NN 周长_NN 的_DEC 旋转_NN 假想_NN 圆环_NN 包围_VV 起来_VV 时_LC ，_PU 该_DT 物体_NN 才_AD 能_VV 坍缩_VV 成为_VV 黑洞_NN 。_PU 临界_NN 周长_NN 的_DEC 表达式_NN 为_VC ：_PU
+其中_NN
+索恩_NN 计算_VV 了_AS 不同_JJ 形状_NN 物体_NN （_PU 如球状_JJ 物体_NN 、_PU 一_CD 个_M 方向_NN 上_LC 无限_AD 长_VA 的_DEC 圆柱状_JJ 物体_NN ）_PU 的_DEG 引力_NN 效应_NN ，_PU 发现_VV 物体_NN 需要_VV 同时_AD 在_P 三_CD 个_M 空间_NN 方向_NN 上_LC 都_AD 被_SB 压缩_VV 在_P 一定_JJ 范围_NN 内_LC 才_AD 能_VV 形成_VV 黑洞_NN 。_PU 如果_CS 物体_NN 只_AD 在_P 一_CD 个_M 或_CC 两_CD 个_M 方向_NN 上_LC 被_SB 压缩_VV ，_PU 那_DT 压力_NN 将_AD 很_AD 容易_AD 超过_VV 引力_VV ，_PU 使_VV 黑洞_NN 无法_AD 形成_VV 。_PU
+
+
+

@@ -1,0 +1,6 @@
+﻿特低频_VV
+
+特_AD 低_VA 频_SP （_PU ULF_NN ,_PU UltraLowFrequency_NN ）_PU 是_VC 指频带_NN 由_P 300_CD Hz_M 到_VV 3000_CD Hz_M 的_DEC 无线_JJ 电波_NN 。_PU 通常_AD 於_P 矿场_NN 内_LC 使用_VV ，_PU 也_CC 可以_VV 作_VV 勘探_NN 地质_NN 和_CC 地震_NN 用_VV 。_PU
+
+
+

@@ -1,0 +1,21 @@
+﻿光度_NN 距离_NN
+
+光度_NN 距离_NN "_PU D_NN "_PU 是_VC 定义_VV 天体_NN 的_DEC 绝对_JJ 星等M_NN 和_CC 视星_NN 等_ETC m_NN 这_DT 两_CD 个_M 名词_NN 之间_LC 的_DEG 关系_NN 。_PU
+
+也_AD 可以_VV 表示_VV 为_VC ：_PU
+
+此_DT 处_NN "_PU D_NN "_PU 以_P 秒差距_NN 来_MSP 测量_VV 。_PU 对_P 邻近_VV 的_DEC 天体_NN （_PU 在_P 银河_NN 系_NN 内_LC 的_DEG 天体_NN ）_PU 光度_NN 距离_VV 在_P 欧氏_NN 空间_NN 提供_VV 了_AS 良好_VA 的_DEC 天然_JJ 距离_NN 概念_NN 。_PU
+
+对_P 遥远_VA 的_DEC 物体_NN ，_PU 例如_AD 超出_VV 银_JJ 河_NN 之外_LC 的_DEG 类星体_NN ，_PU 这_DT 种_M 关系_NN 就_AD 不_AD 是_VC 很_AD 明确_VA 了_AS ，_PU 因为_P 视星_NN 等_ETC 受到_VV 时空_NN 曲率_NN 、_PU 红移_NN 、_PU 和_CC 时间_NN 膨胀_NN 等_ETC 的_DEG 严重_JJ 影响_NN 。_PU 计算_NN 光度_NN 距离_NN 和_CC 之间_LC 的_DEG 关系_NN ，_PU 例如_AD 一_CD 个_M 天体_NN 的_DEC 红移_NN ，_PU 都_AD 校_VV 将_BA 所有_DT 的_DEG 这些_DT 因素_NN 考虑_VV 进去_VV 。_PU
+
+表达_NN 光度_NN 距离_VV 的_DEC 另_DT 一_CD 种_M 方法_NN 是_VC 通过_P 通量_NN -_PU 光度_NN 关系_VV 。_PU 因为_VV ，_PU
+
+此_DT 处_NN F_CD 是_VC 通量_NN formulaformulaformulaformula_NN
+
+光度_NN 距离_NN 与_CC "_PU 同_AD 移_VV 横向_NN 距离_NN "_PU formula_NN
+
+此_DT 处_NN "_PU z"_NN 是_VC 红移_NN ，_PU formula_NN 是_VC 当_P 两_CD 个_M 天体_NN 有_VE 相同_VA 的_DEC 红移_NN ，_PU 但_CC 在_P 天空_NN 中_LC 的_DEC 位置_NN 不同_VA 时_LC ，_PU 可以_VV 让_VV 你_PN 计算_VV 同_DT 移_NN 距离_NN 的_DEG 一_CD 个_M 因子_NN ；_PU 如_CD 个_M 这_DT 两_CD 个_M 天体_NN 分开_VV 的_DEC 角度_NN 是_VC formula_NN __NN 12_CD ，_PU 这_DT 两_CD 个_M 天体_NN 的_DEC 同移_NN 距离_NN 将_AD 是_VC formula_NN __NN 13_CD 。_PU 在_P 平坦_JJ 宇宙_NN 的_DEC 空间_NN ，_PU 同_AD 移_VV 横向_NN 距离_NN formula_NN __NN 9_CD 与_P 径向_NN 同_AD 移_VV 距离_NN formula_NN
+
+
+
+

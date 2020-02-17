@@ -1,0 +1,57 @@
+﻿倒频谱_VV
+
+倒频谱_NN （_PU cepstrum_NN ）_PU ，_PU 顾名_NN 思义_VV ，_PU 就_AD 是_VC 将_BA 频谱_NN （_PU spectrum_NN ）_PU 的_DEG 英文_NN 前_LC 四_CD 个_M 字母_NN 反过_VV 来_MSP 写_VV 。_PU 倒_AD 频谱_NN 是_VC 为了_P 某些_DT 时候_NN ，_PU 为了_P 计算_VV 方便_VA ，_PU 将_BA 原来_JJ 信号_NN 的_DEC 频谱_NN 先_AD 转成_VV 类似_JJ 分贝_NN 的_DEC 单位_NN ，_PU 再_AD 作_VV 逆傅_NN 里_LC 叶_AD 变换_VV ，_PU 把_BA 它_PN 视为_VV 一_CD 种_M 新_VA 的_DEC 讯号_NN 做_VV 处理_VV 。_PU 倒_AD 频谱_VV 有_VE 复数_CD 倒_BA 频谱_NN ，_PU 及_CC 实数_NN 倒频谱_NN 。_PU
+
+倒_AD 频谱_VV 被_SB 定义_VV 在_P 1963_CD 的_DEG 论文_NN （_PU Bogert_NN 等_ETC ）_PU 。_PU 定义_NN 如下_VV ：_PU
+
+
+复数_CD 倒频_NN 谱拥_VV 有_VE 频谱_JJ 大小_NN 跟_P 相位_JJ 的_DEG 资讯_NN ，_PU 实数_NN 倒频_NN 谱_VV 只有_AD 频谱_VV 大_VA 小_VA 的_DEC 资讯_NN ，_PU 各_AD 有_VE 各_PN 的_DEG 不同_JJ 应用_NN 。_PU
+
+formula_NN
+其中_NN formula_NN
+可能_VV 遭遇_VV 的_DEC 问题_NN <_PU br_NN >_PU
+1_CD ._PU formula_NN
+2_CD ._PU formula_NN
+当_P 输入_VV 是_VC 实数_NN 时_LC ,_PU 因为_P formula_NN __NN 5_CD 偶_PN 对称_VV ，_PU formula_NN
+formula_NN
+可能_VV 遭遇_VV 的_DEC 问题_NN <_PU br_NN >_PU
+1_CD ._PU formula_NN
+
+
+频谱图_NN 上_LC 的_DEG 独立_JJ 变量_NN 是_VC 频率_NN ，_PU 而_CC 倒_AD 频谱_VV 图_NN 上_LC 的_DEG 独立_JJ 变量_NN 为_VC 倒频率_NN (_PU quefrency_NN )_PU ，_PU 倒频率_NN 是_VC 一_CD 种_M 时间_NN 的_DEG 度量_NN 单位_NN 。_PU 举_CD 个_M 例子_NN ，_PU 声音_NN 讯号_NN 取_VV 样速率_NN 等于_VV 44100_CD 赫兹_NN ，_PU 在_P 倒频_NN 谱_NN 上_LC 有_VE 个_M 很_AD 大_VA 的_DEC 值_VV 在_P 倒频率_NN 等于_VV 100_CD ，_PU 代表_CD 实际上_AD 在_P 44100_CD /_PU 100_CD =_CC 441_CD 赫兹_NN 有_VE 很_AD 大_VA 的_DEC 值_NN ，_PU 这_PN 值_VV 出现_VV 在_P 倒_AD 频谱_VV 上_LC 因为_AD 频谱_VV 上_JJ 周期性_NN 出现_VV ，_PU 而_CC 频_VV 谱_VV 上_LC 出现_VV 的_DEC 周期_NN 与_CC 倒频_NN 谱_VV 很_AD 大_VA 的_DEC 值_NN 出现_VV 的_DEC 位置_NN 有_VE 关_NN 。_PU
+
+滤波器_NN (_PU filter_NN )_PU 常_AD 使用_VV 在_P 频谱_NN 上_LC ，_PU 用来_VV 保存_VV 或_CC 删除_VV 我们_PN 所_MSP 要_VV 或_CC 不要_VA 的_DEC 资讯_NN ，_PU 经过_P 上面_NN 的_DEG 许多_CD 讨论_NN ，_PU 不_AD 难_AD 猜到_VV ，_PU 倒_AD 滤波_NN 器_NN (_PU lifter_NN )_PU 就_AD 是_VC 在_P 倒频谱_NN 上_LC 所_MSP 使用_VV 的_DEC 滤波器_NN 。_PU 低通_VA 的_DEC 倒_JJ 滤波器_NN 跟_P 低_JJ 通滤波器_NN 有点_AD 类似_VV ，_PU 它_PN 可以_VV 借由_VV 在_P 倒_AD 频谱_VV 上_LC 乘以_VV 一_CD 个_M window_NN 系数_NN ，_PU 使_VV 倒频谱_NN 上_LC 的_DEC 高倒_JJ 频率_NN 被_SB 压抑_VV ，_PU 如此_AD 依来_VV ，_PU 当_P 信号_NN 转回_VV 时域_NN 空间_NN 时_LC 会_VV 变成_VV 一_CD 个_M 较_AD 平滑_VA 的_DEC 信号_NN 。_PU
+
+formula_NN
+问题_NN :_PU formula_NN 可能_VV 会_VV 无_VE 限大_NN ,_PU 且_CC 对于_P arg_NN (_PU x_NN [_PU n_NN ]_PU )_NN 有_VE 无限_JJ 多_CD 个_M 解_NN <_PU br_NN >_PU
+
+先_AD 对_P 信号_NN 做_VV Z_NN 转换_NN ,_PU 并_CC 整理_AD 一下_AD 系数_NN ,_PU 让_VV 他_PN 变成_VV 下面_NN 的_DEG 形式_NN <_PU br_NN >_PU
+formula_NN
+其中_NN formula_NN
+<_PU br_NN >_PU
+分子_NN :_PU <_PU br_NN >_PU
+第一_OD 项_M A_NN 是_VC 系数_NN <_PU br_NN >_PU
+第二_OD 项_M formula_NN
+第三_OD 项_M 是_VC 位于_VV 单位圆_NN 内_LC 的_DEG 零点_NN <_PU br_NN >_PU
+第四_OD 项_M 是_VC 位于_VV 单位圆_NN 外_LC 的_DEG 零点_NN <_PU br_NN >_PU
+<_PU br_NN >_PU
+分母_NN :_PU <_PU br_NN >_PU
+第一_OD 项_M 是_VC 位于_VV 单位圆_NN 内_LC 的_DEG 极点_NN <_PU br_NN >_PU
+第二_OD 项_M 是_VC 位于_VV 单位圆_NN 外_LC 的_DEG 极点_NN <_PU br_NN >_PU
+<_PU br_NN >_PU
+对_P formula_NN __NN 14_CD 取_VV log_NN 变成_VV formula_NN
+formula_NN
+假设_VV r_CD =_PU 0_CD ,_PU 因为_P 这_PN 只_AD 是_VC 延迟_VV ,_PU 并_CC 不_AD 会_VV 破坏_VV 波形_NN <_PU br_NN >_PU
+根据_P Z_NN 转换_VV 所_MSP 得到_VV 的_DEC 系数_NN ,_PU 我们_PN 可以_VV 利用_VV 泰勒展_NN 开得_VV 到_VV Z_NN 的_DEC 反转换_NN <_PU br_NN >_PU
+formula_NN
+step_NN 3_CD ._PU reverseZtransform_NN :_PU formula_NN
+
+formula_NN
+<_PU br_NN >_PU
+step_NN 1_CD ._PU Ztransform_NN :_PU formula_NN
+step_NN 2_CD ._PU log_NN :_PU formula_NN
+step_NN 3_CD ._PU reverseZtransform_NN :_PU formula_NN
+
+formula_NN
+
+

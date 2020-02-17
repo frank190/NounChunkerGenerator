@@ -1,0 +1,22 @@
+﻿持_VV 久_JJ 长度_NN
+
+持久_JJ 长度_NN （_PU Persistencelength_NN ）_PU 又_AD 称持_VV 续长度_NN ，_PU 是_VC 一_CD 个_M 基本_JJ 的_DEG 力学_NN 性质_NN ，_PU 量化_VV 了_AS 长_JJ 聚合物_NN 的_DEG 刚度_NN 。_PU
+
+通俗_AD 地_DEV 讲_VV ，_PU 对於_P 长度_NN 短于_VV 持久_JJ 长度_NN 的_DEC 聚合物_NN ，_PU 分子_NN 表现_VV 得_VV 有点_JJ 像柔_NN 韧_NN 的_DEG 弹性_NN 棒_VA ，_PU 而_CC 对於_P 长度_NN 长_AD 於_P 持久_VV 长度_NN 的_DEC 聚合物_NN ，_PU 聚合物_NN 的_DEG 性质_NN 只_AD 能_VV 以_P 统计学_NN 方式_NN 描述_VV ，_PU 就像_AD 三维_NT 随机_AD 游动_VV 。_PU
+
+正规_AD 地_DEV 讲_VV ，_PU 持久_VV 长度_NN "_PU P_CD "_PU 定义_VV 为_VC 超过_VV 某_DT 一_CD 长度_NN 后_LC 切向_VV 的_DEC 相互_JJ 关系_NN 不_AD 成立_VV 时_LC 的_DEG 这_DT 一_CD 长度_NN 。_PU 用_P 倾向_VV 於_P 化学_NN 的_DEC 说法_NN 可以_VV 将_BA 持续_JJ 长度_NN 定义_VV 为_VC 无限_JJ 长链_NN 上_LC 键_P i_NN 上_LC 所有_DT 键_VV j_NN ≥_NN i_NN 的_DEG 投影_NN 的_DEG 平均_NN 和_CC 。_PU ._PU
+
+定义角_NN "_PU θ_NN "_PU 为_VC 聚合物_NN 在_P 位置_NN 0_CD 的_DEG 切向_NN -_PU {_NN }_PU -_PU 量_NN 和_CC 在_P 距离_NN 位置_NN 0_CD 的_DEG 距离_NN 为_VC "_PU L_NN "_PU 处_NN 的_DEG 切向量_NN 的_DEC 夹角_NN 。_PU 可以_VV 证明_VV 角_NN 的_DEG 余_NN 弦_NN 的_DEG 期望_NN 值随_VV 距离_NN 成_VV 指数_NN 下_LC 降_VV 。_PU
+
+其中_NN "_PU P_NN "_PU 是_VC 持久_NN 长度_NN ，_PU 而_CC 三角_NN 括号_NN 表示_VV 所有_DT 起始_JJ 位置_NN 的_DEG 平均值_NN 。_PU
+
+一_CD 块_M 未_AD 烹调_VV 过_AS 的_DEC 意大_JJ 利粉_NN 的_DEC 持久_JJ 长度_NN 约_AD 为_VC 10_CD 米_M 。_PU 双_CD 螺旋_NN DNA_CD 的_DEG 持久_NN 长度_NN 约_AD 为_VC 50_CD 纳米_NN 。_PU
+
+在_P 高分子_NN 科学_NN 中_LC ，_PU 持久_JJ 长度_NN 是_VC 库恩_NN 长度_NN 的_DEG 一半_NN ，_PU 库恩_NN 长度_NN 是_VC 假设_VV 某_DT 一_CD 部分_NN 是_VC 自由_AD 连接_VV 的_DEC 链_NN 时_LC 这_DT 一_CD 部分_NN 的_DEG 长度_NN 。_PU 持久_NN 长度_NN 等于_VV 无_VE 限链_NN 长_VA 极限_VA 的_DEC 链轮廓_NN 末端_NN 的_DEG 的_DEC 切线_NN 上_LC 的_DEG 末端_NN 间_LC 矢量_VV 的_DEC 平均_JJ 投影_NN 。_PU
+
+formula_NN __NN 2_CD 表示_VV 链轮廓_NN 上_LC 的_DEG 线性_JJ 坐标_NN ，_PU formula_NN
+formula_NN 是_VC 在_P 距离_NN formula_NN
+(_NN "_PU L_NN "_PU 是_VC 自由_AD 连接_VV 链_NN 是_VC 总_JJ 长度_NN （_PU =_CS 伸_VV 直_AD 长度_VA ）_PU ）_PU 。_PU
+
+
+

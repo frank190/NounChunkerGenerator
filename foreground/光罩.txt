@@ -1,0 +1,8 @@
+﻿光罩_NN
+
+光罩_NN （_PU ）_PU ：_PU 在_P 制作_VV 集成_JJ 电路_NN 的_DEC 过程_NN 中_LC ，_PU 利用_VV 光蚀刻_NN 技术_NN ，_PU 在_P 半导体_NN 上_LC 形成_VV 图型_NN ，_PU 为_VC 将_BA 图型_NN 复制_VV 於_P 晶圆_NN 上_LC ，_PU 必须_VV 透过_VV 光罩_NN 作用_NN 的_DEC 原理_NN 。_PU 比如_AD 冲洗_VV 照片_NN 时_LC ，_PU 利用_VV 底片_NN 将_BA 影像_VV 复制_VV 至_P 相片_NN 上_LC 。_PU
+
+
+相位移_NN 光罩_NN 、_PU 二元_NN 光罩_NN
+
+

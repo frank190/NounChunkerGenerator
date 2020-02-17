@@ -1,0 +1,18 @@
+﻿斯_NR 特藩_NN -_PU 玻尔_NN 兹曼_NN 常数_NN
+
+斯_DT 特凡_NN -_PU 波兹曼_NN 常数_NN （_PU 又_AD 称_VV 斯_DT 特凡_JJ 常数_NN ）_PU ，_PU 一_CD 个_M 用_P 希腊字_NN 母σ_NN 标记_NN 的_DEC 物理_NN 常数_NN ，_PU 用于_VV 斯_DT 特_AD 凡_VA -_PU 波兹_NN 曼定律_NN ：_PU formula_NN
+
+此_PN 定律_VV 说明_VV 一_CD 个_M 黑体_NN 表面_NN 单位_NN 面积_NN 在_P 单位_NN 时间_NN 内辐_NN 射出_VV 的_DEC 总_JJ 能量_NN （_PU 称为_VV 物体_NN 的_DEC 辐射度_NN 或_CC 能量_NN 通量_NN 密度_NN ）_PU formula_NN __NN 2_CD 与_P 黑体_NN 本身_PN 的_DEG 热力学_NN 温度_NN formula_NN __NN 3_CD 的_DEG 四_CD 次_M 方成正_NN 比_NN ，_PU 其中_NN 的_DEG 比例_NN 系数_NN formula_NN
+
+formula_NN 367_CD (_PU 13_CD )W_M /_PU mK_NN 。_PU 本值_AD 既_AD 能_VV 被_SB 推导_VV ，_PU 亦_AD 能_VV 被_SB 实验_VV 测定_NN ；_PU 见_VV 斯_PN 特_AD 藩_VA -_PU 玻尔_NN 兹曼_NN 定律_NN
+
+σ_NN 的_DEG 定义_NN 能_VV 以_P 波兹曼_NN 常数_NN formula_NN
+
+其中_NN formula_NN __NN 8_CD 为_VC 普朗克_NN 常数_NN ，_PU formula_NN __NN 9_CD 为_VC 约化_JJ 普朗克_NN 常数_NN ，_PU 而_CC formula_NN
+
+斯_DT 特凡_NN -_PU 波兹曼_NN 常数_NN 的_DEG CODATA_NN 建议_NN 值_NN 是_VC 由_P 气体_NN 常数_NN 计算_VV 出来_VV 的_DEC :_PU formula_NN
+
+一_CD 个_M 跟_P 本_DT 常数_NN 有_VE 关系_JJ 的_DEG 常数_NN 放射_VV 常数_NN (_PU )_NN ，_PU
+
+
+

@@ -1,0 +1,5 @@
+﻿倍_NN 压_VV 加速器_NN
+
+倍压_JJ 加速器_NN 是_VC 直流_JJ 高压_JJ 加速器_NN 的_DEG 一_CD 种_M ，_PU 运用_VV 倍压_NN 整_AD 流_VV 电路_NN 产生_VV 的_DEC 直流_NN 高_JJ 电压_NN 加速_VV 带电_JJ 粒子_NN ，_PU 至於_AD 其他_DT 的_DEG 构造_NN 就_AD 和_CC 一般_JJ 的_DEG 粒子_NN 加速器_NN 一样_VA 。_PU 他_PN 只要_CS 是_VC 先_VV 在_P 加速_JJ 气一_NN 端_NN 的_DEC 高压_JJ 电极_NN 内_LC ，_PU 产生_VV 所_MSP 需要_VV 的_DEC 带_VV 电粒_NN 子束_NN ，_PU 当_P 直流_JJ 高_JJ 压电_NN 加到_VV 高压_JJ 电极_NN 和_CC 加速管_NN 中_LC 的_DEG 各_DT 个_M 加速_JJ 电极_NN 上_LC 时_LC ，_PU 各_DT 电极_NN 之间_LC 就_AD 产生_VV 了_AS 电场_NN ，_PU 并且_CC 把_BA 粒子_NN 加速_NN 。_PU
+
+

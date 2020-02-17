@@ -1,0 +1,11 @@
+﻿裸晶_NN
+
+裸晶_NN （_PU ，_PU 复数_CD 形_NN 可以_VV 是_VC dice_NN 、_PU dies_NN 或_CC die_NN ）_PU ，_PU 也_AD 称_VV 裸芯片_NN 、_PU 裸芯片_NN 或_CC 裸片_NN ，_PU 是_VC 以_P 半导体_NN 材料_NN 制作_VV 而_MSP 成_VV 未经_AD 封装_VV 的_DEC 一_CD 小块_NN 积体_NN 电路_NN 本体_NN ，_PU 该_DT 积体_NN 电路_NN 的_DEG 既定_JJ 功能_NN 就_AD 是_VC 在_P 这_DT 一_CD 小片_NN 半导体_NN 上_LC 实现_VV 。_PU
+
+通常_JJ 情况_NN 下_LC ，_PU 积体_NN 电路_NN 是_VC 以_P 大批_NN 方式_NN ，_PU 经_P 光刻_NN 等_ETC 多项_JJ 步骤_NN ，_PU 制作_VV 在_P 大片_NN 的_DEC 半导体_NN 晶圆_NN 上_LC ，_PU 然后_AD 再_AD 分割_VV 成_VV 若干_NN 方形_NN 小片_NN ，_PU 这_DT 一_CD 小片_NN 就_AD 称为_VV 芯片_NN ，_PU 每_DT 个_M 芯片_NN 就_AD 是_VC 一_CD 个_M 积体_NN 电路_NN 的_DEG 复制品_NN 。_PU 晶圆_VV 所_MSP 用_VV 的_DEC 半导体_NN 材料_NN 通常_AD 是_VC 电子级_NN 的_DEC 硅_NN （_PU EGS_NN ）_PU 或_CC 其他_DT 半导体_NN 如_P 砷化镓_NN 的_DEC 单晶_NN 。_PU 独立_VV 的_DEC 电晶体_NN 等_ETC 半导体_NN 器件_NN 内_LC 的_DEC 芯片_NN 其_PN 实也是_AD 使用_VV 同样_VA 的_DEC 制法_NN 。_PU
+
+一般_JJ 积体_NN 电路_NN 会_VV 封装_VV 在_P 陶瓷_NN 或_CC 塑胶_NN 等_ETC 包装_NN 内_LC ，_PU 并_CC 引出_VV 接脚_NN 。_PU 由于_P 电路_NN 的_DEC 小型化_JJ 需求_NN ，_PU 有时_AD 某些_DT 积体_NN 电路_NN 芯片_NN 会_VV 不_AD 作_VV 封装_NN ，_PU 直接_AD 交给_VV 下游_JJ 用户_NN 使用_VV ，_PU 此时_NT 会_VV 称_VV 该_DT 裸片_NN 是_VC 裸晶_NN 。_PU
+
+
+
+

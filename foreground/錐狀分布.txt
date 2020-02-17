@@ -1,0 +1,25 @@
+﻿锥状_NN 分布_NN
+
+在_P 数学_NN 上_LC ，_PU 锥状_NN 分布_NN （_PU Cone_NN -_PU shapeddistributionfunction_NN ）_PU 是_VC 科_JJ 恩克_NN 莱斯_AD 分布_VV 系列_NN 函数_NN 中_LC 的_DEG 一_CD 种_M 。_PU 锥状_NN 分布_VV 於_P 西元_NN 1991_CD 年_M 由_P YunxinZhao_NN 、_PU LesE_NN ._PU Atlas_NN 和_CC RobertJ_NN ._PU Marks_NN 提出_VV 。_PU 本_DT 分布_M 之_DEG 核心_NN 函数_NN formula_NN 於_P formula_NN 域_NN 之_DEG 分布_NN 形似_VV 锥状_NN ，_PU 故_AD 得名_VV 。_PU
+
+锥状_NN 分布_VV 的_DEC 定义_NN 如_P 下_NN
+
+其中_NN
+
+其_PN 核心_NN 函数_NN formula_NN 定义_NN 为_VC
+
+其中_NN formula_NN 为_VC 一_CD 可_VV 调整_VV 之_DEC 参数_NN 。_PU
+
+由_P formula_NN 可_VV 得_NN
+
+下图_CS 为_VC 锥状_NN 分布_VV 之_DEC 核心_NN 函数_NN 於_P formula_NN 域_NN 之_DEG 大小_NN 分布_VV
+
+下列_JJ 图形_NN 为_VC 锥状_NN 分布_VV 之_DEC 核心_NN 函数_NN 於_P formula_NN 域_NN 不同_JJ formula_NN 值_NN 时_LC 之_DEG 大小_NN 分布_VV
+
+观察_VV 上_JJ 图_NN 可知_VA ，_PU 我们_PN 可以_VV 透过_P 选取_VV 适当_VA 的_DEC formula_NN 值得_VV 到_VV 适合_VV 的_DEC formula_NN 以_MSP 滤除_VV 掉延_NN formula_NN 轴_NN 的_DEG 噪声_NN 或_CC 干扰_NN 。_PU
+
+当_P 输入_NN 信号_NN 由_P 二_CD 具有_VV 相同_JJ 或_CC 相近_JJ 中心_NN 频率_NN 的_DEG 成分_NN 组成_VV ，_PU 使用_VV 锥状_JJ 分布_NN 作为_VV 核心_NN 函数_NN 可以_VV 完全_AD 滤除_VV 交叉项_NN 。_PU 相反_VA 地_DEV ，_PU 本分_AD 布无_VV 法滤_NN 除_P 当_P 输入_NN 信号_NN 由_P 二_CD 具有_VV 相同_JJ 或_CC 相近_JJ 中心_NN 时间_NN 的_DEG 成分_NN 组成_VV 所_MSP 形成_VV 之_DEC 交叉项_NN 。_PU
+
+
+
+

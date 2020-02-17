@@ -1,0 +1,15 @@
+﻿洛伦茨_NN 规范_NN
+
+洛伦茨_NN 规范_NN （_PU ）_PU ，_PU 或_CC 称作_VV 洛伦茨_NN 规范_NN 条件_NN ，_PU 是_VC 丹麦_NN 物理_NN 学家_NN （_PU ）_PU 提出_VV 的_DEC 规范_NN 条件_NN 。_PU 其_PN 名称_NN 常_AD 被_SB 误写_VV 做_VV ，_PU 其中_NN 中文_NN 也_AD 译作_VV 洛仑兹_NN ，_PU 是_VC 指_VV 荷兰物_NN 理学_NN 家亨德_NN 里克_LC ·_PU 洛伦兹_NN （_PU ）_PU 。_PU 发生_VV 混淆_NN 的_DEG 原因_NN 除了_P 名字_NN 相近_VA 之外_LC ，_PU 还_AD 由于_P 这_DT 种_M 规范_NN 具有_VV 洛伦_NN 兹_AD 不_AD 变性_VV 。_PU
+
+在_P 电磁_NN 理论_NN 中_LC ，_PU 洛伦_NN 茨规_NN 范是_NN 处_NN 理含_VV 时_LC 的_DEG 电磁场_NN 中_LC 推迟_VV 势_NN 的_DEC 常用_JJ 手段_NN 。_PU
+
+这里_PN formula_NN 是_VC 四_CD 维势_NN ,_PU 逗号_NN 表示_VV 对角_NN 标做_NN 偏_CC 导数_NN 并_CC 使用_VV 了_AS 爱因_VV 斯_DT 坦求_NN 和_CC 约定_NN 。_PU 这_DT 个_M 规范_NN 的_DEC 好处_NN 是_VC 具有_VV 洛伦_NN 兹_AD 不_AD 变性_VV 。_PU
+
+在_P 一般_JJ 的_DEG 矢量_NN 写法_NN 并_CC 采用_VV 国际_NN 单位_NN 制下_VV ：_PU
+
+这里_PN A_NN 是_VC 磁矢势_NN ，_PU φ_NN 是_VC 电标势_NN 。_PU
+
+在_P 高斯_JJ 单位_NN 制下_VV ：_PU
+
+

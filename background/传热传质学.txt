@@ -1,0 +1,5 @@
+﻿_CS 传热_VV 传质学_NN
+
+传热_VV 传质_NN 学_VV 主要_JJ 介绍_NN 传热_NN 、_PU 传质_NN 过程_NN 所_MSP 遵循_VV 的_DEC 基本_JJ 原理_NN ；_PU 分析_NN 稳_JJ 态_NN 和_CC 非_AD 稳态_JJ 条件_NN 下_LC 热_AD 传导_VV 及_CC 质量_NN 扩散_VV 现象_NN ；_PU 研究_VV 热_AD 对_P 流_VV 过程_NN 中_LC 的_DEG 能量_CD 平衡_NN 及_CC 质量_NN 传递_VV 的_DEC 问题_NN ；_PU 讨论_AD 解决_VV 实际_JJ 工程_NN 问题_NN 的_DEC 数学_NN 方法_NN 。_PU
+
+

@@ -1,0 +1,5 @@
+﻿微波_NN 遥感_NN
+
+微波_NN 遥感_NN 是_VC 利用_VV 搭载_VV 在_P 平台_NN 上_LC 的_DEC 传感器_NN 发射_NN 和_CC 接收_VV 微波_NN 波束_NN 投射_VV 于_P 物体_NN 表面_NN ，_PU 由_P 其_PN 反射回_NN 的_DEG 回波_NN 信号_NN 及_CC 极_AD 化_VC 、_PU 幅度_NN 信息_NN 等_ETC 确定_VV 目标_NN 物_NN 的_DEG 大小_NN 、_PU 形态_NN 以及_CC 移动_VV 速度_NN 的_DEC 技术_NN 。_PU 根据_P 是否_AD 发射_VV 出_VV 微波_NN 信号_NN ，_PU 可以_VV 分为_VV 主动_JJ 微波_NN 遥感_NN 和_CC 被动_JJ 微波_NN 遥感_NN 。_PU
+
+

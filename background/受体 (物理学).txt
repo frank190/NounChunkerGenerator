@@ -1,0 +1,6 @@
+﻿受体_NN (_PU 物理学_NN )_PU
+
+在_P 固态物_NN 理学_NN 中_LC ，_PU 受体_NN 是_VC 把_BA 一些_CD 物质_NN 参杂_VV 在_P 半导体_NN 里_LC ，_PU 而_CC 让_VV 它_PN 变成_VV p_NN 型_NN 半导体_NN 。_PU
+比方说_AD ，_PU 当_P 再有_VV 四_CD 个_M 价电子_NN 的_DEC 硅原子_NN 里面_NN 参杂_VV 只_AD 有_VE 三_CD 个_M 价电子_NN 的_DEG 铝_NN 或_CC 硼会_NN 再_AD 硅_NN 晶格_NN 里_LC 形成_VV 一_CD 个_M 电洞_NN ，_PU 这些_DT 电洞_NN 会_VV 吸引_VV 其他_DT 地方_NN 的_DEC 电子_NN ，_PU 而_MSP 产生_VV 电流_NN ，_PU 这_PN 就_AD 形成_VV 了_AS p_NN 型_NN 半导体_NN 。_PU
+
+

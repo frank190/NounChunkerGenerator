@@ -1,0 +1,6 @@
+﻿_CD 放射性_NN 活度_NN
+
+放射性_NN 活度_NN 是_VC 指_VV 放射性_NN 元素_NN 或_CC 同_DT 位素_NN 每_DT 秒_M 衰变_VV 的_DEC 原子_NN 数_NN ，_PU 目前_NT 放射性_NN 活度_NN 的_DEC 国际_NN 单位_NN 为_VC 贝克勒_NN （_PU Bq_NN ）_PU ，_PU 所谓_JJ 1_CD 贝_M 克勒_NN （_PU Bq_NN ）_PU ，_PU 也就是_AD 每_DT 秒_M 有_VE 一_CD 个_M 原子_NN 衰变_NN 。_PU 一_CD 克_M 的_DEG 镭_NN 放射性_NN 活度_NN 有_VE 3_CD ._PU 7_CD ×_PU 10_CD Bq_M 。_PU
+
+
+

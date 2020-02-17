@@ -1,0 +1,7 @@
+﻿_AD 高_JJ 功率_NN 脉冲_NN 磁控溅_NN 射_NN
+
+高_JJ 功率_NN 脉冲_NN 磁控_NN 溅射_VV (_PU HighPowerImpulseMagnetronSputtering_NN ,_PU HiPIMS_NN ，_PU 又_AD 称_VV HighPowerPulsedMagnetronSputtering_NR ,_PU HPPMS_NR )_NN 是_VC 一_CD 种_M 基于_VV 磁控_NN 溅射_VV 沉积_VV 的_DEC 薄膜_NN 物理_NN 气相_NN 沉积_NN 方法_NN 。_PU HiPIMS_VV 在_P 数十_OD 微秒_M 的_DEC 低_JJ 占空比_NN (_PU <_PU 10%_CD )_PU 短_AD 脉冲_NN 内_LC 采用_VV kW_NN ·_PU cm_NN 量级_VA 的_DEC 高_JJ 功率_NN 密度_NN 。_PU HiPIMS_NN 不同_JJ 常规_JJ 磁控_NN 溅射_VV 的_DEC 特性_NN 是_VC 其_PN 高_VA 的_DEC 溅射_NN 粒子_NN 离化率_NN 和_CC 分子_NN 气体_NN 解离_NN 速率_NN ，_PU 从而_AD 得到_VV 致密_JJ 的_DEG 沉积_NN 薄膜_NN 。_PU 电离_NN 和_CC 解离率_NN 随_P 峰值靶_NN 功率_NN 的_DEG 增加_VV 而_MSP 增加_VV ，_PU 上限_NN 受_VV 放电_NN 过程_NN 由_P 辉光_NN 向_P 弧光_NN 转变_NN 限制_VV 。_PU 需_VV 选择_VV 合适_VA 的_DEC 峰值_NN 电流_NN 和_CC 占空_NN 比_AD 以_P 维持_VV 靶_NN 的_DEG 平均_JJ 功率_NN 与_CC 常规_JJ 磁控_NN 溅射_VV 相当_AD (_PU 1_CD -_PU 10_CD W_M ·_PU cm_NN )_NN 。_PU
+
+HiPIMS_VV 可_VV 用于_VV ：_PU
+
+

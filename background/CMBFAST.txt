@@ -1,0 +1,7 @@
+﻿_CD CMBFAST_NN
+
+在_P 物理宇_NN 宙学_NN 中_LC ，_PU CMBFAST_NN 指_VV 的_DEC 是_VC 由_P 乌罗_NN 什_NN ·_PU 塞利_NN 亚克_NN 和_CC 马蒂亚_NN 斯_ETC ·_PU 萨尔_NR 达_VV 里亚_NR 加_VV 所_MSP 编写_VV 、_PU 用以_VV 计算_VV 宇宙_NN 微波_NN 背景_NN 辐射_NN 的_DEC 各_DT 向_M 异性_NN 的_DEC 一_CD 种_M 电脑_NN 程式_NN 。_PU 它_PN 是_VC 第一_OD 个_M 能_VV 进行_VV 此_DT 类_M 运算_NN 的_DEC 有效_JJ 率_NN 的_DEG 程式_NN ，_PU 利用_VV 一_CD 种_M 新颖_VA 的_DEC 半_CD 解_VV 析视_NN 线法_NN ，_PU 使得_VV 计算_VV 各_DT 向_P 异性_NN 所_MSP 花费_VV 的_DEC 时间_NN 从_P 原本_JJ 的_DEG 数_CD 天_M 缩短_VV 到_VV 数分钟_NN 。_PU
+
+
+
+

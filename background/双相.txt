@@ -1,0 +1,5 @@
+﻿双相_NN
+
+一_CD 个_M 双相_JJ 的_DEG （_PU 英文_NN :_PU )_CD 或_CC 两_CD 相_NN 的_DEC 系统_NN 含有_VV 两_CD 种_M 相态_NN 。_PU
+
+

@@ -1,0 +1,15 @@
+﻿容积_NN 效率_NN
+
+容积_NN 效率_NN 或_CC 体积_NN 效率_NN 是_VC 一_CD 技术_NN 用语_NN ，_PU 是_VC 以_P 单位_NN 体积_NN 的_DEC 方式_NN 来_MSP 比较_VV 性能_NN 或_CC 其他_DT 可_VV 量测_VV 的_DEC 参数_NN 。_PU 此_AD 出现_VV 在_P 许多_CD 彼此_PN 没有_VE 关系_JJ 的_DEG 领域_NN 中_LC ，_PU 包括_VV 内燃机_NN 设计_NN 、_PU 以及_CC 电路_NN 中_LC 使用_VV 的_DEC 小型_JJ 电子_NN 元件_NN 。_PU
+
+在_P 内燃机_NN 设计_NN 中_LC ，_PU 容积_NN 效率_NN 指_VV 的_DEC 是_VC 在_P 进气_NN 状态_NN 下_LC ，_PU 进气_NN 行程_NN 中_LC 气缸_NN 真实_AD 吸入_VV 的_DEC 混合_JJ 气体_NN 积除_VV 以_P 汽缸_NN 容积_NN 。_PU 这_PN 代表_VV 了_AS 引擎_NN 的_DEG 吸气_NN 能力_NN 。_PU 容积_NN 效率_NN 对于_P 扭力_NN 有_VE 决定性_NN 的_DEG 影响_NN ，_PU 容积_NN 效率_NN 越_AD 大_VA ，_PU 引擎_VV 扭力_NN 越_AD 佳_VA 。_PU 影响_VV 容积_NN 效率_NN 的_DEG 变因_NN 有_VE 很_AD 多_VA ，_PU 如_P 引擎_NN 转速_NN ，_PU 汽缸头_NN 进气道_NN 的_DEG 流量_NN ，_PU 气_NN 门截_NN 面积_NN 的_DEG 大小_NN ，_PU 凸轮轴_NN 的_DEG 设计_NN ，_PU 进气_VV 岐管_NN 的_DEG 长度_NN ，_PU 燃料_NN 雾化_NN 的_DEG 程度_NN 等等_ETC 等_ETC 。_PU
+
+现今_NT 采用_VV 喷射_NN 供油_VV 的_DEC 四_CD 行程_NN 引擎_VV ，_PU 其_PN 容积_NN 效率_NN 皆_AD 已_AD 达到_VV 90%_CD 。_PU 若_CS 进气岐管_NN 的_DEG 长度_NN 经过_P 校_NN 调_VV ，_PU 便_AD 可以_VV 在_P 特定_JJ 的_DEG 转速域_NN 达到_VV 超过_VV 100%_CD 的_DEG 容积_NN 效率_NN 。_PU 在_P 进气口_NN 处_NN 加装_VV 涡轮_NN 增压器_NN （_PU turbocharger_NN ）_PU ，_PU 也_CC 可以_VV 增加_VV 容积_NN 效率_NN 。_PU
+
+某些_DT 汽车_NN 杂志常_AD 把_BA 容积_NN 效率_NN 定义_VV 为_VC 每_DT 公升_NN 的_DEC 排气量_NN 可以_VV 产生_VV 多_CD 少匹_NN 马力_NN ，_PU 这_PN 是_VC 错误_VA 的_DEC 。_PU 真正_VA 的_DEC 容积_NN 效率_NN 单位_NN 如同_P 其他_DT 的_DEG 效率_NN 单位_VV ，_PU 是_VC 百分比_NN ，_PU 而_AD 非_VC hp_NN /_PU L_NN 。_PU
+
+液压泵_NN 的_DEG 容积_NN 效率_NN 是_VC 指_VV 实际_AD 送出_VV 的_DEC 流体_NN ，_PU 和_P 理想_NN 没有_VE 泄漏_JJ 情形_NN 下_LC 可_VV 送出_VV 流体_NN 的_DEC 比例_NN 。_PU 例如_AD 一_CD 个_M 100_CD cc_M 的_DEG 泵_NN ，_PU 单位_NN 周期_NN 可_VV 送出_VV 92_CD cc_M ，_PU 则_AD 其_PN 容积_NN 效率_NN 为_VC 92%_CD 。_PU 容积_NN 效率_NN 会_VV 随_P 泵_NN 的_DEC 速度_NN 及_CC 压强_VV 而_MSP 变_VV ，_PU 因此_AD 在_P 比较_NT 容积_NN 效率_NN 时_LC ，_PU 需_VV 同时_AD 标示_VV 其_PN 速度_NN 及_CC 压强_NN 的_DEC 资讯_NN 。_PU 若_CS 只_AD 标示_VV 容积_NN 效率_NN ，_PU 未_AD 标示_NN 速度_NN 及_CC 压强_VV ，_PU 一般_AD 表示_VV 是_VC 在_P 额定_JJ 压力_NN 和_CC 速度_NN 下_LC 的_DEG 结果_NN 。_PU
+
+电子学_NN 中_LC 的_DEG 容积_NN 效率_NN 是_VC 量_NN 测_VV 单位体_NN 积下_VV 的_DEC 某_DT 电气_NN 特性_NN ，_PU 若_CS 电气_NN 特性_NN 相同_VA 时_LC 一般_AD 会_VV 要求_VV 体积_NN 越_AD 小_VA 越_AD 好_VA 。_PU 因为_P 先进_JJ 的_DEG 设计_NN 需要_VV 将_BA 更_AD 多_VA 的_DEC 功能_NN 塞进_VV 更_AD 小_VA 的_DEC 封装_NN 内_LC ，_PU 例如_AD 提高_VV 相同_JJ 体积_NN 手机_NN 电池_NN ，_PU 所_MSP 能_VV 储存_VV 的_DEC 能量_NN 。_PU 除了_P 电池_NN 外_LC ，_PU 容积_NN 效率_NN 的_DEC 概念_NN 也_AD 出现_VV 在_P 电容器_NN 的_DEG 设计_NN 及_CC 应用_NN 中_LC ．_PU 此时_NT 单位体_NN 积下_VV 的_DEC CV_NN 乘积_NN （_PU 将_BA 电容器_NN 电容量_NN （_PU C_NN ）_PU 和_CC 最大_JJ 电压_NN 额定_NN （_PU V_NN ）_PU 的_DEG 乘积_NN ）_PU 即_AD 为_P 特性_NN 值_NN 。_PU 容积_NN 效率_NN 也_AD 可以_VV 用_VV 在_P 任何_DT 可_VV 量测_VV 的_DEC 电气_NN 特性_NN 中_LC ，_PU 例如_AD 电阻_NN 、_PU 电容_NN 、_PU 电感_NN 、_PU 电压_NN 、_PU 电压_NN 及_CC 能量_NN 储存_NN 等_ETC 。_PU
+
+

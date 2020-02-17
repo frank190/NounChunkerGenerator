@@ -1,0 +1,6 @@
+﻿同_JJ 步辐_NN 射_NN 光源_NN
+
+同步_AD 辐射_VV 光源_NN 是_VC 指_VV 产生_VV 同步_JJ 辐射_NN 的_DEC 物理_NN 装置_NN 。_PU 第一_OD 代_M 同步_JJ 辐射_NN 光源_NN 是_VC 寄生_VV 于_P 高能_NN 物理_NN 实验_NN 专用_VV 的_DEC 高能_JJ 对撞机_NN 的_DEG 兼_CC 用_P 机_NN ，_PU 第二_OD 代_M 同步_AD 辐射_VV 光源_NN 是_VC 基于_P 同步_AD 辐射_VV 专用_JJ 储存环_NN 的_DEC 专用机_NN ，_PU 第三_OD 代_M 同步_AD 辐射_VV 光源_NN 为_VC 性能_NN 更_AD 高_VA 且_CC 储存环_NN 之_DEG 直线段_NN 可_VV 加装_VV 插件_NN 磁铁_NN 组件_NN 之_DEG 同_DT 步_M 辐射_NN 专_AD 用_VV 储存_NN 环_NN 的_DEC 专用_NN 机_NN ，_PU 现在_NT 正在_NT 研究_VV 的_DEC 自由_NN 电子_NN 激光器_NN 则_AD 为_VC 新_JJ 一_CD 代_M 的_DEG 高_JJ 强度_NN 光源_NN 设施_NN 。_PU
+
+
+

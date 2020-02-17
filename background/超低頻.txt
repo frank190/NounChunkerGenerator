@@ -1,0 +1,7 @@
+﻿超_NN 低频_NN
+
+超低频_NN （_PU 英语_NN ：_PU ）_PU 指_VV 的_DEC 是_VC 频率_NN 介于_VV 30_CD Hz_M （_PU 赫兹_M ）_PU 与_P 300_CD Hz_M 间_LC 的_DEG 电磁_NN 波_NN 。_PU 一般_AD 由_P 变电_NN 所_MSP 配送_VV 到_VV 居家_NN 的_DEC 交流_NN 电频率_NN 多_VV 在_P 此_DT 范围_NN 内_LC ，_PU 即_AD 50_CD Hz_M ～_PU 60_CD Hz_M 间_LC 。_PU
+
+在_P 无_VE 线电_NN 通讯_NN 的_DEC 收发_NN 上_LC ，_PU 美国_NR 的_DEC Saguine_NR 系统_NN 使用_VV 76_CD Hz_M ，_PU 俄罗_NN 斯_DT 的_DEG ZEVS_NN 系统_NN 使用_VV 82_CD Hz_M ，_PU 都_AD 属于_VV 超低频_NN ，_PU 不过_AD 也_AD 经常_AD 被_LB 人_NN 误以_VV 为_VC 是_VC 极_AD 低_VA 频_SP （_PU ELF_NN ，_PU ExtremelyLowFrequency_NN ）_PU 。_PU 这_DT 两_CD 种_M 低频_NN 无_VE 线电_NN 通讯_NN 都_AD 是_VC 用_VV 在_P 与_P 水_NN 中_LC 的_DEG 潜_NN 舰沟_NN 通之_AD 用_VV 。_PU 有_VE 传言_NN 表示_VV 德国_NN 柏林泰_NN 波霍夫_NN 机场_NN （_PU Tempelhof_NN ）_PU 也_AD 将_AD 有_VE 一_CD 个_M 名_NN 为_VC 「_PU 泰迪熊_NN 」_PU （_PU teddybear_NN ）_PU 的_DEG 超低频_NN 发送器_NN ，_PU 但_CC 此_DT 传言_NN 未_AD 获得_VV 证实_NN 。_PU
+
+

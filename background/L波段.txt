@@ -1,0 +1,9 @@
+﻿_NN L_NN 波段_NN
+
+根据_P IEEE521_NN -_PU 2002_CD 标准_NN ，_PU L_NN 波段_NN 是_VC 指_VV 频率_VV 在_P 1_CD -_PU 2_CD GHz_M 的_DEC 无线_JJ 电波_NN 波段_NN ；_PU 而_MSP 北约_VV 的_DEC L_NN 波段_NN 则_AD 指_VV 40_CD -_PU 60_CD GHz_M （_PU 波长_NN 7_CD ._PU 50_CD -_PU 5_CD ._PU 00_CD mm_M ）_PU ，_PU 均_AD 属于_VV 毫米波_M 。_PU L_NN 波段_NN 可_VV 被_SB 用于_VV DAB_M 、_PU 卫星_NN 导航_NN 系统_NN 等_ETC 。_PU
+
+数据_NN 来源_LC ：_PU
+
+在_P 红外天_NN 文学_NN 领域_NN 里_LC ，_PU L_NN 波段_NN 是_VC 红外_NN 窗口_NN 的_DEC 一_CD 种_M ，_PU 波长_NN 在_P 3.5_CD μm_M 左右_LC ，_PU 属于_VV 中_LC 红外_AD 窗口_NN 。_PU
+
+

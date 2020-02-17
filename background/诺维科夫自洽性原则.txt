@@ -1,0 +1,9 @@
+﻿诺维_NN 科夫_NN 自_P 洽性_JJ 原则_NN
+
+诺维柯_NN 夫_NN 自洽性_JJ 原则_NN （_PU Пр_NN ин_NN ци_NN пс_NN ам_NN ос_NN ог_NN ла_NN со_NN ва_NN нн_NN ос_NN ти_NN Но_NN ви_NN кова_NN ）_PU 是_VC 由_P 俄罗_NN 斯_DT 理论_NN 物理_NN 学家_NN 伊戈尔_NN ·_PU 德米_NN 特_AD 里_JJ 耶维奇_NN ·_PU 诺维科_NN 夫_VV 在_P 1980_CD 年代_NN 提出_VV 的_DEC 有关_JJ 时间_NN 悖论_VV 的_DEC 规则_NN 。_PU 此_DT 原则_NN 指出_VV ，_PU 人_NN 可以_VV 回到_VV 过去_NT ，_PU 但是_CC 不_AD 能_VV 因此_AD 改变_VV 历史_PN 的_DEG 进程_NN 。_PU
+
+诺维_NN 科夫_NN 自_P 洽性_JJ 原则基_NN 本含_AD 义为_VV ：_PU 我们_PN 的_DEG 世界_NN 是_VC 已经_AD 被_SB 改变_VV 过_AS 的_DEC 最终_JJ 结局_NN 。_PU
+
+
+
+

@@ -1,0 +1,9 @@
+﻿激_NN 微波_NN
+
+激_CD 微波_NN （_PU ）_PU ，_PU 音译_NN 为_VC 迈射_NN ，_PU 义译_NN 为_VC 激_VA -_PU {}-_NN 微波_NN 或_CC 微波_NN 激射器_NN ，_PU 是_VC 受_VV 激放_JJ 大_JJ 微波_NN 辐射_NN （_PU ）_PU 的_DEC 头_JJ 字母_NN 。_PU 它_PN 指_VV 通过_P 受激_VV 辐射_NN 放大_NN 和_CC 必要_VA 的_DEC 反馈_NN ，_PU 产生_VV 同_DT 一_CD 波宽_NN 、_PU 准直_NN 、_PU 相干_VV 的_DEC 微波_NN 的_DEC 过程_NN 及_CC 仪器_NN 。_PU
+
+利用_VV 激_JJ 微波_NN 原理_NN 的_DEC 「_PU 惰性_JJ 氢_NN 微波_NN 激射器_NN 原子钟_NN 」_PU ，_PU 可_VV 制作_VV 「_PU 比_P 铷_NN 原子_NN 钟_NN 精确_AD 十_CD 倍_M ，_PU 每_DT 三百万_CD 年_M 还_AD 差不_VV 到_VV 一_CD 秒_M 」_PU 的_DEG 原子钟_NN 。_PU
+
+
+
+

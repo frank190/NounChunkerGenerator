@@ -1,0 +1,10 @@
+﻿_OD VESABIOSExtensions_NR
+
+VESABIOSExtensions_NN （_PU 简称_VV VBE_NN ）_PU 是_VC VESA_NN 制定_VV 的_DEC 标准_NN 。_PU 由_P 其_PN 可以_VV 利用_VV 程序_NN 通过_P 显示卡_NN 设置_VV 显示器_NN 的_DEC 分辨率_NN 、_PU 色彩字_NN 节数_NN 。_PU 最_AD 新版_NN 为_VC 1998_CD 年_M 制定_VV 的_DEC VBE3_NN ._PU 0_CD 。_PU
+
+该_DT 标准_NN 由_P 传统_NN 调用_VV 中断_NN 10H_CD （_PU INT10H_CD ）_PU 的_DEG 方式_NN 扩展_VV 而_MSP 来_VV 。_PU 中断_NN 是_VC 从_P 前_JJ 计算机_NN 外部_NN 设备_NN 的_DEG 程序_NN 接口_NN ，_PU 分配_VV 给_VV 显示器_NN 中_LC 断接_VV 口为_P 10H_CD 。_PU 调用_VV 中断_NN 使用_VV 不同_VA 的_DEC 参数_NN 可以_VV 将_BA 显示器_NN 分辨率_NN 设置_VV 为_VC 320x200_NN ，_PU 640_CD x400_NN ，_PU 640_CD x480_NN ，_PU 800_CD x600_NN ，_PU 1024x768_CD ，_PU 1280x1024_CD 。_PU 将_BA 颜色_JJ 字节_NN 数_AD 设置_VV 成为_VV 4_CD bit_M ,_PU 8_CD bit_M ,_PU 16_CD bit_M ,_PU 24_CD bit_M ,_PU 32_CD bit_M 。_PU 以及_CC 帧_P 内存_NN 存取_NN 模式_NN 和_CC 地址_NN ，_PU RAMDAC_NN 的_DEG 设置_NN 。_PU
+
+旧版_CS 本_DT VBE_NN 不_AD 保证_VV 实模式_NN 的_DEG 执行_NN ，_PU 也_AD 无法_AD 设置_VV 显示器_NN 刷新_VV 频率_NN 。_PU 从_P VBE3_NN ._PU 0_CD 开始_VV 支持_NN 。_PU
+
+
+

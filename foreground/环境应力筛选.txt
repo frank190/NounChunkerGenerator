@@ -1,0 +1,7 @@
+﻿环境_NN 应力_NN 筛选_NN
+
+环境_NN 应力_NN 筛选_NN （_PU EnvironmentalStressScreening_NR ，_PU ESS_NN ）_PU 是_VC 指_VV 对_P 产品_NN 施加_NN 环境_NN 与_CC 工作_NN 应力_NN ，_PU 如_P 温度_NN 、_PU 振动_NN 等_ETC ，_PU 使得_VV 利用_VV 一般_JJ 功能_NN 检验_VV 所_MSP 无法_AD 测得_VV 之_DEC 潜在_JJ 疵病_NN 提前_AD 暴露_VV 出来_VV ，_PU 从而_AD 即_AD 早_AD 发现_VV 瑕疵_NN 而_CC 将_BA 之_DEG 剔除_NN ，_PU 以_MSP 达到_VV 品质_NN 管制_VV 的_DEC 目的_NN 。_PU
+
+原先_AD 筛选_VV 代表_NN 传统_NN 的_DEC 品管_NN 筛选_NN 、_PU 铸造件_NN 的_DEC 非_AD 破坏_VV 检验_NN （_PU 如_P X_NN 光_AD 、_PU 染色_JJ 探伤_NN 等_ETC ）_PU 与_P 高压_JJ 容器_NN 的_DEG 耐压_NN 试验_NN 等_ETC ，_PU 针对_P 电子_NN 产品_NN 之_DEG 筛选_NN 使用_NN 环境_NN 应力_VV ，_PU 其_PN 汰弱_NN 功效_NN 显著_VA ，_PU 在_P 1979_CD 年_M 后_LC 可_VV 靠_P 度应力_NN 筛选_NN （_PU ReliabilityStressScreening_NN ）_PU 渐成_VV 一_CD 独立_NN 工作_NN 领域_NN ，_PU 其_PN 为_VC ESS_NN 的_DEC 扩充_NN ，_PU 是_VC 盛行_AD 於_P 电子_NN 产业_NN 的_DEC 品质_NN 与_CC 可靠度_NN 保证_NN 方法_NN ，_PU 除_P 将_BA 在_P 制程_NN 中_LC 因_P 问题_NN 材料_NN 或_CC 不良_JJ 工艺_NN 等_ETC 所_MSP 造成_VV 的_DEC 瑕疵品_NN 剔除_NN 外_LC ，_PU 也_AD 可_VV 对_P 此_PN 非_AD 设计_VV 疵_CD 病_NN 加以_VV 修改_NN ，_PU 以_MSP 提高_VV 电子_NN 产品_NN 生产_NN 品质_NN ，_PU 满足_VV 规格_NN 要求_NN 。_PU
+
+

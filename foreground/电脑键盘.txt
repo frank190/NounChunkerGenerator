@@ -1,0 +1,89 @@
+﻿电脑_NN 键盘_NN
+
+键盘_NN 是_VC 经过_P 系统_NN 安排_VV 操作_NN 一_CD 台机器_NN 或_CC 设备_NN 的_DEG 一_CD 组_M 键_NN ，_PU 主要_JJ 功能_NN 则_AD 是_VC 输入_VV 资料_NN 。_PU 电脑_NN 键盘_NN 是_VC 电脑_NN 的_DEG 外_JJ 设_VV 之一_AD ，_PU 由_P 打字机_NN 键盘_NN 发展_VV 而_MSP 来_VV 。_PU 通过_P 键盘_NN 可以_VV 输入_VV 字符_NN ，_PU 也_AD 可_VV 控制_VV 电脑_NN 的_DEG 运行_NN 。_PU 依照_P 键盘_NN 上_LC 的_DEG 按键_NN 数_NN ，_PU 可_VV 分为_VV 101_CD 键_M ，_PU 104_CD 键_NN 和_CC 87_CD 键_NN 等_ETC 多_CD 种_M 类型_NN ，_PU
+
+通常_AD ，_PU 电脑_NN 键盘_NN 由_P 矩形_JJ 或_CC 近似_JJ 矩形_NN 的_DEC 一_CD 组_M 按钮_NN 或者_CC 称为_VV “_PU 键_NN ”_PU 组成_VV ，_PU 键_VV 的_DEC 上面_NN 印有_VV 字符_NN 。_PU 大部分_CD 情况_NN 下_LC ，_PU 按下_VV 一_CD 个_M 键_AD 就_AD 打出_VV 对应_VV 的_DEC 一_CD 个_M 符号_NN ，_PU 如_P 字母_NN 、_PU 数字_NN 或_CC 标点_NN 符号_NN 等_ETC 。_PU 然而_AD ，_PU 有_VE 一些_CD 特殊_VA 的_DEC 符号_NN 需要_VV 同时_AD 按下_VV 几_CD 个_M 键_NN 或者_CC 按_P 顺序_NN 按_P 几_CD 个_M 键_NN 才_AD 能_VV 打出_VV 。_PU 另外_AD 还_AD 有_VE 一些_CD 键_NN 不_AD 对_P 应任_VV 何_DT 符号_NN ，_PU 但是_AD 影响_VV 到_VV 电脑_NN 的_DEG 运行_NN 。_PU 不同_VA 的_DEC 输入法_NN 定义_VV 不同_VA 的_DEC 输出_NN 符号_NN 。_PU
+
+，_PU 那时_NT 的_DEG 欧洲_NN 就_AD 有_VE 人_NN 发明_NN 格式_NN 不_AD 太_AD 成熟_VA 的_DEC 打字机_NN ，_PU 键盘_NN 就_AD 是_VC 应用_VV 在_P 这些_DT 打字机_NN 上_LC 的_DEC 。_PU 在_P 1868_CD 年_M ，_PU 被_SB 称作_VV “_PU 打字机_NN 之_DEG 父_NN ”_PU 的_DEC 美国_NR 人克_NN 里_LC 斯_DT 托夫_NN ·_PU 拉森_NN ·_PU 肖尔斯_NN （_PU ChristopherLathamSholes_NN ）_PU ，_PU 获得_VV 了_AS 打字机_NN 模型_NN 专利_NN 并_CC 取得_VV 打字机_NN 的_DEC 经营权_NN 。_PU 随后_AD 几_CD 年_M ，_PU 人们_NN 设计_VV 出_VV 实用_JJ 形式_NN 的_DEC 现代_NN 打字机_NN 并_CC 首次_AD 规范_VV 了_AS 键盘_NN 基本_AD 格局_VV ，_PU 即_AD 出现_VV 现在_NT 的_DEG “_PU QWERTY_NN ”_PU 键盘_NN 。_PU 但_CC 目前_NT 使用_VV 更_AD 广泛_VA 的_DEC 电脑_NN 键盘_NN ，_PU 人们_NN 通常_AD 称为_VV “_PU keyboard_NN ”_PU 。_PU
+
+20_OD 世纪_NN 中叶_NN ，_PU 键盘_NN 又_AD 增加_VV 一_CD 个_M 用武_NN 之_DEG 地_NN ——_PU 作为_P 电脑_NN 的_DEC 基本_JJ 输入_NN 设备_NN 。_PU
+
+键盘_NN 的_DEG 排列_NN 方式_NN 有_VE 很多_CD 种_M 。_PU 之_DEG 所以_AD 有_VE 不同_VA 的_DEC 键盘_NN 排列_VV 是_VC 因为_P 不同_VA 的_DEC 人_NN 使用_VV 不同_VA 的_DEC 语言_NN ，_PU 需要_VV 对_P 他们_PN 来说_LC 最_AD 简单_VA 的_DEC 方式_NN 来_MSP 使用_VV 键盘_NN 。_PU
+
+最_AD 常见_VA 的_DEC 键盘_NN 是_VC 机械_NN 打字机_NN 时代_NN 的_DEC QWERTY_NN 键盘_NN 或者_CC 近似_VA 的_DEC 设计_NN 。_PU 当时_NT 打字机_NN 的_DEG 键_NN 安装_VV 在_P 摇杆_NN 上_LC ，_PU 使_VV 用频_NN 率高_VV 的_DEC 键_NN 不_AD 能_VV 放得_VV 太_AD 近_VA ，_PU 以_P 防止_VV 摇杆_NN 互相_AD 碰撞_VV 而_CC 卡住_VV 。_PU QWERTY_NN 键盘_NN 和_CC 它_PN 的_DEG 兄弟们_NN 就_AD 沿用_VV 了_AS 打字机_NN 键盘_NN 的_DEG 设计_NN ，_PU 从而_AD 也_AD 为_VC 之后_LC 的_DEG 电子_NN 键盘_NN 所_MSP 采用_VV 。_PU 由于_P 当时_NT 技术_NN 条件_NN 的_DEG 限制_NN ，_PU 这_DT 种_M 键盘_NN 设计_VV 在_P 人体_NN 工学_NN 方面_NN 考虑_VV 得_DER 很_AD 少_VA 。_PU 随着_P 现代_JJ 电子学_NN 的_DEG 发展_NN ，_PU 这些_DT 限制_NN 就_AD 不_AD 存在_VV 了_AS 。_PU 也_AD 有_VE 很多_CD 新_VA 的_DEC 键盘_NN 设计_VV 涌现_VV ，_PU 如_P 德_NN 沃_NN 夏克_NN 键盘_NN ，_PU 但是_CC 没有_VE 被_SB 广泛_AD 使用_VV 。_PU
+
+键盘_NN 上_LC 的_DEG 键_NN 的_DEG 数量_NN 最_AD 初_JJ 标准_NN 是_VC 101_CD 个_M ，_PU Windows_NN 键盘_NN 是_VC 104_CD 个_M ，_PU Apple_NN 键盘_NN 是_VC 79_CD 个_M ，_PU 后来_CD 又_AD 发展_VV 到_VV 130_CD 个_M 甚至_AD 更多_VV 。_PU 越来越_AD 多_VA 的_DEC 功能键_NN 增加_VV 到_VV 键盘_NN 上_LC ，_PU 如_AD 打开_VV 一_CD 个_M 网页_NN 浏览器_NN 或_CC 邮件_NN 客户端_NN 。_PU 在_P 1990_CD 年代后期_M ，_PU 美国_NR 曾经_NR 销售_VV 过_AS 一_CD 种_M “_PU 因_P 特网_NN 键盘_NN ”_PU ，_PU 将_BA 功能键_NN 设置_VV 为_VC 预_NN 定义_VV 的_DEC 因_P 特网_NN 快_AD 捷键_VV ，_PU 按下_VV 这些_DT 快捷键_NN 就_AD 可以_VV 打开_VV 浏览器_NN 进入_VV 到_VV 指定_VV 的_DEC 网站_NN 。_PU
+
+键盘_NN 连接_VV 到_VV 电脑_NN 的_DEC 方式_NN 有_VE 很多_CD 种_M 。_PU 其中_NN 包括_VV 标准_NN 的_DEC DIN_NN 连接器_NN ，_PU 通常_AD 在_P 80486_CD 之前_LC 的_DEG 主板_NN 都_AD 是_VC 这_DT 种_M 设计_NN ，_PU 后来_VV 被_LB PS_NN /_PU 2_CD 连接器_NN 取代_VV 。_PU 现在_NT 应用_VV 更_AD 广_VA 的_DEC 是_VC USB_NN 连接器_NN ，_PU 但_CC 在_P 部份_NN 应用_VV 如_P 电子_NN 游戏_NN 上_LC ，_PU USB_NN 无法_AD 完全_AD 取代_VV PS_NN /_PU 2_CD ，_PU 主因_AD 是_VC USB_NN 键盘_NN 最_AD 多_VA 只_AD 能_VV 同时_AD 输入_VV 6_CD 个_M 键加_VV 2_CD 个_M 功能键_NN ，_PU 而_CC 部份_NN PS_NN /_PU 2_CD 键盘_NN 就_AD 可以_VV 同时_AD 输入_VV 十_CD 多键_NN 甚至_AD 所有_DT 键_NN （_PU 一般_AD 称为_VV N_CD -_PU keyrollover_NN 或_CC NKRO_NN ）_PU 。_PU 早期_JJ 的_DEG 苹果_NN 电脑_NN 使用_VV 苹果_NN 电脑_NN 总线_NN （_PU ADB_NN ）_PU 作为_VV 键盘_NN 连接器_NN 。_PU
+
+一_CD 个_M 标准_VA 的_DEC 键盘_NN 从_P 体积_NN 上_LC 来说_AD 是_VC 比较_VV 大_VA 的_DEC ，_PU 因为_P 所有_DT 的_DEG 键_NN 的_DEG 尺寸_NN 必须_VV 让_VV 手指_NN 能_VV 方便_VA 敲击_VV 。_PU 也_AD 有_VE 一些_CD 缩小_VV 键盘_NN 的_DEG 尺寸_NN 的_DEC 设想_NN 被_SB 提出_VV 来_VV ，_PU 比如_AD Chord_NN 键盘_NN ，_PU 通过_P 同时_AD 按下_VV 一_CD 组键_NN 来_MSP 代表_VV 一_CD 个_M 字符_NN ，_PU 从而_AD 减少_VV 键_VV 的_DEC 数量_NN 。_PU 而_CC G_CD KOS_M 键盘_NN 则_AD 应用_VV 在_P 无线_JJ 设备_NN 上_LC 。_PU 另外_AD 还_AD 有_VE 一些_CD 游戏_NN 控制杆_NN ，_PU 可以_VV 输入_VV 数据_NN 和_CC 字符_NN ，_PU 也_AD 是_VC 键盘_NN 的_DEG 一_CD 种_M 变化_NN 。_PU
+
+一_CD 种_M 新型_JJ 的_DEG 键盘_NN 叫做_VV 虚拟_JJ 激光_NN 投影_NN 键盘_NN ，_PU 将_BA 键盘_NN 的_DEG 图像_NN 投射_VV 在_P 一_CD 个_M 表面_NN 上_LC ，_PU 投影仪_NN 的_DEC 传感器_NN 确认_VV 哪_DT 个_M 键被_NN “_PU 按下_VV ”_PU ，_PU 之后_AD 转化_VV 成_VV 相应_JJ 信号_NN 给_P 电脑_NN 或_CC PDA_NN 设备_NN 。_PU
+
+原则_NN 上_LC ，_PU 电脑_NN 键盘_NN 遵循_VV ISO_NN /_PU IEC_NN 9995_CD 标准_NN 。_PU
+
+电脑_NN 所_MSP 采用_VV 的_DEC 键盘_NN 主体_NN 与_CC 英文_NN 打字机_NN 键盘_NN 类似_VA ，_PU 从_P 外观_NN 上_LC 来_MSP 看_VV ，_PU 电脑_NN 键盘_NN 分为_VV 打字键_NN 区_NN 、_PU 功能键_NN 区_NN 、_PU 编辑_NN 键区_NN 和_CC 数字_NN 键区_NN 等_ETC 四区_NN 。_PU
+
+
+
+
+
+
+
+
+
+
+
+键盘_NN 上_LC 共有_VV 12_CD 个_M 功能键_NN ，_PU 分別_NN 是_VC ，_PU 位于_VV 键盘_NN 上方_NN 。_PU 依照_P 软体_NN 特性_NN 不同_VA ，_PU 可_VV 设定_VV 常用_JJ 按键_NN 或_CC 命令_NN 於_P 功能键_NN 上_LC 。_PU
+
+在_P 键盘_NN 的_DEG 右方_NN 数字键_NN 区_NN ，_PU 具有_VV 数字键_NN 功能_NN 与_P 编辑键_NN 功能_NN 。_PU
+
+
+在_P 打字_NN 键区_NN 与_P 编辑_NN 数字键_NN 区_NN 的_DEG 中间_NN 设有_VV 编辑_NN 键区_VV ，_PU 专供_AD 编辑_VV 之_DEC 用_P 。_PU 共_AD 有_VE 方向键_NN 及_CC 插入键_NN 、_PU 删除键_NN 、_PU 归位键_NN 、_PU 结束键_NN 、_PU 上_DT 一_CD 页_M 键_NN 、_PU 下_NN 一_CD 页_M 键_NN 等_ETC 。_PU
+
+
+104_CD 键_NN ：_PU 最_AD 常见_VA 的_DEC 全_JJ 键数_NN 版本_NN 。_PU
+107_CD 键_M ：_PU 编辑键_NN 区_NN 移下_VV 一_CD 行_M ，_PU 贴着_VV ，_PU 顶行_VV 增加_VV 三_CD 个_M 功能键_NN 。_PU
+108_CD 键_NN ：_PU 没有_VE 数字区_NN 上_LC 的_DEG 三_CD 个_M LED_NN ，_PU 变成_VV 四_CD 个_M 功能键_NN 。_PU
+101_CD 键_NN :_PU 比_NN 104_CD 键_VV 的_DEC 版_NN 本少_AD 了_AS 3_CD 个_M 功能_NN 键_NN 、_PU 1_CD 个_M 选单键_NN ，_PU 多_CD 了_AS FN键_CD ，_PU 这_DT 种_M 形式_NN 常_AD 在_P 有_VE 数字_NN 键盘_NN 的_DEG 15_CD 寸_M 笔记_NN 本_DT 电脑_NN 出现_VV 。_PU
+87_OD 键_M ：_PU 没有_VE 数字区_NN 的_DEG 104_CD 键_VV 版本_NN
+
+
+
+
+将_BA 键盘_NN 规范_NN 成现_VV 在_P 这_DT 种_M 的_DEC “_PU QWERTY_NN ”_PU 键盘_NN 按_P 键_NN 布局_VV ，_PU 是_VC 因为_P 一开_JJ 始打_JJ 字机_NN 的_DEG 键盘_NN 是_VC 完全_AD 按照_P 字母_NN 顺序_AD 排列_VV 的_DEC ，_PU 而_CC 打字机_NN 是_VC 一_CD 个_M 机械_NN 结构_NN 的_DEC 打字_NN 机器_NN ，_PU 因_P 此_PN 如果_CS 打字_VV 时_LC 速度_NN 过_AD 快_VA ，_PU 某些_DT 键_NN 的_DEG 组合_NN 非常_AD 容易_VA 出现_VV 卡键_NN 问题_NN 。_PU 是_VC 克里_P 斯_DT 托夫_NN ·_PU 拉森_VV ·_PU 肖_BA 尔斯_NN （_PU ChristopherLathamSholes_NN ）_PU 解决_VV 了_AS 这_DT 个_M 问题_NN ，_PU 他_PN 发明_VV 了_AS QWERTY_NN 键盘_NN 的_DEG 布局_NN ，_PU 他_PN 将_AD 最_AD 常用_VV 的_DEC 几_CD 个_M 字母_NN 安置_VV 在_P 相反_JJ 方向_NN ，_PU 以_P 此_PN 最_AD 大_JJ 限度_NN 放慢_VV 打字_NN 时_LC 敲键_NN 速度_NN ，_PU 从而_AD 避免_VV 卡键_NN 。_PU 克里_VV 斯_DT 托夫_NN ·_PU 拉森_NN ·_PU 肖尔_NN 斯_VV 在_P 1868_CD 年_M 就_CC 这_DT 个_M 设计_NN 申请_VV 了_AS 专利_NN ，_PU 1873_CD 年_M 采取_VV 这_DT 种_M 布局_NN 的_DEC 第一_OD 台_M 商用_JJ 打字机_NN 成功_VA 地_DEV 投放_VV 市场_NN 。_PU
+
+但是_AD ，_PU 实际_AD 使用_VV 时_LC 人们_NN 发现_VV ，_PU QWERTY_NN 的_DEC 键盘_NN 按_NN 键_VV 布局_NN 方式_NN 非常_AD 没有_VE 效率_NN 。_PU 例如_VV ：_PU 一般_JJ 情况_NN 下_LC 人们_NN 惯用_VV 右手_NN ，_PU 但_CC 使用_VV QWERTY_NN 结果_NN 的_DEC 键盘_NN ，_PU 却_AD 使_VV 左手_NN 负担_VV 了_AS 57%_CD 的_DEG 工作量_NN 。_PU 两_CD 个_M 小_JJ 拇指_NN 及_CC 左_JJ 无_VE 名指_NN 都_AD 是_VC 没有_VV 力气_NN 的_DEC 手指_NN ，_PU 却_AD 要_VV 频频_NN 要_VV 使用_VV 它们_PN 。_PU 使用率_NN 仅_AD 占_VV 整_DT 个_M 打字_NN 工作_VV 的_DEC 30%_CD 左右_LC 的_DEG 字母_NN 排_VV 被_SB 放在_VV 了_AS 键盘_NN 的_DEG 中_NN 列_NN ，_PU 因此_AD ，_PU 为了_P 打_DT 一_CD 个_M 单词_NN ，_PU 人们_NN 经常_AD 需要_VV 上下往复_AD 移动_VV 手指_NN 。_PU
+
+在_P 1888_CD 年_M 全_DT 美_NN 举行_VV 了_AS 公开_VV 的_DEC 打字_NN 比赛_VV ，_PU 一_CD 个_M 叫做马_NN 加林_VV 的_DEC 法院_NN 速_CC 记员_NN 按照_P 明确_VA 的_DEC 指法_NN 分工_AD 进行_VV 盲打_NN ，_PU 速度_NN 非常_AD 快_VA ，_PU 而且_CC 错误_VA 仅_AD 有_VE 万分之三_CD ，_PU 使_VV 在_P 场人_NN 都_AD 惊讶_VV 不_AD 已_AD 。_PU 据_P 记载_NN ，_PU 当时_AD 马加_VV 林_VV 得到_VV 的_DEC 奖金_NN 是_VC 500_CD 美元_NN ，_PU 从_P 这_PN 以后_LC 很多_CD 人_NN 开始_VV 效仿_NN 这_DT 种_M 打字_NN 方法_NN ，_PU 盲打_NN 技术_NN 在_P 专业_NN 打字_NN 领域_NN 大_VA 行_VV 其_PN 道_NN ，_PU 在_P 美国_NR 也_AD 开始_VV 出现_VV 了_AS 专门_CC 培养_VV 打字员_NN 的_DEG 学校_NN 。_PU
+
+除了_P 英文_NN 输入_VV 时需_NN 要把_NN 较_AD 常用_VV 的_DEC 键_NN 分开_VV 外_LC ，_PU 其他_DT 语言_NN 的_DEC 打字机_NN 也_AD 需要_VV 这_DT 样_M 处理_NN ，_PU 而_CC 每_DT 一_CD 种_M 语言_NN 常用_VA 的_DEC 键_NN 均_AD 不_AD 同_VA ，_PU 例如_AD 法语_NN ：_PU
+
+於是_AD 就有_VV 了_AS AZERTY_NN 键盘_NN （_PU 面向_NN 法语_NN 用户_NN ）_PU 和_CC QWERTZ_NN 键盘_NN （_PU 面向_JJ 德语_NN 用户_NN ）_PU 等_ETC 。_PU
+另外_AD ，_PU 日文_NN 的_DEC 键盘_NN 会_VV 增加_VV 用于_VV 日文_VV 输入法_NN 切换_VV 的_DEC 按键_NN ，_PU 具备_VV 这_DT 样_M 功能_NN 的_DEC 键盘_NN 在_P 标準_NN 的_DEG 104_CD 键_NN 之外_LC 还_AD 会_VV 多_AD 四_CD 个_M 按键_NN 。_PU
+
+由于_P 上述_JJ 的_DEG 盲打_NN 技术_NN 的_DEG 广泛_NN 使用_VV ，_PU 打字机_NN 的_DEG 打字_NN 速度_NN 基本_AD 可以_VV 满足_VV 日常_AD 工作_VV 的_DEC 需要_VV 了_AS 。_PU 然而_AD ，_PU 一_CD 个_M 叫德沃_NN 拉克_VV （_PU Dvorak_NN ）_PU 的_DEC 华盛_JJ 顿人_NN 在_P 1934_CD 年_M ，_PU 又_AD 发明_VV 了_AS 一_CD 种_M 新_VA 的_DEC 键盘_NN 排列_NN 方法_NN 。_PU 这_DT 种_M 设计_NN 的_DEC 键盘_NN 使_VV 左_JJ 右手_NN 能_VV 交替_VV 敲击_NN 键盘_NN ，_PU 可以_VV 缩短_VV 一半_CD 的_DEG 训练_NN 周期_NN ，_PU 平均_JJ 打字_NN 速度_NN 也_AD 提高_VV 了_AS 约_AD 1_CD /_PU 3_CD 。_PU
+
+DVORAK_NN 式_NN 键盘_NN 布局_NN 原则_NN 是_VC ：_PU
+Windows_NN 中_LC 已经_AD 内置_VV 了_AS 对_P “_PU DVORAK_NN ”_PU 键盘_NN 的_DEG 支持_NN ，_PU 点击_NN “_PU 控制_NN 面板_NN －_PU 键盘_NN ”_PU ，_PU 进入_VV “_PU 输入法_NN 区域_NN 设置_VV ”_PU 选项_NN ，_PU 接着_AD 单击_VV “_PU 添加_VV ”_PU 按钮_NN ，_PU 将_BA “_PU 输入法_NN 区域_NN 设置_VV ”_PU 设置_VV 为_VC “_PU 英语_NN （_PU 美国_NR ）_PU ”_PU ，_PU 并_CC 在_P “_PU 键盘_NN 布局_VV /_PU 输入法_NN ”_PU 栏_NN 内_LC 找到_VV “_PU 美国_NR 英语_NN -_PU DVORAK_NN ”_PU ，_PU 确认_VV 后_LC ，_PU 便_AD 变成_VV “_PU DVORAK_NN ”_PU 键盘_NN 。_PU
+
+后来_VV ，_PU 莫_AD 尔特_NN （_PU LillianMalt_NN ）_PU 又_AD 设计_VV 了_AS 比_P “_PU DVORAK_NN ”_PU 键盘_NN 更加_AD 合理_VA 、_PU 高效_VA 的_DEC “_PU MALT_NN ”_PU 键盘_NN 。_PU 莫尔特_AD 改变_VV 了_AS 原本_JJ 交错_NN 的_DEC 字键_NN 行列_VV ，_PU “_PU 后退键_NN ”_PU （_PU Backspace_NN ）_PU 及_CC 其它_DT 原本_JJ 远离_NN 键盘_NN 中心_NN 的_DEC 键_NN 更_AD 容易_AD 触到_VV ，_PU 打字_VV 时_LC 拇指_VV 的_DEC 使用_NN 频率_NN 也_AD 更高_VV 了_AS 。_PU 但_AD “_PU MALT_NN ”_PU 键盘_NN 并没_CC 能_VV 得到_VV 广泛_VA 地_DEC 应用_NN 。_PU
+
+数字_NN 键盘_NN 又_AD 称_VV 九_CD 宫_M 键盘_NN ，_PU 会计_VV 人员_NN 方便_VV 使用_VV ，_PU 不_AD 需_VV 额外_AD 安装_VV 程式_NN 。_PU
+
+由于_P 使用_NN 方便_VA ，_PU 无线_AD 电脑_NN 键盘_NN 现在_NT 越来越_AD 流行_VV 。_PU 然而_AD ，_PU 无线_AD 键盘_NN 需要_VV 电池_NN 才_AD 可以_VV 工作_VV ，_PU 同时_AD 也_AD 会_VV 带来_VV 安全_NN 方面_NN 的_DEC 隐患_NN ，_PU 无线_VV 的_DEC 传送_NN 容易_AD 被_SB 窃听_VV 。_PU 另外_AD ，_PU 无_VE 线键_NN 盘并_P 不_AD 受_VV 游戏_NN 玩家_NN 欢迎_VA ，_PU 主因_AD 是_VC 精确度_NN 及_CC 游戏_NN 用途_NN 的_DEC 功能_NN 都_AD 不_AD 及_VV 有_VE 线键_NN 盘_NN 。_PU
+
+苹果_NN 电脑_NN 使用_VV 的_DEC 键盘_NN 与_CC 普通_JJ PC_NN 的_DEC 有些_DT 许_NN 差异_VV ，_PU 比如_AD 1980_CD 年代_NN 麦金塔_NN 电脑_NN 的_DEC 键盘_NN 上_LC 有_VE “_PU 苹果键_NN ”_PU ，_PU 上面_NN 标有_VV 标志_NN ，_PU 后来_VV 苹果键_NN 被_NN “_PU command_NN ⌘_NN ”_PU 键_NN 代替_VV 。_PU
+
+通常_AD ，_PU 键盘_NN 被_SB 用来_VV 输入_VV 文本_VV 到_VV 文本_JJ 编辑器_NN 、_PU 文字_NN 处理器_NN 或者_CC 其他_DT 文本_JJ 工具_NN 。_PU
+
+现在_NT 的_DEG 电脑_NN 把_BA 解释_NN 键值_NN 转换_NN 的_DEG 工作_NN 交给_VV 了_AS 软件_NN 。_PU 键盘_NN 给_P 每_DT 一_CD 个_M 物理_NN 的_DEC 键_NN 定义_VV 了_AS 对应_VV 的_DEC 键值_NN ，_PU 然后_AD 将_BA 所有_DT 的_DEG 输入_NN 报告_NN 给_P 控制_VV 软件_NN ，_PU 由_P 软件_NN 决定_AD 相应_JJ 的_DEG 输出_NN 。_PU
+
+键盘_NN 也_AD 用来_VV 输入_VV 电脑_NN 命令_NN 。_PU IBMPC_NN 最_AD 著名_VA 的_DEC 例子_NN 莫过于_VV Ctrl_NN +_CC Alt_NN +_CC Del_NN 组合_VV 。_PU 现在_NT 的_DEG MicrosoftWindows_NN 的_DEG 版本_NN 中_LC ，_PU 按下_VV 这_DT 三_CD 个_M 键_NN ，_PU 将_AD 出现_VV 一_CD 个_M 对_P 话框_NN ，_PU 包括_VV 当前_NT 任务_NN ，_PU 关机_NN 等_ETC 选项_NN 。_PU 而_CC Linux_NN ，_PU MS-DOS_NN 和_CC WINDOWS_NN 早期_JJ 版本_NN 中_LC ，_PU Ctrl_NN +_CC Alt_NN +_CC Del_NN 这_DT 个_M 组合_NN 对应_VV 的_DEC 命令_NN 就_AD 是_VC 重新_AD 启动_VV 。_PU
+
+键盘_NN 是_VC 电脑_NN 游戏_NN 的_DEC 主要_JJ 控制_NN 方式_NN 之一_LC 。_PU 方向键_NN 或者_CC 重定义_NN 为_P 方向_NN 键_VV 的_DEC 一_CD 组_M 键_NN （_PU 如_P WASD_NN 四_CD 个_M 键_NN ）_PU 用_P 来控_NT 制游_VV 戏角色_NN 的_DEG 移动_NN 。_PU 在_P 很多_CD 游戏_NN 中_LC ，_PU 很多_CD 键_VV 可以_VV 根据_P 玩家_NN 的_DEC 喜好_JJ 来_VV 定义_VV 。_PU
+
+电脑_NN 键盘_NN 上_LC 的_DEC 键_NN 通常_AD 分成_VV 以下_JJ 几_CD 类_M ：_PU
+
+
+

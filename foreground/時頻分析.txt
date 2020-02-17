@@ -1,0 +1,202 @@
+﻿时频_NN 分析_NN
+
+时频_JJ 分布_NN 是_VC 一_CD 项_M 让_VV 我们_PN 能够_VV 同时_AD 观察_VV 一_CD 个_M 讯号_NN 的_DEC 时域_NN 和_CC 频域_NN 资讯_NN 的_DEC 工具_NN ，_PU 而_CC 时_LC 频分_NN 析就_AD 是_VC 在_P 分析_NN 时_LC 频分布_NN 。_PU 传统_NN 上_LC ，_PU 我们_PN 常用_JJ 傅立叶_NN 变换_VV 来_MSP 观察_VV 一_CD 个_M 讯号_NN 的_DEG 频谱_NN 。_PU 然而_AD ，_PU 这样_PN 的_DEG 方法_NN 不_AD 适合_VV 用来_VV 分析_VV 一_CD 个_M 频率_NN 会_VV 随着_P 时间_NN 而_MSP 改变_VV 的_DEC 讯号_NN ，_PU 由于_P 傅立叶_JJ 变换_NN 只_AD 分析_VV 了_AS 一_CD 维_M 的_DEG 讯号_NN 分布_VV ，_PU 而_CC 时_LC 频_VV 分析_NN 却_AD 能_VV 分析_VV 二_CD 维_M (_PU 时域_NN 跟_P 频域_NN )_PU 的_DEG 讯号_NN 分布_VV ，_PU 因此_AD 在_P 讯号_NN 处理_NN 中_LC 更常_AD 被_SB 运用_VV 。_PU
+
+时频_JJ 分析_NN 也_AD 可以_VV 说_VV 是_VC 傅立叶_NN 分析_VV 的_DEC 一_CD 般化_NN ，_PU 通常_AD 用于_VV 频率_NN 特性_NN 会_VV 随_P 时间_NN 而_MSP 变化_VV 的_DEC 讯号_NN 上_LC ，_PU 而_CC 在_P 日常_JJ 生活_NN 中_LC 符合_VV 符合_VV 此_DT 特性_NN 的_DEC 讯号_NN 非常_AD 多_VA ，_PU 像是_AD 演讲_VV 、_PU 音乐_NN 、_PU 影像_NN 、_PU 医学_NN 讯号_NN ._PU .._PU 等_ETC ，_PU 因此_AD 能_VV 应用_VV 的_DEC 领域_NN 相当_AD 广泛_VA 。_PU
+
+另外_AD ，_PU 更_AD 实际_JJ 应用_NN 时频_NN 分析_VV 的_DEC 动机_NN 为_VC 传统_JJ 傅立叶_NN 分析_VV 假设_JJ 讯号_NN 在_P 时域_NN 是_VC 无_VE 限长_NN 或_CC 是_VC 周期性_NN 出现_VV 的_SP ，_PU 然而_AD 在_P 现实_NT 中_LC 许多_VV 讯号_NN 都_AD 只有_AD 短暂_VA 的_DEC 存在_VV ，_PU 而且_CC 在_P 讯号_NN 持续_VV 期间_NN 可能_VV 有_VE 相_NN 当_AD 大_VA 的_DEC 变化_NN 。_PU 举例_NN 来说_VA ，_PU 传统_VA 的_DEC 音乐_NN 乐器_NN 不_AD 会_VV 持续_VV 产生_VV 无_VE 限长_NN 的_DEG 正_AD 弦_CD 波_M ，_PU 反而_AD 可能_VV 突然_AD 有_VE 一_CD 巨_JJ 声_NN ，_PU 然后_AD 渐渐_AD 减弱_VV 。_PU 因_P 此时_NT 频_VV 分析_VV 的_DEC 研究_NN 势_NN 不_AD 可_VV 挡_VV 。_PU
+
+让_VV 我们_PN 看看_VV 以下_JJ 这_DT 个_M 频率_NN 会_VV 随_P 时间_NN 变化_VV 的_DEC 讯号_NN 例子_NN ：_PU
+
+formula_NN
+
+一旦_CS 这样_PN 的_DEG 数学式_NN 成立_VV ，_PU 便_AD 可_VV 利用_VV 时频_JJ 分析_NN 的_DEC 各_DT 种_M 技术_NN ，_PU 萃取_NN 讯号_NN 中_LC 的_DEG 各_DT 种_M 有用_JJ 资讯_NN ，_PU 并_CC 分离_VV 噪音_NN 或_CC 干扰_NN 。_PU
+
+最早_NT 的_DEG 时频_NN 分析_NN 方法_NN 应见_VV 於_P Alfr_NN é_NN dHaar_NN 提出_VV 的_DEC 哈尔_NN 小波_NN 转换_NN (_PU 1909_CD )_PU ，_PU 然而_AD 在_P 当时_NT 因_P 时_LC 频_VV 分析_VV 所_MSP 需_VV 的_DEC 运算量_NN 仍_AD 是_VC 个_M 无法_AD 忽视_VV 的_DEC 议题_NN ，_PU 因此_AD 并未_AD 广泛_AD 应用于_VV 讯号_NN 处理_NN 。_PU 而后_AD 更_AD 多_VA 的_DEC 贡献_NN 来自_VV 於_P DennisGabor_NN ，_PU 像是_CC 小_JJ 波_M 前身_JJ Gaboratoms_NN (_PU 1947_CD )_PU ，_PU 以及_CC 加_VV 伯_NN 转换_NN 和_CC 改进型_JJ 的_DEG 短_JJ 时距_NN 傅立_VV 叶_AD 变换_VV 。_PU 维格_NN 纳準_NN 机率_NN 分布_NN (_PU Ville_NN 1948_CD )_PU 也_AD 是_VC 一_CD 个_M 重要_VA 的_DEC 开端_NN 。_PU
+
+特別_CS 在_P 1930_CD 年代_NN 及_CC 1940_NN 年代_VV ，_PU 早期_VV 的_DEC 时频_NN 分析_NN 方法_NN 恰好_AD 与_P 量子_NN 力学_NN 的_DEG 发展_NN 一致_VA ，_PU 这_PN 反映_VV 了_AS 位置_NN -_PU 动量_NN 平面_NN 及_CC 时域_NN -_PU 频域_NN 平面_NN 的_DEC 数学机_NN 制有_VV 些共_JJ 通性_NN ，_PU 像_CS 是_VC 海森堡_NN 不_AD 确定性_JJ 原理_NN (_PU 量子_NN 力学_NN )_PU 与_CC 加_VV 伯_NN 限制_VV (_PU 时_LC 频_VV 分析_NN )_PU 最_AD 终_AD 都_AD 得出_VV 了_AS 扭_VV 对_P 称几_NN 何_DT 结构_NN 。_PU
+
+常见_VA 的_DEC 时频_NN 分布_VV 函数_NN 有_VE 短时_JJ 距傅_NN 立叶_VV 变换_NN （_PU 包含_VV 加_VV 伯_NN 转换_NN ）_PU 、_PU 科恩_NN 分布_VV 函数_NN （_PU 包含_VV 韦格_NN 纳_NN 分布_VV ）_PU 、_PU 改进型_JJ 韦格_NN 纳_NN 分布_VV ，_PU 以及_CC 加_VV 伯_OD -_PU 韦_OD 格_M 纳分布_NN （_PU G_CD abor_M -_PU Wignerdistributionfunction_NN ）_PU 函数_NN 及_CC S_NN 转换_NN 等_ETC 。_PU
+
+而_AD 这些_DT 看似_VA 不同_VA 的_DEC 时频_NN 分析_NN 函数_NN ，_PU 其_PN 数学_NN 公式_NN 的_DEC 由来_JJ 都_AD 有些_DT 相关性_NN ，_PU 若_CS 想对_VV 时_LC 频_VV 分析_VV 的_DEC 了_AS 解更加_VV 透彻_VA ，_PU 应_VV 在_P 学习_VV 时_LC 将_BA 它们_PN 一起_AD 理解_VV ，_PU 而_AD 非都_AD 视为_VV 单一_JJ 函数_NN ，_PU 像是_CC 做_VV 1_CD /_PU 4_CD 次_M 傅立叶_NN 变换_NN 可以_VV 解读_VV 成_VV 傅立叶_NN 变换_VV 在_VV 时_NN 频_VV 分析_NN 平面_NN 上_LC 转_VV 90_CD °_M ，_PU 而_CC 这_DT 个_M 旋转_NN 做_VV 了_AS 4_CD 次_M 后_LC 就_AD 会_VV 回到_VV 原本_JJ 的_DEG 函数_NN ，_PU 只_AD 做_VV 2_CD 次_M 时_LC 则_AD 会_VV 视_VV 反转_VV 的_DEC 图形_NN 。_PU
+
+一_CD 个_M 理想_VA 的_DEC 时频_NN 分布_VV 函数_NN 有_VE 助於_VV 我_PN 们做_NN 时_LC 频_VV 分析_NN ，_PU 而_CC 它_PN 大致上_AD 具有_VV 以下_JJ 四_CD 种_M 性质_NN ：_PU
+
+在_P 这里_PN 我们_PN 比较_VV 几_CD 个_M 较_AD 常_AD 用_VV 的_DEC 时频_NN 分析_NN 之_DEG 优劣度_NN 。_PU
+
+为了_P 能_VV 顺利_VV 的_DEC 分析_NN 各_DT 讯号_NN 之_DEG 时频_NN 分布_VV ，_PU 选择_VV 适当_VA 的_DEC 时频_NN 分布_VV 函数_NN 是_VC 很_AD 重要_VA 的_DEC 。_PU 而_CC 至於_AD 要_VV 如_P 何_DT 选择_NN 时_LC 频_VV 分布_VV 函数呢_NN ？_PU 这_DT 端_NN 看于_VV 我们_PN 所_MSP 要_VV 应用_VV 它_PN 的_DEG 地方_NN 在_P 哪_PN 边_LC 。_PU 韦格_NN 纳_NN 分布_VV 之_DEC 定义_NN 中_LC 的_DEG 自_DT 相关_JJ 函数_NN 是_VC 一_CD 把_BA 双_CD 面刃_NN ，_PU 它_PN 让_VV 韦_CD 格_M 纳分布_NN 函数_NN 拥有_VV 高_VA 的_DEC 清晰度_NN ，_PU 然而_AD ，_PU 它_PN 也_AD 同时_AD 让_VV 它_PN 产生_VV 了_AS cross_NN -_PU term_NN 的_DEC 问题_NN 。_PU
+
+因此_AD ，_PU 如果_CS 我们_PN 想要_VV 分析_VV 一_CD 个_M 只_AD 有_VE 单_AD 一_CD 项_M 的_DEG 讯号_NN ，_PU 此时_NT 不_AD 会_VV 有_VE cross_NN -_PU term_NN 的_DEC 产生_VV ，_PU 因此_AD 我们_PN 通常_AD 选择_VV 韦_CD 格_M 纳分布_NN 函数_NN 来_MSP 获得_VV 高清_JJ 晰度_NN ；_PU 另_DT 一_CD 方面_NN ，_PU 如果_CS 我们_PN 要_VV 分析_VV 的_DEC 讯号_NN 是_VC 由_P 很多_CD 个_M 项_NN 所_MSP 组成_VV 的_DEC ，_PU 此时_NT 若_CS 用_P 韦格_NN 纳_NN 分布_VV 会_VV 有_VE cross_NN -_PU term_NN 产生_VV ，_PU 所以_AD 我们_PN 可能_VV 选择_VV 用_P 加_NN 伯_NN 转换_NN 或是_CC 加_VV 伯_NN -_PU 韦格_NN 纳_NN 分布_VV 函数_NN 会_VV 比较_VV 好_VA 。_PU
+
+在_P 接下来即_AD 将_BA 介绍_NN 的_DEC 应用_NN 中_LC ，_PU 我们_PN 除了_P 需要_VV 时_LC 频_VV 分布_VV 函数_NN ，_PU 还_AD 需要_VV 搭配_VV 其他_DT 的_DEG 运算_NN 才_AD 能_VV 达到_VV 目的_NN ，_PU 而_CC 著名_VA 的_DEC 线性_JJ 标準转换_NN （_PU Linearcanonicaltransform_NN ）_PU 可以_VV 帮助_VV 我们_PN 。_PU 我们_PN 可以_VV 利用_VV 线性_JJ 标準_NN 转换_VV 来_MSP 任意_VV 的_DEC 改变_VV 一_CD 个_M 讯号_NN 在_P 时_LC 频_VV 分布_VV 平面_NN 上面_NN 的_DEG 形状_NN 和_CC 位置_NN ，_PU 像是_AD 水平_AD 以及_CC 垂直_VV 的_DEC 移动_NN 、_PU 扩大_VV 、_PU shearing_NN （_PU 扭曲_VV ）_PU ，_PU 以及_CC 旋转_NN （_PU 用_P 分数傅_NN 立_VV 叶_NN 变换_VV ，_PU fractionalFouriertransform_NN ,_PU F_CD RF_M T_CC ）_PU 等_ETC 。_PU 由_P 此_PN 可_VV 见_VV ，_PU 线性_JJ 标準_NN 转换_VV 让_VV 我们_PN 对于_VV 时_LC 频_VV 分布_VV 的_DEC 处理_NN 更_AD 灵活_VA 。_PU
+
+这边_PN 我们_PN 列举_VV 一些_CD 时频_NN 分布_VV 之_DEC 应用_NN 的_DEC 例子_NN 。_PU
+瞬间_AD 频率_VV 的_DEC 定义_NN 是_VC formula_NN __NN 2_CD ，_PU 其中_NN formula_NN 是_VC 讯号_NN 的_DEG 瞬时_NN 相位_VV 。_PU 我们_PN 可以_VV 直接_AD 由_P 时频_NN 分布_VV 的_DEC 图形_NN 中_LC 看出_VV 每_DT 个_M 时刻_NN 的_DEC 瞬_NN 时_LC 频率_NN 是_VC 多少_AD ，_PU 不_AD 过前_NT 提是_VV 这_DT 个_M 时_LC 频_VV 分布_VV 的_DEC 图_NN 形要_JJ 够_NN 清晰_VA ，_PU 因此_AD ，_PU 我们_PN 经常_AD 选用_VV 韦格_NN 纳_NN 分布_VV 函数_NN 来_MSP 做进_VV 一_CD 步_M 的_DEG 分析_NN 。_PU
+滤波器_NN 的_DEC 目的_NN 就_AD 是_VC 要_VV 移除_VV 我们_PN 不要_VA 的_DEC 部份_NN ，_PU 并_CC 保留_VV 我们_PN 要_VV 的_DEC 部份_NN 。_PU 在_P 没有_VE 应用_NN 时频_NN 分布_VV 之前_LC ，_PU 我们_PN 只_AD 能_VV 分別_VV 在_P 时域_NN 跟_P 频域_NN 上面_NN 来_MSP 做_VV 过滤_VV 的_DEC 动作_NN ，_PU 如下_VV 所_MSP 示_VV 。_PU
+
+像_NN 上面_LC 这样_AD 只_AD 能_VV 分別_VV 在_P 时_NN 域_NN 或_CC 频域_NN 上_LC 过滤_VV 的_DEC 方式_NN ，_PU 并_CC 不_AD 适合_VV 处理_VV 每_DT 一_CD 种_M 讯号_NN 。_PU 如果_CS 讯号_NN 在_P 时域_NN 上_LC 或_CC 在_P 频域_NN 上_LC 有_VE 重叠_VV 的_DEC 话_NN ，_PU 这时候_AD 使用_VV 时_LC 频_VV 分布_VV 函数_NN 来_MSP 做_VV 分析_VV 过滤_VV ，_PU 并_CC 搭配_VV 线性_JJ 完整转_NN 换_VV 的_DEC 操作_NN ，_PU 就_AD 可以_VV 做出_VV 更_AD 有效_VA 且_CC 灵活_VA 的_DEC 滤波器_NN 。_PU 让_VV 我们_PN 看看_VV 以下_JJ 的_DEG 例子_NN 。_PU
+
+而_AD 在_P 滤波器_NN 设计_VV 的_DEC 应用_NN 中_LC ，_PU 时_LC 频_VV 分布_VV 通常_AD 处理_VV 的_DEC 讯号_NN 是_VC 由_P 很多_CD 个_M 项_NN 所_MSP 组成_VV 的_DEC ，_PU 因此_AD 若_CS 用_VV 韦格_NN 纳_NN 分布_VV 来_MSP 做_VV 分析_VV 的_DEC 话_NN ，_PU 将_AD 会_VV 产生_VV cross_NN -_PU term_NN 的_DEC 问题_NN 。_PU 或_CC 许加_VV 伯_NN 转换_NN 、_PU 加_VV 伯_NN -_PU 韦格_NN 纳_NN 分布_VV 函数_NN ，_PU 亦_AD 或_CC Cohen_NN '_PU sclass_NN 分布_VV 函数_NN 会_VV 是_VC 比较_VV 好_VA 的_DEC 选择_NN 。_PU
+讯号_NN 分解_VV 的_DEC 概念_NN 就_AD 跟_P 滤波器_NN 设计_VV 很_AD 类似_VA 。_PU
+由_P Nyquist_NN -_PU Shannon_NN 取样_NN 定理_VV 且_CC 经过_VV 一_CD 番_M 推导_VV ，_PU 我们_PN 大致上_AD 可以_VV 说_VV 一_CD 个_M 讯号_NN 经过_P 取样_VV 后_LC 而_AD 不_AD 产生_VV 失真_NN （_PU aliasing_NN ）_PU 的_DEG 最_AD 低_JJ 取样_NN 点数_NN ，_PU 会_VV 和_P 这_DT 讯号_NN 在_P 时频_NN 平面_NN 上_LC 图形_NN 的_DEG 面积_NN 相_NN 等_ETC （_PU 事实_NN 上_LC ，_PU 没有_VV 一_CD 个_M 讯号_NN 在_P 时频_NN 平面_NN 上_LC 的_DEG 面积_NN 有限_VA 的_DEC ，_PU 因此_AD 我们_PN 省略_VV 了_AS 一些_CD 精确度_AD ）_PU 。_PU 接下来_VV ，_PU 让_VV 我们_PN 看看_VV 传统_JJ 取样_NN 定理_VV 跟_P 结合_VV 了_AS 时_LC 频分_NN 析以_VV 后_LC 的_DEG 取样_NN 定理_VV 之_DEC 差异_NN 。_PU
+
+若浅_CD 绿色_NN 的_DEC 部份_NN 是_VC 我们_PN 取样_VA 的_DEC 涵盖_NN 范围_NN ，_PU 则_AD 我们_PN 可以_VV 很_AD 明显_VA 的_DEV 看出_VV 使用_VV 时_LC 频_VV 分析_NN 后_LC ，_PU 所需_AD 取样_VA 的_DEC 点数_NN 会_VV 比_P 之_PN 前少_VV 了_AS 许多_VV ，_PU 因此_AD 加快_VV 了_AS 我们_PN 的_DEG 运算_NN 。_PU 当_P 我们_PN 使用_VV 韦_OD 格_M 纳分布_NN 函数_NN 时_LC ，_PU 可能_VV 会_VV 产生_VV cross_NN -_PU term_NN ；_PU 另_DT 一_CD 方面_NN ，_PU 若_CS 使用_VV 加_VV 伯_NN 转换_NN 做_VV 分析_VV 的_DEC 话_NN ，_PU 又_CC 可能_VV 会_VV 因为_P 清晰度_NN 不_AD 佳_VA 而_MSP 让_VV 所_MSP 需要_VV 取样_VV 的_DEC 面积_NN 又_AD 变大_VV 了_AS 。_PU 因此_AD ，_PU 选用_VV 哪_DT 个_M 函数_NN 要视_NN 讯号_NN 的_DEG 情形_NN 而_MSP 定_VV ，_PU 如果_CS 讯号_NN 是_VC 单_AD 一_CD 项_M 组成_VV 的_DEC ，_PU 那么_AD 就_AD 使用_VV 韦_OD 格_M 纳分布_NN 函数_NN ；_PU 然而_AD ，_PU 如果_CS 讯号_NN 是_VC 由_P 多_CD 项_M 组成_VV 的_DEC ，_PU 则_AD 用_P 加_NN 伯_NN 转换_NN 、_PU 加_VV 伯_NN -_PU 韦格_NN 纳_NN 分布_VV 函数_NN ，_PU 或是_CC Cohen_NR '_PU sclass_NN 分布_NN 函数_NN 。_PU
+
+取样_NN 点数_NN (_PU samplingpoints_NN )_PU =_NN 时_LC 频_VV 分析_NN 面积_NN 的_DEG 总_JJ 和_CC +_NOI 其_PN 余额_NN 外参数_NN
+
+
+Step1_CD ._PU 解析_NN 讯号_NN 转换_NN
+
+转换_NN 讯号_NN 到_VV 座标轴_NN 的_DEG 同_DT 一_CD 边_NN (_PU 一般_AD 是_VC 取_VV 该_DT 讯号_NN 的_DEC 实数区_NN )_PU
+
+formula_NN
+
+formula_NN
+
+Step2_CD ._PU 讯号_NN 拆解_VV
+
+使用_VV 短_JJ 时距_NN 傅立_VV 叶_NN 变换_NN (_PU shorttimeFouriertransform_NN ,_PU STFT_VV ;_PU 因为_P 讯号_NN 包含_VV 许多_CD 不同_JJ 成分_NN )_PU 来_MSP 拆解_VV 讯号_NN 成_VV 许多_CD 部份_NN 。_PU
+
+Step3_CD ._PU 使用_VV 斜推_NN (_PU shearing_NN )_PU 或_CC 旋转_NN (_PU rotation_NN )_PU 使_VV 各_DT 个_M 部分_NN 减少_VV 到_VV 最_AD 小_VA "_PU 面积_NN "_PU
+
+使用_VV 韦格_NN 纳_NN 分布_NN 方程_NN (_PU Wignerdistributionfunction_NR ,_PU WDF_NN ;_PU 因为_P 此时_NT 讯号_NN 为_VC 单一_JJ 成分_NN 且_CC 属_VV 随_P 机程序_NN )_PU 来_MSP 斜推_VV 和_CC 翻转_VV 各_DT 个_M 部份_NN 。_PU
+
+Step4_CD ._PU 使用_VV 传统_JJ 采样_NN 理论_AD 采样_VV 各_DT 个_M 成份_NN
+
+
+formula_NN
+
+
+formula_NN
+
+
+
+严格_AD 来说_VV ，_PU 没有_VE 任何_DT 一_CD 个_M 讯号_NN 的_DEC 时频_NN 分布_VV "_PU 面积_NN "_PU 是_VC 有限_VA 的_DEC ，_PU 但是_CC 我们_PN 可以_VV 选择_VV 一_CD 个_M 阈值_NN "_PU threshold_NN "_PU Δ_NN ，_PU 使_VV 时频_NN 分析_VV formula_NN
+
+
+如果_CS formula_NN __NN 17_CD 是_VC 时间_NN 上_LC 有限_VV 的_DEC formula_NN 则频率_NN 上_LC 则_AD 不_AD 可能_VV 是_VC 有限_VA 的_DEC 。_PU
+
+如果_CS formula_NN __NN 17_CD 是_VC 频率_NN 上_LC 有限_VV 的_DEC formula_NN
+
+只_AD 取_VV formula_NN __NN 21_CD 和_CC formula_NN __NN 22_CD 牺牲_NN 的_DEC 能量_NN 所_MSP 佔_VV 的_DEC 比例_NN ，_PU formula_NN
+
+formula_NN
+
+
+formula_NN
+
+formula_NN
+
+formula_NN
+formula_NN
+传统_NN 上_LC ，_PU 调变_NN （_PU modulation_NN ）_PU 与_P 多工_JJ （_PU multiplexing_NN ）_PU 都_AD 只有_AD 分別_VV 在_P 时域_NN 及_CC 频域_NN 上_JJ 下_JJ 功夫_NN ，_PU 也就是_AD 尽量_AD 塞满_VV 时域_NN 及_CC 频域_NN 上_LC 的_DEC 空间_NN ，_PU 这_PN 都_AD 是_VC 一_CD 维_NN 的_DEG 操作_NN 。_PU 如果_CS 我们_PN 利用_VV 时频_JJ 分布_NN 函数_NN ，_PU 就_AD 可以_VV 将_BA 调变_VV 与_P 多_CD 工_M 的_DEG 触角_NN 延伸_VV 至_VV 二_CD 维_NN 的_DEG 时频_NN 平面_NN 上_LC ，_PU 所_MSP 要_VV 做_VV 的_DEC 就_AD 是_VC 塞满_NR 整_DT 个_M 时频_NN 平面_NN ，_PU 做_VV 最_AD 有效_VA 的_DEV 利用_VV 。_PU 由_P 以下_JJ 例子_NN 可以_VV 让_VV 我们_PN 更_AD 瞭解_VV 。_PU
+由_P 上_DT 例_NN 可_VV 知_VV ，_PU 使用_VV 韦格_NN 纳_NN 分布_VV 来_MSP 分析_VV 会_VV 有_VE 严重_VA 的_DEC cross_NN -_PU term_NN 问题_NN ，_PU 这_AD 非常_AD 不利于_VV 调变_NN 与_CC 多工_JJ 的_DEG 作业_NN ，_PU 因此_AD 不_AD 能_VV 选择_VV 它_PN 来_MSP 做_VV 这_DT 种_M 应用_NN 。_PU
+
+通常_AD 可_VV 借由_VV 以下_JJ 方法_NN 来_MSP 实行_VV 调变_NN 和_CC 多工_NN ，_PU
+
+
+讯号_NN formula_NN __NN 29_CD 可以_VV 被_SB 成功_VV 传递_VV ，_PU 如果_CS formula_NN
+
+
+讯号_NN formula_NN __NN 29_CD 可以_VV 被_SB 成功_VV 传递_VV ，_PU 如果_CS formula_NN
+
+应用_VV 时频_NN 分析_VV 的_DEC 观念_NN ，_PU 我们_PN 可以_VV 将_BA 一_CD 个_M 电磁波_NN 表示_VV 成_VV 一_CD 个_M 2x1_CD 的_DEG 矩阵_NN formulaFresneldiffraction_NN 就_AD 产生_VV 了_AS 。_PU Fresneldiffraction_M 可以_VV 用_P 线性_JJ 完整_JJ 转换_NN 的_DEC 参数_NN 矩阵_NN formula_NN __NN 34_CD 来_MSP 表达_VV ，_PU 其中_NN z_NN 是_VC 电磁波_NN 在_P free_NN -_PU space_NN 中_LC 传递_VV 的_DEC 距离_NN ，_PU 而_CC formula_NN
+光也_AD 是_VC 一_CD 种_M 电磁波_NN ，_PU 所以_AD 在_P 光学_NN 上_LC 的_DEG 应用_NN 就_AD 跟_P 电磁波_NN 传递_VV 很_AD 类似_VA 。_PU
+
+如果_CS 电磁波_NN 通过_P 一_CD 片_M 球面_NN 透镜片_NN 或_CC 是_VC 经过_P 一_CD 个_M 碟型面_NN 的_DEG 反射_NN ，_PU 则线性_NN 完整_VA 转换_VV 的_DEC 参数_NN 矩阵_NN 可_VV 分別_VV 表示_VV 为_VC formula_NN 和_CC formula_NN ，_PU 其中_NN f_NN 是_VC 球面_NN 透镜_NN 的_DEC 焦距_NN ，_PU 而_CC R_NN 是_VC 碟型面_NN 的_DEG 半径_NN 。_PU
+
+用_P LCT_NN 来_MSP 分析_VV 光学_NN 系统_NN 的_DEG 好处_NN 是_VC 只_AD 需要_VV 用到_VV 2x2_CD 的_DEG 矩阵_NN 运算_NN formula_NN
+
+光学_NN 也_AD 可以_VV 用_VV 在_P 无线_JJ 通讯_NN (_PU wirelesscommunication_NN )_PU ,_PU 光学_NN 系统_NN 分析_NN (_PU opticalsystemanalysis_NN )_PU ,_PU 雷射_NN (_PU laser)_NN 和_CC 雷达_NN 系统_NN 分析_NN (_PU radarsystemanalysis_NN )_NN 。_PU
+
+
+以下_JJ 两_CD 个_M 讯号_NN 无法_AD 经由_P 单纯_JJ 的_DEG 傅立叶_NN 分析_VV 分辨_VV 出来_VV ，_PU 它们_PN 的_DEG 频谱_NN 都_AD 长得_VV 一样_VA 。_PU
+formula_NN
+formula_NN
+不过幸_AD 亏有_VV 时频_NN 分布_VV 函数_NN ，_PU 我们_PN 可以_VV 看出_VV 随_P 时间_NN 改变_VV 之_DEC 频率_NN 的_DEG 起落_NN ，_PU 进而_AD 鉴別_VV 讯号_NN 。_PU 这_DT 个_M 想法_NN 也_AD 可以_VV 应用_VV 至_VV 模式_NN 识别_NN 。_PU
+
+语音_NN 讯号_NN 的_DEG 特性_NN 就_AD 是_VC 它_PN 的_DEG 频率_NN 随着_P 时间_NN 剧烈_VV 变化_NN 。_PU 因为_P 语音_NN 讯号_NN 所_MSP 涵盖_VV 的_DEC 资讯_NN 非常_AD 的_DEV 多_VA ，_PU 所以_AD 相对_VV 的_DEC 计算_NN 时间_NN 会_VV 是_VC 很_AD 重要_VA 的_DEC 考量_NN 。_PU
+
+根据_P Nyquistcriterion_NN 及_CC 人耳_NN 可_VV 听_VV 的_DEC 的_DEG 频率_NN 上_LC 限约_VV 为_VC 20000_CD Hz_M 这_DT 两_CD 个_M 条件_NN ，_PU 因此_AD 语音_NN 信号_NN 的_DEC 取样_JJ 频率_NN 需_VV 为_VC 40000_CD 左右_LC 。_PU
+然而_AD 我们_PN 对于_VV 时_LC 频_VV 分析_NN 的_DEG 输出_NN 在_P 时间_NN 轴_NN 的_DEG 分辨率_NN 要求_NN 往往_AD 不_AD 会到_VV 这么_PN 高_VA ，_PU 加上_VV 时_LC 频_VV 分析_VV 出来_VV 的_DEC 结果_NN 为_VC 原本_JJ 输入_NN 讯号_NN 维度_NN 的_DEG 两_CD 倍_M ，_PU 为_P 减少_VV 运算_NN 时间_LC ，_PU 我们_PN 会_VV 降低_VV 输出_NN 的_DEC 取样_JJ 频率_NN ，_PU 如_P 100_CD Hz_M 。_PU
+以_P 短_JJ 时距_NN 傅立_VV 叶_AD 变换_VV 为_VV 例_NN
+
+formula_NN
+
+可_VV 改写_VV 为_VC
+
+formula_NN
+
+其中_NN formula_NN
+formula_NN
+
+formula_NN
+
+formula_NN
+
+其中_NN formula_NN
+
+(_PU 1_CD )_PU formulaN_NN 为_VC 一_CD 整数_NN
+
+(_PU 2_CD )_PU formula_NN
+
+(_PU 3_CD )_PU formula_NN
+
+令_VV formula_NN
+
+其中_NN
+formula_NN
+
+时频_JJ 分析_NN 在_P 语音_NN 领域_NN 同时_AD 包含_VV 音乐_NN 讯号_NN 、_PU 声音_NN 讯号_NN 以及_CC 声纹_NN 辨识_NN 。_PU
+
+例如_AD speechsignal_NN :_PU
+
+
+例如_AD 研究_NN 指出_VV 在_P 声纹_NN (_PU 中文_NN 注音_NN 第一_OD 、_PU 二_OD 、_PU 三_OD 、_PU 四_OD 声_NN 和_CC 轻_JJ 声_NN )_PU 当_NN 中_LC 的_DEG 语调_NN 会_VV 使_VV 时间_NN 和_CC 瞬_NN 时_LC 频率_NN 的_DEC 关系_JJ 有所_NR 不_AD 同_VV 。_PU
+
+时频_JJ 分析_NN 在_P 生医_NN 工程_NN 上_LC 的_DEG 应用_NN 几乎_NN 都_AD 是_VC 用以_VV 分析_VV 生理_NN 讯号_NN ，_PU 如_P 肌电图_NN (_PU EMG)_NN 、_PU 心电图_NN (_PU ECG)_NN 等等_ETC 。_PU
+
+其中_NN 肌电图_NN (_PU EMG)_NN 是_VC 肌肉_AD 收缩_VV 时_LC 的_DEG 电位_NN 变化_NN 和_CC 肌纤维_NN 震动_VV 的_DEC 变化_NN 所_MSP 产生_VV 的_DEC 生理_NN 讯号_NN ，_PU 故常_AD 用以_VV 探讨_VV 肌肉_AD 收缩_VV 力量_NN 程度_NN 大小_NN 或_CC 用来_VV 判定_VV 肌肉_NN 是否_AD 产生_VV 疲劳_NN 的_DEC 工具_NN ，_PU 进而_AD 推估_VV 身体_NN 状态_NN 的_DEC 生理_NN 讯号_NN 。_PU EMG_NN 讯号_NN 为_VC 非_JJ 周期性_NN 且_CC 随_P 机_NN 的_DEG 讯号_NN ，_PU 所以_AD 若_CS 将_BA 时域_NN 讯号_NN 进行_VV 快速_JJ 傅利_NN 叶_NN 转换_NN (_PU FFT_NN )_PU 并_AD 不_AD 适宜_VA ，_PU 取_VV 而_CC 代之_VV 的_DEC 是_VC 对_P EMG_NN 信号_NN 进行_VV 短时傅立_JJ 叶_NN 转换_NN (_PU STFT_NN )_PU ，_PU 获得_VV EMG_NN 信号_NN 的_DEC 功率_NN 频谱_NN 密度_NN 函数_NN (_PU powerspectraldensityfunction_NN ，_PU PSDF_NN )_NN ，_PU 其_PN 反映_VV 了_AS EMG_NN 信号_NN 频率_NN 随_P 时间_NN 而_MSP 变化_VV 。_PU
+
+短时_AD 傅立_VV 叶_NN 转换_NN 属于_VV 时_LC 频_VV 分析_VV 的_DEC 一_CD 种_M ，_PU 是_VC 在_P 傅_NN 立_VV 叶_NN 转换_NN 中_LC 加入_VV 一_CD 个_M 移动_VV 的_DEC 视窗_NN 函数_NN (_PU windowfunction_NN )_PU w_CD (_PU t)_CD ，_PU 用来_VV 对_P 输入_VV 的_DEC 讯号_NN 做_VV 切割_NN ，_PU 在_P 对_P 视窗_NN 内_LC 的_DEG 讯号_NN 做_VV 傅立_JJ 叶_NN 转换_NN ，_PU 产生_VV 一_CD 个_M 二_CD 维_NN 的_DEG 时间_NN 频率_NN 分布图_NN 。_PU 视窗_NN 选择_NN 方面_NN 大约_AD 包含_VV 了_AS Hamming_NN 、_PU Hanning_NN 、_PU Gaussian_NN 等等_VV ，_PU 而_CC 视窗_NN 选择_VV 对于_P STFT_NN 有_VE 很_AD 大_VA 的_DEC 影响_NN ，_PU 若_CS 为_VV 较_AD 小_VA 的_DEC windowfunction_NN 可_VV 得到_VV 较_AD 佳_VA 的_DEC 时域_NN 分辨率_NN ，_PU 但_AD 会_VV 牺牲频域_VV 分辨率_NN ；_PU 反之_VV ，_PU 若_CS 选择_VV 较_AD 大_VA 的_DEC windowfunction_NN 将_AD 会_VV 得到_VV 较_AD 佳_VA 的_DEC 频域_NN 分辨率_NN 但_AD 较_AD 差_VA 的_DEC 时域_NN 分辨率_NN ，_PU 借由_VV 适当_JJ windowsize_NN 的_DEG 设定_NN ，_PU 就_AD 能_VV 观察_VV 出_VV 肌肉_NN 收缩_VV 力量_NN 程度_NN 大小_NN 随着_P 时间_NN 而_MSP 改变_VV 。_PU
+心电图_NN 也_AD 是_VC 常见_VA 的_DEC 电_NN 生理_NN 讯号_NN 之一_LC ，_PU 记录_VV 了_AS 心脏_JJ 整个_NN 活动_JJ 过程_NN ，_PU 心脏_NT 收缩_VV 前_LC 必_AD 先_AD 产生_VV 电气_NN 活动_NN (_PU electricalactivity_NN )_NN ，_PU 此_DT 电气_NN 活动_AD 是_VC 由_P 许多_CD 心肌_NN 的_DEG 兴奋_NN 波_NN 所_MSP 组成_VV 。_PU 兴奋_VV 波_BA 起源于_VV 心脏_VA 的_DEC 窦房节_NN (_PU SANode_NN )_PU ，_PU 并_CC 经由_P 心肌_NN 特_AD 化_VA 的_DEC 传导_NN 系统_NN (_PU conductingsystem_NN )_PU 将_BA 此_DT 兴奋波_NN 传遍_NN 整_DT 个_M 心脏_NN ，_PU 心电图_NN 即_AD 是_VC 源于_VV 心脏_NN 的_DEC 兴奋区_NN 与_P 未_AD 兴奋_VV 区_NN 之间_LC 的_DEG 电位_NN 差_NN 。_PU 而_CC 在_P 心电图_NN (_PU ECG)_NN 的_DEG 应用_NN 最_AD 常见_VA 的_DEC 例子_NN 即_AD 为_VC 心率_NN 变异度_NN 分析_NN （_PU heartratevariability_NN ,_PU HRV_NN ）_PU ，_PU 将_BA ECG_NN 信号_NN 使用_VV 时_LC 频_VV 分析_NN 可_VV 用以_VV 检测_VV 自主神_NN 经_P 系统_NN 活性_NN ，_PU 亦_AD 可_VV 进行_VV 进行_VV 个人_NN 压力_NN 与_CC 情绪_NN 分析_NN 。_PU
+
+为了_P 评估_VV 自_NOI 主神_NN 经_P 系统_NN 功能_NN 及_CC 对_P 心血管_NN 活动_VV 的_DEC 影响_NN ，_PU 亦_AD 可_VV 对_P ECG_NN 信号_NN 进行_VV 希尔_NN 伯_NN 特_AD -_PU 黄_JJ 变换_NN （_PU Hilbert-_JJ Huangtransform_NN ,_PU HHT_NN ）_PU 以_MSP 获得_VV Hilbert_NN 时_LC 频谱_VV ，_PU 利用_VV Hilbert_NN -_PU Huang_NN 时频_NN 来_MSP 做_VV 时频_NN 特征_NN 提取_VV 和_P 分析_NN 。_PU 依据_P 短_JJ 时程_NN HRV_NN 信号_NN 的_DEG 线性_JJ 频域_NN 分析_NN 指标_NN ，_PU 得到_VV 不同_JJ 生理_NN 频带_NN 的_DEG Hilbert_NN 能量图_NN ，_PU 提取_VV 总_JJ 能量_NN ，_PU 各_DT 生理_NN 频带_NN 的_DEC 能量_NN 和_CC 其_PN 归_VV 一_CD 化能_NN 量_NN 以及_CC 生理_NN 频段_NN 的_DEC 能量_NN 比_P 值_NN 作为_VV 评价_NN 心率_NN 变异性_NN 的_DEC 时频_NN 特征_NN 。_PU 基_NN 於_P Hilbert_NN 谱_VV 的_DEC 时频_NN 特征_NN 的_DEC 区分性_NN 能_VV 好_VA ，_PU 有_VE 较_AD 清晰_VA 的_DEC 生理_NN 意义_NN ，_PU 能_VV 反映_VV 人_NN 的_DEG 生理_NN 病理_NN 变化_NN ，_PU 为_VC 短_JJ 时程_NN HRV_NN 信号_NN 分析_NN 提供_VV 了_AS 一_CD 种_M 有效_JJ 方法_NN 。_PU
+
+以往_NT 大多数_CD 的_DEG 心率_NN 变异度_NN 分析_NN 都_AD 是_VC 以_P 快速_AD 傅立_VV 叶转_NN 换频_NN 谱分_NN 析为_VV 基础_NN ，_PU 来_MSP 探讨_VV 研究_NN 现象_NN 之_DEG 心率_NN 变异_VV 频_VV 谱特性_NN 与_CC 自主神_NN 经_P 活性_NN 之间_LC 关联性_NN 。_PU 但是_AD 对于_P 快速_AD 变化_VV 的_DEC 生理_NN 讯号_NN ，_PU 如_P ECG_NN 是_VC 一_CD 个_M 非_AD 稳定_VA (_PU non_NN -_PU stationary_NN )_PU 讯号_NN ，_PU 使得_VV 傅_NN 立_VV 叶_NN 转换_VV 无法_AD 达到_VV 有效_VA 的_DEC 处理_NN ，_PU 使用_VV 快速_AD 傅立_VV 叶转_NN 换频_NN 谱分_NN 析有_VV 其_PN 侷限性_NN 。_PU 另_DT 一_CD 种_M 较为_AD 合适_VA 的_DEC 方法_NN 是_VC 以_P 平滑式_JJ 魏格纳_NN －_PU 韦_AD 立_VV 分布_VV 时_LC 频_VV 分析_NN 法_NN (_PU smoothedpseudoWigner_NN -_PU Villedistribution_NN ;_PU S_CD PWVD_M )_PU 为_VC 基础_NN ，_PU 分析_VV 受试者_NN 之_DEG 心率_NN 变异度_NN 之_DEG 频谱_NN 特性_NN ，_PU 来_MSP 检视_VV 受试者_NN 心率_NN 变_VV 异度_NN 中_LC 之_DEG 低频_NN 频谱_NN 能量_NN (_PU LF)_NN 与_CC 高频_JJ 频谱_NN 能量_VV (_PU HF_M )_PU 的_DEG 增减_NN 现象_NN ，_PU 其_PN 比值_NN 为_VC 自主神_NN 经_P 平衡_JJ 指标_NN (_PU LF/HF_NN )_NN ，_PU 其_PN 频率_NN 范围_NN 定义_VV 如_P 下_NN 所_MSP 列_VV 。_PU
+
+运用_VV 无_VE 线电_NN 受到_VV 海面_NN 反射来_NN 的_DEC 回波_NN 频谱_NN 来_MSP 估算_VV 表_NN 层_NN 海流_NN 。_PU 原理_NN 包括_VV 了_AS 几_CD 种_M 物理_NN 现象_NN ，_PU 布拉格_NN 散射_VV 、_PU 都_AD 卜勒_NN 效应_NN 、_PU 深水波_NN 假设_VV 。_PU
+
+海洋_NN 的_DEC 表面_NN 是_VC 粗糙_VA 的_DEC ，_PU 其中_NN 包含_VV 了_AS 各_DT 种_M 波长_NN 的_DEC 波浪_NN ，_PU 当_P 一_CD 个_M 近_AD 岸_NN 的_DEC 测站_NN 发射_VV 无_VE 线电波_NN ，_PU 电波_NN 碰撞_VV 到_VV 海面_NN ，_PU 因为_P 布拉格_NN 散射_VV ，_PU 波浪_NN 波长_NN 为_VC 二分之一_CD 的_DEG 无线_JJ 电波_NN 长_VA 的_DEC 波浪_NN 会_VV 造成_VV 强_VA 的_DEC 回波_NN 。_PU
+
+若是_AD 打向_VV 一_CD 静止_VV 的_DEC 粗糙面_NN ，_PU 回_VV 波_NN 讯号_NN 的_DEG 频率_NN 应该_VV 与_CC 发射_VV 频率_NN 相符_VA ，_PU 但_CC 海面_NN 上_LC 的_DEG 波浪_NN 是_VC 行进_VV 的_DEC ，_PU 对于_P 电波_NN 接收_VV 站_VV 而_MSP 言_VV ，_PU 其_PN 所_MSP 收到_VV 的_DEC 讯号_NN ，_PU 是_VC 一_CD 个_M 移动_NN 中_LC 的_DEG 讯号_NN 来源_LC ，_PU 所以_AD 观察_VV 到_VV 的_DEC 回波_NN 频率_NN 因为_P 都_AD 卜勒_NR 效应_NN ，_PU 回_VV 波讯_NN 号频率_NN 不_AD 再_AD 是_VC 原_JJ 发射_NN 频率_NN ，_PU 而_CC 会_VV 发生_VV 在_P 发射_NN 频率_NN 加上_VV 一_CD 偏移_NN 频率_NN 。_PU
+
+因为_P 波浪_NN 没有_VE 特定_JJ 的_DEG 方向_NN ，_PU 可_VV 说_VV 是_VC 在_P 海面_NN 往_P 四面_NN 传递_VV ，_PU 对于_P 无线电_JJ 侧站_NN 位置_NN 而言_LC ，_PU 远离_VV 的_DEC 波会_NN 造成_VV 负_VV 的_DEC 偏移_NN 频率_NN ，_PU 即_AD 回_VV 波频率_NN 降低_VV ，_PU 反之_VV ，_PU 靠近_AD 测站_VV 的_DEC 波浪_NN 会_VV 形成_VV 一_CD 偏移_VV 频率_NN 为_VC 正_VA 的_DEC 回波_NN 。_PU
+
+其_PN 偏移_VV 频率_NN 的_DEG 大小值_NN 与_P 波速_NN 相关_AD ，_PU 波浪波_NN 速_AD 根据_P 深水波_JJ 的_DEG 假设_NN ，_PU 波速_NN 是_VC 波长_VV 之_DEC 函数_NN ，_PU 因为_P 先前_NT 布拉_VV 格散_JJ 射_NN ，_PU 当_P 无线_JJ 电波_NN 频率_NN 给定_VV ，_PU 其_PN 回波_NN 讯号_NN 主要_AD 是_VC 二分之一_CD 无线_JJ 电波_NN 长_VA 的_DEC 波浪_NN ，_PU 故此_AD 偏移_VV 频率_NN 可以_VV 估计_VV 出来_VV 。_PU
+
+由于_P 表层海_NN 流载_VV 着_AS 海_JJ 表面_NN 的_DEC 波浪走_NN ，_PU 所以_AD 观测_VV 到_VV 的_DEC 无线_JJ 电频谱_NN ，_PU 和_CC 预测_NN 上_LC 的_DEG 频谱_NN 会_VV 有所_VV 不同_VA ，_PU 而_CC 这_DT 中间_NN 不同_VA 的_DEC 量_NN 可以_VV 来_MSP 估算_VV 出_VV 表_NN 层_NN 海流_NN 。_PU
+
+通常_AD 无_VE 线电_NN 波站_NN 都_AD 有_VE Ｘ_NN ,_PU Y_NN ,_PU Z_NN 轴_NN 三_CD 个_M 方向_NN 的_DEG 天线_NN ，_PU 借由_VV 三_CD 个_M 方向_NN 的_DEG 接收_NN 讯号_NN ，_PU 雷达_NN 可以_VV 分辨_VV 出_VV 回波_NN 的_DEC 方位_NN ，_PU 借由_VV 到_VV 达回波_NN 在_P 时间轴_NN 上_LC 可以_VV 分辨_VV 出_VV 回波_NN 的_DEC 距离_NN 。_PU
+
+以下_JJ 举_NN 一_CD 个_M 虚构_NN 的_DEG 例子_NN 来_MSP 解说_VV 。_PU
+
+无_VE 线电_NN 测站_NN 发出_VV 一_CD 频率_NN 为_VC Fc_NN ，_PU 也就是_AD 波长_VV 为_VC formula_NN 海_NN 表面_NN 有_VE 波长_NN 不_AD 一_CD 的_DEC 波浪_NN 2_CD )_PU 因为_P 布拉格_NN 散射_VV ，_PU 波长_NN 为_VC formula_NN 3_CD )_PU 这些_DT 波浪_NN 四面_NN 传递_VV ，_PU 且_CC 波浪波_NN 速_AD 在_P 深水_VV 波假设_NN 中_LC ，_PU 可以_VV 近_AD 似成_VV formula_NN
+
+回波_NN 的_DEC 产生源_NN ，_PU 波浪_NN ，_PU 因为_P 以波_JJ 浪波_NN 速_AD 移动_VV ，_PU 都_AD 卜勒_NR 现象_NN 的_DEG 缘故_NN ，_PU 回波_NN 讯号_NN 会_VV 有_VE 一_CD 个_M 频率_NN 位移Δ_NN f_NN ，_PU 远离_AD 测站_VV 靠近_NT 测站_VV 的_DEC 波浪分_NN 別_VV 造成_VV F_CD c_M -_PU Δf_M ，_PU Fc_M +_PU Δ_NN f_NN 的_DEG 回波_NN （_PU 如_P 虚线_NN 所_MSP 示_VV ）_PU 。_PU
+
+假设_VV 又_DT 一_CD 个_M 靠_P 岸_NN （_PU 流向_P 测站_VV ）_PU 表层_NN 海流_NN ，_PU 海流_NN 带着_VV 波浪_NN 行进_VV ，_PU 其_PN 结果_NN 是_VC 离岸_VV 的_DEC 浪_NN 减速_NN ，_PU 靠岸_VV 的_DEC 流_VV 加速_VV ，_PU 其_PN 在_P 频率_NN 域_NN 相当_CC 於_P 右_NN 偏_AD （_PU 频率_NN 增加_VV ）_PU 。_PU 借着观察_VV 回_VV 波频_NN 率极_NN 强_VA 值_CC （_PU 实线_NR ）_PU 和_CC 无流_JJ 情况_NN 推算_VV 出来_VV 的_DEC 频率_NN 强_VA 值_NN 之间_LC 的_DEG 差距_NN ，_PU 来_MSP 推算_VV 出_VV 迳向_NN 上_LC 流速_NN （_PU 远离_VV 或_CC 靠近_VV 测站_NN 方向_NN 上_LC 的_DEG 流速_NN ）_PU 。_PU
+
+鲸豚_NN 的_DEC 研究_NN 常常_AD 仰赖_VV 着_AS 研究者_NN 现场_JJ 目视_NN 观察_NN ，_PU 由于_P 人力_NN 物力_NN 有限_VA ，_PU 只_AD 能_VV 在_P 小_JJ 范围_NN 内_LC ，_PU 海况_NN 佳_VA ，_PU 日间_NN 的_DEC 情况_NN 下来_VV 研究_VV 。_PU 鲸豚_NN 的_DEG 一_CD 大_JJ 习性_NN 是_VC 发声_VV ，_PU 透过_VV 被动_AD 地_DEV 监听_VV 鲸_NN 豚_NN ，_PU 研究者_NN 可以_VV 更_AD 进一步_JJ 的_DEG 来_NOI 研究_VV 。_PU 以_P 海豚_NN 的_DEC 声音_NN 为_VV 例_NN ，_PU 最_AD 粗浅_VA 地_DEV 看_VV 至少_AD 有_VE 两_CD 种_M ，_PU 即_AD click_NN 和_CC whistle_NN 。_PU 二_CD 种_M 声音_NN 从_P 时频图_NN 来_MSP 看是_VV 一_CD 目_M 了然_AD ，_PU 二_CD 种_M 在_P 时频_NN 图_NN 有_VE 截然_NN 不同_VA 的_DEC 特性_NN ，_PU click_NN 是_VC 短_JJ 时间_NN (_PU 50_CD -_PU 150_CD μs_M )_PU 宽带_NN 的_DEC 信号_NN (_PU 65_CD –_CC 100_CD kHz_NN )_PU ，_PU whistle_NN 是_VC 频率_NN 调变_VV 的_DEC 讯号_NN （_PU 2_CD –_CC 20_CD kHz_NN ）_PU 。_PU 一般来说_AD ，_PU click_NN 信号_NN 和_CC 海豚_NN 用来_VV 定位_VV 导航_NN ，_PU 猎食_NN 有关_VV ，_PU 而_CC whistle_NN 和_CC 海豚_NN 的_DEC 社交_NN ，_PU 沟通_VV 有关_VA 。_PU 也_AD 有_VE 可能_VV 同_DT 一_CD 时间_NN 发出_VV 两_CD 种_M 声音_NN 。_PU 这_DT 当_NN 中_LC 许多_CD 学问_NN ，_PU 包含_VV 各_DT 种_M 声音_NN 的_DEC 功能_NN ，_PU 发声_VV 的_DEC 机制_NN ，_PU 有_VE 待厘_NN 清_VA 。_PU
+
+资料_NN 的_DEG 压缩_NN 包含_VV 图像_NN 、_PU 影像_NN 及_CC 语音_NN 的_DEG 压缩_NN ，_PU 其中_NN 最_AD 广为_AD 利用_VV 的_DEC 时频_NN 分析_NN 方法_NN 应为_VV 小波_JJ 分析_NN 。_PU 以_P 影像_VV 来_MSP 说_VV ，_PU 是_VC 用_P 二维_JJ 离散_NN 的_DEC 小波_NN 转换_NN 进行_VV 压缩_NN ，_PU 图_NN 一_CD 为_VC 二维_JJ 离散_NN 小波_NN 转换_NN 的_DEC 结构图_NN ，_PU 所_MSP 得_VV 的_DEC 四_CD 个_M 结果分_NN 別_NN 为_VC 影像_NN 中_LC 的_DEG 低_NN 频_VV 及_CC 不同_JJ 范围_NN 的_DEC 高频_NN 成分_NN ，_PU formula_NN __NN 5_CD 8_CD 为_VC 影像_NN 中_LC 的_DEG 低_JJ 频_JJ 成分_NN ，_PU formula_NN __NN 59_CD 为_VC 水平_NN 方向_NN 的_DEG 边缘_NN ，_PU formula_NN __NN 60_CD 为_VC 垂直_JJ 方向_NN 的_DEG 边缘_NN ，_PU formula_NN __NN 61_CD 为_VC 图像_NN 中_LC 的_DEG 角落_NN 。_PU 而_MSP 保留_VV 低_VA 频_VV 成分_NN formula_NR 20_NOI 00_CD 为主_M 。_PU
+台湾_NN 的_DEC 第二_OD 颗_M 卫星_NN F_CD ORMOSAT_VV -_PU 2_CD (_PU FS_NN -_PU 2_CD )_PU 是_VC 具_VV 高分_JJ 辨率_NN 的_DEG 遥感_NN 卫星_VV ，_PU 而_CC F_CD ORMOSAT_M -_PU 3(_CD FS_M -_PU 3_CD )_PU /_PU COSMIC_NN (Formosa3号_PU 卫星_NN ，_PU 气象_NN 、_PU 电离层_NN 和_CC 气候_NN 星座_NN 观测_NN 系统_NN ）_PU 包括_VV 6_CD 个_M 低_JJ 地球_NN 轨道_NN (_PU Low_NN -_PU Earth_NN -_PU Orbit_NN ,_PU LEO_NN )_PU 卫星_NN 是_VC 第一_OD 个_M 演示_VV 近_AD 实时_JJ 数值_NN 天气_NN 的_DEC 星座_NN ，_PU 使用_VV 来自_PN 全球_PN 定位_NN 系统_NN (_PU GlobalPositioningSystem_NN ,_PU GPS_NN )_PU 卫星_NN 的_DEC 无_VE 线电_NN 信号_NN 进行_VV 预测_NN (_PU N_CD umericalWeatherPrediction_NR ,_PU NWP_NR )_ETC 。_PU 资料_NN 中_LC 指出_VV ，_PU 卫星_NN 任务_NN 每天_AD 都_AD 会_VV 受到_VV 自动_AD 重_AD 配置_VV 命令_NN (_PU AutomaticReconfigurationOrder_NN ,_PU ARO)_NN 的_DEG 干扰_NN ，_PU F_CD S_CD -_PU 2_CD 记录_VV 着_AS 相当_JJ 多_CD ARO_NN 事件_NN ，_PU 另外_AD 在_P 另_DT 一_CD 颗_M FS_NN -_PU 3_CD 上_LC 也_AD 记录_VV 了_AS 许多_CD 计算机_NN 异常_JJ 事件_NN (_PU 卫星_NN 重启_VV 或_CC 重置_NN )_PU ，_PU 同时_AD 也_AD 有_VE 相关_JJ 纪录_NN 在_P FS-2_CD 上_LC 。_PU 而_CC 这些_DT ARO_NN 事件_NN 也_AD 大多_AD 归因_VV 於_P 发现_VV 这些_DT 异常_NN 当_NN 中_LC 有_VE 相当_JJ startrackerdata_NN 多_AD 应_VV 归因_VV 於_P 单_JJ 事件_NN 失败_NN (_PU SingleEventUpset_NN ,_PU SEU_NN )_NN ，_PU 也_AD 因此_AD 我们_PN 必须_VV 了解_VV 更多_CD SEU_NN 的_DEG 起因_NN 来_MSP 避免_VV ARO_NN 的_DEC 事件_NN 一_CD 再_AD 发生_VV 而_MSP 使_VV 卫星_NN 受到_VV 干扰_NN 。_PU 在_P 研究_NN 中_LC 发现_VV F_CD S_M -_PU 2_CD 的_DEG ARO_NN 和_CC 星体_NN 追踪仪_NN 数据_NN 的_DEG 遗失位_NN 元_NN (_PU LostBytes_NN ,_PU LB_NN )_PU 与_CC 太空_NN 天气_VV 成_VV 正向_NN 相关_VV ，_PU 而_CC 几_CD 个_M 太空_JJ 气象_NN 的_DEG 主要_JJ 参数_NN 正_AD 是_VC 影响_VV 卫星_NN 任务_NN 的_DEG 原因_NN :_PU 例如_AD 地球_NR 磁场_NN 的_DEG Kp_NN 指数_NN ，_PU 质子_NN 密度_NN ，_PU 电子_NN 密度_NN 和_CC 10_NN ._PU 7_CD cmradioflux_NN (_PU RF)_NN 。_PU 另外_AD 也_AD 发现_VV FS-3_CD 的_DEG 电脑_NN 重置_NN 也_AD 与_P 地球_DT 磁场_NN 的_DEG Kp_NN 指数_NN ，_PU 质子_NN 密度_NN ，_PU 10_CD ._PU 7_CD cmradioflux_M (_PU RF_M )_PU 和_CC X_NN 射线_NN 相关_NN 。_PU 因此_AD 若_CS 能_VV 使用_VV 时_LC 频_VV 分析_NN 当_NN 中_LC 的_DEG Hilbert_NN -_PU Huangtransfor_VV m_NN 和_CC 其他_DT 方法_NN 来_MSP 分析_VV 此_DT 非_JJ 线性_JJ 且_CC 不_AD 稳定_VA 的_DEC 太空_NN 数据_NN ，_PU 可以_VV 结合_VV 这些_DT 太空_NN 天气_NN 的_DEC 相关_JJ 参数_NN ，_PU 进而_AD 避免_VV SEU_CD 甚至_CC 其_PN 余ARO_NN 事件_NN 的_DEG 发生_NN 机率_NN ，_PU 也_AD 可_VV 使得_VV 卫星_NN 任务_NN 更为_AD 稳定_VA 。_PU
+
+三_CD 轴_NN 加速_AD 规_NN 可以_VV 用来_VV 判断_VV 一_CD 个_M 人_NN 的_DEG 活动_NN 、_PU 行动_VV ，_PU 如果_CS 可以_VV 利用_VV 三_CD 轴_NN 加速_AD 规加_VV 上_LC 时频_NN 分析_NN ，_PU 则_AD 可以_VV 分析_VV 一_CD 个_M 人_NN 的_DEG 活动_NN 行为_VV ，_PU 例如_AD 计步器_NN (_PU 跑_NN 或_CC 走_NN 的_DEC 活动_NN )_PU ，_PU 亦_AD 有_VE 人_NN 利用_VV 此_DT 方法_NN 分析_VV 得到_VV 帕金森_NN 氏_NN 症_NN 的_DEG 病人_NN 的_DEG 健康_NN 状态_NN 。_PU
+
+传统_NN 上_LC ，_PU 经济_NN 数据_NN 被_SB 视为_VV 不_AD 稳定_VA 且_CC 具_VV 嘈噪_NN 声号_NN 的_DEG 时间_NN 序列_NN 资讯_NN ，_PU 且_CC 被_LB 正统_JJ 理论_NN 认为_VV 是_VC 随机_JJ 程序_NN ，_PU 基本上_AD 不_AD 存在_VV 规律性_NN 。_PU 经济_PN 或_CC 金融_NN 资料_NN 属于_VV 时_LC 变_VV 的_DEC 资讯_NN ，_PU 而_CC 其_PN 在_P 此_DT 领域_NN 中_LC 大多_AD 使用_VV 统计_NN 方法_NN 做_VV 分析_VV ，_PU 例如_AD 自_VV 回归_NN 模型_NN (_PU AR)_NN ，_PU 经_P 济学_NN 家大_NN 多_AD 使用_VV 经验_NN 数据_NN 来_MSP 手动_VV 拟合人_NN 工线性_NN 模型_NN ，_PU 而_CC 此_DT 随机_NN 模型_NN 的_DEG 拟合_NN 通常_AD 只_AD 能_VV 计算_VV 均_VV 值_NN 和_CC 方差_NN ，_PU 对于_P 大量_CD 的_DEG 金融_NN 经_AD 济应_VV 用_VV 层面_NN 并_AD 不_AD 足够_VV 。_PU 因为_P 经济_PN 金融_VV 的_DEC 时序_NN 统计_VV 资料_NN 在_P 频域_NN 上_LC 是_VC 相对_AD 未_AD 开发_VV 的_DEC 领域_NN 。_PU 在_P 这_DT 种_M 情况_NN 下_LC ，_PU 其_PN 频谱_NN 资讯_NN 会_VV 随着_P 时间_NN 而_AD 一直_AD 改变_VV ，_PU 以_P 传统_VA 的_DEC 傅_NN 立_VV 叶_NN 转换_VV 是_VC 不足_JJ 以充_NN 分_NN 描述_VV 该_DT 资讯_NN 的_DEG 循环_NN 特性_NN ，_PU 因此_AD 后人_CC 研发_VV 了_AS 联合_VV 时_LC 频_VV 表示_VV 法_NN (_PU j_NN oi_M nttime_NR -_PU frequencyrepresentation_NN ,_PU JTFR_NN )_PU 来_MSP 克服_VV 这_DT 个_M 问题_NN ，_PU 因为_P 它_PN 能_VV 同时_AD 在_P 时域_NN 和_CC 频域_NN 表现_VV 其_PN 时间_NN 序列_NN 和_CC 做_VV 分析_NN 。_PU 使用_VV JTFA_NN ，_PU 我们_PN 不仅_AD 可以_VV 知道_VV 此_DT 信号_NN (_PU 资讯_NN )_PU 当中_NT 存在_VV 哪_DT 种_M 类型_NN 的_DEG 周期_NN ，_PU 而且_CC 知道_NN 它们_PN 何时_AD 发生_VV 以及_CC 持续_AD 多长_VV 时间_NN 。_PU 当_P 有_VE 持续一定_VV 时间_NN 的_DEC 周期集_NN 中_LC 在_P 联合_NN 时_LC 频域_NN 中_LC 时_LC ，_PU 随_P 机噪声_NN 趋_VV 於_P 均匀_VA 地_DEV 扩展_VV 到_VV 整_DT 个_M 时频_NN 平面_NN 。_PU 因此_AD ，_PU JTFA_NN 具有_VV 更_AD 高_VA 的_DEC 信噪比_NN (_PU SNR)_CD 。_PU 例如_AD 部分_NN 研究_NN 中_LC ，_PU 会_VV 在_P JTFA_NN 当_NN 中_LC 先_AD 用_P 加_NN 伯_NN 转换_NN (_PU Gabortransform)_NN 和_CC 短时傅_JJ 立叶_NN 转换_VV 两_CD 个_M 线性_JJ 模型_NN 分析_NN 原始_VA 的_DEC ISE_NN 资料_NN ，_PU 以及_CC 两_CD 个_M 二_CD 次_M 模型_NN (_PU 韦格_NN 纳_NN 分布_VV 和_CC Pagedistribution_NR )_PU 做_VV 时_LC 频_VV 分析_NN 。_PU 通过_P 特殊_AD 合成_VV 的_DEC 时间_NN 序列_NN 可以_VV 借此_AD 评估_VV 每_DT 个_M TFR_NN 在_P 检测_NN 和_CC 解码_NN 原始_NN ISE_NN 数据_NN 中_LC 可能_VV 存在_VV 的_DEC 特性_NN ，_PU 也_CC 可以_VV 对_P 它们_PN 的_DEG 趋势_NN 或是_CC 周期_NN 分量_NN 进行_VV 分析_NN 和_CC 计算_NN 。_PU 此_DT 方法_NN 可以_VV 大致_AD 模拟_VV 股票_NN 指数_NN 系列_NN (_PU 例如_AD 原始_JJ ISE_NN 系列_NN )_PU 的_DEG 模式_NN ，_PU 并_CC 以_P 此_PN 做为_VV 比较_VV 绩效_JJ 分析_NN 的_DEG 基準_NN 。_PU 接着_AD 比较_VV 不同_JJ 时频_NN 分析_NN 方法_NN 以_MSP 取_VV 最_AD 优_VA ，_PU 并_CC 再_AD 使用_VV 过去_NT 指数_NN 数据_NN 重复_VV 做_VV 分析_NN ，_PU 以_P 察看_NN 结果_NN 是否_AD 对从_VV 新兴_JJ 市场_NN 到成_VV 熟市场_NN 的_DEC 股票_NN 数据_NN 来源_LC 变化_NN 是否_AD 可靠_VA 。_PU 另外_AD 也_AD 可以_VV 使用_VV Hilbert_NN -_PU Huangtransform_NN ，_PU 不_AD 是先_AD 进行_VV 预白化_NN ，_PU 而是_CC 找到_VV 一_CD 条_M 平滑_VA 的_DEC 趋势_NN 曲线_NN 以_MSP 拟合_VV 经验_PN 数据_NN ，_PU 以便_AD 差值_VV 包含_VV 尽可能_AD 多_VA 的_DEC 有_VE 意义_NN 的_DEC 周期_NN ;_PU 尽管_CS 平滑_VV 曲线_NN 呈现_VV 长期_JJ 趋势_NN ，_PU 但_CC 差值_NN 可_VV 进一步_AD 用于_VV 分析_VV 短期_AD 行为_VV 。_PU 尽管_CS 频谱_VV 表明_VV 了_AS 残差_NN 所_MSP 包含_VV 的_DEC 频率_NN 成分_NN ，_PU 但_CC 它_PN 并_AD 不_AD 能_VV 告诉_VV 它们_PN 何时_AD 出现_VV 或_CC 持续_VV 多_AD 长_JJ 时间_NN 。_PU 因为_P 只_AD 有_VE 那些_DT 持续_VV 一_CD 定_M 时间_NN 的_DEG 频率_NN 才_AD 被_SB 认为_VV 是_VC 有_VE 意义_NN 的_DEC 周期_NN ，_PU 所以_AD 无法_AD 仅_AD 从_P 频谱_NN 上_LC 确定_VV 经济_NN 周期_NN 。_PU
+
+使用_VV JTFA_NN 或_CC 其余_DT 时频_NN 分析_NN 方法_NN 进行_VV 经济_NN 数据_NN 分析_NN 的_DEG 发展_NN 是_VC 指日_NN 可待_VV 的_DEC ，_PU 这_DT 种_M 发展_NN 趋势_NN 可以_VV 使_VV 金融界_NN 发生_VV 分析_NN 及_CC 预测_NN 上_LC 大_JJ 革命_NN 。_PU
+
+
+

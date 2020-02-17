@@ -1,0 +1,19 @@
+﻿_NN 零_CD 任偶_NN
+
+零_CD 任偶_VV （_PU nullor_NN ）_PU 是_VC 一_CD 种_M 理想_VA 的_DEC 二_CD 端口_NN 网络_NN ，_PU 输入端_NN 为_VC 零极子_NN ，_PU 输出端_NN 为_P 任意子_NN ，_PU 零_CD 任_VV 偶_PN 类似_VV 一_CD 个_M 理想_VA 的_DEC 放大器_NN ，_PU 其_PN 电压_NN 增益_VV 、_PU 电流_NN 增益_NN 、_PU 跨导_VV 增_VV 益_NN 和_CC 跨阻抗_NN （_PU transimpedance_NN ）_PU 增益_NN 都_AD 是_VC 无_VE 限大_NN 。_PU 其_PN 传输_NN 参数_NN 都_AD 为_VC 0_CD ，_PU 也就是说_AD ，_PU 其_PN 输入_NN -_PU 输出关_NN 系_NN 可以_VV 用以_VV 下_LC 的_DEG 矩阵_NN 方程式_NN 表示_VV 。_PU
+在_P 负回授_NN 电路_NN 中_LC ，_PU 零_CD 任偶_DT 输出端_NN 附近_VV 的_DEC 电路_NN 会_VV 调整_VV 其_PN 电压_NN 及_CC 电流_NN ，_PU 迫使_VV 零_CD 任_VV 偶_PN 输入端_NN 的_DEG 电压_NN 及_CC 电流_NN 为_VC 零_CD 。_PU 例如_AD 理想_VA 的_DEC 运算_NN 放大器_NN 就_AD 可以_VV 用_P 零_CD 任_VV 偶_PN 来_VV 建模_VV 。_PU 一般_AD 教科_VV 书_NN 中_LC 分析_VV 有_VE 理想_NN 运算_VV 放大器_NN 的_DEG 回授_NN 电路_NN ，_PU 就_AD 是_VC 利用_VV 零_CD 任_VV 偶_PN 的_DEG 数学_NN 条件_NN 来_MSP 分析_VV 运算_VV 放大器_NN 的_DEG 周边_NN 电路_NN 。_PU
+
+图_NN 1_CD 是_VC 有_VE 电压_NN 控制_VV 的_DEC 电流_NN 吸收_NN （_PU currentsink_NN ）_PU 电路_NN 。_PU 电流_NN 吸收_NN 电路_NN 不_AD 论输_VV 出_VV 电压_NN "_PU V_CD "_PU 的_DEG 大小_NN ，_PU 都_AD 要_VV 抽取_VV "_PU i_NN "_PU 的_DEG 电流_NN 。_PU 抽取_VV 电流_NN 可以_VV 由_P 输入_NN 电压_NN "_PU v_CC "_PU 来_MSP 控制_VV ，_PU 此_DT 处_NN 都_AD 要_VV 将_BA 运算_VV 放大器_NN 理_NN 想化_VV 为_VC 零_CD 任_VV 偶_PN ，_PU 再_AD 分析_VV 电流_NN 抽取_NN 电路_NN 。_PU
+
+由于_P 零_CD 任_M 偶_PN 输入_VV 侧_NN 零极子_NN 的_DEG 零电压_NN 特性_NN ，_PU 运算_VV 放大器_NN 输入_VV 侧_NN 的_DEG 电压_NN 差_NN 为_VC 零_CD 。_PU 因_P 此_PN 流经_VV 参考_NN 电阻_NN "_PU R_NN "_PU 的_DEG 电压_NN 是_VC 由_P "_PU v_CC "_PU 提供_VV ，_PU 其_PN 电流_NN 为_VC "_PU v_CC "_PU /_PU "_PU R_NN "_PU 。_PU 也_AD 因为_P 输入_VV 侧_NN 的_DEG 零_CD 电流_NN 特性_NN ，_PU 进入_VV 零_CD 任_VV 偶_PN 的_DEG 电流_NN 为_VC 零_CD 。_PU 根据_P 基尔_NN 霍夫_NN 电路_NN 定律_VV ，_PU 电晶体_NN 射极_NN 的_DEC 电流_NN 为_VC "_PU v_CC "_PU /"R"_PU 。_PU 根据_P 於_P 零_CD 任_VV 偶_PN 输出侧_NN 任意子_NN 的_DEG 特性_NN ，_PU 不论_AD 输出_VV 侧_NN 的_DEG 电压_NN 多_AD 大_VA ，_PU 零_CD 任_VV 偶_PN 输出侧_NN 可以_VV 提供_VV 相关_JJ 电路_NN 所_MSP 需_VV 的_DEC 电流_NN 。_PU 在_P 此_DT 例_NN 中_LC ，_PU 输出侧_NN 提供_VV 电晶体_NN 基极_NN 电流_NN "_PU i_NN "_PU 。_PU 对_P 电晶体_NN 应用_NN 基尔霍夫_NN 电路_NN 定律_VV ，_PU 可以_VV 得到_VV 通过_P "_PU R_OD "_PU 的_DEG 电流_NN 为_VC
+
+其中_NN "_PU i_NN "_PU 为_VC 双极性_JJ 电晶体_NN 的_DEC 基极_NN 电流_NN ，_PU 只_AD 要_VV 电晶_NN 体工_NN 作_VV 在_P 作用_NN 区_NN ，_PU "_PU i_NN "_PU 很_AD 小_VA ，_PU 可以_VV 忽略_VV 。_PU 因此_AD 根据_P 理想化_NN 零_CD 任_VV 偶_PN 的_DEG 特性_NN ，_PU 输出_VV 电流_NN 是_VC 受_VV 使用者_NN 输入_VV 的_DEC 电压_NN "_PU v_CC "_PU 及_CC 设计者_NN 选用_VV 的_DEC 参考_NN 电阻_NN "_PU R_NN "_PU 所_MSP 决定_VV 。_PU
+
+此_DT 电路_NN 中_LC 加入_VV 电晶体_NN 的_DEC 目的_NN 是_VC 减少_VV 运算_NN 放大器_NN 提供_VV 给_VV "_PU R_NN "_PU 的_DEG 电流_NN 。_PU 若_CS 没有_VE 电晶体_NN ，_PU 流过_VV "_PU R_NN "_PU 的_DEG 电流_NN 为_VC "_PU i_NN "_PU =_NN (_PU "_PU V_NN "_PU −_NN "_PU v_CC "_PU )_NN /_PU "_PU R_NN "_PU ，_PU 因此_AD "_PU i_NN "_PU 会_VV 受到_VV "_PU V_NN "_PU "_PU V_NN "_PU 的_DEG 影响_NN ，_PU 违背_VV 其_PN 电路_NN 设计_VV 的_DEC 目的_NN 。_PU 另_DT 一_CD 个_M 好处_AD 是_VC 运算_VV 放大器_NN 只_AD 需_VV 提供_VV 电晶体_NN 的_DEC 基极_NN 电流_NN ，_PU 一定_AD 会_VV 在_P 运算_NN 放大器_NN 的_DEG 电流_NN 驱动_NN 范围_NN 以内_LC 。_PU （_PU 另外_AD ，_PU 实际_PN 的_DEG 运算_NN 放大器_NN 有_VE 输出_NN 电流_NN 限制_NN ，_PU 和_CC 零_CD 任_VV 偶_PN 不同_JJ ）_PU
+
+接下来_AD 电流_NN 受到_NN "_PU V_NN "_PU 的_DEG 影响_NN 会_VV 受到_VV 尔利_NN 效应_NN ，_PU 会_VV 使_VV 电晶体_NN 的_DEC β会_NN 受到_VV 集极_JJ 基极_NN 电压_NN "_PU V_CD "_PU 的_DEG 影响_NN ，_PU 其_PN 关系_NN 是_VC β=_NR β_ETC (_PU 1_CD +_M "_PU V_NN "_PU /"V")_PU ，_PU 其中_NN "_PU V_NN "_PU 即_AD 为_P 尔利_NN 电压_NN 。_PU 根据_P 零_CD 任_VV 偶_PN 可以_VV 得到_VV 电流_NN 吸收_NN 电路_NN 的_DEG 输出阻_NN 抗_VV 为_VC "_PU R_NN "_PU =_NN "_PU r_NN "_PU (_PU β+_NN 1_CD )_PU +_NN "_PU R_NN "_PU ，_PU 其中_NN "_PU r_NN "_PU 为_VC 小_JJ 信号_NN 电晶体_NN 输出阻_NN 抗_NN ，_PU 为_VC "_PU r_NN "_PU =_NN (_PU "_PU V_NN "_PU +_NN "_PU V_NN "_PU )_NN /_PU "_PU i_NN "_PU 。_PU
+
+利用_VV 零任偶_NN 的_DEC 理想化_NN ，_PU 可以_VV 设计_VV 运算_VV 放大器_NN 周边_NN 的_DEG 电路_NN ，_PU 不_AD 过_VV 实务_NN 上_LC 要_VV 如何_AD 设计_VV 运算_VV 放大器_NN 才_AD 会_VV 使_VV 其_PN 行为_VV 像_P 零_CD 任_VV 偶_PN 一_CD 様_M ，_PU 仍_AD 有_VE 一些_CD 问题_NN 存在_VV 。_PU
+
+
+

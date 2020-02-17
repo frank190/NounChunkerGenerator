@@ -1,0 +1,8 @@
+﻿_NN 等_ETC 离子体_NN 物理学_NN
+
+等离子_NN 体物_NN 理学_NN 是_VC 研究_NN 等_ETC 离子体_NN 性质_NN 的_DEC 物理_NN 学分支_NN 。_PU 等离子体_NN 是_VC 物质_NN 的_DEC 第四_OD 态_M ，_PU 是_VC 由_P 电子_NN 、_PU 离子_NN 等_ETC 带_VV 电粒子_NN 及_CC 中性_JJ 粒子_NN 组成_VV 的_DEC 混合_JJ 气体_NN ，_PU 宏观_NN 上_LC 表现_VV 出准_NN 中性_LC ，_PU 即_AD 正负_JJ 离子_NN 的_DEG 数目_NN 基本_AD 相等_VV ，_PU 整体_NN 上_LC 呈_VV 现电_NN 中性_LC ，_PU 但_AD 在_P 小_JJ 尺度_NN 上_LC 具有_VV 明显_VA 的_DEC 电磁_NN 性质_NN 。_PU 等离子体_NN 还_AD 具有_VV 明显_VA 的_DEC 集体_NN 效应_NN ，_PU 带_VV 电粒子_NN 之间_LC 的_DEG 相互_JJ 作用_NN 是_VC 长程_JJ 库仑_NN 作用_NN ，_PU 单_CD 个_M 带电_JJ 粒子_NN 的_DEG 运动_NN 状态_NN 受到_VV 其它_DT 许多_CD 带_VV 电粒子_NN 的_DEG 影响_NN ，_PU 又_CC 可以_VV 产生_VV 电磁场_NN ，_PU 影响_VV 其它_DT 粒子_NN 的_DEG 运动_NN 。_PU 等离子体_NN 物理_NN 学_VV 目的_NN 是_VC 研究_VV 发生_VV 在_P 等离子体_NN 中_LC 的_DEG 一些_CD 基本_JJ 过程_NN ，_PU 包括_VV 等离子体_NN 的_DEG 运动_NN 、_PU 等离子体_NN 中_LC 的_DEG 波动_NN 现象_NN 、_PU 等离子体_NN 的_DEG 平衡_NN 和_CC 稳定性_NN 、_PU 碰撞_NN 与_CC 输运_NN 过程_NN 等等_ETC 。_PU 等离子_NN 体_NN 物理_NN 学_VV 具有_VV 广阔_VA 的_DEC 应用_NN 前景_NN ，_PU 包括_VV 受_VV 控核_NN 聚变_NN 、_PU 空间_NN 等_ETC 离子体_NN 、_PU 等离子体_NN 天体_NN 物理_NN 、_PU 低温_NN 等_ETC 离子体_NN 等等_ETC 。_PU
+
+等离子体_NN 物理_NN 学常_AD 用_VV 的_DEC 有_VE 单粒子_NN 轨道_NN 理论_VA 、_PU 磁流体_NN 力学_NN 、_PU 动理_NN 学理论_NN 三_CD 种_M 研究_NN 方法_NN 。_PU 单粒子_NN 轨道_NN 理论_NN 不_AD 考虑_VV 带_VV 电粒子_NN 对_P 电磁场_NN 的_DEG 作用_NN 以及_CC 粒子_NN 之间_LC 的_DEG 相互_JJ 作用_NN 。_PU 磁流体_NN 力学_NN 将_BA 等离子体_NN 作为_VV 导电_NN 流体_NN 处理_NN ，_PU 使用_VV 流体_NN 力学_NN 和_CC 麦克_NN 斯_DT 韦_NN 方程_NN 组描述_NN 。_PU 这_DT 种_M 方法_NN 只_AD 关_VV 注流_NN 体元_NN 的_DEG 平均_JJ 效果_NN ，_PU 因此_AD 是_VC 一_CD 种_M 近似_JJ 方法_NN 。_PU 动_VV 理学_NN 理论_NN 使用_VV 统计物_NN 理学_NN 的_DEC 方法_NN ，_PU 考虑_VV 粒子_NN 的_DEC 速度_NN 分布_VV 函数_NN 。_PU
+
+
+

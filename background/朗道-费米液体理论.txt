@@ -1,0 +1,8 @@
+﻿朗道_NN -_PU 费米_NN 液体_NN 理论_NN
+
+朗道_NN -_PU 费米_NN 液体_NN 理论_NN （_PU ）_PU 是_VC 描述_VV 足够_VA 低_VA 的_DEC 温度_NN 下_LC 大多数_CD 金属_NN 的_DEG 费米子_NN 相互_AD 作用_VV 的_DEC 一般_JJ 状态_NN 。_PU 此时_NT ，_PU 多体_NN 系统_NN 的_DEG 离子_NN 的_DEC 相互_JJ 作用_NN 不_AD 再_AD 小_VA 。_PU 唯_AD 像_P 理论_NR ——_PU 朗道_NN 费_NN 米液_NN 体理_NN 论_VV 在_P 1956_CD 年_M 由_P 苏联物_NN 理学_NN 家列夫_NN ·_PU 朗道_NN 提出_VV ，_PU 后_LC 又_AD 由_P 阿列克_NN 谢_NN ·_PU 阿列克_NN 谢_ETC 耶维奇_NN ·_PU 阿布_NR 里科索_NR 夫_NN 和_CC 用_VV 算_VV 图_NN 理论_CS 予以_VV 发展_NN 。_PU 此_DT 理论_NN 解释_VV 了_AS 为何_DT 费米子_NN 系统_NN 的_DEG 相互_JJ 作用_NN 一_CD 部分_NN 与_CC 费米_NN 气体_NN 理论_NN 相似_VA ，_PU 而_CC 又_AD 有_VE 所_MSP 不_AD 同_VV 。_PU
+
+其_PN 应用_VV 的_DEC 很_AD 有名_VA 的_DEC 例子_NN 如_P He_NN -_PU 3_CD 的_DEG 超流态_NN 。_PU
+
+
+

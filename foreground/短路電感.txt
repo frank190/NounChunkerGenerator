@@ -1,0 +1,21 @@
+﻿_CS 短路_NN 电感_NN
+
+短路_NN 电感_NN ，_PU （_PU 英文_NN :_PU "Short-circuitinductance"_PU ）_PU 是_VC ，_PU 变压器_NN 的_DEG 初级_JJ 线圈_NN 或_CC 次级_JJ 线圈_NN 的_DEG 其中_NN 一_CD 方_NN 使_VV 其_PN 短路_NN ，_PU 从_P 另_DT 一_CD 方_NN 测得_VV 的_DEC 电感_NN 。_PU 一般_AD 多_AD 称为_VV 漏电感_NN （_PU 或_CC 漏感_NN ）_PU 。_PU 但漏_JJ 电感_NN 的_DEC 用语_NN 在_P 电机_NN 电子_NN 工程_NN 师学_NN 会_VV 及_CC 相关_JJ 书籍_NN 中_LC ，_PU 指_VV 的_DEC 是_VC 初级_JJ 线圈_NN 或_CC 次级_JJ 线圈_NN 的_DEG 一_CD 方_NN 互为_AD 交链_NN (_PU magneticfluxlinkage_NN )_NN ，_PU 另_DT 一_CD 方_NN 的_DEG 线圈_NN 未_AD 交链_VV 的_DEC 磁通_NN （_PU 漏磁通_VV 或_CC 自_P 磁_NN 通_VV ）_PU 所_MSP 产生_VV 的_DEC 电感_NN ，_PU 短路_NN 电感_NN 成为_VV 惯用_VV 的_DEC 漏电感_NN 的_DEC 说法_NN ，_PU 故_AD 导致_VV 混乱_VV 。_PU
+
+例如_AD 根据_P 日本_NR 的_DEG JIS_NN ，_PU JISC_NN 6435_CD ，_PU 使_VV 变压器_NN 的_DEG 一方_JJ 线圈_NN 短路_NN ，_PU 借由_VV Bridge_NN 电路_NN 测量_VV 的_DEC 数值_NN 为_VC 漏电感_NN ，_PU 这_PN 并_AD 不_AD 称为_VV 短路_NN 电感_NN 。_PU 这_AD 是_VC 根据_P 工业_NN 会_VV 提出_VV 的_DEC 说法_NN ，_PU 因_P 漏电感_NN 已_AD 成为_VV 惯用_NN 语_NN ，_PU 所以_AD 多数_VA 的_DEC 同业_NN 工业_NN 会刊物_NN 中_LC 也_AD 当作_VV 是_VC 标準_NN 的_DEC 用语_NN 。_PU 另_DT 外漏_NN 电感_NN 也_AD 在_P 专利_NN 明_CC 细书_NN 中_LC 多_AD 被_SB 使用_VV ，_PU 而_CC 短路_NN 电感_NN 几乎_AD 未_AD 被_SB 使用_VV 。_PU 短路_NN 电感_NN 或_CC 漏电感_NN 一般_AD 多_AD 记载_VV 为_VC L_NN ，_PU 而_CC 根据_P JISC_NN 6435_CD ，_PU JISC_NN 5321_CD 则_AD 为_VC L_NN 。_PU 而_AD 为了_P 与_P 励激_NN 电感_NN 的_DEG Ls_NN 有所_VV 区分_NT ，_PU 所以_AD 记载_VV 为_VC L_NN 。_PU 再者_AD ，_PU 台湾_NN ，_PU 中国_NR ，_PU 德国_NR 则_AD 多_JJ 记载_NN 为_VC Kurzschlussinduktivit_NR ä_NN t_NN 的_DEG 缩写_NN L_NN ，_PU 英文_NN 则_AD 为_VC Short_NN -_PU circuitinductance_NN 的_DEG 缩写_NN L_NN 。_PU
+
+JISC_NN 5602_CD 中_LC 用语_VV 的_DEC 定义_NN ，_PU 则_AD 将_BA 短路_NN 电感_NN 与_CC 漏电感_NN 区分_NN 。_PU 漏_VV 电感_NN 与_CC 电机_NN 电子_NN 工程_NN 师学会_NN 及_CC 其_PN 他_PN 书籍_NN 的_DEC 定义_NN 相同_VA 。_PU 也就_AD 是_VC JISC_NN 6435_CD 与_CC JISC_NN 5602_CD 的_DEG 用语_NN 的_DEC 定义_NN 不同_VA 。_PU
+
+工业_NN 会_VV 的_DEC 漏电感_NN L_NN ，_PU L_NN 中_LC ，_PU 耦合_NN 系数_NN 为_VC k_NN ，_PU 初级_JJ 线圈_NN 的_DEG 自感_NN 为_VC L1_NN ，_PU 次级_JJ 线圈_NN 的_DEG 自感_NN 为_VC L2_NN ，_PU 则_AD
+
+该_DT 短路_NN 电感_NN 的_DEG 数值_NN 是_VC 确定_VV 谐振_NN 变压器_NN 中_LC 的_DEG 磁_NN 相位_NN 同步_AD 耦合_VV 的_DEC 谐振_NN 频率_NN 和_CC 无线_NN 电力_NN 传输_VV 的_DEC 重要_JJ 参数_NN 。_PU
+
+电机_NN 电子_NN 工程师_NN 学会_VV 的_DEC 用语_NN 中_LC 有_VE 短路阻_NN 抗_VV ，_PU 短路_NN 电抗_NN 等_ETC ，_PU 但_CC 无_VE 短路_NN 电感_NN 。_PU 漏电感_NN 的_DEC 用语_NN 在_P 电机_NN 电子_NN 工程_NN 师学会_NN 等_ETC 书籍_NN 中_LC 指_VV 的_DEC 是_VC 变压器_NN 或_CC 电动机_NN 的_DEG 用语_NN 。_PU 变压器_NN 的_DEC 互磁_JJ 通_NN (_PU 或_CC 主_JJ 磁束_NN )_NN （_PU Φ_NN 或_CC Φ_NN ）_PU 及_CC 漏_VV 磁通_NN 所_MSP 构成_VV 。_PU 仅_AD 在_P 初级_JJ 线圈_NN 交链_NN 的_DEC 磁通_NN 称为_VV 初级_NN 侧漏_NN 磁通Φ_NN ，_PU 仅_AD 在_P 次级_JJ 线圈_NN 交链_NN 的_DEC 磁通_NN 称为_VV 次级_NN 侧漏_NN 磁通Φ_NN ，_PU 两_CD 者_NN 的_DEG 漏磁_NN 通_VV 所_MSP 产生_VV 的_DEC 电感_NN ，_PU 初级_JJ 侧漏_NN 电感_NN 为_VC L_NN ，_PU 次级_NN 侧漏_NN 电感_NN 为_VC L_NN 。_PU 这_PN 与_P JISC_NN 5602_CD 记载_VV 的_DEC 漏电感_NN 一致_AD ，_PU 与_P JISC_NN 6435_OD 测量_NN 法_NN 中_LC 的_DEG 所_MSP 测得_VV 的_DEC 漏电_NN 感数值_NN 不_AD 一致_VA 。_PU
+
+电机_NN 电子_NN 工程_NN 师学会_NN 等_ETC 书籍_NN 中_LC 的_DEG 漏电感_NN L_NN ，_PU L_NN 中_LC ，_PU 耦合_NN 系数_NN 为_VC k_NN ，_PU 初级_JJ 线圈_NN 的_DEG 自感_NN 为_VC L_NN ，_PU 次级_JJ 线圈_NN 的_DEG 自感_NN 为_VC L_NN ，_PU 则_AD
+
+这_DT 个_M 定义_NN 的_DEC 漏电感_NN 与_P 短路_NN 电感_NN L_NN ，_PU L_NN 的_DEG 关系_NN 是_VC
+
+
+
+

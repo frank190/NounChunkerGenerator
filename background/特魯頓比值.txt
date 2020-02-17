@@ -1,0 +1,5 @@
+﻿特_NR 鲁顿_NN 比_P 值_NN
+
+特_AD 鲁_JJ 顿比值_NN 是_VC 一流_JJ 变学_NN 名词_NN ，_PU 是_VC 指_VV 和_P 剪切_NN 粘度_NN 的_DEG 比值_NN 。_PU 牛顿_NN 流体_NN 的_DEC 特鲁顿_NN 比_P 值_NN 是_VC 3_CD 。_PU
+
+

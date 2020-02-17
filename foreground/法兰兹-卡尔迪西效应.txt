@@ -1,0 +1,9 @@
+﻿法兰_NN 兹_VA -_PU 卡尔_NN 迪西_NN 效应_NN
+
+法兰兹_NN -_PU 卡尔_NN 迪西_NN 效应_NN （_PU ）_PU 是_VC 指_VV 在_P 强_NN 电场_NN （_PU 一般_AD 在_P 百伏_NN 电压_NN ）_PU 作用_NN 下_LC ，_PU 导致_VV 半导体_NN 吸收_VV 边_JJ 形状_NN 的_DEC 改变_NN ，_PU 及_CC 引起_VV 其_PN 折射率_NN 相应_JJ 变化_NN 的_DEC 现象_NN 。_PU 它_PN 是_VC 德国物_NN 理学_NN 家沃_NN 尔特_NN ·_PU 法兰兹_NN 和_CC 俄国_NN 物理_NN 学家_NN 莱奥_NN 尼_NN 德_NN ·_PU 卡尔_NN 迪西于_VV 1957_CD -_PU 1958_CD 年间_LC 先后_AD 独立_VV 发现_VV 的_DEC 。_PU 而_CC 以_P 他们_PN 二_CD 人_NN 的_DEG 名字_NN 命名_NN 。_PU
+
+卡尔_NN ·_PU 波尔_NN 最先_AD 观察_VV 到_VV 光_NN 的_DEG 吸收_NN 边_LC 随_P 电场_NN 大小_NN 而_MSP 改变_VV 。_PU 但_AD 自_P 法兰兹_NR 和_CC 卡尔迪西_NN 二_CD 人_NN 发现_VV 高_JJ 场下_NN 光_AD 吸收_VV 边_LC 改变_VV 的_DEC 现象_NN 后_LC ，_PU 则_AD 把_BA 半导体_NN 吸收_VV 边_LC 随_P 电场_NN 变化_VV 的_DEC 现象_NN 称为_VV 法兰_NN 兹_VA -_PU 卡尔_NN 迪西_NN 效应_NN 。_PU
+
+法兰兹_NN -_PU 卡尔_NN 迪西_NN 效应_NN 和_CC 量子阱_NN 的_DEC 斯_DT 托卡_NN 效应_NN 二_CD 者_NN 都_AD 可_VV 用作_VV 电_NN -_PU 吸收_NN 调制器_NN 。_PU 但_AD 用_P 法兰_NN 兹_VA -_PU 卡尔迪_NN 西_NN 效应_NN 制造_NN 调制器_NN 要求_NN 外加_VV 的_DEC 电压_NN 高_JJ 达_VV 百_CD 伏_M 量级_NN ，_PU 不_AD 适用于_VV 商业_NN 。_PU
+
+

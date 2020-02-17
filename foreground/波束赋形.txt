@@ -1,0 +1,12 @@
+﻿波束_NN 赋_NN 形_NN
+
+波束赋_NN 形_NN （_PU Beamforming_NN ）_PU 又_AD 叫_VV 波束_NN 成型_NN 、_PU 空域_NN 滤波_NN ，_PU 是_VC 一_CD 种_M 使用_VV 传感器_NN 阵列_NN 定向_AD 发送_VV 和_CC 接收_VV 信号_NN 的_DEC 信号_NN 处理_NN 技术_NN 。_PU 波束_NN 赋形_NN 技术_NN 通过_P 调整_VV 相位_NN 阵列_NN 的_DEG 基本_JJ 单元_NN 的_DEC 参数_NN ，_PU 使得_VV 某些_DT 角度_NN 的_DEC 信号_NN 获得_VV 相_AD 长_VA 干涉_VV ，_PU 而_CC 另_DT 一些_CD 角度_NN 的_DEC 信号_NN 获得_VV 相_CC 消干涉_VV 。_PU 波束赋形_VV 既_CC 可以_VV 用于_VV 信号_NN 发射端_NN ，_PU 又_CC 可以_VV 用于_VV 信号_NN 接收端_NN 。_PU
+
+在_P 发射端_NN ，_PU 波束_NN 赋形器_NN 控制_VV 每_DT 一_CD 个_M 发射_NN 装置_NN 的_DEG 相位_NN 和_CC 信号_NN 幅度_NN ，_PU 从而_AD 在_P 发射_VV 出_VV 的_DEC 信号_NN 波阵_NN 中_LC 获得_VV 需要_NN 相_AD 长_VA 和_CC 相消_JJ 干涉_NN 模式_NN 。_PU 在_P 接收端_NN ，_PU 不同_JJ 接收器_NN 接收_VV 到_VV 的_DEC 信号_NN 被_SB 以_P 一_CD 种_M 恰当_VA 的_DEC 方式_NN 组合_VV 起来_VV ，_PU 从而_AD 获得_VV 期盼_NN 中_LC 的_DEG 信号_NN 辐射_NN 模式_NN 。_PU
+
+以_P 水下_JJ 声纳_NN 发射_VV 为_VV 例_NN ，_PU 我们_PN 希望_VV 向_P 远处_VA 的_DEC 船只_NN 发送_VV 一_CD 束_M 集_NN 中_LC 尖锐_VV 的_DEC 声纳_NN 信号_NN 。_PU 如_P 果声_NN 纳_VV 发射_NN 装置_NN 的_DEG 每_DT 个_M 声纳_NN 发生器_NN 同时_AD 向_P 一_CD 艘_M 船发_NN 声纳_NN 信号_NN ，_PU 由于_P 远方_JJ 船只_NN 的_DEC 方位_NN 角度_NN ，_PU 有_VE 的_DEC 声_NN 纳_VV 发射器_NN 的_DEC 信号_NN 先_AD 到_VV 达船_NN 只_NN ，_PU 有_VE 的_DEC 声_NN 纳_VV 发射器_NN 的_DEC 信号_NN 后_LC 到_VV 达船_NN 只_AD ，_PU 无法_AD 做到_VV 让_VV 所有_DT 声纳_NN 信号_NN 发生器_NN 的_DEC 信号_NN 同时_AD 到达_VV 这_DT 条_M 船只_NN 。_PU 有_VE 了_AS 波束_NN 赋形_NN 技术_NN ，_PU 就_AD 可以_VV 调整_VV 不同_JJ 声纳_NN 发生器_NN 的_DEC 信号_NN 发射_VV 时间_NN （_PU 离_VV 船_NN 远_VA 的_DEC 先发_NN 信号_NN ，_PU 离_P 船近_NT 的_DEG 后发_NN 信号_NN ）_PU ，_PU 这样_AD ，_PU 所有_DT 的_DEG 声纳_NN 信号_NN 就_AD 能_VV 同时_AD 击中船只_VV ，_PU 获得_VV 一_CD 个_M 强大_VA 的_DEC 声纳_NN 脉冲_NN 信号_NN 击_NN 中_LC 船只_VV 的_DEC 效果_NN 。_PU
+
+在_P 被动式_JJ 声纳_NN 系统_NN 或者_CC 主动式_JJ 声纳_NN 的_DEG 接收端_NN ，_PU 波束_NN 赋形_NN 技术_NN 为_VC 不同_VA 的_DEC 水下_JJ 听音器_NN 收集_VV 到_VV 的_DEC 信号_NN 加上_VV 不同_VA 的_DEC 时延_NN （_PU 离开_VV 目标_NN 最近_VV 的_DEC 水下_NN 听音器_NN 加上_VV 最_AD 长_VA 的_DEC 时_NN 延_VV ）_PU ，_PU 这样_AD 就_AD 能_VV 同时_AD 听到_VV 所有_DT 水下_JJ 听音器_NN 的_DEC 声音_NN ，_PU 就_AD 像_P 声音_NN 是_VC 来自_VV 同_DT 一_CD 个_M 水下_JJ 听音器_NN ，_PU 从而_AD 获得_VV 最_AD 佳_VA 的_DEC 效果_NN 。_PU
+
+
+

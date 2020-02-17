@@ -1,0 +1,8 @@
+﻿分子_NN 储能_NN 方式_NN
+
+在_P 研究_VV 光谱_NN 的_DEG 结构_NN 时_LC ，_PU 我们_PN 先_AD 要_VV 了_AS 解分子_NN 的_DEG 储能_NN 方式_NN ，_PU 以_P 下_NOI 将_BA 对_P 分子_NN 的_DEC 各_DT 种_M 储存_NN 能量_VV 的_DEC 方式_NN 一一_CD 列出_VV ：_PU
+
+
+后_DT 三_CD 种_M 能量_NN 方式_NN 是_VC 量子化_NN 的_DEC 。_PU 电子_NN 跃迁_NN 能够_VV 产生_VV 线_NN 光谱_NN ，_PU 而_CC 附带_VV 着_AS 转动_VV 跃迁_NN 和_CC 振动_JJ 跃迁_NN 的_DEC 能量_NN ，_PU 从而_AD 产生_VV 复杂_VA 的_DEC 带状_JJ 结构_NN 。_PU
+
+

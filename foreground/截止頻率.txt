@@ -1,0 +1,34 @@
+﻿截_NN 止频率_NN
+
+在_P 物理学_NN 和_CC 电机_NN 工程学_NN 中_LC ，_PU 一_CD 个_M 系统_NN 的_DEG 输出_NN 信号_NN 的_DEC 能量_NN 通常_AD 随_P 输入_NN 信号_NN 的_DEG 频率_NN 发生_VV 变化_NN （_PU 频率_NN 响应_NN ）_PU 。_PU 截止_JJ 频率_NN （_PU ）_PU 是_VC 指_VV 一_CD 个_M 系统_NN 的_DEG 输出_NN 信号_NN 能量_NN 开始_VV 大幅_AD 下降_VV （_PU 在_P 带阻_VV 滤波器_NN 中_LC 为_VC 大幅_NN 上_LC 升_VV ）_PU 的_DEG 边界_NN 频率_NN 。_PU
+
+电子_NN 滤波器_NN 等_ETC 信号_NN 传输_VV 通道_NN 中_LC 的_DEG 诸如_AD 低通_VA 、_PU 高通_VA 、_PU 带通_VV 、_PU 带_VV 阻_NN 等_ETC 频带_NN 特性_NN 都_AD 应用_VV 了_AS 截止_VV 频率_NN 的_DEG 概念_NN 。_PU 截止_NN 频率_NN 有时_AD 被_SB 定义_VV 为_VC 电子_NN 滤波器_NN 的_DEC 导通频_NN 带_VV 和_CC 截止_VV 频带_NN 的_DEC 交点_NN ，_PU 例如_AD 电路_NN 标称_NN 输出_NN 信号_NN 减_VV 3_CD 分贝_M 的_DEC 位置_NN 的_DEG 频率_NN 。_PU 在_P 带_VV 阻_NN 滤波器_NN 中_LC ，_PU 截止_NN 频率_NN 则_AD 被_SB 定义_VV 在_P 输出_NN 信号_NN 能量_CD 大幅_NN 上_LC 升_VV （_PU 或_CC 大幅_AD 下降_VV ）_PU 、_PU 失去_VV “_PU 阻止_NN ”_PU （_PU 或_CC 失去_VV “_PU 通过_VV ”_PU ）_PU 信号_NN 效果_NN 的_DEC 位置_NN 。_PU 在_P 波导管_NN 或_CC 者天线_NN 的_DEG 例子_NN 中_LC ，_PU 截止_NN 频率_NN 通常_AD 包括_VV 上_JJ 限频率_NN 和_CC 下_JJ 限频_NN 率_NN 。_PU
+
+截止_VV 频率_NN 的_DEG 概念_NN 除了_P 在_P 电子_NN 工程_NN 有_VE 广泛_JJ 应用_NN ，_PU 截止_VV 频率_NN 的_DEG 概念_NN 还_AD 在_P 等离子_NN 区_NN 振荡_NN 中_LC 有_VE 所应_DT 用_VV 。_PU
+
+在_P 电子学_NN 中_LC ，_PU 截止_JJ 频率_NN 是_VC 电路_NN （_PU 例如_AD 导线_NN 、_PU 放大器_NN 、_PU 电子_NN 滤波器_NN ）_PU 输出_NN 信号_NN 功率_NN 超出_VV 或_CC 低于_VV 传导_VV 频率_NN 时_LC 输出_VV 信号_NN 功率_NN 的_DEG 频率_NN 。_PU 通常_AD 截止_VV 频率_NN 时_LC 输出_VV 功率_NN 为_VC 传导_VV 频率_NN 的_DEG 一半_CD ，_PU 在_P 波德_NN 图_NN 上_LC 相当于_VV 为_P 降低_VV 3_CD 分贝_M 的_DEC 位置_NN 所_MSP 表示_VV 的_DEC 功率_NN ，_PU 因为_P 此时_NT 功率_NN 比例_NN formula_NN
+
+右图_NN 所_MSP 示_VV 为_VC 一_CD 个_M 一_CD 阶_NN 的_DEC 低_JJ 通滤_NN 波器_NN 。_PU 它_PN 的_DEG 截止_NN 频率_NN 由_P 下式_NN 决定_VV ：_PU
+
+formula_NN
+
+当_P 信号_NN 频率_NN 低于_VV 这_DT 个_M 截止_NN 频率_NN 时_LC ，_PU 信号_NN 得以_VV 通过_VV ；_PU 当_P 信号_NN 频率_NN 高于_VV 这_DT 个_M 截止_NN 频率_NN 时_LC ，_PU 信号_NN 输出_NN 将_BA 被_SB 大幅_AD 衰减_VV 。_PU 这_DT 个_M 截止_NN 频率_NN 即_AD 被_SB 定义_VV 为_VC 通带_NN 和_CC 阻带_NN 的_DEC 界限_NN 。_PU
+
+右图_NN 所_MSP 示_VV 为_VC 一_CD 个_M 一_CD 阶_NN 的_DEC 高_JJ 通滤_NN 波器_NN 。_PU 它_PN 的_DEG 截止_NN 频率_NN 由_P 下式_NN 决定_VV ：_PU
+
+formula_NN
+
+当_P 信号_NN 频率_NN 高于_VV 这_DT 个_M 截止_NN 频率_NN 时_LC ，_PU 信号_NN 得以_VV 通过_VV ；_PU 当_P 信号_NN 频率_NN 低于_VV 这_DT 个_M 截止_NN 频率_NN 时_LC ，_PU 信号_NN 输出_NN 将_BA 被_SB 大幅_AD 衰减_VV 。_PU 这_DT 个_M 截止_NN 频率_NN 即_AD 被_SB 定义_VV 为_VC 通带_NN 和_CC 阻带_NN 的_DEC 界限_NN 。_PU
+
+右图_NN 所_MSP 示_VV 的_DEC 是_VC 一_CD 个_M 带通_VV 滤波器_NN 的_DEG 波德图_NN 。_PU 如_P 图_NN 所_MSP 示_VV ，_PU formula_NN __NN 4_CD 和_CC formula_NN __NN 5_CD 分别_AD 为_VC 低频_NN 、_PU 高频_NN 信号_NN 功率_NN 降低_VV 一半_CD 的_DEG 点_NN ，_PU 即_AD 上_JJ 下限_NN 截止_VV 频率_NN ，_PU 两_CD 个_M 截止_NN 频率_NN 中间_NN 的_DEG 频率_NN 范围_NN 称作_VV “_PU 通带_VV 宽度_NN ”_PU ，_PU 通带_NN 中心_NN 的_DEC 频率_NN formula_NN
+
+通带_NN 范围_NN 内_LC 频率_VV 的_DEC 信号_NN 可以_VV 通过_VV ，_PU 频率_NN 位于_VV 截止_NN 频率_NN 两_CD 侧_NN 的_DEG 信号_NN 则_AD 大幅_AD 衰减_VV 。_PU
+
+与_P 带通_VV 滤波器_NN 相反_VV ，_PU 带阻_VV 滤波器_NN 可以_VV 抑制_VV 、_PU 衰减_VV 指定_JJ 频率_NN 附近_NN 范围_NN 的_DEC 信号_NN ；_PU 而_CC 在_P 其他_DT 频率_NN 范围_NN 的_DEC 信号_NN 则_AD 可以_VV 顺利_AD 通过_VV 。_PU 右图_NN 是_VC 一_CD 个_M 带_VV 阻滤波器_NN 的_DEG 波德图_NN 。_PU
+
+当_P Q_NN 因子_NN 够_AD 大_VA 带_VV 阻_P 滤波器_NN 视为_VV 点滤波器_NN ，_PU 它_PN 的_DEG 阻带_NN 范围_NN 极_AD 小_VA
+与_P 带通_VV 滤波器_NN 有_VE 两_CD 个_M 截止_JJ 频率_NN 不同_VA 的_DEC 是_VC ，_PU 带_VV 阻_NN 滤波器_NN 只_AD 有_VE 一_CD 个_M 截止_NN 频率_NN （_PU 图_NN 中_LC 两_CD 条_M 凹线_NN 的_DEC 交点处_NN ）_PU 。_PU
+
+在_P 远程_JJ 通信_NN 中_LC ，_PU 截止_NN 频率_VV 这_DT 个_M 术语_NN 可以_VV 指_VV 信号_NN 传输_VV 在_P 经过_P 电离层_NN 、_PU 进而_AD 进行_VV 反射_NN 时_LC 所_MSP 必需_VV 的_DEC 频率_NN 。_PU
+
+

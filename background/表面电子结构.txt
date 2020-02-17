@@ -1,0 +1,6 @@
+﻿_JJ 表面_NN 电子_NN 结构_NN
+
+一般_AD 来说_VV ，_PU 电子_NN 的_DEC 波函数_NN 、_PU 电子态_NN 的_DEC 能量_NN 分布_VV 、_PU 以及_CC 电子_NN 能量_NN 与_CC 波矢_NN 的_DEC 关系_NN 称做_VV 电子_NN 结构_NN 。_PU 而_CC 表面_NN 电子_NN 结构_NN 则_AD 是_VC 研究_VV 固体_NN 表面_NN 对_P 电子_NN 结构_NN 的_DEG 影响_NN 。_PU
+这_PN 是_VC 表面物_NN 理学_NN 的_DEC 一_CD 个_M 很_AD 重要_VA 的_DEC 部份_NN ，_PU 像是_AD 固体_VV 的_DEC 电子_NN 发射_NN 、_PU 吸附_NN 和_CC 催化_NN 等_ETC 都_AD 与_P 表面_NN 电子_NN 结构_NN 有著_P 密切_VV 的_DEC 关连_NN 。_PU
+
+

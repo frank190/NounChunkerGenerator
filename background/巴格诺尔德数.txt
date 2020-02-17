@@ -1,0 +1,15 @@
+﻿巴格_NN 诺_NN 尔_NN 德数_NN
+
+巴格诺_NN 尔_NN 德数_NN （_PU ，_PU Ba_NN ）_PU 是_VC 在_P 间质_NN 性_NN 牛顿_NN 流体_NN 中_LC 的_DEG ，_PU 其_PN 碰撞_NN 应力_NN 和_CC 黏滞_NN 应力_NN 之间_LC 的_DEG 比_NN 值_NN ，_PU 最早_AD 是_VC 由_P 找到_NN 。_PU
+
+巴格诺_NN 尔_NN 德数_NN 定义_VV 如下_VV ：_PU
+
+其中_NN
+
+其中_NN
+
+流体_NN 的_DEC 巴格_NN 诺_NN 尔_NN 德数_NN 较_AD 小_VA （_PU Ba_NN <_PU 40_CD ）_PU 时_LC ，_PU 流体_NN 的_DEC 黏滞力_NN 大于_VV 颗粒_NN 的_DEG 碰撞_NN 应力_NN ，_PU 流体_NN 在_P 「_PU 巨_JJ 观黏性_NN 」_PU （_PU macro_NN -_PU v_CC iscous_NR ）_PU 状态_NN 。_PU 若_CS 巴格诺_NN 尔_NN 德数_NN 较_AD 大_VA （_PU Ba_NN >_PU 450_CD ）_PU 时_LC ，_PU 流体_NN 在_P 「_PU 颗粒_NN 应力_NN 」_PU （_PU grain_NN -_PU inertia_NN ）_PU 状态_NN 。_PU 在_P 这_DT 两_CD 个_M 状态_NN 之间_LC 有_VE 临界_NN 状态_NN 。_PU
+
+
+
+

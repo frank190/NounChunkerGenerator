@@ -1,0 +1,16 @@
+﻿单_VV 一UN_CD IX_M 规范_NN
+
+单一_JJ UNIX_NN 规范_NN （_PU ，_PU 缩写_VV 为_VC ）_PU ，_PU 它_PN 是_VC 一_CD 套_M UNIX_NN 系统_NN 的_DEC 统一规_JJ 格书_NN 。_PU 扩充_VV 了_AS POSIX_NN 标準_NN ，_PU 定义_VV 了_AS 标準_NN UNIX_NN 操作_NN 系统_NN 。_PU 由_P IEEE_NN 与_CC TheOpenGroup_NN 所_MSP 提出_VV ，_PU 目前_NT 由_P AustinGroup_NN 负责_NN 维持_NN 。_PU
+
+在_P 1980_CD 年代_NN 中_LC ，_PU 开始_VV 有_VE 人_NN 提出_VV 计划_VV ，_PU 想要_VV 统_VV 一_CD 不同_JJ Unix_NN 操作_NN 系统_NN 的_DEC -_PU {zh_NN -_PU cn_NN :_PU 接口_NN ;_PU zh_NN -_PU tw_NN :_PU 介面_NN }_PU -_PU 。_PU
+
+1988_CD 年_M ，_PU 这些_DT 标準_NN 被_SB 汇整_VV 为_VC IEEE1003_NN （_PU ISO_NN /_PU IEC_NN 9945_CD ）_PU ，_PU 也就_AD 是_VC POSIX_NN 。_PU
+
+共通_JJ 应用_NN 程式_NN 介面_NN 规格_NN （_PU CommonAPISpecification_NN ）_PU ，_PU 又_AD 称为_VV Spec_JJ 1170_NN 。_PU
+
+单一_JJ UNIX_NN 规范_NN 第二_OD 版_M （_PU SingleUNIXSpecificationversion2_NN ）_PU 。_PU
+
+
+
+
+

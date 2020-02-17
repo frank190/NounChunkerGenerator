@@ -1,0 +1,8 @@
+﻿居量_NN 反转_NN
+
+居量_NN 反转_NN （_PU ）_PU ，_PU 又_CC 译为_VV 群数_NN 反转_NN 、_PU 密数_JJ 反转_NN 、_PU 粒子_NN 数_NN 反转_NN 、_PU 反转_AD 分布_VV ，_PU 为_VC 一_CD 个_M 物理学_NN 名词_NN ，_PU 在_P 统计_NN 力学_NN 中_LC 经常_AD 被_SB 使用_VV 。_PU 居量反转_VV 即_AD 在_P 一_CD 个_M 系统_NN （_PU 例如_AD 一_CD 群_M 原子_NN 或_CC 分子_NN ）_PU 中_LC ，_PU 处_NN 在_P 激发_NN 状态_NN 的_DEC 成员_NN 数量_NN 比_NN 起_VV 处_NN 於_VV 较_AD 低_VA 能阶_NN 状态_NN 的_DEC 成员_NN 更_AD 多_VA 。_PU 让标_NN 準_NN 雷射_VV 进入_VV 能够_VV 运作_VV 的_DEC 状态_NN 的_DEC 过程_NN 中_LC ，_PU 产生_VV 居量_NN 反转_VV 是_VC 一_CD 个_M 必要_VA 的_DEC 步骤_NN ，_PU 因此_AD 在_P 雷射_NN 科学_NN 中_LC ，_PU 居量_NN 反转_NN 是_VC 很_AD 重要_VA 的_DEC 研究_NN 主题_NN 之一_LC 。_PU 值得_VV 注意_NN 的_DEC 是_VC 居量_NN 反转_VV 不_AD 可能_VV 是_VC 热_VA 平衡_VA 的_DEC 稳态_JJ 解_NN ，_PU 如_P 二_CD 能_VV 阶_NN 系统_NN 中_LC ，_PU 温度_NN 极_AD 高_VA 或_CC 外场_NN 极_AD 大_VA 时_LC 的_DEG 平衡态_NN 也_AD 只_AD 允许_VV 激发_VV 态_NN 与_P 基_NN 态粒子_NN 数目_NN 相_NN 等_ETC 。_PU
+
+在_P 一_CD 个_M 二级_NN 系统_NN 中_LC ，_PU 一_CD 个_M 电子_NN 自低_NN 能级_NN 向_P 高能_JJ 级跃迁_NN 和_CC 自_P 高_JJ 能级_NN 向_P 低能_JJ 级跃迁_NN 的_DEG 概率_NN 是_VC 一样_VA 的_DEC 。_PU 为了_P 达到_VV 光_NN 放大_NN 的_DEC 作用_NN ，_PU 在_P 高能级_NN 必须_VV 有_VE 更_AD 多_VA 的_DEC 电子_NN ，_PU 使得_VV 受_VV 激_JJ 辐射_NN 发生_VV 的_DEC 概率_NN 更_AD 高_VA 。_PU 这_DT 个_M 状态_NN 称为_VV 居量_NN 反转_VV 。_PU 出于_VV 这_DT 个_M 原因_NN ，_PU 所以_AD 以_P 光子_NN 激发_VV 的_DEC 二_CD 级_M 系统_NN 是_VC 无法_AD 实现_VV 激光_VA 的_DEC ，_PU 所以_AD 激光_VV 一般_AD 是_VC 以_P 通过_P 三_CD 级_M 系统_NN 和_CC 四级_NN 系统_NN 得到_VV 实现_VV 。_PU 在_P 三级_NN 系统_NN 中_LC ，_PU 电子_NN 受激_NN 跃迁_VV 到_VV 高能级_NN 后_LC ，_PU 便_AD 很_AD 快转_VV 为_VC 亚稳态_NN 。_PU 由_P 此_DT 激光_JJ 媒介_NN 被_SB 激发_VV 为_VC 高_JJ 能态_NN ，_PU 占据_VV 逆转_NN 得到_VV 实现_VV 。_PU 在_P 四_CD 能_VV 级_P 系统_NN 中_LC ，_PU 由于_P 基态_JJ 最初_JJ 没有_JJ 电子_NN ，_PU 粒子_NN 数_NN 反转_VV 更_AD 易_AD 实现_VV 。_PU
+
+
+

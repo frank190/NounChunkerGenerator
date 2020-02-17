@@ -1,0 +1,9 @@
+﻿生物物_NN 理学_NN
+
+生物物_NN 理学_NN （_PU ）_PU 是_VC 生物学_NN 和_CC 物理学_NN 的_DEC 交叉_NN 学科_VV ，_PU 研究_VV 生物_NN 的_DEC 物理_NN 特性_NN 。_PU 生物_NN 物理_NN 涵盖_VV 各_DT 级_M 生物_NN 组织_NN ，_PU 从_P 分子_NN 尺度_NN 到_VV 整_DT 个_M 生物体_NN 和_CC 生态_NN 系统_NN 。_PU 它_PN 的_DEG 研究_NN 范围_NN 有时_AD 会_VV 与_P 生理学_NN 、_PU 生物_NN 化学_NN 、_PU 纳米_NN 技术_NN 、_PU 生物_NN 工程_NN 、_PU 农业_NN 物理学_NN 、_PU 细胞_NN 生物学_NN 和_CC 系统_NN 生物学_NN 有_VE 显著_VA 的_DEV 重叠_VV 。_PU 它_PN 被_SB 认为_VV 是_VC 生物学_NN 和_CC 物理学_NN 之间_LC 的_DEG 桥梁_NN 。_PU 物理学_NN 和_CC 生物_NN 学_VV 在_P 两_CD 方面_NN 有_VE 联系_VV ：_PU 一_CD 方面_NN ，_PU 生物_NN 为_VC 物理_NN 提供_VV 了_AS 具有_VV 物理_NN 性质_VA 的_DEC 生物_NN 系统_NN ，_PU 另_DT 一_CD 方面_NN ，_PU 物理_NN 为生物_NN 提供_VV 了_AS 解决_VV 问题_NN 的_DEC 工具_NN 。_PU
+
+生物物_NN 理学_NN 包括_VV ：_PU
+
+
+
+

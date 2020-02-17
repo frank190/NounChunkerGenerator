@@ -1,0 +1,37 @@
+﻿剪辑_NN
+
+剪辑_NN （_PU 又_AD 称_VV -_PU {zh_NN -_PU cn_NN :_PU 剪接_NN ;_PU zh_NN -_PU tw_NN :_PU 剪接_NN ;_PU zh_NN -_PU hk_NN :_PU 剪辑_NN ;_PU }_NN -_PU ）_PU 是_VC 在_P 电影_NN 、_PU 录影带_NN 、_PU 电视节_NN 目等_NN ，_PU 对_P 视讯_NN 、_PU 音讯_NN 做_VV 剪接_NN 编辑_VV 的_DEC 工作_NN 。_PU 储存_VV 媒体_NN 有_VE 光学_NN 底片_NN 、_PU 磁性_NN 的_DEC 录影机_NN 等_ETC 。_PU
+
+在_P 所有_DT 材料_NN 录制_VV 完成_VV 后_LC ，_PU 进行_VV 整理_VA 、_PU 拣去_NN 失败_VV 与_CC 不_AD 使用_VV 的_DEC 纪录_NN 内容_NN ，_PU 大致_AD 裁出_VV 节目_NN 需要_VV 的_DEC 影像_JJ 部分_NN （_PU 称为粗剪_VV ）_PU 。_PU 这_DT 个_M 阶段_NN 并_AD 不_AD 对影像_VV 特別_JJ 加工_NN ，_PU 只是_AD 挑选_VV 汇整_DT 内容_NN 而已_LC 。_PU
+
+其次_AD 将_BA 选出_VV 的_DEC 材料_NN 依照_AD 节目_VV 的_DEC 制作_NN 概念_NN 衔接_NN 内容_NN 。_PU 此时_NT 会_VV 调整_VV 材料_NN 状态_NN 、_PU 加入_VV 特效_VA 、_PU 转场_NN 效果_NN 等_ETC 。_PU 视需_NN 要会_VV 文字_NR 标题_NN 、_PU 解说_NN 。_PU
+
+影像剪_AD 辑完_VV 后_LC ，_PU 配合_VV 内容_NN 加入_VV 声音_NN 。_PU 包含_VV 背景_NN 音乐_NN 、_PU 效果音_NN 、_PU 录音_NN 好_VA 的_DEC 台词_NN 等_ETC 。_PU
+
+经过_P 各_DT 种_M 作业_NN ，_PU 得到_VV 制作人_NN 或_CC 导演_VV 的_DEC 许可_VV 后_LC ，_PU 将_BA 内容_NN 收录_VV 至_CC 储存_VV 媒体_NN 上_LC 才_AD 算_VV 完成_VV （_PU 电视_NN 播放_VV 会_VV 使用_VV D_NN 2_NN 等_ETC 规格_NN 的_DEG 影带_NN 。_PU 这_DT 个_M 制作_NN 工程_NN 通常_AD 会_VV 利用_VV 电视台_NN 之外_LC ，_PU 后期_NN 制作_VV 专门_NN 业者_NN 的_DEG 出租_JJ 剪辑_NN 工作室_NN 来_MSP 进行_VV 。_PU
+
+动画_AD 在_P 制作_NN 流程_NN 上_LC 和_CC 电影_NN 有_VE 所_MSP 区_VV 別_NN ，_PU 动画_VV 的_DEC 镜头_NN 都_AD 是_VC 按照_P 事前_NT 的_DEG 分镜剧_NN 本_AD 制作_VV 的_DEC ，_PU 所以_AD 后期_NN 剪辑_NN 工作_NN 很少_AD 会_VV 推翻_VV 原定_JJ 的_DEG 分_NN 镜_NN 顺序_VV ，_PU 所以_AD 剪辑_NN 的_DEC 主要_JJ 目的_NN 对_P 已_AD 完成_VV 的_DEC 镜头_NN 进行_VV 取舍_NN ，_PU 并_CC 保证_VV 镜头_NN 之间_LC 的_DEG 衔接_NN 自然_PN 。_PU
+
+一般_AD 称之_VV 为_VC 传统_JJ 剪辑_NN ，_PU 透过_VV 剪接机_NN 进行_VV 剪辑_NN 。_PU
+
+传统_NN 「_PU Betacam_NN 剪辑_NN 」_PU 与_CC 「_PU Digital_JJ Betacam_NN 剪辑_NN 」_PU ，_PU 即是_NN 「_PU 线性_JJ 剪辑_NN 」_PU 。_PU
+影像_NT 剪辑_NN 采顺_VV 序剪接_NN 步骤_NN 制作_VV 完成_VV ，_PU 作业_VV 时_LC 须_VV pre_NN __NN roll_NN 和_CC postBETACAM_NN 剪辑_NN 。_PU
+线性_JJ 剪辑_NN 有_VE 2_CD 台_M VTR_NN ，_PU 可能_VV 是_VC VHS_NN 或_CC 是_VC DV_NN ，_PU 广播_VV 等级_JJ 则是_NN BETACAM_NN 或_CC DIGITALBETACAM_NN ，_PU 将_BA VTR_NN -_PU A_NN 带子_NN 中_LC 的_DEG 内容_NN ，_PU 选择_VV 你_PN 所_MSP 需要_VV 的_DEC ，_PU 再_AD COPY_NN 至_CC VTR_NN -_PU B_NN ，_PU 以_P 此_PN 类推_VV ，_PU 最后_AD VTR_NN -_PU B_NN 的_DEG 带子_NN 中_LC 就_AD 为_VC 所_MSP 需_VV 要画面_NN 。_PU
+A_NN /_PU BROLL_NN 剪辑_NN 则_AD 为_VC 有_VE 三_CD 台_M VTR_NN ，_PU 两_CD 台_NN 是_VC 画面_NN 来源_LC ，_PU 中间_NN 经由_P 效果_NN 器_NN 可_VV 制作_VV 许多_CD 转场_NN 效果_NN ，_PU 最后_AD 再_AD 录至_VV 到_VV VTR_NN 中_LC 。_PU
+
+一般称之_AD 为_P 电脑_NN 剪辑_NN ，_PU 透过_VV 电脑_NN 进行_VV 剪辑_NN 。_PU
+
+BeeCut_NN 是_VC 一_CD 款_NN 功能_NN 丰富_VV 操作_NN 简单_VA ，_PU 支援_VV 在_P win_NN 、_PU mac_NN 、_PU iOS_NN 和_CC android_NN 上_LC 使用_VV ，_PU 适合_JJ 影片_NN 剪辑_NN 初学者_NN 的_DEG 视讯_NN 剪辑_NN 工具_NN 。_PU
+
+AdobePremiere_NN 是_VC 一款_JJ 大_JJ 师级別_NN windows_NN 端影片_NN 剪辑_NN 软体_NN ，_PU 对_P 电脑_NN 配置_NN 要求_NN 颇_AD 高_VA 。_PU
+
+OpenShot_NN 是_VC 一_CD 款_M 简单_VA 易_AD 用_VV 的_DEC 影片_NN 剪辑_NN 工具_NN ，_PU 支援_VV Linux_NN 、_PU Mac_NN 和_CC Windows_NN 。_PU
+
+F_CD inalCutPro_VV 是_VC Mac_NN 电脑_NN 特有_VA 的_DEC 影片_NN 剪辑_NN 工具_NN ，_PU 操作_NN 流畅_NN 功能_NN 强大_VA 。_PU
+
+PowerDirector_NN 是_VC 一_CD 款_NN 入_VV 门剪_NN 辑软体_NN ，_PU 易于_VV 上手_NR 。_PU
+
+两_CD 个_M 镜头_NN 之间_LC 剪辑_VV ，_PU 有_VE 以下_JJ 几_CD 种_M 手法_NN ：_PU
+
+
+

@@ -1,0 +1,10 @@
+﻿软件_NN 质量_NN 保证_NN
+
+软件_NN 质量_NN 保证_NN （_PU ，_PU 缩写_VV S_CD QA_M ）_PU 是_VC 监控_VV 软件_NN 工程_NN 流程_NN 和_CC 方法_NN 以_MSP 确保_VV 质量_NN 的_DEG 一系_JJ 列手段_NN 。_PU 实现_VV 这_DT 一_CD 目_NN 的_DEG 有着_P 多_CD 种_M 方法_NN ，_PU 并且_CC 可以_VV 确保_VV 符合_VV 一_CD 个_M 或_CC 多_CD 个_M 标准_NN ，_PU 例如_AD ISO9000_NN ，_PU 或者_CC CMMI_NN 等_ETC 模型_NN 。_PU
+
+SQA_CD 涵盖_NN 软件_NN 开发_VV 的_DEC 整_DT 个_M 流程_NN ，_PU 包括_VV 如_P ：_PU 需求_NN 定义_VV 、_PU 软件_NN 设计_NN 、_PU 编写_VV 代码_NN 、_PU 版本_JJ 控制_NN 、_PU 代码_NN 审查_NN 、_PU 软件_NN 配置_VV 管理_NN 、_PU 软件_NN 测试_NN 、_PU 发布_NN 管理_NN 、_PU 产品_NN 集成_NN 等_ETC 。_PU SQA_NN 主要_JJ 内容_NN 为_VC 目标_NN 、_PU 承诺_VV 、_PU 能力_VV 、_PU 活动_VV 、_PU 测量_NN 和_CC 验证_NN 。_PU
+
+
+
+
+

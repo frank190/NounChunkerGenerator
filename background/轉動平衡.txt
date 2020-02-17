@@ -1,0 +1,9 @@
+﻿_CS 转动_VV 平衡_NN
+
+转动_VV 平衡_NN 是_VC 指_VV 一_CD 物体_NN 受到_VV 多力_NN 作用_NN 而_CC (_PU 不_AD 会_VV )_PU 抑或_VV (_PU 均匀_VA )_PU 转动_VV 。_PU 若_CS 外力_NN 对_P 物体_NN 上_LC 任何_DT 一_CD 点_M 所_MSP 产生_VV 的_DEC 合力矩_NN 均_AD 为_VC 0_CD 时_LC ，_PU 此_DT 物体_NN 将_BA (_PU 不_AD 会_VV )_PU 抑或_VV (_PU 均匀_VA )_PU 转动_VV ，_PU 我们_PN 称_VV 其_PN 为_P 转动_VV 平衡_VV ，_PU 但_CC 物体_NN 有_VE 可能_VV 存在_VV 加速度_NN ，_PU 因为_P 当_P 物体_NN 处_NN 於_P 转动_NN 平衡_VV 时_LC ，_PU 未必_AD 会_VV 处_NN 於_P 平移_NN 平衡_VA 。_PU
+
+对于_P 一_CD 个_M 平面_NN 上_LC 的_DEG 力_NN 系统_NN 来说_LC ，_PU 只_AD 要顺_VV 时_LC 针力矩_NN 和_CC 逆时针力_JJ 矩合力_NN 为_VC 0_CD ，_PU 即_AD 可_VV 达到_VV 转动_VV 平衡_NN 。_PU
+
+若_CS 一_CD 物体_NN 已_AD 达_VV 静力_NN 平衡_NN ，_PU 必_AD 会_VV 达到_VV 转动_VV 平衡_NN 。_PU PS_NN :_PU 均匀_AD 转动_VV 为_VC 角_JJ 速度_NN 守_VV 恒_NN
+
+

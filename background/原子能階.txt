@@ -1,0 +1,8 @@
+﻿_NN 原子_NN 能阶_NN
+
+电子_NN 在_P 原子_NN 周围_NN 形成_VV 一_CD 轨道_NN 称为_VV 原子_NN 能阶_NN ，_PU 由_P 低_JJ 至_CC 高_JJ 分別_NN 为_VC K_NN 层_NN 、_PU L_NN 层_NN 、_PU M_NN 层_NN 、_PU N_NN 层_NN 、_PU O_NN 层_NN 、_PU P_NN 层_NN 。_PU
+每_DT 层_M 电子_NN 数量_NN 为_VC 2n^2_NN （_PU 2_CD *_PU n_NN 的_DEG 平方_NN ）_PU ，_PU K_NN 层_CC n_NN 为_VC 1_CD 、_PU L_NN 层_NN n_CD 为_VC 2_CD …_PU …_PU 如_P 此_DT 递增_NN 。_PU
+
+K_NN 层_NN 最_AD 接近_VV 原子核_NN 并_CC 能_VV 阶最_NN 低_VA ，_PU 越_AD 外层_NN 能_VV 阶_DER 越_AD 高_VA 。_PU
+
+

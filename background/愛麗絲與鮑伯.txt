@@ -1,0 +1,9 @@
+﻿爱_NN 丽丝_NN 与_CC 鲍伯_JJ
+
+爱丽丝_NN （_PU Alice_NN ）_PU 与_P 鲍伯_JJ （_PU Bob_NN ）_PU 是_VC 广泛_VA 地_DEV 代入_VV 密码_NN 学和物_NN 理学_NN 领域_NN 的_DEG 通用_JJ 角色_NN 。_PU 除了_P 爱丽丝_NN 和_CC 鲍伯_OD ，_PU 还_AD 有_VE 其他_DT 相关_JJ 角色_NN 。_PU 这些_DT 名称_NN 是_VC 为了_P 方便_VV 说明_NN 议题_NN ，_PU 如果_CS 句子_NN 类似_NN 「_PU 甲想_NN 传送_VV 讯息_NN 给_VV 乙_CD 」_PU ，_PU 当_P 议题_NN 变得_VV 越_AD 复杂_VA ，_PU 将_AD 越_AD 难_AD 理解_VV 及_CC 容易_AD 混乱_VV 。_PU 在_P 密码学_NN 和_CC 电脑_NN 安全_NN 中_LC ，_PU 存在_VV 很_AD 多_VA 这_DT 一_CD 系列_NN 的_DEG 惯用_JJ 角色_NN 名称_NN ，_PU 通常_AD 是_VC 用作_VV 代表_VV 一些_CD 领域_NN 。_PU 而_CC 在_P 典型_VA 的_DEC 协议_NN 执行_NN 中_LC ，_PU 这些_DT 人物_NN 不_AD 一定_AD 是_VC 一_CD 个_M 「_PU 人类_NN 」_PU ，_PU 而_CC 可能_VV 是_VC 一_CD 个_M 可_VV 信赖_VV 的_DEC 自动式_JJ 代理人_NN （_PU 如_P 电脑_NN 程序_NN ）_PU 。_PU 使用_VV 这些_DT 名称_NN 有助_AD 说明_VV 的_DEC 结构_NN ，_PU 有时_AD 也_AD 会_VV 用作_VV 幽默_NN 。_PU
+
+以下_AD 列表_VV 出自_VV 布_JJ 鲁斯_NN ·_PU 施奈_VV 尔_P 所_MSP 著_VV 的_DEC 《_PU 应用_VV 密码学_NN 》_PU （_PU AppliedCryptography_NN ）_PU 。_PU 爱丽丝_NN 和_CC 鲍伯_JJ 在_P 密码学_NN 中_LC 是_VC 最_AD 基本_JJ 的_DEG 两_CD 位_M 代用人物_NN ，_PU 其次_AD 是_VC 伊夫_NN （_PU Eve_NN ）_PU 。_PU 头_NN 一_CD 个_M 英文_NN 字母_NN 越_AD 接近_VV z_NN ，_PU 该_DT 角色_NN 的_DEG 使用率_NN 相对上_P 也_AD 越低_VV 。_PU 该_DT 些名_NN 称由_VV 出版_NN 於_P 1977年_NT 4月_NT 4日_NT ，_PU 於_P 同年_NT 9月_NT 1日_NT 修订_VV 的_DEC 《_PU 取得_VV 数码_NN 簽署_NN 及_CC 公钥_NN 的_DEC 密码_NN 系统_NN 的_DEC 方法_NN 》_PU （_PU AMethodforObtainingDigitalSignaturesandPublic_NN -_PU KeyCryptosystems_NN ）_PU 中_LC 开始_VV 使用_VV 。_PU 在_P 1978_CD 年_M ，_PU 罗纳尔_NN 多_VA ·_PU 里弗_NN 斯_NN 特_AD （_PU RonRivest_NN ）_PU 使用于_VV 一_CD 篇_M 文章_NN 《_PU ACM_NN 的_DEG 通讯_NN 》_PU （_PU CommunicationsoftheACM_NN ）_PU ，_PU 解释_JJ RSA_NN 加密_VV 演_VV 算法_NN 。_PU 里弗_NR 斯特否_NR 认_VV 这些_DT 名称_NN 和_CC 1969_NN 年_LC 的_DEG 电影_NN 《_PU 》_PU （_PU Bob_NN &_NN Carol_NN &_NN Ted_NN &_NN Alice_NN ）_PU 有关_VV ，_PU 而是_CC 有_VE 其_PN 他_PN 人_NN 偶_PN 然_AD 提议_VV 。_PU
+
+
+
+

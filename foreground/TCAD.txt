@@ -1,0 +1,5 @@
+﻿_CD TCAD_NN
+
+TCAD_NN 就_AD 是_VC TechnologyComputerAidedDesign_NN ，_PU 指_VV 半导体_NN 工艺_NN 模拟_NN 以及_CC 器件_NN 模拟_NN 工具_NN ，_PU 世界_NN 上商_NN 用_VV 的_DEC TCAD_NN 工_NN 具有_VV Silvaco_NN 公司_NN 的_DEC Athena_NN 和_CC Atlas_NN ，_PU S_CC yn_M opsys_NR 公司_NN 的_DEC TSupprem_NN 和_CC Medici_NN 以及_CC ISE_NN 公司_NN （_PU 已经_AD 被_SB Synopsys_NR 公司_NN 收购_VV ）_PU 的_DEC Dios_NN 和_CC Dessis_NN 以及_CC CrosslightSoftware_NR 公司_NN 的_DEC Csuprem_NN 和_CC APSYS_NN 。_PU 此外_AD 还_AD 有_VE 维也纳_VV TCADGlobalSolution_NN 公司_NN 的_DEC TCAD_NN 套件_NN ，_PU 以及_CC 新加_VV 坡_NN Cogenda_NN 公司_NN 的_DEC VisualTCAD_NN 套件_NN 。_PU
+
+

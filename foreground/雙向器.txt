@@ -1,0 +1,9 @@
+﻿_CS 双向器_NN
+
+双向器_NN 是_VC 一_CD 种_M 通讯_NN 系统_NN 元件_NN ，_PU 用来_VV 区隔_VV 在_VV 同_DT 一_CD 传输_NN 路径_NN 上_LC 的_DEG 发射_NN 和_CC 接放_NN 讯号_NN ,_PU 一般_AD 具有_VV 三_CD 个_M 埠_NN ，_PU 在_P 不同_VA 的_DEC 应用_NN 可以_VV 由_P 不同_VA 的_DEC 元件_NN 所_MSP 构成_VV 。_PU 在_P 收发_VV 同_AD 频_VV 的_DEC 系统_NN 上_LC ，_PU 像_VV 是_VC 雷达_NN 系统_NN ，_PU 通常_AD 会_VV 使用_VV 环行器_NN (_PU Circulator_NN )_PU 作为_P 其_PN 双向器_NN ，_PU
+而_AD 在_P 时间_NN 分隔_VV 的_DEC 系统_NN 中_LC ，_PU 如_P GSM_NN ，_PU 则_AD 会_VV 使用_VV 一_CD 个_M 高速_JJ 的_DEG 电子_NN 开关_NN （_PU Switch_NN ）_PU 来_MSP 进行_VV 收发_JJ 路径_NN 的_DEG 切换_NN 。_PU 双向器_NN 品质_NN 决定_VV 于_P 插入_VV 损耗_NN 及_CC 收发_VV 端隔_NN 离度_NN ，_PU 高_JJ 损耗_NN 会_VV 降低_VV 系统_NN 性能_NN ，_PU 而_CC 低_JJ 隔离度_NN 则_AD 可能_VV 造成_VV 接收机_NN 承受_VV 过_AD 大_VA 的_DEC 发射_NN 讯号_NN ，_PU 造成_VV 元件_NN 损坏_VV 。_PU
+
+另外_AD 要_VV 特_AD 別_JJ 注意_NN 的_DEC 是_VC ，_PU 双向器_NN (_PU Duplexer_NN )_PU 基本上_AD 是_VC 双工器_NN (D_CD iplexer)_NN 的_DEC 一_CD 种_M ，_PU 而_CC 两_CD 者_NN 的_DEG 区別_NN 在于_VV 双工器_NN 的_DEG 三_CD 个_M 埠_NN 不_AD 一定_AD 是_VC 通道_NN 、_PU 上行_NN 、_PU 下行_VV 的_DEC 组合_NN ，_PU 有_VE 可能_NN 是_VC 用来_VV 让_VV 两_CD 个_M 上行_VV 或_CC 两_CD 个_M 下_LC 行_VV 共享_NN 传输_VV 路径_NN 。_PU
+
+
+

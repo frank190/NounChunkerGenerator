@@ -1,0 +1,12 @@
+﻿NvidiaG-Sync_VV
+
+G_CD -_PU Sync_NN 是_VC 由_P Nvidia_NN 开发_VV 的_DEC 一_CD 种_M 专_AD 有_VE 的_DEC 自_AD 适应_VV 同_DT 步_M 技术_NN ，_PU 主要_AD 用于_VV 消除_VV 画面_NN 撕裂_NN 以及_CC 对_P Vsync_NN 等_ETC 软件_NN 替_P 代品_NN 的_DEG 需求_NN 。_PU G_CD -_PU Sync_NN 技术_NN 允许_VV 视频_NN 显示器_NN 适应_VV 输出_NN 设备_NN （_PU 显卡_NN /_PU 集成_JJ 显卡_NN ）_PU 的_DEG 帧速率_NN 来_MSP 消除_VV 画面_NN 撕裂_NN ，_PU 改变_VV 了_AS 原本_VA 的_DEC 由_P 输出_NN 设备_NN 适应_VV 显示器_NN 。_PU 在_P 传统_NN 方式_NN 上_LC ，_PU 帧_VV 在_P 设备_NN 输出_VV 的_DEC 过程_NN 中_LC 可能_VV 被_SB 刷新_VV ，_PU 导致_VV 画面_NN 撕裂_VV ，_PU 或者_CC 一次_AD 显示_VV 两_CD 个_M 或_CC 更多_CD 个帧_NN 。_PU 配备_NN G_NN -_PU Sync_NN 技术_NN 的_DEC 设备_NN 必须_VV 包含_VV Nvidia_NN 销售_VV 的_DEC 专_AD 有_VE G_CD -_PU Sync_M 模块_NN 。_PU AMD_NN 已_AD 发布_VV 类似_VA 的_DEC 名为_JJ FreeSync_NN 的_DEC 显示器_NN 技术_NN ，_PU 该_DT 技术_NN 具有_VV 与_P G_CD -_PU Sync_M 同等_VA 的_DEC 功能_NN ，_PU 且_CC 免_VV 版税_NN 。_PU
+
+NVIDIA_CD 构建_VV 了_AS 一_CD 种_M 特殊_VA 的_DEC 防_VV 碰撞_NN 功能_NN ，_PU 以_MSP 避免_VV 在_P 屏幕_NN 上_LC 绘制_VV 时_LC 出现_VV 新_JJ 帧_NN （_PU 可_VV 能_VV 导致_VV 滞后_NT 和_CC /_PU 或_CC 撕裂_NN ）_PU ，_PU 在_P 发生_VV 时_LC ，_PU 模块_NN 会_VV 预期_VV 到_VV 刷新_VV 并_CC 等待_VV 下_DT 一_CD 帧_NN 完成_VV 。_PU 在_P 非_AD 固定_VV 刷新_JJ 场景_NN 且_CC 解决_NN 方案_NN 预测_VV 下次_JJ 刷新_NN 时间_NN 的_DEC 情况_NN 下_LC ，_PU 过_AD 驱动_VV 像素_NN 会_VV 变得_VV 棘手_NN ，_PU 因此_AD 必须_VV 针对_VV 每_DT 个_M 面板_NN 实施_VV 和_CC 调整_VV 过_AS 驱动值_NN 以_MSP 避免_VV 重_VV 影_NN 。_PU
+
+模块_NN 包含_VV 所有_DT 功能_NN 组件_NN 。_PU 其_PN 基于_P AlteraArriaVGX_NN 系列_NN F_CD P_CC GA_CD ，_PU 具有_VV 156K_CD 逻辑_NN 单元_NN ，_PU 396_CD 个_M DSP_NN 模块_NN ，_PU 67_CD 个_M LVDS_NN 通道_NN 。_PU 采用_VV TSMC_NN 28_CD LP_NN 工艺_NN 生产_NN ，_PU 配备_VV 三_CD 个_M DDR3LDRAM_NN 芯片_NN 来_MSP 获得_VV 一定_JJ 的_DEG 带宽_VV ，_PU 总_JJ 容量_NN 768_CD MB_NN 。_PU 采用_VV 的_DEC FPGA_NN 还_AD 具有_VV LVDS_NN 接口_NN ，_PU 用于_VV 驱动_VV 监视器_NN 面板_NN 。_PU 它旨_PN 在_P 取代_VV 常见_JJ 的_DEG 倍线器_NN ，_PU 可以_VV 轻松_AD 由_P 显示器_NN 制造商_NN 集成_VV ，_PU 显示器_NN 制造商_NN 只_AD 需要_VV 处理_VV 电源_NN 输送_NN 电路板_NN 以及_CC 输入_VV 连接_VV 。_PU
+
+
+
+
+

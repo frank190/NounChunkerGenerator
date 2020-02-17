@@ -1,0 +1,14 @@
+﻿转速_NN
+
+转速_NN （_PU Rotationalspeed_NN ）_PU 是_VC 物体_NN 在_P 单位_NN 时间_NN 内绕_NN 轴_NN 旋转_VV 的_DEC 次数_NN ，_PU 单位_NN 有_VE 每_DT 分钟_JJ 转速_NN （_PU RPM_NN ）_PU 或_CC 每_DT 秒_M 转速_NN (_PU rev/s)_PU ，_PU 常用_JJ 符号_NN N_CD 表示_VV 。_PU 若_CS 转速_NN 是_VC 以_P 每_DT 秒_M 转速_NN (_PU rev/s)_PU 的_DEG 单位_NN 表示_VV 时_LC ，_PU 转速_NN 和_CC 角_NN 速度_NN formula_NN
+
+若_CS 转速_NN 是_VC 以_P 每_DT 分钟_M 转速_NN (_PU RPM)_NN 的_DEG 单位_NN 表示_VV 时_LC ，_PU 转速_NN 和_CC 角_NN 速度_NN formula_NN
+
+像_P 马达_NN 运转_VV 的_DEC 速度_NN 就_AD 会_VV 用_P 转速_NN 表示_VV ，_PU 转速_NN 和_CC 角_NN 速度_NN 有时_AD 是_VC 同意_PN 词_NN ，_PU 但_CC 一般而言_AD 两_CD 者_NN 是_VC 不同_VA 的_DEC 单位_NN ，_PU 角_NN 速度_NN 是_VC 单位_NN 时间_NN 内_LC 旋转_VV 的_DEC 角度_NN ，_PU 单位_NN rad_NN /_PU s_NN 。_PU 不_AD 过_VV 转速_NN 和_CC 角_NN 速度_NN 会_VV 有_VE 上述_JJ 比_NN 正比_VA 的_DEC 关系_NN 。_PU
+
+例如_AD 一_CD 个_M 步进_NN 马达_VV 在_P 一_CD 秒_M 恰好_AD 转_VV 一_CD 圈_M ，_PU 其_PN 角_NN 速度_NN 为_VC 2_CD π_NN rad_NN /_PU s_NN ，_PU 而_CC 其_PN 转速_NN 为_VC 60_CD RPM_M 。_PU
+
+转速_NN 和_CC 切线_NN 速度_NN 是_VC 不同_VA 的_DEC 概念_NN ，_PU 考虑_VV 一_CD 摩天轮_NN ，_PU 无论_AD 在_P 其中_NN 任何_DT 位置_NN ，_PU 其_PN 转速_NN 不_AD 变_VV ，_PU 但_CC 若_CS 离_VV 轴心_NN 的_DEC 距离_NN 越_AD 远_VA ，_PU 其_PN 切线_NN 速度_NN 就_AD 会_VV 越_AD 大_VA 。_PU
+
+
+

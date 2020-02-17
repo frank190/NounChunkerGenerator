@@ -1,0 +1,109 @@
+﻿何进_NN (_PU 教授_NN )_PU
+
+何进_AD ，_PU 男_NN ，_PU 目前_NT 为_VC 北京_NR 大学_NN 微纳_NN 电子_NN 学_VV 研究_NN 院教授_NN 、_PU 博士_NN 生导师_NN ，_PU 并_CC 兼_P 任深_DT 圳_NN 系统_NN 芯片_NN 设计_VV 重点_NT 实验室_NN 主任_NN 、_PU 深圳市_NN 5G_CD 产业_NN 联盟_NN 专家_NN 委_NN 主任_AD 兼_P 联席_NN 理事_NN 长_VA 、_PU IndexBank_NN 全球_JJ 数据_NN 中心_NN 首席_AD 科学家_NN 等_ETC 职务_NN 。_PU
+
+何_AD 进于_VV 1988_CD 年_M 毕业于_VV 天津_JJ 大学_NN 电子_NN 工程_NN 专业_AD ，_PU 1993_CD 年_M 获_VV 电子_NN 科技_NN 大学_AD 微电子_NN 学硕_NN 士学位_NN ，_PU 1999_CD 年获_NN 电子_NN 科技_NN 大学_NN 博士_NN 学位_NN 。_PU 1999_CD 年_M 至_CC 2000_CD 年_M 于_P 北京_NN 大学_NN 微电子_NN 所_MSP 就_VV 读博士_NN 后_LC 。_PU 2000_CD 年起_VV 以_P 访问_NN 学者_NN 身份_NN 赴美国_NN 伯克利_NN 加州_NN 大学_NN 深造_NN 。_PU 2005_CD 年_M 起回_VV 国任_NN 北京_NN 大学_AD 教授_VV ；_PU 并_CC 兼任_AD 北京_NR 大学_NN 深圳_NN 芯片_NN 重点_NN 实验室_NN 主任_NN 、_PU 大_JJ 湾区_NN 数字_NN 经济_NN 和_CC 科技_NN 研究院_NN 副院_NN 长_VA 等_ETC 职务_NN 。_PU
+
+其_PN 还_AD 曾_JJ 任香_NN 港科技_NN 大学_NN 客座_NN 教授_VV 、_PU 中科院_NN 兼_CC 职研_NN 究员_VA 、_PU 广岛_NN 大学_NN 访问_NN 教授_NN 等_ETC 教职_NN ，_PU 以及_CC 深博_JJ 联首任_NN 会长_VV 、_PU 深圳市_JJ 5G_NN 产业_NN 联盟_NN 专家_NN 委_NN 主任_NN 兼_CC 联席_NN 理事_NN 长_VA 、_PU 深_JJ 港澳_NN 博士_NN 专家_NN 联盟_NN 联席_NN 主席_NN 、_PU 少年_NN 中_LC 国芯_NN 工程_NN 总指挥_NN 、_PU 超级_NN 中_LC 国芯_NN 工程_NN 首席_AD 科学家_NN 、_PU 国际_NN 信息_NN 发展_NN 组织_NN 指数_NN 管理_NN 委员_NN 会_VV 首席_AD 科学家_NN 、_PU IndexBank_NN 全球_JJ 数据_NN 中心_NN 首席_AD 科学家_NN 等_ETC 职务_NN 。_PU
+
+何进先后_AD 师从_VV 或_CC 共事_AD 中科_NR 院陈星_NN 弼_NN 院士_NN 、_PU 王阳元_NN 院士_NN 、_PU 郑耀宗_NN 院士_NN 、_PU 童庆禧_NN 院士_NN ；_PU 美国_NR 工程_NN 院胡_NN 正_AD 明_AD 院士_VV 、_PU 马佐_NN 平_AD 院士_VA 、_PU 卢超群_NN 院士_NN 、_PU 汪正平_NR 院士_NN ；_PU 英国_NN 皇家_NN 工程院_NN Michael_NN ._PU G_CD ._PU Somek_VV h_NN 院士_NN ；_PU 加拿_VV 大皇家_AD 两_CD 院_NN 院士_NN 兼_CC 科学_NN 院院_NN 长_VA JamalDeen_NR 院士_NN ；_PU 新西兰_JJ 皇家_NN 工程院_NN MichaelSaudres_NN 院士_NN ；_PU Bell_NN 实验室_NN 科学家_NN H_NN ._PU K_NN ._PU Gummel_NN 博士_NN 等_ETC 半导体_NN 和_CC 芯片_NN 领域_NN 的_DEG 世界级_NN 专_AD 家_VA 。_PU 曾_AD 任_VV 半导体_NN 芯片_NN 厂台_NN 积电_VV 、_PU 华微_NN 电子_NN 、_PU 深_AD 爱_VV 半导体_NN 、_PU 方正_NN 微电子_NN 等_ETC 的_DEG 技术_NN 顾问_NN ；_PU 国际_NN 知名_NN EDA_NN 公司_NN Agilient_NN 、_PU Silvaco_NN 、_PU Proplus_NN 等_ETC 的_DEG 技术_NN 合作者_NN 。_PU 他_PN 也_AD 曾_AD 任_VV 国家_NN 科技奖_NN 和_CC 教育_NN 部科_NN 技奖_NN 评审_NN 专家_VA 、_PU 教育部_NN 长江_JJ 学者_NN 评审_NN 专家_NN 和_CC 霍英东_NN 教师_NN 基金_NN 及_CC 奖励_NN 评审_AD 专家_VA 、_PU 国家_NN 自然_AD 科学_VV 基金面_NN 上_LC 和_CC 重_AD 大_JJ 项目_NN 评审_NN 专家_VA 、_PU 中国_NR 高新区_NN 国际人_NN 才发_VV 展专项_NN 基金_NN 评审_AD 专家_VA 、_PU 北京_NN 、_PU 江苏_NN 、_PU 广东_NN 和_CC 深圳科_NN 技评_NN 审专家_NN 、_PU 华微_JJ 电子_NN 独立_NN 董事_VA 、_PU 稳先_NR 微电子_NN 首席_NN 科学家_NN 。_PU
+
+何_DT 进_NN 是_VC 国际_NN 集成_JJ 电路界_NN 工业_NN 标准_NN CMOS_NN 模型_NN BSIM4_NN ._PU 3_CD ._PU 0_CD 主要_JJ 研发者_NN 、_PU 模型_JJ 手册_NN 主要_AD 作者_VV ，_PU 该_DT 产品_NN 已经_AD 被_SB 国际_VV 半导体_NN 工业_NN 界广泛_NN 采用_VV ，_PU 加速_VV 了_AS 国际_NN 社会_NN 进入_VV 纳米_NN 和_CC 深_JJ 纳米_NN 芯片_NN 时代_VV 并_CC 极_AD 大地_AD 改变_VV 了_AS 当代_JJ 普通人_NN 的_DEG 生活_NN 。_PU 他_PN 也_AD 是_VC 国际_NN 集成_JJ 电路界_NN 工业_NN 标准_NN BSIM_NN -_PU F_CD inFET_NN 主要_JJ 研发者_NN 之_DEG 一_NN ，_PU 该_DT 产品_NN 被_SB 国际_VV 高端_NN 智能_NN 手机_NN 芯片_NN 设计_VV 广泛_AD 采用_VV ，_PU 极_AD 大地_AD 提升_VV 了_AS 信息_NN 生活_NN 质量_NN 并_CC 深刻_AD 重塑_VV 了_AS 芯片_NN 产业_NN 的_DEG 发展_NN 路径_NN 和_CC 影响_NN 范围_NN 。_PU 他_PN 是_VC BSIM5_NN 首席_AD 研究者_NN 、_PU 模型_JJ 手册_NN 第一_OD 作者_VV ，_PU 其_PN 在_P 2004_CD 年被_M CMC_NR 选为_VV 下_DT 一_CD 代_M 工业_NN 标准_NN 芯片_NN 仿真_AD 模型_NN 的_DEG 四_CD 个_M 备选者_NN 之一_LC ，_PU 国际_NN 主流_NN EDA_NN 系统_NN 均_AD 支持_VV BSIM5_NN 的_DEG 电路_NN 模拟_NN 。_PU 他_PN 是_VC 国际_NN 主要_JJ 半导体_NN 公司_NN IBM_NN 、_PU INTEL_NN 、_PU AMD_NN 等_ETC 采用_VV 和_CC 验证_VV 的_DEC BSIMDG_NN 模型_NN 主要_AD 研究_VV 人员_NN 之一_LC ，_PU 有关_VV 该_DT 项_M 工作_NN 的_DEC 成果_NN 被_SB 发表_VV 在_P IEEET_NN -_PU ED_NN 上_LC 的_DEC 综述_JJ 文章_NN （_PU IEEETED_NN -_PU 54_CD ,_PU pp_NN ._PU 131_CD -_PU 141_CD ,_PU 2007_CD ）_PU 称为_VV “_PU 何_DT 氏_NN 模型_NN ”_PU ，_PU 是_VC 全世界_AD 四_CD 个_M 典型_JJ 代表_NN 。_PU
+
+其_PN 主要_JJ 研究_NN 领域_NN 为_VC 微纳_JJ 半导体_NN 器件_NN 技术_NN 、_PU 半导体_NN 芯片_NN EDA_NN 技术_NN 和_CC 先进_JJ 集成_JJ 电路_NN 设计_NN 。_PU 先后_AD 参加_VV 或_CC 主持_VV 多_CD 个_M 国家_NN 973_CD 和_CC 863_CD 项目_NN 、_PU 自然_JJ 科学面_NN 上_LC 基金_NN 和_CC 重点_NN 基金_NN 项目_NN 、_PU 高等学_JJ 校博_NN 士点_NN 基金_NN 项目_NN 、_PU 国防_VV 预研_NN 项目_NN 、_PU 部省_NN 产学_NN 研项目_NN 、_PU 深圳_NN 基础_NN 研究_NN 一般_VA 、_PU 重点_NN 和_CC 布局_NN 项目_NN 、_PU 重点_NN 实验室_NN 提升_VV 项目_NN 、_PU 重_AD 大_JJ 科技_NN 攻关_NN 项目_NN 、_PU 深港创_JJ 新圈_NN 项目_NN 、_PU 国际_NN 合作_NN 项目_NN 、_PU 美国_NR SRC_NN 项目_NN 等_ETC 40_CD 多_CD 项_M ，_PU 且_CC 均_AD 出色_VV 完成_VV 课题_NN 任务_NN 。_PU 在_P 纳米_NN CMOS_NN 器件_NN 物理_NN 和_CC 模型_NN 、_PU 新器件_NN 结构_NN 、_PU 工艺_NN 技术_NN 和_CC 电路_NN 设计_NN 、_PU 电路_NN 模型_NN 和_CC TCAD_NN 等_ETC 方面_NN 的_DEC 研究_NN 工作_NN 已_AD 发表_VV 论文_NN 500_CD 多_CD 篇_M ，_PU 被_SB SCI_NR 收录_VV 近_AD 250_CD 余篇_NN ，_PU EI_NN 收录_VV 250_CD 多_CD 篇_M ，_PU 国际_NN 引用_VV 或_CC 下载_VV 超过_VV 一万五千_CD 余次_NN 。_PU 其中_NN ，_PU 期刊_NN 论文_NN 250_CD 多_CD 篇_M 、_PU 国际_NN 期刊_NN 英文_NN 论文_NN 270_CD 多_CD 篇_M 、_PU 国内外_NN 会议_NN 宣读_VV 论文_NN 300_CD 余篇_NN ，_PU 包括_VV 国际_NN 学术_NN 会议_NN 上_LC 作_VV 60_CD 多_CD 次_M 特邀_NN 报告_VV 。_PU 指导_VV 出_VV 站_VV 博士_NN 后_LC 10_CD 人_NN 、_PU 在_P 站博士_NN 后_LC 1_CD 人_NN 、_PU 毕业博_NN 士生_NN 6_CD 人_NN 、_PU 硕士生_NN 25_CD 人_NN 。_PU
+
+何_DT 进_NN 申请_NN 中国_NR 发明_NN 专利_NN 50_CD 多_CD 项_M ，_PU 获授权_NN 中国_NR 发明_NN 专利_NN 30_CD 项_M 和_CC 美国_NR 发明_NN 专利_NN 1_CD 项_M ，_PU 6_CD 项_M 专利_NN 正_AD 在_P 与_P 一些_CD 半导体_NN 制造_VV 公司_NN 和_CC 芯片_NN 设计_VV 公司_NN 进行_VV co_NN -_PU license_NN 。_PU 他_PN 已_AD 获得_VV 中国_JJ 软件_NN 著_AD 作_VV 权授权_NN 22_CD 项_M 。_PU 他_PN 出版_NN 中_LC 文著_AD 作_VV 3部_NN 、_PU 英文_NN 专著_NN 六_CD 章节_VV 、_PU 技术_NN 手册_NN 两_CD 部_M 。_PU 他_PN 与_P 国内_NN 清华_AD 大学_VV 、_PU 复旦_NN 大学_NN 、_PU 天津_NN 大学_NN 、_PU 西安_JJ 电子_NN 科技_NN 大学_NN 、_PU 电子_NN 科技_NN 大学_NN 、_PU 中科院_NN 微电子_NN 所_MSP 和_CC 微_JJ 系统_NN 所_MSP ，_PU 国外_NN 美国_NR 伯克利_NN 加州_NN 大学_CD 、_PU 中_LC 佛罗_NN 里_LC 达_VV 大学_NN 、_PU 亚利_NN 桑那州_NN 立_VV 大学_VA 、_PU 奥本_NR 大学_NN 、_PU 日本_NR 广岛_NN 大学_NN 、_PU 香港_NN 科技_NN 大学_VA 、_PU 香港_NN 中文_NN 大学_VA 、_PU 香港_NN 城市_NN 和_CC 理工_NN 大学_NN 等_ETC 有_VE 过多_CD 项科_NN 研合作_NN 和_CC 学术_NN 交流_NN 。_PU 他_PN 与_P 深圳_JJ 半导体_NN 和_CC IC_NN 设计_NN 产业界_VV ，_PU 比如_AD 上市_NR 公司_NN 天马_NN 微电子_NN 、_PU 瑞声_NN 声学_NN 、_PU 研详智_NN 能_VV 科技_VV 、_PU 华微_JJ 电子_NN 、_PU 捷普_NN 特等_NN 和_CC 非_AD 上市_JJ 公司_NN 方正_NN 微电子_NN 、_PU 深_AD 爱_VV 半导体_NN 、_PU 超多维_NN 、_PU 海_NN 泰康_NN 微电子_NN 、_PU 安派_NN 电子_NN 、_PU 芯成_JJ 电子_NN 、_PU 电通_NN 集团_NN 、_PU 恩普_NN 医疗_NN 电子_NN 等_ETC ，_PU 有_VE 广泛_NN 的_DEC 产学_NN 研合作_NN 和_CC 技术_NN 开发_VV 写作_VV 。_PU 曾_AD 先后_AD 出访_VV 和_P 学术_NN 交流_VV 于_P 美国_NR 、_PU 日本_NR 、_PU 加拿_VV 大_VA 、_PU 澳大_NR 利亚_NN 、_PU 波兰_NN 、_PU 以_P 色列_NN 、_PU 希腊_NN 、_PU 荷兰_NN 、_PU 瑞典_NN 、_PU 新_JJ 加坡_VV 、_PU 韩国_VV 、_PU 台湾_NN 、_PU 泰国_NN 、_PU 马来西_JJ 亚等_NN 十_CD 多_CD 个_M 国家_NN 和_CC 地区_NN 的_DEG 大学_NN 和_CC 研究_NN 院所_NN ，_PU 并_CC 作_VV 学术_NN 或_CC 技术_NN 邀请_NN 报告_VV 60_CD 多次_M 。_PU
+
+何_DT 进_NN 是_VC 电路_NN 模拟_NN 和_CC 模型_NN 工程_NN -_PU ULTRA_NN 创立者_NN 、_PU 少年_NN 中_LC 国芯_NN 工程_NN 始_AD 创_VV 人_NN 兼_CC 总_JJ 指挥_NN 、_PU 超级_NN 中_LC 国芯_NN 工程_NN 始_AD 创_VV 人_NN 兼_CC 首席_DT 科学_NN 家_NN 。_PU 2006_CD 年_M 和_CC 2010_CD 年独_NN 立并_AD 勇敢_VV 地_DEV 在_P 中国_NR 提出_VV 发展_VV 具有_VV 自主_JJ 知识_NN 产权_NN 的_DEG EDA_NN 工具_NN 两_CD 大_JJ 支柱_NN （_PU Roots_NN ）_PU ：_PU 芯片_NN 仿真器_NN China_NN -_PU S_CD PICE_M 和_CC 模型_NN 系统_NN PUNSIM_NN ，_PU 道路_NN 虽_CS 曲折_NN 矢志_NN 不_AD 移_VV ，_PU 数_P 10_CD 年_M 坚守_JJ 丹心_NN 永恒_VA 。_PU 在_P 北京_NN 大学_NN 发展_NN 的_DEG ULTRA_NN -_PU S_CD OI_M 在_P 2008_CD 年_M 5月被_NN CMC_NR 选为_VV SOI_NN 集成_JJ 电路_NN 技术_NN 下_LC 一_CD 代_M 工业_NN 标准_NN 芯片_NN 仿真_NN 模型_NN 的_DEG 四_CD 个_M 备选者_NN 之一_LC ，_PU 发展_VV 的_DEC ULTRA_NN -_PU F_CD inFET_NN 在_P 20012_CD 年_M 5月被_NN CMC_NR 选为_VV FinFET_NN 集成_JJ 电路_NN 技术_NN 下_LC 一_CD 代_M 工业_NN 标准_NN 芯片_NN 仿真_NN 模型_NN 的_DEG 两_CD 个_M 备选者_NN 之一_LC ，_PU 成为_VV 中国_JJ 微电子_NN 为数_NN 不_AD 多_VA 的_DEC 有国_JJ 际影_NN 响力_NN 的_DEC 成果_NN 。_PU 他_PN 提出_VV 纳米_NN CMOS_NN 参数_NN 提取_VV 新_JJ 技术_NN ，_PU 被_SB 发表_VV 在_P MicroelectronicsReliability_NN (_PU MER_NN -_PU 42_CD ,_PU pp_NN ._PU 583_CD -_PU 596_CD ,_PU 2002_CD )_PU 上_LC 有_VE 关阈值_NN 电压_NN 的_DEC 综述_JJ 文章_NN 称为_VV “_PU 何_DT 氏_NN 方法_NN ”_PU ，_PU 为_VC 近年_NN 来_VV 11_CD 种_M 典型_JJ 方法_NN 之一_LC 。_PU 他_PN 完成_VV 有_VE 世界_NN 水平_NN 的_DEG 纳米_NN CMOS_NN 器件_NN 完整_VV 表面势_NN 方程_NN 和_CC 解析解_NN ，_PU 研发_VV 了_AS 国际_NN 上_LC 有_VE 代表性_NN 的_DEC 纳米_NN MOSFET_NN 表面势_NN 模型_NN 。_PU 在_P 国际_NN 微电子_NN 学术_NN 界独_NN 创非_NN 传统_NN CMOS_NN 器件_NN 及_CC 电路_NN 建模_VV 的_DEC 载流子_NN 理论_NN 和_CC 方法_NN ，_PU 成_VV 功_NN 应用_VV 到场_NN 效应_NN 纳米_NN 器件_NN 中_LC 。_PU 在_P 微电子_NN 学术界_NN 和_CC 工程_NN 领域_NN 取得_VV 的_DEC 系列_NN 成果_NN 享有_VV 国际_NN 声誉_NN ，_PU 领导_VV 的_DEC 小组_NN 是_VC 目前_NT 纳米_NN 器件_NN 物理_NN 和_CC 电路_NN 模型_NN 研究_NN 最_AD 富_VA 活力_NN 的_DEC 团队_NN 之一_LC 。_PU 入选_VV 2008_CD -_PU 2009_CD 年度_NN “_PU MarquisWho_NN '_PU sWho_NN ”_PU 名人_NN 录_VV 科学_NN 与_CC 技术_NN 分册_NN 。_PU 分别_AD 主办_VV 2015_CD 年_M 、_PU 2017_CD 年_M 和_CC 2019_CD 年_M 三_CD 届_M 新一代_JJ 信息_NN 技术_NN 科技_NN 创新_VV 高层_JJ 论坛_NN ，_PU 发起_VV 2017_CD 年_M 新一代_JJ 信息_NN 技术_NN 亚太_AD 创新_VV 论坛_VV ，_PU 筹划_VV 并_CC 实现_VV 2017_CD 年_M 和_CC 2018_CD 年粤_NN 港澳_NN 大_JJ 湾区_NN 创新_AD 发展_VV 论坛_NN 、_PU 2017_CD 年_M 和_CC 2018_CD 年_M 硅谷_NN 对_P 话粤_NN 港澳_NN 大_JJ 湾区_NN 论坛_NN 等_ETC ，_PU 与_P 国家_NN 外专局_NN 中国_NR 国际人_NN 才_AD 交流_NN 基金_NN 会_VV 联合_VV 筹办_VV 2018_CD 年_M 和_CC 2019_CD 年_M 北京_VA 、_PU 南京_NN 、_PU 青岛_NN 和_CC 深圳_NN 集成_JJ 电路_NN 国际_NN 高峰_JJ 论坛_NN ，_PU 在_P 海内_NN 外_JJ 产生_VV 广泛_JJ 影响_NN 。_PU 筹备_NN 和_CC 成立_VV 深_JJ 圳市战_NN 略性_JJ 新兴_NN 产业_NN 博士_NN 专家_NN 联谊_NN 会_VV 并_CC 任首_DT 任会_NN 长_VA 。_PU 相_AD 关成_VV 就_AD 和_P 事迹_NN 曾_AD 被_SB 中国_VV 国际_NN 广播_VA 电台_NN 、_PU 科学网_NN 、_PU 深圳_NN 特区_NN 报_NN 、_PU 人民_NN 日报_NN 海外版_NN 等_ETC 媒体_NN 报道_NN 。_PU
+
+
+何_AD 进_P 目前_NT 为_VC IEEEIETA_NN 大师_JJ 课_NN 、_PU 国际_NN 期刊_NN RecentpatentinEngineering_NN 和_CC Opennanosciencejournal_NN 编_VV 委员_NN 会_VV 成员_VV ；_PU 国际_NN 重要_JJ 期刊_NN IEEETransactiononElectronDevices_NR 、_PU IEEEElectrondeviceletters_NR 、_PU Solid_NN -_PU SateElectronics_NN 、_PU IEECircuits_NN 、_PU DevicesandSystems_NN 、_PU IEEECircuits_NN &_NN DevicesMagazine_PU 、_PU PhysicalB_NN 、_PU ChinesePhysicsLetter_NN 等_ETC 的_DEG 文章_NN 评审人_NN ；_PU 国际_NN 研究_NN 项目_NN 「_PU N_CD ano_M -_PU DeviceModelingInitiative_NN 」_PU 主要_JJ 成员_NN ；_PU 国际_NN 会议_NN ISQED_NN 、_PU ASQED_NN 、_PU ICSICT_NN 、_PU EDSSC_NN 的_DEG TPC_NN 和_CC EDA_NN 评审_NN 委员_NN 会_VV 成员_VV ；_PU 国内_NN 中国_NR 科学_NN E_NN 、_PU 电子_NN 学报_NN 、_PU 半导体_NN 学_VV 报等_NN 的_DEC 文章_NN 评审_VV 人_NN ；_PU 国内_NN 期刊_NN “_PU 微纳_NN 技术_NN ”_PU 常务_NN 理事_NN ；_PU 教育部_NN 留学_VV 回国_NN 人员_NN 启动基_NN 金评审_NN 专家_VA 、_PU 春辉_NN 计划_VV “_PU VLSI_NN ”_PU 技术_NN 专项_NN 评审_AD 专家_VA ；_PU 国家_NN 自然_AD 科学_VV 基金_NN 评审_AD 专家_VA 、_PU 教育部_NN 长江_JJ 学者_NN 评审_NN 专家_VA 、_PU 国家科_NN 技奖_NN 励评_VV 审专家_NN 。_PU
+
+何_AD 进先_VV 后_JJ 主持_NN 或_CC 参加_VV 了_AS 两_CD 个_M 973_CD 项_M 目子_NN 课题_NN 、_PU 一_CD 个_M 863_CD 重点_NN 项目子_NN 课题_NN 、_PU 多_CD 个_M 自然_JJ 科学面_NN 上_LC 基金_NN ，_PU 和_CC 一_CD 个_M 重点_NN 基金_NN 、_PU 一_CD 个_M 高等_JJ 学校_NN 博士_NN 点学_NN 科基金_NN 、_PU 三_CD 个_M 国家预_NN 研_NN 、_PU 3_CD 个_M 美国_NN SRC_NN 、_PU 4_CD 个_M 国际_NN 合作_NN 等_ETC 项目_NN 40_CD 多_CD 项_M ，_PU 均_AD 出色_VV 完成_VV 课题_NN 任务_NN ，_PU 取得_VV 了_AS 一_CD 批_M 有_VE 国际_NN 水平_VA 的_DEC 科研_NN 成果_NN 。_PU 具体_JJ 情况_NN 如下_VV :_PU
+
+1_CD ._PU 国家_NN 自然_AD 科学_VV 基金_NN ：_PU 硅沟道_NN 纳米_NN DG_CD -_PU TFET_NN 器件_NN 物理_NN ，_PU 模拟_JJ 模型_NN 和_CC 电路_NN 设计_NN 技术_NN 研究_NN （_PU 61574005_CD ）_PU ：_PU 2016_CD -_PU 2019_CD ，_PU 课题_NN 负责人_NN ，_PU 在_P 研_NN 。_PU
+
+2_CD ._PU 国家_NN 自然_AD 科学_VV 基金_NN ：_PU 硅基_NN 芯壳_NN 结构_NN 纳米_NN MOS_NN 器件_NN 基础_NN 研究_NN ：_PU 2012_CD -_PU 2015_CD ,_PU 课题_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+3_CD ._PU 国家_NN 自然_AD 科学_VV 基金_NN ：_PU 适应_JJ 纳米_NN 尺度_NN CMOS_NN 集成_JJ 电路_NN DFM_NR 的_DEC ULTRA_NN 模型_NN 完善_VA 和_CC 偏差_NN 模拟_NN 技术_NN 研究_NN （_PU 60976066_CD ）_PU ：_PU 2010_CD ._PU 1_CD -_PU 2012_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+4_CD ._PU 国家_NN 自然_AD 科学_VV 重点_NN 基金_NN ：_PU 纳米_NN CMOS_NN 器件_NN 可靠性_NN 退化_NN ，_PU 失效_NN 物理_NN 机制_NN 和_CC 预测_JJ 模型_NN 研究_NN （_PU 60936005_CD ）_PU ：_PU 2009_CD ._PU 1_CD -_PU 2012_CD ._PU 12_CD ，_PU 子_NN 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+5_CD ._PU 国家_NN 自然_AD 科学_VV 基金_NN ：_PU 纳米_NN F_CD inFET_VV 模型_NN 和_CC 电路_NN 设计_NN 技术_NN 研究_NN （_PU 60876027_CD ）_PU :_PU 2009_CD ._PU 1_CD -_PU 2011_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+6_CD ._PU 国家_NN 自然_AD 科学_VV 基金_NN ：_PU 用于_VV SOC_NR 设计_VV 的_DEC 新一_OD 代_M 先_AD 进纳_VV 米级_NN CMOS_NN 器件_NN 仿真_NN 模型_NN 研究_NN （_PU 90607017_CD ）_PU :_PU 2006_CD ._PU 7_CD -_PU 2008_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN ，_PU 被_SB 评为_VV 优秀_NN 。_PU
+
+7_CD ._PU 国家_NN 自然_AD 科学_VV 重点_NN 基金_NN ：_PU 90_CD 纳米_NN 以下_LC 高_JJ 性能_NN CMOS_NN 图像_NN 传感器_NN 关键_NN 技术_NN 研究_NN （_PU 61036004_CD ）_PU ：_PU 2011_CD ._PU 1_CD -_PU 2014_CD ._PU 12_CD ，_PU 子_NN 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+8_CD ._PU 高等_JJ 学校_NN 博士_NN 点学_NN 科基金_NN ：_PU 芯壳_NN 结构_NN 纳米_VV CMOS_NN 器件_NN 基础_NN 研究_NN （_PU 200800010054_CD ）_PU :_PU 2008_CD ._PU 1_CD -_PU 2010_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+9_CD ._PU 科技部_NN 863_CD 重点_NN 项目_NN ：_PU PCM_NN 存储_NN 器件_NN 技术_NN 研究_NN （_PU 2008_CD AA_NN 0_CD 31402_CD ）_PU 子_NN 课题_NN (_PU PCM_NN 模型_NN 和_CC 电路_NN 模拟_NN 技术_NN 研究_NN )_PU :_PU 2008_CD ._PU 1_CD -_PU 2010_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+10_CD ._PU 教育部_NN 留学_VV 回国_NN 人员_NN 启动_VV 基金_NN 项目_NN ：_PU “_PU 超薄体_NN （_PU Ultra_NN -_PU Thin_NN -_PU Body_NN :_PU UTB_NN ）_PU SOI-_VV MOSFET_NN 器件_NN 的_DEG 理论_NN 研究_NN 和_CC 集约_JJ 模型_NN 发展_NN ”_PU 2007_CD ._PU 1_CD -_PU 2007_CD ._PU 12_CD ：_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+11_CD ._PU 总_JJ 装备部_NN 预研_NN 项目_NN ：_PU “_PU 军用_JJ MPW_NN 技术_NN 与_CC 高_VA 可_VV 靠_P C_NN MOS_NR 建模_NN 建_VV 库_NN 技术_NN 研究_NN ”_PU （_PU 51308010605_CD ）_PU ：_PU 2006_CD ._PU 1_CD -_PU 2010_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN 之_DEG 一，_CD 已_AD 结题_VV 。_PU
+
+12_OD ．_PU 总装_NN 备部_NN 预研_NN 项目_NN ：_PU “_PU 新_JJ 结构_NN SOI_NR 功率_NN 器件_NN 研究_NN ”_PU （_PU 51308010605_CD ）_PU ：_PU 2006_CD ._PU 1_CD -_PU 2010_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+13_CD ._PU 北京市_NN 科委_NN 重点_NN 项目_NN ：_PU “_PU 130_NN -_PU 90_CD 纳米_NN MOS_NN 器件_NN 模型_NN 开发_NN 及_CC 其_PN 参数库_NN 建设_VV ”_PU （_PU D0305004040121-1-01_NN ）_PU ：_PU 2005年_NN 7月_NT 至_P 2007_CD 年_M 12_CD 月_NN ，_PU 子_NN 项目_NN 负责人_NN 之_DEG 一_NN ，_PU 已_AD 结题_NN 。_PU
+
+14_CD ._PU 国家_NN 重点_NN 基础_NN 研究_VV 发展_NN 计划_NN （_PU 973_CD ）_PU 项目_NN “_PU 纳米_NN 尺度硅_NN 集成_JJ 电路_NN 器件_NN 与_P 工艺_NN 基础_NN 研究_NN ”_PU 子_NN 项目_NN “_PU 新一代_JJ 集成_JJ 技术_NN 基础_NN 问题_NN 研究_NN ”_PU （_PU 2006_CD CB_NN 302704_CD ）_PU ：_PU 2006_CD ._PU 9_CD -_PU 2010_CD ._PU 9_CD ：_PU 主要_AD 研究_VV 成员_VV ，_PU 已_AD 结题_NN 。_PU
+
+15_CD ._PU 国家_NN 重_AD 大_JJ 基础_NN 研究_NN 项目_NN （_PU 973_CD ）_PU 子_NN 项目_NN :_PU 20_CD -_PU 50_CD 纳米_NN CMOS_NN 器件_NN 、_PU 结构_NN 及_CC 相关_JJ 物理_NN 问题_NN 研究_NN （_PU G2000365-01:2000.9-20005_NN ._PU 9_CD :_PU 科_NN 技部_NN ）_PU ，_PU 主要_JJ 研究_NN 人员_NN ，_PU 已_AD 结题_NN 。_PU
+
+16_CD ._PU “_PU 九五_NN ”_PU 部委_NN 科研_NN 项目_NN ：_PU 高速_JJ CMOS_NN /_PU S_CD OI_NN 电路_NN 研究_NN （_PU 1995_CD -_PU 2000_CD ）_PU ，_PU 主要_JJ 研究_NN 人员_NN ，_PU 结题_NN 。_PU
+
+17_CD ._PU “_PU 九五_NN ”_PU 部委_NN 科研_NN 项目_NN ：_PU SOI_NR 新_JJ 材料_NN 、_PU 新_JJ 器件_NN 研究_NN （_PU 1995_CD -_PU 2000_CD ）_PU ，_PU 主要_JJ 研究_NN 人员_NN ，_PU 已_AD 结题_NN 。_PU
+
+18_CD ._PU 国际_NN 合作_NN 项目_NN “_PU Nano_NN -_PU DeviceModelingInitiative_NN ”_PU （_PU 2006.1-2008.1_NN ）_PU ：_PU 香港_NN 科技_NN 大学_NN 子项_NN 目组_NN 主要_AD 成员_VV ，_PU 已_AD 结题_NN 。_PU
+
+19_CD ._PU 国际_NN 联合_NN 项目_NN （_PU 北京_NR 大学_NN 与_CC Motorola_NN 公司_NN ）_PU ：_PU 亚_NN 0_CD ._PU 1_CD 微米_NN SOI_NR 新_JJ 结构_NN 器件_NN 研究_NN （_PU MSPSESTL_NN -_PU CTC_NN 9903_CD :_PU 1999_CD -_PU 2000_CD 年_M ）_PU ，_PU 主要_JJ 研究_NN 人员_NN ，_PU 已_AD 结题_NN 。_PU
+
+20_CD ._PU 国际_NN 联合_NN 项目_NN （_PU 北京_NR 大学_NN 与_CC Motorola_NN 公司_NN ）_PU ：_PU SOI_NR 界面_NN 陷阱_NN 及_CC 体陷阱_NN 的_DEG 表征_NN （_PU MSPSDDLCHINA_NN -_PU 0004_CD :_PU 2000_CD -_PU 2001_CD 年_M ）_PU ，_PU 项目_NN 主持人_NN ，_PU 已_AD 结题_NN 。_PU
+
+21_CD ._PU 教育部_NN 春晖_AD 计划_VV VLSI_NN 项目_NN ：_PU “_PU 纳米_NN 集成_JJ 电路_NN 设计_NN 方法_NN 和_CC 预言性_JJ 模型_NN 研究_NN ”_PU :_PU 与_P 美国_NR ARIZON_NN 州立_NN 大学_NN 教授_NN KEVIN_NN 合作_VV ，_PU 2008_NT ._PU 5_CD -_PU 2008_CD ._PU 10_CD ，_PU 国际_NN 合作_VV ，_PU 已_AD 结题_NN 。_PU
+
+22_OD ._PU 北京_NR 大学_NN 985_CD 项目_NN “_PU THZ_NN 半导体_NN 器件_NN 基础_NN 研究_NN ”_PU 2006_CD ._PU 1_CD -_PU 2008_CD ._PU 12_CD ，_PU 项目_NN 主持人_NN ，_PU 已_AD 结题_NN 。_PU
+
+23_OD ._PU 美国_NR SRC_NN 项目_NN ：_PU BSIMfor_NN 50_CD nmMOSFETs_NN （_PU S_OD R_M C2000-NJ_NN -_PU 795_CD ._PU 001_CD :_PU 1999_CD ._PU 9_CD -_PU 2002_CD ._PU 9_CD ）_PU ，_PU 主要_JJ 研究_NN 人员_NN ，_PU 已_AD 结题_NN 。_PU
+
+24_OD ._PU 美国_NR SRC_NN 项目_NN ：_PU Compactmodelingofdouble_NN -_PU gateMOSFETs_NN （_PU S_OD R_M C2002-NJ_NN -_PU 1001_CD :_PU 2002_CD ._PU 9_CD -_PU 2005_CD ._PU 9_CD ）_PU ,_PU 主要_JJ 研究_NN 人员_NN ，_PU 已_AD 结题_NN 。_PU
+
+25_OD ._PU 美国_NR SRC_NN 项目_NN （_PU TI_NN 、_PU INTEL_NN 、_PU AMD_NN 、_PU IBM_NN 支持_NN ）_PU :BSIMNextGenerationModelResearchandDevelopment:_PU Surface_NN -_PU Potential_NN -_PU Plus_NN （_PU SRC_NR 2003-NJ_NN -_PU 1149_CD :_PU 2003_CD ._PU 12_CD -_PU 2006_CD ._PU 12_CD ）_PU ，_PU 项目_NN 主持人_NN ，_PU 已_AD 结题_NN 。_PU
+
+26_OD ._PU 美国_NR SRC_NN 项目_NN ：_PU ExtensionofBSIM3_NN /_PU 4_CD （_PU SRC2003_CD -_PU N_CD J_M -_PU 795_CD ._PU 001_CD :_PU 2002_CD ._PU 9_CD -_PU 2005_CD ._PU 9_CD ）_PU ，_PU 24万_CD 美元_NN ，_PU 主要_AD 研究_VV 人员_NN ，_PU 已_AD 结题_NN 。_PU
+
+27_CD ._PU 2010_CD 深圳市_JJ 重点_NN 实验室_NN 提升_VV 项目_NN ；_PU 纳米_NN ULTRA_NN 模型_NN 的_DEG 完善_JJ 和_CC 偏差_JJ 技术_NN 研究_NN ，_PU 2011_CD ._PU 1.1_CD -_PU 2013_CD ._PU 12_CD ，_PU 项目_NN 主持人_NN ，_PU 已_AD 结题_NN 。_PU
+
+29_CD ._PU 2011_CD 深圳市_JJ 重点_NN 项目_NN ：_PU 深_CD 纳米_NN CMOS_NN 与_CC 纳_VV 电子_NN 器件_NN 的_DEG 解析_NN 电路_NN 模型_NN 建模_NN 方法_NN 学_VV 研究_NN ，_PU 2014_CD ._PU 1.1_CD -_PU 2016_CD ._PU 12_CD ，_PU 项目_NN 主持人_NN ，_PU 已_AD 结题_NN 。_PU
+
+30_CD ._PU 2010_CD 深圳市重_JJ 大_JJ 产业_NN 技术_NN 攻关_NN 计划_VV ：_PU IGBT_NN 集成_JJ 芯片_NN 研发_VV 及_CC 产业化_NN （_PU 方正_NN 微合作_NN ）_PU ，_PU 2011.1-2014.12_NN ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+31_CD ._PU 2010_CD 深圳市_JJ 国际_NN 合作_NN ：_PU 双_CD 栅_M 纳米_NN F_CD INFET_VV 的_DEC 器件_NN 物理_NN ,_PU 模拟_JJ 模型_NN 和_CC 电路_NN 设计_NN 技术_NN 研究_NN ，_PU 2011_CD ._PU 1_CD -_PU 2013_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+32_CD ._PU 2011_CD 省产_VV 学研_VV ：_PU 高_JJ 导热_NN 铝基_NN 线路板_NN 的_DEG 研发_NN 及_CC 产业化_NN （_PU 博罗_NN 康佳_VA 合作_VA ）_PU ，_PU 2011_CD ._PU 1_CD -_PU 2012_CD ._PU 12_CD ，_PU 负责人_NN 之_DEG 一，_CD 已_AD 结题_VV 。_PU
+
+33_CD ._PU 2014_CD 深圳市_NN 基础_NN 研究_NN 一般_AD 项目_NN ：_PU 绿色_JJ 微电_NN 子学_NN 和_CC 先进_JJ 集成_JJ 电路_NN 设计基_NN 础关键_NN 技术_NN ，_PU 2014_CD ._PU 6_CD -_PU 2016_CD ._PU 12_CD ，_PU 负责人_NN 之一_LC ，_PU 已_AD 结_VV
+题_NN 。_PU
+
+34_CD ._PU 2016_CD 年_M 深_JJ 圳市_NN 布局_NN 项目_NN ：_PU 超低_VV 功耗_NN T_NN -_PU FinFET_NN 关键_JJ 技术_NN ,_PU 2017_CD ._PU 1_CD -_PU 2019_CD ._PU 6_CD ：_PU 项目_NN 负责人_NN ，_PU 在_P 研_NN 。_PU
+
+35_CD ._PU 2017_CD 年_M 深_JJ 圳市_NN 布局_NN 项目_NN ：_PU 高_AD 可_VV 靠_P 大_JJ 功率_NN 和_CC 高频_NN GaN_CD 关键_JJ 技术_NN ，_PU 2018_CD ._PU 6_CD -_PU 2020_CD ._PU 6_CD 项目_NN 负责人_NN ，_PU 在_P 研_NN 。_PU
+
+36_CD ._PU 2017_CD 年_M 深圳_JJ 自由_JJ 探索_NN 项目_NN ：_PU 面向_JJ 芯片_NN 应用_VV 的_DEC 石墨烯_NN 器件_NN 和_CC 电路_NN SPICE_NR 模型_NN ，_PU 2017_CD ._PU 6_CD -_PU 2019_CD ._PU 6_CD ：_PU 项目_NN 负责人_NN ，_PU 在_P 研_NN 。_PU
+
+37_OD ．_PU 广东省_JJ 产学_NN 研项目_NN ：_PU MPW_NN 技术_NN 与_CC 高_VA 可_VV 靠_P C_NN MOS_NR 建模_NN 建_VV 库_NN 技术_NN 研究_NN ，_PU 2011_CD ._PU 1_CD -_PU 2014_CD ._PU 12_CD ，_PU 负责人_NN 之_DEG 一，_CD 已_AD 结题_VV 。_PU
+
+38_OD ．_PU 广东省_JJ 产学_NN 研项目_NN ：_PU 1700V_CD 高_JJ 性能_NN IGBT_NN 功率_NN 芯片_NN 关键_JJ 技术_NN 研究_NN ，_PU 2012_CD ._PU 1_CD -_PU 2014.1_CD ，_PU 负责人_NN 之_DEG 一_NN ，_PU 已_AD 结题_NN 。_PU
+
+39_OD ._PU 深港_NR 创新圈_NN 项目_NN ：_PU 面向_JJ 新型_JJ 平板_NN 显示_VV 的_DEC 薄膜_NN 晶体_NN 管器件_NN 关键_JJ 技术_NN 研究_NN （_PU 香港_NN 科技_NN 大学_NN 和_CC 天马_NN 微电子_NN ）_PU ：_PU 2015_CD ._PU 6_CD -_PU 2017_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+40_OD ._PU 深港_NR 创新圈_NN 项目_NN ：_PU 基于_P 纳米_NN 光学_NN 原理_NN 的_DEG 先进_JJ 显示_NN 与_CC 成像器件_NN 关键_JJ 技术_NN 研发_NN （_PU 香港_NN 中_LC 文_NN 大学_NN 与_CC 超多_JJ 维光_NN 电子_NN ）_PU ：_PU 2014_CD ._PU 6_CD -_PU 2016_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+41_OD ._PU 深港_NR 创新圈_NN 项目_NN ：_PU 用于_VV miRNA_NN 分析_VV 的_DEC 先_AD 进便_VV 携式_NN SPR_NR 检测_VV 平台_NN 关键_NN 技术_NN 研发_NN （_PU 香港理_NN 工大学_NN 与_CC 恩普_NN 医疗_NN 电子_NN ）_PU :_PU 2013_CD ._PU 6_CD -_PU 2015_CD ._PU 12_CD ，_PU 项目_NN 负责人_NN ，_PU 已_AD 结题_NN 。_PU
+
+42_OD ._PU 深圳_JJ 市南_NN 山区_NN 科创_NN 项目_NN ：_PU 少年_NT 中国_NR “_PU 芯_NN ”_PU 工程_NN 精品_NN 课程_NN ，_PU 深圳_NR 市南_NN 山区_NN 科协_NN ，_PU 2019_CD -_PU 2020_CD ，_PU 项目_NN 总指挥_NN ，_PU 在_P 执行_VV 。_PU
+
+43_OD ._PU 深圳南_JJ 山区_NN 科协_NN 项目_NN ：_PU 少年_NT 中国_NR “_PU 芯_NN ”_PU ，_PU 强_AD 基_NN 复_AD 兴梦_VV ，_PU 2019年_NT 深圳_NT 市南_NN 山区_NN 全国_NR 科普_NR 启动_NN 仪式_NN 主体_NN 工程_NN ，_PU 项目_NN 总_JJ 指挥_VV ，_PU 项目_NN 总指挥_NN ，_PU 完成_VV 。_PU
+
+

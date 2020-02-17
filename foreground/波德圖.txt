@@ -1,0 +1,171 @@
+﻿波德_NN 图_NN
+
+波德图_NN （_PU ，_PU “_PU Bode_NN ”_PU 的_DEG 英文_NN 发音_NN 类似_NN Boh_NN -_PU dee_NN ，_PU 荷兰文_NR 的_DEG 发音_NN 则_AD 类似_VV Bow_NN -_PU dah_NN ）_PU ，_PU 又名_JJ 伯德图_NN 、_PU 波特图_NN ，_PU 是_VC 线性_JJ 非时变_NN 系统_NN 的_DEG 传递_NN 函数_NN 对_P 频率_NN 的_DEC 半_CD 对_P 数座_NN 标图_VV ，_PU 其_PN 横轴_NN 频率_NN 以_P 对数_NN 尺度_NN 表示_VV ，_PU 利用_VV 波德图_NN 可以_VV 看出_VV 系统_NN 的_DEG 频率_NN 响应_NN 。_PU 波德图_NN 一般_AD 是_VC 由_P 二_CD 张图_NN 组合_VV 而_MSP 成_VV ，_PU 一_CD 张_M 幅频图_NN 表示_VV 频率_NN 响应_NN 增益_VV 的_DEC 分贝值_NN 对_P 频率_NN 的_DEG 变化_NN ，_PU 另_DT 一_CD 张_M 相_AD 频_VV 图_NN 则_AD 是_VC 频率_NN 响应_VV 的_DEC 相位_NN 对_P 频率_NN 的_DEG 变化_NN 。_PU
+
+波德图_NN 可以_VV 用_VV 电脑_NN 软件_NN （_PU 如_P MATLAB_NN ）_PU 或_CC 仪器_NN 绘制_NN ，_PU 也_CC 可以_VV 自行_VV 绘制_NN 。_PU 利用_VV 波德图_NN 可以_VV 看出_VV 在_P 不同_JJ 频率_NN 下_LC ，_PU 系统_NN 增益_VV 的_DEC 大小_NN 及_CC 相位_VV ，_PU 也_CC 可以_VV 看出_VV 大小_NN 及_CC 相位_NN 随_P 频率_NN 变化_VV 的_DEC 趋势_NN 。_PU
+
+波德图_NN 的_DEG 图形_NN 和_CC 系统_NN 的_DEG 增益_NN ，_PU 极点_NT 、_PU 零点_NN 的_DEC 个数_NN 及_CC 位置_NN 有关_VV ，_PU 只要_CS 知道_NN 相关_VV 的_DEC 资料_NN ，_PU 配合_NN 简单_VA 的_DEV 计算_VV 就_AD 可以_VV 画出_VV 近似_VA 的_DEC 波德图_NN ，_PU 这_PN 是_VC 使用_VV 波德图_NN 的_DEG 好处_NN 。_PU
+
+波德_NN 图_NN 是_VC 由_P 贝尔_NN 实验室_NN 的_DEG 荷兰_NN 裔_VV 科学家_NN 亨德_NN 里克_LC ·_PU 韦德_NN ·_PU 波德_NN 在_P 1930_CD 年_M 发明_NN 。_PU 波德_NN 用_P 简单_VA 但_CC 準确_VA 的_DEC 方法_NN 绘制_VV 增益_NN 及_CC 相位_NN 的_DEC 图_NN ，_PU 因此_AD 他_DT 发明_NN 的_DEG 图_NN 也_AD 就_AD 称为_VV 波德图_NN 。_PU
+
+波德_NN 图幅_NN 频_VV 图_NN 的_DEG 频率_NN 用_VV 对数_NN 尺度_NN 表示_VV ，_PU 增_VV 益_NN 部份_NN 一般_AD 都_AD 用_P 功率_NN 的_DEG 分贝值_NN 来_MSP 表示_VV ，_PU 也就是_AD 将_BA 增益取对_VV 数_CD 后_LC 再_AD 乘以_VV 20_CD 。_PU 由于_P 增_P 益_NN 用_VV 对数_NN 来_MSP 表示_VV ，_PU 因此_AD 一_CD 传递_VV 函数_NN 乘以_VV 一_CD 常数_NN ，_PU 在_P 波德_NN 增益图_NN 只_AD 需_VV 将_BA 图形_NN 的_DEG 纵向_NN 移动_VV 即_AD 可_VV ，_PU 二_AD 传递_VV 函数_NN 的_DEG 相_NN 乘_NN ，_PU 在_P 波德_NN 幅频图_NN 就_AD 变成_VV 图形_NN 的_DEG 相_NN 加_NN 。_PU 幅频图_NN 纵_NN 轴_VC 0_CD 分贝_M 以下_LC 具有_VV 正_AD 增_VV 益裕度_NN 、_PU 属_VV 稳定区_NN ，_PU 反之_AD 属_VV 不稳_AD 定区_VV ：_PU
+
+波德图_NN 相频_VV 图_NN 的_DEG 频率_NN 也_AD 用_VV 对数_NN 尺度_NN 表示_VV ，_PU 而_CC 相位部_NN 份_NN 的_DEG 单位_NN 一般_AD 会_VV 使_VV 用度_NN 。_PU 配合_VV 波德_NN 相_NN 频_CC 图_NN 可以_VV 估算_VV 一_CD 信号_NN 进入_VV 系统_NN 后_LC ，_PU 输出_NN 信号_NN 及_CC 原始_JJ 信号_NN 的_DEC 比例_NN 关系_P 及_CC 相位_JJ 。_PU 例如_AD 一_CD 个_M "_PU A_NN "_PU sin_NN (_PU ω_NN "_PU t_NN "_PU )_NN 的_DEG 信号_NN 进入_VV 系统_NN 后_LC 振幅变_VV 原来_JJ 的_DEG "_PU k_NN "_PU 倍_NN ，_PU 相_AD 位落_VV 后原_NN 信号Φ_NN ，_PU 则_AD 其_PN 输出_NN 信号_NN 则_AD 为_VC (_CD "_PU A_NN "_PU "_PU k_OD "_PU )_OD  _NN sin_NN (_PU ω_NN "_PU t_NN "_PU  − Φ_NN )_PU ，_PU 其中_NN 的_DEG "_PU k_CD "_PU 和_CC Φ都_NN 是_VC 频率_VV 的_DEC 函数_NN 。_PU 相_AD 频_VV 图_NN 纵_VV 轴_NN -_PU 180_CD 度_M 以上_LC 具有_VV 正_NN 相_NN 位裕度_NN 、_PU 属_VV 稳定区_NN ，_PU 反之_AD 属_VV 不_AD 稳定_VA 区_NN
+
+若_CS 将_BA 系统_NN 的_DEG 增益_NN 以_P 复数_NN 表示_VV ，_PU 则_AD 复数_CD 增益_NN 取对_VV 数_CD 后_LC 的_DEG 虚部_NN 即_AD 为_VC 相位_NN ，_PU 因此_AD 二_AD 传递_VV 函数_NN 的_DEG 相_NN 乘_NN ，_PU 在_P 波德_NN 相位图_NN 上_LC 也_AD 是_VC 图形_NN 的_DEG 相_NN 加_NN 。_PU
+
+以下_AD 考虑_VV 有_VE 一_CD 个_M 极点_NN 的_DEC 高通_JJ 滤波器_NN 、_PU 如_P 图_NN 2_CD ：_PU
+
+其中_NN "_PU f_NN "_PU 是_VC 频率_NN ，_PU "_PU f"_NN 是_VC 极_JJ 点_NN 的_DEG 位置_NN ，_PU 单位_NN 都_AD 是_VC Hz_NN 。_PU 图_NN 中_LC "_PU f_NN "_PU =_NN 100_CD Hz_M 。_PU 此_DT 传输_NN 函数_NN 的_DEG 绝对值_NN 为_VC ：_PU
+
+其_PN 相位_NN 为_VC ：_PU
+
+由于_P 波德_NN 相位图_NN 的_DEC 纵轴_NN 相位_VV 使用_NN 角度_NN 而_AD 不_AD 是_VC 弪度_NN ，_PU 需要_VV 使用_VV 对应_JJ 角度_NN 的_DEG 反正切_NN 函数_NN 。_PU 波德_NN 增益图_NN 的_DEG 纵轴_NN 是_VC 转换_VV 函数_NN 的_DEG 分贝_NN ，_PU 其_PN 数值_NN 如下_VV ：_PU
+
+如下_JJ 图3_NN 是_VC 一_CD 个_M 单一_JJ 极点_NN 低_AD 通_VV 滤波器_NN 的_DEG 波德图_NN ：_PU
+
+於_P 图_NN 3_CD 中_LC 也_AD 有_VE 用_VV 直线_NN 近似_VA 的_DEC 波德图_NN ，_PU 常_AD 在_P 自行_VV 绘制_NN 波德图_NN 时_LC 使用_VV ，_PU 其_PN 原理_NN 会_VV 在_P 后面_NN 的_DEG 章节_NN 中_LC 说明_NN 。_PU
+
+波德图_NN 的_DEG 增益_NN 和_CC 相位_NN 很_AD 难_AD 单独_JJ 的_DEG 变动_NN 、_PU 二者_NN 会_VV 互相_AD 牵扯_VV ，_PU 当_P 调整_NN 系统_NN 的_DEG 增益_NN 响应_NN 时_LC ，_PU 系统_NN 的_DEG 相位_NN 响应_NN 也_AD 会随_VV 之_DEC 变化_NN ，_PU 反之_AD 亦然_VV 。_PU 最_AD 小_JJ 相位_NN 系统_NN 的_DEG 增益_NN 和_CC 相位_NN 特性_NN 之间_LC 可以_VV 用_VV 希尔_NN 伯_NN 特_NN 转换_NN 来_MSP 转换_VV ，_PU 因此_AD 知道_VV 其中_DT 一_CD 项_M 即_AD 可_VV 求出_VV 另外_DT 一_CD 项_M 。_PU
+
+若_CS 转换_VV 函数_NN 是_VC 有_VE 理_NN 函数_NN ，_PU 其_PN 零点_NN 及_CC 极点_NN 均_AD 为_VC 实数_NN ，_PU 则_AD 其_PN 波德图_NN 可以_VV 用_P 几_CD 条_M 渐_AD 近_JJ 线_NN 的_DEG 直线_NN 来_MSP 近似_VV ，_PU 利用_VV 简单_VA 的_DEC 规_NN 则即_AD 可以_VV 徒手_AD 绘制_VV 。_PU 若_CS 近似_VA 的_DEC 波德_NN 图_NN 再_AD 修正_VV 每_DT 个_M 截止_NN 频率_NN 时_LC 的_DEG 增益值_NN ，_PU 则_AD 其_PN 近似值_NN 会_VV 更_AD 接近_VV 实际值_NN 。_PU
+
+波德图_NN 的_DEC 前提_NN 就_AD 是_VC 可以_VV 处理_VV 以下_JJ 型式_NN 函数_NN 的_DEC 对数值_NN ：_PU
+
+上述_JJ 函数_NN 的_DEC 对数值_NN 可以_VV 转换_VV 为_VC 极点_NN 及_CC 零点_NN 对数_VA 的_DEC 和_CC ：_PU
+
+在_P 绘制_NN 波德_NN 相位图_NN 时_LC 直接_AD 使用_VV 了_AS 上述_JJ 的_DEG 概念_NN 。_PU 增益图_NN 的_DEG 绘制_NN 时_LC 则_AD 是_VC 以_P 此_PN 概念_VV 为_VV 基础_NN ，_PU 因为_P 每_DT 个_M 极点_NN 或_CC 零点_NN 其_PN 增益_NN 的_DEC 对数_NN 均_AD 从_P 0_CD 开始_VV ，_PU 而且_CC 其_PN 渐近_JJ 线_NN 只_AD 有_VE 一_CD 个_M 转折点_NN ，_PU 因此_AD 绘制_VV 时_LC 可以_VV 再_AD 作_VV 简化_VV 。_PU
+
+波德_NN 图增_NN 益_NN 分贝值_NN 一般_AD 都_AD 利用_VV formula_NN
+
+其中_NN formula_NN __NN 12_CD 及_CC formula_NN __NN 13_CD 是_VC 常数_NN ，_PU formulaformula_NN
+
+
+在_P 处理_NN 无法_AD 分解_VV 的_DEC 二_CD 次_M 多项式_JJ formula_NN __NN 20_CD 时_LC ，_PU 多半_AD 可以_VV 用_P formula_NN
+
+直线_NN 近似_VA 的_DEC 增益图_NN 可以_VV 用_P 以下_JJ 方式_NN 修正_VV ：_PU
+
+
+上述_JJ 的_DEG 修正_NN 方式_NN 只_AD 针对_P 实数_NN 的_DEG 极点_NN 或_CC 零点_NN 。_PU 若_CS formula_NN __NN 24_CD 或_CC formula_NN
+
+考虑_VV 一_CD 个_M 以下_JJ 型式_NN 的_DEG 传递_NN 函数_NN ：_PU
+
+可以_VV 先_AD 依_P 每_DT 个_M 极点_NN 及_CC 零点_NN 分別_NN 绘制_VV 相位图_NN ，_PU 再_AD 将_BA 各_DT 相位图_NN 相加_VV 。_PU 相位图_NN 的_DEC 曲线_NN 为_VC 以下_JJ 的_DEG 反正切_NN 函数_NN formula_NN
+
+在_P 绘制_NN 相位图_NN 时_LC ，_PU 针对_P 每_DT 个_M 极点_NN 及_CC 零点_NN ：_PU
+
+
+以下_NN 是_VC 常见_JJ 简易_NN 传递_VV 函数_NN 的_DEG 波德_NN 图_NN 趋势_VV ：_PU
+
+考虑_VV 以下_JJ 的_DEG 低通_JJ RC_NN 电路_NN 、_PU 如_P 图_NN 3_CD ，_PU 其_PN 频域_NN 的_DEG 转换_NN 函数_NN 如下_VV ：_PU
+
+formula_NN
+
+由_P 转换_NN 函数_NN 可以_VV 得到_VV 其_PN 截止_NN 频率_NN "_PU f_NN "_PU （_PU 以_P Hz为_NR 单位_NN ）_PU 为_VC
+
+formula_NN
+
+另_DT 一_CD 种_M 等效_JJ 表示法_NN 为_VC
+
+formula_NN
+
+其中_NN formula_NN
+
+以_P 角频率_NN 表示_VV 的_DEC 转换_NN 函数_NN 如_P 下_NN
+上述_JJ 的_DEG 方程_NN 式_NN 是_VC 一_CD 个_M 正_AD 规化_VV 后_LC 的_DEG 转换_NN 函数_NN ，_PU 其_PN 波德_NN 图_NN 如_P 图_NN 3_CD ，_PU 后续_CC 将_BA 介绍_NN 如_P 何_PN 用_VV 直线_NN 来_MSP 近似_VV 波德图_NN 。_PU
+
+上述_JJ 转换_NN 函数_NN 的_DEG 增益_NN formula_NN
+
+若_CS 在_P 对数_NN 尺度_NN 的_DEG 频率_NN 下_LC 绘制_VV 不同_JJ 频率_NN formula_NN
+
+
+上述_JJ 的_DEG 二条线_NN 在_P 截止_NN 频率_NN formuladB_NN ，_PU 对应_VV 其_PN 通带_NN 增益_VV 为_VC 1_CD ，_PU 此时_CD 滤波_NN 电路_NN 的_DEG 输出值_NN 和_CC 输入值_NN 相同_VA ，_PU 而_CC 当_P 频率_NN 高于_VV 截止_NN 频率_NN 时_LC ，_PU 信号_NN 会_VV 被_LB 电路_NN 衰减_VV ，_PU 越_AD 高频_VA 的_DEC 信号_NN 其_PN 衰减量_NN 越_AD 大_VA 。_PU
+
+上述_JJ 转换_NN 函数_NN 的_DEG 相位_NN 和_CC 频率_NN 的_DEG 关系_NN 如_P 下_NN
+
+其中_NN formulaformula_NN 当_P 输入角_NN 频率_NN 远_AD 小于_VV 截止角_NN 频率_NN 时_LC （_PU formula_NN __NN 50_CD «_NN formula_NN __NN 51_CD ）_PU ，_PU formula_NN __NN 62_CD 比例_NN 的_DEG 数值_NN 很_AD 小_VA ，_PU 因此_AD 相位角_NN 接近_NN 零度_NN 。_PU 当_P 频率_NN 增加_VV ，_PU 相位角_NN 的_DEC 绝对值_NN 也_AD 随之_AD 增加_VV 。_PU 在_P （_PU formula_NN __NN 63_CD ）_PU 时_LC 为_VC -_PU 45_CD 度_M 。_PU 当_P 输入_VV 角频率_NN 远大于_VV 截止角_NN 频率_NN 时_LC （_PU formula_NN __NN 50_CD »_NN formula_NN __NN 51_CD ，_PU formula_NN
+
+波德图_NN （_PU 包括_VV 幅频图_NN 及_CC 幅相图_NN ）_PU 的_DEG 横轴_NN 频率_NN 部份_NN 均_AD 可以_VV 用正_VV 规化_VV 的_DEC 频率_NN （_PU 无_VE 因_P 次频率_NN ，_PU formula_NN __NN 52_CD ）_PU 表示_VV 。_PU 此时_NT 的_DEG 图称_NN 为_VC 正规化_JJ 的_DEG 波德图_NN ，_PU 而且_CC 其中_NN 不_AD 需_VV 考虑_VV 频率_NN 的_DEC 单位_NN ，_PU 因为_P 频率_NN 已_AD 改用_VV 频率_NN 和_CC 截止_NN 频率_NN formula_NN
+
+图_NN 4_CD 至_CC 图_NN 7_CD 是_VC 有_VE 极点_NN 和_CC 零点_NN 的_DEC 波德图_NN ，_PU 可_VV 用来_VV 说明_VV 如何_DT 叠加_VV 不同_JJ 极点_NN 的_DEC 零点_NN 的_DEC 图形_NN ，_PU 得到_VV 完整_VA 的_DEC 波德图_NN 。_PU
+
+图_NN 4_CD 是_VC 一_CD 个_M 零点_NN 及_CC 极点_NN （_PU 在_P 相同_JJ 频率_NN ）_PU 的_DEG 波德_NN 增益图_NN ，_PU 及_CC 其_PN 直线_NN 近似_VA 的_DEC 增益图_NN 。_PU 以_P 直线_NN 近似_VA 的_DEC 图_NN 来_MSP 看_VV ，_PU 在_P 频率_NN 小于_VV 零点_NN （_PU 或_CC 极点_NT ）_PU 时_LC 其_PN 增益图_NN 为_VC 一_CD 水平线_NN ，_PU 超过_VV 零_CD 点_M （_PU 或_CC 极点_NT ）_PU 100_CD 后_LC 以_P 20_CD dB_M /_PU 十_CD 倍_M 频_VV 的_DEC 斜率_NN 上_LC 升（_VV 或_CC 下降_VV ）_PU 。_PU 图_NN 5_CD 则_AD 为_VC 其_PN 相位图_NN 及_CC 直线_NN 近似_VA 的_DEC 版本_NN ，_PU 在_P 频率_NN 小于_P 零点_NN （_PU 或_CC 极点_NT ）_PU 的_DEG 十分之一_CD 时_LC ，_PU 其_PN 相位图_NN 为_VC 一_CD 水平线_NN ，_PU 超过_VV (10_CD )_PU 之后_LC 以_P 45_OD 度_M /_PU 十_CD 倍_M 频_VV 的_DEC 斜率_NN 上_LC 升（_VV 或_CC 下降_VV ）_PU ，_PU 直到_VV 等于_VV 零点_NN （_PU 或_CC 极点_NT ）_PU 的_DEC 十_CD 倍_M (_PU 1000_CD )_PU 为止_P ，_PU 之后_AD 相位_VV 图_NN 为_VC 一_CD 数值_NN 为_VC +_P 90_CD 度_M （_PU 或_CC -_PU 90_CD 度_M ）_PU 的_DEC 水平线_NN 。_PU
+
+图_NN 6_CD 及_CC 图_NN 7_CD 分別_NN 是_VC 有_VE 一_CD 个_M 极点_NN 及_CC 零点_NN 的_DEC 系统_NN 的_DEG 波德_NN 增益_VV 图_NN 及_CC 波德_NN 相位图_NN ，_PU 其中_NN 零点_NN 的_DEG 频率_NN 为_VC 极点_NT 的_DEG 十_CD 倍_M 。_PU 图_NN 6_CD 中_LC 因_P 为极_NN 点_NN 中_LC 的_DEG 影响_NN ，_PU 在_P 频率_NN 超过_VV 100_CD 极点_M 后_LC ，_PU 波德_NN 极_CC 点_NN 增_VV 益_NN 会_VV 以_P -_PU 20_CD dB_M /_PU 十_CD 倍_M 频_VV 的_DEC 斜率_NN 下降_VV ，_PU 但_AD 到_VV 1000_CD 时_LC ，_PU 因_P 波德_NN 零点_NN 增_VV 益_NN 会_VV 以_P +_NOI 20_CD dB_M /_PU 十_CD 倍_M 频_VV 的_DEC 斜率_NN 上_LC 昇_SP ，_PU 抵消_VV 极点_NT 的_DEG 影响_NN ，_PU 因此_AD 在_P 频率_NN 超过_VV 1000_CD 之后_LC ，_PU 增益_VV 为_VC 一定值_NN 。_PU
+
+图_NN 7_CD 的_DEG 相位图_NN 中_LC ，_PU 在_P 高频_NN （_PU 频率_NN 高于_VV 零点十倍_NN ）_PU 及_CC 低频_NN （_PU 频率_NN 高于_VV 极点_NT 十分之一_CD ）_PU 处_NN ，_PU 其_PN 相位_NN 都_AD 为_VC 0_CD 度_M ，_PU 低频_NN 相_AD 位为_VV 零_CD 是_VC 因为_P 零点_NN 及_CC 极点_NN 对_P 相位_NN 的_DEC 贡献_NN 均_AD 为_VC 0_CD 度_M ，_PU 高频_NN 相_AD 位为_VV 零_CD 是_VC 因为_P 零点_NN 及_CC 极点_NN 对_P 相位_NN 的_DEC 贡献分_NN 別_NN 为_VC +_NN 90_CD 度_M 及_CC -_PU 90_CD 度_M ，_PU 互相_AD 抵消_VV 后_LC 总_JJ 相位_NN 为_VC 0_CD 度_M 。_PU 而_CC 中间_NN 的_DEG 区域_NN 因_P 极点_NT 及_CC 零点_NT 的_DEG 相位_NN 抵消_VV 后_LC 不_AD 为_VC 零_CD ，_PU 因此_AD 可以_VV 看出_VV 其_PN 相位_NN 的_DEG 变化_NN 。_PU
+
+波德图_NN 可_VV 用来_VV 计算_VV 负_VV 反馈_NN 系统_NN 的_DEG 增益_NN 裕度_NN （_PU gainmargin_NN ）_PU 及_CC 相位_NN 裕度_NN ，_PU 进而_AD 确认_VV 系统_NN 的_DEG 稳定性_NN 。_PU
+
+先_AD 定义_VV 以下_JJ 的_DEG 符号_NN ：_PU
+
+其中_NN
+
+在_P 开回_VV 路_NN 增益_NN "_PU A_NN "_PU 远大于_VV 1_CD 时_LC ，_PU 闭_VV 回路_NN 增益_VV "_PU A_NN "_PU 可以_VV 用_P 以下_JJ 方式_NN 近似_VA
+
+在_P 开回_VV 路_NN 增益_NN "_PU A_NN "_PU 远小于_VV 1_CD 时_LC ，_PU 闭_VV 回路_NN 增益_VV "_PU A_NN "_PU 可以_VV 用_P 以下_JJ 方式_NN 近似_VA
+
+增益_NN "_PU A"_NN 是_VC 频率_NN 的_DEC 复变_JJ 函数_NN ，_PU 有_VE 大小_NN 及_CC 相位_NN 。_PU
+
+上述_JJ 的_DEG 式子_NN 中_LC ，_PU 若_CS β_NN "_PU A_NN "_PU 乘积_NN =_NOI −_NN 1_CD 时_LC ，_PU 可能_VV 会_VV 出现_VV 增益_NN 无穷_AD 大_VA （_PU 即_AD 为_VC 不_AD 稳定_VA ）_PU 的_DEG 情形_NN 。_PU （_PU 若_CS 用_VV 大小_NN 和_CC 相位_NN 来_MSP 表示_VV ，_PU 此时_NT β_NN "_PU A_NN "_PU 的_DEG 大小_NN 为_VC 1_CD ，_PU 相_CC 位_NN 为_VC -_PU 180_CD 度_M ，_PU 此_DT 条件_NN 即_AD 称为_VV 。_PU 配合_VV 波德图_NN ，_PU 不但_CC 可_VV 以_P 判断_VV 系统_NN 是_VC 否_AD 稳定_VA ，_PU 也_CC 可以_VV 判断_VV 系统_NN 接近_VV 以上_LC 不_AD 稳定_VA 条件_NN 的_DEG 程度_NN 。_PU
+
+在_P 判断_NN 系统_NN 稳定性_NN 时_LC ，_PU 会_VV 用到_VV 以下_JJ 二_CD 个_M 频率_NN 。_PU 第一_OD 个_M 频率_NN "_PU f_NN "_PU 是_VC 上述_JJ 乘积_NN 相_AD 位恰_VV 为_VC -_PU 180_CD 度_M 的_DEG 频率_NN ，_PU 第二_OD 个_M 频率_NN "_PU f_NN "_PU 则_AD 为_VC 乘积_NN 的_DEG 绝对_JJ 值|β_NN "_PU A_NN "_PU |_VV =_NN 1_CD 时_LC 的_DEG 频率_NN （_PU 若_CS 以_P 分贝_NN 表示_VV 时_LC ，_PU 则_AD 为_VC 0_CD dB_M ）_PU 。_PU 频率_NN "_PU f_NN "_PU 可以_VV 用_P 下式_NN 来_MSP 计算_VV ：_PU
+
+其中_NN |_NOI |_NOI 表示_VV 复数_NN 的_DEG 绝对值_NN （_PU 例如_AD | _NR "_PU a_NN "_PU  + _NN "_PU j_NN "_PU  _NN "_PU b_NN "_PU  |=_NN [_PU "_PU a_NN "_PU +_NN "_PU b_NN "_PU ]_PU ）_PU 。_PU 而_CC 频率_NN "_PU f_NN "_PU 有_VE 以下_JJ 的_DEG 关系_NN ：_PU
+
+增益_NN 裕度_NN （_PU gainmargin_NN ,_PU GM_CD ）_PU 是_VC 衡量_NN 系统_NN 稳定_VA 程度_NN 的_DEC 一_CD 种_M 方法_NN 。_PU 在_P 波德_NN 相_NN 位_CC 图_NN 上_LC 可以_VV 找到_VV β_NN "_PU A_NN "_PU 相位到达_VV -_PU 180_CD 度_M 时_LC 的_DEG 频率_NN ，_PU 该_DT 频率_NN 即_AD 为_VC "_PU f_NN "_PU ，_PU 之后_AD 就_AD 可以_VV 在_P 增益_VV 图_NN 上_LC 找到_VV 该_DT 频率_NN 时_LC β_LC "_PU A_NN "_PU 的_DEG 大小_NN 。_PU
+
+若_CS |_VV β_NN "_PU A_NN "_PU |_NN >_PU 1_CD ，_PU 表示_VV 此_DT 系统_NN 不_AD 稳定_VA 。_PU 若_CS |_VV β_NN "_PU A_NN "_PU |_NN <_PU 1_CD ，_PU 此_DT 系统_NN 稳定_VA ，_PU 而_CC |_P β_NN "_PU A_NN "_PU |_NN 分贝值_NN 和_CC 0dB_NN （_PU 对应_AD 增益_VV 大小_NN 为_VC 1_CD ）_PU 的_DEG 距离_NN 表示_NN 系统_NN 距离_NN 不_AD 稳定_VA 的_DEC 程度_NN ，_PU 称为_VV 增益_NN 裕度_NN 。_PU
+
+增益_NN 裕度_NN 也_AD 可以_VV 用_P 下式_NN 表示_VV ：_PU
+
+相位_NN 裕度_NN （_PU phasemargin_NN ,_PU PM_NN ）_PU 是_VC 另_DT 一_CD 种_M 衡量_NN 系统_NN 稳定_VA 程度_NN 的_DEC 方法_NN 。_PU 在_P 波德_NN 增益图_NN 上_LC 可以_VV 找到_VV |_VV β_NN "_PU A_NN "_PU |_AD 大小_NN 为_VC 1_CD 的_DEG 频率_NN ，_PU 该_DT 频率_NN 即_AD 为_VC "_PU f_NN "_PU ，_PU 之后_AD 就_AD 可以_VV 在_P 相位图_NN 上_LC 找到_VV 该_DT 频率_NN 时_LC β_LC "_PU A_NN "_PU 的_DEG 相位_NN 。_PU
+
+若_CS β_NN "_PU A_NN "_PU ("f"</sub>)_PU 的_DEG 相位_NN >_PU −_NN 180_CD °_M ，_PU 表示_VV 在_P 任何_DT 频率_NN 时_LC 系统_NN 都_AD 会_VV 稳定_VV ，_PU 因为_P 在_P "_PU f_CD "_PU 时_LC 大小_AD 已_AD 小于_VV 1_CD ，_PU "_PU f_NR "_PU 时_LC 的_DEG 相位_NN 和_CC -_PU 180_CD 度_M 之间_LC 的_DEG 差称_NN 为_VC 相位_NN 裕度_NN 。_PU
+
+若只是单_AD 纯要_JJ 判断_NN 系统_NN 是否_AD 稳定_VA ，_PU 在_P 系统_NN 为_VC 最_AD 小_JJ 相位_NN 系统_NN 时_LC ，_PU 若_CS 以下_JJ 的_DEG 式子_NN 成立_NN ，_PU 则_AD 系统_NN 稳定_VV ：_PU
+
+若_CS 是_VC 非_JJ 最_AD 小_JJ 相位_NN 系统_NN ，_PU 需要_VV 用_VV 其他_DT 方式_NN 判断_VV 稳定性_NN ，_PU 如_P 奈奎_NN 斯_DT 特_CC 图_NN 。_PU
+
+<_PU gallerycaption_NN =_NN "_PU 增益_NN 裕度_NN 及_CC 相位_NN 裕度_NN 范例_NN ，_PU 1_CD /_PU β=_NN 58_CD dB_NN "_PU widths_NN =_NN "_PU 300_CD px_M "_PU perrow_NN =_NN "_PU 2_CD "_PU >_PU
+Image_NN :_PU Magnitudeoffeedbackamplifier_NN ._PU PNG_NN |_VV 图_NN 8_CD ：_PU 放大器_NN 的_DEG 波德_NN 增益_VV 图_NN ，_PU 其中_NN 有_VE 以_P 分贝_NN 表示_VV 的_DEC 闭_VV 回路_NN 增益_VV "_PU A"_NN 及_CC 开回_VV 路_NN 增益_NN "_PU A_NN "_PU ，_PU 参数_NN 1_CD /_PU β=_NN 58_CD dB_NN ，_PU 低_JJ 频时_NN "_PU A_NN "_PU ≈_NN 58_CD dB_NN ，_PU 因为_P |β"A_JJ "_PU |=_JJ 1_CD 出现_VV 的_DEC 频率_NN 和_CC "_PU f_OD "_PU 的_DEG 频率_NN 非常_AD 接近_VV ，_PU 其_PN 增益_NN 裕度_NN 几乎_AD 为_VC 0_CD 。_PU
+Image_NN :_PU Phaseoffeedbackamplifier_NN ._PU PNG_NN |_VV 图_NN 9_CD ：_PU 放大器_NN 的_DEG 波德_NN 相位图_NN ，_PU 其中_NN 有_VE 以度_NN 表示_VV 的_DEC 闭_VV 回路_NN 相_AD 位_VA "_PU °A_NN "_PU 及_CC 开_VV 回路_NN 相位_NN "_PU °_NN A_NN "_PU ，_PU 因为_P 相_AD 位到_VV -_PU 180_CD 度_M 的_DEG 位置_NN 非常_AD 接近_VV "_PU f_NN "_PU =_NN "_PU f_NN "_PU （_PU 即_AD |_VV β_NN "_PU A_NN "_PU |_VV =_NN 1_CD ）_PU 的_DEG 频率_NN ，_PU 因此_AD 相_BA 位_NN 裕度_NN 也_AD 很_AD 接近_VV 零度_NN 。_PU
+<_PU /_PU gallery_NN >_PU
+
+图_NN 8_CD 及_CC 图_NN 9_CD 可_VV 说明_VV 增_VV 益裕度_NN 及_CC 相位_NN 裕度_NN 在_P 实际_NN 系统_NN 中_LC 的_DEG 应用_NN 。_PU 图_NN 8_CD 是_VC 一_CD 个_M 放大器_NN 的_DEG 波德_NN 增益图_NN ，_PU 图_NN 中_LC 有_VE 绘出_NN 不_AD 考虑_VV 反馈_VV 的_DEC 增益_NN 大小_NN （_PU 开_VV 回路_NN 增益_VV ）_PU "_PU A"_NN 及_CC 考虑_JJ 反馈_NN 的_DEG 增益_NN 大小_NN （_PU 闭_VV 回路_NN 增益_VV ）_PU "_PU A"_NN 。_PU 在_P 负反馈_NN 放大器_NN 条目_NN 中_LC 有_VE 进一步_JJ 的_DEG 说明_NN 。_PU
+
+在_P 此_DT 例_NN 中_LC ，_PU 低频_NN 的_DEC "_PU A_NN "_PU =_NN 100_CD dB_M ，_PU 而_CC 1_CD /_PU β=_NN 58_CD dB_NN 。_PU 低_JJ 频时_NN "_PU A_NN "_PU 的_DEC 近似值_NN 也_AD 是_VC 58_CD dB_M 。_PU
+
+因为_P 图_NN 中_LC 只_AD 绘出_VV 开_VV 回路_NN 增益_VV "_PU A_NN "_PU ，_PU 不_AD 是_VC β_NN "_PU A_NN "_PU ，_PU 因此_AD 判断_VV "_PU f_NN "_PU 的_DEC 条件_NN 改为_VV "_PU A_NN "_PU =_NN 1_CD /_PU β_CD 。_PU 在_P 低_JJ 频时_NN β_NN "_PU A_NN "_PU 远大于_VV 1_CD ，_PU "_PU A_NN "_PU 可_VV 近似_AD 为_VC 1_CD /_PU β_NN ，_PU 因此_AD 可以_VV 用_VV "_PU A_NN "_PU 代替_VV 1_CD /_PU β_NN ，_PU 因此_AD "_PU A_NN "_PU 及_CC "_PU A_NN "_PU 相交_VV 的_DEC 位置_NN 即_AD 为_VC "_PU f_NN "_PU （_PU 后续_CS 在_P 计算_NN 相_AD 位增_VV 益_NN 时_LC 需要_VV 频率_NN "_PU f_NN "_PU ）_PU 。_PU
+
+在_P "_PU f_NN "_PU 附近_NN ，_PU 闭_VV 回路_NN 增益_VV 有_VE 很_AD 大_VA 的_DEC 突波_NN ，_PU 因此_AD 该_DT 频率_NN 时_LC β_LC "_PU A_NN "_PU 可能_VV 很_AD 接近_VV -_PU 1_CD （_PU 若β_CD "_PU A_NN "_PU =_NN -_PU 1_CD ，_PU 就_AD 会_VV 有_VE 无_VE 穷_AD 大_VA 的_DEC 增益_NN ）_PU 。_PU 频率_NN 超过_VV "_PU f_NN "_PU 之后_LC ，_PU "_PU A_NN "_PU 远小于_VV 1_CD ，_PU 因此_AD "_PU A_NN "_PU 可_VV 近似_AD 为_VC "_PU A_NN "_PU 。_PU
+
+图_NN 9_CD 则_AD 是_VC 二_CD 种_M 增益_NN 在_P 相位_NN 上_LC 的_DEC 比较_NN ，_PU 低_AD 频_VV 时_LC 闭_VV 回路_NN 增益_VV 的_DEC 相位_NN 接近_VV 0度_NN ，_PU 但_CC 在_P 频率_NN =_NN "_PU f_NN "_PU 时_LC ，_PU 开回_VV 路_NN 增_VV 益_NN 的_DEG 相位_NN 为_VC -_PU 180_CD 度_M ，_PU 而_CC 闭_VV 回路_NN 增_VV 益_NN 突_AD 然下_AD 降到_VV 几乎_NN -_PU 180_CD 度_M 的_DEG 位置_NN 。_PU 因_P 开回_VV 路_NN 增益_NN 相_NN 位_NN 为_VC −_NN 180_CD 度_M ，_PU 因此_AD 相_BA 位_NN 裕度_NN 为_VC 0_CD 度_M （_PU -_PU 180_CD 度_M -_PU (_NN -_PU 180_CD 度_M )_PU =_CS 0_CD 度_M ）_PU 。_PU （_PU 参阅_VV 简介_NR ）_PU
+
+根据_P 图_NN 8_CD 及_CC 图_NN 9_CD ，_PU 可以_VV 看出_VV 此_DT 放大器_NN 的_DEG 零_OD 分_M 贝频率_NN "_PU f_NN "_PU 及_CC 相位_JJ 反转_NN 频率_NN "_PU f_NN "_PU 非常_AD 接近_VV ：_PU "_PU f_NN "_PU ≈_NN "_PU f_NN "_PU ≈_NN 3_CD ._PU 332_CD  _M kHz_NN ，_PU 而_CC 3_CD ._PU 332_CD  _M kHz_NN 对应_VV 之_DEC 开_VV 回路_NN 增益_VV 为_VC 58_CD dB_NN （_PU 1_CD /_PU β=_NN 58_CD dB_NN ）_PU ，_PU 58_CD db_M -_PU 58_CD dB_NN =_PU 0_CD dB_M 。_PU 因此_AD 增_VV 益裕度_NN 及_CC 相位_NN 裕度_NN 都_AD 非常_AD 接近_VV 零_CD ，_PU 此_DT 系统_NN 为_VC 临界_NN 稳定_NN 。_PU
+
+<_PU gallerycaption_NN =_NN "_PU 增益_NN 裕度_NN 及_CC 相位_NN 裕度_NN 范例_NN ，_PU 1_CD /_PU β=_NN 77_CD dB_NN "_PU widths_NN =_NN "_PU 300_CD px_M "_PU perrow_NN =_NN "_PU 2_CD "_PU >_PU
+Image_NN :_PU GainMargin_NN ._PU PNG_NN |_CC 图_NN 10_CD ：_PU 放大器_NN 的_DEG 波德_NN 增益图_NN ，_PU 其中_NN 有_VE 以_P 分贝_AD 表示_VV 的_DEC 闭_VV 回路_NN 增益_VV "_PU A"_NN 及_CC 开回_VV 路_NN 增益_NN "_PU A_NN "_PU ，_PU 参数_NN 1_CD /_PU β=_NN 77_CD dB_NN ，_PU 增_VV 益裕度_NN 为_VC 19_CD dB_M 。_PU
+Image_NN :_PU PhaseMargin_NN ._PU PNG_NN |_CC 图_NN 11_CD ：_PU 放大器_NN 的_DEG 波德_NN 相位图_NN ，_PU 其中_NN 有_VE 以度_NN 表示_VV 的_DEC 闭_VV 回路_NN 相_AD 位_VA "_PU °A_NN "_PU 及_CC 开_VV 回路_NN 相位_NN "_PU °_NN A_NN "_PU ，_PU 相位_NN 裕度_NN 为_VC 45度_NN 。_PU
+<_PU /_PU gallery_NN >_PU
+
+图_NN 10_CD 和_CC 图_NN 11_CD 是_VC 在_P 较_AD 小_JJ 反馈_NN 系数β_NN （_PU 1_CD /_PU β=_NN 77_CD dB_M ）_PU 时_LC ，_PU 同_DT 一_CD 系统_NN 的_DEG 波德图_NN ，_PU 由于_P β_NN 较_AD 小_VA ，_PU 因此_AD |_VV β_NN "_PU A_NN "_PU |_NN =_AD 1_CD 出现_VV 在_P 较_AD 低_VA 的_DEC 频率_NN ，_PU 而_CC 低_JJ 频时_NN "_PU A_NN "_PU 也_AD 是近_AD 似_VA 1_CD /_PU β_NN （_PU 77_CD dB_M ）_PU 。_PU
+
+图_NN 10_CD 是_VC 波德_NN 增益图_NN 。_PU 1_CD /_PU β及_NN "_PU A_NN "_PU 的_DEG 曲线_NN 在_P "_PU f_NR "_PU =_AD 1_CD kHz_M 时_LC 相交_VV 。_PU 在_P "_PU f_NR "_PU 附近_NR 闭_VV 回路_NN 增益_VV "_PU A_NN "_PU 没有_VE 明显_VA 的_DEC 突波_NN 。_PU
+图_NN 11_CD 是_VC 波德_NN 相位图_NN 。_PU 利用_VV 增益图_NN 上_LC 得到_VV 的_DEC "_PU f_NN "_PU =_VV 1_CD kHz_M ，_PU 对应_VV 的_DEC 开_VV 回路_NN 相位_NN 为_VC −_NN 135_CD 度_M ，_PU 因此_AD 相位_JJ 裕度_NN 为_VC 正_CC 45_CD 度_M （_PU -_PU 135_CD 度_M -_PU (_NN -_PU 180_CD 度_M )_PU =_VV 45_CD 度_M ）_PU 。_PU （_PU 参阅_NN 简介_VA ）_PU
+
+图_NN 11_CD 和_CC 图_NN 9_CD 的_DEC 函数_NN 只_AD 有_VE 反馈系_NN 数β_NN 不同_VA ，_PU 其_PN 开_VV 回路_NN 的_DEC 波德_NN 相位图_NN 均_AD 相同_VA ，_PU 因此_AD 图_NN 11_CD 的_DEG "_PU f_NN "_PU 和_CC 图_NN 9_CD 相同_VA ，_PU 都_AD 是_VC 3_CD ._PU 332_CD kHz_NN 。_PU 对应_VV 的_DEC 开回_NN 路增益_NN 为_VC 58_CD dB_NN ，_PU 和_CC 1_CD /_PU β=_NN 77_CD dB_NN 比较_NN ，_PU 增_VV 益裕度_NN 为_VC 19_CD dB_M 。_PU 而_CC 相位_JJ 裕度_NN 为_VC 正_CC 45_CD 度_M ，_PU 此_PN 为_VC 〈_PU 稳定_VA 系统_NN 〉_PU 。_PU
+
+在_P 比较_VV 放大器_NN 的_DEG 响应_NN 时_LC ，_PU 稳定性_NN 不_AD 是_VC 唯一_JJ 的_DEG 重点_NN ，_PU 在_P 许多_CD 应用_NN 中_LC 良好_VA 的_DEC 阶跃_NN 响应_NN 比_NN 稳定_VA 性更_VA 重要_VA 。_PU 依照_P 经验_NN 法则_NN ，_PU 良好_VA 的_DEC 阶跃_NN 响应_NN 需要_VV 至少_AD 45_CD 度_M 的_DEG 相位_NN 裕度_NN ，_PU 若_CS 将_BA 制造_VV 时_LC 元件_NN 参数_NN 偏差_VV 一并_AD 列入_VV 考虑_VV ，_PU 理想_VA 的_DEC 相位_NN 裕度_NN 最好_AD 要_VV 超过_VV 70_CD 度_M 。_PU 在_P 阶跃_NN 响应条_NN 目_VV 有关_P 相位_JJ 裕度_NN 的_DEC 段落_NN 中_LC 有_VE 更_AD 深入_VV 的_DEC 说明_NN 。_PU
+
+波德_NN 分析仪_NN （_PU Bodeplotter_NN ）_PU 是_VC 一_CD 种_M 类似_JJ 示波器_NN 的_DEG 仪器_NN ，_PU 可以_VV 量_BA 测_VV 反馈_NN 控制_NN 系统_NN 或_CC 滤波器_NN 在_P 各_DT 频率_NN 的_DEG 增益_NN 及_CC 相位_NN 变化_NN ，_PU 绘_NN 制成_VV 波德图_NN 。_PU 右图_NN 即_AD 为_VC 一_CD 例_M ，_PU 波德_NN 测试仪_NN 可以_VV 量_AD 测_VV 系统_NN 的_DEC 截止_NN 频率_NN 、_PU 增_VV 益_NN 裕度_NN 及_CC 相位_NN 裕度_NN ，_PU 在_P 分析_NN 或_CC 测试_NN 系统_NN 的_DEG 稳定性_NN 时_LC 很_AD 有_VE 帮助_NN 。_PU
+
+波德_NN 分析仪_NN 的_DEC 功能_NN 和_CC 一_CD 様_M ，_PU 不_AD 过_VV 网路_NN 分析仪_NN 一般_AD 会_VV 用来_VV 分析_VV 相当_JJ 高频_NN 时_LC 的_DEG 系统_NN 特性_NN 。_PU
+
+在_P 教育_VV 或_CC 研究_VV 的_DEC 应用_NN 上_LC ，_PU 利用_VV 波德_NN 分析仪_NN 绘制_VV 特定_JJ 传递_NN 函数_NN 的_DEG 波德_NN 图_NN 也_AD 可_VV 助於_VV 了解_VV 该_DT 系统_NN 的_DEG 特性_NN 。_PU
+
+奈奎_NN 斯_NN 特_CC 图_NN 和_CC 尼柯_NN 尔斯图_NN 都_AD 和_P 波德图_NN 有关_P ，_PU 这些_DT 图_NN 和_CC 波德_NN 图_NN 都_AD 是_VC 显示_VV 频率_NN 响应_VV 的_DEC 资料_NN ，_PU 不过_AD 使用_VV 的_DEC 座标_NN 系统_NN 不同_VA 。_PU 奈奎_NN 斯_DT 特_BA 图_NN 和_CC 尼柯_NN 尔斯图_NN 都_AD 是_VC 以_P 频率_NN 为_VC 其_PN 参数_NN 的_DEC 参数_NN 方程_NN 。_PU 奈奎_NN 斯_DT 特_AD 图_NN 将_BA 各_DT 频率_NN 的_DEG 频率_NN 响应_VV 以_P 极座_NN 标_VV 的_DEC 方式_NN 绘出_VV ，_PU 因此_AD 各_DT 点_NN 距_VV 原点_NN 的_DEG 距离_NN 是_VC 增益_VV ，_PU 各_DT 点_M 相对_JJ 原点_NN 的_DEG 角度_NN 是_VC 相位_VV 。_PU 尼柯_NR 尔斯图_NN 即_AD 是_VC 将_BA 频率_NN 响应_VV 的_DEC 增益_NN (_PU 纵轴_NN )_PU 及_CC 相位_NN (_PU 横轴_NN )_PU 均_AD 以_P 线性_JJ 刻度_NN 表示_VV 、_PU 用_P 直角_NN 坐标_NN 系_NN 的_DEC 方式_NN 绘出_VV ，_PU 其中_NN 增益_VV 使用_VV 对_P 数尺度_NN （_PU formula_NN
+
+
+
+

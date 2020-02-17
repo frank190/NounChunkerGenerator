@@ -1,0 +1,8 @@
+﻿原_NN 因_P 论_NN
+
+原因论_NN （_PU etiology_NN 、_PU aetiology_NN 或_CC aitiology_NN ）_PU 是_VC 一_CD 门_NN 研究_NN 事件_NN 发生_VV 因_P 果关_NN 系_NN 的_DEG 学问_NN 。_PU 这_DT 一_CD 门_NN 学问_VV 在_P 医学_NN 界比_NN 较常见_AD ，_PU 被_SB 称为_VV 「_PU 病原学_NN 」_PU 或_CC 「_PU 病因学_NN 」_PU ，_PU 专门_NN 研究_VV 有关_JJ 疾病_NN 的_DEC 成因_NN 及_CC 解决_JJ 方法_NN 。_PU 另外_AD 在_P 神秘学_NN 、_PU 哲学_NN 或_CC 其他_DT 学科_NN 亦_AD 有_VE 采用_VV 原因_JJ 论_NN 的_DEC 方法_NN 。_PU 在_P 哲学_NN 、_PU 物理_NN 、_PU 心理学_NN 、_PU 政府_NN 运作_NN 或_CC 生物学_NN 里_LC ，_PU 原因_NN 论_NN 被_SB 用于_VV 解释_VV 多_CD 种_M 现象_NN 的_DEG 起因_NN 。_PU 这_PN 包括_VV 了_AS 为_P 甚么_JJ 事件_NN 会_VV 发生_VV ，_PU 以及_CC 事件_NN 发生_VV 的_DEC 背后_NN 牵动_VV 因_P 由_P 。_PU
+
+病原学_NN 的_DEG 英语_NN 「_PU etiology_NN 」_PU 是_VC 由_P 两_CD 个_M 希腊字_NN 根_ETC 组成_VV ，_PU 分別_VV 是_VC ：_PU
+
+
+

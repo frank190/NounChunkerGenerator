@@ -1,0 +1,11 @@
+﻿冯纽曼_NN 熵_NN
+
+中_LC ，_PU 冯纽曼熵_NN （_PU ）_PU 是_VC 经_P 典体_NN 系_NN 吉布_NN 士熵_NN 概念_VV 的_DEC 拓展_NN 延伸_VV 。_PU 体系_NN 的_DEC 冯纽曼_NN 熵_NN 为_VC
+其中_NN Tr_NN 表示_VV 求迹_NN （_PU 中文_NN ：_PU 迹_NN ）_PU ，_PU formula_NN
+
+运用_VV 密度_NN 矩阵_NN 的_DEC 本_DT 征态_NN 向_P 量_NN 分解_NN 表示_VV
+可以_VV 得到_VV ：_PU
+
+冯纽_NR 曼熵有_NR 下列_JJ 性质_NN ：_PU
+
+

@@ -1,0 +1,9 @@
+﻿振_NN 动学_NN
+
+振动学_NN 是_VC 一_CD 门_NN 研究_NN 物质_NN 振动_VV 的_DEC 物理_NN 学分支_NN 。_PU
+
+一_CD 个_M 处于_VV 平衡_NN 状态_NN 的_DEC 系统_NN 受到_VV 一_CD 个_M 扰动_NN ，_PU 在_P 回复力_NN 的_DEC 作用_NN 下_LC 回到_VV 初始_NN 状态_NN ，_PU 这_DT 个_M 状态_NN 不断_AD 变化_VV 的_DEC 过程_NN 称为_VV 振动_NN 。_PU 原则_NN 上_LC ，_PU 振动_NN 通常_AD 伴随_VV 有_VE 能量_CD 的_DEG 转化_NN 。_PU
+
+状态_NN 变化_NN 是_VC 周期性_NN 进行_VV 的_DEC 。_PU 每_AD 隔_P 一_CD 段_M 时间_NN ，_PU 系统_NN 都_AD 要回_VV 到_VV 初始_NN 状态_NN 。_PU 也_AD 可以_VV 这样_AD 说_VV ：_PU 振动_VV 是_VC 一_CD 个_M 物理量_NN 关于_VV 时间_NN 的_DEC 函数_NN 。_PU 一_CD 个_M 基本_JJ 的_DEG 振动_NN 系统_NN ，_PU 通常_AD 由_P 质量_NN 、_PU 弹簧_NN 、_PU 阻尼_NN 组成_VV 。_PU
+
+

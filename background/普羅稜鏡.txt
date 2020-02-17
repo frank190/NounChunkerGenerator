@@ -1,0 +1,19 @@
+﻿普罗_NN 棱镜_NN
+
+普罗_JJ 棱镜_NN 是_VC 光学_NN 上_LC 使用_VV 于_P 光学_NN 仪器_NN 中_LC ，_PU 用来_VV 修改_VV 影像_VV 取向_VV 的_DEC 一_CD 种_M 折射式_NN 三棱镜_NN ，_PU 他_PN 以_P 发明者_NN 义_AD 大利_VA 的_DEC 光学_NN 工程_NN 师伊_NN 纳济欧_NN 普罗_NN 来_MSP 命名_VV 。_PU
+
+普罗_JJ 棱镜_NN 是_VC 由_P 玻璃_NN 块塑_NN 造成_VV 的_DEC 等腰_JJ 直角_NN 三_CD 棱镜_VV ，_PU 末端_NN 平面_NN 对着_AD 直_BA 角_NN 。_PU 在_P 使用_NN 上_LC ，_PU 光线_NN 由_P 三_CD 棱镜_NN 中_LC 最_AD 大_VA 的_DEC 长方形_JJ 面_NN 进入_VV ，_PU 经过_P 斜面_NN 的_DEC 两_CD 次_M 全_AD 反射_VV ，_PU 再_AD 穿透_VV 原来_JJ 的_DEG 入射_NN 平面_NN 射出_VV 。_PU 因为_P 光线_NN 只_AD 是_VC 以_P 正常_VA 的_DEC 状态_NN 进出_VV ，_PU 三_CD 棱_M 镜_NN 并_CC 未_AD 发生_VV 色散_NN 的_DEC 作用_NN 。_PU
+
+但是_AD 经过_P 普罗_NN 棱镜_NN 的_DEG 影像会_NN 被_SB 翻转_VV 180_CD °_M ，_PU 并且_CC 会_VV 向_VV 原来_AD 进入_VV 的_DEC 方向_NN 行进_VV ，_PU 也就是_AD 行进_VV 的_DEC 方向_NN 也_AD 改变_VV 了_AS 180_CD °_M 。_PU 但_AD 是_VC 因为_P 图_NN 像_P 经过_P 两_CD 次_M 的_DEG 反射_NN ，_PU 所以_AD 旋向性_NN 是_VC 未_AD 改变_VV 的_DEC 。_PU
+
+普罗_NN 棱镜_NN 最_AD 常_AD 被_SB 以_P 双_CD 普罗_NN 棱镜_VV 的_DEC 组合_NN 来_MSP 成对_VV 使用_VV ，_PU 第二_OD 个_M 棱镜_NN 相对于_P 第一_OD 个_M 被_SB 旋转_VV 90_CD °_M 。_PU 让_VV 光线_NN 穿越_VV 这样_AD 安置_VV 的_DEC 两_CD 片_M 三_CD 棱镜_NN ，_PU 棱镜_NN 系统_NN 的_DEG 净_JJ 效应_NN 是_VC 入射_VV 的_DEC 光线_NN 被_SB 平行_VV 的_DEC 改变_NN 行进_VA 方向_NN ，_PU 影像_VV 被_SB 旋转_VV 180_CD °_M ，_PU 偏手性_NN 依然_AD 没有_VV 变化_NN 。_PU
+
+双_CD 普罗_NN 棱镜_NN 系统_NN 适用于_VV 小型_JJ 光学_NN 望远镜_NN 在_P 影像_JJ 方向_NN 的_DEG 改变_NN （_PU "_PU 影像_VV 重建_NN 系统_NN "_PU 的_DEG 排列_NN ）_PU ，_PU 特別_NN 是_VC 在_P 许多_VV 的_DEC 双_CD 筒望_NN 远镜_VA 中_LC 提供_VV 影像_VV 的_DEC 重建_NN 和_CC 更_AD 长_VA 的_DEC 光路_NN 折叠_VV ，_PU 有效_VA 的_DEC 缩短物镜_NN 和_CC 目镜_NN 间_LC 的_DEG 距离_NN 。_PU
+
+通常_AD ，_PU 在_P 双普_NN 罗棱镜_NN 的_DEG 组合_NN 中_LC ，_PU 会_VV 将_BA 两_CD 个_M 棱镜_NN 胶合_VV 在_P 一起_NN ，_PU 并且_CC 削除_VV 多余_JJ 的_DEG 部分_NN 以_MSP 减经_VV 重量_NN 和_CC 缩小_VV 尺寸_NN 。_PU
+
+单独_JJ 的_DEG 普罗_NN 棱镜_NN 也_AD 可以_VV 看成_VV 是_VC 屋顶_JJ 棱镜_NN ，_PU 但_CC 在_P 双筒望_JJ 远镜_NN 内_LC 不_AD 会_VV 这样_AD 使用_VV 。_PU
+
+双_CD 普罗_NN 棱镜_NN 的_DEC 一_CD 种_M 变形_NN 是_VC 普罗_NR -_PU 阿贝_NR 棱镜_NN 。_PU
+
+

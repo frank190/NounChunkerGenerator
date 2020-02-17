@@ -1,0 +1,21 @@
+﻿崔_NN -_PU 威廉_NN 斯_LC 分布_VV
+
+崔_NOI -_PU 威廉_NN 斯_LC 分布_VV （_PU ）_PU 是_VC 科_JJ 恩克_NN 莱斯_AD 分布_NN 系列_NN 函数_NN 中_LC 的_DEG 一_CD 种_M 。_PU 崔_NN -_PU 威廉_NN 斯_LC 分布_VV 於_P 西元_NN 1989_CD 年_M 由_P Hyung_NN -_PU IllChoi_NN 和_CC WilliamJ_NN ._PU Williams_NN 提出_VV 。_PU 本分布_AD 使用_VV 了_AS 指数_NN 核心_NN 函数_NN 以_MSP 滤除_VV 交叉项_NN 。_PU 崔_NN -_PU 威廉_NN 斯_LC 分布_VV 之_DEC 核心_NN 函数_NN 不_AD 随_P formula_NN 和_CC formula_NN 增加_VV 而_MSP 增加_VV ，_PU 故_AD 只_AD 能_VV 滤除_VV 具有_VV 不同_JJ 频率_NN 和_CC 时间_NN 中心_NN 之_DEC 交叉项_NN 。_PU
+
+崔_NOI -_PU 威廉_NN 斯_LC 分布_VV 之_DEC 定义_NN 如_P 下_NN
+
+其中_NN
+
+其_PN 核心_NN 函数_NN formula_NN
+
+其中_NN formula_NN 为_VC 一_CD 可_VV 调整_VV 之_DEC 参数_NN 。_PU
+
+下列_JJ 图形_NN 说明_VV 了_AS formula_NN 在_P 不同_JJ formula_NN 值_NN 时_LC 具有_VV 不同_VA 的_DEC 滤波_NN 效果_NN 。_PU 故_AD 使用_VV 时_LC 应_VV 慎选_NN ，_PU 使用_VV 最_AD 适当_VA 的_DEC 核心_NN 函数_NN 。_PU
+
+优点_NN ：_PU
+
+缺点_NN ：_PU
+
+
+
+

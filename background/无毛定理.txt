@@ -1,0 +1,5 @@
+﻿无毛_NN 定理_VV
+
+1973_CD 年_M ，_PU 史蒂芬_NN ·_PU 霍金_NN 、_PU 布兰登_NN ·_PU 卡特等人证明约翰_PU ·_PU 惠勒_NN 提出_VV 的_DEC 无_VE 毛定理_NN （_PU ）_PU 。_PU 根据_P 惠勒_NN ，_PU 黑洞_NN 只_AD 有_VE 质量_NN 、_PU 角动量_NN 以及_CC 电荷_NN 三_CD 个_M 不_AD 能_VV 变为_VV 电磁_NN 辐射_NN 的_DEC 守恒量_NN ，_PU 其他_DT 的_DEG 信息_NN 全都_AD 丧失_VV 了_AS ，_PU 几乎_AD 没有_VV 形成_VV 它_PN 的_DEG 物质_NN 所_MSP 具有_VV 的_DEC 任何_DT 复杂_JJ 性质_NN 。_PU 黑洞_NN 不_AD 存在_VV 如_P 立方体_NN 、_PU 椎体_NN 或_CC 其他_DT 有_VE 凸起_NN 的_DEG 形态_NN ，_PU 因此_AD 称为_VV 黑洞_NN 的_DEC 无_VE 毛定理_NN 。_PU
+
+

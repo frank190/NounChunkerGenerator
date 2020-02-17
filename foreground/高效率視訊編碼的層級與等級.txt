@@ -1,0 +1,13 @@
+﻿_AD 高_JJ 效率_NN 视讯_NN 编码_NN 的_DEC 层级_NN 与_CC 等级_NN
+
+高_JJ 效率_NN 视讯_NN 编码_NN 的_DEC 层级_NN 与_CC 等级_NN 是_VC 指_VV 在_P 高_JJ 效率_NN 视讯_NN 编码_NN （_PU HE_CD VC/H_M ._PU 265_CD ）_PU 标準_NN 中_LC ，_PU 为了_P 应对_VV 不同_JJ 应用_NN 的_DEC 需求_NN ，_PU 因此_AD 制定_VV 了_AS 「_PU 层级_VV 」_PU （_PU tier_NN ）_PU 与_CC 「_PU 等级_NR 」_PU （_PU level_NN ）_PU 将_BA 其_PN 编码_NN 出来_VV 的_DEC 位元_NN 流做_VV 了_AS 限制_NN 。_PU 低_VA 的_DEC 层级_NN 相较_AD 於高_VA 的_DEC 层级_NN 会_VV 有_VE 更_AD 多_VA 的_DEC 限制_NN ，_PU 同样_AD 低_VA 的_DEC 等级_NN 相较_AD 於高_VA 的_DEC 等级_NN 会_VV 有_VE 更_AD 多_VA 的_DEC 限制_NN 。_PU 当_P 一_CD 个_M 解码器_NN 符合_VV 给定_VV 了_AS 的_DEC 层级_NN 与_CC 等级_NN ，_PU 代表_VV 此_DT 解码器_NN 也_AD 被_SB 要求_VV 必须_VV 能_VV 解码_NN 用_P 该_DT 层级_NN /_PU 等级_NN 及_CC 较_AD 低_JJ 层级_NN /_PU 等级_NN 所_MSP 编码_VV 出来_VV 的_DEC 位_NN 元流_NN 。_PU
+
+层级_JJ 的_DEG 制定_NN 是_VC 为了_P 面对_VV 不同_VA 的_DEC 应用_NN ，_PU 对_P 其_PN "_PU 最_AD 大位_NN 元率_NN "_PU 做_VV 限制_NN 。_PU HEVC_NR 标準_NN 中_LC 定义_VV 了_AS Main_NN 以及_CC High_NR 两_CD 种_M 层级_NN ，_PU Maintier_NN 的_DEC 层级_NN 较_AD H_VA ightier_NR 来_MSP 得低_VV 。_PU Maintier_NN 是_VC 为了_P 大_JJ 部分_NN 的_DEG 应用_NN 而_MSP 设计_VV ，_PU Hightier_VV 则_AD 是_VC 为了_P 应付_VV 高_JJ 要求_NN 的_DEC 应用_NN 而_MSP 设计_VV 。_PU
+
+等级_JJ 为位_NN 元流_NN 设定_VV 了_AS 一_CD 组_M 限制_NN 。_PU HEVC_NR 标準_NN 中_LC 定义_VV 了_AS 13_CD 个_M 等级_LC ，_PU 其_PN 限制_NN 包含_VV 了_AS 该_DT 位_M 元流_NN 的_SP ：_PU
+
+当_P 等级_JJ 低于_NN 4_CD 时_LC ，_PU 只_AD 有_VE Maintier_NN 被_SB 允许_VV 使用_VV 。_PU
+
+
+
+

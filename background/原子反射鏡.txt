@@ -1,0 +1,5 @@
+﻿原子_NN 反射镜_NN
+
+原子_NN 反射镜_NN 是_VC 指_VV 一_CD 种_M 可以_VV 反射_VV 中性_JJ 原子_NN 的_DEC 物体_NN ，_PU 像_AD 是_VC 镜子_NN 反射_NN 光线_NN 一样_VA 。_PU 原子_NN 反射镜_NN 可能_VV 是_VC 电场_NN 、_PU 磁场_NN 、_PU 电磁波_NN 甚至_AD 是_VC 硅_NN 芯片_NN 。_PU 而_CC 这_DT 个_M 概念_NN 是_VC 由_P 量子_NN 反射_VV 而_MSP 来_VV 。_PU
+
+

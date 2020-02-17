@@ -1,0 +1,6 @@
+﻿弱_CD 引力_NN 猜想_NN
+
+弱引力_NN 猜想_NN （_PU 英文_NN ：_PU weakgravityconjecture_NN ）_PU 是_VC 一_CD 个_M 关于_P 量子_NN 引力_NN 理论_NN 中_LC 引力_VV 的_DEC 强度_NN 相比于_VV 其他_DT 规范_NN 作用_NN 力_NN 的_DEG 强度_NN 的_DEC 猜想_NN 。_PU 大致_AD 地_DEV 说_VV ，_PU 就_AD 是_VC 在_P 任何_DT 自洽_NN 的_DEC 量子_NN 引力_NN 理论_NN 中_LC ，_PU 引力_NN 都_AD 必须_VV 是_VC 相对_JJ 强度_NN 最_AD 弱_VA 的_DEC 力_NN 。_PU
+
+
+

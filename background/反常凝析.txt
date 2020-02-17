@@ -1,0 +1,7 @@
+﻿反常_AD 凝析_NN
+
+反常_AD 凝析_NN （_PU RetrogradeCondensation_PU ）_PU 是_VC 在_P 压力_NN 降低_VV （_PU 或者_CC 温度_NN 升高_VV ）_PU 的_DEC 时候_NN ，_PU 气体_NN 凝析_NN 为_VC 液体_NN 的_DEC 现象_NN 。_PU 这_DT 现象_NN 与_CC 凝析_NN （_PU 凝结_NR ）_PU 是_VC 相反_VA 的_DEC ，_PU 因此_AD 得名_VV 。_PU
+
+若_CS 二_CD 种_M 气体_NN 在_P 固定_JJ 温度_NN 及_CC 压力_NN 下_LC ，_PU 且_CC 其_PN 状况_NN 还没_VV 到_VV 临界_NN 条件_NN ，_PU 而_CC 其_PN 体积_NN 渐渐_VA 的_DEV 减少_VV ，_PU 气体_NN 接下_VV 来_MSP 会_VV 凝析_VV 。_PU 当_P 体积_NN 减少_VV 到_VV 了_AS 一定_JJ 程度_NN 后_LC ，_PU 凝析_NN 的_DEC 量会_NN 渐渐_VV 的_DEC 增加_NN ，_PU 以_P 致其体_NN 积会_VV 再_AD 减少_VV ，_PU 一直_AD 到_VV 气体_NN 液化_NN 为止_LC 。_PU 若气体_NN 的_DEG 温度_NN 是_VC 介于_VV 组成_VV 成份_NN 的_DEG 真临_JJ 界点_NN 及_CC 假临_JJ 界点_NN 之间_LC ，_PU 在_P 体积_NN 进一步_AD 减少_VV 的_DEC 过程_NN 中_LC ，_PU 凝析_NN 产生_VV 的_DEC 液体_NN 会_VV 减少_VV 甚至於_AD 消失_VV 。_PU 这_DT 种_M 凝析_NN 消失_VV 的_DEC 现象_NN 即_AD 为_VC 反常_JJ 凝析_NN 。_PU
+
+

@@ -1,0 +1,11 @@
+﻿_CD PushVideo_NN
+
+PushVideo_NN ，_PU 意_AD 即_AD 主动_VV 的_DEC 影音_NN 通报_NN 功能_NN ，_PU 为_P 影像_VV 通报_NN 系统_NN ，_PU 提供_VV 事件_NN 的_DEG 提醒_NN 消息_NN 和_CC 影片_NN ，_PU 以_MSP 推播_VV 通知_VV 的_DEC 方式_NN 在_P 智慧型_NN 装置_NN 上_LC 运用_VV 。_PU 此_DT 功能_NN 在_P 手机_NN 系统_NN 上_LC 提供_VV 了_AS 一_CD 个_M 「_PU 永远_AD 在线_VV 」_PU 的_DEC 能力_NN 。_PU 功能_NN 的_DEC 运用_NN 模式_NN 为_VC 在_P 摄像机_NN 侦测_VV 到_VV 异常_JJ 事件_NN 发生_VV 时_LC 的_DEG 一定_JJ 时间_NN 内_LC ，_PU 系统_NN 会_VV 主动_AD 将_BA 事件_NN 发生_VV 前预录_JJ 到_VV 事件_NN 发生_VV 后_LC 的_DEG 录影片_NN 段发_VV 送到_VV 使用者_NN 的_DEG 行动_NN 装置_NN 上_VV 头_NN 。_PU 目前_NT 在_P 运用_VV 在_P 侦测器_NN 上_LC ，_PU 可_VV 广泛_AD 应_VV 於_P 家庭_NN 照护_P 、_PU 防盗_NN 防灾_VV ._PU .._PU 等_ETC 情境_NN 。_PU 事件_NN 被_SB 触发_VV 后_LC ，_PU 各_DT 个_M 手机_NN 即_AD 会_VV 启动_VV 相对_JJ 推播_NN 功能_NN 。_PU 其_PN 为_VC 应用_JJ 程式_NN EagleEyes_NN 的_DEG 主要_JJ 功能_NN 之一_LC ，_PU 同样_AD 也_AD 适用于_VV Android_NR 以及_CC iOS_NR 两_CD 个_M 平台_NN ，_PU 能_VV 在_P 通知_VV 时_LC 滑动_VV 手机_NN 通知_VV 瞭解_NN 事件_NN 内容_NN 。_PU
+
+PushVideo_NN 命名_NN 起源于_VV Blackberry_NN 的_DEG Pushmail_NN 。_PU 因_P 功能_NN 类似_VA ，_PU 使用者_NN 不_AD 需_VV 另外_AD 登入_VV 服务器_NN 确认_VV 有_VE 无_VE 新_JJ 讯息_NN ，_PU 服务器_NN 将_AD 会_VV 主动_AD 通知_VV 使用者_NN 。_PU
+
+本_DT 功能_NN 以_P 网路_NN 摄影机_NN 为_VV 主体_NN ，_PU 借_VV 由_P 网路_NN 摄影机_NN 内建_NN 或是_CC 外接_VV 的_DEC 感应器_NN ，_PU 侦测_VV 到_VV 异常_JJ 事件_NN 发生_VV 时_LC ，_PU 将_BA 网路_NN 摄影机_NN 前方_NN 所_MSP 拍摄_VV 到_VV 的_DEC 影片_NN ，_PU 以_P wifi_NN ,_PU 2G_CD ,_PU 3G_CD ，_PU 4G_CD 的_DEC 方式_NN ，_PU 将_BA 影片_NN 自动_AD 寄送_VV 到_VV 使用者_NN 的_DEG 智慧_NN 型_NN 手机_NN 上_LC 。_PU 使用者_NN 收到_VV 通知_NN 之后_LC ，_PU 即_AD 可_VV 观看_VV 摄影机_NN 所_MSP 拍摄_VV 到_VV 的_DEC 异常_JJ 发生_NN 时间_NN 内_LC 所_MSP 录制_VV 的_DEC 影片_NN 。_PU 起_VV 至_P 事件_NN 发生_VV 前_DT 三_CD 秒_M ，_PU 后_LC 至_P 事件_NN 发生_VV 后_LC 四十_CD 秒_M 。_PU 在_P 此_DT 架构_NN 之下_LC ，_PU 推_VV 拨_NN 影片_NN 增加_VV 了_AS 通知_VV 的_DEC 即时性_NN 。_PU 它_PN 提供_VV 远程_JJ 用户_NN 即时_AD 通知_VV ；_PU 新_VA 的_DEC 警讯_NN 会_VV 自动_AD 出现_VV 在_P 设备_NN 上_LC ，_PU 而_CC 不_AD 需要_VV 用户_NN 作出_VV 任何_DT 要求_NN 。_PU 此_DT 为_VC AVTECH_NN 所_MSP 研发_VV 之_DEC 核心_NN 技术_NN 。_PU
+
+iOSAPPStore_NN
+
+

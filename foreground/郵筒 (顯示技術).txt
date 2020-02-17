@@ -1,0 +1,11 @@
+﻿邮筒_NN (_PU 显示_NN 技术_NN )_PU
+
+邮筒_NN （_PU Pillarbox_NN ）_PU ，_PU 又称_JJ 邮筒_NN 模式_NN ，_PU 指_VV 的_DEC 是_VC 在_P 宽萤幕_NN 格式_NN 视频_NN 中_LC 两_CD 边_NN 的_DEG 黑边_NN ，_PU 与_P 信箱_NN 模式_NN 相对_VV 。_PU 造成_VV 邮筒_NN 模式_NN 的_DEG 主要_JJ 原因_NN 是_VC ，_PU 宽_JJ 萤幕_NN 视频_NN 播放_VV 的_DEC 源文件_NN 不_AD 是_VC 宽_JJ 萤幕_NN 格式_NN 的_DEG 视频_NN ，_PU 或者_CC 在_P 一_CD 个_M 较_AD 宽_JJ 纵横_NN 比_NN 的_DEG 画面_NN 上_LC 播放_VV 图片_NN 。_PU 为了_P 减少_VV Pillarbox_NN 对_P 萤幕_NN 美观度_NN 的_DEG 影响_NN ，_PU 采用_VV 16_CD :_PU 9_CD 制式_NN 的_DEG 电视_NN 频道_NN 常_AD 使用_VV 动态_NN 图形_NN 或_CC 高清_JJ 标识_NN 遮挡_VV Pillarbox_NN 黑边_NN 。_PU
+
+一些_CD 早期_NN 的_DEC 街机_NN 游戏_NN 长度_NN 较_AD 高_VA ，_PU 宽度_NN 较_AD 窄_VA ，_PU 即使_CS 在_VV 的_DEC 萤幕_NN 上_LC 显示_VV ，_PU 也_AD 常_AD 有_VE Pillarbox_NN 。_PU
+
+邮筒_NN 模式_NN 是_VC 和_P 信箱_NN 模式_NN 相_AD 对应_VV 的_DEC 两_CD 种_M 主要_VA 的_DEC 黑边_NN 形式_NN ，_PU 在_P 英语_NN 中_LC 也_AD 被_SB 称作_VV “_PU 反_VV 信箱_NN 模式_NN ”_PU 。_PU
+
+
+
+

@@ -1,0 +1,7 @@
+﻿渗_VV 透压_NN
+
+渗透压_NN （_PU osmoticpressure_NN ）_PU 当_P 渗透_VV 持续_AD 进行_VV 至_VV 两_CD 液面_NN 高度_NN 不_AD 再_AD 变动_VV 时_LC ，_PU 此时_NT 两_CD 液柱_NN 之_DEG 压力_NN 差_AD 称为_VV 渗透压_NN 。_PU 渗透压_VV 的_DEC 大小_NN 和_CC 溶液_NN 的_DEG 体积_NN 莫_AD 耳_VV 浓度_NN 、_PU 溶液_NN 温度_NN 和_CC 溶质_NN 解离度_NN 相关_VV ，_PU 因此_AD 有时_AD 若得_VV 知渗_VV 透压_VV 的_DEC 大小_NN 和_CC 其他_DT 条件_NN ，_PU 可以_VV 反_VV 推出_VV 大分子_NN 的_DEC 分子量_NN 。_PU 范特荷_NN 夫_NN 因为_P 渗透压_NN 和_CC 化学_NN 动力学_NN 等_ETC 方面_NN 的_DEC 研究_NN 获得_VV 第一_OD 届_M 诺贝尔_NN 化学_NN 奖_NN 。_PU 依照_P 范特荷_NN 夫定律_NN ，_PU 稀_AD 溶液_NN 的_DEG 渗透压_NN 与_CC 溶液_NN 的_DEG 体积_NN 摩_NN 尔浓度_NN 及_CC 绝对_NT 温度_NN 成_VV 正比_VA 。_PU
+
+
+
+

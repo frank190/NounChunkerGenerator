@@ -1,0 +1,6 @@
+﻿接_VV 触銲点_NN
+
+接触_VV 銲点_NN （_PU Contactpads_NN ）_PU 是_VC 印刷_NN 电路板_NN 上_LC 特別_AD 设计_VV 的_DEC 表面_NN ，_PU 或是_CC 集成_JJ 电路_NN 裸晶_NN 上_LC 的_DEC 金属_NN 表面_NN 。_PU 可能_VV 接触_VV 到_VV 接触銲_NN 点_LC 的_DEG 包括_VV 有_VE 銲料_NN 、_PU 打线_NN 接合_NN 、_PU 覆晶_NN 技术_NN 接合_VV 或是_CC 探针卡_NN 。_PU
+
+
+

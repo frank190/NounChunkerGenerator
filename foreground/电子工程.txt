@@ -1,0 +1,31 @@
+﻿电子_NN 工程_NN
+
+电子_NN 工程_NN （_PU ElectronicEngineering_NN ）_PU 是_VC 利用_VV 电子_NN 活动_NN 和_CC 效应_NN 的_DEC 科学_NN 知识_NN 来_MSP 设计_VV 、_PU 开发_VV 以及_CC 测试_NN 设备_NN 、_PU 系统_NN 或_CC 装备_NN 的_DEG 一_CD 门_NN 工程_NN 学科_VV 。_PU 电子_NN 工程_NN 表示_VV 一_CD 个_M 广泛_VA 的_DEC 工程_NN 领域_NN ，_PU 覆盖_VV 了_AS 很多_CD 子_M 领域_NN ，_PU 包括_VV 仪器_NN 工程_NN 、_PU 通信_NN 、_PU 半导体_NN 电路_NN 设计_VV 等等_VA 。_PU
+
+电子_NN 工程_NN 的_DEG 应用_NN 形式_NN 涵盖_VV 了_AS 电动_NN 设备_NN 以及_CC 运用_VV 了_AS 控制_NN 技术_NN 、_PU 测量_NN 技术_NN 、_PU 调整_VV 技术_NN 、_PU 计算机_NN 技术_NN ，_PU 直_AD 至_P 信息_NN 技术_NN 的_DEC 各_DT 种_M 电动_NN 开关_NN 。_PU
+
+虽然_CS 缩写_VV 同_DT 为_VC EE_NN ，_PU 但是_CC 电子_NN 工程_NN （_PU ElectronicsEngineering_NN ）_PU 和_CC 电力_NN 工程_NN 、_PU 电机_NN 工程_NN （_PU ElectricalEngineering_NN ）_PU 等_ETC 研究_NN 领域_NN 却_AD 不_AD 尽_VV 相同_VA 。_PU 电子_NN 工程_NN 通常_AD 是_VC 与_P 计算机_NN 硬件_NN 、_PU 电子_NN 、_PU 微电子_NN 、_PU 集成_JJ 电路_NN 相关_VV 的_DEC 学科_NN ，_PU 涉及_VV 的_DEC 电压_NN 通常_AD 较_AD 低_VA ，_PU 作为_P 信号_NN 用于_VV 搭载_NN 信号_NN ；_PU 而后_AD 两_CD 者_NN 更_AD 侧_LB 重关_NN 注电力_NN 的_DEC 产生_NN 、_PU 输送_NN 等_ETC 方面_NN ，_PU 常常_AD 涉及_VV 较_AD 高_VA 的_DEC 电压_NN 。_PU
+
+现代_JJ 电子_NN 工程_NN 学科_NN 是_VC 在_P 很_AD 大_JJ 程度_NN 上_LC 是_VC 随着_P 电话_NN 、_PU 无_VE 线电_NN 、_PU 电视_NN 和_CC 两_CD 次_M 世界_NN 大战_NN 中_LC 雷达_VV 、_PU 声纳_NN 、_PU 通信_NN 系统_NN 的_DEG 发展_NN 而_MSP 出现_VV 的_DEC 。_PU 在_P 20_CD 世纪_NN 50_CD 年_M 代末_NN ，_PU 电子_NN 工程_NN 这_DT 个_M 名词_NN 开始_VV 出现_VV 。_PU
+
+1893_CD 年_M ，_PU 尼古拉_NN ·_PU 特_AD 斯_DT 拉首次_NN 向_P 公众_JJ 展示_NN 无_VE 线电_NN 通信_NN 。_PU 1904_CD 年_M ，_PU 约翰_NN ·_PU 弗莱明_NN ，_PU 伦敦_NN 大学_NN 学院_NN 的_DEC 一_CD 名_M 电教授_NN ，_PU 发明_VV 了_AS 二极体_NN 。_PU 一_CD 年_M 后_LC ，_PU 于_P 1906_CD 年_M ，_PU 罗伯_NN 特冯利本_AD 和_P 李德_NN 福雷_NN 斯_AD 特_AD 将_BA 自主_AD 开发_VV 的_DEC 放大器_NN 管称_VV 为_VC 电晶体_NN （_PU 在_P 大陆_CD 则_AD 称为_VV -_PU {zh_NN -_PU hant_NN :_PU 三极管_NN 、_PU 三极体_NN ;_PU zh_NN -_PU hans_NN :_PU 三极管_NN 、_PU 三极体_NN }_PU -_PU ）_PU 。_PU 电子_NN 工程_NN 发展_VV 的_DEC 重要_JJ 发明_NN 有_VE 电视_NN 、_PU 三极管_NN （_PU 电晶体_NN ）_PU 、_PU 电子_NN 计算机_NN 、_PU 微_JJ 处理器_NN 等_ETC 。_PU
+
+在_P 电子_NN 工程_NN 领域_NN ，_PU 工程师_NN 设计_NN 和_CC 测试_VV 电子_NN 电路_NN ，_PU 电路_NN 是_VC 由_P 各_DT 种_M 电子_NN 元件_NN （_PU 如_P 电阻_NN ，_PU 电容_NN ，_PU 电感_NN ，_PU 二极管_NN 和_CC 晶体管_NN ）_PU 组成_VV 并_CC 实现_VV 特定_JJ 功能_NN 。_PU 在_P 设计_NN 集成_JJ 电路_NN 时_LC ，_PU 电子_NN 工程师_NN ，_PU 首先_AD 构建_NN 电路_NN 原理图_NN ，_PU 指定_JJ 电子_NN 元件_NN 并_CC 描述_VV 它们_PN 之间_LC 的_DEG 相互_JJ 联系_NN 。_PU 完成_VV 后_LC ，_PU 超_VV 大_JJ 规模_NN 集成_JJ 电路_NN 工程师_NN 将_BA 原理_NN 转化_VV 为_VC 实际_JJ 布局_NN ，_PU 这_DT 个_M 过程_NN 中_LC 需要_VV 用_VV 各_DT 种_M 导体_NN 和_CC 半导体_NN 材料_NN 制作_VV 电路_NN 。_PU 从_P 原理_NN 图_NN 到_VV 布局_NN 的_DEG 转换_NN 工作_NN 可以_VV 由_P 软件_NN 实现_VV （_PU 见_VV 电子_NN 设计_NN 自动化_AD ，_PU 但_AD 很_AD 多_VA 时候_NN 需要_VV 人力_NN 微调_NN 来_MSP 减少_VV 空间_NN 和_CC 降低_VV 功耗_NN 。_PU 一_CD 旦布局_NN 完成_VV 它_PN 可以_VV 发送_VV 到_VV 生产_NN 制造厂_NN 。_PU 集成_JJ 电路_NN 和_CC 其它_DT 电子_NN 元件_NN 可以_VV 组装_VV 在_P 印刷_NN 电路板_NN 形成_VV 更为_AD 复杂_VA 的_DEC 电路_NN 。_PU 今天_NT ，_PU 在_P 多数_CD 电子_NN 产品_NN 中_LC 都_AD 可以_VV 发现_VV 印刷_NN 电路板_NN ，_PU 包括_VV 电视_NN ，_PU 电脑_NN 和_CC 音频_NN 播放器_NN 。_PU
+
+
+
+
+
+
+电子_NN 工程_NN 有_VE 许多_CD 分支_NN 。_PU 本_DT 节_NN 覆盖_VV 了_AS 很多_JJ 电子_NN 工程_NN 的_DEC 分支_NN 。_PU 有些_DT 工程师_NN ，_PU 专注_VV 在_P 一_CD 个_M 子_NN 领域_NN ，_PU 也_AD 有_VE 许多_CD 工程_NN 师工_NN 作_VV 在_P 几_CD 个_M 领域_NN 。_PU
+
+
+对于_P 工作_VV 在_P 最新_JJ 的_DEG 系统_NN 设计_VV 和_CC 开发_VV 的_DEC 大多数_CD 工程_NN 师来_VV 说_VV ，_PU 技术_NN 工作_NN 只_AD 是_VC 他们_PN 工作_VV 的_DEC 一_CD 部分_NN 。_PU 他们_PN 的_DEG 很_AD 多_JJ 时间_NN 用于_VV 跟_P 客户_NN 讨论_VV ，_PU 准备_VV 预算_NN 和_CC 确定_JJ 项目_NN 进度_NN 计划_VV 。_PU 许多_CD 高级_NN 工程_NN 师管理_NN 一_CD 组_M 技术_NN 人员_NN 和_CC 工程师_NN ，_PU 所_MSP 以_VV 项目_NN 管理_NN 技能_NN 很_AD 重要_VA 。_PU 许多_CD 工程_NN 项目_NN 包括_VV 写文档_NN ，_PU 所以_AD 书面_NN 写作_NN 能力_NN 也_AD 很_AD 重要_VA 。_PU
+
+电子_NN 工程师_NN 的_DEG 工作_NN 地点_NN 和_CC 他们_PN 的_DEG 工作_NN 类型_NN 相关_VV 。_PU 有_VE 可能_NN 是_VC 工厂_NN 的_DEC 实验室_NN ，_PU 咨询_NN 公司_NN 的_DEC 办公室_NN 或者_CC 是_VC 研究_NN 机构_NN 的_DEC 实验室_NN 。_PU 他们_PN 的_DEG 工作_NN 需要_NN 和_CC 科学家_NN ，_PU 技术_NN 人员_NN ，_PU 程序员_NN 还_AD 有_VE 其他_DT 工程_NN 师打_NN 交道_NN 。_PU
+
+自己_AD 掌握_VV 的_DEC 技术_NN 过时_NN 是_VC 很多_CD 工程_NN 师担心_NN 的_DEC 事_NN 。_PU 参加_JJ 技术_NN 社团_NN ，_PU 看_VV 这_DT 个_M 领域_NN 的_DEG 期刊_NN 和_CC 保持_VV 持续_JJ 学习_NN 的_DEG 习惯_NN 很_AD 重要_VA 。_PU 特别_AD 是_VC 消费_NN 电子_NN 领域_NN 更_AD 是如_AD 此_DT 。_PU
+
+
+
+

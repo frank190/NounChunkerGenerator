@@ -1,0 +1,12 @@
+﻿_NN 十亿_CD 分率_NN
+
+十亿_CD 分率_NN ，_PU 简称_VV ppb_NN （_PU 源自_VV 英语_NN partsperbillion_NN 的_DEG 简写_NN ）_PU ，_PU 定义_NN 为_VC 十亿分之一_CD ，_PU 1_CD ppb_M 即_AD 是_VC 十亿_CD 分之一_M 。_PU
+
+formula_NN
+
+
+
+
+可以_VV 用_VV 在_P 衡量_NN 生产_NN 品质_NN 上_LC ，_PU 例如_AD :_PU 对_P 客户_NN 的_DEG 出货_NN ppb_NN 保证_VV 在_P 30_CD ppb_M 以下_LC ；_PU 公司_NN 内_LC 制程_NN ppb_NN 控制_VV 在_P 150_CD ppb_NN 等_ETC 。_PU
+
+

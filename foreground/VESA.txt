@@ -1,0 +1,13 @@
+﻿_CD VESA_NN
+
+VideoElectronicsStandardsAssociation_NR （_PU 视频_NN 电子_NN 标准_NN 协会_VV ，_PU 简称_VV “_PU VESA_NN ”_PU ）_PU 是_VC 制定_VV 计算机_NN 和_CC 小型_JJ 工作站_NN 视频_NN 设备_NN 标准_VA 的_DEC 国际_NN 组织_NN ，_PU 1989_CD 年_M 由_P NEC_NN 及_CC 其他_DT 8_CD 家_M 显示_NN 卡制_NN 造商_NN 赞助_VV 成立_VV 。_PU
+
+创立_VV VESA_NN 的_DEG 原始_JJ 目的_NN 是_VC 要_VV 制定_VV 分辨率_NN 为_VC 800x600_CD 的_DEG SVGA_NN 视讯_NN 显示标_NN 準_NN 。_PU 其_PN 后_LC ，_PU VESA_NN 公告_NN 一_CD 系列_VA 的_DEC 个人_NN 电脑_NN 视讯_NN 周边_NN 功能_NN 的_DEC 相关_JJ 标準_NN 。_PU
+
+2010年_NT 11月_NT ，_PU VESA_NN 宣布_VV 了_AS 一_CD 份_M 与_P 无线_NN 千_CD 兆_NN 联盟_NN （_PU WiGig_NN ）_PU 的_DEG 合作_JJ 协议书_NN ，_PU 分享_VV 双方_JJ 技术_NN 专长_NN 和_CC 规范_NN ，_PU 以_MSP 共同_AD 发展_VV 多_CD 千_CD 兆_NN 无线_AD DisplayPort_NR 标準_NN 相容_AD 产品_VV 。_PU DisplayPort_NN 是_VC VESA_NN 的_DEC 技术_NN ，_PU 用以_VV 提供_VV 数位_NN 显示_NN 介面_NN 。_PU
+
+
+其他_DT 还_AD 制定_VV 了_AS 各_DT 类_M 有关_JJ 液晶_NN 显示器_NN 的_DEG 连线_NN ，_PU 接口_NN 的_DEC 规范_NN 。_PU
+
+
+

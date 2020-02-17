@@ -1,0 +1,8 @@
+﻿埃弗_NN 谢德_NN 效应_NN
+
+埃弗_NN 谢德_NN 效应_NN （_PU )_PU 由_P 英国_NR 天文_NN 学家约_AD 翰_VA ·_PU 埃弗谢_NN 德于_VV 1909_CD 年_M 发现_VV ，_PU 从_P 太阳_JJ 黑子_NN 的_DEC 本_DT 影_NN 和_CC 半_NN 影间_NN ，_PU 有_VE 气体_NN 向_P 二_CD 边水_NN 平辐_JJ 射流_NN 。_PU 流速_NN 距出_VV 发点_NN 越_AD 运_VA ，_PU 速度_NN 越_AD 快_VA ，_PU 气体_NN 流_VV 的_DEC 典型_JJ 速度_NN 为_VC 1_CD -_PU 4_CD Km_M 每_DT 秒_M ，_PU 达到_VV 太阳_NT 黑子_NN 外边界_NN 处_NN 突然_AD 停止_VV ，_PU 这_DT 种_M 现象_NN 称为_VV 埃弗_NN 谢德_NN 效应_NN 。_PU 此_DT 效应_NN 对太_AD 阳黑子_NN 的_DEG 形成_NN ，_PU 稳定_VA 和_CC 动力_NN 过程_NN 都_AD 起_VV 重要_JJ 作用_NN ；_PU 而且_CC 是_VC 太阳_NN 物理_NN 的_DEC 基本_JJ 问题_NN 之一_LC 。_PU 因此_AD 引起_VV 人们_NN 对_P 这_DT 效应_NN 的_DEC 很_AD 大_JJ 兴趣_NN 和_CC 祥细_JJ 观察_NN 以及_CC 理论_AD 研究_VV 。_PU
+
+现在_NT 关于_P 埃弗_NN 谢德_NN 效应_NN 的_DEC 理论_NN 主要_AD 有_VE 二_CD 大类_M ：_PU
+但_AD 对_P 其_PN 物理_NN 机制_NN 尚_AD 未_AD 有_VE 统一_NN 的_DEC 认识_NN 。_PU
+
+

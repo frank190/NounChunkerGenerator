@@ -1,0 +1,11 @@
+﻿模糊_NN 电子学_NN
+
+模糊_NN 电子学_NN （_PU Fuzzyelectronics_VV ）_PU 是_VC 由_P 模糊_NN 逻辑_NN 取代_VV 双值_JJ 逻辑_NN 代数_NN 的_DEC 电子学_NN 。_PU 模糊_NN 电子_NN 学是_NN 是_VC 由_P 专门_NN 硬体_NN 实现_VV 的_DEC 模糊_NN 逻辑_NN 。_PU 可以_VV 和_CC 用_P 传统_JJ 处理器_NN 上_LC 的_DEG 软体_NN 实现_VV 的_DEC 模糊_NN 逻辑_NN 相_AD 比较_VV 。_PU 模糊_NN 电子_NN 学_VV 有_VE 许多_CD 的_DEG 应用_NN ，_PU 包括_VV 控制_NN 系统_NN 及_CC 人工_NN 智能_NN 。_PU
+
+第一_OD 个_M 模糊_NN 电子_NN 电路_NN 是_VC 由_P TakeshiYamakawa_NN 等_ETC 人_NN 在_P 1980_CD 年_M 用_P 分立_VV 的_DEC 双_NN 载子_NN 电晶体_NN 所_MSP 设备_VV 。_PU 第一_OD 个_M 工业_NN 模糊_NN 应用_NN 是_VC 1982_CD 年_M 在_P 丹麦_NN 的_DEC 水泥窑_NN ，_PU 第一_OD 个_M 超大_JJ 规模_NN 集成_JJ 电路_NN 是_VC 由_P MasakiTogai_NN 和_CC HiroyukiWatanabe_NN 在_P 1984_CD 年_M 所_MSP 作_VV 。_PU Yamakawa_NN 在_P 1987_CD 年_M 建构_VV 了_AS 第一_OD 个_M 类比_NN 的_DEG 模糊_NN 控制器_NN ，_PU 第一_OD 个_M 数位_NN 的_DEG 模糊_NN 控制器_NN 是_VC Togai_NN 在_P 1988_CD 年_M 所_DT 发明_NN （_PU Russo_NN ,_PU pp_NN ._PU 2_CD -_PU 6_CD ）_PU 。_PU
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+﻿_AD 高_JJ 光谱_NN 影像_NN
+
+高_JJ 光谱_NN 影像_VV (_PU hyperspectralimaging_NN )_PU 是_VC 收集_VV 及_CC 处理_VV 整_DT 个_M 跨电磁_NN 波谱_NN 的_DEG 资讯_NN 。_PU 不_AD 像_VV 是_VC 人类_NN 的_DEG 眼睛_NN ，_PU 只_AD 能_VV 接触_VV 到_VV 可_VV 见光_VV 。_PU 而_CC 高_JJ 光谱_NN 的_DEC 接触机_NN 制_NN 、_PU 比如_AD 虾蛄_VA 的_DEC 眼睛_NN 它_PN 的_DEG 光谱_NN 能够_VV 接触_VV 到_VV 红外线_NN 延伸_VV 到_VV 紫外线_NN 的_DEG 范围_NN 。_PU 高_JJ 光谱_NN 的_DEC 能力_NN 能够_VV 使_VV 虾_NN 蛄分_NT 辨出_VV 不同_VA 的_DEC 珊瑚_NN 、_PU 猎物_NN ，_PU 或_CC 则_AD 猎食者_NN ，_PU 而_CC 这些_DT 正是人_NN 类_NN 所_MSP 缺少_VV 的_DEC ._PU
+
+工程_NN 师们_NN 已经_AD 制造_VV 出_VV 可_VV 用于_VV 农业_NN 、_PU 矿业_NN 、_PU 物理_NN 以及_CC 监控_VV 领域_NN 的_DEC 传感器_NN 及_CC 处理_NN 系统_NN 。_PU 高_JJ 光谱_NN 传感器_NN 通过_P 大量_CD 的_DEG 不同_JJ 波段_NN 的_DEC 电磁_NN 频谱_NN 来_MSP 探测_VV 物体_NN 。_PU 实际_NN 物体_NN 会_VV 在_P 电磁_NN 频谱_NN 中_LC 留下_VV 具有_VV 唯一_VA 的_DEC “_PU 指纹_NN ”_PU 。_PU 这些_DT “_PU 指纹_NN ”_PU 被_SB 称为_VV 光谱_NN 特性_JJ 并_CC 可_VV 用来_VV 确认_VV 被_SB 识别_VV 物体_NN 的_DEG 组成_NN 成分_NN 。_PU 比如说_AD ，_PU 石油_NN 的_DEC 光谱_NN 特性_JJ 便_NN 可以_VV 用来_VV 帮助_VV 矿质_NN 学家_NN 们找_VV 到_VV 油田_NN 。_PU
+高光_JJ 谱影_NN 像最为_AD 显著_VA 的_DEC 优势_NN 在于_VV ，_PU 整_DT 个_M 电磁_NN 波谱_NN 的_DEG 资讯_NN 都_AD 被_SB 每_DT 个_M 传感器_NN 像_P 素_NN 所_MSP 捕获_VV 。_PU 相邻_VV 像_P 素_NN 间_LC 整_DT 个_M 电磁_NN 波谱_NN 的_DEG 资讯_NN 都_AD 可以_VV 被_SB 用作_VV 高_JJ 精度_NN 分类_AD 用途_VV ._PU 高光_JJ 谱影_NN 像_VV 最_AD 大_VA 的_DEC 缺陷_NN 在于_VV 其_PN 高昂_NN 的_DEG 价格_NN 和_CC 复杂_VA 的_DEC 系统_NN 。_PU 高速_JJ 的_DEG 电脑_NN ，_PU 高敏_JJ 感度_NN 的_DEC 传感器_NN 和_CC 海量_NN 存储_NN 设备_NN 往往_AD 是_VC 分析_VV 高_JJ 光谱影_NN 像_P 资讯_NN 的_DEC 必备品_NN ._PU
+
+
+
+

@@ -1,0 +1,13 @@
+﻿_AD 变换_VV 编码_NN
+
+变换_NN 编码_NN 或_CC 称_NN 转换_NN 编码_NN ，_PU 系_VC 指欲_NN 编码_NN 之_DEG 数值_NN 经过_P 一_CD 数学_NN 转换_NN 后_LC 映射_VV 至_VV 另_DT 一_CD 值域_NN 后_LC 再_AD 进行_VV 编码_NN 处理_NN 。_PU 常_AD 用于_VV 音频_NN 信号_NN 编码_NN 和_CC 图像_NN /_PU 视频_NN 信号_NN 编码_NN 。_PU 变换_NN 编码_NN 经常_AD 与_P 量化_VV 一起_AD 使用_VV ，_PU 进行_VV 有损_JJ 数据_NN 压缩_NN 。_PU
+
+一_CD 个_M 很_AD 早_VA 的_DEC 例子_NN 是_VC 彩色_NN 电视机_NN 。_PU 由于_P 人眼_NN 对_P 亮度_NN 的_DEC 敏感性_NN 远远_AD 大于_VV 对_P 色度_NN 的_DEC 敏感性_NN ，_PU 所以_AD 将_BA 最初_JJ 的_DEG 基于_P RGB_NN 颜色_NN 空间_NN 的_DEC 色彩_NN 转换_VV 到_VV YCbCr_NN 空间_NN ，_PU 并_CC 利用_VV 较_AD 低_VA 的_DEC 分辨率_NN 来_MSP 表示_VV 色差_NN （_PU Cb_NN 和_CC Cr_NN ）_PU 信号_NN （_PU 也_AD 属于_VV 某_DT 种_M 量化_NN ）_PU 。_PU 这_PN 使得_VV 彩色_NN 电视机_NN 可以_VV 使用_VV 与_P 黑白_JJ 电视机_NN 相同_VA 的_DEC 约_AD 6M_CD 的_DEC 带宽_NN 来_MSP 传送_VV ，_PU 而_CC 人眼_NN 感觉_VV 不_AD 到_VV 太_AD 大_VA 差别_VA 。_PU 实际上_AD 一般_JJ 的_DEG 彩色_NN 电视机_NN 的_DEG 亮度_NN 分辨率_NN 约_AD 为_VC 350_NN 扫描线_NN ，_PU 而_CC Cb_NN 信号_NN 约_AD 为_VC 50线_NN （_PU 等效值_NN ）_PU ，_PU Cr_NN 信号_NN 约_AD 为_VC 150线_NN （_PU 等效值_NN ）_PU 。_PU 复杂_VA 的_DEC 人眼_NN 系统_NN 能够_VV 在_P 这样_PN 的_DEG 基础_NN 上_LC 重建_VV 完整_VA 的_DEC 彩色_NN 图像_NN 。_PU
+
+在_P 视频_NN 和_CC 音频_NN 信号_NN 数字化_NN 后_LC ，_PU 变换_NN 编码_NN 就_AD 更常_AD 用了_VV 。_PU 从_P 最_AD 常见_VA 的_DEC JPEG_NN 静止_VV 图像_NN 压缩_NN 标准_VV 到_VV MPEG_NN 等_ETC 运动图_NN 像_P 压缩_NN 标准_NN ，_PU 都_AD 使用_VV 了_AS 变换_NN 编码_NN 。_PU 最_AD 常用_VA 的_DEC 变换_NN 是_VC 离散_DT 余弦_NN 变换_NN ，_PU 其_PN 次_M 还_AD 有_VE 小波_NN 变换_NN 、_PU Hadamard_NN 变换_NN 等等_NN 。_PU 离散_VV 余弦_NN 变换_VV 在_VV 性能_NN 上_LC 接近_VV K_NN -_PU L_NN 变换_NN （_PU Karhunen_NN -_PU Lo_NN è_NN v_CC e_NN 变换_NN ）_PU ，_PU 能够_VV 很_AD 好_VA 的_DEC 实现_JJ 能量集_NN 中_LC ，_PU 广泛_VA 的_DEC 应用于_VV 几乎_AD 所有_DT 的_DEG 视频_NN 压缩_NN 标准_NN 中_LC 。_PU
+
+另外_AD ，_PU 也_AD 可以_VV 说_VV 从_P 模拟_NN 信号_NN 抽样_AD 得到_VV 数字_NN 信号_NN 的_DEC 过程_NN 也_AD 是_VC 一_CD 种_M 变换_NN 编码_NN 。_PU
+
+常_AD 使用_VV 的_DEC 数学_NN 转换_VV 有_VE 傅立叶_NN 变换_NN 、_PU 离散_NN 余弦_NN 变换_NN 、_PU 小波_NN 变换_NN 等_ETC 。_PU
+
+

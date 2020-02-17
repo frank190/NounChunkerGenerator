@@ -1,0 +1,7 @@
+﻿_CD PowerVu_NN
+
+PowerVu_NN 为_VC 一_CD 种_M 数位_NN 电视_NN 加密_VV 用_VV 的_DEC 条件_NN 接收_VV 模块_NN (_PU CAM_NN )_NN ，_PU 由_P ScientificAtlanta_NN 公司_NN (_PU 现_AD 为_VC 思科_NN 系统_NN )_PU 设计_NN 及_CC 拥有_VV 。_PU 它_PN 主要_AD 用_VV 在_P 专业_NN 广播_NN 系统_NN 中_LC ，_PU 使用_VV 此_DT 系统_NN 的_DEC 业者_NN 包括_VV Retevision_NN ，_PU 彭博_NN 电视_NN (_PU BloombergTelevision_NN )_PU ,_PU 探索_VV 频道_NN (_PU DiscoveryChannel)_PU ，_PU AFRTS_NN 及_CC AFN_NN 等_ETC 电视台_NN 。_PU 此_DT 加密_JJ 技术_NN 亦_AD 同时_AD 被有_VV 线电_JJ 视业者_NN 采用_VV ，_PU 防止_VV 未经_AD 订阅_VV 的_DEC 用户_NN 盗看_VV 。_PU
+
+PowerVu_NN 使用_VV 它_PN 的_DEG 专用_JJ 解码器_NN ，_PU 供有_VV 线业者_NN 将_BA 不同_JJ 卫星_NN 上_LC 使用_VV 该_DT 加密_JJ 技术_NN 的_DEG 频道_NN 解码_NN ，_PU 然后_AD 分配_VV 给_VV 各_DT 有_VE 线_NN 电视_NN 网路_NN 上_LC 公播_NN 。_PU 若_CS 设定_VV 妥当_NN ，_PU 解码器_NN 亦_AD 能_VV 接收_VV 免费_AD 无_VE 加密_VV 的_DEC 电视_NN 频道_NN (_PU freetoair_NN ，_PU 简称_VV ：_PU FTA_M )_PU 。_PU PowerVu_NN 使用_VV 复杂_VA 的_DEC 系统_NN 来_MSP 授权_VV 每_DT 台_M PowerVu_NN 接收器_NN ，_PU 定时_AD 追踪_VV 用户_NN 使用_VV 纪录_NN ，_PU 因此_AD PowerVu_NN 被_SB 认定_VV 为_VC 非常_AD 安全_VA 的_DEC 加密_NN 系统_NN ，_PU 一般_AD 用户_NN 难以_AD 破解_VV 。_PU
+
+

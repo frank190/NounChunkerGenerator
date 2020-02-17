@@ -1,0 +1,11 @@
+﻿5_CD 纳米_NN 制程_NN
+
+5_CD 纳米_NN 制程_NN 是_VC 半导体_NN 制造_NN 制程_NN 的_DEC 一_CD 个_M 水平_NN 。_PU 截止_VV 至_VV 2018_CD 年_M ，_PU 5_CD 纳米_NN 工艺_NN 的_DEC 器件_NN 还_AD 没有_VV 产生_VV 。_PU
+
+英特尔最_AD 早_AD 在_P 2009_CD 年_M 蓝图_JJ 规划_NN 於_P 2020_CD 年_M 推出_VV 此_DT 制程_NN ，_PU 而后_AD 2019_CD 年_M 的_DEG 蓝图_NN 中_LC 更新_VV 为_VC 2023_CD 年_M 推出_VV 。_PU
+
+全球_AD 最_AD 大晶_VA 圆代_NN 工厂_NN 台积电_NN （_PU TSMC_NN ）_PU 和_CC 三星_NN 电子_NN 皆宣布_NN 5_CD 纳米_AD 制程_VV 将_BA 于_P 2020_CD 年_M 进入量_NN 产期_NN ，_PU 并_CC 将_BA 首先_AD 用于_VV 生产_VV 智能_NN 手机_NN 芯片_NN 。_PU
+
+5_CD 纳米_NN 的_DEG 后继_NN 制程_NN 计划_VV 是_VC 3_CD 纳米_M 。_PU
+
+

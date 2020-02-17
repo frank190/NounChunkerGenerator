@@ -1,0 +1,15 @@
+﻿_CD AOMediaVideo1_NN
+
+AOMediaVideo1_NN （_PU 简称_VV AV1_NN ）_PU 是_VC 一_CD 个_M 开放_NN 、_PU 免_VV 专利_NN 的_DEG 影片_NN 编码_NN 格式_NN ，_PU 专_AD 为_VC 通过_P 网络_NN 进行_VV 串流_NN 传输_NN 而_MSP 设计_VV 。_PU 它_PN 由_P 开放_VV 媒体_NN 联盟_NN （_PU AOMedia_NN ）_PU 开发_VV ，_PU 该_DT 联盟_NN 由_P 半导体_NN 企业_NN 、_PU 随_P 选视讯_NN 供应商_NN 和_CC 网页_NN 浏览器_NN 开发_VV 商於_NN 2015_CD 年_M 成立_VV 。_PU 互联_VV 网工程_NN 任务组_NN （_PU IETF_NN ）_PU 也_AD 将_BA 这_DT 项_M 工作标_NN 準化_VV 为_VC 互联网_NN 视频_NN 编_VV 解码器_NN （_PU ）_PU 。_PU
+
+AV1_NN 的_DEC 目标_NN 是_VC 取代_VV 其_PN 前身_NN ，_PU 即_AD 由_P 谷歌_NN 开发_VV 的_DEC VP9_NN 视频_NN 压缩_NN 格式_NN ，_PU 并_CC 与_P 动态图_NN 像专家组_P （_PU MPEG_NN ）_PU 领导_VV 开发_VV 的_DEC 高效率_NN 视讯_NN 编码_NN （_PU H_CD EVC_M ）_PU 以及_CC 由_P 中华_NR 人民_NN 共和国_NN 的_DEC 数字音_NN 视频_NN 编码_NN 技术_NN 标准_NN 工作组_NN 主导_AD 开发_VV 的_DEC 第二_OD 代_M 数字音_NN 视频_NN 编_VV 解码_NN 技术_NN 标准_NN （_PU AVS2_NN ）_PU 竞争_NN 。_PU 。_PU
+
+AV1_NN 可以_VV 与_P Opus_NN 音频_NN 格式_NN 一起_AD 封装_VV 在_P WebM_NN 容器_NN 格式_NN 中_LC ，_PU 并_CC 可_VV 用于_VV HTML5_CD 网络_NN 视频_NN 和_CC 网页_NN 即时_AD 通信_VV 。_PU
+
+AV1_NN 是_VC 一_CD 种_M 使用_VV 传统_VA 的_DEC 基于_VV 区块_NN 编码_NN 但_AD 也_AD 加入_VV 了_AS 新_JJ 技术_NN 的_DEG 频率_NN 变换_NN 格式_NN ，_PU AV1_NN 所_MSP 使用_VV 的_DEC 编码_NN 技术_NN 主要_AD 来源于_VV 谷歌_NN VP9_NN 的_DEG 下_DT 一_CD 代_M 视频_NN 压缩_NN 格式_NN VP10_NN ，_PU 但_AD 同时_AD 也_AD 包含_VV 了_AS 由_P Xiph_NN ._PU Org_NN 基金会_NN 的_DEG 主要_JJ 赞助者_NN Mozilla_NN 开发_VV 的_DEC Daala_NN 视频_NN 压缩_NN 格式_NN 和_CC 由_P Cisco_NN 开发_VV 的_DEC Thor_NN 视频_NN 压缩_NN 格式_NN 中_LC 所_MSP 使用_VV 的_DEC 视频_NN 编码_NN 技术_NN 。_PU
+
+开放_VV 媒体_NN 联盟_NN 根据_P FreeBSD2_NN 许_VV 可证_VV 发布_VV 了_AS 一_CD 个_M 用_P C_NN 语言_NN 和_CC 汇编_NN 语言_NN 编写_VV 的_DEC 编_VV 解码器_NN 参考_VV 实例_NN codice_NN
+
+此外还_AD 有_VE 另_DT 一_CD 个_M 开源_NN 编码器_NN rav1e_NN ，_PU rav1e_NN 编码器_NN 以_P 牺牲_NN 编码_NN 效率_NN 为_VC 代价_VV ，_PU 成为_VV 最_AD 简单_VA 、_PU 最快_AD 符合_VV AV1_NN 标准_VA 的_DEC 视频_NN 编码器_NN 。_PU
+
+

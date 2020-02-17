@@ -1,0 +1,14 @@
+﻿模_NN 块化_NN 设计_NN
+
+模块_NN 化_NN 设计_NN （_PU ）_PU 是_VC 门设_NN 计理论_NN 与_CC 实作_NN 方法_NN ，_PU 其_PN 旨在于_VV 将_BA 一_CD 个_M 系统_NN 细_LC 分为_VV 许多_CD 小_JJ 单元_NN ，_PU 称为_VV 模块_NN ，_PU 可以_VV 独立_VV 的_DEC 於_P 不同_VA 的_DEC 系统_NN 中_LC 被_SB 建立_VV 与_CC 使用_VV 。_PU 模块化_NN 设计_VV 的_DEC 特征_NN 为_VC 将_BA 功能_NN 切_VV 分为_AD 抽象_VV 的_DEC 、_PU 可_VV 扩充_VV 的_DEC 、_PU 可_VV 重复_VV 使用_VV 的_DEC 模块_NN ；_PU 模块_NN 需_VV 严格_AD 使用_VV 定义_VV 明确_VA 的_DEC 模块_NN 化_NN 接口_NN ，_PU 并_CC 以_P 行业_NN 间_LC 标準_NN 作为_VV 接口_NN 规范_NN 。_PU 在_P 这_DT 种_M 情况_NN 下_LC ，_PU 模块_NN 化_VV 在_P 组件_NN 级別_NN 实_MSP 作_VV ，_PU 并且_CC 具有_VV 一_CD 个_M 单一_JJ 、_PU 固定_JJ 且_CC 特殊_JJ 的_DEG 组件_NN 插槽_NN 。_PU 这_DT 种_M 由_P 组件_NN 单元_NN 组合_VV 而_MSP 成_VV 的_DEC 模块化_NN 系统_NN ，_PU 通常_AD 称为_VV 使用_VV 模块化_NN 组件_NN 的_DEG 平台_NN 系统_NN 。_PU 例如_AD 个人_NN 电脑_NN 上_LC 的_DEC USB_NN 。_PU
+
+通常_AD 使用_VV 主_JJ 程式_NN 、_PU 子_NN 程式_NN 和_CC 子_NN 过程_NN 等_ETC 架构_NN 将_BA 软体_NN 的_DEC 主要_JJ 结构_NN 和_CC 流程_NN 描述_VV 出来_VV ，_PU 而非_CC 一般_AD 程式_NN 的_DEG 编写_NN ──_PU 逐条_NN 输入_VV 电脑_NN 程式_NN 和_CC 指令_NN 。_PU
+
+模块_NN 化_NN 设计_NN 能_VV 针对_VV 相同_JJ 或_CC 不同_JJ 功能_NN 、_PU 性能_NN 、_PU 规格_NN 的_DEC 产品_NN ，_PU 进行_VV 功能_NN 分析_NN ，_PU 并_CC 设计_VV 出_VV 一_CD 系列_NN 的_DEG 功能_NN 模块_NN 。_PU 透过_P 模块_NN 的_DEC 多样_NN 选择_VV 将_BA 产品_NN 客制化_NN ，_PU 可以_VV 满足_VV 市场_NN 许多_CD 不同_VA 的_DEC 需求_NN 。_PU
+
+模块_NN 化_NN 设计_NN 也_AD 常_AD 应用于_VV 模块_NN 化_NN 生产_NN ，_PU 能_VV 使_VV 大量_NN 产品_NN 具有_VV 客_NN 制化_VV 、_PU 多样_JJ 化_NN 、_PU 低_JJ 成本_NN 等_ETC 之_DEG 特性_NN 。_PU
+
+在_P 1963_CD 年_M ，_PU Motorola_NN 公司_NN 推出_VV 了_AS 第一_OD 款_M 彩色_NN 电视_NN 。_PU 1967_CD 年_M 也_AD 推出_VV 了_AS 其_PN 模块_NN 化品牌_NN Quasar_NN 。_PU 在_P MosesBasin_NN 的_DEG 管理_NN 下_LC ，_PU 1964_CD 年_M ，_PU 在_P 以色_JJ 列_NN 的_DEG 研发部_NN 公开_VV 发表_VV 了_AS 第一_OD 次_M 的_DEG 研究_NN 纪录_NN 。_PU 在_P 1974_CD 年_M Motorola_NN 将_BA 他_PN 的_DEG 彩色_NN 电视_NN 生意_NN 卖给_VV 了_AS 日本_NR 的_DEG 松下_NN 电器_NN （_PU Panasonic_NN ）_PU 。_PU
+
+
+

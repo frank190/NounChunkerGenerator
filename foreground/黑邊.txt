@@ -1,0 +1,31 @@
+﻿黑边_NN
+
+黑边_NN （_PU ）_PU ，_PU 为_P 萤幕_NN 中_LC 显示_VV 的_DEC 内容_NN 除了_P 正常_JJ 影像_NN 外_LC ，_PU 两_CD 侧_NN 或_CC 四周_NN 多_AD 出来_VV 的_DEC 未_AD 显示_VV 区域_NN 。_PU 因_P 该_DT 区域_NN 为_VC 黑色_VA ，_PU 故称_VA 之_DEC 为_VC 黑边_NN 。_PU 黑边_NN 的_DEC 产生_VV 是_VC 由于_P 原始_JJ 影像_NN 与_CC 萤幕_NN 的_DEG 尺寸_NN 规格_NN 不同_VA 所_MSP 造成_VV 的_DEC 。_PU
+
+在_P 多媒体_NN 影像_AD 发展_VV 的_DEC 过程_NN 中_LC ，_PU 有_VE 提出_VV 并_CC 制定_VV 了_AS 几_CD 个_M 基準_NN 画面_NN 尺寸_NN 。_PU 目前_NT 可_VV 概_AD 分为_AD 标準_VV 、_PU 宽萤幕_NN （_PU Vista_NN ）_PU 、_PU 电影_NN 宽_VA 萤幕_NN （_PU CinemaScope_NN ）_PU 三_CD 种_M 类型_NN ，_PU 这_DT 几_CD 种_M 其_PN 画面_NN 尺寸_NN 与_CC 长宽_NN 比_P 各_DT 有_VE 差异_NN 。_PU
+
+电视_NN 放送_VV 的_DEC 节目_NN 与_CC 影片_NN 、_PU DVD_NN 、_PU 影像_VV 处理_VV 软体_NN 等_ETC 多媒体_NN 制作_VV 与_P 画面_NN 显示_NN 尺寸_NN 与_P 各_DT 种_M 播放_NN 机器_NN 的_DEG 规格_NN 也_AD 以_P 此_PN 为_VC 基_NN 準_NN 。_PU 对_P 应关系_NN 为_VC ，_PU 标準_NN 尺寸_NN 比例_VV 为_VC 4_CD :_PU 3_CD 、_PU 与_CC 4_CD :_PU 3_CD 和_CC 16_CD :_PU 9_CD 之间_LC 格式_VV 为_VC 14_CD :_PU 9_CD 、_PU 宽萤幕_NN 则_AD 为_VC 16_CD :_PU 9_CD 。_PU 对应_AD 相对_VV 的_DEC 作品_NN 必须_VV 有_VE 相_AD 对应_VV 的_DEC 设备_NN ，_PU 为_P 解决_VV 此_DT 问题_NN ，_PU 产生_VV 了_AS 几_CD 种_M 画面_NN 转换_NN 技术_NN ，_PU 其中_NN 之_DEG 一_CD 就_AD 是_VC 留下_VV 黑边_NN 。_PU
+
+一般_AD 来说_VV ，_PU 画面_NN 比例_NN （_PU 长宽_NR 比_ETC ）_PU 为_VC 16_CD :_PU 9_CD 的_DEG 画面_NN 转换_VV 成_VV 4_CD :_PU 3_CD 画面_NN ，_PU 使用_VV 黑边_NN 的_DEG 情形_NN 较_AD 多_VA ，_PU 有时_AD 也_AD 会_VV 使用_VV 黑边_NN 技术_NN 将_BA 比_P 16_CD :_PU 9_CD 更_AD 宽_VA 的_DEC 电影_NN 宽_VA 萤幕_DT 画面_NN 转成_VV 16_CD :_PU 9_CD 的_DEG 画面_NN 。_PU
+
+有效_JJ 画面_NN 外出_VV 现黑边_NN 的_DEG 情形_NN 有_VE :_PU
+
+此外_AD 两_CD 种_M 类型_NN 会_VV 依_P 不同_JJ 场合_NN ，_PU 有时_AD 在_P 制作_VV 影片_NN 原_JJ 档_NN 时_LC 就_AD 将_BA 黑边_NN 加入_VV ，_PU 也_AD 有_VE 播_VV 放机器_NN 自动_AD 依_P 信号_NN 不同_AD 进行_VV 转换_NN 的_DEC 情形_NN 。_PU 因_P 次_NN 当_P 两_CD 者_NN 皆_AD 进行_VV 画面_NN 转换_VV 时_LC ，_PU 就_AD 会_VV 有_VE 上下_JJ 左右_NN 都_AD 出现_VV 黑边_NN 的_DEG 黑框_NN 画面_NN （_PU 一般_JJ 原因_NN 是_VC 影像_P 来源端_NN 出现_VV 问题_NN 造成_VV ）_PU 。_PU 这_DT 情形_NN 的_DEC 专业_NN 用语_NN 为_VC 「_PU 窗盒_NN 」_PU （_PU Windowbox_NN ）_PU 。_PU
+
+
+高分_NN 辨率_NN 放送_NN （_PU Hi_CD -_PU Vision_NN ）_PU 的_DEG 为了_P 影像_VV 转换_NN 、_PU 电影_NN 作品_NN 等_ETC 画面_NN 较_AD 4_CD :_PU 3_CD 还_AD 宽_VA 的_DEC 影像_JJ 来源_NN 能_VV 在_P 类比_NN 放送_VV 拨放_NN ，_PU 因此_AD 作为_P 手法_NN 之一_AD 使用_VV 了_AS 黑边_NN 技术_NN 来_MSP 将_BA 画面_NN 转换_VV 成_VV 4_CD :_PU 3_CD 比例_NN 。_PU
+
+数位_NN 放送_VV 则_AD 是_VC 为了_P 得到_VV 黑边_NN 的_DEC 效果_NN ，_PU 在_P 影片_NN 来源上_AD 附加_VV 了_AS 影片_NN 长_VA 宽_AD 比_P 的_DEC 资料_NN ，_PU 使_VV 受信_NN 端_NN 能_VV 依_P 此_PN 得知_VV 该_DT 使用_VV 何_DT 种_M 黑边_NN 技术_NN 。_PU 宽_NN 萤幕_NN 电视_NN 用_VV 的_DEC 类比_NN 与_P 数位_NN 调频器_NN 可以_VV 使用_VV 内_LC 含_VV 的_DEC 功能_NN 将_BA 原始_JJ 影像_NN 宽度_NN 扩大_VV 1.3_CD 倍_M ，_PU 并_CC 将_BA 超出_VV 萤幕_VA 的_DEC 部份_NN 去除_VV ，_PU 使_VV 其_PN 能_VV 显示_VV 成_VV 16_CD :_PU 9_CD 画面_NN （_PU ）_PU 。_PU
+
+另外_AD 若_CS 将_BA 黑边_NN 处理_VV 后_LC 的_DEG 影片_NN 进行_VV 放大_NN 播放_VV 时_LC ，_PU 放大_VV 后_LC 的_DEG 影_NN 像_P 其_PN 分辨率_NN 会_VV 比_P 原始_JJ 画面_NN 差_VA 。_PU 原本_AD 此_DT 技术_NN 是_VC 要_VV 搭配_VV 可以_VV 放大_VV 来源_NN 讯号_NN ，_PU 使_VV 画面_NN 放大_VV 后分_NN 辨率_NN 也_AD 不_AD 会_VV 下降_VV 的_DEC WideClearVision_NN 技术_NN 为_VC 前提_NN 而_MSP 使用_VV 的_DEC 。_PU 但_AD 随着_P 现行_VV 的_DEC 无线_JJ 数位_NN 高_JJ 分辨率_NN 电视_NN 放送_VV 的_DEC 推动_NN ，_PU 现在_NT 已经_AD 没有_VV 贩售_VV 对应_JJ WideClearVision_NN 技术_NN 的_DEC 机器_NN 了_NN 。_PU
+
+已_AD 於_P 2011年_NT 7月_NT 24日_NT 在_P 日本_NR 44_NN 都_AD 道_VV 府县_NN （_PU 日本_NR 总务_NN 省_NN 已经_AD 将_BA 岩手县_NN 、_PU 宫城县_NN 及_CC 福岛县_NN 停播_VV 时间_NN 延至_VV 2012_CD 年_M 3月31日_NN ）_PU 停止_VV 播送_VV 的_DEC 无线_NN 及_CC 卫星_NN 类比_NN 电视_NN 讯号_NN 前_LC ，_PU 从_P 2009年_NT 7月_NT 开始_VV ，_PU 由于_P 大_JJ 部分_NN 的_DEG 节目_NN 都_AD 采用_VV 高_JJ 画质_NN 制作_VV ，_PU 原本_AD 一_CD 部份_NN 的_DEG 安全线_NN 将_BA 其_DT 一_CD 部份_NN 的_DEG 节目_NN 改为_VV 使用_VV 少许_CD 黑边_NN 模式_NN 或者_CC 黑边_NN 模式_NN 来_MSP 播送_VV 。_PU 随着_AD 类比_VV 停播_VV 日_P 接近_VV ，_PU 已_AD 於_P 2010_CD 年_M 7月_NT 5日_NT 起_VV 除_P 广告_NN 外_LC ，_PU 所有_DT 节目_NN 全面_AD 改为_VV 黒边_NN 模式_NN 来_MSP 播送_VV 。_PU
+
+部分_NN 以_P 16_CD :_PU 9_CD 模式_NN 播出_VV 的_DEC 电视台_NN 在_P 播放_NN 4_CD :_PU 3_CD 模式_NN 的_DEG 节目_NN 时_LC ，_PU 会_VV 以_P 静态_NN 图片_NN 或_CC 动画_NN 代替_VV 黑边_NN 。_PU
+
+影片_NN 作品_NN 基本上_AD 都_AD 是_VC 较_AD 标準_NN 尺寸_NN 的_DEC 电视_NN 还_AD 宽_VA ，_PU 因此上_AD 下加_VV 黑_JJ 边后_NN 可以_VV 维持_VV 原始_VA 的_DEC 长_JJ 宽比_NN 。_PU
+
+DVD_NN 影片_NN 上_LC 一般_AD 都_AD 会_VV 加上_VV 「_PU LB_NN 」_PU 或_CC 「_PU 16_CD :_PU 9_CD LB_NN 」_PU 等_ETC 标示_NN 。_PU DVD_NN 影片_NN 无论_AD 是_VC 标準_NN 或_CC 宽萤幕_NN 画面_NN 皆_AD 为_VC 使用_VV 标_VV 準_NN 分辨率_NN （_PU NTSC_CD 为_VC 720_CD ×_PU 480_CD ）_PU 来_MSP 纪录_VV ，_PU 而_CC 播放_VV 时_LC 会_VV 根据_P 所_MSP 付_VV 的_DEC 长宽比_JJ 资料_NN 进行_VV 转换_NN 。_PU 因此_AD 宽萤_VA 幕影片_NN 在_P 标準_NN 尺寸_NN 电视_NN 上_LC 播放_VV 时_LC 因_P 垂直_JJ 分辨率_NN 为_VC 360_CD 条_M ，_PU 会_VV 变成_VV 上下_PN 有_VE 黑边_NN 的_DEG 画面_NN 。_PU
+
+
+

@@ -1,0 +1,7 @@
+﻿突崩溃_VV
+
+-_PU {zh_NN -_PU cn_NN :_PU 雪崩_NN 击穿_VV ;_PU zh_NN -_PU tw_NN :_PU 突_AD 崩溃_NN ;_PU zh_NN -_PU hk_NN :_PU 突_AD 崩溃_NN }_PU -_PU （_PU ）_PU ，_PU 是_VC 指_VV 对_P 一些_CD 绝缘体_NN 或_CC 半导体_NN 施加_VV 足够_VA 的_DEC 电压_NN 时_LC ，_PU 流过_P 它们_PN 的_DEG 电流_NN 突然_AD 增大_VV 。_PU 这_PN 主要_AD 与_P 金属_NN 原子_NN 外_NN 自由_AD 运动_VV 的_DEC 电子_NN 有关_NN 。_PU 大_JJ 部分_NN 的_DEG 绝缘体_NN 或_CC 半导体_NN 载运_NN 电流_NN 的_DEC 能力_NN 受限_VV 於_AD 能够_VV 在_P 原子_NN 外_NN 中_LC 自由_AD 运动_VV 的_DEC 电子_NN 的_DEG 不足_NN ，_PU 而_CC 强大_VA 的_DEC 电流_NN 所_MSP 产生_VV 的_DEC 电子_NN 能够_VV 击出_VV 原子_NN 中_LC 的_DEG 电子_NN 而_MSP 使_VV 它_PN 变成_VV 自由_P 电子_NN 。_PU 而_CC 由于_P 上述_JJ 的_DEG 现象_NN 类_NN 似於雪崩_AD 产生_VV 的_DEC 滚雪球_NN 效应_NN ，_PU 因此_AD 得名_VV 。_PU
+
+
+
+

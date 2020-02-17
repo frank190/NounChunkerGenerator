@@ -1,0 +1,136 @@
+﻿沃尔_NN 什_NN 转换_NN
+
+沃尔_NN 什_NN 转换_NN （_PU WalshTransform_NN ）_PU 是_VC 在_P 频谱_NN 分析_NN 上_LC 作为_P 离散傅_NN 立叶_VV 变换_VV 的_DEC 替代_NN 方案_NN 的_DEC 一_CD 种_M 方法_NN 。_PU
+
+在_P 频谱_VV 分析_NN 上_LC 最_AD 常用_VV 的_DEC 一_CD 种_M 方法_NN 是_VC 使用_VV 离散_PN 傅立叶_NN 变换_VV ，_PU 然而_AD ，_PU 即使_CS 已经_AD 有_VE 许多_CD 快速_VA 的_DEC 演算法_NN 来_MSP 实现_VV 离散傅_NN 立叶_VV 变换_NN ，_PU 仍然_AD 具有_VV 一些_CD 实现_VV 上_LC 的_DEG 缺点_NN ，_PU 举例_NN 来_MSP 说_VV ，_PU 在_P 离散傅_NN 立叶_VV 变换_NN 中_LC ，_PU 资料_NN 向_P 量_NN 必须_VV 乘上_VV 复数_NN 系数_NN 的_DEG 矩阵_NN 加以_VV 处理_NN ，_PU 而且_CC 每_DT 个_M 复数_NN 系数_NN 的_DEG 实部_NN 和_CC 虚部_NN 是_VC 一_CD 个_M 正弦_NN 及_CC 余弦_NN 函数_NN ，_PU 因此_AD 大部分_CD 的_DEG 系数_NN 都_AD 是_VC 浮点数_NN ，_PU 也就是说_AD 在_P 做离_VV 散傅立叶_AD 变换_VV 处理_NN 的_DEC 时候_NN ，_PU 我们_PN 必须_VV 做_VV 复数_NN 而且_AD 是_VC 浮点_NN 数_CD 的_DEG 运算_NN ，_PU 因此_AD 计算_VV 量_NN 会_VV 比_NN 较_AD 大_VA ，_PU 而且_CC 浮点_NN 数运算_NN 产生_VV 的_DEC 误差_NN 会_VV 比较_VV 大_VA 。_PU
+
+而_AD 在_P 沃尔_NN 什_NN 转换_NN 中_LC ，_PU 资料_NN 向_P 量_NN 需要_VV 乘上_VV 的_DEC 矩阵_NN 是_VC 一_CD 个_M 实数_NN 的_DEG 矩阵_NN ，_PU 而且_CC 这些_DT 矩阵_NN 的_DEC 系数_NN 是_VC 1_CD 或是_CC –_VV 1_CD ，_PU 因此_AD 所有_DT 的_DEG 系数_NN 都_AD 是_VC 绝对_AD 值大_VV 小_JJ 相同_VA 的_DEC 整数_NN ，_PU 这_PN 使得_VV 我们_PN 不_AD 需要_VV 作_VV 浮点_NN 数_CD 的_DEG 乘法_NN 运算_VV ，_PU 更_AD 进一步_AD ，_PU 只_AD 需_VV 要_VV 使用_VV 加_VV 法_NN 来_MSP 实现_VV 沃尔_NN 什_NN 转换_NN ，_PU 这_AD 使_VV 的_DEC 沃尔_NN 什_AD 转换_VV 在_P 运算_NN 复杂_VA 度_M 上_LC 远_AD 小于_VV 离散傅_NN 立叶_VV 变换_VV 。_PU
+
+使用_VV 离散_PN 傅立叶_NN 变换_VV 相当_JJ 於把_NN 信号_NN 拆解_VV 成_VV 在_P 不同_JJ 频率_NN 的_DEG 正弦_NN 函数_NN 与_CC 余弦_NN 函数_NN 的_DEG 分量_NN ，_PU 而_CC 使用_VV 沃_NN 尔_OD 什_DT 转换_NN 相当_AD 於_P 把_BA 信号_NN 拆解_VV 成_VV 在_P 许多_CD 不同_JJ 震荡_NN 频率_NN 的_DEC 方波_NN 上_LC ，_PU 因此_AD ，_PU 除非_P 所_MSP 要_VV 分析_VV 的_DEC 信号_NN 拥有_VV 类似_NN 方波_NN 组合_VV 的_DEC 特性_NN ，_PU 使用_VV 沃_NN 尔_OD 什_DT 转换_NN 作_VV 频谱_NN 分析_VV 的_DEC 效果_NN 会_VV 比_P 使用_VV 离散_PN 傅立_VV 叶_NN 变换_NN 分析_NN 的_DEC 效果_NN 要_VV 差_NN ，_PU 这_PN 是_VC 降低_VV 运算_NN 复杂_VA 度_M 所_MSP 要_VV 付出_VV 的_DEC 代价_NN 。_PU
+
+沃尔_NN 什_NN 转换_NN 的_DEC 转换式_NN 为_VC
+
+formula_NN
+
+其中_NN formula_NN
+举例_NN 来_MSP 说_VV ，_PU 一_CD 个_M 8点沃_NN 尔_NOI 什_DT 转换_NN 的_DEC 转换_NN 矩阵_NN 如下_VV ：_PU
+
+formula_NN
+
+后面_NN 会解_VV 释沃尔_NN 什_AD 转换_VV 矩阵_NN 是_VC 如_P 何_PN 产生_VV ，_PU 而_CC 沃尔_NN 什_NN 转换_NN 的_DEC 反转换式_NN 为_VC
+
+formula_NN
+
+注意_VV 到_VV 正转_NN 换式_NN 与_CC 反转_JJ 换式_NN 只_AD 差_VV 了_AS 一_CD 个_M 常数_NN ，_PU 这_PN 是_VC 由于_P 沃_NN 尔_OD 什_DT 转换_NN 矩阵_NN 的_DEC 反矩阵_NN 就_AD 是_VC 自己_PN 的_DEG 转置_NN 矩阵_NN 乘上_VV 一_CD 个_M 常数_NN 的_DEC 缘故_NN 。_PU
+
+formula_NN
+
+起始值_NN formula_NN
+
+formula_NN
+
+假设_VV 我们_PN 已经_AD 有_VE 一_CD 个_M formula_NN __NN 5点_NT 的_DEG 沃尔_NN 什_NN 转换_NN 矩阵_NN formula_NN 则_AD 我们_PN 可以_VV 借由_P 下面_NN 的_DEC 方法_NN 来_MSP 产生_VV formula_NN __NN 10_CD 点_M 的_DEG 沃尔_NN 什_NN 转换_NN 矩阵_NN formula_NN
+
+Step1_CD 定义_NN formula_NN
+
+Step2_CD 根据_P 变号_NN 次数_NN 把_BA formula_NN __NN 13_CD 的_DEG 列_NN （_PU row_NN ）_PU 重新_AD 排列_VV 成为_VV formula_NN
+
+以下_JJ 举_NN 一_CD 个_M 使用_VV 4_CD 点_M 沃尔_NN 什_NN 转换_NN 矩阵_NN 产生_VV 8_CD 点_M 沃尔_NN 什_NN 转换_NN 矩阵_NN 的_DEG 例子_NN ：_PU
+
+formula_NN
+
+formula_NN
+
+接着_AD 对_P formula_NN __NN 17_CD 的_DEG 列做_NN 排序_NN 即_AD 可_VV 得上_VV 面_NN 的_DEG formula_NN
+
+在_P 不同_VA 的_DEC 应用_NN 上_LC ，_PU 我们_PN 较常_AD 使用_VV 的_DEC 沃尔_NN 什_AD 矩阵_VA 的_DEC 列_NN 的_DEG 排列_NN 顺序_NN 也_AD 不同_VA ，_PU 以下_NN 以_P 一_CD 个_M 表_NN 来_MSP 区分_VV ：_PU
+
+若_CS 使用_VV 二_CD 进位_NN 来_MSP 表示_VV 各_DT 种_M 顺序_NN 的_DEG 列_NN 的_DEG 编号_NN ，_PU 则_AD 双_CD 积_VV 顺序_VV 的_DEC 二_CD 进位_NN 编号_NN 是_VC 序数_NN 顺序_VV 的_DEC 格雷码_NN 编码_NN ，_PU 而_CC 自然_AD 顺序_VV 的_DEC 二_CD 进位_NN 编号_NN 是_VC 双积_JJ 顺序_NN 的_DEC 位元_NN 反转_VV 。_PU
+
+（_PU 1_CD ）_PU 正交_JJ 性质_NN
+
+沃尔_NN 什_NN 转换_NN 矩阵_NN 的_DEG 每_DT 个_M 列_NN 是_VC 互相_CC 正交_VV 的_DEC ，_PU 即_AD 如果_CS formula_NN __NN 19_CD 则_AD formula_NR
+
+（_PU 2_CD ）_PU 零_CD 交_M （_PU zero_NN -_PU crossing_NN ）_PU 性质_NN
+
+formula_NN __NN 5_CD 点_M 沃尔_NN 什_NN 转换_NN 矩阵_NN 的_DEG 每_DT 个_M 列_NN 的_DEG 变号_NN 次数_NN 都_AD 不_AD 相同_VA ，_PU 分別_NN 为_VC 变号_NN 0_CD 次_M 到_VV 变号_NN formula_NN
+
+（_PU 3_CD ）_PU 奇偶性质_NN
+
+沃尔_NN 什_NN 转换_NN 矩阵_NN （_PU 沃尔什_NR 顺序_NN ）_PU 中_LC ，_PU 编号_NN 为_VC 偶数_CD 的_DEG 列_NN 是_VC 偶_PN 对称_VA ，_PU 编号_NN 为_VC 奇数_NN 的_DEG 列是奇_NN 对称_VA 。_PU （_PU 有_VE 第0_OD 列_M ）_PU
+
+（_PU 4_CD ）_PU 线性_JJ 性质_NN
+
+若_CS formula_NN __NN 23_CD ，_PU formula_NN __NN 24_CD ，_PU （_PU formula_NN __NN 25_CD 表沃尔_NN 什_NN 转换_NN ）_PU 则_AD 有_VE formula_NN
+
+（_PU 5_CD ）_PU 加法_NN 性质_NN
+
+formula_NN __NN 27_CD ，_PU formulaor_NN ）_PU
+
+（_PU 6_CD ）_PU 平移_JJ 性质_NN
+
+若_CS formula_NN __NN 23_CD 则_AD formula_NN
+
+（_PU 7_CD ）_PU 调变_VV 性质_NN
+
+若_CS formula_NN __NN 23_CD 则_AD formula_NN
+
+（_PU 8_CD ）_PU 巴_BA 斯_DT 瓦_M 定理_NN （_PU Parseval_NN '_PU sTheorem_NN ）_PU
+
+若_CS formula_NN __NN 23_CD 则_AD formula_NN
+
+（_PU 9_CD ）_PU 折积_NN 性质_NN
+
+若_CS formula_NN __NN 23_CD ，_PU formula_NN __NN 24_CD ，_PU 则_AD formula_NN __NN 37_CD ，_PU 在_P 这里_PN formulaconvolution_NR ）_PU 。_PU
+
+由于_P 一_CD 个_M formula_NN __NN 5_CD 点_M 沃尔_NN 什_NN 转换_NN 矩阵_NN 可以_VV 由_P formula_NN __NN 40_CD 点_M 的_DEG 沃尔_NN 什_AD 转换_VV 矩阵堆_NN 叠_NN 后_LC 做_VV 变号_NN 与_P 排序_NN 产生_VV ，_PU 因此_AD 一_CD 个_M formula_NN __NN 5_CD 沃尔_NN 什_NN 转换_NN 可以_VV 由_P 做_VV 两_CD 次_M formula_NN
+
+沃尔_NN 什_NN 转换_NN 适合_VV 做频谱_NN 分析_NN ，_PU 但_AD 未必_AD 适合_VV 做_VV 折积_NN <_PU br_NN >_PU
+
+主要_AD 应用_VV 在_P 多_CD 工_M ，_PU 其中_NN CDMA_NN 为_VV 主要_JJ 应用_NN <_PU br_NN >_PU
+若_CS 使用_VV N_CD 点_M 沃尔_NN 什_NN 转换_NN ，_PU 则_AD 可以_VV 对_P N_CD 个_M 通道_NN 做多_VV 工_VC <_PU br_NN >_PU
+而且_AD 使用_VV 沃尔什_NR 转换_NN 的_DEC 好处_NN 是_VC 不_AD 需要_VV 同步_AD <_PU br_NN >_PU
+其他_DT 正交_JJ 转换_NN 则_AD 需要_VV 同步_AD <_PU br_NN >_PU
+<_PU br_NN >_PU
+举例_VV ：_PU CDMA_NN 使用_VV 沃尔什_NR 转换_VV 做_VV 多工_JJ 的_DEG 方法_NN <_PU br_NN >_PU
+假设现_AD 在_P 有_VE 两_CD 组_M 资料_NN 要_VV 传_VV ，_PU 分別_NN 是_VC [_PU 1_CD ,_PU 0_CD ,_PU 1_CD ]_PU ,_PU [_PU 1_CD ,_PU 1_CD ,_PU 0_CD ]_PU <_PU br_NN >_PU
+并且_AD 使用_VV 8点沃_NN 尔_NOI 什_DT 转换_NN formula_NN
+1_CD ._PU 将_BA 0_CD 变为_VV -_PU 1_CD <_PU br_NN >_PU
+[_PU 1_CD ,_PU 0_CD ,_PU 1_CD ]_PU →_CD [_PU 1_CD ,_PU -_PU 1_CD ,_PU 1_CD ]_PU <_PU br_NN >_PU
+[_PU 1_CD ,_PU 1_CD ,_PU 0_CD ]_PU →_CD [_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ]_PU <_PU br_NN >_PU
+2_CD ._PU 调变_NN <_PU br_NN >_PU
+对于_P 第一_OD 组_M 资料_NN 拿_VV 通道_VV 一_CD 来_M 调变_VV <_PU br_NN >_PU
+第一_OD 组_M 资料_NN 为_VC [_PU 1_CD ,_PU -_PU 1_CD ,_PU 1_CD ]_PU ,_PU 通道_NN 一_CD 为_VC [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ]_PU <_PU br_NN >_PU
+→_CD [_PU 1_CD *_PU 通道_VV 一_CD ,_PU -_PU 1_CD *_PU 通道_VV 一_CD ,_PU 1_CD *_PU 通道_VV 一_CD ]_PU <_PU br_NN >_PU
+→_CD [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ]_PU <_PU br_NN >_PU
+<_PU br_NN >_PU
+对于_P 第二_OD 组_M 资料_NN 拿通_VV 道二_OD 来_MSP 调变_VV <_PU br_NN >_PU
+第二_OD 组_M 资料_NN 为_VC [_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ]_PU ,_PU 通道_NN 二_CD 为_VC [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ]_PU <_PU br_NN >_PU
+→_CD [_PU 1_CD *_PU 通道_NN 二_CD ,_PU 1_CD *_PU 通道_NN 二_CD ,_PU -_PU 1_CD *_PU 通道_NN 二_CD ]_PU <_PU br_NN >_PU
+→_CD [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ]_PU <_PU br_NN >_PU
+3_CD ._PU 相_AD 加<_VV br_NN >_PU
+[_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ]_PU +_NN [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ]_PU <_PU br_NN >_PU
+→_CD [_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ]_PU <_PU br_NN >_PU
+<_PU br_NN >_PU
+
+解调_VV <_PU br_NN >_PU
+1_CD ._PU 如果_CS 使用_VV N_CD 点_M 沃尔_NN 什_NN 转换_NN ，_PU 则_AD 把_BA 接收_VV 的_DEC 讯号_NN 每_AD 隔_P N_CD 点_NN 拆开来_VV <_PU br_NN >_PU
+[_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ]_PU <_PU br_NN >_PU
+→_CD [_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ]_PU ,_PU [_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ]_PU ,_PU [_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ]_PU <_PU br_NN >_PU
+2_CD ._PU 将_BA 每_DT 段_M 讯号_NN 与_P 通道_NN 做_VV 内积_NN <_PU br_NN >_PU
+若_CS 大于_VV 0_CD ,_PU 则_AD 解调_VV 为_VC 1_CD <_PU br_NN >_PU
+若_CS 小于_VV 0_CD ,_PU 则_AD 解调_VV 为_VC 0_CD <_PU br_NN >_PU
+对于_P 通道_NN 一_CD <_PU br_NN >_PU
+[_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ]_PU ·_PU [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ]_PU =_NN 8_CD →_PU 1_CD <_PU br_NN >_PU
+[_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ]_PU ·_PU [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ]_PU =_NN -_PU 8_CD →_PU 0_CD <_PU br_NN >_PU
+[_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ]_PU ·_PU [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ]_PU =_NN 8_CD →_PU 1_CD <_PU br_NN >_PU
+通道_NN 一_CD 接收_VV 的_DEC 资料_NN 为_VC [_PU 1_CD ,_PU 0_CD ,_PU 1_CD ]_PU <_PU br_NN >_PU
+对于_P 通道_NN 二_CD <_PU br_NN >_PU
+[_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ]_PU ·_PU [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ]_PU =_NN 8_CD →_PU 1_CD <_PU br_NN >_PU
+[_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ,_PU -_PU 2_CD ]_PU ·_PU [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ]_PU =_NN 8_CD →_PU 1_CD <_PU br_NN >_PU
+[_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 0_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ,_PU 2_CD ]_PU ·_PU [_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ,_PU -_PU 1_CD ]_PU =_NN -_PU 8_CD →_PU 0_CD <_PU br_NN >_PU
+通道_NN 二_CD 接收_VV 的_DEC 资料_NN 为_VC [_PU 1_CD ,_PU 1_CD ,_PU 0_CD ]_PU <_PU br_NN >_PU
+
+
+
+

@@ -1,0 +1,15 @@
+﻿电子_NN 效应_NN
+
+电子_NN 效应_NN ，_PU 理论_VV 有机_JJ 化学_NN 基本概_AD 念之_VV 一_CD 。_PU 细分_CD 为_VC 两_CD 大_M 类_NN ：_PU 一_CD 类_M 是_VC 涉及_VV π_NN 键_VV 的_DEC 共轭_NN 效应_NN ；_PU 一_CD 类_M 是_VC 涉及_VV σ_NN 键_VV 的_DEC 诱导_NN 效应_NN 和_CC 超_VV 共轭_NN 效应_NN 。_PU
+
+电子_NN 效应_NN 本质_NN 上_LC 来讲_VV 就_AD 是_VC 由于_P 不同_JJ 原子_NN 之间_LC 存在_VV 电负性_NN 的_DEG 差别_NN ，_PU 这_DT 个_M 差别_AD 导致_VV 了_AS 化学键_NN 的_DEC 极_NN 化_NN 。_PU 这_DT 种_M 极化_NN 的_DEG 结果_NN 可以_VV 沿着_P 化学键_NN 传导_VV ，_PU 从而_AD 对_P 分子_NN 本身_PN 的_DEG 物理_NN 性质_NN 和_CC 化学_NN 性质_NN 产生_VV 了_AS 影响_NN 。_PU
+
+诱导_NN 效应_NN 沿_P 单键_JJ 传递_NN ，_PU 特点_NN 是_VC 衰减_VV 得_DER 很_AD 快_VA ，_PU 其_PN 影响_NN 一般_AD 不_AD 超过_VV 三_CD 个_M 原子_NN 以外_LC 。_PU 例如_AD 氯乙酸_NN -_PU 氯丙酸_NN -_PU 氯丁酸序_NN 列酸性_NN 比较_VV ：_PU
+
+共轭效_NN 应存_VV 在于_VV 共_AD 轭_P 双_CD 键体_NN 系_NN ，_PU 即_AD 双_CD 键_NN 和_CC 单键_JJ 交替_VV 的_DEC 分子_NN 结构_NN 。_PU 共轭_NN 效应_NN 的_DEC 特点_NN 是_VC 化学键_NN 的_DEG 极_AD 化_JJ 作用_NN 可以_VV 沿_P 共轭体_NN 系传_NN 递得_VV 很_AD 远_VA 。_PU 例如_AD ：_PU 共轭_NR 的_DEG 结果_NN 是_VC 电子_NN 的_DEG 离域_NN ，_PU 共轭体_NN 系_NN 内_LC 单键_NN 变短_VV 而_MSP 双键_JJ 变长_NN ，_PU 单双键_NN 长度_NN 差别_AD 缩小_VV 乃至_AD 消失_VV 。_PU
+
+简单_AD 说_VV ，_PU 超共_VV 轭_NN 效应_NN 就_AD 是_VC σ键_NN 对_P π键_NN 发生_VV 离域_NN 的_DEC 结果_NN 。_PU 它_PN 解释_VV 了_AS 取代度_NN 越_AD 大_VA 的_DEC 烯烃_NN 越_AD 稳定_VA 的_DEC 现象_NN 。_PU
+
+
+
+

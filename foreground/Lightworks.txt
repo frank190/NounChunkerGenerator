@@ -1,0 +1,33 @@
+﻿_CD Lightworks_NN
+
+Lightworks_NN 是_VC 一_CD 套_M 剪辑_NN 2K_CD /_PU 4K_CD 电影_NN 和_CC PAL/NTSC_NN 、_PU 标清_NN 以及_CC 高清_JJ 电视_NN 的_DEC 专业_NN 非_JJ 线性_JJ 编辑_NN 系统_NN 。_PU Lightworks_NN 是_VC 基于_P 电脑_NN 进行_VV 电影_NN 剪辑_NN 的_DEC 先锋_NN ，_PU 从_P 1989_CD 年_M 诞生_VV 至今_AD 一直_AD 处于_VV 发展_NN 当_NN 中_LC 。_PU
+
+该_DT 程序_NN 目前_NT 运行_VV 于_P Windows_NN 平台_NN ，_PU 2010_CD 年_M 5月_NN 宣布_VV 发布_VV 开源_NN 版本_NN 并_CC 向_P G_CD NU_M /_PU Linux_NN 、_PU MacOSX_NN 平台_NN 进行_VV 移植_NN ，_PU 但_CC 由于_P 开发_VV 进度_NN 原因_NN ，_PU 原定_JJ 的_DEG 发布_NN 时间_NN 2011_CD 年_M 11月_CD 一_CD 直推_AD 迟到_VV 了_AS 2012_CD 年_CC 10_CD 月30日_M （_PU 内测_NN ）_PU 。_PU
+
+剪辑师_NN 使用_VV Lightworks_NN 创作_VV 了_AS 一_CD 大_JJ 批国_NN 际知名_NN 的_DEC ，_PU 斩获_VV 奥斯_JJ 卡奖_NN 、_PU 艾美奖_NN 的_DEG 影片_NN 和_CC 电视_NN 节目_NN ，_PU 包括_VV 《_PU 王者_NN 之声_LC ：_PU 宣战_NN 时刻_NN 》_PU ，_PU 马丁_NN ·_PU 史_NN 柯西_NN 斯_NN 的_DEG 《_PU 雨果_NN 的_DEC 冒险_NN 》_PU 和_CC 《_PU 神鬼_NN 无间_LC 》_PU ，_PU 还_AD 有_VE 《_PU 不_AD 可能_VV 的_DEC 任务_NN 》_PU 、_PU 《_PU 黑色_JJ 追缉令_NN 》_PU 、_PU 《_PU 梅尔吉_NN 勃逊_VV 之_DEC 英雄_NN 本色_PN 》_PU 以及_CC 《_PU 蝙蝠侠_NN 》_PU 。_PU
+
+1989_CD 年_M PaulBamborough_NN 、_PU NickPollock_NN 和_CC NeilHarris_NN 建立_VV OLE_NN 公司_NN 并_CC 开发_VV 了_AS Lightworks_NN 剪辑_NN 系统_NN ，_PU 在_P 1994_CD 年转_NN 卖给_VV 了_AS Tektronix_NN 公司_NN ，_PU 然而_CC 该_DT 公司_NN 在_VV 产品_NN 开发_NN 上_LC 并_CC 无_VE 太_AD 多_CD 建树_NN ，_PU 于_P 是_VC 在_P 1999_CD 年_M 又_CC 被_SB 转卖_VV 给_VV 了_AS 新_JJ 组建_NN 的_DEG Lightworks_NN 公司_NN ，_PU 随后_AD 又_AD 转到_VV F_CD ai_M rlightJapan_NR 公司_NN 旗下_NN ，_PU 最后_AD 在_P 2004_CD 被_SB G_CD eeBroadcast_M 收购_VV 。_PU
+
+在_P 此_DT 期间_NN 发布_VV 了_AS 新_JJ 产品_NN LightworksTouch_NN 系列_NN ，_PU 以及_CC 针对_P 标清_NN /_PU 高清_JJ 剪辑_NN 的_DEC Alacrity_NN 和_CC Softworks_NN 系列_NN 。_PU Softworks_VV 为_VC 包含_VV Lightworks_NN 的_DEC 用户_NN 界面_NN 及_CC 工具_NN 套件_NN 在_P 内_JJ 的_DEG 纯_JJ 软件_NN 套装_VV ，_PU 针对_VV 的_DEC 是_VC 笔记_P 本_DT 电脑_NN 以及_CC 离_P 线工_NN 作站_VV 。_PU Softwork_VV s_NN 和_CC Alacrity_NN 支持_VV 多_CD 种_M 格式_NN 、_PU 多_CD 种_M 分辨率_NN 的_DEC 实时混_NN 编_NN ，_PU 也_CC 可以_VV 不同_AD 分辨率_NN 进行_VV 输出_NN 而_CC 不_AD 需要_VV 进行_VV 重新_JJ 渲染_NN 。_PU Alacrity_NN 支持_VV 双_CD 输出_VV ，_PU 这_DT 一_CD 功能_NN 对_P Softworks_NR 用户_NN 来说_LC 是_VC 可选_VV 的_DEC 升级_NN 。_PU
+
+2009年_NT 8月_NT ，_PU 英美_NR 合资_NR 公司_NN Editshare_NN 收购_VV 了_AS GeeBroadcast_NN ，_PU 连带_VV Lightworks_NN 剪辑_NN 平台_NN 以及_CC 该_DT 公司_NN 的_DEG 视频_NN 服务器_NN 系统_NN "_PU G_CD eeVS_M "_PU 。_PU
+
+在_P 2010年_NT 4月_NT 11日_NT 的_DEG NABShow_NN （_PU 美国_NR 广播_JJ 协会器_NN 材展_NN ）_PU 上_LC ，_PU Editshare_NN 透露_VV 它们_PN 计划_VV 将_BA Lightworks_NN 开源_NN 。_PU 随后_AD 在_P 9月份_NN 举行_VV 于_P 阿姆_NN 斯_AD 特_AD 丹_VA 的_DEC IBC_NN （_PU 国际_NN 广播_AD 会议_VV ）_PU 2010_NT 上_LC 正式_JJ 宣布_NN 这_DT 一_CD 决定_NN 。_PU
+
+2010年_NT 11月_NT 9日_NT ，_PU Editshare_NN 宣称_VV 将_BA 在_P 29_CD 号_M 提供_VV Lightworks_NN 的_DEG 下载_NN ，_PU 一开始_AD 只_AD 对_P 那些_DT 在_P 首次_JJ 声明_NN 间_LC 注册_NN 的_DEC 用户_NN 开放_VV ，_PU 但_CC 随后_AD 又_AD 作为_VV “_PU 公测_NN ”_PU 进行_VV 发布_NN 。_PU
+
+开源_NN 版本_NR 原计_NN 划在_VV 完成_VV 代码_NN 审阅_VV 后_LC ，_PU 在_P 2011_CD 年_M 的_DEG 四季度_NN 发布_VV 。_PU 专利_NN 插件_NN 需要_VV 通过_P 在_P 相关_JJ 的_DEG 网上_NN 商店_NN 支付_NN 来_MSP 获取_VV ，_PU 特别_AD 是_VC 那些_DT 用于_VV 兼容专_AD 业摄_VV 像机_PN 的_DEG 文件_NN 格式_NN 的_DEC 插件_NN 。_PU 在_P 日程_NN 所_MSP 规划_VV 的_DEC 发布_NN 日期_NN 29_CD 号_M 的_DEG 前几天_NN ，_PU Editshare_NN 宣布_NN 开源_NN 版本_VA 的_DEC 发布_NN 将_AD 暂时_AD 推迟_VV ，_PU 但_AD 没有_VE 设定_JJ 新_NN 的_DEG 发布_NN 日期_AD ，_PU 在_P 声明_NN 中_LC 他们_PN 称_VV 新版_JJ 本_DT 的_DEG 稳定性_NN 无法_AD 让_VV 人_NN 满意_VV 。_PU
+
+直到_VV 2012年_NT 6月_NT ，_PU Editshare_NN 也_AD 没有_VV 发布_VV Lightworks_NN 的_DEG 开源_NN 版本_NN ，_PU Linux_NN 和_CC Mac_NN 版本_VA 的_DEC 发布_NN 也_AD 被_SB 推迟_VV 。_PU Linux_NN 版_NN 本曾_AD 在拉_VV 斯_DT 维_NN 加斯_VV 的_DEC NABShow_NN 上_LC 演示_VV ，_PU 虽然_CS 一_CD 段_M Lightworks_NN 运行_VV 于_P Ubuntu_NN 的_DEG 视频_NN 上_LC 传到_VV 了_AS YouTube_NN ，_PU 但_CC 仍_AD 不_AD 提供_VV 开放_VV 下载_PN 。_PU
+
+经过_P 18_CD 个_M 月_NN 的_DEG 公测_NN 后_LC ，_PU Editshare_NN 在_P 2012年_NT 5月_NT 28日_NT 发布_VV 了_AS Lightworks11_NN ，_PU 仅_AD 用于_VV Windows_NN 系统_NN 。_PU
+
+此_DT 为_VC 宣布_NN 开源_NN 后_LC 的_DEG 首个_NN 正式_NN 版本_NN ，_PU 包含_VV 许多_CD 针对_P 剪辑_NN 人员_NN 开发_VV 的_DEC 新_JJ 特性_NN ，_PU 并且_CC 兼容绝_AD 大多数_CD 的_DEG PC_NN 硬件_NN 。_PU 考虑_VV 到_VV 移植性_NN 问题_NN ，_PU 软件_NN 经过_VV 了_AS 重新_AD 设计_VV 和_CC 重写_VV （_PU 已_AD 承诺_VV 会_VV 有_VE Linux_NN 和_CC Mac_NN 版本_NN ）_PU ，_PU 目前_NT 支持_VV 更_AD 多_VA 的_DEC 编码_NN 方式_NN ，_PU 包括_VV AVCHD_NN 、_PU H_CD ._PU 264_CD 、_PU AVC_NN -_PU Intra_NN 、_PU DNxHD_NN 、_PU ProRes_NN 、_PU RedR3D_NN 、_PU DPX_NN 、_PU XDCAMHD50_NN 、_PU XDCAMEX_NN 、_PU DVD_NN 、_PU Blu_NN -_PU ray_NN 和_CC 4K_NN ，_PU 但_CC 以上_LC 仅_AD 出现_VV 在_P 付费_NN 版本_NN 中_LC 。_PU 免费_NN 版本_AD 可_VV 支持_VV DV_NN 、_PU MPEG_NN 、_PU Uncompressed_NN 等_ETC 的_DEG 导入_NN 和_CC 输出_NN 。_PU
+
+截止_VV 到_VV 2012年_NT 6月_NT ，_PU Editshare_NN 仍未_AD 发布_VV Lightworks_NN 的_DEG 开源_NN 版本_NN （_PU v11_CD 为_VC 正式_NN 版本_AD 但_AD 仍_AD 是_VC 闭源_NN ）_PU ，_PU Linux_NN 和_CC Mac_NN 版本_NN 也_AD 被_SB 推迟_VV 。_PU Linux_NN 版_NN 曾_AD 在_P 4_CD 月份_M 的_DEG 拉斯维_NN 加斯NABShow_VV 上_LC 进行_VV 演示_NN ，_PU 其_PN 运行_VV 在_P Ubuntu_NN 上_LC 的_DEG 一_CD 段_M 视频_NN 也_AD 被_SB 上传_VV 到_VV Editshare_NN 的_DEG YouTube_NN 频道_NN 上_LC 。_PU 在_P 9_CD 月份_M 的_DEG 阿姆_NN 斯_AD 特_AD 丹_P IBC_NN 上_LC ，_PU 演示_VV 了_AS 升级_VV 后_LC 的_DEG Linux_NN 版本_NN ，_PU 同时_AD 也_AD 宣布_VV Linux_NN 版本_VA 的_DEC 首次_NN 内_LC 测将于_VV 10月_NT 30日_NT 开始_VV 。_PU
+
+Lightworks_NN 的_DEG 控制_NN 界面_NN 类似于_VV 行业_NN 标准_NN Steenbeck_NR 平台式_JJ 剪辑机_NN 上_LC 的_DEC 的_DEG 控制器_NN ，_PU 不同_VA 的_DEC 是_VC 它_PN 被_SB 设计_VV 为_VC 一_CD 套_M 非_AD 线性_JJ 剪辑_NN 系统_NN 。_PU 在_P 90年_NT 代初_NT 期刚面市_NN 时_LC ，_PU Lightworks_NN 拥有_VV 许多_CD 特色_NN ，_PU 如_P “_PU 同步_JJ 滑动_NN ”_PU －_PU 同步_JJ 变速_JJ 回放_NN 音频_NN 擦除_NN 、_PU 多_CD 频道_NN 同步_AD 回放_VV 以及_CC 搭配_VV 专用_JJ 硬件_NN 控制器_NN 的_DEG 面向_NN 对象_P 式_NN 用户_NN 界面_NN ，_PU 其中_NN 某些_DT 特色_NN 直_AD 到现_VV 在_P 仍旧_NT 领先于_VV 其他_DT 竞争_NN 对手_LC 。_PU
+
+
+
+

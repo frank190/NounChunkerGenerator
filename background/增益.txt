@@ -1,0 +1,32 @@
+﻿增益_NN
+
+增益_VV 在_P 电子学_NN 上_LC ，_PU 通常_AD 为_VC 一_CD 个_M 系统_NN 的_DEG 讯号_NN 输出_NN 与_CC 讯号_NN 输入_VV 的_DEC 比率_NN 。_PU 如_P 5_CD 倍_M 的_DEG 增益_NN ，_PU 即_AD 是_VC 指_VV 系统_NN 令_VV 电压_NN 或_CC 功率_NN 增加_VV 了_AS 5_CD 倍_M 。_PU 增益_NN 主要_AD 应用于_VV 放大_NN 电路_NN 中_LC 。_PU
+
+电子学_NN 上_LC 常_AD 使用_VV 对数_NN 单位_NN 量度_NN 增益_VV ，_PU 并_CC 以_P 贝_NN （_PU bel_NN ）_PU 作为_VV 单位_NN ：_PU
+
+其中_NN P1_NN 与_CC P2分_NN 別_NN 为_VC 输入_VV 及_CC 输出_VV 的_DEC 功率_NN 。_PU
+
+由于_P 增益_NN 的_DEG 数值_NN 通常_AD 都_AD 很_AD 大_VA ，_PU 因此_AD 一般_AD 都_AD 使用_VV 分贝_M （_PU dB_NN ，_PU 贝_NN 的_DEG 10_CD 分之_M 1_CD ）_PU 来_MSP 表示_VV ：_PU
+
+一_CD 个_M 类似_VA 的_DEC 单位_NN 使用_VV 自然_JJ 对数_NN ，_PU 称为_VV 奈培_NN 。_PU
+
+当_P 增益_NN 以_P 电压_NN 而非_CC 功率_NN 计算_NN 时_LC ，_PU 使用_VV 焦_NN 耳定律_NN （_PU Joule_NN '_PU slaw_NN ，_PU "P"="V"/"R"_PU ）_PU ，_PU 其_PN 公式_NN 为_VC ：_PU
+
+=_NOI 10_CD ×_PU log_M (_PU ("V"/"V"))_PU dB_NN
+
+=_NOI 20_CD ×_PU log("V_M "_PU /"V")_PU dB_NN
+
+此_DT 公式_NN 只有_VV 在_P 负载_NN 阻抗_NN 相_NN 等_ETC （_PU 阻抗_NN 匹配_NN ）_PU 时_LC 才_AD 为_VC 正确_VA 。_PU 在_VV 不_AD 少_VA 现代_JJ 电子_NN 设备_NN 中_LC ，_PU 由于_P 输出阻_NN 抗_VV 较_AD 低_VA ，_PU 而_CC 输入_VV 阻抗_NN 则_AD 较_AD 高_VA ，_PU 令_VV 负载_NN 可_VV 被_SB 忽略_VV 而_CC 不_AD 明显_VA 地_DEV 影响_VV 计算_NN 结果_NN 。_PU
+
+如_P 一_CD 个_M 放大器_NN 输出_VV 1_CD 伏特_M 至_CC 1_CD 欧姆_NN 的_DEC 负载_NN ，_PU 提供_VV 的_DEC 输出_NN 功率_NN 为_VC 1_CD 瓦特_M 。_PU 如_P 放大器_NN 被_SB 调节_VV 至_VV 输出_NN 10_CD 伏特_M 至_VV 同_DT 一_CD 负载_NN ，_PU 它_PN 提供_VV 的_DEC 输出_NN 功率_NN 则_AD 为_VC 100_CD 瓦特_NN （_PU "P"="V"/_PU "_PU R_NN "_PU ）_PU 。_PU 因_P 此_PN ：_PU
+
+电压_NN 增益_NN =_PU 10_CD /_PU 1_CD =_CC 10_CD 倍_M
+
+P_NN =_P V_NN ²_NN /_PU R_NN
+功率_NN 增益=_NN (_PU 10_CD ²/R_M )_PU /(1²/R)=_PU 100_CD 倍_M
+根据_P 定义_NN ，_PU 其_PN 增益_NN 为_VC 10Log100_CD =_CC 20_CD dB_NN
+
+如果_CS 增益_NN 为_VC 1_CD 或_CC 0_CD dB_M ，_PU 即_AD 输出_VV 电压_NN 等于_VV 输入_VV 电压_NN ，_PU 这_DT 个_M 增益_NN 也_AD 称为_VV 单位_NN 增益_VV 。_PU
+
+
+

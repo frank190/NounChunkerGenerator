@@ -1,0 +1,7 @@
+﻿倒双摆_VV
+
+倒双摆_AD 是_VC 结合_NN 及_CC 双_CD 摆_VV 所_MSP 得_VV 的_DEC 系统_NN 。_PU 倒_AD 双_CD 摆_VV 是_VC 不_AD 稳定_VA 的_DEC 系统_NN ，_PU 若_CS 不_AD 以_P 某_DT 种_M 方式_NN 控制_VV ，_PU 倒_AD 双_CD 摆_VV 一定_CS 会_VV 倒下来_VV 。_PU 控制_VV 倒_JJ 双_CD 摆_NN 的_DEG 方式_NN 主要_AD 分为_VV 二_CD 种_M ，_PU 一_CD 种_M 是_VC 控制_VV 倒_AD 单摆_JJ 底部_NN 平面_NN 的_DEC 位移_NN ，_PU 另_DT 一_CD 种_M 是_VC 在_P 二_CD 个_M 单摆_JJ 之间_LC 的_DEG 枢纽点_NN 施加_VV 转矩_NN 。_PU
+
+
+
+

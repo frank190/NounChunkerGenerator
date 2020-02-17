@@ -1,0 +1,65 @@
+﻿解析_NN 信号_NN
+
+在_P 数学_NN 和_CC 信号_NN 处理_NN 中_LC ，_PU 解析_NN 信号_NN （_PU ）_PU 是_VC 没有_VE 分量_NN 的_DEG 复值_NN 函数_NN 。_PU 解析_NN 信号_NN 的_DEG 实部_NN 和_CC 虚部_NN 是_VC 由_P 希尔_NN 伯_NN 特_NN 转换_NN 相_AD 关联_VV 的_DEC 实值_NN 函数_NN 。_PU
+
+实值_NN 函数_NN 的_DEG 解析_NN 表示_VV 是_VC "_PU 解析_NN 信号_NN "_PU ，_PU 包含_VV 原始_JJ 函数_NN 和_CC 它_PN 的_DEG 希尔_NN 伯_NN 特_AD 变换_VV 。_PU 这_DT 种_M 表示_VV 促进_VV 了_AS 许多_CD 数学_NN 变换_NN 的_DEC 发展_NN 。_PU 基本_JJ 的_DEG 想法_NN 是_VC ，_PU 由于_P 频谱_VV 的_DEC 埃尔米_NN 特_AD 对称_VA ，_PU 实值_NN 函数_NN 的_DEG 傅里叶_NN 变换_NN （_PU 或_CC 频谱_VV ）_PU 的_DEC 负频率_NN 成分_NN 是_VC 多余_VA 的_DEC 。_PU 若_CS 是_VC 不_AD 介意_JJ 处理_NN 复_AD 值_VV 函数_NN 的_DEC 话_NN ，_PU 这些_DT 负频率_NN 分量_NN 可以_VV 丢弃_VV 而_CC 不_AD 损失_NN 信息_NN 。_PU 这_PN 使得_VV 函数_NN 的_DEG 特定_JJ 属性_NN 更_AD 易_AD 理解_VV ，_PU 并_CC 促进_VV 了_AS 调制_NN 和_CC 解调_NN 技术_NN 的_DEG 衍生_NN ，_PU 如_P 单边带_NN 。_PU 只要_CS 操作_VV 的_DEC 函数_NN 没有_VV 负频率_NN 分量_NN （_PU 也就是_AD 它_PN 仍_AD 是_VC “_PU 解析_NN 函数_NN ”_PU ）_PU ，_PU 从_P 复数_NN 转换_VV 回_VV 实数_NN 就_AD 只_AD 需要_VV 丢弃_VV 虚_JJ 部_NN 。_PU 解析_NN 表示_VV 是_VC 相量_JJ 概念_NN 的_DEC 一_CD 个_M 推广_NN ：_PU 相量_NR 限制_VV 在_P 时_NN 不_AD 变_VV 的_DEC 振幅_NN 、_PU 相位_NN 和_CC 频率_NN ，_PU 解析_NN 信号_NN 允许_VV 有_VE 时变_NN 参数_NN 。_PU
+
+若_CS formula_NN 是_VC 一_CD 个_M "_PU 实值_NN "_PU 函数_NN ，_PU 其_PN 傅里叶_NN 变换_VV 为_VC formula_NN __NN 2_CD ，_PU formulaformula_NN 埃_NN 尔_NN 米特_NN 对称_VA 之_DEC 函数_NN ：_PU
+
+函数_NN ：_PU
+
+其中_NN ：_PU
+
+仅_AD 包含_VV formula_NN 的_DEC "_PU 非_VC 负频率_NN "_PU 分量_NN 。_PU 而且_CC 由于_P formula_NN 的_DEG 埃尔米_NN 特_AD 对_P 称性_VV ，_PU 该_DT 运算_NN 是_VC 可逆_VV 的_DEC ：_PU
+formula_NN 的_DEG 解析_NN 信号_NN 是_VC formula_NN 的_DEC 傅里叶_NN 逆_VV 变换_NN ：_PU
+其中_NN
+
+于是_VV ：_PU
+欧拉_NN 公式_NN 的_DEC 一_CD 个_M 推论_NN 是_VC formula_NN 一般来说_AD ，_PU 简单_VA 正_CC 弦_NN 曲线_NN 的_DEC 解析_NN 表示_VV 是_VC 通过_P 用_P 复_AD 指数_NN 表示_VV 它_PN ，_PU 丢弃_VV 分量_M ，_PU 并_CC 对_P 正频率_NN 分量_NN 加倍_NN 得到_VV 的_DEC 。_PU 正_AD 弦_NN 曲线_NN 之_DEG 和_CC 的_DEG 解析_NN 表示_VV 等于_P 单_CD 个_M 正弦波_NN 的_DEC 解析_NN 表示_VV 之_DEC 和_CC 。_PU
+
+这里_PN 我们_PN 使用_VV 欧拉_NN 公式_NN 来_MSP 识别_VV 并_CC 丢弃_VV 负频率_NN 。_PU
+
+于是_VV ：_PU
+
+这_PN 是_VC 使用_VV 希尔伯特_VV 变换_NN 方法_NN 去除_VV 负频率_NN 分量_VV 的_DEC 另_DT 一_CD 个_M 例子_NN 。_PU 我_PN 们注_NN 意到_VV ，_PU 对于_P 复值_JJ 函数_NN formulaformulaformula_NN 为_VC 实值_NN 函数_NN 。_PU
+
+于是_VV ：_PU
+
+由于_P formulaformula_NN 这_DT 件_M 事可_NN 能_VV 与_P 直觉_NN 不_AD 太_AD 一致_VA 。_PU 我们_PN 还_AD 可以_VV 注意_VV 到_VV 复共_JJ 轭_NN formula_NN "_PU 仅_AD "_PU 由_P 负频率_NN 分量_NN 构成_VV 。_PU 因此_AD formula_NN 恢复_VV 了_AS 被_SB 减弱_VV 的_DEC 正频率_NN 分量_NN 。_PU
+
+解析_NN 信号_NN 也_AD 可以_VV 表示_VV 在_P 其_PN 随_P 时间_NN 变化_VV 的_DEC 幅度_NN 和_CC 相位_NN （_PU 极坐标_NN ）_PU ：_PU
+其中_NN ：_PU
+
+在_P 附图_NN 中_LC ，_PU 蓝色_JJ 曲线_NN 描绘_NN formulaformula_NN
+
+解缠_VV 的_DEC 瞬_NN 时_LC 相位_NN 的_DEC 时间_NN 导数_NN 的_DEG 单位_NN 为_VC rad_NN /_PU s_NN ，_PU 称作_NN "_PU 瞬时角_NN 频率_NN "_PU ：_PU
+
+因此_AD ，_PU "_PU 瞬_NN 时_LC 频率_NN "_PU （_PU 单位赫_NN 兹_VA ）_PU 为_VC ：_PU
+
+瞬_NN 时_LC 振幅_NN 、_PU 瞬_NN 时_LC 相位_NN 与_CC 频率_NN 在_P 一些_CD 应用_NN 中_LC 用于_VV 测量_VV 和_CC 检测_VV 的_DEC 信号_NN 的_DEG 局部_NN 特征_NN 。_PU 信号_NN 的_DEC 解析_NN 表示_VV 的_DEC 另_DT 一_CD 个_M 应用_NN 与_CC 调制_NN 信号_NN 的_DEC 解调_NN 有关_VV 。_PU 极_BA 坐标_NN 方便_VA 将_BA 振幅_NN 调变_VV 和_CC 相位_VV （_PU 或_CC 频率_NN ）_PU 调制_VV 的_DEC 影响_NN 分开_NN ，_PU 对_P 解调_VV 某些_DT 种类_NN 的_DEC 信号_NN 很_AD 有效_VA 。_PU
+
+解析_NN 信号_NN 通常_AD 都_AD 会_VV 在_P 频率_NN 上移位_NN （_PU 下_NN 转换_NN ）_PU 到_VV 0_CD  _M Hz_NN ，_PU 可能_VV 会_VV 产生_VV [_PU 非_AD 对称_VA ]_PU 负_VV 频率_NN 分量_NN ：_PU
+其中_NN formula_NN 是_VC 任意_AD 参考_VV 角_NN 频率_NN 。_PU
+
+这_DT 个_M 函数_NN 有_VE 不同_VA 的_DEC 名称_NN ，_PU 如_P "_PU 复_AD 包络_VV "_PU 和_CC "_PU 复_AD 基_NN 带_VV "_PU 。_PU 复_AD 包络_VV 不_AD 是_VC 唯一_JJ 的_DEG ；_PU 它_PN 是_VC 由_P formula_NN 的_DEC 选取_NN 决定_VA 的_DEC 。_PU 这_DT 个_M 概念_NN 通常_AD 用于_VV 处理_VV 。_PU 如果_CS formula_NN 是_VC 调制_NN 信号_NN ，_PU formula_NN 可能_VV 会_VV 等于_VV 它_PN 的_DEG 。_PU
+
+在_P 其他_DT 情况_NN 下_LC ，_PU formula_NN 选在_VV 所_MSP 需_VV 通带_NN 的_DEG 中间_NN 。_PU 因此_AD 简单_VA 的_DEC 实_JJ 系数_NN 低_AD 通_VV 滤波器_NN 就_AD 可以_VV 去除_VV 感_VV 兴趣_NN 的_DEC 部分_NN 。_PU 另_DT 一_CD 个_M 动机_NN 是_VC 减少_VV 最高_JJ 频率_NN ，_PU 从而_AD 降低_VV 最_AD 小_VA 的_DEC 无_VE 混叠_NN 采样率_NN 。_PU 频移_VV 不_AD 加_VV 大复_NN 信号_NN 表示_VV 的_DEC 数学_NN 处理_NN 难度_NN 。_PU 因此_AD 从_P 这_DT 个_M 意义_NN 上_LC 说_VV ，_PU 下_JJ 转换_NN 的_DEC 信号_NN 仍然_AD 是_VC "_PU 解析_NN 信号_NN "_PU 。_PU 但是_AD 恢复_VV 实值_NN 表示_VV 不_AD 再_AD 是_VC 简_BA 简单_VA 单_AD 提取_VV 实部_NN 的_DEC 问题_NN 了_NN 。_PU 为了_P 避免_VV 混_VV 叠_NN 可_VV 能_VV 需要_VV 上_LC 转换_VV ，_PU 若_CS 信号_NN 已_AD 被_SB （_PU 离散_VV 时间_NN ）_PU 采样_VV ，_PU 还_AD 可_VV 能_VV 需要_VV 插_VV 值_NN （_PU 升_VV 采样_VV ）_PU 。_PU
+
+若_CS 选取_VV 的_DEC formula_NN 大于_VV formula_NN 的_DEC 最高_JJ 频率_NN ，_PU 则_AD formula_NN 没有_VV 正频率_NN 。_PU 在_P 这_DT 种_M 情况_NN 下_LC ，_PU 提取_VV 实部_NN 并_CC 恢复_VV 它们_PN ，_PU 但_CC 顺序_NN 要_VV 相反_VA ；_PU 低_JJ 频分_NN 量现_VV 在_P 变为_VV 高频_JJ 分量_NN ，_PU 反之亦然_AD 。_PU 这_AD 可_VV 用于_VV 解调_VV 一_CD 种_M 叫做_NN "_PU 下_JJ 边带_NN "_PU 的_DEG 单边带_NN 信号_NN 。_PU
+
+
+有时_NT formula_NN 的_DEC 选取_NN 是_VC 要_VV 最_AD 小_JJ 化_NN
+
+另外_AD ，_PU formula_NN 选取_VV 还_AD 可以_VV 是_VC 要_VV 最_AD 小_JJ 化线_NN 性_NN 逼近_NN "_PU 解缠_VV 的_DEC "_PU 瞬_NN 时_LC 相位_NN formula_NN 的_DEC 均方_JJ 误差_NN ：_PU
+再_AD 或者_CC （_PU 对_P 最佳_JJ formula_NN
+
+在_P 信号_NN 处理_NN 领域_NN ，_PU 维格_NN 纳_VV –威_NR 利_NN 分布_AD 定义_VV 中_LC 需要_VV 解析_VV 信号_NN ，_PU 因此_AD 该_DT 方法_NN 在_P 实际_JJ 应用_NN 中_LC 具有_VV 理想_NN 特性_NN 。_PU
+
+有时复_AD 包络_VV 与_CC 复_AD 振幅_NN 同义_LC ；_PU
+其他_DT 时候_NN 它_PN 作为_P 一_CD 种_M 时间_NN 无关_AD 的_DEC 推广_NN 形式_NN 。_PU 它们_PN 的_DEG 关系_NN 并_AD 不_AD 像_VV 实_AD 值_VV 的_DEC 情形_NN 那样_VA ；_PU 变化_VV 的_DEC 产生_VV 恒定_JJ 的_DEG 振幅_NN 。_PU
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+﻿扎哈_NN 罗夫_NN -_PU 舒尔曼_NN 系统_NN
+
+扎哈_NN 罗夫_NN -_PU 舒尔曼_NN 系统_NN （_PU Zakharov_NN –_CC Schulmansystem_NN ）_PU 是_VC 一_CD 个_M 非_JJ 线性_JJ 偏_NN 微分_NN 方程_NN 的_DEC 系统_NN ，_PU 描述_VV 小_JJ 振幅_NN 、_PU 高频_NN 的_DEC 波动_NN 和_CC 声波_NN 的_DEG 干涉_NN 。_PU 方程式_NN 为_VC
+
+其中_NN "_PU L_NN "_PU 、_PU "L"_NN 及_CC "_PU L"_NN 都_AD 是_VC 常_JJ 系数_NN 的_DEG 微分_NN 算子_NN 。_PU
+
+

@@ -1,0 +1,7 @@
+﻿水跃_NN
+
+水跃_NN （_PU Hydraulicjump_NR ）_PU 是_VC 流体_NN 力学_NN 的_DEC 一_CD 个_M 现象_NN ，_PU 常_AD 在_P 像_P 河_NN 或_CC 洩_NN 洪道_NN 的_DEG 明渠_NN 中_LC 出现_VV 。_PU 当_P 高_JJ 流速_NN 的_DEC 超临_JJ 界流_NN 进入_VV 低_JJ 流速_NN 的_DEC 亚临_JJ 界流_NN 中_LC ，_PU 流体_NN 的_DEC 速度_NN 突然_AD 变慢_VV ，_PU 因此_AD 流体_NN 部分_NN 的_DEC 动能_NN 被_SB 紊流_VV 消散_NN ，_PU 部份_CD 动能_NN 则_AD 转换_VV 为_VC 位能_NN ，_PU 造成_VV 液面_NN 明显_AD 变高_VV ，_PU 这样_PN 的_DEG 现象_NN 即_AD 为_VC 水跃_NN 。_PU
+
+例如_AD 图_NN 1_CD 所_MSP 示_VV 现象_NN ：_PU 水_NN 由_P 水龙头_NN 进入_VV 水槽_NN 时_LC ，_PU 水_NN 在_P 进入_VV 水槽_NN 前_LC 的_DEG 流速较_NN 高_VA ，_PU 而_CC 在_P 水_NN 槽_OD 后_LC 的_DEG 流速_JJ 突然_JJ 变慢_NN ，_PU 因此_AD 会_VV 有_VE 水跃_NN 的_DEC 现象_NN ，_PU 部份_CD 动能_AD 转换_VV 为_VC 位能_NN ，_PU 而_CC 水槽_NN 中_LC 水_NN 的_DEG 液面_NN 会_VV 形成_VV 驻波_NN 。_PU
+
+

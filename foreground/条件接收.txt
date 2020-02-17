@@ -1,0 +1,10 @@
+﻿条件_NN 接收_NN
+
+条件_NN 接收_NN （_PU ConditionalAccess_NN ，_PU 缩写_VV 为_VC CA_NN ）_PU 是_VC 对_P 内容_NN 的_DEC 一_CD 种_M 保护_VV ，_PU 它_PN 要求_VV 在_P 满足_VV 一定_JJ 的_DEG 条件_NN 下_LC 才_AD 能_VV 访问_VV 某_DT 种_M 内容_NN 。_PU 这_DT 个_M 术语_NN 通常_AD 用于_VV 数字_NN 电视_NN 系统_NN 领域_NN ，_PU 早期_AD 尤其_AD 是_VC 卫星_NN 电视_NN 。_PU 现在_NT 有_VE 线_NN 数字_NN 电视_NN 也_AD 普及_VV 了_AS 。_PU 移动_JJ 电视_NN （_PU CMMB_NN ）_PU 、_PU 地面_NN 电视_NN （_PU 中国_NR DTMB_NN ，_PU 欧洲_NN DVB_NN -_PU T_NN ）_PU 等_ETC 都_AD 会_VV 用到_VV 。_PU
+在_P 数字_NN 视频_NN 广播_NN 标准_NN 中_LC ，_PU 条件_NN 访问_NN 系统_NN （_PU CAS_NN ）_PU 标准_NN 中_LC 定义_VV 的_DEC 规范_NN 文档_NN 用于_VV DVB_NN -_PU CA_NN （_PU 条件_NN 访问_NN ）_PU ，_PU 包括_VV 通用_VV 加扰_NN 算法_NN （_PU DVB_NN -_PU CSA_NN ）_PU 和_CC 公用_JJ 接口_NN （_PU DVB_NN -_PU CI_NN ）_PU ，_PU 标准_NN 定义_VV 了_AS 数字_NN 电视流_NN 混淆_NN 的_DEC 方法_NN ，_PU 并_CC 只_AD 能_VV 被_SB 有效_AD 解密_VV 访问_NN 智能卡_NN 。_PU 条件_NN 访问_NN DVB_NN 规范_NN 来_MSP 自于_VV standardspageontheDVBwebsite_NN 。_PU
+
+通过_P 组合_NN 扰频器_NN 、_PU 加扰_NN 和_CC 加密_NN ，_PU 数据流_NN 被_SB 48_CD 位_M 密钥_NN 加扰_VV ，_PU 密钥_AD 被_SB 称为_VV "_PU 控制_VV 字_NN "_PU 。_PU 在_P 一定_JJ 时间_NN 内_LC 控制_VV 字_AS 的_DEC 值_NN 是_VC 很_AD 小_VA ，_PU 在_P 正常_JJ 情况_NN 下_LC ，_PU 每_DT 分钟_M 控制字_NN 会_VV 被_SB 内容_VV 提供_VV 商改_JJ 变几次_NN 。_PU 控制字_NN 是_VC 通过_P 一_CD 个_M 方法_NN 连续_AD 生成_VV 并且_CC 不_AD 可_VV 预见_VV ；_PU DVB_M 规范_NN 中_LC 建议_VV 使用_NN 物理_NN 芯片_NN 生成_VV 。_PU
+
+为了_P 接收_VV 到_VV 解扰_VV 后_LC 的_DEG 数据流_NN ，_PU 就_AD 必须_VV 实时_AD 得知_VV 当前_NT 控制字_NN 。_PU 在_P 实践_NN 中_LC ，_PU 控制字_NN 会_VV 稍微_AD 提前_VV 收到_VV ，_PU 所以_AD 不_AD 会_VV 中断_VV 收看_VV 。_PU 加密_VV 通常_AD 用来_VV 保护_VV 控制字_NN 传输_VV 到_VV 接收者_NN ：_PU 控制字_NN 被_SB 加密_VV 为_VC "_PU entitlementcontrolmessage_NR "_PU （_PU ECM_NN ）_PU 。_PU 授权_NN 机构_NN 通过_VV "_PU entitlementmanagementmessage_NN "_PU （_PU EMM_NN ）_PU 发送_VV 授权_NN 给_P 接收机_NN ，_PU 接收机_NN 中_LC 的_DEC CA子_NN 系统_NN 就_AD 有_VE 权解_NN 密控_AD 制字_VV 。_PU EMM_NN 消息_NN 通过_P 接收机_NN 的_DEG 智能_NN 卡具体_NN 到_P 每_DT 个_M 定阅者_NN 。_PU
+
+

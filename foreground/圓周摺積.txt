@@ -1,0 +1,18 @@
+﻿圆周_NN 折积_NN
+
+两_CD 个_M 函数_NN 的_DEG 圆周_NN 折积_NN 是_VC 由_P 他们_PN 的_DEG 周期_NN 延伸_VV 所_MSP 来_VV 定义_VV 的_DEC 。_PU 周期_NN 延伸_VV 意思_NN 是_VC 把_BA 原本_VA 的_DEC 函数_NN 平移_VV 某_DT 个_M 周期_NN "_PU T_NN "_PU 的_DEG 整数倍_NN 后_LC 再_AD 全部_AD 加_VV 起来_VV ，_PU 所_MSP 产生_VV 的_DEC 新_JJ 函数_NN 。_PU formula_NN 的_DEC 周期_NN 延伸_VV 可以_VV 写成_VV
+
+两_CD 个_M 函数_NN formula_NN 与_CC formula_NN 的_DEG 圆周_NN 折积_NN formula_NN 可_VV 用_P 两_CD 种_M 互相_AD 等价_VV 的_DEC 方式_NN 来_MSP 定义_VV
+
+其中_NN formula_NN 表示_VV 原本_JJ 的_DEG （_PU 线性_JJ ）_PU 折积_NN 。_PU
+类似_AD 地_DEV ，_PU 对于_P 离散_NN 信号_NN （_PU 数列_NN ）_PU ，_PU 可以_VV 定义_VV 周期_NN "_PU N_CD "_PU 的_DEG 圆周_NN 折积_NN formula_NN 为_VC
+
+离散_NN 信号_NN 的_DEC 圆周_NN 折积_NN 可以_VV 经由_P 圆周_NN 折积_NN 定理_VV 使用_VV 快速_AD 傅立_VV 叶_NN 变换_NN （_PU F_CD FT_M ）_PU 而_CC 有_VE 效率_NN 的_DEG 计算_NN 。_PU 因此_AD ，_PU 若_CS 原本_VA 的_DEC （_PU 线性_JJ ）_PU 折积_NN 能_VV 转换_VV 成_VV 圆周_NN 折积_NN 来_MSP 计算_VV ，_PU 会_VV 远_AD 比_P 直接_AD 计算_VV 更_AD 快速_VA 。_PU 考虑_VV 到_VV 长度_NN formula_NN 和_CC 长度_NN formula_NN 的_DEC 有限_JJ 长度_NN 离_AD 散_VV 信号_NN ，_PU 做_VV 折积_NN 之后_LC 会_VV 成为_VV 长度_NN formula_NN 的_DEC 信号_NN ，_PU 因此_AD 只_AD 要_VV 把_BA 两_CD 离散_NN 信号_NN 补上_VV 适当_JJ 数目_NN 的_DEC 零_CD （_PU zero_NN -_PU padding_NN ）_PU 成为_VV "_PU N_NN "_PU 点_NN 信号_NN ，_PU 其_PN 中 _NN formula_NN ，_PU 则_AD 它们_PN 的_DEG 圆周_NN 折积_NN 就_AD 与_P 折积_NN 相等_VV 。_PU 即_AD 可_VV 接着_VV 用_VV "_PU N_NN "_PU 点_NN F_CD F_CD T_NN 作_VV 计算_NN 。_PU
+
+用_P 以上_JJ 方法_NN 计算_VV 折积_NN 时_LC ，_PU 若_CS 两_CD 个_M 信号_NN 长度_NN 相差_AD 很_AD 多_VA ，_PU 则_AD 较_AD 短_VA 者_DEV 须_VV 补上相当_VV 多_VA 的_DEC 零_CD ，_PU 太_AD 不_AD 经济_VV 。_PU 而且_CC 在_P 某些_DT 情况_NN 下_LC ，_PU 例如_AD 较_AD 短_VA 的_DEC formula_NN 是_VC 一_CD 个_M FIR_NN 滤波器_NN 而_CC 较_AD 长_VA 的_DEC formula_NN 是_VC 未_AD 知_VV 长度_NN 的_DEG 输入_NN （_PU 像_P 语音_NN ）_PU 时_LC ，_PU 直接_AD 用以_VV 上_JJ 方法_NN 要_NN 等_ETC 所有_DT 的_DEG 输入_NN 都_AD 收到_VV 后_LC 才_AD 能_VV 开始_VV 算_VV 输出_NN 信号_NN ，_PU 太_AD 不_AD 方便_VA 。_PU 这时_NT 可以_VV 把_BA formula_NN 分割_VV 成_VV 许多_CD 适当_JJ 长度_NN 的_DEG 区块_NN （_PU 称为_VV blockconvolution_NN ）_PU ，_PU 然后_AD 一_CD 段_M 一_CD 段_M 的_DEG 处理_NN 。_PU 经过_P 滤波_NN 后_LC 的_DEG 段落_NN 再_AD 仔细_VA 的_DEC 连接_NN 起来_VV ，_PU 借由_VV 输入_VV 或_CC 输出_VV 的_DEC 重叠_CC 来_VV 处理_VV 区块_NN 连接_VV 的_DEC 部份_NN 。_PU 这_DT 两_CD 种_M 做法分_NN 別_VV 称为_VV 重叠_VV -_PU 储存_VV 之_DEC 折积法_NN 和_CC 重叠_VV -_PU 相加_VV 之_DEC 折积法_NN 。_PU
+
+
+
+cnx_NN
+
+

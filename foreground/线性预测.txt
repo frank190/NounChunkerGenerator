@@ -1,0 +1,43 @@
+﻿线性_NN 预测_NN
+
+线性_JJ 预测_NN 是_VC 根据_P 已_AD 有_VE 采样点_NN 按_P 照线性_NN 函数_NN 计算_VV 未_AD 来_VV 某_DT 一_CD 离散_NN 信号_NN 的_DEG 数学_NN 方法_NN 。_PU
+
+在_P 数字_NN 信号_NN 处理_NN 中_LC ，_PU 线性_JJ 预测_NN 经常_AD 称为_VV 线性_JJ 预测_NN 编码_NN （_PU LPC_NN ）_PU ，_PU 因此_AD 也_AD 可以_VV 看作_VV 是_VC 数字_NN 滤波器_NN 的_DEG 一_CD 部分_NN 。_PU 在_P 系统_NN 分析_NN 中_LC ，_PU 线性_JJ 预测_NN 可以_VV 看作_VV 是_VC 数学_NN 建模_NN 或者_CC 最_AD 优化_VV 的_DEC 一_CD 部分_NN 。_PU
+
+最_AD 常见_VA 的_DEV 表示_VV 是_VC
+
+其中_NN formula_NN __NN 2_CD 是_VC 预测_VV 的_DEC 信号_NN 值_NN ，_PU formula_NN __NN 3_CD 是_VC 前面_NN 观测_VV 到_VV 的_DEC 值_NN ，_PU formula_NN
+
+其中_NN formula_NN
+
+这_DT 个_M 等式_NN 对于_P 所有_DT 类型_NN 的_DEG 一_CD 维线性_JJ 预测_NN 都_AD 是_VC 有效_VA 的_DEC ，_PU 它们_PN 的_DEG 不同_JJ 之_DEG 处_NN 是_VC 参数_NN formula_NN
+
+对于_P 多维_NN 信号_NN ，_PU 误差_AD 经常_AD 定义_VV 为_VC
+
+其中_NN formula_NN
+
+在_P 参数_NN formula_NN
+
+对于_P 1_CD ≤_M "_PU j"≤_NN "_PU p_NN "_PU ,_PU 其中_NN "_PU R_NN "_PU 是_VC 信号_NN "_PU x_CD "_PU 的_DEG 自相关_NN ，_PU 定义_NN 为_VC
+
+其中_NN "_PU E_NN "_PU 是_VC 期望值_NN 。_PU 在_P 多维_JJ 情况_NN 下_LC ，_PU 这_PN 相当于_VV 最_AD 小_JJ 化L_NN 范数_NN 。_PU
+
+上面_NN 的_DEC 方程_NN 称为_VV normal_NN 方程_NN 或者_CC Yule_NN -_PU Walker_NN 方程_NN ，_PU 在_P 矩阵_NN 形式_NN 下_LC 这_DT 个_M 方程_NN 也_AD 可以_VV 写作_VV
+
+其中_NN 自_P 相关_JJ 矩阵_NN "_PU R_NN "_PU 是_VC 元素_NN 为_VC "_PU r_NN "_PU =_NN "_PU R_NN "_PU (_NN "_PU i_NN "_PU −_NN "_PU j_NN "_PU )_NN 的_DEG 对称轮_NN 换矩阵_NN （_PU ）_PU ，_PU 矢量_NN "_PU r_NN "_PU 是_VC 自_P 相关_JJ 矢量_NN "_PU r_NN "_PU ="R"("j")_PU ，_PU 矢量_NN "_PU a_NN "_PU 是_VC 参数_NN 矢量_NN 。_PU
+
+另外_AD 一_CD 个_M 更为_AD 通用_VV 的_DEC 实现_VV 是_VC 最_AD 小_JJ 化_NN
+
+其中_NN 通常_AD 使用_VV formula_NN __NN 15_CD 约束_M 参数_NN formula_NN
+
+其中_NN 索引_NN "_PU i_NN "_PU 的_DEG 范围_NN 是_VC 从_P 0_CD 到_VV "_PU p_NN "_PU ，_PU 并且_CC "_PU R_NN "_PU 是_VC (_PU "_PU p_NN "_PU  + _NN 1_CD )_PU ×("p"_PU  + _NN 1_CD )_PU 矩阵_NN 。_PU
+
+参数_NN 优化_NN 是_VC 一_CD 个_M 非常_AD 广泛_VA 的_DEC 话题_NN ，_PU 人们_NN 已经_AD 提出_VV 了_AS 大量_CD 的_DEG 其它_DT 实现_JJ 方法_NN 。_PU
+
+但是_AD ，_PU 自_P 相关_JJ 方法_NN 仍然_AD 是_VC 最为_AD 常用_VV 的_DEC 方法_NN ，_PU 例如_AD 在_P GSM_NN 标准_NN 中_LC 的_DEG 语音_NN 编码_NN 就_AD 在_P 使用_VV 这_DT 种_M 方法_NN 。_PU
+
+矩阵_NN 方程_NN "_PU Ra_NN "_PU =_NN "_PU r_NN "_PU 的_DEG 求解_NN 计算_VV 上_JJ 工作量_NN 很_AD 大_VA ，_PU 高_VA 斯_DT 消去_NN 法求_NN 矩阵_VA 的_DEC 逆_NN 可能_VV 是_VC 最为_AD 古老_VA 的_DEC 解法_VV 了_AS ，_PU 但是_CC 这_DT 种_M 方法_NN 没有_VV 有效_VA 地_DEV 利用_VV "_PU R_NN "_PU 和_CC "_PU r_OD "_PU 的_DEG 对称性_NN 。_PU 一_CD 种_M 更_AD 快_VA 的_DEC 算法_NN 是_VC NormanLevinson_NR 在_P 1947_CD 年_M 提出_VV 的_DEC Levinson_NN 递归法_NN （_PU ）_PU ，_PU 它_PN 递归_VV 地_DEC 计算_NN 方程_NN 的_DEC 解_JJ 。_PU 后_JJ 来Delsarteetal_NR ._PU 提出_VV 了_AS 一_CD 种_M 称为_VV splitLevinsonrecursion_NN 的_DEG 改进_NN 方法_NN ，_PU 它_PN 仅_AD 需要_VV 一半_CD 的_DEG 乘除_NN 计算量_NN ，_PU 它_PN 在_P 随后_NT 的_DEG 递归_NN 层面_NN 上_LC 使用_VV 了_AS 参数_CD 矢量_NN 的_DEC 特殊_JJ 对称_NN 特性_NN 。_PU
+
+
+
+

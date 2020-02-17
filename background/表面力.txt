@@ -1,0 +1,10 @@
+﻿_JJ 表面力_NN
+
+表面力_NN （_PU ）_PU 符号_NN 为_VC f_NN ，_PU 是_VC 指_VV 作用_VV 在_P 一_CD 物体_NN 表面_NN （_PU 或_CC 是_VC 内部_NN 截面_NN ）_PU 的_DEC 力_NN ，_PU 而且_CC 其_PN 大小_NN 会_VV 和_P 表面_NN 积成_VV 正比_NN 。_PU 例如_AD 因为_P 压力_NN 产生_VV 的_DEC 力_NN 即_AD 为_VC 一_CD 表面力_NN
+
+其中_NN f_NN 为_VC 力_NN ，_PU p_NN 为_VC 压力_NN ，_PU A_NN 为_VC 压力_NN 作用_NN 的_DEC 面积_NN 。_PU
+
+像_P 升力_NN 、_PU 摩擦力_NN 都_AD 是_VC 表面力_NN 。_PU
+
+
+

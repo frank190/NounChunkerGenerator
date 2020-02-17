@@ -1,0 +1,21 @@
+﻿电镀_NN
+
+电镀_NN （_PU 英文_NN :_PU Electroplating_NN ）_PU 是_VC 利用_VV 电解_NN 的_DEG 原理_NN 将_BA 导电体_NN 铺上_VV 一_CD 层_M 金属_NN 的_DEC 方法_NN 。_PU
+
+除了_P 导电体_NN 以外_LC ，_PU 电镀_NN 亦_AD 可_VV 用于_VV 经过_P 特殊_JJ 处理_NN 的_DEC 塑胶_NN 上_LC 。_PU 电镀_NN 有分_AD 镀铬_VV 、_PU 镀锌_NN 、_PU 镀铜_NN 、_PU 镀镍_NN 等_ETC 。_PU 电镀_NN 的_DEG 主要_JJ 用途_NN 包括_VV 防止_VV 金属_NN 氧化_NN （_PU 如_P 锈蚀_NN ）_PU 以及_CC 进行_VV 装饰_NN 。_PU 不少_AD 硬币_VV 的_DEC 外层_NN 亦_AD 为_VC 电镀_NN 。_PU
+
+最_AD 常见_VA 的_DEC 是_VC 电镀_NN 是_VC 镀铬_NN ，_PU 能_VV 於_P 部件_NN 表面_NN 形成_VV 美观_NN 光亮_NN 的_DEC 表层_NN 。_PU 电镀铬_NN 的_DEC 表层_NN 为_VC 偏_AD 蓝白_VA 的_DEC 金属色_NN ，_PU 在_P 空气_NN 中_LC 暴露_VV 不_AD 易_AD 变色_VV 、_PU 氧化_NN 。_PU 电镀镍_NN 的_DEC 表层_NN 为_VC 偏_AD 红_VA 的_DEC 金属色_NN ，_PU 空气_NN 中_LC 暴露_VV 时间_NN 长久_VV 后_LC 较_AD 易_AD 氧化_VV 朦雾_NN ，_PU 会_VV 变为_VV 偏_AD 红棕_VA 的_DEC 金属色_NN 。_PU
+
+一般_JJ 的_DEG 工业_NN 电镀厂_NN 在_P 镀铬_NN 前_LC 会_VV 先_AD 镀镍_VV 。_PU 原因_AD 是_VC 铬_NN 的_DEG 耐蚀性_NN 与_CC 耐磨性_NN 均_AD 较_AD 镍_JJ 层_NN 佳_VA ，_PU 且_CC 颜色_NN 也_AD 较_AD 鲜明_VA 光亮_VA 。_PU 另外_AD ，_PU 铬_NN 层_NN 在_P 镍_NN 层_NN 上_LC 之_DEG 镀膜_NN 密著性_NN 也_AD 较_AD 佳_VA ，_PU 故_AD 一般_AD 电镀_NN 厂除_VV 了_AS 特殊_VA 的_DEC 机能性_NN 电镀_NN 与_CC 不要_JJ 求耐_NN 候_NN 性_NN 及_CC 机械_NN 强度_NN 外_LC ，_PU 大部份_NN 都_AD 会先_AD 镀_VV 镍_NN 再_AD 镀铬_VV ，_PU 尤其_AD 是_VC 工件_NN 为_VC 铁管_NN 时_LC 。_PU 如_P 为_P 其_PN 他_PN 金属_NN ，_PU 则_AD 大致上是_AD 镀铜_VV 后_LC 再_AD 镀_VV 镍_NN 铬_NN 。_PU
+
+电镀_NN 的_DEC 过程_NN 基本_AD 如下_VV ：_PU
+
+电镀_NN 后_LC 被_LB 电镀_NN 物件_NN 的_DEG 美观性_NN 和_CC 电流_NN 密度_NN 大小有_AD 关系_VV ，_PU 在_P 可_VV 操作_VV 电流_NN 密度_NN 范围_NN 内_LC ，_PU 电流_NN 密度_NN 越_AD 小_VA ，_PU 被_SB 电镀_VV 的_DEC 物件_NN 便_AD 会_VV 越_AD 美观_VA ；_PU 反之_AD 则_AD 会_VV 出现_VV 一些_CD 不_AD 平整_VA 的_DEC 形状_NN 。_PU 电流_NN 密度_NN 指_VV 一定_JJ 面积_NN 上_LC 的_DEG 电流_NN 分布_VV ，_PU 常_AD 用_VV 的_DEC 电流_NN 密度_NN 单位_NN 是_VC 安培_VV 每_DT 平方分米_M (_PU 即_AD 平方_JJ 公寸_NN )_PU [_PU ASD_NN ]_PU 和_CC 安培_NN 每_DT 平方_JJ 英尺_NN [_PU ASF_NN ]_PU 。_PU 一般_JJ 情况_NN 下_LC ，_PU 电镀_NN 槽液_NN 呈酸性_NN ，_PU 能够_VV 腐蚀_VV 溶_NN 解_VV 阴极_NN 镀_NN 层_NN 金属_NN ，_PU 当_P 电流_NN 密度_NN 太_AD 小_VA 时_LC （_PU 小于_VV 5_CD ASF_M 时_LC ）_PU ，_PU 由于_P 酸性_JJ 槽液_NN 的_DEC 溶_NN 解_VV ，_PU 镀_VV 层_NN 金属_NN 会_VV 呈现_VV 疏松_NN 和_CC 无_VE 光_NN 泽_NN 的_DEG 外观_NN 。_PU
+
+电镀_NN 产生_VV 的_DEC 污水_NN （_PU 如_P 失去_NN 效用_VV 的_DEC 电解质_NN ）_PU 是_VC 水_NN 污染_VV 的_DEC 重要_JJ 来源_NN 。_PU 电镀_NN 工艺_NN 目前_NT 已经_AD 被_SB 广泛_VA 的_DEC 使用_VV 在_P 半导体_NN 及_CC 微电子_NN 部件_NN 引线_NN 框架_NN 的_DEC 工艺_NN 。_PU
+
+VCP_NN ：_PU 垂直_AD 连续_JJ 电镀_NN ，_PU 目前_NN 电路板_NN 使用_VV 的_DEC 新型_JJ 机台_NN ，_PU 比_P 传统_NN 悬吊式_JJ 电镀_NN 品质_NN 为_VC 佳_VA 。_PU
+
+G_CD JB_M /_PU Z594A_NN -_PU 2000_CD 金属_NN 镀覆层_NN 和_CC 化学_NN 覆盖层_NN 选择_VV 原则_NN 与_CC 厚度_NN 系列_NN 。_PU
+
+

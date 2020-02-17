@@ -1,0 +1,5 @@
+﻿印_NN 刷电_NN 子学_NN
+
+印刷_VV 电子学_NN （_PU ）_PU 是_VC 利用_VV 印刷_VV 在_P 多_CD 种_M 衬底_NN 上_LC 制造_VV 电子_NN 器件_NN 的_DEG 方法_NN 。_PU 印刷_VV 电子学_NN 中_LC 常用_JJ 丝网_NN 印刷_NN （_PU ）_PU 、_PU 柔性_JJ 版_NN 印刷_NN 、_PU 凹版_NN 印刷_NN （_PU ）_PU 、_PU 胶印_NN 和_CC 喷墨_NN 印刷_NN 等_ETC 方法_NN 。_PU 具有_VV 电学_NN 功能_NN 的_DEC 材料_NN 或_CC 光学_NN 墨水_NN 被_SB 沉积_VV 在_P 衬底_NN 之上_LC ，_PU 从而_AD 形成_VV 有_VE 源_NN 或_CC 无源_NN 器件_NN ，_PU 例如_AD 薄膜_NN 晶体管_NN 或_CC 电阻器_NN 。_PU 印刷_NN 电子_NN 学有_VV 望_VV 在_P 低_JJ 成本_NN 、_PU 高_JJ 性能_NN 的_DEC 电子_NN 器件_NN 在_P 卷轴_NN 显示器_NN 和_CC 射频_NN 识别_NN 等_ETC 应用_JJ 产品_NN 中_LC 得到_VV 应用_NN 。_PU
+
+

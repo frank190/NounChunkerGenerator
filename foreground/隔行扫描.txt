@@ -1,0 +1,21 @@
+﻿隔行_NN 扫描_NN
+
+隔行_VV 扫描_NN （_PU ）_PU 是_VC 一_CD 种_M 将_BA 图像_NN 显示_VV 在_P 扫描式_NN 的_DEC 显示_NN 设备_NN 上_LC 的_DEC 方法_NN ，_PU 例如_AD 阴极_NN 射线管_NN （_PU CRT_NN ）_PU 。_PU 相比_VV 逐行_VV 扫描_NN ，_PU 隔行_VV 扫描佔_NN 用_P 频宽比_NN 较_AD 小_VA 。_PU 扫描_NN 设备_NN 交换_VV 扫描_NN 偶_PN 数行_NN 和_CC 奇数行_NN 。_PU 在_P PAL_NN 制式_NN 和_CC NTSC_NN 制式_NN 中_LC ，_PU 都_AD 是_VC 先_BA 扫描_NN 奇数_NN 行_NN ，_PU 即_AD 奇数_NN 。_PU
+
+非_AD 隔行_VV 扫描_NN 的_DEC 扫描_NN 方法_NN （_PU 即_AD 逐行_VV 扫描_NN ）_PU 通常_AD 从上_VV 到下_VV 地_DEV 扫描_VV 每_DT 帧_M 图像_NN 。_PU 这_DT 个_M 过程_NN 消耗_VV 的_DEC 时间_NN 比较_AD 长_VA ，_PU 阴极_NN 射线_NN 的_DEC 荧光_NN 衰减_VV 将_BA 造成_VV 人_NN 视觉_VV 的_DEC 闪烁_NN 感觉_VV 。_PU 当_P 频宽_VV 受限_VV ，_PU 以至于_AD 不_AD 可能_VV 快到_VV 使用_VV 逐行_VV 扫描_NN 而且_CC 没有_VE 闪烁_NN 效应_NN 时_LC ，_PU 通常_AD 采用_VV 一_CD 种_M 折衷_NN 的_DEC 办法_NN ，_PU 即_AD 每_DT 次_M 只_AD 传输_VV 和_CC 显示_VV 一半_CD 的_DEC 扫描线_NN ，_PU 即_AD 。_PU 一_CD 场_M 只_AD 包含_VV 偶数行_NN （_PU 即_AD 偶_PN 场_NN ）_PU 或者_CC 奇数行_NN （_PU 即_AD 奇场_NN ）_PU 扫描线_NN 。_PU 由于_P 视觉_VV 暂_AD 留_VV 效应_NN ，_PU 人眼_NN 不_AD 会_VV 注意_VV 到_VV 两_CD 场_M 只_AD 有_VE 一半_CD 的_DEC 扫描行_NN ，_PU 而_CC 会_VV 看到_VV 完整_VA 的_DEC 一_CD 帧_NN 。_PU
+
+假设_VV 使用_VV 直接_AD 驱动_VV 的_DEC CRT_NN 显示器_NN ，_PU 那么_AD 如果_CS 不_AD 使用_VV 隔行_VV 扫描_NN ，_PU 就_AD 需要_VV 采用_VV 下面_NN 的_DEG 方式_NN 之_DEC 一_CD ：_PU
+
+
+通常_AD 有_VE 一_CD 种_M 误解_VV 是_VC ，_PU 偶场_NN 和_CC 奇场_NN 是_VC 由_P 同_DT 一_CD 帧分_NN 拆_VV 得来_VV 的_DEC 。_PU 实际上_AD ，_PU 摄像机_NN 采集_VV 的_DEC 方式_NN 和_CC 隔行_VV 扫描_NN 显示_VV 的_DEC 方式_NN 是_VC 完全_AD 相同_VA 的_DEC 。_PU 当_P 摄像机_NN 采集_NN 图像_NN 时_LC ，_PU 偶_PN 场_NN 和_CC 奇场_NN 不_AD 是_VC 同时_AD 采集_VV 的_DEC 。_PU 例如_AD 在_P 一_CD 个_M 每_DT 秒_M 50_CD 场_M 的_DEG 摄像机_NN 中_LC ，_PU 第122_OD 行_M 和_CC 124_CD 行_VV 的_DEC 采集_VV 在_P 第121_OD 行_M 和_CC 123_CD 行_VV 的_DEC 采集_NN 大约_AD 1_CD /_PU 50_CD 秒_M 之后_LC 进行_VV 。_PU 所以_AD 如果_CS 把_BA 一_CD 个_M 偶场_NN 和_CC 奇场_NN 简单_VA 的_DEV 拼合_VV 在_P 一起_NN ，_PU 水平_JJ 方向_NN 的_DEG 运动_NN 会_VV 造成_VV 两_CD 场_M 边界_NN 上_LC 不_AD 能_VV 完美_VV 的_DEC 拼合_NN 。_PU
+
+在_P 当代_VV 的_DEC 显示器_NN 和_CC 电视_NN 中_LC ，_PU 由于_P 非_AD 隔行_VV 扫描_NN 显示_VV 的_DEC 刷新率_NN 的_DEG 提高_NN ，_PU 使用者_NN 已经_AD 不_AD 会_VV 再_AD 感觉_VV 到_VV 闪烁_NN 现象_NN ，_PU 因此_AD ，_PU 隔行_VV 扫描_NN 技术_NN 逐渐_AD 被_SB 取代_VV 。_PU
+
+
+交错式_JJ 影像_NN 从_P 拍摄_NN 、_PU 传输_VV 到_VV 储存_NN 都_AD 是_VC 使用_VV 交错_JJ 格式_NN ，_PU 相邻_VV 的_DEC 场_NN 被_SB 拍摄_VV 的_DEC 时间_NN 并_AD 不_AD 相同_VA ，_PU 相邻_VV 的_DEC 两_CD 个_M 场_M 并_AD 不_AD 能_VV 完美_VA 的_DEC 结合_VV 在_P 一起_NN ；_PU 因此_AD 若_CS 是_VC 在_P 使用_VV 渐进式_JJ 扫描_NN 的_DEC 显示器_NN 上_LC 播放_VV 交错式_JJ 影像_NN ，_PU 在_P 画面_NN 中_LC 有_VE 移动_VV 的_DEC 部份_NN 将_AD 会_VV 产生_VV 横线_NN 的_DEC 锯齿_NN 状线条_NN 。_PU 若_CS 是_VC 两_CD 个_M 场_NN 刚好_AD 是_VC 场景_NN 交换_NN ，_PU 那么_AD 会_VV 出现_VV 两_CD 个_M 场景_NN 同时_AD 出现_VV 的_DEC 鬼影_NN 现象_NN 。_PU 因此_AD 在_P 这_DT 种_M 情形_NN 下_LC 需要_VV 去交_VV 错来_VV 将_BA 交错式_JJ 影像_NN 转换_VV 为_VC 渐进式_JJ 影像_NN 。_PU
+
+另外_AD 在_P 影像_NN 中_LC 若是_AD 有_VE 细小_VA 的_DEC 横向_JJ 线条_NN ，_PU 线条_NN 的_DEG 高度_NN 差_AD 不_AD 多_VA 就_AD 是_VC 一行_AD 扫描线_NN 左右_VV ，_PU 那么_AD 这_DT 个_M 横线_NN 出现_VV 在_VV 了_AS 其_PN 所_MSP 在_VV 的_DEC 场_NN ，_PU 但是_CC 下_DT 个_M 场却_NN 又_AD 消失_VV ，_PU 人们_NN 看起_VV 来_VV 这_DT 条_M 横线_NN 是_VC 在_P 「_PU 颤抖_VV 」_PU 的_DEC 现象_NN 。_PU 例如_AD ：_PU 萤幕_NN 上_LC 的_DEG 小_JJ 字体_NN 的_DEG 横向_NN 笔_NN 划或_VV 是_VC 远方_JJ 穿着横_NN 向_P 条纹_NN 衣服_VV 的_DEC 人物_NN 。_PU 针对_P 这_DT 种_M 现象_NN ，_PU 通常_AD 会_VV 加入_VV 一_CD 个_M 低_JJ 通滤波器_NN （_PU lowpassfilter_NN ，_PU LPF_NN ）_PU 去_VV 将_BA 这些_DT 高频_NN 的_DEC 部份_NN 滤_NN 除掉_VV 。_PU 但是_AD 这_DT 将_BA 使得_VV 画面_NN 看起_VV 来_MSP 比较_VV 模糊_NN 。_PU
+
+
+
+

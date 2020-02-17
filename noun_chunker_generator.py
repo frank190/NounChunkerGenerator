@@ -7,7 +7,6 @@ The input should be cleaned file processed by Brandies Chinese Segemeter
 
 import argparse
 import os
-import OpenHowNet
 
 
 def load_directory(directory_name):
@@ -18,9 +17,12 @@ def process_data(filename):
     file = open(filename, 'r', encoding='UTF-8')
     result = []
     for line in file:
+        line = line.strip()
         line_in_list = line.split(' ') # change the line into a list by space
         for pair in line_in_list:
             splited_pair = pair.split('_') # change 本_DT to [‘本’, DT]
+            if len(splited_pair) < 2:
+                continue
             result.append([splited_pair[0], splited_pair[1]])
     return result #result is a list of pairs with information word at first followed by the information
 

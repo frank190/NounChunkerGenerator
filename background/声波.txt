@@ -1,0 +1,18 @@
+﻿声波_NN
+
+声波_NN 是_VC 声音_NN 的_DEG 传播_NN 形式_NN 。_PU 声波_NN 是_VC 一_CD 种_M 平行_VV 波_SP ，_PU 由_P 物体_NN （_PU 声源_NN ）_PU 振动_VV 产生_VV ，_PU 声波_NN 传播_VV 的_DEC 空间_NN 就_AD 称为_VV 声场_NN 。_PU 在_P 气体_NN 和_CC 液体_NN 介质_NN 中_LC 传播_VV 时_LC 是_VC 一_CD 种_M 纵波_NN ，_PU 但_CC 在_P 固体_NN 介质_NN 中_LC 传播_VV 时_LC 可_VV 能混_VV 有_VE 横波_NN 。_PU 任何_DT 器官_NN 所_MSP 接收_VV 的_DEC 声音_NN 频率_NN 都_AD 有_VE 其_PN 范围_NN 限制_VV 。_PU 人耳_NN 可以_VV 听到_VV 的_DEC 声波_NN 的_DEG 频率_NN 一般_AD 在_P 20_CD Hz_M 至_CC 2×_CD formula_NN
+
+一般_AD 来说_VV ，_PU 声速_NN formula_NN
+其中_NN formula_NN __NN 4_CD 是_VC 不_AD 可_VV 压_VV 缩率_VV ，_PU formula_NN
+因此_AD 音速_AD 随着_P 介质_NN 的_DEG 不_AD 可_VV 压缩_VV 率_VV 增加_VV 而_CC 变快_VV ，_PU 随着_P 介质_NN 的_DEG 质量_NN 密度_NN 增加_VV 而_CC 变慢_VV 。_PU
+
+对于_P 一般_JJ 的_DEG 状态_NN 方程式_NN ，_PU 在_P 经典_NN 力学_NN 适用_NN 范围_NN 内_LC ，_PU 音速_JJ formula_NN
+此_DT 处_NN 偏_AD 微分针对_JJ 绝热_NN 变化_NN 。_PU
+
+对于_P 远离_JJ 液态_NN 工作点_NN 的_DEC 理想_JJ 气体_NN ，_PU 则_AD 有_VE
+式_NN 中_LC :_PU
+
+关于_P 声速_NN ，_PU 还_AD 有_VE 一_CD 个_M 非常_AD 实用_VA 的_DEC 经验_NN 公式_NN ：_PU "_PU c_NN "_PU =_NN 331_CD +_PU 0_CD ._PU 6_CD "_PU T_NN "_PU (_PU 其中_NN "_PU T_NN "_PU 为_VC 摄氏_NN 温度_NN )_PU 。_PU
+
+
+

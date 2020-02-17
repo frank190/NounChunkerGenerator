@@ -1,0 +1,25 @@
+﻿流_NN 程增_NN 益_NN
+
+流程_NN 增益_NN (_PU Processgain_NN )_NN （_PU 或_CC 处理_NN 增益_NN ）_PU 是_VC 在_P 一_CD 个_M 扩频_NN 系统_NN 中_LC 传播_VV 频寛_NN 和_CC 未_AD 传播_VV 频寛_NN 之_DEC 比_NN 。_PU 通常_AD 以_P 分贝_NN （_PU dB_NN ）_PU 表示_VV 。_PU
+
+例如_AD ，_PU 如果_CS 一_CD 个_M 1kHz_NN 的_DEC 信号_NN 被_SB 扩展_VV 到_VV 100_CD kHz_NN ，_PU 流程_NN 增益_VV 以_P 数值_NN 比_P 表示_VV 为_VC 100000_CD /_PU 1000_CD =_CC 100_CD 。_PU 或者_CC 以_P 分贝_AD 表示_VV ，_PU 10_OD l_M o_CC g10_CD (_PU 100_CD )_PU =_CC 20_CD dB_M ._PU
+
+请_VV 注意_VV ，_PU 流程_NN 增益_NN 不_AD 降低_VV 频寛_NN 热噪声_NN 的_DEG 影响_NN 。_PU 可以_VV 证明_VV 出_VV 当_P 非_JJ 展频_NN 系统_NN 具有_VV 相同_VA 的_DEC 调制_NN 格式_NN ，_PU 一_CD 个_M 直接_JJ 序列_NN 展频_NN （_PU DSSS_NN ）_PU 系统_NN 具有_VV 完全_AD 相同_VA 的_DEC 比_JJ 特错_NN 误行_VV 为_VC 。_PU
+因此_AD ，_PU 在_P 加性_NN 高_VA 斯_DT 白噪声_NN （_PU AWGN_NN ）_PU 的_DEG 频道_NN 无_VE 受到_VV 干扰_NN ，_PU 展频_NN 系统_NN 要求_VV 使用_VV 相同_VA 的_DEC 发射器_NN 功率_NN 作为_P 非_JJ 展频_NN 系统_NN ，_PU
+所有_DT 其他_DT 的_DEG 东西_NN 都_AD 是_VC 平等_VA 的_DEC 。_PU
+
+不同于_VV 传统_JJ 的_DEG 通信_NN 系统_NN ，_PU 然而_AD ，_PU 一_CD 个_M 直接_JJ 序列_NN 扩频_NN （_PU DSSS_NN ）_PU 系统_NN 确实_AD 具有_VV 一定_JJ 的_DEG 阻力_NN 抵抗_VV 窄带_NN 的_DEC 干扰_NN ，_PU 干扰_VV 并_CC 不_AD 受到_VV 直接_AD 序列_VV 扩频_NN （_PU DSSS_NN ）_PU 信号_NN 的_DEC 流程_NN 增益_VV ，_PU 因此_AD ，_PU 信号_NN 与_P 干扰_VV 的_DEC 比值_NN 变高_VV 了_SP 。_PU
+
+在_P 调频_NN （_PU FM_CD ）_PU ，_PU 流程_NN 增益_NN 可以_VV 表示_VV 为_VC ：_PU
+
+formula_NN
+
+G_CD 是_VC 处理_NN 增益_NN
+
+B_NN  _NN 是_VC 噪声_NN 频宽_NN
+
+Δ_NN "_PU f_NN "_PU  _NN 是_VC 峰值_NN 频率_NN 的_DEG 差值_NN
+
+W_NN 是_VC 正_LB 弦_NN 调制_VV 频率_NN
+
+

@@ -1,0 +1,9 @@
+﻿普朗克_NN 密度_NN
+
+在_P 物理_NN 学里_NN ，_PU 普朗克_JJ 密度_NN 是_VC 普_JJ 朗克_NN 单位制_NN 的_DEC 密度_NN 单位_NN ，_PU 标记_NN 为_VC formula_NN 。_PU 用_P 方程式_NN 表达_VV ，_PU 普朗克_NR 密度_NN 是_VC
+
+其中_NN ，_PU formula_NN 是_VC 普朗克_NR 质量_NN ，_PU formula_NN 是_VC 普朗克_JJ 长度_NN ，_PU formula_NN 是_VC 光_AD 速_VA ，_PU formula_NN 是_VC 约_AD 化_JJ 普朗克_NN 常数_NN ，_PU formula_NN 是_VC 万_CD 有_VE 引力_NN 常数_NN 。_PU
+
+formula_NN 普朗克_NN 密度_NN 大约_AD 等于_VV formula_NN 个_M 太阳挤_NN 压入_VV 一_CD 个_M 原子核_NN 的_DEC 空间_NN 的_DEG 密度_NN 。_PU 所以_AD ，_PU 这_DT 个_M 单位_NN 非常_AD 大_VA 。_PU 在_P 宇宙_NN 大_VA 爆炸_VV 后_LC formula_NN 单位普_NN 朗_OD 克_M 时间_NN 后_LC (_PU formula_NN __NN 11_CD 秒_M )_PU ，_PU 宇宙_NN 的_DEG 密度_NN 大约_AD 为_VC formula_NN 单位普_NN 朗_OD 克_M 密度_NN 。_PU
+
+

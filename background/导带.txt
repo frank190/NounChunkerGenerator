@@ -1,0 +1,6 @@
+﻿导带_NN
+
+导带_NN （_PU ）_PU ，_PU 又名传_JJ 导带_NN ，_PU 是_VC 指_VV 半导体_NN 或_CC 是_VC 绝缘体_NN 材料_NN 中_LC ，_PU 一_CD 种_M 电子_NN 所_MSP 具有_VV 能量_JJ 的_DEG 范围_NN 。_PU 这_DT 个_M 能量_NN 的_DEG 范围_NN 高于_VV 价带_NN （_PU v_CC alenceband_NR ）_PU ，_PU 而_CC 所有_AD 在_P 导带_NN 中_LC 的_DEG 电子_NN 均_AD 可_VV 经由_P 外在_NT 的_DEG 电场_NN 加速_VV 而_MSP 形成_VV 电流_NN 。_PU
+
+
+

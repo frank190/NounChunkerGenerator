@@ -1,0 +1,9 @@
+﻿对_VV 比度_NN
+
+对_P 比度_NN 是_VC 画面_NN 黑_VA 与_CC 白_VA 的_DEC 比值_NN ，_PU 也就是_AD 从_P 黑到_NN 白_VA 的_DEC 渐变层_NN 次_NN 。_PU 比_AD 值_VV 越_AD 大_VA ，_PU 从_P 黑到白_NN 的_DEC 渐变层_JJ 次就_NN 越_AD 多_VA ，_PU 从而_AD 色彩_VV 表现_VV 越_AD 丰富_VA 。_PU 对_P 比度_NN 对_P 视觉_NN 效果_NN 的_DEG 影响_NN 非常_AD 关键_VV ，_PU 一般来_AD 说对_VV 比度_NN 越_AD 大_VA ，_PU 图像_NN 越_AD 清晰_VA 醒目_VA ，_PU 色彩_NN 也_AD 越_AD 鲜明_AD 艳丽_VV ；_PU 而_CC 对_P 比度_NN 小_VA ，_PU 则_AD 会_VV 让_VV 整_DT 个_M 画面_NN 都_AD 灰蒙蒙_VV 的_DEC 。_PU
+
+高_AD 对_P 比度_NN 对于_P 图像_NN 的_DEC 清晰度_NN 、_PU 细节_NN 表现_VV 、_PU 灰度_NN 层_NN 次表现_P 都_AD 有_VE 很_AD 大_JJ 帮助_NN 。_PU 在_P 一些_CD 黑白_JJ 反差_NN 较_AD 大_VA 的_DEC 文本_JJ 显示_NN 、_PU CAD_NN 显示_NN 和_CC 黑白_JJ 照片_NN 显示_VV 等_ETC 方面_NN ，_PU 高_AD 对_P 比度_NN 产品_NN 在_P 黑白_JJ 反差_NN 、_PU 清晰度_NN 、_PU 完整性_NN 等_ETC 方面_NN 都_AD 具有_VV 优势_NN 。_PU 相对而言_AD ，_PU 在_P 色彩层_NN 次方面_NN ，_PU 高_AD 对_P 比度_NN 对_P 图像_NN 的_DEG 影响_NN 并_AD 不_AD 明显_VA 。_PU
+
+对比度_NN 对于_P 动态_NN 视频_NN 显示_NN 效果_NN 影响_VV 要_VV 更_AD 大_VA 一些_CD ，_PU 由于_P 动态_JJ 图像_NN 中_LC 明_AD 暗_AD 转换_VV 比较_AD 快_VA ，_PU 对_P 比度_NN 越_AD 高_VA ，_PU 人_NN 的_DEG 眼睛_NN 越_AD 容易_AD 分辨_VV 出_VV 这样_PN 的_DEG 转换_NN 过程_NN 。_PU 对_P 比度_NN 高_VA 的_DEC 产品_NN 在_P 一些_CD 暗部_NN 场景_NN 中_LC 的_DEG 细节_NN 表现_VV 、_PU 清晰度_NN 和_CC 高速_JJ 运动物体_NN 表现_VV 上_LC 优势_NN 更加_AD 明显_VA 。_PU
+
+

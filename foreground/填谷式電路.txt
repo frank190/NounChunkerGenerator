@@ -1,0 +1,18 @@
+﻿填_NN 谷式_NN 电路_NN
+
+填谷式_NN 电路_NN 或_CC 填谷_NN 电路_NN （_PU 英文_NN ：_PU ，_PU 德文_NN ：_PU ）_PU ，_PU 是_VC 一_CD 种_M 低_JJ 成本_NN 的_DEG 被动式_NN （_PU 无_VE 源_NN ）_PU 功率_NN 因_P 数修正_NN 电路_NN 。_PU
+
+如_P 右图_NN 所_MSP 示_VV ，_PU 市电_NN 经_P 一_CD 个_M 基本_JJ 桥式_NN 全_DT 波_M 整流器_NN 以后_AD 转换_VV 为_VC 脉动_VV 的_DEC 直流电_NN ，_PU 此时_NT 电容器_NN C1_NN 和_CC C2_NN 是_VC 相当_AD 於_P 串联_VV 的_DEC ，_PU 单_CD 个_M 电容器_NN 承受_VV 的_DEC 电压_NN 为_VC 整_DT 流_M 后电压_NN 峰值_NN 的_DEC 一半_CD ，_PU 在_P C1_NN 正_CC 接线端_NN 和_CC C2_NN 负接线端_NN 之间_LC 加上_VV 电压_NN ，_PU 电容器_NN 的_DEG 充电_NN 电流_NN 流经_AD 串联_VV 在_P C1_NN 和_CC C2_NN 之间_LC 的_DEG 二极体_NN D3_CD 和_CC 电阻_NN ，_PU 直到_VV C1_NN 和_CC C2_NN 充满_VV 电以_VV 后_LC ，_PU 其中_NN 二极体_NN D1_CD 和_CC D2_NN 此时_NT 起_VV 隔离_VV 作用_NN 。_PU
+
+当_P 电压_NN 从_P 脉动_JJ 直流_NN 电压_NN 的_DEG 谷值_NN 往_P 峰值_NN 上升_VV 时_LC ，_PU 电容器_NN 充电_VV 。_PU 而_CC 当_P 电压_NN 从_P 脉动_JJ 直流_NN 电压_NN 的_DEG 峰值_NN 往_P 谷值_NN 下降_VV 时_LC ，_PU 输出_NN 电压_NN Uout_NN 将_AD 会_VV 随之_AD 下降_VV ，_PU 而_CC 此时_NT 电容器_NN C1_NN 、_PU C2_NN 开始_AD 分別_VV 通过_P 各自_PN 的_DEG 二极体_NN D1_CD 、_PU D2_CD 放电_NN ，_PU 回填_VV 输出_NN 电压_NN Uout_NN 使_VV 其_PN 保持_VV 在_P 脉动_NN 直流_NN 电压_NN 峰值_NN （_PU 亦_AD 即_AD C1_NN 和_CC C2_NN 的_DEG 串联_NN 时_LC 充满_VV 电_NN 的_DEG 电压_NN 值_NN ）_PU ，_PU 此时_NT 二极体_NN D_NN 3_AD 就_AD 起到_VV 了_AS 隔离_VV 作用_NN 。_PU
+
+在_P 这_DT 两_CD 个_M 过程_NN 中_LC R1_NN 是_VC 用以_VV 防止_VV 浪湧_NN 电流_NN 及_CC 电磁_NN 干扰_NN （_PU EMI_NN ）_PU ；_PU 电容器_NN C1_NN 和_CC C2_NN 是_VC 以_P 串联_VV 的_DEC 方式_NN 充电_VV ，_PU 以_MSP 并联_VV 的_DEC 方式_NN 放电_NN 的_SP ，_PU C1_NN 和_CC C2_NN 的_DEC 电容量_NN 相等_VV 。_PU 这_DT 种_M 滤波_NN 电容_NN 的_DEC 充_VV 放电_NN 方式_NN 使得_VV 整_DT 流桥_NN 二极体_NN 的_DEC 导通角_NN 增大_VV ，_PU 而_CC 使_VV 得原_NN 为_VC 脉冲_NN 尖峰_NN 波形_NN 的_DEC 电流_NN 可以_VV 变为_AD 接近于_VV 正弦波_JJ 的_DEG 电流_NN 波形_NN ，_PU 从而_AD 达到_VV 修正_VV 功率_NN 因_P 数_NN 的_DEC 目的_NN 。_PU
+
+这_DT 种_M 电路_NN 的_DEG 优点_NN 是_VC 设计_NN 简单_VA ，_PU 不_AD 需要_VV 庞大_VV 的_DEC 电感器_NN ，_PU 成本_NN 低_VA 。_PU 功率_NN 因_P 数_PN 修正_VV 的_DEC 效果_NN 比_P 电感器_NN 电容器_NN 组合_VV 的_DEC 补偿_NN 电路_NN 来_MSP 得高_VV ，_PU 一般_AD 可_VV 达_VV 0_CD ._PU 9_CD 左右_M 。_PU 电能_NN 转换_NN 效率_NN 也_AD 有_VE 92%_CD 至_CC 96%_CD 。_PU
+
+电压_NN 涟波_NN 和_CC 普通_VA 的_DEC 电容滤波_NN 全_DT 波_M 整流_NN 电路_NN 相比_VV 没有_VV 变化_NN ，_PU 仍_AD 有_VE 脉动_JJ 直流_NN 电压_NN 峰值_NN 的_DEC 50%_NN ；_PU 而且_CC 由于_P 二极体_NN 的_DEG 增加_NN ，_PU 使得_VV 电流_NN 的_DEC 总谐波_NN 失真_NN （_PU THD_NN ）_PU 仍_AD 占到_VV 35%_CD 上下_VV 。_PU 因此_AD 此_DT 类_M 电路_NN 在_VV 对_P 电压_NN 稳定_VA 程度_NN 高_VA 的_DEC 负载_NN 应用_NN 中_LC 仍_AD 需_VV 安装_VV 滤波器_NN （_PU 如_P 电容器_NN ）_PU 以_P 进一步_AD 滤除_VV 涟波_NN 和_CC 谐波_NN ，_PU 而_MSP 使_VV 成本_NN 上_LC 升_VV 。_PU 在_P 大_JJ 功率_NN 的_DEG 应用_NN 场合_NN 不_AD 如_P 主动式_JJ 功率_NN 因_P 数_PN 修正_VV 的_DEC 修正_NN 效果_NN 好_VA 而且_CC 有_VE 效率_NN 。_PU
+
+和_P 所有_DT 被动式_JJ PFC_NN 电路_NN 一样_VA ，_PU 一般_AD 应用于_VV 低_JJ 功率_NN 的_DEG 负载_NN 上_LC ，_PU 像_P 是_VC LED_NN 驱动器_NN 、_PU 电脑_NN 的_DEG 电源_NN 供应器_NN 上_LC 。_PU
+
+
+

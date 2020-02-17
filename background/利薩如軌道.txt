@@ -1,0 +1,12 @@
+﻿利萨_NN 如_P 轨道_NN
+
+在_P 航天_NN 动力学_NN 中_LC ，_PU 利萨_NN 如_P 轨道_NN （_PU Lissajousorbit_NN ）_PU 是_VC 一_CD 种_M 类周_NN 期性_NN 振动_NN 轨道_NN ，_PU 限制性_NN 三体_NN 系统_NN 中_LC 有_VE 5_CD 个_M 平衡点_NN （_PU 拉格_NN 朗日点_NN ）_PU ，_PU 利萨_NN 如_P 轨道_NN 是_VC 围绕_VV 与_P 两_CD 个_M 主体_NN 在_P 同_DT 一_CD 直线_NN 上_LC 的_DEG L_NN 和_CC L点_NN 运行_VV 的_DEC 轨道_NN 。_PU
+
+李雅_NR 普诺夫_NR 轨道_NN （_PU Lyapunovorbit_NN ）_PU 是_VC 与_P 两_CD 个_M 主体_NN 在_P 同_DT 一_CD 平面_NN 内_LC 的_DEG 曲线_NN ，_PU 但_CC 利萨_NN 如_P 轨道_NN 既_CC 包含_VV 在_VV 同_DT 一_CD 平面_NN 内_LC 的_DEG 曲线_NN 也_AD 包含_VV 垂直于_VV 这_DT 个_M 平面_NN 的_DEC 曲线_NN ，_PU 是_VC 类似于_VV 利_NN 萨茹_NN 曲线_NN 的_DEC 。_PU 晕轮_NN 轨道_NN 也_AD 是_VC 垂直于_VV 两_CD 个_M 主体_NN 的_DEG 平面_NN 的_DEC 轨道_NN ，_PU 但是_CC 它们_PN 是_VC 周期性_NN 的_DEC ，_PU 而_CC 利萨_NN 如_P 轨道_NN 不_AD 是_VC 。_PU
+
+事实_NN 上_LC ，_PU 在_P 同_DT 一_CD 直线_NN 上_LC 的_DEG 平衡点_NN （_PU L_NN 和_CC L_NN 拉格_NN 朗日点_NN ）_PU 实际上_AD 是_VC 动态_JJ 不_AD 稳定_VA 的_DEC ，_PU 扰动_VV 将_BA 使_VV 物体_NN 离_P 平衡_NN 位置_NN 越来_AD 越远_VV 。_PU 因此_AD 在_P L_NN 和_CC L点_NN 附近_VV 的_DEC 航天器_NN 实际上_AD 需要_VV 靠_P 自身_PN 的_DEG 推进_NN 系统_NN 来_MSP 进行_VV 轨道_NN 维持_NN 。_PU
+
+已_AD 有_VE 一些_CD 航天_NN 工程_NN 已经_AD 运用_VV 了_AS 利萨_NN 如_P 轨道_NN 。_PU
+
+
+

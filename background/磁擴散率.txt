@@ -1,0 +1,5 @@
+﻿磁扩_NN 散率_NN
+
+磁扩_NN 散率_NN （_PU magneticdiffusivit_NR y）_NN 是_VC 以_P 等离子_NN 体物_NN 理学_NN 中_LC 的_DEG 参数_NN ，_PU 以_P formula_NN
+
+

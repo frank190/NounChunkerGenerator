@@ -1,0 +1,124 @@
+﻿_CS RepRap_NN
+
+RepRap_NN 是_VC 一_CD 种_M 三维_JJ 打印机_NN 原型机_NN （_PU 或_CC 3D_OD 立体_NN 打印机_NN ）_PU ，_PU 它_PN 具有_VV 一定_JJ 程度_NN 的_DEC 自我_AD 复制_VV 能力_NN ，_PU 能够_VV 打印_VV 出_VV 大部_NN 分_VV 其_PN 自身_PN 的_DEG （_PU 塑料_NN ）_PU 组件_NN 。_PU RepRap_NN 是_VC （_PU replicatingrapidprototyper_NN ）_PU 的_DEG 缩写_NN 。_PU
+
+作为_P 一_CD 个_M ，_PU 这_DT 项目_NN 中_LC 所有_DT 的_DEG 设计_NN 都_AD 在_P 自由_P 软件_NN 协议_NN G_CD N_CD U_NN 通用_VV 公共_JJ 许可证_NN （_PU G_CD PL_M ）_PU 之下_AD 发布_VV 。_PU
+
+至_P 目前_NT 为止_VV ，_PU RepRap_NN 项目_NN 已经_AD 发布_VV 了_AS 四_CD 个_M 版本_VA 的_DEC 3D_NN 立体_NN 打印机_NN ：_PU 2007_CD 年_M 3月_NT 发布_VV 的_DEC "_PU 达尔文_NN "_PU （_PU Darwin_NN ）_PU ，_PU 2009年_NN 10月_NT 发布_VV "_PU 孟_BA 德尔_NN "_PU （_PU Mendel_NN ）_PU ，_PU 并_CC 在_P 2010_CD 年_M 发布_VV 的_DEC “_PU PrusaMendel_NN ”_PU ，_PU 和_CC "_PU 赫胥黎_NN "_PU （_PU Huxley_NN ）_PU 。_PU 开发者_NN 采用_VV 了_AS 著名_NT 生物学_NN 家们_NN 的_DEC 名字_NN 来_MSP 命名_VV ，_PU 是_VC 因为_P “_PU RepRap_NN 就_AD 是_VC 复制_VV 和_CC 进化_VV ”_PU 。_PU
+
+由于_P 机器_NN 具有_VV 制造_VV 一些_CD 自己_NN 零件_NN 的_DEC 能力_NN ，_PU 作者_AD 设想_VV 了_AS 廉价_NN RepRap_NN 装置_NN 的_DEC 可能性_NN ，_PU 能够_VV 制造_VV 复杂_VA 的_DEC 产品_NN 而_CC 不_AD 需_VV 要_VV 广泛_VA 的_DEC 工业_NN 基础_NN 设施_NN 。_PU 他_PN 们企_NN 图_NN 在_P RepRap_NN 中_LC 演示_VV 这_DT 个_M 进化_NN 过程_NN ，_PU 以及_CC 它_PN 的_DEG 数量_NN 可以_VV 按_P 指数_NN 成_VV 倍增_NN 长_VA 。_PU 一_CD 项_M 初步_NN 研究_NN 表明_VV ，_PU 使用_VV RepRaps_NN 打印_VV 普通_JJ 产品_NN 可_VV 节省_VV 经济_NN 费用_NN
+
+2005_CD 年_M ，_PU RepRap_NN 项目_NN 在_P 英国_NR 巴斯_JJ 大学_NN 由_P 机械_NN 工程_NN 高级_JJ 讲师_NN AdrianBowyer_NN 博士_NN 创建_NN 。_PU
+
+2005年_NT 3月_NT 23日_NT
+
+RepRap_NN 的_DEG 博客_NN 开始_VV 。_PU
+
+2005_CD 年_M 夏季_NN
+
+英国_NN 工程_NN 和_CC 物理_NN 科学_NN 研究理_NN 事会_NN 提供_VV 资金_NN 给_VV 在_P 英国_NR 巴斯_NR 大学_NN 的_DEG 初步_JJ 发展_NN RepRap_NN 。_PU
+
+2006年_NT 9月_NT 13日_NT
+
+RepRap_NN 0_CD ._PU 2_CD 原型_JJ 成功_NN 打印_VV 的_DEC 第一_OD 部分_NN ，_PU 然后_AD ，_PU 它_PN 被_SB 用来_VV 取代_VV 最初_AD 是_VC 由_P 一_CD 个_M 商业_NN 3D_NN 打印机_NN 生成_VV 的_DEC 相同_JJ 部分_NN 。_PU
+
+2008年_NT 2月_NT 9日_NN
+
+RepRap_NN 1_CD ._PU 0_CD “_PU 达尔文_NN ”_PU ，_PU 成功_NN 地_DEV 实现_VV 了_AS 至少_AD 超过_VV 一半_CD 的_DEG 快速_JJ 原型_JJ 部件_NN 的_DEC 一_CD 个_M 实例_NN 。_PU
+
+2008年_NT 4月_NT 4日_NN
+
+可能_VV 是_VC 最早_JJ 的_DEG 由_P 一_CD 个_M RepRap_NN 制作_VV 的_DEC 最终_JJ 用户_NN 项目_NN 是_VC ：_PU 一_CD 个_M 夹具_NN ，_PU 它_PN 能_VV 牢固_VA 地_DEV 把_BA iPod_NN 固定_VV 在_P 福特_NN F_CD i_CC es_CD ta_M 车_NN 的_DEG 仪表盘_NN 上_LC 。_PU
+
+2008年_NT 5月_NT 29日_NT
+
+在_P 几_CD 分钟_M 之内_LC 被_SB 组装_VV ，_PU 在_P 英国_NN 巴斯_NR 大学_NN 的_DEG 第一_OD 个_M 完成_VV 的_DEC “_PU 儿子辈_NN ”_PU 的_DEC 机器_NN 制作_VV 了_AS “_PU 孙子辈_NN ”_PU 机器_NN 的_DEG 的_DEC 第一_OD 部分_NN 。_PU
+
+2008年_NT 9月_NT 23日_NT
+
+据_P 报道_VV ，_PU 至少_AD 有_VE 100_CD 拷贝_NN 已经_AD 在_P 不同_VA 的_DEC 国家_NN 建造_VV 。_PU 当时_NT 流传_VV 的_DEC RepRap_NN 确切_JJ 数量_NN 是_VC 未知_VA 的_DEC 。_PU
+
+2008年_NT 11月_NT 30日_NT
+
+首次_AD 有_VE 记载_VV 的_DEC “_PU 野生_NN ”_PU 复制_AD 发生_VV 。_PU 复制_VV 是_VC 由_P WadeBortz_NN 完成_VV ，_PU 他_PN 是_VC 在_P 开发_VV 团队_NN 之外_LC 的_DEV 制造_VV 了_AS 一_CD 套_M 完整_VA 的_DEC 复_AD 制品_VV 的_DEC 其他_DT 用户_NN 中_LC 的_DEG 第一_OD 个_M 用户_NN 。_PU
+
+2009年_NT 4月_NT 20日_NT
+
+公布_VV 一_CD 个_M RepRap_NN 制作_VV 第一_OD 块_M 电子_NN 电路板_NN 。_PU 它_PN 使用_VV 自动化_NN 控制_NN 系统_NN 和_CC 一_CD 个_M 交换头_NN 系统_NN ，_PU 可以_VV 能够_VV 打印_VV 既_CC 有_VE 塑料_NN 又_AD 有_VE 导电性_NN 的_DEC 焊料_NN 。_PU 后来_VV ，_PU 此_DT 部件_NN 被_SB 集成_VV 到_CC 制造_VV 它_PN 的_DEG RepRap_NN 里_LC 。_PU
+
+2009年_NT 10月_NT 2日_NT
+
+第二_OD 代_M 型号_NN 设计_NN ，_PU 被_SB 称为_VV “_PU 孟德_NR 尔_ETC ”_PU ，_PU 打印_VV 出_VV 它_PN 的_DEG 第一_OD 部分_NN 。_PU "_PU 孟德尔_NN "_PU 的_DEG 形状_NN 酷似_VV 一_CD 个_M 三棱镜_NN ，_PU 而_CC 不_AD 是_VC 一_CD 个_M 立方体_NN 。_PU
+
+2009年_NT 10月_NT 13日_NT
+
+RepRap_NN 2.0_CD 版_M “_PU 孟德尔_NN ”_PU 完成_VV 。_PU
+
+2010年_NT 1月_NT 27日_NT
+
+公布_VV 的_DEC “_PU KartikM_NN ._PU Gada_NN 人道_NN 主义_NN 创新奖_NN ”_PU 奖励_NN 给_P 一_CD 种_M 改进_VV 的_DEC RepRap_NN 的_DEG 设计_NN 和_CC 实现_VV 。_PU 有_VE 两_CD 个_M 奖项_NN ，_PU 其中_NN 一_CD 个_M $20_CD ,_PU 000_CD ，_PU 另_DT 一_CD 个_M 为_VC $80_CD ,_PU 000_CD 。_PU 奖金_NN 的_DEC 行政_NN 部门_VV 后来_PN 被_SB 转移_VV 到_VV 。_PU
+
+2010年_NT 8月_NT 31日_NT
+
+第三_OD 代_M 型号_NN 的_DEG 设计_NN 上_LC ，_PU “_PU 赫胥黎_NN ”_PU 被正式_JJ 命名_NN 。_PU 其_PN 开发_VV 是_VC 基于_P "_PU 孟德尔_NN "_PU 的_DEC 硬件_NN 与_CC 原来_JJ 的_DEG 打印量_NN 的_DEG 30％_CD 的_DEG 小型_JJ 化版_NN 本_NN 。_PU
+
+2012_CD 年_M 上_LC 半年_NN
+
+RepRaps_NN 和_CC RepStraps_NN 的_DEG 建造_NN 和_CC 使用_VV 在_P 科技_NN 工具_NN 和_CC 工程_NN 社区_NN 内_LC 广为_VV 流传_NN 。_PU RepRaps_NN 及_CC 其_PN 商业_NN 衍生_VV 产版_NN 本已经_AD 出现_VV 在_P 许多_CD 主流_NN 媒体_NN ，_PU 并且_CC 进入_VV 了_AS 科技_NN 媒体_NN 例如_AD 《_PU 连线_NN 杂志_NN 》_PU （_PU Wired_NN ）_PU 和_CC 一些_CD 有_VE 影响力_NN 的_DEC 工程_NN 专业_NN 人士_NN 的_DEC 新闻_JJ 媒体_NN 上_LC 的_DEC 永久_JJ 观察名_NN 单_AD 和_P 报道_NN 主题_NN 。_PU
+
+2012_CD 年_M 夏天_NN /_PU 秋天_NN
+
+已经_AD 有_VE 很多_CD 集_M 中_LC 在_P 较_AD 小_VA 的_DEC 新_JJ 公司_NN 销售_VV 的_DEC 衍生_NN 版本_NN ，_PU 工具_NN 包_VV 和_CC 组装_VV 好_VA 的_DEC 系统_NN ，_PU 还_AD 有新_VA 的_DEV 开发_VV 研究_NN 的_DEC 结果_NN ，_PU 使得_VV 和_CC 现有_JJ 工业_NN 提供_VV 的_DEC 三维_CD 打印_NN 价格_NN 相比_VV 能_VV 大_JJ 幅度_NN 降低_VV 3D_NN 打印_NN 的_DEG 价格_NN 。_PU RepRap_NN 研究_NN 结果_NN 也许_AD 是_VC 最引_JJ 人注_NN 目的_NN 是_VC 第一_OD 个_M 成功_JJ 的_DEG Delta_NN 设计_NN ，_PU Rostock_NN 打印机_NN ，_PU 在_P 缓慢_VA 的_DEC 日趋_NN 成熟_VV ，_PU 有了_P 一_CD 个_M 初步_JJ 的_DEG 尝试_NN 自行_VV 采购_VV 的_DEC 一些_CD 经验_NN 建设者_NN 的_DEG 工作_NN 解决_NN 方案_NN 。_PU 虽然_CS Rostock_NN 仍然_AD 处于_VV 实验_NN 阶段_NN 的_DEC 重大_JJ 修改_NN ，_PU 但是_CC 它_PN 几乎_AD 每_DT 月_NN 都_AD 在_P 接近_VV 最_AD 好_VA 的_DEC 和_CC 很_AD 不同_VA 的_DEC 设计_NN 。_PU 最_AD 新_VA 的_DEC 一_CD 代_M 设计_VV 使用_VV OpenBeams_NN ，_PU 用_P 线_NN （_PU 典型_JJ 的_DEG 例如_AD Dyneema_NN 或_CC Spectra_NN 渔线_NN ）_PU 代替_VV 导带_NN 等等_VV ，_PU 这_PN 也_AD 代表_VV 了_AS 一些_CD 在_P RepRaps_NN 的_DEC 最新_JJ 发展_NN 趋势_NN 。_PU
+
+2016_CD 年_M 1月_NN
+
+2016_CD 年_M 1月初_NN RepRapPro_NN （_PU RepRap_NN 专业版_NN 的_DEC 缩写_NN ，_PU 英国_NR RepRap_NN 项目_NN 的_DEG 一_CD 个_M 商业_NN 项目_NN ）_PU 宣布_VV 将_BA 于_P 2016_CD 年_M 1月_NT 15日_NT 停止_VV 交易_NN 。_PU 原因_NN 是_VC 低_JJ 成本_NN 3D_CD 打印机_NN 市场_NN 的_DEC 挤压_NN ，_PU 和_CC 无法_AD 在_P 该_DT 市场_NN 上_LC 扩张_VV 。_PU RepRapPro_NN 中_LC 国继_NT 续经_AD 营_VV 。_PU
+
+作为_P 一_CD 个_M 开放_VV 源码_NN 项目_NN ，_PU 旨_NN 在_P 鼓励_NN 演化_VV ，_PU 有_VE 许多_CD 衍生_VV 版本_JJ 存在_NN ，_PU 并_CC 它们_PN 的_DEG 设计师_NN 是_VC 自由_VA 的_DEV 进行_VV 修改_NN 和_CC 替换_VV 。_PU 作为_VV 开源_NN 项目_NN ，_PU 设计_VV 人员_NN 可以_VV 自由_AD 进行_VV 修改_NN 和_CC 替换_NN ，_PU 但是_CC 他们_PN 必须_VV 重新_AD 分享_VV 他们_PN 的_DEG 改进_NN 。_PU
+
+有_VE 许多_CD RepRap_NN 打印机_NN 设计_NN 包括_VV ：_PU
+
+RepRap_NN 三_AD 维打_VV 印机_NN 的_DEC 热塑性_JJ 挤出机_NN 一般_AD 由_P 安装_VV 在_P 一_CD 个_M 计算机_NN 控制_VV 的_DEC 笛_NN 卡尔_NN 坐标_VV 的_DEC XYZ_NN 平台_NN 。_PU 该_DT 平台_NN 是_VC 由_P 金属_NN 结构物_NN 与_P 打印_VV 出_VV 的_DEC 塑料_NN 连接_NN 部件_NN 建造_VV 。_PU 所有_DT 三_CD 个_M 轴_NN 是_VC 被_LB 步_NN 进_VV 电机_NN 所_MSP 驱动_VV ，_PU 在_P X轴_NN 和_CC Y轴_NN 是_VC 通过_P 一_CD 个_M 时_LC 规皮带_NN （_PU timingbelt_NN ）_PU ，_PU Z_NN 轴_NN 则_AD 是_VC 透过_P 螺杆_NN 带动_VV （_PU leadscrew_M ）_PU 。_PU
+
+RepRap_NN 的_DEG 核心_NN 部件_NN 是_VC 热塑性_JJ 塑料_NN 挤出_VV 总成_VV 。_PU 早期_VV 的_DEC RepRap_NN 挤出机_NN 采用_VV 直流_JJ 减速_JJ 马达_NN 驱动_VV 的_DEC 螺丝_NN 紧紧_AD 地_DEV 压_VV 塑料_NN 丝_NN 原料_NN ，_PU 迫使_VV 它_PN 经过_P 加热_NN 熔化室_NN ，_PU 通过_P 一_CD 个_M 狭窄_VA 的_DEC 挤压_NN 喷嘴_VV 。_PU 然而_AD ，_PU 由于_P 直流_JJ 减速马_NN 达拥_VV 有_VE 较_AD 大_VA 的_DEC 惯性_NN ，_PU 使_VV 其_PN 难以_AD 快速_VA 的_DEC 启动_NN 或_CC 停止_VV ，_PU 进而_AD 造成_VV 挤出量_NN 无法_AD 做_VV 精确_VA 的_DEC 控制_NN 。_PU 因此_AD ，_PU 在_P 最_AD 新_VA 的_DEC 塑胶_NN 挤出_VV 总成_NN 上_LC ，_PU 则_AD 是_VC 采用_VV 了_AS 步进_NN 马达_NN （_PU 直驱_AD 或_CC 减速_NN ）_PU 驱动_VV 原料丝_NN ，_PU 夹持_NN 原料丝_NN 的_DEG 结构_NN 则_AD 修改_VV 为_VC 摩擦_NN 滚轮_NN （_PU 轴_NN ）_PU 和_CC 一_CD 个_M 球_NN 轴承_NN 。_PU
+
+RepRap_NN 的_DEC 电子_NN 产品_NN 是_VC 基于_P 流行_VV 的_DEC 开放_NN 源码_NN 的_DEG Arduino_NN 的_DEG 平台_NN ，_PU 与_P 其它_DT 用于_VV 控制_VV 步进_NN 电机_NN 的_DEG 驱动器_NN 。_PU 当前_NT 版本_VA 的_DEC 电子_NN 产品_NN 使用_VV 的_DEC Arduino_NN 的_DEG 衍生_NN S_NN anguino_PU 的_DEG 主板_NN ，_PU 和_CC 一_CD 个_M 另外_DT 的_DEG 和_CC 定制_VV 的_DEC Arduino板_NN 做_VV 的_DEC 挤出_NN 总成_AD 控制器_NN 。_PU 这_DT 种_M 架构_NN 可以_VV 扩展_VV 额外_JJ 的_DEG 挤出_NN 总成_VV ，_PU 各自_AD 带有_VV 自己_PN 专属_NN 的_DEG 控制器_NN 。_PU
+
+第一_OD 个_M 公开_JJ 发布_NN 的_DEG RepRap_NN ，_PU "_PU 达尔文_NN "_PU ，_PU 是_VC 一_CD 个_M XY_NN 龙_NN 门式_NN 移动_VV 在_P Z_NN 轴打_NN 印床_NN 之上_LC 的_DEC 型号_NN 。_PU
+
+"_PU 孟德尔_NN "_PU 用球_NN 轴承_NN 取代_VV "_PU 达_VV 尔文_NN "_PU 的_DEC 滑动_JJ 轴承_NN ，_PU 减少_VV 了_AS 摩擦_NN 和_CC 容忍_VV 误差_VV 。_PU
+孟德尔_NN 型号_NN 的_DEG 打印_NN 范围_NN 大小_AD 为_VC 200_CD ​​_NN mm_NN （_PU 宽_NN ）_PU ×_PU 200_CD mm_NN （_PU 深_NN ）_PU ×_PU 140_CD 毫米_M （_PU 高_VA ）_PU 或_CC 8_CD "_PU （_PU 宽_VA ）_PU ×_PU 8_CD "_PU （_PU 深_VA ）_PU ×_PU 5_CD ._PU 5_CD "_PU （_PU 高_VA ）_PU 。_PU
+
+RepRap_NN 被_SB 视为_VV 是_VC 一_CD 个_M 完整_VA 的_DEC 复制_NN 系统_NN ，_PU 而_CC 不_AD 是_VC 简单_VA 的_DEC 一_CD 块_M 硬件_NN 。_PU 为此_AD ，_PU 该_DT 系统_NN 包括_VV 计算机_NN 辅助_NN 设计_NN （_PU CAD_NN ）_PU 的_DEC 3D_NN 建模_NN 系统_NN 和_CC 计算机_NN 辅助_NN 制造_NN （_PU CAM_NN ）_PU 软件_NN 和_CC 驱动_NN 程序_NN 的_DEG 形式_NN ，_PU 把_BA RepRap_NN 用户_NN 的_DEG 设计_NN 转换_VV 成_VV 一_CD 组_M 指令_NN ，_PU 通过_P RepRap_NN 的_DEC 硬件_NN ，_PU 转变_VV 成_VV 了_AS 物理_NN 物体_NN 。_PU
+
+现在_NT 已经_AD 有为_VV RepRap_NN 开发_VV 了_AS 两_CD 种_M 不同_VA 的_DEC CAM_NN 工具链_NN 。_PU 首先_AD ，_PU 简单_VA 地_DEV 题为_VV “_PU RepRapHost_NN ”_PU ，_PU 是_VC RepRap_NN 领导_NN 开发_VV 人员_NN AdrianBowyer_NN 用_P Java_NN 语言_NN 编写_VV 。_PU 第二_OD ，_PU “_PU Skeinforge_NN ”_PU ，_PU 是_VC 由_P EnriquePerez_NN 独立_NN 编写_VV 。_PU 两_CD 者_NN 都_AD 是_VC 完整_VA 的_DEC 工具链_NN 系统_NN ，_PU 把_BA 3D_NN 模型_NN 转换_NN 为_VC 命令_NN 打印机_NN 的_DEC 机器_NN 语言_NN 。_PU
+
+后来_VV ，_PU 像_P ，_PU pronterface_NN ，_PU Cura_NN 其他_DT 程序_NN 被_SB 创建_VV 。_PU 最近_VV ，_PU 创建_VV 了_AS 富兰克_NN 林_CC 固件_NN (_PU F_CD ranklinfirmware_M )_PU ，_PU 允许_VV RepRap_NN 3_CD -_PU D_NN 打印机_NN 作为_VV 通用_JJ 目的_NN ，_PU 还_AD 可_VV 用作_VV 三维_NN 机器人_NN ，_PU 除了_P 3D_CD 打印_NN （_PU 例如_AD 铣削_NN ，_PU 流体_NN 处理_NN 等_ETC ）_PU 之外_VV 。_PU
+
+闭源_NN 软件_NN KISSlicer_NN 和_CC repetierhost_NN 也_AD 被_SB 使用_VV 。_PU
+
+几乎_AD 任何_DT CAD_NN 或_CC 3D_NN 建模_NN 软件_NN 可以_VV 与_P RepRap_NN 使用_VV ，_PU 只要_CS 它_PN 是_VC 能够_VV 生成_VV 文件_NN 。_PU 内容_NN 创建者_NN 可以_VV 使用_VV 他们_PN 熟悉_VA 的_DEC 任何_DT 工具_NN ，_PU 不_AD 管_VV 工具_NN 是_VC 商业_NN 的_DEC CAD_NN 软件_NN ，_PU 例如_AD ，_PU 或_CC 开源_NN 的_DEG 3D_CD 建模_NN 软件_NN ，_PU 例如_AD 或_CC 等_ETC 。_PU
+
+RepRaps_NN 打印_VV 的_DEC 物体_NN 材料_NN 是_VC 来自_VV 与_P ABS_NN ，_PU PLA_NN ，_PU 和_CC 类似_JJ 热塑性_NN 塑料_NN 的_DEC 材料_NN 。_PU
+
+PLA_NN 聚乳酸_NN 具有_VV 高_JJ 刚度_NN ，_PU 最_AD 小_VA 的_DEC 翘曲_NN ，_PU 和_CC 具有_VV 一_CD 个_M 有_VE 吸引力_NN 的_DEC 半透明_JJ 颜色_NN 的_DEC 工程_NN 优势_NN 。_PU PLA_NN 聚乳酸_NN 材料_NN 是_VC 生物_NN 可_VV 降解性_JJ 的_DEG 和_CC 植物_NN 来源_VV 的_DEC 环保_JJ 材料_NN 。_PU
+
+RepRap_NN 用户_NN 不同于_VV 大多数_CD 商业_NN 机器_NN ，_PU 我们_PN 鼓励_NN 印刷_VV 新_JJ 材料_NN 和_CC 新_JJ 方法_NN 进行_VV 实验_NN ，_PU 并_CC 公布_VV 其_PN 结果_NN 。_PU 用于_VV 打印_VV 的_DEC 新_JJ 材料_NN （_PU 如_P 陶瓷_NN ）_PU 的_DEC 方法_NN 已_AD 被_SB 开发_VV 这_DT 种_M 方式_NN 。_PU
+
+RepRap_NN 项目_NN 还_AD 没有_VV 确定_VV 一_CD 个_M 合适_VA 的_DEC 载体_NN 材料_NN ，_PU 以_MSP 补充_VV 其_PN 印刷_NN 过程_NN 中_LC 。_PU
+
+印刷_VV 电子_NN 技术_NN 是_VC RepRap_NN 项目_NN 的_DEG 一_CD 个_M 主要_JJ 目标_NN ，_PU 因为_P 它_PN 将_AD 可以_VV 打印_VV 自己_PN 的_DEG 电路板_NN 。_PU 已经_AD 提出_VV 的_DEC 几_CD 种_M 方法_NN 是_VC ：_PU
+
+
+其它_DT 三维打_NN 印机_NN 设计_NN （_PU 如_P 商业_NN ）_PU ，_PU 和_CC 部分_NN 由_P 其他_DT 装置_NN （_PU 如_P Meccano_NN ）_PU 构造_VV 可_VV 用于_VV 引导_VV RepRap_NN 建造_VV RepRap_NN 零件_NN 的_DEC 过程_NN 。_PU 许多_CD 这样_PN 的_DEG 机器_NN 都_AD 是_VC 基于_P RepRap_NN 设计_VV 和_CC 使用_VV RepRap_NN 电子_NN 系统_NN 。_PU 这些_DT 一般_AD 被_P RepRap_NR 社区_NN 称为_VV 名字_NN “_PU RepStrap_NN ”_PU （_PU “_PU 引导_VV RepRap_NN ”_PU ）_PU 。_PU 一_CD 个_M RepStrap_NN 是_VC 任何_DT 开放式_JJ 硬件_NN 的_DEG 快速_JJ 成型机_NN ，_PU 建造_VV RepRap_NN 部件_NN ，_PU 本身_PN 是_VC 还_AD 没有_VV 的_DEC RepRap_NN 下_LC 的_DEG 制造_NN 工艺_NN 所_MSP 建造_VV 。_PU 一些_CS RepStrap_NN 设计_NN 是_VC 和_CC 达尔_JJ 文_NN 和_CC 孟德尔_NN 相似_VA 的_DEC ，_PU 但_AD 已_AD 被_SB 修改_VV 为_VC 由_P 激光_JJ 切割_NN 片材_NN 或_CC 铣_NN 零件_NN 。_PU 其他_DT ，_PU 如_P ，_PU 共享_AD 与_P RepRap_NN （_PU 尤其_AD 是_VC 电子_NN ）_PU 等_ETC 的_DEG 一些_CD 设计_NN 元素_NN ，_PU 但是_CC 其_PN 机械_NN 结构_NN 是_VC 完全_AD 重新_AD 设计_VV 的_SP 。_PU
+
+该_DT 项目_NN 的_DEC “_PU 核心_JJ 团队_NN ”_PU 包括_VV ：_PU
+
+
+RepRap_NN 项目_NN 的_DEG 既定_JJ 目标_NN 是_VC 建造_VV 一_CD 个_M 纯粹_NN 的_DEC 自我_AD 复制_VV 设备_NN ，_PU 不_AD 是_VC 为了_P 建造_VV 设备_NN 本身_PN ，_PU 而_CC 是_VC 为了_P 能_VV 让_VV 用户_NN 个_M 人_NN 可以_VV 在_P 这_DT 个_M 星球_NN 上_LC 的_DEC 任何_DT 地方_NN ，_PU 以_P 一_CD 个_M 最_AD 小_VA 的_DEC 资本_JJ 支出_NN ，_PU 把_BA 桌上_JJ 台式_NN 制造_NN 系统_NN 技术_NN 放_VV 在_P 用户_NN 个_M 人手_NN 中_LC ，_PU 这_PN 将_AD 能_VV 使用_VV 户个_NN 人_NN 可以_VV 制造_VV 了_AS 许多_CD 在_P 日常_JJ 生活_NN 中_LC 使用_VV 的_DEC 物品_NN 。_PU 从_P 理论_NN 上_LC 讲_VV ，_PU 该_DT 项目_NN 试图_NN 证明_VV 一_CD 个_M 假说_NN ，_PU 那就_AD 是_VC 用_P 这_DT 个_M 技术_NN 可以_VV 让_VV 人们_NN 可以_VV 使用_VV ，_PU 来_MSP 建造_VV 出_VV “_PU 具有_VV 足够_VA 的_DEC 通用性_NN 的_DEG 快速_JJ 原型_JJ 设计_NN 和_CC 直接_AD 写_VV 技术_NN ”_PU 。_PU
+
+RepRap_NN 自我_AD 复制_VV 的_DEC 性质_NN 也_AD 有利于_VV 它_PN 像_P 病毒_NN 一般_JJ 的_DEG 传播_NN ，_PU 和_CC 可_VV 能_VV 有利于_VV 主要_AD 产生_VV 模式_NN 的_DEC 典范_NN 转移_VV ，_PU 从_P 一_CD 个_M 工厂_NN 生产_VV 的_DEC 专利_NN 产品_NN 的_DEG 设计_NN 到_VV 制造_VV 的_DEC 消费_NN 产品_NN ，_PU 很_AD 可_VV 能变_VV 到_VV 个_M 人_NN 非_AD 专利_NN 产品_NN 的_DEG 生产_NN 与_CC 开放_VV 的_DEC 规范_NN 。_PU 开放_VV 的_DEC 个人_NN 产品_NN 的_DEG 设计_NN 和_CC 制造_NN 能力_NN ，_PU 大大_AD 降低_VV 了_AS 生产_NN 周期_NN 时间_NN ，_PU 并_CC 支持_VV 更_AD 大_VA 的_DEC 产品_NN 多样性_NN ，_PU 可_VV 支持_VV 非_JJ 工厂_NN 生产_VV 的_DEC 规模_NN 。_PU
+
+
+
+

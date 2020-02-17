@@ -1,0 +1,9 @@
+﻿屋_NN 顶棱镜_NN
+
+屋顶_JJ 棱镜_NN 通常_AD 就_AD 是_VC 能_VV 经由_P 反射_NN 作用_VV 将_BA 光线_NN 行进_NN 方向_NN 只_AD 是_VC 单纯_JJ 的_DEG 改变_NN 90_CD °_M 的_DEG 光学_NN 棱镜_NN 的_DEG 总称_NN 或_CC 代名词_NN 。_PU 经由_P 两_CD 个_M 平面_JJ 反射_NN 和_CC 翻转_VV 的_DEC 图像_NN 会_VV 在_P 光轴_NN 上_LC 交会_VV 并_CC 向_P 侧面_NN 翻转_VV 。_PU
+
+单独_JJ 的_DEG 普罗_NN 棱镜_NN 是_VC 型式_NN 最_AD 简单_VA 的_DEC 屋_JJ 顶棱镜_NN ，_PU 但_CC 他_PN 最_AD 常_AD 被_SB 用到_VV 的_DEC 情况_NN （_PU 双筒望_JJ 远镜_NN 内_LC 的_DEG 双普_NN 罗棱镜_NN 结构_NN ）_PU 并_CC 没有_VV 利用_VV 到屋_JJ 顶棱镜_NN 的_DEG 特性_NN 。_PU
+
+其他_DT 常见_JJ 的_DEG 屋_JJ 顶棱镜_NN 有_VE 阿米_JJ 西棱镜_NN 、_PU 阿贝_NN -_PU 柯尼棱镜_NN 、_PU 施密特_VV -_PU 別_NN 汉棱镜_NN 和_CC 五_CD 棱镜_NN 。_PU
+
+

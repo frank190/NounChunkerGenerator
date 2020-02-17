@@ -1,0 +1,7 @@
+﻿中子_NN 减速剂_NN
+
+中子_NN 减速剂_NN （_PU ，_PU 又_AD 称_VV 中子_NN 慢化剂_NN ）_PU 在_P 一般_JJ 情况_NN 下_LC ，_PU 可_VV 裂变_VV 核发_JJ 射出_NN 的_DEC 中子_NN 的_DEC 飞行_NN 速度_NN 比_NN 可_VV 被_SB 裂变_VV 核_NN 捕获_VV 的_DEC 中子_NN 速度_NN 要快_VV ，_PU 因此_AD 为了_P 产生_VV 链式_NN 反应_VV ，_PU 就_AD 必须_VV 要_VV 将_BA 中子_NN 的_DEC 飞行_NN 速度_NN 降下_VV 来_NOI ，_PU 这时_AD 就_AD 会_VV 使用_VV 中_LC 子_DEG 减速剂_NN 。_PU
+
+石墨_NN 中_LC 的_DEG 碳_NN 元素_NN ，_PU 以及_CC 水_NN 中_LC 的_DEG 氢元_NN 素_AD 都_AD 能_VV 起到_VV 慢化_VV 作用_NN 。_PU 因此_AD 通常_AD 用于_VV 热中子_NN 反应堆_NN 慢化剂_NN 的_DEG 有_VE 三_CD 种_M 材料_NN 。_PU
+
+

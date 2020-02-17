@@ -1,0 +1,11 @@
+﻿甚高频_VV
+
+甚_AD 高频_VA （_PU ，_PU 常用_JJ 缩写_NN ：_PU VHF_NN ）_PU ，_PU 是_VC 指频带_NN 由_P 30_CD MHz_NN 到_VV 300_CD MHz_NN 的_DEG 无线电_NN 电波_NN 。_PU 比_P VHF_NN 频率_NN 略_AD 低_VA 的_DEC 是_VC 高频_JJ （_PU H_OD F_CD ）_PU ，_PU 比_P VHF_NN 频率_NN 略_AD 高_VA 的_DEC 是_VC 特高_JJ 频（UHF_NN ）_PU 。_PU
+
+VHF_NN 多数_CD 是_VC 用作_VV 电台_NN 及_CC 电视台_NN 广播_VV ，_PU 同时_AD 又_AD 是_VC 航空_NN 、_PU 航海_NN 及_CC 业余_NN 无_VE 线电_NN 的_DEC 沟通_NN 频道_NN 。_PU 国际_NN 空间_NN 站亦_AD 使用_VV 甚_AD 高频_JJ 波段_NN 通联_VV 以及_CC 发送_VV SSTV_NR 图像_NN 。_PU
+
+VHF_NN 主要_AD 是_VC 作_VV 较_AD 短途_VA 的_DEC 传送_NN ，_PU 和_CC 高频_NN （_PU HF_CD ）_PU 不同_VA 的_DEC 是_VC ，_PU 电离层_NN 通常_AD 不_AD 会_VV 反射_VV VHF_NN 的_DEC 信号_NN ，_PU 而且_CC 甚_AD 高频_JJ 常常_JJ 会受_NN 环境_NN 因素_AD （_PU 如_P ：_PU 地形_NN ）_PU 影响_VV 其_PN 信号_NN 。_PU
+
+156_CD –_CC 158_CD MHz_NN ；_PU 156_CD ._PU 8MHz_NN （_PU 16_CD 频道_NN ）_PU 是_VC 海上_NR 急救_NN 和_CC 接触_VV 频率_NN 。_PU
+
+

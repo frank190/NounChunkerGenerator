@@ -1,0 +1,21 @@
+﻿绝对_VV 零度_NN
+
+绝对_JJ 零度_NN （_PU ）_PU 是_VC 热力学_NN 的_DEG 最_AD 低_JJ 温度_NN ，_PU 是_VC 粒子_NN 动能_NN 低_AD 到_VV 量子_NN 力学_NN 最_AD 低_JJ 点时_NN 物质_NN 的_DEC 温度_NN 。_PU 绝_AD 对_P 零度_NN 是_VC 仅_AD 存于_VV 理论_VV 的_DEC 下_JJ 限值_NN ，_PU 其_PN 热力学_NN 温标_NN 写成_VV K_NN ，_PU 等于_VV 摄氏_NN 温标_NN 零下273.15度_NN （_PU 即_AD −_P 273_CD ._PU 15_CD ℃_M ）_PU 。_PU
+
+物质_NN 的_DEC 温度_NN 取决_VV 於_P 其_PN 内_LC 原子_NN 、_PU 分子_NN 等粒子_NN 的_DEC 动能_NN 。_PU 根据_P 麦克_NN 斯_AD 韦_VA -_PU 玻尔_NN 兹_JJ 曼_NN 分布_VV ，_PU 粒子_NN 动能_NN 越_AD 高_VA ，_PU 物质_NN 温度_NN 就_AD 越_AD 高_VA 。_PU 理论_NN 上_LC ，_PU 若粒_NN 子动_AD 能低_VV 到_VV 量子_NN 力学_NN 的_DEC 最低_JJ 点时_NN ，_PU 物质_NN 即_AD 达到_VV 绝对_JJ 零度_NN ，_PU 不_AD 能_VV 再_AD 低_VA 。_PU 然而_AD ，_PU 根据_P 热力学_NN 定律_VV ，_PU 绝_AD 对_P 零度_NN 永远_AD 无法_AD 达到_VV ，_PU 只_AD 可_VV 无限_AD 逼近_VV 。_PU 因为_P 任何_DT 空间_NN 必然_AD 存有_VV 能量_NN 和_CC 热量_NN ，_PU 也_AD 不断_AD 进行_VV 相互_AD 转换_VV 而_CC 不_AD 消失_VV 。_PU 所以_AD 绝对_P 零度_NN 是_VC 不_AD 存在_VV 的_DEC ，_PU 除非_VV 该_DT 空间_NN 自_AD 始_AD 即_AD 无_VE 任何_DT 能量_NN 热量_NN 。_PU 在_P 此_DT 一_CD 空间_NN ，_PU 所有_DT 物质_NN 完全_AD 没有_VV 粒子_NN 振动_NN ，_PU 其_PN 总体_NN 积_VV 并且_CC 为_VC 零_CD 。_PU
+
+有关_JJ 物质_NN 接近_VV 绝对_JJ 零度_NN 时_LC 的_DEG 行为_NN ，_PU 可_VV 初步_AD 观察_VV 。_PU 定义_NN 如下_VV ：_PU
+
+其中_NN formula_NN __NN 2_CD 为_VC 普朗克_NN 常数_NN 、_PU formula_NN __NN 3_CD 为_VC 粒子_NN 的_DEG 质量_NN 、_PU formula_NN __NN 4_CD 为_VC 波兹曼_NN 常数_NN 、_PU formulaK_NN 。_PU
+
+和_P 外太_NN 空宇_NN 宙背景_NN 辐射_NN 的_DEC 3K_NN 温度_NN 做_VV 比较_VV ，_PU 实现_VV 玻色_NN -_PU 爱因_VV 斯_DT 坦凝聚_NN 的_DEG 温度_NN 1_CD ._PU 7_CD ×_PU 10K_CD 远_AD 小于_VV 3K_CD ，_PU 可_VV 知_VV 在_P 实验_NN 上_LC 要_VV 实现_VV 玻色_NN -_PU 爱因_VV 斯_DT 坦凝聚_NN 是_VC 非常_AD 困难_VA 的_DEC ，_PU 因为_P 这_PN 代表_VV 着_AS 我们_PN 需要_VV 将_BA 温度_NN 降到_VV 宇宙_NN 背景_NN 辐射_NN 之下_LC ，_PU 而_CC 在_P 整_DT 个_M 可知_JJ 宇宙_NN 环境_NN 中_LC 并不_AD 存在_VV 如_P 此_DT 低温_NN 的_DEC 环境_NN 。_PU 要_VV 制造_VV 出如此_AD 极_AD 低_VA 的_DEC 温度_NN 环境_NN ，_PU 主要_VA 的_DEC 技术_NN 是_VC 雷射_NN 冷却_VV 和_CC 蒸发_VV 冷却_NN 。_PU
+
+
+在_P 常用_VV 的_DEC 摄式_NN 或_CC 华式_NN 温标_NN 下_LC ，_PU 以_P 负数_NN 形式_NN 表示_VV 的_DEC 温度_NN 只是_AD 单纯_VA 的_DEC 比_P 此_DT 两_CD 种_M 表示_NN 方式_NN 下_LC 的_DEG 零数值_NN 温度_NN 更_AD 低_VA 的_DEC 温度_NN 。_PU 然而_AD 某些_DT 热力学_NN 系统_NN 是_VC 可以_VV 达到_VV 真正_AD 意义_VV 上_LC 的_DEG 负_VV 温度_NN 的_DEC ，_PU 换句话说_AD ，_PU 这些_DT 系统_NN 在_P 热力_NN 学定_VV 义下_NN 的_DEC 温度_NN （_PU 以_P 热力学_NN 温标_NN K_NN 表示_VV ）_PU 可以_VV 是_VC 一_CD 个_M 负_VV 的_DEC 值_NN 。_PU 一_CD 个_M 具有_VV 负温度_NN 的_DEG 系统_NN 并_AD 不_AD 是_VC 说_VV 它_PN 比_P 绝对_JJ 零度_NN 更_AD 冷_VA 。_PU 恰恰_AD 相反_VV ，_PU 从_P 感官_NN 上_LC 来讲_VV ，_PU 具有_VV 负温度_NN 的_DEG 系统_NN 比_P 任意_DT 一_CD 个_M 具有_VV 正温度_NN 的_DEG 系统_NN 都_AD 更_AD 热_VA 一些_CD 。_PU 当_P 分别_AD 具有_VV 正负_JJ 温度_NN 的_DEG 两_CD 个_M 系统_NN 接触_VV 时_LC ，_PU 热量_NN 会_VV 由_P 负_VV 温度_NN 系统_NN 流向_VV 正温度_NN 系统_NN 。_PU
+
+大多数_AD 常见_VA 的_DEC 系统_NN 都_AD 无法_AD 达到_VV 负_VV 温度_NN ，_PU 因为_AD 增加_VV 能量_NN 也_AD 会_VV 使得_VV 它们_PN 的_DEG 熵_NN 增加_VV 的_DEC 。_PU 但是_AD ，_PU 某些_DT 系统_NN 能够_VV 持有_VV 的_DEC 能量_NN 是_VC 有_VE 上限_VA 的_DEC ，_PU 当_P 能量_NN 达到_VV 这_DT 个_M 上限_NN 时_LC ，_PU 它们_PN 的_DEG 熵实际_NN 上_LC 会_VV 减少_VV 。_PU 因为_P 温度_NN 是_VC 由_P 能量_NN 和_CC 熵_NN 之间_LC 的_DEG 关系_NN 来_MSP 定义_VV 的_DEC ，_PU 所以_AD 即使_CS 能量_NN 在_VV 不_AD 停_VV 的_DEC 增加_NN ，_PU 这_DT 个_M 系统_NN 的_DEG 温度_NN 仍_AD 会_VV 变成_VV 负值_NN 。_PU 所以_AD ，_PU 当_P 能量_NN 增加_VV 时_LC ，_PU 对于_P 处于_VV 负_VV 温度_NN 的_DEC 系统_NN ，_PU 描述_VV 其_PN 状态_NN 的_DEG 玻尔_NN 兹_JJ 曼因_NN 子会_NN 增大_VV 而_CC 不_AD 是_VC 减小_VV 。_PU 因此_AD ，_PU 没有_VV 一_CD 个_M 完备_NN 的_DEG 系统_NN ——_PU 包括_VV 电磁_NN 系统_NN ——_PU 能够_VV 达到_VV 负_VV 温度_NN ，_PU 这_PN 是_VC 因为_P 能量_NN 状态_NN 不_AD 会_VV 达到_VV 最_AD 大_VA ，_PU 所以_AD 不_AD 会_VV 有负_VV 温度_NN 出现_VV 。_PU 但是_AD ，_PU 对于_P 准均_JJ 衡系统_NN （_PU 如_P 因_P 自_P 旋_NN 而_MSP 导致_VV 不_AD 均衡_VA 的_DEC 电磁场_NN ）_PU 这_DT 一_CD 理论_NN 并_AD 不_AD 适用_VV ，_PU 所以_AD 准_VV 均衡_PN 系统_NN 是_VC 可能_VV 达到_VV 负_VV 温度_NN 的_SP 。_PU
+
+2013_CD 年_M 1月3日_NN ，_PU 有_VE 物理_NN 学家_NN 声称_NN 首次_AD 制造_VV 出_VV 了_AS 高等_JJ 自由态_NN 的_DEC 负_VV 温度_NN 系统_NN ，_PU 该_DT 系统_NN 是_VC 由_P 钾_NN 原子_NN 组成_VV 的_DEC 量子_NN 气体_NN 。_PU
+
+
+

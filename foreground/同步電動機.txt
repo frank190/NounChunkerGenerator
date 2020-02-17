@@ -1,0 +1,20 @@
+﻿同步_AD 电动机_NN
+
+同步_AD 电动机_NN 是_VC 一_CD 种_M 交流_NN 电动机_NN ，_PU 转子_NN 旋转_NN 速度_NN 与_CC 所_MSP 提供_VV 交流电_NN 的_DEG 频率_NN 相同_VA 。_PU 原理_NN 是_VC 由_P 交流_NN 电_VV 在_P 电动机_NN 的_DEC 定子_NN 处_NN 产生_VV 旋转_NN 磁场_NN ，_PU 使_VV 电动机_NN 转子_NN 旋转_NN 。_PU
+
+在_P 同_DT 步_M 电动机_NN 的_DEG 转子_NN 有_VE 电磁铁_NN 或_CC 永久_JJ 磁铁_NN ，_PU 使用_VV 永久_JJ 磁铁_NN 的_DEC 称为_JJ 永磁_NN 同步_AD 电动机_NN ，_PU 若_CS 有_VE 电路_NN 提供_VV 转子_NN 电源_NN 的_DEC ，_PU 即_AD 属于_VV 。_PU 同步_AD 电动机_NN 的_DEC 定子_NN 所_MSP 产生_VV 的_DEC 磁场_NN 吸引_VV 转子_NN 磁场_NN 的_DEC 异极_NN ，_PU 由于_P 定子_NN 所_MSP 产生_VV 的_DEC 磁场_NN 是_VC 以_P 若干_CD 速度_NN 旋转_VV ，_PU 因此_AD 转子_NN 会_VV 随着_P 定子_NN 磁场_NN 的_DEG 旋转_NN 速度_NN ，_PU 以_P 相同_VA 的_DEC 速度_NN 旋转_VV 。_PU
+
+同步_AD 电动机_NN 的_DEG 特点_NN 是_VC 转_VV 速_AD 固定_VV ，_PU 不_AD 受_VV 电源_NN 电压_NN 的_DEG 影响_NN 。_PU 只要_CS 电动机_NN 的_DEG 负载_NN 低于_VV 其_PN 最_AD 大_JJ 转矩_NN ，_PU 转速_NN 也_AD 不_AD 会_VV 受_VV 负载_NN 的_DEG 影响_NN 。_PU 由于_P 这_DT 种_M 特性_NN ，_PU 同步_AD 电动机_NN 只_AD 能_VV 使用_VV 变频器_NN 由_P 调整_VV 电动机_NN 的_DEG 电源_NN 频率_NN 来_MSP \_PU 进行_VV 调速_NN 。_PU
+
+无载_VV 的_DEC 同步机_NN 即_AD 是_VC 同步_AD 调相机_NN （_PU SynchronousCondenser_NN ）_PU ，_PU 其_PN 电流_NN 相位_NN 超前_VV 于_P 电压_NN ，_PU 为_VC 一_CD 个_M 电容性_NN 负载_VV 。_PU 因此_AD ，_PU 若_CS 一_CD 供电_NN 系统_NN 的_DEG 负载_NN 为_VC 落后_JJ 功率_NN 因_P 数_NN ，_PU 可以_VV 无载_VV 的_DEC 同步_JJ 电动机_NN 来_MSP 改进_VV 其_PN 功率_NN 因_P 数_NN ，_PU 但_CC 此_DT 方法_NN 的_DEG 运作_NN 成本_NN 十_CD 分高_VV 。_PU 现在_NT ，_PU 电力_NN 公司_NN 可_VV 使用_VV 静止_AD 无_VE 功_NN 补偿器_NN （_PU S_OD t_M aticVARCompensator_NN ）_PU 来_MSP 提供_VV 无_VE 功功率_NN （_PU Q_NN ）_PU 。_PU
+
+其中_NN
+这里_PN
+
+如果_CS 负载_NN 增加_VV ，_PU 转矩角_NN 会_VV 增加_VV 。_PU 当_P 转矩角_NN 达到_VV 90_CD 度_M ，_PU 转矩_NN 达到_VV 最_AD 大_VA 值_SP 。_PU 如果_CS 负载_VV 再_AD 增加_VV ，_PU 电机_NN 将_AD 会_VV 失去_VV 同_DT 步_M 状态_NN 。_PU
+
+如果_CS 是_VC 发电机_NN ，_PU 则_AD 变成_VV
+其中_NN
+
+
+

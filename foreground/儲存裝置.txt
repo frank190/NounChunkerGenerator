@@ -1,0 +1,19 @@
+﻿储存_NN 装置_NN
+
+储存_NN 装置_NN 是_VC 用于_VV 储存_VV 资讯_NN 的_DEC 设备_NN 或_CC 装置_NN 。_PU 通常_AD 是_VC 将_BA 资讯_NN 数位化_NN 后_LC 再_AD 以_P 利用_VV 电_NN 、_PU 磁_NN 或_CC 光学_NN 等_ETC 方式_NN 的_DEC 媒体_NN 加以_VV 储存_NN 。_PU
+
+常见_JJ 的_DEG 储存_NN 装置_NN （_PU 电脑_NN 数据_NN 存贮器_NN ）_PU 有_VE ：_PU
+
+具体_VA 的_DEC 例子_NN 如_NN ：_PU
+
+内部_NN 存储器_NN 是_VC 可以_VV 被_LB 电脑_NN 的_DEC 中央_JJ 处理器_NN 直接_AD 访问_VV 而_CC 不_AD 需要_VV 通过_P 输入_VV 输出_NN 设备_NN 的_DEG 存储_NN 设备_NN 。_PU 内部_NN 存储器_NN 一般_AD 用来_VV 存储_VV 运算_NN 时_LC 的_DEG 数据_NN 。_PU 内存_NN 一般_JJ 速度_NN 很快_VA ，_PU 例如_AD 随机_VV 存储器_NN （_PU RAM_NN ）_PU 。_PU
+
+RAM_NN 也_AD 是_VC 非_AD 永久性_JJ 存储器_NN ，_PU 在_P 断电_NN 的_DEC 时候_NN ，_PU 将_BA 失去_VV 所_MSP 存储_VV 的_DEC 内容_NN 。_PU 只_AD 读_VV 存储器_NN 就_AD 不_AD 是易_AD 失去_VV 内容_NN 的_DEC ，_PU 但_CC 不_AD 适合_VV 用_VV 来_MSP 存储_VV 大量_CD 的_DEG 数据_NN ，_PU 因为_P 其_PN 造价_NN 的_DEG 昂贵_NN 。_PU 通常_AD ，_PU 只_AD 读_VV 存储器_NN 在_P 写_NN 内容_NN 进去_VV 之前_LC 也_AD 必须_VV 完全_VA 的_DEC 擦_VV 除_P 原来_JJ 的_DEG 内容_NN ，_PU 这_PN 使得_VV 大_JJ 规模_NN 的_DEG 使用_NN 它_NN 不_AD 切_VV 实际_AD 。_PU 所以_AD ，_PU 单独_JJ 的_DEG 辅助_JJ 存贮器_NN 或者_CC 叫_VV 外部_NN 存储器_NN 通常_AD 被_SB 用来_VV 保存_VV 长期_VA 的_DEC 稳定_VA 的_DEC 数据_NN 。_PU
+
+有_VE 时候_NN ，_PU 主_JJ 存储器_NN 这_DT 个_M 术语_NN 被_SB 混淆_VV 的_DEC 使用_VV 在_P 在_P 线_NN 存储_NN 和_CC 硬盘_NN 上_LC ，_PU 而_CC 这些_DT 都_AD 通常_AD 应归_VV 类为_P 辅助_JJ 存储器_NN 。_PU
+
+主_JJ 存储器_NN 可能_VV 包括_VV 几_CD 种_M 不同_VA 的_DEC 设备_NN ，_PU 例如_AD CPU_NN 缓存_NN ，_PU 以及_CC 特殊_VA 的_DEC 处理器_NN 寄存器_NN ，_PU 这些_DT 都_AD 能_VV 直接_AD 被_LB 处理器_NN 访问_NN ，_PU 主_JJ 存储器_NN 可以_VV 被_SB 随机_VV 的_DEC 访问_NN ，_PU 那就_AD 是_VC 在_P 任何_DT 时间_NN 访问_VV 任何_DT 位置_NN 都_AD 用_P 相同_VA 的_DEC 时间_NN 。_PU 典型_VA 的_DEC 位置_NN 信息_NN 使用_VV 内存_NN 的_DEC 物理_NN 地址_NN 。_PU 无论_AD 存储_VV 的_DEC 内容_NN 怎么_AD 变化_VV ，_PU 物理_NN 地址_NN 是_VC 不_AD 变的_VA 。_PU
+
+所有_DT 能_VV 与_P 计算机_NN 配合_VV 使用_VV ，_PU 方便_AD 进行_VV 信息_NN 储存_VV 的_DEC 物件_NN 都_AD 属于_VV 此_DT 类_M 设备_NN 。_PU 不_AD 一定_AD 带有_VV 转动_VV 的_DEC 部分_NN ，_PU 或_CC 位置_VV 于_P 计算机_NN 外部_NN 。_PU 如_P 以下_JJ 各_DT 例_NN ：_PU
+
+

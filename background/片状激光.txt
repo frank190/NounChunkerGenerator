@@ -1,0 +1,9 @@
+﻿片_NN 状_NN 激光_NN
+
+片状_JJ 激光_NN 是_VC 固体_NN 激光_NN 的_DEC 一_CD 种_M 形式_NN ，_PU 因_P 激光_JJ 媒介_NN 为_VC 片状_JJ 得名_NN
+。_PU 激_JJ 光束_NN 由_P 厚_VA 约_AD 80_CD 至_CC 200_CD 微米_NN 的_DEC 盘片_NN 制得_VV 。_PU
+这_DT 种_M 激光_NN 的_DEC 优点_NN 是_VC ，_PU 激光_JJ 晶体_NN 能够_VV 被_DER 更_AD 好_VA 的_DEC 冷却_NN ，_PU 以及_CC 更_AD 好_VA 的_DEC 光束_NN 质量_NN 和_CC 更_AD 高_VA 的_DEC 单位_NN 体积_NN 功率_NN 。_PU
+片状_JJ 激光_NN 通过_P 激光_JJ 二极管_NN 被_SB 激发_VV ，_PU 具有_VV 很_AD 高_VA 的_DEC 工作_NN 效率_NN （_PU 70%_CD ）_PU 。_PU
+片状_JJ 激光_NN 由_P 斯_DT 图_NN 加特_VV 大学_NN 的_DEG AdolfGiesen_NN 研发_VV 而_MSP 成_VV 。_PU
+
+

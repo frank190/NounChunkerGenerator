@@ -1,0 +1,10 @@
+﻿Sinc_VV 滤波器_NN
+
+在_P 信号_NN 处理_NN 领域_NN ，_PU 理想_NN 低_AD 通_VV 滤波器_NN 是_VC 指_VV 一_CD 个_M 全部_AD 除去_VV 给定_AD 带宽_VV 之上_LC 的_DEC 信号_NN 分量_NN 而_CC 只_AD 保留_VV 低频_NN 信号_NN 的_DEC 理想_JJ 电子_NN 滤波_NN 器_NN 。_PU 在_P 频域_NN 它_PN 的_DEG 形状_NN 象_P 一_CD 个_M 矩形_JJ 函数_NN ，_PU 在_P 时域_NN 它_PN 的_DEG 形状_NN 象_P 一_CD 个_M Sinc_NN 函数_NN 。_PU 由于_P 理想_VA 的_DEC 低通_JJ 滤波器_NN （_PU 人们_NN 熟知_VV 的_DEC "_PU 矩形_JJ 滤波器_NN "_PU ）_PU 有_VE 无限_JJ 的_DEG 延迟_NN ，_PU 所以_AD 现实_AD 世界_NN 中_LC 的_DEG 滤波器_NN 只_AD 能_VV 是_VC 它_PN 的_DEG 一_CD 个_M 近似_VA ，_PU 但是_CC 它_PN 仍然_AD 在_P 概念_NN 演示_VV 或者_CC 验证_NN 中_LC 得到_VV 了_AS 广泛_NN 应用_NN ，_PU 如_P 采样_NN 定理_NN 以及_CC Whittaker_NN –_CC Shannon_NN 插值_NN 公式_NN 。_PU
+
+从_P 数学_NN 的_DEG 角度_NN 来看_LC ，_PU 所_MSP 得到_VV 的_DEC 频率_NN 响应_NN 是_VC 矩形_JJ 函数_NN ：_PU
+
+其中_NN formula_NN 是_VC 一_CD 剪_M 切频率_NN （_PU 即_AD "_PU 带宽_VV "_PU ）_PU （_PU Hz_M ）_PU 。_PU 这_DT 个_M 滤波器_NN 的_DEG 脉冲_NN 响应_NN 用_P 逆傅立_VV 叶_NN 变换_NN 表示_VV 为_VC ：_PU
+
+
+

@@ -1,0 +1,5 @@
+﻿几_CD 何不_AD 稳定_VA 性_NN
+
+几何不_AD 稳定性_JJ 是凝_NN 聚体物_NN 理学_NN 中_LC 的_DEG 一_CD 种_M 特殊_JJ 现象_NN 。_PU 表现_VV 为_VC 由于_P 晶体_NN 结构_NN 本身_PN 的_DEG 几何_JJ 性质_NN 导致_VV 不_AD 存在_VV 唯一_JJ 的_DEG 能量_NN 最_AD 低_VA 态_SP ，_PU 因此_AD 具有_VV 一_CD 个_M 非_AD 零_CD 余熵_NN （_PU 在_P 温度_NN 为_VC 绝对_JJ 零度_NN 的_DEC 时候_NN ，_PU 整_DT 个_M 系统_NN 的_DEG 熵值_NN 不_AD 为_VC 零_CD ）_PU 。_PU 一_CD 个_M 常见_VA 的_DEC 几何_DT 不_AD 稳定性_JJ 的_DEG 离子_NN 就_AD 是_VC 冰_NN ，_PU 其_PN 余熵_NN 为_VC 3_CD ._PU 4_CD 焦_M 耳每_NN 开尔_VV 文_NN 每_DT 摩尔_M （_PU 3_CD ._PU 40_CD J/K_M /_PU mole_NN ）_PU 。_PU
+
+

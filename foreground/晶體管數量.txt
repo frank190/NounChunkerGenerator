@@ -1,0 +1,5 @@
+﻿晶_NN 体管_NN 数量_NN
+
+晶体管_NN 数量_NN （_PU ）_PU 是_VC 多少_JJ 晶体_NN 管导_NN 集成_JJ 电路_NN （_PU IC_NN ）_PU 。_PU 晶体管_NN 数量_NN 是_VC 集成_JJ 电路_NN 复杂性_JJ 的_DEG 最常_JJ 见测量_NN 指标_NN ，_PU 尽管_CS 存在_VV 一些_CD 警告_NN 。_PU 例如_AD ，_PU 大多_CD 数晶_NN 体管_NN 都_AD 包含_VV 在_P 现代_JJ 微_JJ 处理器_NN 的_DEG 高速_JJ 缓冲_NN 存储器_NN 中_LC ，_PU 这些_DT 微处理器_NN 主要_AD 由_P 多_CD 次_M 复制_VV 的_DEC 相同_JJ 存储_NN 单元_NN 电路_NN 组成_VV 。_PU 晶体管_NN 数量_NN 增加_VV 的_DEC 速率_NN 通常_AD 遵循_VV 摩尔_M 定律_NN ，_PU 该_DT 定律_NN 观察_VV 到_VV 晶体管_NN 数量_NN 大约_AD 每_DT 两_CD 年_M 增加_VV 一_CD 倍_M 。_PU 截至_NR 2017_CD 年_M ，_PU 市场_NN 上_LC 可_VV 买到_VV 的_DEC 单芯片_NN 处理器_NN 中_LC 晶体管_NN 数量_NN 最_AD 多_VA 的_DEC 晶体管_NN 数量_NN 为_VC 192亿_CD 个_M ，_PU 这_PN 是_VC AMD_NN 的_DEG Ryzen_NN 基_NN 於_P Epyc_NN 。_PU 在_P 其他_DT 类型_NN 的_DEG IC_NN 中_LC ，_PU 例如_AD 现场_NN 可_VV 编程_VV 门阵列_NN （_PU FPGA_VV ）_PU ，_PU 英特尔_NN （_PU 以前_NT 的_DEG Altera_NN ）_PU Stratix_VV 10_NOI 拥有_VV 最_AD 大_VA 的_DEC 晶体管_NN 数量_NN ，_PU 包含_VV 超过_VV 300亿_CD 个_M 晶体管_NN 。_PU
+
+

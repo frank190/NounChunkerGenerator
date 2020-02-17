@@ -1,0 +1,8 @@
+﻿空穴_NN 论证_NN
+
+空穴_JJ 论证_NN （_PU ）_PU 在_P 广义_NN 相对_AD 论_NN 中_LC 是_VC 一_CD 悖论_NN ，_PU 曾经_AD 在_P 阿尔_NN 伯特_NN ·_PU 爱因_VV 斯_DT 坦_CD 往场_NN 方程式_NN 前进_VV 的_DEC 路_NN 上_LC 带来_VV 疑惑_NN 与_CC 困扰_NN 。_PU 此_DT 一_CD 论证_NN 与_CC 「_PU 流形_JJ 实体论_NN 」_PU （_PU manifoldsubstantialis_NR m_ETC ）_PU 相对_VV 抗_VV ；_PU 流形_NN 本_DT 质论_NN 为_VC 一_CD 个_M 将_BA 时空_NN 中_LC 事件_NN 的_DEC 流形_NN 视为_VV 一_CD 实体_NN （_PU substance_NN ）_PU 之_DEG 学理_NN ，_PU 其_PN 存在_VV 独立于_VV 其_PN 内_LC 所_MSP 含_VV 物质_NN 。_PU
+
+广义_JJ 协变性_NN 指出_VV 自然_AD 定律_VV 在_P 所有_DT 参考_NN 系_NN 中_LC 必须_VV 相同_VA ，_PU 因此_AD 也_AD 在_P 所有_DT 座标_NN 系统_NN 中_LC 相同_VA 。_PU 这_DT 个_M 原则_NN 是_VC 阿尔伯_NR 特_ETC ·_PU 爱因_VV 斯_DT 坦_NN 在_P 选择_NN 重力_NN 理论_NN 的_DEC 场方_NN 程式_NN 的_DEC 一_CD 个_M 準据_NN 。_PU 在_P 1913_CD 年_M ，_PU 爱_VV 因斯_AD 坦_VV 在_P 建构_NN 广义相_AD 对论_VV 的_DEC 过程_NN 中_LC ，_PU 他_PN 了解_VV 到_VV 他_PN 所_MSP 发现_VV 的_DEC 一_CD 些事物_NN 相当_AD 惊人_VV ，_PU 这些_PN 是_VC 广义_JJ 协变性_NN 的_DEC 直接_NN 结果_NN 。_PU 他_PN 将_BA 这些_DT 困扰_NN 展示_VV 为_VC 所谓_JJ 的_DEG 「_PU 空穴_NN 论证_NN 」_PU 。_PU
+
+
+

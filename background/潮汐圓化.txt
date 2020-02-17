@@ -1,0 +1,7 @@
+﻿潮汐_NN 圆化_VV
+
+潮汐_NN 圆化_NN 是_VC 主要_JJ 天体_NN 作用_VV 在_P 轨道_NN 上天体_NN 的_DEC 潮汐力_NN 效应_NN ，_PU 会_VV 使_VV 轨道_NN 的_DEG 离心率_NN 随着_P 时间_NN 减小_VV ，_PU 让_VV 原本_NN 的_DEG 椭圆_NN 轨道_NN 越来越_AD 趋近_VV 于_P 圆形_JJ 轨道_NN 。_PU
+
+
+
+

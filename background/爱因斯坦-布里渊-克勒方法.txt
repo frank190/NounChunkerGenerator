@@ -1,0 +1,6 @@
+﻿爱因_VV 斯_DT 坦_NN -_PU 布_NN 里_LC 渊_SP -_PU 克勒_NN 方法_NN
+
+爱因_VV 斯_DT 坦_NN -_PU 布_NN 里_LC 渊_SP -_PU 克勒_NN 方法_NN （_PU 英文_NN ：_PU ）_PU 是_VC 量子_NN 力学_NN 中_LC 计算_VV 量子_NN 系统_NN 本_DT 征值_NN 的_DEC 一_CD 种_M 半_AD 经_P 典近_VV 似方法_NN ，_PU 也_AD 简称_VV 为_VC 方法_NN 。_PU 例如_AD 在_P 一_CD 个_M 具有_VV 任意_AD 满足_VV 束缚态_NN 条件_NN 的_DEG 中心势_NN 的_DEG 两体_JJ 系统_NN 中_LC ，_PU 运用_NN 方法_NN 可以_VV 建立_VV 量子化_NN 方程_NN 从而_AD 求解_VV 出_VV 系统_NN 的_DEC 能级_NN 。_PU 方法_NN 所_MSP 基于_VV 的_DEC 原理_NN 是_VC 能量_VV 的_DEC 守恒律_NN ，_PU 从而_AD 避免_VV 了_AS 牛顿_NN 力学_NN 或_CC 薛定谔_NN 的_DEC 波动_JJ 力学_NN 中_LC 的_DEG 微分_CD 方程_NN 形式_NN 。_PU
+
+
+

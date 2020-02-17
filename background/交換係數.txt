@@ -1,0 +1,5 @@
+﻿_NN 交换_NN 系数_NN
+
+在_P 流体_NN 力学_NN 中_LC ，_PU 交换_NN 系数_NN 又_AD 称_VV 涡流_NN 系数_NN 或_CC 涡流_NN 扩散率_NN ，_PU 是_VC 指_VV 湍流_NN 的_DEG 某_DT 一_CD 组分_NN 的_DEC 迁移率_NN 与_P 该_DT 组_M 分_NN 的_DEG 梯度_NN 之_DEG 比_NN 。_PU 交换_NN 系数_NN 可_VV 应用于_VV 气象_NN 学_NN 或_CC 海_NN 洋学_NN 。_PU
+
+

@@ -1,0 +1,8 @@
+﻿弹性_NN (_PU 物理学_NN )_PU
+
+在_P 物理学_NN 中_LC ，_PU 弹性_NN （_PU 来自_VV 希腊_NN 语ἐ_NN λα_NN στός_NN “_PU 可塑性_NN ”_PU ）_PU 是_VC 指物体_NN 受到_VV 外力_NN 时_LC 变形_VV ，_PU 并且_CC 当_P 该_DT 外力_NN 解除_VV 时_LC 恢复_VV 其_PN 初始_JJ 形状_NN 的_DEC 能力_NN 。_PU 固体_NN 物体_NN 受到_VV 外力_NN 时_LC 将_BA 变形_NN 。_PU 如果_CS 材料_NN 是_VC 弹性_JJ 的_DEG ，_PU 当_P 这些_DT 力_NN 被_SB 移除_VV 时_LC ，_PU 物体_NN 将_BA 返回_VV 到_VV 其_PN 初始_JJ 形状_NN 。_PU
+弹性_NN 是_VC 物体_NN 具有_VV 的_DEC 一_CD 项_M 物理_NN 性质_NN 。_PU 如果_CS 一_CD 种_M 材料_NN 在_P 应力_NN 下_LC 发生_VV 形变_NN ，_PU 应力_NN 撤销_VV 后_LC 又_AD 恢复_VV 到_VV 原来_JJ 的_DEG 形状_NN ，_PU 这_DT 种_M 材料_NN 被_SB 称为_VV 具有_VV 弹性_NN 。_PU 形变_VV 的_DEC 大小_NN 称为_VV 应变_NN 。_PU
+
+
+
+

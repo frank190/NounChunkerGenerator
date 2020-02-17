@@ -1,0 +1,9 @@
+﻿_CD IEEE_NN -_PU 488_CD
+
+IEEE_NN -_PU 488_CD 是_VC 一_CD 种_M 用于_VV 短程_NN 通信_NN 的_DEG 总线_NN 规范_NN 。_PU
+
+在_P 一_CD 个_M GPIB_NN 标准_NN 接口_NN 总线_NN 系统_NN 中_LC ，_PU 要_VV 进行_VV 有效_VA 的_DEC 通信_NN 联络_NN 至少_AD 有_VE 至多_CD 一_CD 个_M 在_P 工作_VV 的_DEC “_PU 讲者_NN ”_PU 、_PU 多个_NN “_PU 听者_NN ”_PU 、_PU 1_CD 个_M “_PU 控者_NN ”_PU 三_CD 类_M 仪器_NN 装置_NN 。_PU
+G_CD PIB_M 并行_VV 总线_NN 的_DEG 组成_NN ：_PU
+在_P GPIB_NN 控制器_NN 中_LC ，_PU 把_BA 器件_NN 与_CC GPIB_NN 总线_NN 的_DEC 一_CD 种_M 交互_NN 作用_NN 定义_VV 成_VV 一_CD 种_M 接口_NN 功能_NN 。_PU G_CD P_M IB_NN 标准_NN 接口_NN 共_AD 定义_VV 了_AS 10_CD 种_M 接口_NN 功能_NN
+
+

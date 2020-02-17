@@ -1,0 +1,11 @@
+﻿_CD Ku_NN 波段_NN
+
+根据_P IEEE521_NN -_PU 2002_CD 标准_NN ，_PU K_NN 波段_NN 是_VC 指_VV 频率_NN 在_P 12_CD -_PU 18_CD GHz_M 的_DEC 无线_JJ 电波_NN 波段_NN 。_PU K_NN 即_AD “_PU K_NN -_PU under_NN ”_PU （_PU ）_PU ，_PU 表示_VV 比_P IEEE521_NN -_PU 2002_CD 标准_NN 下_LC 的_DEG K_NN 波段_NN 的_DEG 频率_NN 低_VA 。_PU
+
+在_P 太空_VV ，_PU K_NN 波段_NN 可_VV 用作_VV 卫星_NN 之间_LC 的_DEG 通信_NN 波段_NN ，_PU 如_P 国际_NN 空间站_NN 和_CC 航天_NN 飞机_NN 通信_NN 用_VV 的_DEC 跟踪_NN 与_CC 数据_NN 中_LC 继_P 卫星_NN （_PU TDRS_NN ）_PU 也_AD 有_VE 使用_VV K_NN 波段_NN 。_PU 在_P 卫星_NN 广播_VA 领域_NN 里_LC ，_PU K_NN 波段_NN 是_VC 一_CD 个_M 常_AD 用_VV 的_DEC 波段_NN 。_PU
+
+在_P 卫星_NN 电视_NN 广播_NN 中_LC ，_PU 接收_VV Ku_NN 波段_NN 数字_NN 卫星_NN 信号_NN 的_DEG 天线_NN 口径_NN 较_AD C_NN 波段_NN 小_VA 。_PU 假设_JJ 天线_NN 的_DEG 口面_NN 效率_NN 为_VC 60％_CD ，_PU 直径_NN 为_VC 1m_CD 的_DEG 天线_NN 工作_VV 在_P 波长_NN 为_VC 25_CD mm_M 的_DEG Ku_NN 波段_NN 时_LC ，_PU 能够_VV 达到_VV 的_DEC 增益_NN 为_VC 39_CD ._PU 8_CD dB_M ；_PU 而_CC 在_P 同_DT 一_CD 地点_NN 在_P 同_DT 样_M 口面_NN 效率_NN 的_DEC 条件_NN 下_LC 工作_VV 在_P 波长_NN 为_VC 75_CD mm_M 的_DEG C_NN 波段_NN 时_LC ，_PU 要_VV 达到_VV 同样_AD 增益_VV 的_DEC 情况_NN ，_PU 则_AD 需要_VV 直径_AD 为_VC 3_CD m_NN 的_DEG 天线_NN 。_PU
+
+当_P 电波_NN 穿透_VV 大气层_NN 进入_VV 降雨_NN 或_CC 降雪_NN 区域_NN 时_LC ，_PU 雨滴_NN 或_CC 雪花_NN 对_P 电波_NN 产生_VV 吸收_NN 和_CC 散射_NN ，_PU 造成_VV 或_CC 多_VA 或_CC 少_VA 的_DEC 雨致_NN 衰减_VV 或_CC 雪致_VV 衰减_VV ，_PU 简称_VV 雨衰_NN 或_CC 雪衰_NN 。_PU 因为_P Ku_NN 波段_NN 的_DEG 最_AD 大_JJ 波长_NN 为_VC 2.5_CD cm_NN ，_PU 与_P 雨滴_NN 或_CC 雪花_NN 的_DEG 线度_NN 接近_VV ，_PU 所以_AD Ku_NN 波段_NN 受_VV 雨衰_NN 和_CC 雪衰_NN 的_DEG 影响_NN 比较_NN 大_VA 。_PU 而_CC 降雨量_NN 越_AD 大_VA ，_PU 衰减_VV 越_AD 大_VA ，_PU 降雪_NN 的_DEC 时候_NN ，_PU 一_CD 部分_NN 的_DEG 雪会_NN 在_P 空中_NN 形成_VV 雨滴_NN ，_PU 又_AD 会_VV 加剧_VV 衰减_VV 的_DEC 程度_NN 。_PU
+
+

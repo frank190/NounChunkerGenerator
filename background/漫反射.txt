@@ -1,0 +1,26 @@
+﻿漫_NN 反射_NN
+
+漫反射_NN （_PU 简称_JJ 漫射_NN ，_PU 英语_NN diffusereflection_NN ）_PU 是_VC 光线_NN 照射_VV 在_P 物体_NN 粗糙_NN 的_DEC 表面_NN 会_VV 无序_AD 地向_VV 四_CD 周_M 反射_NN 的_DEC 现象_NN 。_PU
+漫_AD 反射_VV ，_PU 是_VC 投射_NN 在_P 粗糙_NN 表面_NN 上_LC 的_DEC 光_NN 向_P 各_DT 个_M 方向_NN 反射_VV 的_DEC 现象_NN 。_PU 当_P 一_CD 束_M 平行_VV 的_DEC 入射_NN 光线_NN 射_NN 到_VV 粗糙_NN 的_DEC 表面_NN 时_LC ，_PU 表面_NN 会_VV 把_BA 光线_NN 向着_P 四_CD 面_NN 八_CD 方_NN 反射_VV ，_PU 所以_AD 入射_VV 线_NN 虽然_CS 互相_AD 平行_VV ，_PU 由于_P 各_DT 点_NN 的_DEG 法线_NN 方向_NN 不_AD 一致_VA ，_PU 造成_VV 反射光_NN 线向_NN 不同_VA 的_DEC 方向_NN 无_VE 规则_VA 地_DEV 反射_VV ，_PU 这_DT 种_M 反射称_NN 之为_LC “_PU 漫_NN 反射_NN ”_PU 或_CC “_PU 漫射_NN ”_PU 。_PU 这_DT 种_M 反射_NN 的_DEC 光称_NN 为_VC 漫射光_NN 。_PU 很多_CD 物体_NN ，_PU 如_P 植物_NN 、_PU 墙壁_NN 、_PU 衣服_NN 等_ETC ，_PU 其_PN 表面_NN 粗_VV 看起_VV 来_MSP 似乎_VV 是_VC 平滑_VA ，_PU 但_AD 用_P 放大镜_NN 仔细_JJ 观察_NN ，_PU 就_AD 会_VV 看到_VV 其_PN 表面_NN 是_VC 凹凸_JJ 不平_JJ 的_DEG ，_PU 所以_AD 本来_AD 是_VC 平行_VV 的_DEC 太阳_NN 光_AD 被_SB 这些_DT 表面_NN 反射_VV 后_LC ，_PU 弥漫_VV 地_DEC 射向_NN 不同_JJ 方向_NN 。_PU
+
+由于_P 物体_NN 通常_AD 表面凹_NN 凸不_NN 平_VA ，_PU 因此_AD 漫_DEV 反射_VV 是_VC 大_JJ 自然_NN 中_LC 最_AD 普遍_NN 的_DEC 表面_NN 反射_NN 方式_NN 。_PU 这_DT 种_M 无_VE 方向性_JJ 的_DEG 反射_NN 可以_VV 从_P 反射面_NN 同侧_VV 的_DEC 任何_DT 角度_NN 观测_VV 到_VV 亮度_NN 减弱_VV 的_DEC 入射光_NN 。_PU
+
+通过_P 表面_NN 抛光_VV 处理_NN 可以_VV 减少_VV 漫反射_NN 。_PU
+漫_AD 反射_VV 是_VC 指_VV 光线_NN 被_SB 粗糙_VV 表面_NN 无_VE 规则_VA 地_DEV 向_P 各_DT 个_M 方向_NN 反射_VV 的_DEC 现象_NN 。_PU 很多_CD 物体_NN ，_PU 如_P 植物_NN 、_PU 墙壁_NN 、_PU 衣服_NN 等_ETC ，_PU 其_PN 表面_NN 粗_VV 看起_VV 来_MSP 似乎_VV 是_VC 平滑_VA ，_PU 但_AD 用_P 放大镜_NN 仔细_JJ 观察_NN ，_PU 就_AD 会_VV 看到_VV 其_PN 表面_NN 是_VC 凹凸_JJ 不平_JJ 的_DEG ，_PU 所以_AD 本来_AD 是_VC 平行_VV 的_DEC 太阳_NN 光_AD 被_SB 这些_DT 表面_NN 反射_VV 后_LC ，_PU 就_AD 弥漫_VA 地_DEV 射向_VV 不同_JJ 方向_NN 。_PU
+
+当_P 一_CD 束_M 平行_JJ 光触_NN 及_CC 光滑_JJ 物体_NN 表面_NN 时_LC ，_PU 光线_NN 则_AD 发生_VV 规律性_NN 反射_NN ，_PU 反射_VV 后_LC 的_DEG 光线_NN 也_AD 相互_AD 平行_VV ，_PU 这_DT 种_M 规律性_NN 反射称_NN 为光_VV 的_DEC 单向_JJ 反射_NN 或_CC 镜面_NN 反射_NN 。_PU 但物体_NN 的_DEC 光滑_NN 程度_NN 是_VC 相对_VV 的_DEC ，_PU 而_CC 一般_AD 物体_NN 的_DEC 表面_NN 多_CD 粗糙_NN 不_AD 平_VA ，_PU 入射线_NN 虽然_CS 为_VC 平行_JJ 光线_NN ，_PU 但_AD 反射_VV 后_LC 的_DEG 光线_NN 则_AD 向_P 各_DT 个_M 方向_NN 分散_VV ，_PU 此_DT 种_M 现象_NN 为_VC 光_NN 的_DEC 漫_NN 反射_VV 。_PU
+
+人眼_NN 之所以_AD 能_VV 看清_VV 物体_NN 的_DEC 全貌_DT ，_PU 主要_AD 是_VC 靠_P 漫_NN 反射光_NN 在_P 眼_NN 内_LC 的_DEG 成像_NN 。_PU 如_AD 是_VC 全部_DT 单向_JJ 反射_NN 的_DEC 物体_NN 表面_NN ，_PU 不但_CC 看_VV 不_AD 清_VV 物体_NN 的_DEG 外貌_NN ，_PU 还_AD 会_VV 引起_VV 某_DT 一_CD 方向_NN 上_LC 的_DEG 眩光_NN 干扰_NN 现象_NN 。_PU
+
+漫_AD 反射_VV 的_DEC 每_DT 条_M 光线_NN 均_AD 遵循_VV 反射_NN 定律_VV 。_PU 平行_VV 光束_NN 经_P 漫_PN 反射_VV 后_LC 不_AD 再_AD 是_VC 平行_JJ 光束_NN 。_PU 由_P 漫反射_NN 形成_VV 的_DEC 物体_NN 亮度_NN ，_PU 一般_AD 视_VV 光源_NN 强度_NN 和_CC 反射面_NN 性质_NN 而_MSP 定_VV 。_PU
+
+人们_NN 根据_P 漫_CD 反射_NN 原理_NN ，_PU 测量_NN 光通量_NN 的_DEG 大小_NN 。_PU 各_DT 种_M 用来_VV 接收_VV 光学_NN 系统_NN 所_MSP 成_VV 实_AD 像_VA 的_DEC 屏幕_NN ，_PU 均_AD 应_VV 采用_VV 漫_NN 反射率_NN 高_VA 的_DEC 漫_NN 反射面_NN 做成_VV 。_PU 实验室_NN 中_LC ，_PU 常用_JJ 毛玻璃_NN 的_DEG 漫_NN 反射面_NN 做扩展_NN 光源_NN 。_PU 电影_NN 院里_NN ，_PU 人_NN 能_VV 在_P 不同_VA 的_DEC 座位_NN 上_LC 看到_VV 银幕_NN 上_LC 的_DEG 画面_NN ，_PU 这_PN 是_VC 因为_P 光_AD 在_P 银幕_NN 上_LC 形成_VV 了_AS 漫_PN 反射_VV 。_PU 电影_NN 院_NN 的_DEG 银幕_NN 、_PU 投影幕_NN 布_NN 都_AD 是_VC 生活_NN 中_LC 最_AD 常见_VA 的_DEC 漫_NN 反射_NN 例子_NN 。_PU
+
+人们_NN 依靠_AD 漫_DEV 反射_VV 现象_NN 才_AD 能_VV 从_P 不同_JJ 方向_NN 看到_VV 物体_NN 。_PU 在_P 环境_NN 光学_NN 中_LC ，_PU 常_AD 把_BA 无_VE 光泽_NN 的_DEC 饰面_NN 材料_NN 近似_VA 地_DEV 看作_VV 均匀_VA 漫_DEV 反射_VV 表面_NN ，_PU 吸声_NN 材料_NN 测试_VV 用_VV 的_DEC 混响室_NN 具有_VV 足够_VA 的_DEC 扩散_NN ，_PU 保持_VV 著_AS 其_PN 墙面_NN 满足_VV 漫_NN 反射_NN 条件_NN 。_PU
+
+积分球（_JJ integratingsphere_NN ）_PU ，_PU 是_VC 具有_VV 高_JJ 反射性_NN 内_JJ 表面_NN 的_DEC 空心_JJ 球体_NN 。_PU 用来_VV 对_P 处_NN 於_P 球_NN 内_LC 或_CC 放_VV 在_P 球外_NN 并_CC 靠近_VV 某_DT 个_M 窗口_NN 处_NN 的_DEC 试样_NN 对_P 光_PN 的_DEG 散射_NN 或_CC 发射_NN 进行_VV 收集_VV 的_DEC 一_CD 种_M 高_JJ 效率_NN 器件_NN 。_PU 球_NN 上_LC 的_DEG 小_JJ 窗口_NN 可以_VV 让_VV 光_NN 进入_VV 并_CC 与_P 检测器_NN 靠_VV 得_DER 较_AD 近_VA 。_PU 积分球_NN 基本_VA 的_DEC 特征_NN 就_AD 是_VC 光学_NN 中_LC 最_AD 通用_JJ 仪器_NN 的_DEC 一_CD 种_M ，_PU 光能_NN 的_DEC 应用_NN 在_P 各_DT 方面_NN 都_AD 在_P 增多_VV 。_PU 例如_AD 纤维_NN 光学_NN 、_PU 激光_JJ 技术_NN 、_PU 照相_NR 化学_NN 和_CC 医学_NN 技术_NN 积分_NN 球_VV 在_P 这些_DT 领域_NN 都_AD 获得_VV 了_AS 广泛_VA 的_DEC 应用_NN ，_PU 并_CC 正在_NT 改进_VV 和_CC 取代_VV 那些_DT 结构_NN 复杂_VA 、_PU 价格_NN 昂贵_VA 的_DEC 光学_NN 系统_NN 。_PU 由于_P 积分_AD 球_VV 内_JJ 表面_NN 具有_VV 超高_JJ 反射_NN 和_CC 散射_NN 的_DEC 特性_NN ，_PU 所以_AD 它_PN 具有_VV 独特_VA 的_DEC 接收_VV 发_VV 射光_NN 的_DEG 性能_NN 。_PU 光_AD 在_P 均匀_AD 分布_VV 的_DEC 球壁_NN 作_VV 无_VE 规则_VA 的_DEC 反射_NN ，_PU 使_VV 能量_NN 可以_VV 作_VV 準确_VA 地_DEV 测量_VV ，_PU 正_AD 由于_P 积分_AD 球_VV 有_VE 此_DT 特性_NN ，_PU 改变_VV 它_PN 的_DEG 窗口_NN 位置_NN 及_CC 几何_DT 结构_NN ，_PU 就_AD 可以_VV 获得_VV 各_DT 种_M 不同_VA 的_DEC 应用_NN 。_PU
+
+物质_NN 表面_NN 不_AD 可能_VV 做到_VV 完全_AD 平整_VA 无_VE 滑_NN ，_PU 因此_AD 相对于_P 全_AD 反射_VV ，_PU 漫_AD 反射_VV 是_VC 自然_JJ 界_NN 更加_AD 普遍_AD 存在_VV 的_DEC 反射_NN 型态_NN 。_PU 隐身_NN 原理_NN 的_DEC 一_CD 条_M 就_AD 是_VC 增加_VV 机体_NN 的_DEG 粗糙_NN 程度_NN ，_PU 提高_VV 漫_NN 反射_NN 能_VV 力_NN ，_PU 使_VV 照射_VV 到_VV 机体_NN 的_DEG 雷达_NN 波_NN 散射_VV 最_AD 小_JJ 程度_NN 地_DEV 被_SB 原_VV 方向_NN 反射_VV 。_PU 而_MSP 探测_VV 隐身物体_NN 的_DEG 原理_NN 是_VC 建立_VV 多_CD 个_M 雷达_NN 接收_VV 站_VV 尽量_NN 从_P 多_VA 方向_NN 观察_VV 到_VV 被_LB 机体_NN 漫_NN 反射_VV 的_DEC 雷达_NN 波_NN 。_PU
+
+
+

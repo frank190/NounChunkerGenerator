@@ -1,0 +1,13 @@
+﻿任_VV 意子_NN (_PU 电路_NN )_PU
+
+任意子_NN （_PU norator_NN ）_PU 为_VC 电子学_NN 中_LC 理想_VV 的_DEC 非线性_JJ 非_JJ 时变_NN 单_AD 埠_LB 网路_NN ，_PU 端点_NN 之间_LC 的_DEC 电流_NN 及_CC 电压_NN 可以_VV 为_VC 任意值_NN 。_PU 任意_NN 子代_NN 表增_VV 益_NN 无限_AD 大_VA 的_DEC 电压源_NN 或_CC 是_VC 电流源_NN 。_PU
+
+在_P 电路_NN 中_LC 加入_VV 一_CD 个_M 任意子_NN ，_PU 就_AD 可以_VV 提供_VV 依照_JJ 基尔_NN 霍夫_NN 电路_NN 定律_NN 计算_VV 后_LC ，_PU 电路_NN 所_MSP 需要_VV 的_DEC 电流_NN 及_CC 电压_NN 。_PU 例如_AD 理想_VV 放大器_NN 的_DEG 输出_NN 就_AD 类似任_VV 意子_NN ，_PU 配合_NN 电路_NN 需求_NN 产生_VV 需要_VV 的_DEC 电流_NN 及_CC 电压_NN 。_PU
+
+任意子_NN 会_VV 和_P 零极子_NN （_PU Nullator_NN ，_PU 电压_NN 及_CC 电流_NN 均_AD 为_VC 零_CD 的_DEC 元件_NN 配对_VV ，_PU 以_MSP 形成_VV 零_CD 任偶_M （_PU Nullor_M ）_PU 。_PU
+
+若_CS 任意子_NN 和_CC 零极子_NN 并联_VV ，_PU 结果_NN 类似_NN 短路_NN （_PU 零_CD 电压_NN ，_PU 电流_NN 为_VC 任意值_NN ）_PU 。_PU 若_CS 任意子_NN 和_CC 零极子_NN 串联_VV ，_PU 结果_AD 类似_VV 开路_NN （_PU 零_CD 电流_NN ，_PU 电压_NN 为_VC 任意值_NN ）_PU 。_PU
+
+
+
+

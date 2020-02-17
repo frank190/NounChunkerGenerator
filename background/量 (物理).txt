@@ -1,0 +1,18 @@
+﻿量_NN (_PU 物理_NN )_PU
+
+量_NN ，_PU 是_VC 作为_P 幅度_NN 和_CC 重复_NN 次数_NN 出现_VV 的_DEC 一_CD 种_M 属性_VV 。_PU 它_PN 和_CC 品质_NN 、_PU 实质_NN 、_PU 变化_NN 、_PU 关系_P 一_CD 样_M 是_VC 事物_NN 的_DEC 一_CD 种_M 基本_AD 类别_VV 。_PU 数量_NN 的_DEG 概念_NN 始于_VV 份额_NN ，_PU 也就是_AD 可以_VV 带有_VV 数量_NN 的_DEG 实体_NN 。_PU 作为_P 一_CD 个_M 基本_NN 的_DEG 词汇_NN ，_PU 数量_NN 被_SB 用于_VV 指代事物_VV 的_DEC 任何_DT 量化_VV 的_DEC 属性_NN 或_CC 特征_NN 。_PU 有_VE 些量_NN 由_P 其_PN 本质_NN 决定_NN （_PU 譬如_NN ，_PU 数_CD ）_PU ，_PU 而_CC 另外_AD 一些_CD 是_VC 作为_P 对_P 状态_NN 的_DEC 描述_JJ （_PU 属性_JJ ，_PU 尺寸_NN ，_PU 特征_NN ）_PU ，_PU 譬如_AD 重_AD 和_CC 轻_VA ，_PU 长_VA 和_CC 短_VA ，_PU 宽_VA 和_CC 窄_VA ，_PU 大_VA 和_CC 小_VA ，_PU 多_VA 和_CC 少_VA 。_PU
+
+量_NN 的_DEG 两_CD 个_M 基本_JJ 分类_NN ，_PU 幅度_NN 和_CC 重次_NN （_PU 或者_CC 数字_NN ）_PU ，_PU 蕴涵_VV 了_AS 连续_VV 和_CC 离散_VV 的_DEC 重大_JJ 区别_NN 。_PU
+
+属于_VV 重次_JJ 的_DEG 量_NN 是_VC 离散_P 的_DEC ，_PU 可以_VV 分解_VV 成_VV 不_AD 可_VV 再_AD 分_VA 的_DEC 单位_NN ，_PU 譬如_AD 集合_VV 名词_NN ：_PU "_PU 军队_NN ，_PU 舰队_NN ，_PU 羊群_NN ，_PU 政府_NN ，_PU 公司_NN ，_PU 聚会_NN ，_PU 人群_NN ，_PU 合唱团_VV ，_PU 数_NN "_PU 。_PU 属于_VV 幅度_NN 的_DEC 是_VC 连续_VV 的_DEC ，_PU 可以_VV 一直_AD 分解_VV 下去_NT ，_PU 包括_VV 所有_DT 非_AD 集合_JJ 名词_NN ：_PU "_PU 宇宙_NN ，_PU 物质_NN ，_PU 能量_VV ，_PU 液体_NN ，_PU 材料_NN "_PU 。_PU
+
+和_CC 对_P 其_PN 本质_NN 和_CC 分类_NN 的_DEG 分析_NN 一起_AD ，_PU 量_NN 的_DEG 问题_NN 涉及_VV 很多_CD 密切_NN 相关_VV 的_DEC 课题_NN ，_PU 譬如_VV 幅度_NN 和_CC 重次_NN 的_DEC 关系_NN ，_PU 量纲_NR ，_PU 等式_NR ，_PU 比例_NR ，_PU 测量_VV ，_PU 测量_NN 单位_NN ，_PU 数_CD 和_CC 数系_NN ，_PU 数_NN 的_DEG 类型_NN 和_CC 它们_PN 的_DEG 关系_NN 。_PU
+
+这样_AD ，_PU 量_NN 是_VC 存在_VV 于_P 幅度_NN 和_CC 重次_NN 的_DEC 范围_NN 内_LC 的_DEG 一_CD 种_M 属性_VV 。_PU 质量_NN 、_PU 时间_NN 、_PU 距离_NN 、_PU 热_NN 和_CC 角度_NN 都_AD 是_VC 量化_VV 属性_JJ 的_DEG 常见_JJ 例子_NN 。_PU 连续_JJ 量_NN 的_DEG 两_CD 个_M 幅度_NN ，_PU 可以_VV 互_AD 相用_VV 一_CD 个_M 比例_NN 表达_VV ，_PU 而_CC 它_PN 是_VC 一_CD 个_M 实数_NN 。_PU
+
+量_NN 的_DEG 概念_NN 自古_AD 即有_VV ，_PU 可以_VV 追溯_VV 到_VV 亚里士_NN 多德_VA 的_DEC 时代_NN 或_CC 更_AD 早_VA 。_PU 亚里士_NN 多德_CD 将量_NN 作为_P 一_CD 个_M 基本_NN 的_DEC 本体_JJ 论_NN 的_DEG 和_CC 科学_NN 的_DEG 类别_NN 。_PU 在_P 亚里_NN 士_NN 多德_VA 的_DEC 本_DT 体论_NN 中_LC ，_PU 量_NN 或者_CC 量子_NN 被_SB 分类_AD 为_VC 不同_VA 的_DEC 类型_NN ，_PU 他_PN 总结_AD 如下_VV ：_PU
+
+数量_NN 的_DEG 一些_CD 进一步_JJ 的_DEG 例子_NN 有_VE ：_PU
+
+
+

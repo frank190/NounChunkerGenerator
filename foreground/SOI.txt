@@ -1,0 +1,15 @@
+﻿SOI_Err
+
+SOI_CD 全名_NN 为_VC SiliconOnInsulator_NN ，_PU 是_VC 指硅_NN 电晶体_NN 结构_NN 在_P 绝缘体_NN 之上_LC 的_DEG 意思_NN ，_PU 原理_NN 就_AD 是_VC 在_P 硅_NN 电晶体_NN 之间_LC ，_PU 加入_VV 绝缘体_NN 物质_NN ，_PU 可_VV 使_VV 两_CD 者_NN 之间_LC 的_DEG 寄生_NN 电容_NN 比_P 原来_VV 的_DEC 少_NN 上_LC 一_CD 倍_M 。_PU 优点_NN 是_VC 可以_VV 较_AD 易_AD 提升_VV 时_LC 脉_LC ，_PU 并_CC 减少_VV 电流_NN 成_VV 为_P 省电_NN 的_DEG IC_NN ，_PU 在_P 制程_NN 上_LC 还_AD 可以_VV 省_VV 略_BA 部分_CD 光罩_NN 以_MSP 节省_VV 成本_NN ，_PU 因此_AD 不论_AD 在_P 制程_NN 上_LC 或是_CC 电路_NN 上_LC 都_AD 有_VE 其_PN 优势_NN 。_PU 此外_AD ，_PU 在_P SOI_NN 晶圆_NN （_PU SOIwafer_JJ ）_PU 本身_JJ 基板_NN 的_DEG 阻抗值_NN 的_DEC 部分_NN 也_AD 会_VV 影响_VV 到_VV 元件_NN 的_DEG 表现_NN ，_PU 因此_AD 后来_NT 也_AD 有_VE 公司_NN 在_P 基板_NN 上_LC 进行_VV 阻抗值_NN 的_DEC 调整_NN ，_PU 达到_VV 射频_NN 元件_NN （_PU Radiofrequencycomponent_NN 、_PU RFcomponent_NN ）_PU 特性_NN 的_DEC 提升_NN 。_PU 原本应_AD 通过_P 交换器_NN 的_DEG 电子_NN ，_PU 有些_DT 会_VV 钻入_VV 硅_NN 中_LC 造成_VV 浪费_NN ；_PU S_CD OI_M 可_VV 防止_VV 电子_NN 流失_NN ，_PU 与_P 补强_NN 一些_CD 原本_JJ Bulkwafer_NN 中_LC CMOS_NN 元件_NN 的_DEC 缺点_NN 。_PU 摩托_NN 罗拉_NN 宣称_NN 中_LC 央处理器_VV 可_VV 因_P 此_PN 提升_VV 时_LC 脉_VV 20%_CD ，_PU 并_CC 减低_VV 耗电_NN 30%_CD 。_PU 除_P 此_PN 之外_LC ，_PU 还_AD 可_VV 以_P 减少_VV 一些_CD 有害_VA 的_DEC 电气_NN 效应_NN 。_PU 还_AD 有_VE 一点_NN ，_PU 可以_VV 说_VV 是_VC 很多_JJ 超频_NN 玩家_NN 所_MSP 感_VV 兴趣_NN 的_DEC ，_PU 那就_AD 是_VC 它_PN 的_DEG 工作_NN 温度_NN 可_VV 高_JJ 达_VV 300_CD °C_M ，_PU 减少_VV 过热_VV 的_DEC 问题_NN 。_PU
+
+S_OD O_M I一_NN 开始_VV 是_VC 由_P 美商_NN IBM_NN 公司_NN 的_DEC 芯片_NN 部门_NN 投入_VV 开发_VV ，_PU 最早_AD 用于_VV Macintosh_NN 电脑_NN （_PU MAC_NN ）_PU 的_DEC PowerPCG4_NN 处理器_NN ，_PU 除了_P IBM_NN 外_LC ，_PU 还_AD 有_VE Motorola_NN 、_PU 德_NN 州仪器_NN （_PU TI_NN ）_PU 、_PU NEC_NN 等_ETC 公司_NN 投入_VV SOI_NR 技术_NN 的_DEG 开发_NN 工作_NN ，_PU 但是_CC Intel_NN 公司_NN 拒绝_VV 在_P 其_PN 处理器_NN 产品_NN 中_LC 使用_VV SOI_NR 技术_NN ，_PU 因为_P 其_PN 认为_VV SOI_NN 技术_NN 容易_AD 影响_VV 晶圆_NN 品质_NN 与_CC 减低_VV 电晶体_NN 交换_NN 速度_NN ，_PU 并且_CC SOI_NR 上_NN 接合_VV 点_NN 也_AD 会_VV 减少_VV ，_PU 也就是_AD 一般_JJ 制程_NN 中_LC 「_PU 」_PU 的_DEG 缺点_NN 所_MSP 烦恼_VV 。_PU
+
+SOI_CD 行业_NN 联盟_NN 是_VC 负责_NN 推广_VV SOI_NN 技术_NN ，_PU 成员_NN 包括_VV SOI_NN 技术_NN 的_DEG 发明者_NN IBM_NN 及_CC 一些_CD 半导体_NN 公司_NN ，_PU 例如_AD AMD_NN 和_CC NVIDIA_NN ，_PU 而_CC Intel_NN 并_AD 未_AD 加入_VV 该_DT 组织_NN 。_PU
+
+
+
+
+
+
+
+

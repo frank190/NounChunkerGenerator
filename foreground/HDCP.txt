@@ -1,0 +1,36 @@
+﻿HDCP_Err
+
+高清_JJ 数位_NN 内容_NN 保护_NN （_PU HDCP_NN ，_PU H_CD igh_M -_PU BandwidthDigitalContentProtection_NN ）_PU ，_PU 是_VC 由_P 英特尔_NR 公司_NN 所_MSP 发展_VV ，_PU 用以_VV 确保_VV 数位化_NN 的_DEG 影像_NN 与_P 声音_NN 资料_NN 在_P 透过_P DVI_NN 或_CC HDMI_NN 介面_NN 传送_VV 时_LC 不_AD 至於_AD 遭到_VV 非法_AD 拷贝_VV 。_PU HDCP_M 的_DEG 规格_NN 受到_VV 多_CD 项_M 专利权_NN 保护_NN ，_PU 任何_DT 人_NN -_PU {_NN 欲_VV }_PU -_PU 实作_NN HDCP_NN 必须_VV 申请_NN 授权_VV 。_PU
+
+HDCP_CD 的_DEG 授权_NN 管理_NN 是_VC 由_P 英特尔_NR 的_DEC 子_NN 公司_NN 「_PU 数位_NN 内容_NN 保护_VV 公司_NN 」_PU （_PU DigitalContentProtection_NN ,_PU LLC_NN ）_PU 负责_NN 。_PU 除了_P 交付授_NN 权金_NN 之外_LC ，_PU 生产_VV HDCP_NN 相容_JJ 设备_NN 的_DEG 厂商_NN 必须_VV 限制_VV 其_PN 产品_NN 功能_NN ，_PU 例如_AD 高清_JJ 画面_NN （_PU 分辨率_NN 超过_VV 480_CD p者_M ）_PU 在_P 透过_JJ 产品_NN 上_LC 不_AD 支援_VV HDCP_NN 的_DEC 介面_NN 播放_VV 时_LC 必须_VV 支援_NN 碟片_NN 需求_VV 将_BA 分辨率_NN 降至_VV 480_CD p_M ，_PU 而_CC DVD_NN 声_NN 讯_NN 在_P 透过_P 不_AD 支援_VV HDCP_NR 的_DEC 介面_NN 时_LC 必须_VV 被_SB 强制_VV 降到_VV DAT_NN 等级_JJ 的_DEG 类比_NN 输出_NN 。_PU 所有_DT 支援_NN HDCP_NR 的_DEG 影音_NN 播放_NN 设备_NN 都_AD 不_AD 得_VV 支援_NN 数位_NN 资料_NN 直接_AD 拷贝_VV 功能_NN ，_PU 并且_CC 必须_VV 「_PU 将_BA 其_PN 产品_NN 设计_VV 到_CC 足以_VV 打消_VV 大多数_CD 破解者_NN 的_DEG 念头_NN 」_PU 。_PU
+
+基本_AD 来说_VV ，_PU 欲播_VV 放有_VV HDCP_NN 保护_NN 的_DEC 影音_NN 内容_NN 如_P HDDVD_NN 、_PU Blu_NN -_PU rayDisc_NN 、_PU PlayStation3_NN 游戏_VV （_PU 透过HDMI_VV 输出时_NN ）_PU ，_PU 讯号_NN 来源_LC （_PU 播放机_NN 或_CC 电脑_NN 的_DEC 显示卡_NN ）_PU 和_CC 显示器_NN 双方_PN 都_AD 必须_VV 内_JJ 建HDCP_PU 密钥_NN 芯片_NN 才_AD 能_VV 正常_AD 播放_VV 。_PU 若_CS 系统_NN 任何_DT 一_CD 者_NN 不_AD 配备_VV 此_DT 密匙_NN 芯片_NN ，_PU 影像_VV 画素_NN 有_VE 可能_NN 降低_VV ，_PU 甚至_AD 不_AD 能_VV 播放_VV 影像_NN 。_PU 现时_NT 某些_DT 显示_NN 卡已_NN 内建_NN HDCP_NR 芯片_NN ，_PU 有_VE 限度_NN 支持_NN HDMI_NR 输出_VV 。_PU
+
+HDCP_CD 的_DEG 主要_JJ 目标_NN 是_VC 防止_VV 未_AD 加密_VV 的_DEC 高分_NN 辨率_VV 影音_NN 内容_NN 被_SB 传送_VV 出去_VV 。_PU 为此_AD HDCP_NR 当_NN 中_LC 设计_VV 了_AS 三套_NN 系统_NN 以_MSP 达成_VV 此_DT 目标_NN ：_PU
+
+所有_DT 支援_NN HDCP_NN 的_DEC 装置_NN 都_AD 有_VE 一_CD 组_M 独特_VA 的_DEC 金钥_NN ：_PU 一_CD 个_M 金钥组_NN 含有_VV 40_CD 把_BA 56_CD bits_M 长度_NN 的_DEC 金钥_NN ，_PU 如_P 厂商_NN 将_BA 其_PN 外流_NN 将_AD 被_SB 视为_VV 违反_NN H_NN DCP授_VV 权协定_NN 。_PU 此外_AD 每_DT 一_CD 个_M 金钥组_NN 都_AD 还_AD 会_VV 附带_VV 一_CD 组_M 特_AD 別_NN 的_DEC 金钥_NN 称为_VV KSV_NN （_PU KeySelectionVector_NN ）_PU 。_PU KSV_NN 内容_NN 有_VE 40_CD bits_M 且_CC 其中_NN 0_CD 与_CC 1_CD 各_DT 佔_NN 20_CD bits_M 。_PU
+
+在_P 验证_NN 流程_NN 中_LC 播放_VV 与_P 显示_NN 两_CD 侧_NN 将_AD 交换_VV 其_PN KSV_NN ，_PU 双方_PN 将_BA 收到_VV 对方_PN 的_DEG KSV_NN 中_LC 为_VC 1_CD 的_DEG bit_NN 字_NN 段_NN 所_MSP 指向_VV 的_DEC 金钥_NN 做_VV 加总_VV 取得_VV 一_CD 个_M 56_CD bits_M 的_DEC 共同_JJ 金钥_NN ；_PU 金钥组_NN 与_CC KSV_NN 的_DEG 生成_NN 过程_NN 将_BA 确保_VV 双方_JJ 验证_NN 的_DEC 结果_NN 可_VV 得到_VV 同_DT 一_CD 组_M 56b_CD its_NN 金钥_NN 。_PU
+
+加密_NN 过程_NN 是_VC 以_P 串流_NN 方式_NN 进行_VV 。_PU 每_DT 个_M 像素_NN 资料_NN 都_AD 会_VV 和_P 金钥_NN 所_MSP 推导_VV 出_VV 的_DEC 24_CD bits_M 整数_NN 作_VV XOR_NN 运算_NN ，_PU 且_CC 每_DT 一_CD 个_M frame_NN 都_AD 会_VV 再_AD 产生_VV 不同_VA 的_DEC 金钥_NN 。_PU
+
+如果_CS 某些_DT 特定_JJ 的_DEG 机器_NN 被_SB 认为_VV 遭到_VV 破解_VV ，_PU 其_PN KSV_NN 参数_NN 将_BA 被_SB 放入_VV 黑名_NN 单当_AD 中_LC ，_PU 并_CC 透过_P 新_VA 发售_VV 的_DEC 碟片_NN 或_CC 操作_NN 系统_NN 更新而_AD 散出_VV 。_PU 黑名单_AD 必须_VV 经过_P HDCP_NN 验证_NN 管理_NN 中心_NN 电子_NN 簽章_NN ，_PU 以_MSP 确保_VV 不_AD 会_VV 有_VE 人恶_NN 意_NN 干扰_VV 其他_DT 合法_NN 机器_NN 的_DEG 运作_NN 。_PU 如果_CS 接收端_NN 的_DEG KSV_NN 被_SB 传送_VV 端_VV 发现_VV 处_NN 於_P 黑名_NN 单_AD 中_LC 。_PU 传送端_NN 将_AD 会_VV 拒绝_VV 传送_VV 内容_NN 。_PU
+
+厂商_NN 每年_AD 要_VV 向_P D_CD igitalHDCP_VV 委员_NN 会_VV 支付_VV 15000_CD 美元_NN 的_DEG 年费_NN 。_PU
+除_P 此_PN 之外_LC ，_PU 向_P HDCP_NR 委员_NN 会_VV 购买_VV key_NN ，_PU 则_AD 要_VV 支付_VV key_NN 的_DEG 费用_NN ，_PU Key_NN 的_DEG 费用_NN 依据_P 每_DT 单_AD 购买_VV 的_DEC 数量_NN 不同_VA ，_PU 而_CC 不同_VA （_PU 买_VV 的_DEG 越_AD 多_CD 越_AD 便宜_VA ）_PU ：_PU
+
+密码_NN 破解_VV 专家_NN 们於_NN 2001_CD 年_M 首度_NN 公开_VV 了_AS HDCP_NN 协定_NN 中_LC 的_DEG 数_CD 个_M 严重_JJ 漏洞_NN （_PU 当时_NT 尚_AD 未_AD 有_VE 任何_DT HDCP_NN 产品_NN 上市_NR ）_PU 。_PU 来自_VV 卡内基_NN 美隆_VA 大学_VA 的_DEC ScottCrosby_NN 、_PU IanGoldberg_NN 、_PU RobertJohnson_NN 、_PU DawnSong_NN 与_CC DavidWagner_NN 等_ETC 人_NN 共同_AD 在_P 2001年_NT 11月_NT 5日_NT ACM_NN -_PU CCS8_NN 大_AD 会_VV 数位_NN 内容_NN 管理_NN 小组_NN 中_LC 发表_VV 了_AS 一_CD 篇_M 论文名_NN 为_VC 《_PU ACryptanalysisoftheHigh_NN -_PU bandwidthDigitalContentProtectionSystem_NN 》_PU ，_PU 该_DT 论文_NN 摘要_VV 如下_VV ：_PU
+
+在_P 大约_AD 同时_NT 间_LC ，_PU 密码_NN 学家_NN NielsFerguson_NR 也_AD 宣布_VV 破解_VV 了_AS HDCP_NN ，_PU 但是_CC 他_PN 并未_AD 公开_VV 其_PN 研究_NN 结果_NN ，_PU 因为_AD 担忧_VV 公开_VV 之后_AD 随之_VV 而_MSP 来_VV 的_DEC 法律_NN 问题_NN 。_PU 最_AD 为_P 人_NN 所_MSP 知_VV 的_DEC HDCP_NN 破解_NN 方法_NN 是_VC 「_PU conspiracyattack_NN 」_PU ，_PU 将_BA 一定_JJ 数量_NN 的_DEG HDCP_NN 装置_NN 破解_VV 并_CC 收集_VV 其_PN 资讯_NN 后_LC ，_PU 理论_NN 上_LC 可_VV 破解_VV 出_VV HDCP_NN 授权_NN 中心_NN 的_DEC 私钥_NN 。_PU
+
+2010_CD 年_M 9月13_NN 日_NN ，_PU 一_CD 组_M 主_JJ 密钥_NN 被_SB 署名_VV IntelGlobalPR_NN 之_DEG Twitter_NN 帐户_NN 贴_VV 在_P 网路_NN 上_LC ，_PU 并_CC 於_P 数_CD 日后_AD 被_SB Intel_NR 官方_NN 证实_VV ，_PU 这_PN 也_AD 就_AD 意味_VV 着_AS 数百万_CD 蓝光_NN 光盘_NN 、_PU 播放器_NN 等_ETC 设备_NN 的_DEG 保护盾_NN 已经_AD 在_P 瞬间_NN 土崩_NN 瓦解_VV ，_PU 所有_DT 蓝光_JJ 光盘_NN 都_AD 可以_VV 自由_P 解锁_NN 、_PU 复制_VV 。_PU
+
+虽然_CS Intel_NN 方面_NN 威胁_NN 要_VV 起诉_VV 任何_DT 非法_JJ 设备_NN ，_PU 但是_CC 已经_AD 有_VE 号称_NN 可_VV 录制_VV 高_JJ 画质_NN HDCP_NN 影像_VV 之_DEC 撷取_NN 装置_NN 开始_VV 销售_VV 。_PU
+
+
+
+
+
+
+
+

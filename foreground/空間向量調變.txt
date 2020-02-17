@@ -1,0 +1,15 @@
+﻿空_NN 间向量_NN 调变_NN
+
+空间向量_AD 调变_VV 简称_JJ SVM_NN 或_CC 是_VC SVPWM_NN ，_PU 是_VC 一_CD 种_M 控制_VV 脉冲_NN 宽度_NN 调变_VV （_PU PWM_NN ）_PU 的_DEC 算法_NN ，_PU 用来_VV 产生_VV 交流_NN 波形_NN ，_PU 多半_AD 是_VC 有_VE 直流_JJ 电压_NN 输入_VV ，_PU 利用_VV 多_CD 组_M 输出_NN 电压_NN ，_PU 驱动_VV 三_CD 相_NN 交流_NN 马达_NN 。_PU 空间_AD 向_P 量_NN 调变_VV 有_VE 许多_CD 的_DEG 变体_NN ，_PU 其_PN 输出_VV 品质_NN 及_CC 计算_NN 需求_NN 也_AD 随之_AD 不同_VA 。_PU 目前_NT 一_CD 个_M 热门_NN 的_DEC 领域_NN 是_VC 利用_VV 演算法_NN 来_MSP 减少_VV 快速_AD 切换_VV 时_LC 产生_VV 的_DEC 总谐波_NN 失真_VV 。_PU
+
+右图_NN 是_VC 一_CD 个_M 三_CD 相_NN 逆变器_NN ，_PU 用_P 许多_CD 开关_NN 将_BA 直流_JJ 电源_NN 转换_NN 为_VC 可以_VV 驱动_VV 三_CD 相_NN 马达_NN 的_DEC 三_CD 相交_JJ 流电_NN 。_PU
+
+开关_NN 在_P 控制_VV 时_LC ，_PU 同_DT 一_CD 臂_NN 的_DEG 上臂_NN 及_CC 下臂_NN 开关_NN 不_AD 能_VV 同时_AD 投入_VV ，_PU 同时_AD 投入_VV 时直_JJ 流_NN 电源_NN 会_VV 短路_VV 。_PU 因此上_AD 下臂_VV 的_DEC 动作_NN 信号_NN 需要_VV 互相_AD 反相_VV （_PU 除_CS 反_VV 相_AD 外_JJ 还_AD 需要_VV 有_VE 延遟_VV ，_PU 以下_LC 先_AD 省略不计_VV ）_PU ，_PU 也就_AD 是_VC Aon_NN 时_LC ，_PU A_NN 需_VV 为_VC off_NN ，_PU 反之_AD 亦_AD 然_VA 。_PU 因此_AD 逆变器_NN 会_VV 有_VE 八_CD 种_M 不同_VA 的_DEC 组合_NN ，_PU 分別_NN 是_VC 六_CD 个_M 有效_VA 的_DEC 向_P 量_NN 及_CC 二_CD 个_M 零向量_NN 。_PU
+
+若_CS 只_AD 考虑_VV 有效_JJ 向_NN 量_NN V_LC ，_PU 输出_NN 电压_NN 为_VC 脉波_NN 的_DEC 弦波_NN ，_PU 每_DT 只_M 脚_NN 的_DEG 相位差_NN 为_VC 120_CD 度_M 。_PU
+
+若_CS 要_VV 实现_VV 空间_NN 向_P 量_NN 调变_VV ，_PU 先_AD 要_VV 有_VE 一_CD 个_M 参考_NN 信号_NN V_NN 依_P f_NN 的_DEG 频率_NN 取_VV 様_NN （_PU T_NN =_PU 1_CD /_PU f_NN ）_PU 。_PU 参考_NN 信号_NN 可以_VV 用_P 三_CD 个_M 独立_VA 的_DEC 相_NN 讯号_NN 用_P 转换_NN 。_PU 参考_NN 信号_NN 会_VV 用_P 二_CD 个_M 有效_JJ 向量_NN 及_CC 一_CD 个_M 零向_JJ 量_NN 合成_VV 。_PU 存在_VV 多_CD 种_M 不同_VA 的_DEC 策略_NN 来_MSP 选择_VV 有效_JJ 向_NN 量_NN 及_CC 零向量_NN 。_PU 不同_VA 的_DEC 选择_NN 会_VV 影响_VV 谐波_NN 成份_NN 及_CC 切换_NN 损失_NN 。_PU
+
+
+
+

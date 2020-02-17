@@ -1,0 +1,29 @@
+﻿谐波_NN 小_JJ 波_NN 转换_NN
+
+谐波_NN 小波_NN 转换_NN （_PU ）_PU 为_VC 学者_NN 大_JJ 卫‧纽_NN 兰德_NN （_PU DavidE_NR ._PU Newland_NR ）_PU 於_P 1993_CD 年_M 所_MSP 提出_VV ，_PU 是_VC 一_CD 个_M 以_P 小波_NN 为_VV 基底_NN 的_DEG 线性_JJ 转换_NN ，_PU 得以_VV 将_BA 讯号_NN 变换_VV 至_VV 时_NN 频_VV 域_NN （_PU Time_NN -_PU F_CD requencyDomain_M ）_PU 上_LC 。_PU 谐波_NN 小波_NN 转换_NN 结合_VV 了_AS 短_JJ 时距_NN 傅立_VV 叶_NN 变换_NN 和_CC 连续_JJ 小波_NN 转换_VV 两_CD 者_NN 之_DEG 优点_NN 的_DEC 讯号_NN 分析_NN 工具_NN ，_PU 而_CC 其_PN 离散版_NN 本_DT 则_AD 可以_VV 用_P 快速_AD 傅立_VV 叶_AD 变换_VV 做_VV 有_VE 效率_NN 的_DEG 运算_NN 。_PU
+
+考量_VV 一_CD 个_M 偶_PN 对称_VA 的_DEC 实数_NN 函数_NN formula_NN
+则_AD 透过_P 反傅立_NN 叶_AD 变换_VV ，_PU 我们_PN 可以_VV 得到_VV 该_DT 函数_NN formula_NN
+而_AD 考量_VV 另_DT 一_CD 奇_NN 对称_VA 的_DEC 函数_NN formula_NN
+则_AD 其_PN 反傅立_NN 叶_AD 变换_VV 会_VV 得到_VV formula_NN
+假如_AD 结合_VV formula_NN __NN 1_CD 和_CC formula_NN __NN 5_CD ，_PU 透过_P formulaWavelet_NN ）_PU 。_PU 本_DT 谐波_NN 小波_NN 将_AD 为_VC 以下_JJ 数学_NN 形式_NN ：_PU
+也_AD 由于_P 傅立_VV 叶_NN 转换_NN 的_DEC 特性_NN 和_CC formula_NN __NN 13_CD 和_CC formula_NN
+接着_AD ，_PU 考量_VV 到_VV 小波_NN 转换_NN 中_LC 的_DEG 精神－－母小波_NN 的_DEC 缩放_NN （_PU Dilation_NN ）_PU 和_CC 平移_NN ，_PU 透过_VV 伸张_NN 方程式_NN （_PU DilationEquation_NR ）_PU 我们_PN 可以_VV 写出_VV 一_CD 系列_M 的_DEG 谐波_NN 小_JJ 波_NN （_PU 其中_NN formula_NN __NN 16_CD 和_CC formula_NN
+
+根据_P 前文_NN 对_P formula_NN
+而_AD 若_CS 我们_PN 将_AD 不同_VA 的_DEC 正_JJ 整数_NN formula_NN __NN 16_CD 带入_VV 上_VV 式_NN ，_PU 例如_AD formula_NN __NN 22_CD 和_CC formula_NN __NN 23_CD ，_PU 我们_PN 会_VV 发现_VV 后者_PN 的_DEG 振幅_NN 会_VV 是_VC 前者_NN 的_DEG 一半_NN ，_PU 然而_CC 其_PN 频带_NN 宽会_NN 是_VC 前_JJ 者_NN 的_DEG 两_CD 倍_M 。_PU 这样_PN 的_DEG 特性_NN 使得_VV 每_DT 一_CD 阶_NN （_PU Level_NN ，_PU 对应_VV 到_VV 不同_VA 的_DEC formula_NN
+
+随着_P formula_NN __NN 16_CD 的_DEC 阶数比_NN 0_CD 越来越_AD 小_VA ，_PU 频带_NN 的_DEG 振幅_NN 将_BA 越来_AD 越高_VV 、_PU 越来_AD 越窄_VV ，_PU 一路_AD 向_P 频率_NN 为_VC 0_CD 的_DEC 位置_NN 延伸_VV 。_PU 而_CC 根据_P 多_CD 分_M 辨率_NN 分析_NN 的_DEC 理论_NN ，_PU 我们_PN 可以_VV 将_BA 这些_DT 阶数_NN 小于_VV 0_CD 的_DEG 频带_NN 全部_AD 收为_VV 一_CD 个_M 频带_NN ，_PU 并_CC 定义_VV 为_VC -_PU 1_CD 阶_M （_PU formula_NN __NN 26_CD ）_PU 。_PU 它_PN 涵盖_VV 了_AS DC_NN 到_VV formulaFunction_NN ）_PU ，_PU 又_AD 称为_VV 父小波_NN （_PU FatherWavelet_NN ）_PU 。_PU 谐波_NN 小_JJ 波_NN 的_DEG 缩放_NN 函数_NN 定义_NN 为_VC ：_PU
+
+若_CS 要_VV 证明_VV 谐波_NN 小_JJ 波_NN 有_VE 正交_JJ 的_DEG 特性_NN ，_PU 必须_VV 分_VV 两_CD 个_M 层次_JJ 讨论_NN ，_PU formula_NN __NN 16_CD （_PU 不同_JJ 阶_NN 的_DEG 谐波_NN 小_JJ 波_NN ）_PU 和_CC formulaNewland_NN ，_PU 1993_CD ）_PU ：_PU
+因为_P 任意_NN 阶数_NN 之_DEG 谐波_NN 小_JJ 波_NOI 其_PN 频谱_NN 皆_AD 分布_VV 在_P 正频率_NN 轴_NN ，_PU 故_AD formula_NN
+而_AD 因为_P 不同_JJ 阶数_NN 之_DEG 谐波_NN 小_JJ 波_NOI 其_PN 频带_NN 不_AD 相交_VV ，_PU 故上式_JJ 的_DEG 右式_NN 也_AD 为_VC 0_CD ，_PU 由_P 是_VC 证明_VV 不同_JJ 阶_NN 数谐波_NN 小_JJ 波_NN 的_DEG 正交_NN 特性_NN 。_PU 至於_AD 同_DT 阶数_NN 、_PU 不同_JJ 位移量_NN 的_DEG 谐波_NN 小_JJ 波_NN ，_PU 因为_P 傅_NN 立_VV 叶_NN 变换_VV 的_DEC 特性_NN ，_PU 在_P 时域_NN 的_DEC 位移_NN 相当_AD 於_VV 在_P 频域_NN 的_DEC 讯号_NN 必须_VV 乘上_VV 一_CD 个_M 线性_JJ 相位_NN ，_PU 因此_AD 对_P 位移_NN 之_DEC 谐波_NN 小_JJ 波_NN 来说_LC ，_PU 必须_VV 满足_VV 下_JJ 式_NN ：_PU
+当_P k_NN 不_AD 为_VC 0_CD 的_DEC 时候_NN ，_PU 上_VV 式_NN 将_AD 会_VV 成立_VV 。_PU 换言_VV 之_DEC ，_PU 当_P 具有_VV 位移_NN 存在_VV 时_LC ，_PU 谐波_NN 小波_NN 正交_VA 的_DEC 特质_NN 成立_VV 。_PU 最后_AD ，_PU 我们_PN 也_AD 可以_VV 用_P 相似_VA 的_DEC 证明_NN 方式_NN ，_PU 证明_VV 谐_CD 波_M 小波_NN 之_DEG 父小波_NN 也_AD 具有_VV 正交_JJ 特性_NN 。_PU
+
+如同_JJ 傅立叶_NN 级数_NN 一般_VA ，_PU 由于_P 父小波_NN 和_CC 母小波_NN 皆_AD 具有_VV 正交_JJ 的_DEG 特性_NN ，_PU 我们_PN 可以_VV 用_P 它们_PN 做为_JJ 基底_NN 来_VV 对_P 一_CD 个_M 函数_NN 做_VV 展开_NN ：_PU
+而_AD 它们_PN 的_DEG 系数_NN ，_PU 根据_P 投影_NN ，_PU 分別_VV 为_VC ：_PU
+而_AD 对于_P 实数_NN 函数_NN formulaformula_NN 、_PU formula_NN
+
+
+
+

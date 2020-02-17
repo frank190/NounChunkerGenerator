@@ -1,0 +1,17 @@
+﻿电_NN 热膜_NN
+
+远_JJ 红外线_NN 辐射_NN 电热膜_NN 是_VC 一_CD 种_M 通电_NN 后_LC 能_VV 发热_VV 的_DEC 透明_JJ 聚酯_NN 薄膜_NN ，_PU 由_P 可_VV 传导性_JJ 碳纤维_NN 为_VC 主_JJ 成分_NN 的_DEG 油墨_NN 、_PU 金属_NN 载流条_NN 经_P 加工_NN 、_PU 热压_VV 在_P 绝缘_NN 聚酯_NN 薄膜_NN 间_LC 制成_VV 。_PU 不同于_VV 传统_JJ 的_DEG 电热丝_NN 发热_NN ，_PU 以_P 电热膜_NN 为_VC 发热体_NN ，_PU 将_BA 热量_NN 以_P 面_NN 辐射_VV 的_DEC 形式_NN 均匀_AD 送入_VV 空间_NN ，_PU 使_VV 人感_NN 受到_VV 阳光般_NN 温暖_NN 。_PU 远_JJ 红外线_NN 电热膜_NN 在_P 美国_NR 和_CC 欧洲_NR 20_CD 年_M 前_LC 就_AD 开始_VV 使用_VV 了_AS ，_PU 是_VC 已经_AD 通过_P 实践_NN 验证_NN 的_DEC 产品_NN 。_PU
+
+PTC_NN 电热膜_NN 的_DEG 特点_NN ：_PU
+
+·_PU   _NN PTC_NN 电热膜_NN 使用_VV 了_AS 特种_JJ 导电_NN 油墨_NN ，_PU 该_DT 导电_NN 油墨_NN 具有_VV 自己_PN 的_DEG 温度_NN 控制_NN 特点_NN ，_PU 即_AD PTC_NN （_PU Positive_NN  _NN Temperature_NN  _NN Coefficient_NN )_PU ._PU
+
+·_PU   _NN 由_P 原来_JJ 的_DEG 两_CD 层_M 结构_NN 改进_VV 成_VV 现在_JJ 的_DEG 三_CD 层_NN 结构_NN ，_PU 使_VV 电热膜_NN 在_P 铺装_NN 过程_NN 中_LC 更_AD 结实_AD 更_AD 牢固_VA ._PU
+
+·_PU   _NN 每_DT 片_M 电热膜_NN 之间_LC 都_AD 有_VE 明显_VA 的_DEC 钉孔_NN ，_PU 可以_VV 随_P 易_JJ 钉子_NN 固定_VV 在_P 任何_DT 位置_NN ._PU
+
+·_PU   _NN 除了_P 具备_VV 全新_AD 防伪_VV 电热膜_NN 的_DEG 特征_NN 以外_LC ，_PU 还_AD 具备_VV 自动_JJ 恒温_NN 控制_NN 功能_NN （_PU 也就是说_AD 无需_VV 温控器_NN 控制_VV 即_AD 可_VV 使用_VV ）_PU  绝对_AD 不_AD 会_VV 出现_VV 局部_NN 过热_VV 的_DEC 现象_NN ._PU
+
+·_PU   _NN 当_P PTC_NN 电热膜_NN 通电_NN 后_LC ，_PU 他_PN 的_DEG 直接_NN 表现_VV 就_AD 是_VC 随着_P 其_PN 温度_NN 的_DEG 上升_NN ，_PU 通电_NN 电流_NN 会_VV 逐渐_AD 下降_VV ，_PU 一定_JJ 时间_NN 后_LC 达到_VV 稳定_NN 状态_NN 。_PU
+
+

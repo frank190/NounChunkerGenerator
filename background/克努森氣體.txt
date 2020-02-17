@@ -1,0 +1,7 @@
+﻿克_NN 努森_NN 气体_NN
+
+克努_NN 森气体_NN （_PU Knudsengas_NN ）_PU 是_VC 指气体_NN 的_DEG 密度_NN 很_AD 低_VA ，_PU 其_PN 分子_NN 的_DEG 平均_JJ 自由程_NN 大于_VV 包含_VV 分子_NN 容器_NN 的_DEG 直径_NN 。_PU 克努_NN 森气体_NN 的_DEG 动力_NN 特性_NN 是_VC 由_P 气体_NN 分子_NN 和_CC 容器_NN 的_DEG 碰撞_NN 来_MSP 决定_VV ，_PU 而_CC 不_AD 是_VC 由_P 气体_NN 分子_NN 之间_LC 的_DEG 碰撞_NN 决定_VA 。_PU
+
+
+
+

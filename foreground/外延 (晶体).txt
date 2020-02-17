@@ -1,0 +1,10 @@
+﻿外延_NN (_PU 晶体_NN )_PU
+
+磊晶_NN （_PU ）_PU ，_PU 是_VC 指_VV 一_CD 种_M 用于_VV 半导体_NN 器件_NN 制造_NN 过程_NN 中_LC ，_PU 在_P 原有_JJ 芯片_NN 上_LC 长出_VV 新_JJ 结晶_NN 以_MSP 制成_VV 新_JJ 半导体_NN 层_NN 的_DEG 技术_NN 。_PU 此_DT 技术_NN 又_AD 称_VV 外延_NN 成长_NN （_PU EpitaxialGrowth_NN ）_PU ，_PU 或_CC 指以_VV 外延_NN 技术_NN 成长_VV 出_VV 的_DEC 结晶_NN ，_PU 有时_AD 可能_VV 也_AD 概_AD 指以_VV 外延_NN 技术_NN 制作_VV 的_DEC 晶粒_NN 。_PU
+
+外延_NN 技术_NN 可_VV 用以_VV 制造硅_NN 电晶_NN 体到_NN CMOS_NN 积体_NN 电路_NN 等_ETC 各_DT 种_M 元件_NN ，_PU 尤其_AD 在_P 制作_VV 化合物_NN 半导体_NN 例如_AD 砷化镓_NN 时_LC ，_PU 外延_VV 尤其_AD 重要_VV 。_PU
+
+
+
+
+

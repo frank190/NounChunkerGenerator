@@ -1,0 +1,15 @@
+﻿卷轴_NN 显示器_NN
+
+卷轴_NN 显示器_NN （_PU ）_PU 是_VC 一_CD 种_M 可以_VV 像_P 卷轴_NN 一样_AD 进行_VV 活动_JJ 的_DEG 显示_NN 设别_NN 。_PU 这_DT 种_M 新_JJ 技术_NN 涉及_VV 了_AS 电子纸_NN (_PU E_NN -_PU ink_NN )_PU 电子_NN 显示器_NN 甚至_AD 用于_VV 智能_NN 手机_NN 、_PU 和_CC 有机_JJ 发光_JJ 二极管_NN (_PU OLED_NN )_NN 。_PU
+
+EInk_NN 公司_NN 研_VV 发出_VV 了_AS 了_AS 电子纸_NN 技术_NN 。_PU 2006_CD 年_M 的_DEG 国际_NN 消费_NN 电子展_NN 上_LC ，_PU 飞利_NN 浦展_NN 示_VV 了_AS 一_CD 块_M 卷轴_NN 显示器_NN 的_DEC 原_JJ 型_NN ，_PU 它_PN 能够_VV 在_P 没有_VE 电_NN 的_DEC 情况_NN 下_LC 将_BA 图像_NN 保持_VV 数月_NN 的_DEC 时间_NN 。_PU 到_VV 2007_CD 年_M ，_PU 飞利浦_NN PolymerVision_NN 希望_VV 开发_VV 一_CD 块_M 5_CD 英寸_NN （_PU 130_CD 毫米_M ）_PU 的_DEC 320_CD 乘以_VV 230_CD 像素_NN 分辨率_NN 的_DEC 卷轴_NN 显示器_NN 。_PU
+
+已经_AD 有_VE 一些_CD 产品_NN 进行_VV 过_AS 展示_NN ，_PU 。_PU 用_VV 电子_NN 纸制造_NN 的_DEC 电子_NN 腕表_NN 可能_VV 将_BA 是_VC 市场_NN 上_LC 首种_AD 商用_VV 的_DEC 卷轴_NN 显示器_NN 应用_NN 。_PU
+
+在_P 2013年_NT 1月_NT ，_PU 三星_NN 集团_NN （_PU Samsung_NN ）_PU 在_P 拉斯维加_VV 斯_DT 消费_NN 电子展_NN （_PU CES_NN ）_PU 发表_VV 主题_NN 演讲_VV 时_LC 展示_VV 了_AS 他们_PN 的_DEG 未命_NN 名品牌_NN 的_DEC 新_JJ 产品_NN 。_PU 在_P 加州_NN 圣何塞_NN 三_CD 星_NN 显示器_NN 实验室_NN 高级_JJ 副总_NN 裁布赖恩_VV ·_PU 伯_OD 克_M 利_LC ，_PU 宣布开_VV 发柔性_NN 显示器_NN 。_PU 他_PN 说_VV ：_PU “_PU 这_DT 项_M 技术_NN 将_BA 让_VV 公司_NN 的_DEC 合作_JJ 伙伴_NN ，_PU 可_VV 弯曲_VV ，_PU 可_VV 卷曲_VV ，_PU 可_VV 折叠_VV 显示器_NN ”_PU ，_PU 在_P 他_PN 的_DEG 演讲_NN 中_LC 他_PN 演示_VV 了_AS 如_P 何新_DT 的_DEG 手机_NN 可以_VV 是_VC 卷曲_NN 和_CC 灵活_VA 的_DEC 。_PU 三_CD 星正式_JJ 发布_VV 了_AS 他们_PN 的_DEG 第一_OD 个_M 柔性_JJ 的_DEG 手机名_NN 为_VC “_PU Youm_NN ”_PU 。_PU “_PU Youm_NN ”_PU 有_VE 弯曲_VA 的_DEC 显示_NN 屏幕_NN ，_PU 这_DT 款_NN 采用_VV 有机_JJ 发光_JJ 半导体_NN （_PU OLED_NN ）_PU 屏幕_NN 的_DEC 手机_NN 给_P 人_NN 比_VV 传统_JJ 液晶_NN 显示器_NN 更_AD 深_VA 的_DEC 黑色_NN 和_CC 更_AD 好_VA 的_DEC 电源_NN 效率_NN 下_LC 较_AD 高_VA 的_DEC 整体_NN 的_DEC 对比度_NN 。_PU 另外_AD 这_DT 款_NN 手机_NN 具有_VV 可_VV 卷曲_VV 显示器_NN 的_DEG 优势_NN ，_PU 它_PN 比_P 液晶_NN 显示器_NN 更_AD 轻_VA ，_PU 更_AD 薄_VA ，_PU 更_AD 长_VA 的_DEC 耐用性_NN 。_PU
+
+三星_CS 并_CC 没有_VV 给出_VV 推出_VV “_PU Youm_NN ”_PU 到_VV 市场_NN 上_LC 的_DEG 一_CD 个_M 具体_VA 的_DEC 日期_NN 。_PU 然而_AD ，_PU 三星_NN 表示_VV “_PU Youm_NN ”_PU 面板_NN 将_AD 会_VV 在_P 很_AD 短_VA 的_DEC 时间_NN 内_LC 在_P 市场_NN 上_LC 看到_VV ，_PU 将_BA 在_P 2013_CD 年_M 开始_VV 生产_NN 。_PU
+
+经管_CS 三星_NN Youm_NN 最终_AD 未_AD 能_VV 投产_VV ，_PU 但_CC 原_VV Youm_NN 的_DEG 设计_NN 最终_AD 演变_VV 成_VV GalaxyNoteEdge_NN ，_PU G_CD alaxyS_NR 6_CD /_PU S7_CD edge_NN ，_PU G_CD alaxyNote_NR 7_ETC /_PU FE_NN /_PU 8_CD /_PU 9_CD 和_CC GalaxyS8_NN /_PU 8_CD +_M /_PU 9_CD /_PU 9_CD +_M 的_DEG 曲屏_NN 设计_NN 。_PU
+
+

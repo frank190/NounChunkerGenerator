@@ -1,0 +1,7 @@
+﻿设计_VV 自动_JJ 化标_NN 准委_NN 员会_NN
+
+设计_VV 自动化_JJ 标准_NN 委员会_NN （_PU ）_PU 是_VC 由_P IEEE_NN 中_LC 对_P 设计_NN 自动_AD 化感_VV 兴趣_VV 的_DEC 人_NN 结成_VV 的_DEC 子学会_NN 、_PU IEEE_NN 计算机_NN 社团_NN （_PU ComputerSociety_NN ）_PU 和_CC IEEE_NN 标准_NN 协会_NN （_PU ）_PU 共同_AD 组成_VV 。_PU 该_DT 组织_NN 负责_NN 监管_NN 有_VE 关计_JJ 算机_NN 辅助_NN 设计_NN （_PU 即_AD 设计_VV 自动_JJ 化_NN ）_PU 的_DEG IEEE_NN 标准_NN 。_PU 它_PN 也_AD 是_VC IEEE_NN 计算机_NN 社团_NN 的_DEG 一_CD 部分_NN
+
+设计_VV 自动化_JJ 委员_NN 会_VV 赞助_VV 的_DEC 标准_NN 包括_VV ：_PU
+
+

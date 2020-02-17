@@ -1,0 +1,13 @@
+﻿低频_NN
+
+低频_NN （_PU LF_NN ,_PU Lowfrequency_NN ）_PU 是_VC 指频带_NN 由_P 30_CD KHz_M 到_VV 300_CD KHz_NN 的_DEG 无_VE 线电_NN 电波_NN 。_PU
+
+LF_NN 多_AD 用作_VV 卫星_NN 导航_NN 系统_NN （_PU 差分全球_JJ 定位_NN 系统_NN ）_PU 、_PU 国际_NN 广播_VA 以及_CC AM_NN 广播_NN 等_ETC ，_PU 另外_AD 亦_AD 可_VV 用作_VV 电波_NN 时计_NN （_PU 授_NN 时_LC ）_PU 。_PU
+
+一些_CD 无线_NN 电频率_NN 识別_NN （_PU RFID_NN 技术_NN ）_PU 标签_VV 使用_VV 低_JJ 频_NN 。_PU 这些_DT 标签_NN 通常_AD 被_SB 称为_VV LFID_NN '_PU s_NN 或_CC LowFID's_NN （_PU 低_JJ 频率_NN 识別_NN LowFrequencyIdentification_NN ）_PU 。_PU
+
+低_AD 频发_VV 射天线_NN 的_DEC 高_JJ 功率_NN 发射机_NN 需要_VV 大量_CD 的_DEG 空间_NN ，_PU 在_P 美国_NR 和_CC 欧洲_NR 引起_VV 争议_NN ，_PU 担心_NN 暴露_AD 於_P 高_JJ 功率_NN 无_VE 线电波_NN 对_P 健康_NN 可能_VV 会_VV 受_VV 影响_NN 。_PU
+
+比_P 低_PN 频_VV 略_AD 高_VA 的_DEC 是_VC 中_LC 频_SP 。_PU
+
+

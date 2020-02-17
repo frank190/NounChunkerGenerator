@@ -1,0 +1,34 @@
+﻿返_VV 回比_NN
+
+线性_NN 电路_NN 中_LC ，_PU 的_DEG 返回比_NN （_PU returnratio_NN ）_PU 也_AD 称为_VV 回归比_NN ，_PU 一般_AD 会_VV 用_P "_PU T_NR "_PU 表示_VV ，_PU 是_VC 相依_AD 电源_NN 的_DEC 电流_NN （_PU 或_CC 电压_NN ）_PU 除_P 以_P 代替_VV 电源_NN 的_DEC 电流_NN （_PU 或_CC 电压_NN ）_PU ，_PU 两_CD 者_NN 比_P 值_NN 的_DEC 负数_NN 。_PU 环路_NN 增_VV 益_NN 和_CC 返回_NN 比_P 常常_AD 替换_VV 使用_VV ，_PU 不过_AD 只有_VV 在_P 单一_JJ 回路_NN 系统_NN ，_PU 并且_CC 都_AD 是_VC 单一_JJ 输入_NN 模块_NN 时_LC 才_AD 成立_VV 。_PU
+
+相依_JJ 电源_NN 返回_NN 比_NN 的_DEG 计算_NN 方式_NN 如下_VV ：_PU
+若_CS 相依_VV 源_NN 是_VC 在_P 其他_DT 的_DEG 零件_NN 中_LC ，_PU 无法_AD 直接_VV 在_P 电路_NN 上_LC 处理_NN （_PU 例如_AD 用_VV 实验量_NN 测返_VV 回比_VV ，_PU 或是_CC 利用_VV 内建_NN 的_DEC 黑箱_NN S_CD P_CC ICE_CD 模型_NN ）_PU 的_DEC 话_JJ ，_PU 上述_JJ 的_DEG 步骤_NN 就_AD 无法_AD 使用_VV 了_SP 。_PU
+
+针对_P SPICE_NN 模拟_NN ，_PU 有_VE 另_DT 一_CD 种_M 方式_NN 可以_VV 用_VV ，_PU 就_AD 是_VC 人工_JJ 的_DEG 将_BA 非_JJ 线性_JJ 零件_NN 用_VV 其_PN 小_JJ 信号_NN 等_ETC 效_JJ 模型_NN 来_MSP 取代_VV 。_PU 不过_AD 若_CS 工作_NN 点_NN 变化_VV ，_PU 需要_VV 重新_VV 算_VV 小_JJ 信号_NN 模型_NN 。_PU
+
+Rosenstark_NN 的_DEG 研究_NN 结果_NN 指出_VV ，_PU 若_CS 将_BA 电路_NN 中_LC 回路_NN 中_LC 断掉_VV 一_CD 点_M ，_PU 即_AD 可_VV 计算_VV 返回比_NN ，_PU 接下来_VV 的_DEC 问题_NN 是_VC 要_VV 如_P 何_DT 断掉_NN 回路_NN ，_PU 但_CC 又_AD 不_AD 影响_VV 偏置_NN 电压_NN ，_PU 使_VV 条件_NN 和_CC 原来_JJ 的_DEG 相同_VA 。_PU Middlebrook_NN 及_CC Rosenstark_NN 提出_VV 了_AS 不_AD 少_JJ 实验_NN 估算_VV 返回_VV 比_NN 的_DEC 方式_NN （_PU 作者_VV 在_P 文献_NN 中_LC 是_VC 称为_VV 「_PU 回路_NN 增益_VV 」_PU ）_PU ，_PU 而_CC Hurst_NN 等_ETC 人_NN 也_AD 找到_VV 可以_VV 适用_VV 在_P SPICE_NR 的_DEC 方法_NN 。_PU
+
+图_NN 1_CD 是_VC 双极性_JJ 放大器_NN ，_PU 其_PN 回授_NN 偏压_NN 电阻_NN "_PU R_NN "_PU 是_VC 由_P 诺顿_NN 信号_NN 源_NN 所_MSP 驱动_VV 。_PU 图_NN 2_CD 的_DEG 左图_NN 是_VC 对应_VV 的_DEC 小_JJ 信号_NN 模型_NN ，_PU 电晶体_NN 用_P 代替_VV 。_PU 目标_NN 是_VC 找到_VV 放大器_NN 中_LC 相_AD 依源_VV 的_DEC 返回_NN 比_NN 。_PU 为了_P 完成_VV 此_DT 目标_NN ，_PU 会_VV 依_P 上述_JJ 的_DEG 方式_NN 计算_VV 。_PU 图_NN 2_CD 的_DEG 中_LC 图_NN 就_AD 是_VC 到_VV 步骤_NN 4_CD 为止_VV 的_DEC 步骤_NN ，_PU 相_AD 依_P 电源_NN 移到_VV 加入_VV 的_DEC 电流源_NN （_PU 电流_NN "_PU i_NN "_PU ）_PU 的_DEG 左边_NN ，_PU 剪掉_VV 的_DEC 导线_NN 用_VV "_PU x_NN "_PU 表示_VV 。_PU 图_NN 2_CD 的_DEG 右图_NN 就_AD 可以_VV 计算_VV 返_VV 回比_NN "_PU T_NN "_PU 为_VC
+
+其_PN 返回_VV 电流_NN 为_VC
+
+"_PU R_OD "_PU 的_DEG 回授_NN 电流_NN 可以_VV 用_VV 电流分_NN 配定_VV 则_AD 来_MSP 计算_VV ：_PU
+
+基_NN 极_AD 对_P 射极_NN 的_DEG 电压_NN "_PU v_CC "_PU 可以_VV 用_VV 欧姆_NR 定律_NN 求得_VV ：_PU
+
+因此_AD
+
+放大器_NN 电路_NN 的_DEG 整体_NN 转阻_NN 增益_VV （_PU transresistancegain_NN ）_PU 为_VC ：_PU
+
+其中_NN "_PU R_NN =_PU R_NN |_NN |_VV r_NN "_PU ，_PU "_PU R_OD =_PU R_OD |_NN |_CC r_NN "_PU ._PU
+
+上式_JJ 可以_VV 用_VV 渐_DER 近_AD 增益_NN 模型_NN 改写_NN ，_PU 会_VV 将_BA 回授_NN 放大器_NN 的_DEG 整体_NN 增益_VV 用_P 几_CD 个_M 独立_NN 系数_NN 表示_VV ，_PU 这些_PN 系数_NN 也_AD 会_VV 比_P 整体_JJ 增益_NN 要好_AD 算_VV ，_PU 比较_VV 容易_AD 从_P 电路_NN 中_LC 直接_AD 看出_VV 。_PU 此_DT 模型_NN 为_VC ：_PU
+
+其中_NN 所_MSP 谓_VV 的_DEC 渐近_JJ 增益_NN （_PU asymptoticgain_NN ）_PU "_PU G_CD "_PU 是_VC "_PU g_NN "_PU 无限_AD 大_VA 时_LC 的_DEG 增益_NN ：_PU
+
+其中_NN 所_MSP 谓_VV 的_DEC 前馈_NN （_PU feedforward_NN ）_PU 增益_NN 或是_CC 直接_AD （_PU directfeedthrough_NN ）_PU 增益_NN 是_VC "_PU g_NN "_PU 为_VC 0_CD 时_LC 的_DEG 增益_NN ：_PU
+
+有关_P 此_DT 方式_NN 的_DEC 其他_DT 说明_NN ，_PU 可以_VV 参考_VV 渐_AD 近_JJ 增益_NN 模型_NN 。_PU
+
+

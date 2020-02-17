@@ -1,0 +1,5 @@
+﻿图_NN 像_P 压缩_NN 技术_NN
+
+图_NN 像_P 压缩_NN 技术_NN 是_VC 计算机_NN 科学_NN 中_LC 数据_NN 压缩_NN 技术_NN 的_DEC 一_CD 个_M 分支_NN 。_PU 因为_P 大多_CD 图像_NN 来_MSP 自照_VV 相机_JJ 或_CC 录像机_NN ，_PU 数据_NN 不_AD 规则_VV ，_PU 传统_JJ 无_VE 损压_NN 缩算法_NN 做_VV 不_AD 好_VA ，_PU 所以_AD 图像_NT 压缩_NN 技术_NN 一般_AD 是_VC 有_VE 损压缩_NN 。_PU 学科_NT 分为_VV ：_PU
+
+

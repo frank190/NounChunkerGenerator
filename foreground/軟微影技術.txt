@@ -1,0 +1,19 @@
+﻿软_NN 微影_JJ 技术_NN
+
+软微影_JJ 技术_NN (_PU softlithography_NN )_NN ，_PU 又_AD 称_VV 软微_JJ 影_NN 制程_NN 、_PU 可挠性_NN 奈_VV 米_NN 转印_VV 、_PU 软蚀刻_NN 技术_NN 或_CC 软_JJ 光刻_NN 技术_NN ，_PU 是_VC 一_CD 种_M 用_P 软性_JJ 高分子_NN 材质_NN 做成_VV 的_DEC 可挠性_NN 刻印_VV 的_DEC 模具_NN ，_PU 在_P 模具_NN 上面_NN 涂佈_VV 具有_VV 自我_JJ 组合_NN 性能_NN 的_DEC 单元_NN 分子_NN (_PU SAM_NN ，_PU S_CC el_M f_CC -_PU AssemblyMonomer)_NN 后_LC ，_PU 像_P 印章_NT 一样_VA ，_PU 在_P 镀金_NN 的_DEC 薄膜_NN 基板_NN 上_LC 微压_NN ，_PU 把_BA 奈米_NN 图形_NN 模子_NN 上面_NN 凸出_NN 部分_NN 的_DEC 自我_JJ 组合_NN 性能_NN 的_DEC 单元_NN 分子_NN (_PU SAM_NN )_PU 像_P 油墨_NT 一样_VA 的_DEC 印_NN 在_P 金_NN 薄膜_NN 上_LC 。_PU
+软微影_JJ 技术_NN 具有_VV 一些_CD 独特_VA 的_DEC 优势_NN 比_P 其他_DT 形式_NN 的_DEC 微影_NN (_PU 光刻_NN )_PU 技术_NN （_PU 如_P 光刻_NN 和_CC 电子_NN 束光刻_NN ）_PU 。_PU 它们_PN 包括_VV 以下_JJ 内容_NN ：_PU
+
+1_CD ._PU 更_AD 低_VA 的_DEC 成本_NN 比_P 传统_NN 微影_NN 技术_NN 大量_NN 生产_NN 。_PU
+
+2_CD ._PU 非常_AD 适合_VV 应用_VV 在_P 生物_NN 技术_NN 。_PU
+
+3_CD ._PU 非常_AD 适合_VV 应用_VV 在_P 塑胶_NN 电子_NN 。_PU
+
+4_CD ._PU 非常_AD 适合_VV 於_P 超大型_JJ 平面_NN ，_PU 或_CC 及_CC 非_JJ 平面_JJ （_PU nonflat_NN ）_PU 微影_NN 。_PU
+
+5_CD ._PU 不_AD 需要_VV 制作_VV 光罩_NN ，_PU 即_AD 可_VV 制造_VV 一_CD 个_M 小_VA 的_DEC 细节_NN 设计_VV 比_P 一般_JJ 微影_NN 实验室_NN 设备_NN 的_DEG （_PU 30_CD 〜_CC 100_CD 纳米_NN ）_PU 差_AD 不_AD 多_VA 。_PU
+
+现在_NT 的_DEG 积体_NN 电路_NN 包含_VV 了_AS 好几层_NN 不同_VA 的_DEC 材料_NN ，_PU PDMS_NN 压模_NN 的_DEG 扭曲_NN 变形_NN 会_VV 导致_VV 复制_JJ 图案_NN 的_DEC 小_JJ 误差_NN ，_PU 也_AD 使_VV 上下层_NN 做好_VV 的_DEC 图形_NN 排列_VV 得_DER 不_AD 整齐_VA 。_PU 即使_CS 是_VC 最_AD 微小_VA 的_DEC 排列_NN 误差_NN 或_CC 扭曲_NN ，_PU 都_AD 会_VV 损坏_VV 多_CD 层_M 奈米_NN 电子_NN 装置_NN 。_PU 因此_AD ，_PU 软蚀刻_NN 法_NN 不_AD 适合_VV 制造_VV 需要_VV 精_AD 準_VV 堆叠_VV 的_DEC 多_CD 层_M 结构_NN 。_PU 此_DT 缺点_NN 可_VV 藉_P 热_AD 压成_VV 形式_NN 奈_VV 米压印_NN 或_CC 步进_NN 光_NN 感式_NN 奈_VV 米压印_NN 来_MSP 改善_VV 之_SP 。_PU
+
+
+

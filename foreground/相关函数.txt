@@ -1,0 +1,6 @@
+﻿_NN 相关_JJ 函数_NN
+
+相关_JJ 函数_NN （_PU ）_PU 是_VC 给出_VV 随_P 机变量_NN 统计_VV 相关性_JJ 的_DEG 函数_NN 。_PU 分为_VV ：_PU
+
+
+

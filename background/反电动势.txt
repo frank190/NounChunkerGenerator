@@ -1,0 +1,13 @@
+﻿反_NN 电动势_NN
+
+反_VV 电动势_NN （_PU counteremf_NN 或_CC backemf_NN ）_PU 是_VC 指_VV 有_VE 反抗_JJ 电流_NN 通过_P 趋势_NN 的_DEC 电动势_NN ，_PU 其_PN 本质_NN 上_LC 属于_VV 感应_NN 电动势_NN 。_PU
+
+电动机_NN 转动_VV 时_LC ，_PU 线圈_NN 中_LC 也_AD 会_VV 产生_VV 感应_NN 电动势_NN ，_PU 这_DT 个_M 感应_NN 电动势_NN 总要_AD 削弱_VV 电源_NN 电动势_NN 的_DEG 作用_NN ，_PU 这_DT 个_M 感应_NN 电动势_NN 即_AD 为_VC 反电_NN 动势_VV 。_PU 它_PN 的_DEG 作用_NN 是_VC 阻碍_VV 线圈_NN 的_DEG 转动_NN 。_PU 如果_CS 要_VV 使_VV 线圈_NN 维持_VV 原来_JJ 的_DEG 转动_NN ，_PU 电源_NN 就_AD 要_VV 向_P 电动机_NN 提供_VV 能量_VV ，_PU 从而_AD 实现_VV 电能_NN 转化_VV 为_VC 其它_DT 形式_NN 的_DEC 能_VV 。_PU
+
+电动机_NN 及_CC 变压器_NN 在_P 开启_VV 的_DEC 时候_NN ，_PU 没有_VE 反_VV 电动_NN 势_NN ，_PU 根据_P V_NN =_NN IR_NN ，_PU 电流_NN 会_VV 很_AD 大_VA 。_PU 因此_AD ，_PU 有_VE 相关_JJ 法例_NN 规定_VV 电动机_NN 的_DEG 起动_JJ 电流_NN ，_PU 避免_VV 起动_NN 电流_NN 过_AD 大而_AD 导致_VV 电压_NN 骤_AD 降_VA ，_PU 影响_VV 其他_DT 设备_NN 和_CC 其他_DT 用户_NN 。_PU 大_JJ 功率_NN 电动机_NN 对_P 供电_NN 系统_NN 影响_VV 较_AD 大_VA ，_PU 规管_NN 更_AD 严格_VA 。_PU
+
+在_P 香港_NN ，_PU 由_P 电力_NN 公司_NN 的_DEC 架空_NN 电缆_NN 系统_NN 供电_VV ，_PU 小于_VV 1_CD ._PU 5千_CD 瓦_M 的_DEC 单相_JJ 电动机_NN 和_CC 小于_VV 3_CD ._PU 8千_CD 瓦_M 的_DEG 三_CD 相_NN 电动机_NN ，_PU 最_AD 大_JJ 起动_NN 电流_NN 是_VC 6_CD 倍_M 。_PU 3_CD ._PU 8_CD 到_CC 11千_CD 瓦_M 的_DEG 三_CD 相_NN 电动机_NN ，_PU 最_AD 大_JJ 起动_NN 电流_NN 是_VC 2.5_CD 倍_M 。_PU 大型_JJ 电动机_NN 则_AD 需要_VV 向_P 电力_NN 公司_NN 申请_NN 许可_VV 。_PU
+
+如果_CS 电动机_NN 工作_NN 中_LC 由于_P 机械_NN 阻力_NN 过_AD 大而_AD 停止_VV 转动_NN ，_PU 这时_NT 没有_VV 了_AS 反_VV 电动势_NN ，_PU 电阻_NN 很_AD 小_VA 的_DEC 线圈_NN 直接_AD 连在_VV 电源_NN 的_DEG 两_CD 端_NN ，_PU 电流_NN 会_VV 很_AD 大_VA ，_PU 时间_NN 长_VA 了_AS 很_AD 可能_VV 把_BA 电动机_NN 烧毁_VV 。_PU
+
+

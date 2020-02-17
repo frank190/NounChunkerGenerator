@@ -1,0 +1,146 @@
+﻿_JJ 表面_NN 等_ETC 离激元_NN
+
+表面_NN 等_ETC 离激元_NN （_PU SurfacePlasmon_NR ）_PU 是_VC 金属_NN 表面_NN 电子_NN 在_P 外界_NN 电磁场_NN 作用_NN 下_LC 产生_VV 集体_NN 振荡_VV 的_DEC 现象_NN ，_PU 分为_VV 局域_NN 表面_NN 等离子_NN 共振_NN （_PU LocalSurfacePlasmonResonance_NR ，_PU LSPR_NN ）_PU 和_CC 表面_NN 等_ETC 离极化_NN 激元_NN （_PU SurfacePlasmonPolariton_NR ，_PU SPPs_NR ）_PU 两_CD 种_M 。_PU
+
+LSPR_NN 是_VC 在_P 入射光_NN 激发_VV 下_LC 产生_VV 于_P 正负_NN 介电_NN 常数_NN 材料_NN 界面_NN 处_NN 的_DEC 传导_NN 电子_NN 谐振_NN 现象_NN 。_PU 在_P 共_AD 振_CD 波_M 长_JJ 处_NN 表现_VV 为_VC 近_JJ 场场_NN 强_AD 增强_VV 。_PU 这_DT 个_M 近场_NN 高度集_NN 中_LC 在_P 纳米_NN 颗粒_NN 中_LC ，_PU 并_CC 在_P 远离_JJ 纳米_NN 颗粒_NN /_PU 电介质_NN 界面_NN 进入_VV 到_VV 电介质_NN 基底_NN 中_LC 时_LC 迅速_AD 衰减_VV 。_PU 光_AD 强_VA 的_DEC 增强_NN 是_VC 局部_NN 表面_NN 等_ETC 离_VV 共_AD 振_VA 的_DEC 一_CD 个_M 重要_JJ 方面_NN ，_PU 局域_NN 意味_VV 着_AS LSPR_NN 有_VE 很_AD 高_JJ 空间_NN 频率_NN （_PU 亚波_NN 长_VA ）_PU ，_PU 并且_CC 仅_AD 受_VV 纳米_NN 粒子_NN 尺寸_NN 的_DEG 限制_NN 。_PU 由于_P 电场_NN 振幅_NN 的_DEG 增强_NN ，_PU 基于_P 振幅_NN 增强_VV 的_DEC 效应_NN 如_P 磁光_NN 效应_NN 也_AD 因_P 局部_NN 表面_NN 等_ETC 离_VV 共_AD 振_VA 的_DEC 存在_VV 而_MSP 增强_VV 。_PU
+
+LSPR_NN 是_VC 许多_CD 测量_NN 平面_NN 金属_NN （_PU 通常_AD 是_VC 金_NN 或_CC 银_NN ）_PU 表面_NN 或_CC 金属_NN 纳米_NN 颗粒_NN 表面_NN 上_LC 材料_NN 的_DEG 吸收_NN 的_DEC 基础_NN ，_PU 也_AD 是很_AD 多基于_VV 颜色_NN 的_DEG 生物_NN 传感器_NN 应用_VV 的_DEC 基本_JJ 原理_NN 。_PU
+
+SPP_CD 是_VC 沿_P 金属_NN -_PU 电介质_NN 或_CC 金属_NN -_PU 空气_NN 交界面_NN 传播_VV 的_DEC 红外_NN 或_CC 可_VV 见光_VV 波段_NN 的_DEC 电磁波_NN 。_PU SPP_NN 波长_NN 比入_VV 射光_NN （_PU 光子_NN ）_PU 的_DEG 波长_NN 短_VA 。_PU 因此_AD ，_PU SPP_M 有_VE 更_AD 严格_VA 的_DEC 空间_NN 约束_VV 和_CC 更_AD 高_VA 的_DEC 局部_NN 场强_NN 。_PU 在_P 垂直于_VV 交界面_NN 的_DEG 方向_NN 上_LC 有_VE 亚波_NN 长_VA 量级_VA 的_DEC 约束_VV 。_PU 表面_NN 等_ETC 离激元_NN 会_VV 沿_P 交界面_NN 传播_VV ，_PU 直到_VV 能量_NN 消失_NN ，_PU 包括_VV 被_SB 金属_VV 吸收_VV 或_CC 散射_VV 到_VV 其他_DT 方向_NN （_PU 例如_AD 自由_P 空间_NN ）_PU 。_PU
+
+表面_NN 等_ETC 离激元_NN 的_DEC 应用_NN 使得_VV 亚波_NN 长_VA 的_DEC 显微镜_NN 和_CC 光刻_NN 超出_VV 了_AS 衍射_NN 极限_VV 的_DEC 限制_NN 。_PU 同时_AD 也_AD 能够_VV 用_P 第一_OD 稳态_NN 微机_NN 械_NN 测量_NN 光_AD 本身_PN 的_DEG 基本_JJ 属性_NN ：_PU 电介质_NN 中_LC 的_DEC 光子_NN 动_VV 量_NN 。_PU 其他_DT 的_DEG 应用_NN 有_VE 光子_NN 数据_NN 存储_NN 、_PU 光振荡_NN 和_CC 双_CD 光子_NN 效应_NN 等_ETC 。_PU
+
+表面_NN 等_ETC 离激元_NN 可以_VV 被_LB 电子_NN 或_CC 光子_NN 激发_VV 。_PU 电子_NN 激发_NN 是_VC 通过_P 将_BA 电子_NN 发射_VV 到_VV 金属体_NN 内_LC 实现_VV 的_SP 。_PU 随着_P 电子_NN 的_DEG 散射_NN ，_PU 电子_NN 的_DEC 能量_NN 就_AD 传递_VV 到_VV 了_AS 等离子体_NN 。_PU 散射_NN 矢量_NN 中_LC 平行_VV 于_P 表面_NN 的_DEG 分量_NN 导致_VV 了_AS 表面_NN 等_ETC 离激元_NN 的_DEC 产生_VV 。_PU
+
+对于_P 用_P 光子_NN 激发_VV 表面_NN 等_ETC 离激元_NN ，_PU 这_DT 两_CD 者_NN 有_VE 相同_VA 的_DEC 频率_NN 和_CC 动量_NN 。_PU 然而_AD ，_PU 对于_P 给定_VV 的_DEC 频率_NN ，_PU 一_CD 个_M 自_AD 由_P 空间_NN 光子_NN 的_DEC 动量_NN 少于_VV SPP_NN ，_PU 因为_P 这_DT 两_CD 者_NN 有_VE 不同_VA 的_DEC 色散关_NN 系_NN （_PU 见_VV 下文_NR ）_PU 。_PU 动量_NN 失配_NN 是_VC 空气_NN 中_LC 自由_P 空间_NN 的_DEC 光子_NN 不_AD 能_VV 直接_AD 耦合_VV 成_VV SPP_NN 的_DEG 原因_NN 。_PU 也_AD 是_VC 因为_P 同样_JJ 的_DEG 原因_NN ，_PU 光滑_JJ 金属_NN 表面_NN 的_DEC 表面_NN 等_ETC 离激元_NN 不_AD 能_VV 以_P 自由_P 空间_NN 光_AD 子_VA 的_DEC 形式_NN 发射_VV 能_VV 量到_VV 电介质_NN 中_LC （_PU 如果_CS 电介质_NN 是_VC 均匀_VA 的_DEC ）_PU 。_PU 这_DT 种_M 不匹_NN 配_VV 性_NN 与_CC 全_NN 内_LC 反射_VV 时_LC 透射_NN 能量_VV 的_DEC 损失_NN 类似_NN 。_PU
+
+但是_AD ，_PU 可以_VV 借用_VV 耦合_JJ 媒介_NN 使_VV 光子_NN 耦合_NN 成为_VV 表面_NN 等_ETC 离激元_NN ，_PU 比如_AD 用_P 棱镜_NN 或_CC 光栅_NN 来_MSP 匹配_VV 光子_NN 和_CC SPP_NN 的_DEC 波矢量_NN （_PU 因此_AD 动_VV 量_NN 匹配_NN ）_PU 。_PU 在_P Kretschmann_NN 结构_NN 中_LC 棱镜_NN 可以_VV 放_VV 在_P 紧贴_JJ 薄_JJ 金属_NN 薄膜_NN 的_DEC 位置_NN ，_PU 在_P Otto_NN 结构_NN 中_LC 棱镜_NN 可以_VV 放_VV 在_P 离_NN 金属_NN 表面_NN 非常_AD 近_VA 的_DEC 位置_NN （_PU 如_P 图_NN 1_CD 所_MSP 示_VV ）_PU 。_PU 光栅_NN 耦合器_NN 通过_P 将_BA 平行_JJ 方向_NN 的_DEG 波矢_NN 分量_NN 提高_VV 一_CD 个_M 与_P 光栅_NN 周期_NN 相关_VV 的_DEC 量_NN 来_MSP 匹配_VV 波矢量_NN 。_PU 这_DT 种_M 方法_NN 对_P 理论_NN 上_LC 理解_VV 表面_NN 粗糙度_NN 的_DEG 影响_NN 至关_AD 重要_VV ，_PU 但是_AD 使用_VV 的_DEC 比较_NN 少_VA 。_PU 此外_VA ，_PU 平面_NN 上_LC 的_DEG 简单_JJ 孤立_NN 的_DEC 表面_NN 缺陷_VV 如_P 凹槽_NN 、_PU 狭缝_NN 或_CC 褶皱_NN 可以_VV 使自_VV 由_P 空间_NN 辐射_NN 和_CC 表面_NN 等离子体_NN 交换_NN 能量_NN ，_PU 因此_AD 产生_VV 耦合_NN 。_PU
+电磁波_NN 传播_VV 的_DEC 电场_NN 方程_NN 如下_VV 所_MSP 示_VV ：_PU
+
+formula_NN
+
+其中_NN formula_NN __NN 2_CD 是_VC 波数_NN ，_PU formula_NN __NN 3_CD 是_VC 频率_NN 。_PU 对_P 相对_JJ 介电_NN 常数_NN 分别_AD 为_VC formula_NN __NN 4_CD 和_CC formula_NN
+
+formula_NN
+
+和_CC
+
+formula_NN
+
+其中_NN c_NN 是_VC 光_VV 在_P 真空_NN 中_LC 的_DEG 速度_NN ，_PU 对于_P 交界面_NN 处_NN 两_CD 介质_NN 中_LC 的_DEG 表面波_NN 来_MSP 说_VV formula_NN
+
+formula_NN
+
+在_P 忽略_VV 了_AS 衰减_VV 的_DEC 电子_NN 气体_NN 的_DEC 自由_JJ 电子_NN 模型_NN 中_LC ，_PU 金属_NN 介电_NN 函数_NN 为_VC ：_PU
+
+formula_NN
+
+其中_NN SI_NN 单位_NN 下_LC 的_DEC 等离子体_NN 频率_NN 为_VC ：_PU
+
+formula_NN
+
+其中_NN n_NN 是_VC 电子_NN 密度_NN ，_PU e_NN 是_VC 电子_NN 的_DEG 电荷_NN ，_PU m_NN *_PU 是_VC 电子_NN 的_DEG 有效_JJ 质量_NN ，_PU formula_NN 比较_VV 小_VA 的_DEC 时候_NN S_NN P_CC P_NN 表现_VV 为_VC 一_CD 个_M 光子_NN ，_PU 随着_P k_NN 的_DEG 增大_NN ，_PU 色_NN 散_VV 曲线_NN 弯曲_VV 逐渐_AD 逼近_VV 一_CD 个_M 称为_VV “_PU 表面_NN 等_ETC 离子体_NN 频率_NN ”_PU 的_DEG 极限_NN 。_PU 由于_P 色散_NN 曲线_NN 在_P 直线 _NN formula_NN
+
+formula_NN
+
+在_P 空气_NN 中_LC ，_PU 可_VV 简化_VV 为_VC ：_PU
+
+formula_NN
+
+如果_CS 假设_VV formula_NN __NN 5_CD 是_VC 一_CD 个_M 实数_NN ，_PU 并且_CC formula_NN __NN 17_CD ，_PU 那_DT formula_NN __NN 18_CD ，_PU 这_DT 个_M 条件_NN 在_P 金属_NN 中_LC 可以_VV 满足_VV 。_PU 电磁波_NN 穿过_VV 金属_NN 时_LC 由于_P 欧姆_NN 损耗_NN 和_CC 电子_NN 空穴_NN 相互_AD 作用_VV 会_VV 产生_VV 阻尼_NN 衰减_NN 。_PU 这些_DT 效应体_NN 现_VV 在_P 介电_NN 函数_NN 的_DEC 虚数_NN 分量_NN 中_LC ，_PU 金属_NN 的_DEC 介电_NN 函数_NN 为_VC formula_NN __NN 19_CD ，_PU 其中_NN formula_NN __NN 20_CD 和_CC formula_NN __NN 21_CD 分别_AD 为_VC 介电_NN 函数_NN 的_DEG 实部_NN 和_CC 虚部_NN 。_PU 一般_AD 情况_NN 下_LC ，_PU formula_NN
+
+formula_NN
+
+波矢量_NN 使_VV 我们_PN 了解_VV 了_AS 电磁波_NN 的_DEG 重要_JJ 物理_NN 特性_NN 如_P 空间_NN 范围_NN 和_CC 耦合波_NN 矢量_NN 匹配_VV 的_DEC 条件_NN 。_PU
+
+SPP_CD 在_VV 沿_P 表面_NN 传播_VV 时_LC ，_PU 由于_P 金属_NN 的_DEG 吸收会_NN 损失_VV 一_CD 部分_NN 能量_VV 。_PU 表面_NN 等_ETC 离子体_NN 的_DEG 强度_NN 随_P 电场_NN 的_DEG 平方_NN 衰减_VV ，_PU 因此_AD 在_P 距离_NN 为_VC x_NN 的_DEC 位置_NN ，_PU 强度_NN 衰减_VV 为_VC 原来_JJ 的_DEG formula_NN
+
+formula_NN
+
+同样_AD 地_DEV ，_PU 在_P 垂直_VV 于_P 金属_NN 表面_NN 的_DEG 方向_NN ，_PU 电场_NN 瞬间_NN 衰减_VV 。_PU 在_P 低_JJ 频段_NN ，_PU S_AD P_P P_NN 传播_NN 进入_VV 金属_NN 的_DEG 深度_NN 通常_AD 可以_VV 用_P 穿透_VV 深度_NN 公式_NN 近似_AD 得到_VV 。_PU 在_P 介质_NN 中_LC ，_PU 场_NN 的_DEG 衰减_NN 速度_NN 要_VV 慢_PN 得多_VV 。_PU 金属_NN 和_CC 电解质_NN 中_LC 的_DEG 衰减_NN 长度_NN 可_VV 表示_VV 为_VC ：_PU
+
+formula_NN
+
+其中_NN i_NN 代表_VV 传播_NN 介质_NN 。_PU SPP_NN 对_P 小于_VV 穿透_VV 深度_NN 的_DEC 轻微_JJ 扰动_NN 非常_AD 敏感_VA ，_PU 正是_CC 因为_P 如此_AD ，_PU SPP_M 经常_AD 用于_VV 探测_VV 表面_NN 的_DEG 不均_JJ 匀性_NN 。_PU
+
+纳米_NN 尺度_NN 的_DEC 表面_NN 等_ETC 离激元_NN 证明_VV 了_AS 在_P 物质_NN 中_LC 设计_VV 和_CC 控制_VV 光_AD 传播_VV 的_DEC 可能性_NN 。_PU 表面_NN 等_ETC 离激元_NN 技术_NN 可以_VV 被_SB 用于_VV 将_BA 光_AD 有效_VA 地_DEV 引导_VV 进_VV 纳米_NN 尺度_NN 的_DEC 空间_NN 中_LC ，_PU 能够_VV 对_P 共振_JJ 频率_NN 色散_NN 特性_NN 进行_VV 直接_AD 调制_VV （_PU 例如_AD 大幅_AD 缩减_VV 光_AD 波_VA 的_DEC 波长_NN 和_CC 脉宽_NN ）_PU ，_PU 也_CC 可以_VV 达到_VV 与_P 非线性_JJ 物质_NN 的_DEC 强_NN 相互_AD 作用_VV 的_DEC 强场_NN 效果_NN ，_PU 这_AD 可以_VV 增强_VV 光_AD 对_P 外部_NN 参数_NN 的_DEG 敏感度_NN ，_PU 表明_VV 了_AS 表面_NN 等_ETC 离激元_NN 在_P 传感_NN 与_CC 转换_NN 上_LC 广泛_VA 的_DEC 应用_NN 前景_NN 。_PU
+
+对于_P 金属_NN 纳米_NN 颗粒_NN ，_PU 利用_VV LSPR_NN 局限_VV 在_P 一_CD 个_M 很_AD 小_JJ 区域_NN 的_DEC 电场_NN 增强_VV 效应_NN ，_PU 可以_VV 使得_VV 许多_CD 光学_NN 过程_NN 的_DEG 效率_NN 得到_VV 显著_VA 的_DEC 提高_NN 。_PU 金属_NN 纳米_NN 材料_NN 在_P 表面_NN 拉曼_VV 散射_VV 增强_JJ 技术_NN 上_LC 的_DEG 重要_JJ 应用_NN 就_AD 是_VC 典型_JJ 例证_NN 。_PU 现在_NT 利用_VV 这_DT 项_M 技术_NN ，_PU 甚至_AD 能够_VV 实现_VV 单_JJ 分子_NN 信号_NN 的_DEG 检测_NN 。_PU 金属_NN 颗粒_NN 的_DEG 等离激元_NN 共_CC 振频率_NN 以及_CC 电场_NN 在_P 其_PN 周围_NN 的_DEG 分布_NN 表现_VV 出_VV 对_P 颗粒_NN 的_DEG 形状_NN 、_PU 结构_NN 和_CC 组分_NN 的_DEC 明显_JJ 依赖性_NN ，_PU 使得_VV 可以_VV 在_P 纳米_NR 尺度_NN 上_LC 对_P 电场_NN 进行_VV “_PU 修饰_VV ”_PU 。_PU 等离子_NN 体激元_NN 的_DEG 吸收_NN 和_CC 激发_VV 峰值_NN 的_DEC 波长_NN 与_CC 强度_NN 受_VV 分子_NN 吸收_VV 的_DEC 影响_NN ，_PU 这_DT 个_M 特性_NN 可以_VV 用于_VV 分子_NN 传感器_NN 。_PU 目前_NT ，_PU 已_AD 有_VE 基于_P 监测_VV 金_JJ 表面_NN 与_P 表面_NN 等_ETC 离激元_NN 有关_VV 的_DEC 光_NN 吸收_VV 的_DEC 变化_NN 原理_NN 来_MSP 检测_VV 牛奶_NN 中_LC 酪蛋_VV 白_VA 的_DEC 设备_NN 问世_NN 。_PU
+
+SPP_CD 的_DEG 应用集_NN 中_LC 在_P 基于_VV 纳米_NN 尺度_NN 等_ETC 离子体_NN 激元_NN 效应_NN 测量_NN 与_CC 通信_NN 器件_NN 的_DEG 设计_NN 、_PU 制造_NN 和_CC 实验_NN 特性_NN 等_ETC 领域_NN 。_PU 这些_DT 器件_NN 包括_VV 用于_VV 生物_NN 传感_NN 、_PU 光学_NN 定位_NN 和_CC 光学_NN 转换_NN 的_DEC 超小型_JJ 等离子_NN 激_NN 元_NN 干涉仪_NN ，_PU 还_AD 包括_VV 一些_CD 需要_VV 集成_VV 高_JJ 带宽_VA 、_PU 红外_NN 频率_NN 等离子_NN 通讯_NN 设备_VV 于_P 硅_NN 芯片_NN 上_LC 的_DEG 独立_NN 模块_NN (_PU 如_P 等离子_NN 体源_NN ，_PU 波导_NN 和_CC 探测器_NN )_NN 等_ETC 。_PU
+
+除了_P 基于_VV 表面_NN 等_ETC 离激元_NN 构建_VV 的_DEC 功能型_NN 设备_NN ，_PU 利用_VV 在_P 约束_NR 金属_NN /_PU 电介质_NN 空间_NN 传播_VV 的_DEC 表面_NN 等_ETC 离激元_NN 色散_NN 特性_NN 开发_VV 的_DEC 光子_NN 材料_NN 也_AD 是_VC 可行_VV 的_DEC ，_PU 这_DT 种_M 材料_NN 也_AD 被_SB 称为_VV 超材料_NN 。_PU
+
+能够_VV 动态_JJ 控制_NN 纳米_NN 设备_NN 中_LC 材料_NN 的_DEG 等离_JJ 激元_NN 特性_NN 是_VC 发展_VV 的_DEC 关键_NN ，_PU 这_PN 可以_VV 通过_P 等离子_NN 激_AD 元_VA 的_DEC 相互_JJ 作用_NN 来_MSP 实现_VV ，_PU 即_AD 利用_VV 大量_CD 等离子_NN 体_NN 共_CC 振_NN 来_MSP 引导_VV 或_CC 抑制_VV 对_P 光_AD 传播_VV 的_DEC 操控_NN 。_PU 这_DT 种_M 方法_NN 可以_VV 实现_VV 对_P 纳米量_NN 级光_NN 的_DEC 操纵_NN ，_PU 这_PN 能够_VV 带动_VV CMOS_NN 兼_CC 容_VV 的_DEC 光电_NN 等_ETC 离激元_NN 调制器_NN 的_DEG 发展_NN 。_PU CMOS_NN 兼_CC 容_VV 的_DEC 光电_NN 等_ETC 离激元_NN 调制器_NN 也_AD 将_AD 成为_VV 光子_NN 电路_NN 芯片级_NN 的_DEC 关键_JJ 组件_NN 。_PU
+
+在_P 表面_NN 二_OD 次_M 谐波_NN 产生_VV 的_DEC 过程_NN 中_LC ，_PU 二_CD 次_M 谐波_NN 信号_NN 正比_VV 于_P 电场_NN 强度_NN 的_DEG 平方_NN 。_PU 电场_NN 强度_NN 在_P 界面_NN 处_NN 值_VV 更_AD 大_VA ，_PU 因为_P 表面_NN 等_ETC 离子体_NN 产生_VV 了_AS 非_JJ 线性_JJ 光学_NN 效应_NN 。_PU 这_DT 个_M 变大_NN 的_DEC 信号_NN 通常_AD 可_VV 用来_VV 产生_VV 更_AD 强_VA 的_DEC 二_CD 次_M 谐波_NN 信号_NN 。_PU
+
+只有_AD 在_P 某_DT 一_CD 界面_NN 处_NN 介电_NN 常数_NN 的_DEG 实部_NN 发生_VV 符号_NN 改变_NN ，_PU 表面_NN 等_ETC 离激元_NN 才_AD 可能_VV 存在于_VV 两_CD 种_M 材料_NN 之间_LC 的_DEG 界面_NN 。_PU 由于_P 大量_CD 的_DEG 自由_JJ 电子_NN 的_DEG 存在_NN ，_PU 使得_VV 金属_NN 的_DEG 实部_NN 介电_NN 常数_NN 为_VC 负_NN ，_PU 这_PN 确保_VV 了_AS 在_P 金属_NN /_PU 电介质_NN 界面_NN 处_NN 的_DEG 符号_NN 改变_VV 。_PU 然而_AD ，_PU 由于_P 电阻_NN 的_DEG 欧姆_NN 损耗_NN ，_PU 金属_NN 材料_NN 会_VV 降低_VV 等离子_NN 设备_NN 的_DEG 性能_NN 。_PU 为了_P 降低_VV 损耗_NN ，_PU 需要_VV 探索_VV 新_JJ 材料_NN 并且_CC 优化_VV 已_AD 有_VE 材料_NN 的_DEG 工艺_NN 。_PU 材料_NN 的_DEG 损耗_NN 和_CC 极化_JJ 都会_NN 影响_VV 光学_NN 特性_NN 。_PU 表面_NN 等_ETC 离激元_NN 的_DEC 品质_NN 因_P 数_P Q_NN 定义_VV 为_VC formula_NN
+
+银_NN 在_P 可见_VA 、_PU 近_JJ 红外_NN 和_CC 通讯_NN 波段_NN 的_DEG 损耗_NN 在_P 四_CD 种_M 材料_NN 最_AD 低_VA 。_PU 金_NN 和_CC 铜_NN 在_P 可_VV 见_VV 和_CC 近_JJ 红外_NN 波段_NN 性能_NN 都_AD 很_AD 好_VA ，_PU 但_AD 铜_VV 在_P 电信_NN 波长_NN 中_LC 略有_AD 优势_VA 。_PU 金较_VA 之_DEC 银_NN 铜_VV 在_P 自然_JJ 环境_NN 中_LC 化学_NN 稳定性_NN 更_AD 好_VA ，_PU 使_VV 它_PN 很_AD 适合_VV 用于_VV 等离子_NN 激_NN 元生物_NN 传感器_NN 。_PU 然而_AD ，_PU 470_CD nm_NN 处_NN 的_DEC 带间跃_NN 迁_VV 大大_AD 增加_VV 金_VV 在_P 600_CD 纳米_NN 以下_LC 波长_VV 的_DEC 损耗_NN 。_PU 铝_NN 在_P 紫外_NN （_PU <_PU 330_CD nm_M ）_PU 是_VC 最_AD 好_VA 的_DEC 等离子_NN 激元_NN 材料_NN ，_PU 铝_NN 与_P 铜_NN 都_AD 与_P CMOS_NN 兼_CC 容_VV 。_PU
+
+[_PU 1_CD ]_PU Gonz_NN á_NN lez_NN -_PU D_NN í_NN az_NN ,_PU JuanB_NN ._PU ;_PU Garc_NN í_NN a_NN -_PU Mart_NN í_NN n_NN ,_PU Antonio_NN ;_PU Garc_NN í_NN a_NN -_PU Mart_NN í_NN n_NN ,_PU Jos_NN é_NN M_NN ._PU ;_PU Cebollada_NN ,_PU Alfonso_NN ;_PU Armelles_NN ,_PU G_CD aspar_M ;_PU Sep_NN ú_NN lveda_NN ,_PU Borja_NN ;_PU Alaverdyan_NN ,_PU Yury_NN ;_PU K_NN ä_NN ll_NN ,_PU Mikael_NN (_PU 2008_CD )_PU ."PlasmonicAu/Co/AunanosandwicheswithEnhancedMagneto-OpticalActivity". Small 4 (2):_PU 202_CD –_VC 5_CD ._PU  _NN
+
+[_PU 2_CD ]_PU Du_NN ,_PU GuanXiang_NN ;_PU Mori_NN ,_PU Tetsuji_NN ;_PU Suzuki_NN ,_PU Michiaki_NN ;_PU Saito_NN ,_PU Shin_NN ;_PU Fukuda_NN ,_PU Hiroaki_NN ;_PU Takahashi_NN ，_PU Migaku_NN (_PU 2010_CD )_PU ."Evidenceoflocalizedsurfaceplasmonenhancedmagneto-opticaleffectinnanodiskarray". Appl._PU Phys_NN ._PU Lett_NN ._PU  _NN 96_CD  _M (_PU 8)_CD :_PU 081915_CD ._PU  _NN
+
+[_PU 3_CD ]_PU HaesAJ_NN ,_PU ZouS_NN ,_PU SchatzGC_NN ,_PU etal_NN ._PU JPhysChemB_NN ,_PU 2004_CD ,_PU 108_CD (_PU 1)_CD :_PU 109_CD
+
+[_PU 4_CD ]_PU McFarlandA_NN ._PU D_NR ,_PU VanDuyneRP_NR ._PU NanoLett_NR ,_PU 2003_CD ,_PU 3_CD (_PU 8)_CD :_PU 1057_CD
+
+[_PU 5_CD ]_PU  _CD N_CD ISTresearchers_NN ,_PU NanofabricationResearchGroup_NN ._PU  _NN "_PU Three_NN -_PU DimensionalPlasmonicMetamaterials_NN "_PU .NationalInstituteofScienceandTechnology._PU Retrieved_NN  _NN 2011_CD -_PU 02_CD -_PU 15_CD ._PU
+
+[_PU 6_CD ]_PU Yarris_NN ,_PU Lynn_NN ._PU  _NN "_PU GRINPlasmonics_NN ._PU .." (Onlinenewsrelease).U.S.DepartmentofEnergyNationalLaboratoryOperatedbytheUniversityofCalifornia._PU Retrieved_NN  _NN 2011_CD -_PU 02_CD -_PU 15_CD ._PU
+
+[_PU 7_CD ]_PU Barnes_NN ,_PU WilliamL_NN ._PU ;_PU Dereux_NN ,_PU Alain_NN ;_PU Ebbesen_NN ,_PU ThomasW_NN ._PU (2003_CD )_PU ._PU  _NR "_PU Surfaceplasmonsubwavelengthoptics_NR "_PU  (PDF). Nature _PU 424_CD  _M (_PU 6950)_CD :_PU 824_CD –_CC 30_CD ._PU
+
+[_PU 8_CD ]_PU NISTresearchers_NN ,_PU NanofabricationResearchGroup_NN ._PU  _NN "_PU Nanoplasmonics_NN "_PU  _NN (_PU Online_NN )_PU ._PU NationalInstituteo_VV fSciencean_JJ dTechnology_NN ._PU Retrieved_NN  _NN 2011_CD -_PU 02_CD -_PU 15_CD ._PU
+
+[_PU 9_CD ]_PU  _NN Zeng_NN ,_PU S_CD huwen_M ;_PU Yu_NN ,_PU Xia_NN ;_PU Law_NN ,_PU Wing_NN -_PU Cheung_NN ;_PU Zhang_NN ,_PU Yating_NN ;_PU H_CD u_M ,_PU Rui_NN ;_PU D_CD inh_M ,_PU Xuan_NN -_PU Quyen_NN ;_PU H_CD o,Ho_M -_PU Pui_NN ;_PU Yong_NN ,_PU Ken_NN -_PU Tye_NN (_PU 2013_CD )_PU ._PU  _OD "_PU S_OD izedependenceofAuNP_NR -_PU enhancedsurfaceplasmonresonancebasedondifferentialphasemeasurement_NR "_PU . _NR SensorsandActuatorsB_NR :_PU Chemical_NN  _NN 176_CD :_PU 1128_CD ._PU
+
+[10_CD ]_PU Raether_NN ,_PU Heinz_NN (_PU 1988_CD )_PU . SurfacePlasmonsonSmoothandRoughSurfacesandonGratings.SpringerTractsinModernPhysics 111.NewYork:Springer-_PU Verlag_NN ._PU
+
+[11_CD ]_PU Cottam_NN ,_PU MichaelG_NN ._PU (1989_CD )_PU ._PU  IntroductiontoSurfaceandSuperlatticeExcitations.NewYork:CambridgeUniversityPress._Err
+
+[12_CD ]_PU  _NN Kittel_NN ,_PU Charles_NN  _NN (_PU 1996_CD )_PU ._PU  _CS IntroductiontoSolidStatePhysics_NN  _NN (_PU 8_CD thed_NN ._PU ).Hoboken,NJ:_PU JohnWiley_NN &_NN S_VC ons_NR ._PU  _Err
+
+[_PU 13]Homola,_PU Jir_NN í_NN (_PU 2006_CD )_PU . SurfacePlasmonResonanceBasedSensors.SpringerSeriesonChemicalSensorsandBiosensors, 4.Berlin:Springer-_PU Verlag_NN ._PU
+
+[_PU 14]HillenbrandR,TaubnerT,KeilmannF._PU Nature_NN ,_PU 2002_CD ,_PU 418_CD (_PU 6894)_CD :_PU 159_CD
+
+[_PU 15]Bravo-AbadJ,Garcia-VidalFJ,Martin-MorenoL.PhysRevLett,_PU 2005,93(22):227401_NN
+
+[16_CD ]_PU XuH_NN ,_PU BjerneldEJ_NN ,_PU K_NN ä_NN llM_NN ,_PU etal_NN ._PU PhysRevLett_NN ,_PU 1999_CD ,_PU 83_CD (_PU 21)_CD :_PU 4357_CD
+
+[_PU 17]NieS,EmerySR.Science,_PU 1997,275(5303):1102_NN
+
+[18_CD ]_PU JinR_NN ,_PU CaoY_NN ,_PU MirkinCA_NN ,_PU etal_NN ._PU Science_NN ,_PU 2001_CD ,_PU 294_CD (_PU 5548)_CD :_PU 1901_CD
+
+[19_CD ]_PU MinhHiep_NN ,_PU Ha_NN ;_PU Endo_NN ,_PU Tatsuro_NN ;_PU Kerman_NN ,_PU Kagan_NN ;_PU Chikae_NN ,_PU Miyuki_NN ;_PU Kim_NN ,_PU Do_NN -_PU Kyun_NN ;_PU Yamamura_NN ,_PU Shohei_NN ;_PU Takamura_NN ,_PU Yuzuru_NN ;_PU Tamiya_NN ,_PU Eiichi_NN (_PU 2007_CD )_PU ."Alocalizedsurfaceplasmonresonancebasedimmunosensorforthedetectionofcaseininmilk".ScienceandTechnologyofAdvancedMaterials(freedownloadpdf)8(4):_PU 331_CD ._PU
+
+[_PU 20]NISTresearchers,NanofabricationResearchGroup."Nanoplasmonics"(Online).NationalInstituteofScienceandTechnology.Retrieved2011_PU -_PU 02_CD -_PU 15_CD ._PU
+
+[_PU 21]Akimov,_PU YuA_NN ;_PU Chu_NN ,_PU HS_NN (_PU 2012_CD )_PU ._PU "_PU Plasmon_NN –_NN plasmoninteraction_NN :_PU Controllinglightatnanoscale_NN "_PU .Nanotechnology23(44):_PU 444004_CD ._PU
+
+[22_CD ]_PU WenshanCai_NN ,_PU JustinS_NN ._PU White_NN ,_PU andMarkL.Brongersma(_PU 2009_NN )_NN ._PU "_PU Compact_NN ,_PU High_NN -_PU SpeedandPower_NN -_PU EfficientElectroopticPlasmonicModulators_NR "_PU .NanoLetters9(12):_PU 4403_CD –_CC 11_CD ._PU
+
+[23_CD ]_PU V_NN ._PU K_NN ._PU Vale_NN v_CC (_PU 2012_CD )_PU ."CharacterizationofNanostructuredPlasmonicSurfaceswithSecondHarmonicGeneration".Langmuir28(44):_PU 15454_CD –_CC 15471_CD ._PU
+
+[24_CD ]_PU PochiYeh_NN (_PU 3_CD March_NR 2005_NN )_NN ._PU  _NN OpticalWavesinLayeredMedia_NN ._PU Wiley_NN ._PU
+
+[25_CD ]_PU West_NN ,_PU P.R._PU ;_PU Ishii_NN ,_PU S_NN ._PU ;_PU Naik_M ,_PU G_NN ._PU V_NN ._PU ;_PU Emani_NN ,_PU N_CD ._PU K_NN ._PU ;_PU Shalae_NN v_CC ,_PU V_NN ._PU M_NN ._PU ;_PU Boltasseva_NN ,_PU A_NN ._PU (_NN 2010_CD )_PU ._PU "_PU Searchingforbetterplasmonicmaterials_NN "_PU ._PU  _NN Laser_NN &_NN PhotonicsReviews_NN  _NN 4_CD  _M (_PU 6)_CD :_PU 795_CD –_CC 808_CD ._PU  _NN
+
+[_PU 26]Boltasseva,A.;Atwater,H.A.(_PU 2011_CD )_PU ."Low-LossPlasmonicMetamaterials". Science _PU 331_CD  _M (_PU 6015)_CD :_PU 290_CD –_CC 291_CD ._PU
+
+[27_CD ]_PU Blaber_NN ,_PU MG_NN ;_PU Arnold_NN ,_PU MD;Ford,MJ(_PU 2010_CD )_PU ."Areviewoftheopticalpropertiesofalloysandintermetallicsforplasmonics". JournalofPhysics:CondensedMatter 22(14):_PU 143201_CD ._PU  _NN
+
+[28_CD ]_PU McPeak_NN ,_PU KevinM_NN ._PU ;_PU Jayanti_NN ,_PU SriharshaV_NN ._PU ;Kress,StephanJ.P._PU ;_PU Meyer_NN ,_PU Stefan_NN ;_PU Iotti_NN ,_PU Stelio_NN ;_PU Rossinelli_NN ,_PU Aurelio_NN ;_PU Norris_NN ,_PU DavidJ_NN ._PU (2015_CD )_PU ."PlasmonicFilmsCanEasilyBeBetter:RulesandRecipes". ACSPhotonics 2 (3):_PU 326_CD –_CC 333_CD ._PU
+
+[_PU 29]Homola,_PU Jir_NN (_PU 2003_CD )_PU ."Presentandfutureofsurfaceplasmonresonancebiosensors". AnalyticalandBioanalyticalChemistry 377 (3):_PU 528_CD –_CC 539_CD ._PU  _NN
+
+[_PU 30]Etchegoin,P.G.;LeRu,E.C._PU ;_PU Meyer_NN ,_PU M_CD ._PU (2006_CD )_PU ."Ananalyticmodelfortheopticalpropertiesofgold". TheJournalofChemicalPhysics _PU 125_CD  _M (_PU 16)_CD :_PU 164705_CD ._PU
+
+[_PU 31]Kretschmann,E._PU (April_NN 1974_CD )_PU ."DieBestimmungderOberflächenrauhigkeitdünnerSchichtendurchMessungderWinkelabhängigkeitderStreustrahlungvonOberflächenplasmaschwingungen". OpticsCommunications (inGerman) 10 (4):_PU 353_CD –_CC 356_CD ._PU
+
+[_PU 32]Kretschmann,E.(_PU 1972_CD )_PU ."Theangulardependenceandthepolarisationoflightemittedbysurfaceplasmonsonmetalsduetoroughness". OpticsCommunications 5 (5):_PU 331_CD –_CC 336_CD ._PU
+
+

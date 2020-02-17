@@ -1,0 +1,40 @@
+﻿_NN 时_LC 不_AD 变_VV 系统_NN
+
+非_AD 时_LC 变_VV 系统_NN 是_VC 输出_VV 不_AD 会_VV 直接_AD 随着_P 时间_NN 变化_VV 的_DEC 系统_NN 。_PU
+
+如果_CS 系统_NN 的_DEG 传递_NN 函数_NN 不_AD 是_VC 时间_NN 的_DEC 函数_NN ，_PU 就_AD 可以_VV 满足_VV 这_DT 个_M 特性_NN 。_PU 这_DT 个_M 特性_NN 也_AD 可以_VV 用_P 示意图_NN 的_DEG 术语_NN 进行_VV 描述_NN
+
+为了_P 表明_VV 如何_DT 确定_NN 系统_NN 是时_AD 不_AD 变_VV 系统_NN ，_PU 以_MSP 下来看_VV 两_CD 个_M 系统_NN ：_PU
+
+由于_P 系统_NN A_NN 除了_P formula_NN __NN 1_CD 与_P formula_NN
+
+下面_NN 将_BA 给出_VV 系统_NN A_NN 和_CC B_NN 更加_AD 正式_VA 的_DEC 证明_NN 。_PU 为了_P 完成_VV 这_DT 个_M 证明_NN ，_PU 我们_PN 需要_VV 使用_VV 第二_OD 个_M 定义_NN 。_PU
+
+系统_NN A_NN ：_PU
+
+系统_NN B_NN :_PU
+
+我们_PN 用_P formula_NN __NN 23_CD 表示_VV 移位_NN 算子_NN ，_PU 其中_NN formula_NN
+
+可以_VV 用_P 这_DT 个_M 抽象_NN 表示_NN
+
+其中_NN formula_NN
+
+以及_CC 产生_VV 系统_NN 移位_NN 输出_NN
+
+所_MSP 定义_VV 的_DEC 函数_NN ，_PU 这样_AD formula_NN
+
+假设_VV 我们_PN 用_P 算子_NN formula_NN
+
+如果_CS 系统_NN 方程_NN 是_VC
+
+并且_CC 如果_CS 我们_PN 可以_VV 将_BA 系统_NN 算子_NN formula_NN __NN 31_CD 首先_AD 对_P formula_NN __NN 27_CD 进行_VV 运算_NN ，_PU 然后_AD 再_AD 用_P 移位_NN 算子_NN formula_NN __NN 23_CD 进行_VV 运算_NN ，_PU 或者_CC 首先_AD 用_P 移位_NN 算子_NN formula_NN __NN 23_CD ，_PU 然后_AD 再_AD 用_P 系统_NN 算子_NN formula_NN
+
+首先_AD 用_P 系统_NN 算子_NN 进行_VV 运算_NN 将_AD 得到_VV
+
+首先_AD 用_P 移位_NN 算子_NN 将_AD 得到_VV
+
+如果_CS 系统_NN 是时_AD 不_AD 变的_VV ，_PU 那么_AD
+
+
+

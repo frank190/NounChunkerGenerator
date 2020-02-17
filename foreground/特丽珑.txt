@@ -1,0 +1,18 @@
+﻿特丽珑_NN
+
+-_PU {zh_NN -_PU cn_NN :_PU 特丽珑_NN ;_PU zh_NN -_PU tw_NN :_PU 特丽_NN 霓虹_NN ;_PU }_NN -_PU ，_PU 又_CC 译_NN -_PU {_NN zh_NN -_PU cn_NN :_PU 特丽_JJ 霓虹_NN ;_PU zh_NN -_PU tw_NN :_PU 特丽珑_NN ;_PU }_NN -_PU ，_PU 香港_NN 有_VE 时译_NN 作_VV -_PU {zh_NN -_PU hans_NN ;_PU zh_NN -_PU hant_NN ;_PU |_BA 新力_NN 单_AD 枪_VC }_CD -_PU ，_PU 是_VC 日本_NR 索尼_NN 公司_NN 为_VV 其_PN 采用_VV 特殊_JJ 结构_NN 的_DEC 彩色_NN 阴极_NN 射线管_NN （_PU CRT_NN ）_PU 注册_NN 的_DEC 商标_NN ，_PU 被_SB 用于_VV 制造_VV 彩色_NN 电视_NN 、_PU 彩色_NN 监视器_NN 和_CC 彩色_NN 电脑_NN 监视器_NN ，_PU 于_P 1967_CD 年_M 开发_VV 成功_VV ；_PU 到_VV 2007_CD 年_M 由于_P 液晶_NN 显像_NN 技术_NN 的_DEG 冲击_NN ，_PU 而_CC 在_P 全球_DT 范围_NN 停产_VV 。_PU 特_AD 丽_P 霓虹_NN 阴极_NN 映像管_NN 因为_P 几_CD 大_JJ 优势_NN 被_SB 认为_VV 是_VC 市面_NN 上_LC 性能_NN 最_AD 好_VA 的_DEC 彩色_NN 显象管_NN 之一_AD ，_PU 其时_NT 在_P 广播_JJ 专业_NN 领域_NN 和_CC 专业_NN 电脑_NN 绘图_NN 领域_NN 具有_VV 独占_JJ 鳌头_NN 的_DEC 市占率_NN 。_PU 索尼_NN 公司_NN 自己_AD 制造_VV 采用_VV 特丽_NN 珑管_NN 的_DEG 显像_NN 设备_NN ，_PU 同时_AD 也_AD 把_BA 此_DT 管成品_NN 卖给_VV 其他_DT 专业_NN 厂家_NN ，_PU 这些_DT 厂家_NN 可以_VV 采用_VV 自己_PN 的_DEG 电路_NN 设计_NN 驱动_VV 特丽_NN 珑管_NN （_PU 例如_AD 德国根_NN 德_NN (_PU Grundig_NN )_PU 部分_NN 型号_NN 彩电_NN ，_PU 和_CC 电脑_NN 监视器_NN 领域_NN 的_DEG EIZOFlexscan_NN 系列_NN ，_PU 都_AD 属于_VV 此_DT 种_M 情况_NN ）_PU 。_PU
+
+
+
+索尼_NR 公司_NN 在_VV 很_AD 长_JJ 时间_NN 内_LC 拥有_VV 这_DT 种_M 设计_NN 的_DEC 专利权_NN ，_PU 专利_NN 权过期_NN 后_LC ，_PU 其他_DT 的_DEG 一些_CD 公司_NN 可以_VV 将_BA 自己_AD 生产_VV 的_DEC 的_DEC 这_DT 种_M 显像管_NN 产品_NN 以_P 珑_NN 结尾_VV 的_DEC 名字_NN 命名_NN ，_PU 最_AD 有名_VA 的_DEC 日本_NR 三菱_NN 公司_NN (_PU 与_CC NEC_NN 合作_VV )_PU 为_VC 电脑_NN 监视器_NN 开发_VV 的_DEC ‘_PU 钻石珑_NN ’_PU (_CD Diamondtron_M )_PU 系列_NN 显像管_NN 。_PU ‘_PU 钻石珑_NN ’_PU 管_CC 也_AD 采用_VV 了_AS 特_AD 丽珑_VA 的_DEC 荫栅_NN 结构_NN ，_PU 但_AD 没有_VE 采用_VV 索尼_VA 的_DEC 单_JJ 枪构造_NN ，_PU 是_VC 三_CD 枪_NN 三_CD 束_M 管_NN 。_PU 钻石珑_NN 上_LC 市之_VV 后_LC ，_PU 由于_P 三菱_NT 出售_VV 映像管_NN 给_P 第三_OD 方厂_NN 商较_VV 为_VC 积极_NN ，_PU 有_VE 数量_NN 及_CC 价格_NN 上_LC 的_DEG 优势_NN ，_PU 效果_NN 与_P 特丽_NN 珑虽_NN 互_AD 有_VE 长短_VA ，_PU 但_CC 整体_AD 有_VE 同_DT 一_CD 水準_NN ，_PU 打破_VV 了_AS 特丽珑_NN 的_DEC 独霸_NN 状态_NN 。_PU 甚至_AD 在_P 末期_NN 瓜分_VV 了_AS 大半_CD 电脑_NN 显示器_NN 销售_VV 台数_NN ，_PU 特_AD 別_VV 在_P 第三_OD 方_M 生产_NN 的_DEC 品牌_NN 及_CC 中价_JJ 位带_NN 的_DEC 市场_NN 。_PU
+
+尽管_CS 不_AD 为_VV 一般_AD 人所知_VV ，_PU 部份_NN HR_NN 特丽珑_NN 及_CC 电脑_NN 显示器_NN 事实_NN 上_LC 也_AD 采用_VV 了_AS 三_CD 枪_M 三_CD 束_M 的_DEG 架构_NN ，_PU 并且_CC 与_P 钻石珑_NN 采用_VV 类似_VA 的_DEC 多重_JJ 电子_NN 透镜_NN 来_MSP 聚焦_VV ，_PU 并_CC 舍弃_VV 了_AS 两_CD 度_M 三_CD 束_M 交叉_NN 与_CC 静电_NN 曲折_NN 汇聚_VV 的_DEC 传统_NN ，_PU 但_CC 前方_NN 仍_AD 维持_VV 荫栅_NN 结构_NN ，_PU 实质_NN 上_LC 与_P 钻石珑_NN 的_DEC 三_CD 枪_NN 三_CD 束_M 相当_AD 接近_VV 。_PU 不过_AD 索尼_VV 公司_NN 并_AD 没有_VV 对外_AD 明示_VV 这_DT 项_M 更动_NN ，_PU 仍然_AD 以_P HR_NN 特_AD 丽_P 珑_NN 及_CC 特丽珑_NN 的_DEC 名称_NN 贩售_VV 这些_DT 显像管_NN 。_PU 仅_AD 管_P 这些_DT 显像管_NN 架构_NN 与_CC 钻石珑_NN 类似_VV ，_PU 不过_AD 显像_VV 管本身_AD 仍_AD 由_P 索尼_VV 的_DEC 工厂_NN 自行_AD 生产_VV ，_PU 其他_DT 部分_NN 也_AD 保留_VV 与_CC 以往_NT 的_DEG 特丽珑_NN 类似_PU (_PU 如_P 重量_NN 等_ETC )_PU 。_PU
+
+在_P 一_CD 段_M 时间_NN 内_LC ，_PU 采用_VV 特丽珑_NN 阴极_NN 映像管_NN 的_DEC 显示器_NN 也_AD 被_SB 苹果_VV 电脑_NN 、_PU IBM_NN 、_PU 惠普_NN 、_PU 戴尔_NN 、_PU 迪吉_NN 多_CD 公司_NN （_PU DigitalEquipmentCorporation_NR ）_PU 、_PU 升阳_NR 公司_NN （_PU SunMicrosystems）_PU 、_PU 视算科_NN 技公司_NN （_PU SGI_CD ）_PU 公司_NN 和_CC 其他_DT 一些_JJ 公司_NN 销售_NN 。_PU 这些_DT 机型_NN 实际上_AD 绝_AD 大多数_CD 是_VC 索尼_NN 公司_NN 在自_VV 有_VE 工厂_NN 以_P 统一_NN 机芯_NN 制造_VV ，_PU 属于_VV 贴牌_NN 产品_NN 。_PU
+
+
+
+
+
+
+

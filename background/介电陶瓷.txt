@@ -1,0 +1,8 @@
+﻿介电_NN 陶瓷_NN
+
+介电_NN 陶瓷_NN ，_PU 主要_AD 是_VC 利用_VV 陶瓷_NN 的_DEC 介电_NN 性能_NN ，_PU 也就是_AD 由_P 材料_NN 中_LC 电荷_NN 短程_NN 分布_VV 所_MSP 引起_VV 的_DEC 性能_NN 。_PU
+
+当_P 材料_NN 的_DEG 晶格_NN 为_VC 分_NN 对称_VA 的_DEC 时候_NN ，_PU 应力_NN 可以_VV 导致_VV 电荷_NN 的_DEG 不对_JJ 称分布_NN ，_PU 这_DT 种_M 材料_NN 就_AD 叫做_VV 压电_NN 材料_NN 。_PU 当_P 材料_NN 的_DEG 不对_JJ 称分布_NN （_PU 也就_AD 是_VC 电极子_NN ）_PU 有_VE 两_CD 个_M 方向_NN 的_DEC 时候_NN ，_PU 温度_NN 差异_NN 也_AD 会_VV 导致_VV 电极子_NN ，_PU 这_DT 种_M 材料_NN 就_AD 叫做_VV 热_JJ 释电_NN 材料_NN 。_PU 当_P 材料_NN 可以_VV 产生_VV 自发_NN 极子_NN 的_DEC 时候_NN ，_PU 这_DT 种_M 材料_NN 就_AD 叫做_VV 铁电_NN 材料_NN 。_PU
+
+
+

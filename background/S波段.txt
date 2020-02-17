@@ -1,0 +1,5 @@
+﻿_NN S_NN 波段_NN
+
+S_NN 波段_NN （_PU ）_PU 是_VC 指_VV 频率_VV 在_P 2_CD -_PU 4_CD GHz_M 的_DEC 无线_JJ 电波_NN 波段_NN 。_PU N_CD ASA_M 和_CC 欧洲_NN 空间_NN 局_NN 的_DEC 深_JJ 空站_NN 通用_VV 的_DEC S_NN 波段_NN 通信_NN 频率_NN 范围_NN 为_VC 上行_NR 2025_CD -_PU 2120_CD MHz_M ，_PU 下_LC 行_VV 2200_CD -_PU 2300_CD MHz_M 。_PU
+
+

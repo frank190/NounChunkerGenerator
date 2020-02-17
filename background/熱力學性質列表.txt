@@ -1,0 +1,8 @@
+﻿热力_NN 学性_JJ 质列_NN 表_NN
+
+!_PU 性质_NN !_PU !_PU 符号_NN !_PU !_PU 单位_NN !_PU !_PU 外延_NN 性质_NN ?_PU !!_PU 内含_NN 性质_NN ?_PU !!_PU 共轭_NN 变量_NN !_PU !_PU 热力学_NN 势_NN ?_PU !!_PU 状态性_NN 质_NN ?_PU !!_PU 过程性_NN 质_NN ?_PU
+
+大多_CD 数_CD 开头_NN 有_VE 「_PU 比_NN 」_PU 的_DEG 性质_NN 都_AD 是_VC 以_P 单位_NN 质量_NN 为_VC 基_NN 準_NN 的_DEC ，_PU 不_AD 过有_VV 时_LC 会_VV 使用_VV 其他_DT 的_DEG 基準_NN ，_PU 例如_AD 单位_NN 莫_AD 耳_VA 。_PU
+
+
+

@@ -1,0 +1,12 @@
+﻿视频_NN 转换_NN
+
+视频_NN 转换_NN 是_VC 指_VV 将_BA 某_DT 种_M 格式_NN 的_DEG 视频_NN 通过_P 重新_JJ 编码_NN 从而_AD 转换_VV 成为_VV 另外_DT 一_CD 种_M 格式_NN 。_PU 如_P 将_BA AVI_NN 转换_VV 为_VC MP4_NN ，_PU DVD_NN 转换_VV 成_VV AVI_NN 。_PU
+因为_P 目前_NT 的_DEG 移动_NN 设备_NN 非常_AD 之_DEV 多_VA ，_PU 因为_P 各_DT 个_M 公司_NN 的_DEC 竞争_NN 关系_VV ，_PU 所以_AD 产品_NN 所_MSP 支持_VV 的_DEC 格式_NN 不_AD 尽_VV 相同_VA ，_PU 所以_AD 视频_VV 转换_NN 应运而生_VV 。_PU
+
+目前_NT 市面_NN 上_LC 的_DEG 视频_NN 格式_NN 有_VE ：_PU WMV_NN ,_PU ASF_NN ,_PU AVI_NN ,_PU RMVB_NN ,_PU FLV_NN ,_PU RM_NN ,_PU MOV_NN ,_PU QT_NN ,_PU MP4_NN ,_PU M4V_NN ,_PU DV_NN ,_PU 3GP_NN ,_PU 3G2_CD ,_PU DAT,MPG,MPEG,_PU VOB_NN ,_PU FLV_NN ,_PU MKV_NN ,_PU MTS_NN ,_PU M2TS,F4V,_PU SWF_NN 等_ETC
+
+美国_NR 制造_VV 的_DEC 常见_JJ 的_DEG 格式_NN 转换_VV 软体_NN 有_VE ：_PU
+
+软体_NN 中_LC 常见_VV 的_DEC 格式_NN 代称_VV ，_PU 部分_NN 软体_NN 考量_NN 使用者_NN 相关_VV 知识_VV 较_AD 低阶_AD 使用_VV 代称_NN
+
+

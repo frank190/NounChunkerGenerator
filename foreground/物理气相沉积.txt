@@ -1,0 +1,11 @@
+﻿物_NN 理气_NN 相_AD 沉积_VV
+
+物理气_NN 相_AD 沉积_VV （_PU ，_PU PVD_NN ）_PU 是_VC 一_CD 种_M 工业_NN 制造_NN 上_LC 的_DEG 工艺_NN ，_PU 是_VC 主要_AD 利用_VV 物理_NN 过程_NN 来_MSP 沉积_VV 薄膜_NN 的_DEG 技术_NN ，_PU 即_AD 真空_NN 镀膜_NN (_PU 蒸镀_NN )_PU ，_PU 多_AD 用_VV 在_P 切削_NN 工具_NN 与_P 各_DT 种_M 模具_NN 的_DEG 表面_NN 处理_VV ，_PU 以及_CC 半导体_NN 装置_NN 的_DEG 制作_NN 工艺_NN 上_LC 。_PU
+
+和_P 化学_NN 气相_NN 沉积_VV 相比_VV ，_PU 物理气_NN 相_AD 沉积_VV 适用_JJ 范围_NN 广泛_VA ，_PU 几乎_AD 所有_DT 材料_NN 的_DEC 薄膜_NN 都_AD 可以_VV 用_VV 物理气_NN 相_AD 沉积_VV 来_MSP 制备_VV ，_PU 但是_CC 薄膜_NN 厚度_NN 的_DEG 均匀性_NN 是_VC 物理气_NN 相_AD 沉积_VV 中_LC 的_DEG 一_CD 个_M 问题_NN 。_PU
+
+主要_JJ 的_DEG 物理_NN 气相_NN 沉积_VV 的_DEC 方法_NN 有_VE ：_PU
+
+
+PVD_NN 涂布_NN 机制_NN 造商_NN
+

@@ -1,0 +1,18 @@
+﻿_CS 磁动势_NN
+
+磁动势_NN 的_DEG 标准_NN 定义_VV 是_VC 电流_NN 流_VV 过导体_NN 所_MSP 产生_VV 磁通量_NN 的_DEG 势力_NN （_PU "_PU force_NN "_PU ）_PU ，_PU 是_VC 用_P 来度量_NN 磁场_NN 或_CC 电磁场_NN 的_DEC 一_CD 种_M 量_NN ，_PU 类似于_VV 电场_NN 中_LC 的_DEG 电动势_NN 或_CC 电压_NN 。_PU 它_PN 被_SB 描述_VV 为_VC 线圈_NN 所_MSP 能_VV 产生_VV 磁通量_NN 的_DEG 势力_NN ，_PU 这样_AD 科学_VV 家就_NN 能够_VV 用_P 它_PN 来_MSP 衡量_VV 或_CC 预见_VV 通电_NN 线圈_NN 实际_AD 能够_VV 激发_VV 磁通量_NN 的_DEG 势力_NN 。_PU 此外_AD ，_PU 永久_PN 磁铁_NN 也_AD 会_VV 有_VE 磁动势_NN 。_PU
+
+（_PU "_PU At_NN "_PU ）_PU (_PU 英文_NN ：_PU ampere_NN -_PU turn_NN )_NN ，_PU 米_NN -_PU 千_CD 克_M -_PU 秒制_NN （_PU MKS_NN 制_VV ）_PU 。_PU 代表_VV 一_CD 匝_NN 导线_NN 线圈_NN 流过_VV 1_CD 安培_NN 电流_NN 时_LC 所_MSP 产生_VV 的_DEC 磁势_NN 。_PU
+
+吉_NN 伯_OD （_PU "_PU gilbert_NN "_PU 或_CC "_PU Gi_NN "_PU ）_PU ，_PU 是_VC IEC_NN 1930_CD 提出_VV 的_DEC 单位_NN 。_PU 属于_VV 厘米_NN -_PU 克_M -_PU 秒制_NN 中_LC 的_DEG 磁动势_NN 单位_VV 。_PU 与_P 安培_NN -_PU 匝数_NN 定义_VV 不同_VA ，_PU 是_VC 一_CD 个_M 比_NN 安培_NN -_PU 匝数_NN 稍_AD 小_VA 的_DEC 单位_NN 。_PU 这_DT 个_M 单位_NN 是_VC 以_P 英国_NN 物理_NN 学家_NN 和_CC 哲学家_NN 威廉_NN ·_PU 吉尔_NN 伯特_NN （_PU 1544_CD –_CC 1603_CD ）_PU 的_DEG 名字_NN 命名_NN 的_SP 。_PU
+
+感应_NN 电机_NN 的_DEG 磁动势_NN formula_NN
+
+以及_CC
+
+式_NN 中_LC ：_PU
+
+后者_NN 又_AD 被_SB 称为_VV 霍_NN 普金_NN 斯_DT 定律_NN 或_CC 磁路_NN 欧姆_NR 定律_NN 。_PU
+
+
+

@@ -1,0 +1,17 @@
+﻿动能_NN 定理_VV
+
+动能_NN 定理_VV 指出_VV ：_PU
+合力_NN 对_P 物体_NN 所_MSP 做_VV 的_DEC 功_NN ，_PU 等于_P 物体_NN 动能_VV 的_DEC 差_NN 。_PU
+
+动能_NN 定理_VV 以_P 方程式_NN 表达_VV 为_VC
+
+其中_NN ，_PU formula_NN 是_VC 功_NN ，_PU formula_NN 与_CC formula_NN 是_VC 动能_NN ，_PU formula_NN 是_VC 质量_NN ，_PU formula_NN 与_CC formula_NN 是_VC 速度_NN 。_PU
+
+这_PN 是_VC 一_CD 个_M 标量式_NN ，_PU 也就是说_AD ，_PU 合_VV 外力_NN 所_MSP 做_VV 功之_NN 和_CC 只_AD 需_VV 计算_VV 代数_NN 和_CC ，_PU 不_AD 用_VV 使用_VV 平行_JJ 四边形_NN 法则_NN 。_PU
+
+合力_NN 做_VV 正_AD 功_VA ，_PU 物体_NN 动能_NN 增加_VV ；_PU 合力_NN 做_VV 负功_VV ，_PU 物体_NN 动能_NN 减少_VV 。_PU
+
+动能_NN 定理_VV 仅_AD 适用于_VV 惯性_JJ 坐标系_NN 。_PU
+
+
+

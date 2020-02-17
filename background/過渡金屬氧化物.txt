@@ -1,0 +1,10 @@
+﻿过渡_VV 金属_NN 氧化物_NN
+
+过渡_JJ 金属_NN 氧化物_NN （_PU ）_PU ，_PU 是_VC 指_VV 含有_VV 过渡_JJ 金属_NN 和_CC 氧_VV 的_DEC 一_CD 系列_NN 材料_NN ，_PU 大多数_AD 被_SB 分类_VV 为_VC 绝缘体_NN ，_PU 和_CC 少数_NN 的_DEC 金属_NN 、_PU 贫_NN 金属_NN ，_PU 有些_DT 过渡_JJ 金属_NN 氧化物_NN 也_AD 是_VC 超导体_NN 。_PU
+
+同_DT 一_CD 种_M 过渡_JJ 金属_NN 氧化物_NN 材料_NN 经常_AD 具有_VV 多_CD 种_M 物理_NN 性质_NN ，_PU 例如_AD 铁电性_NN 、_PU 铁磁性_NN 、_PU 超导体_NN 、_PU 热电_NN 效应_NN 、_PU 半导体_NN 、_PU 光电_NN 效应_NN 、_PU 压电_NN 效应_NN 、_PU 磁致_NN 伸缩_VV 、_PU 磁弹性_NN 、_PU 电感_NN 耦合_NN 、_PU 超流体_NN 等_ETC ，_PU 因此_AD 可以_VV 透过_VV 变化_NN 温度_NN 或_CC 压力_NN 而_MSP 达到_VV 金属_NN -_PU 绝缘体_NN 两_CD 个_M 状态_NN 的_DEG 相_NN 变_NN 。_PU
+
+通常_AD 被_SB 使用_VV 的_DEC 特性_NN 包括_VV 催化_NN 活性_NN 和_CC 半导体_NN 特性_NN 。_PU 另外_AD 也_AD 常_AD 被_SB 用作_VV 油漆_NN ，_PU 塑料_NN ，_PU 最_AD 显著_VA 的_DEC 材料_NN 代表_VV 是_VC 二氧化钛_NN 。_PU
+
+
+

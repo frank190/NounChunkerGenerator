@@ -1,0 +1,8 @@
+﻿多孔_NN 介质_NN
+
+多孔_NN 介质_NN 是_VC 指_VV 由_P 许多_JJ 骨架_NN 形成_VV 大量_NN 微小_JJ 缝隙_NN 的_DEC 物质_NN ，_PU 像是_CC 这_DT 对_M 渗流_NN 力学_NN 非常_AD 重要_VA ，_PU 因为_P 流体_NN 在_P 多孔_NN 介质_NN 就_AD 呈现_VV 渗流_NN 的_DEC 方式_NN 运动_VV 。_PU 一般_AD 多_AD 孔_VV 介质_NN 的_DEG 空隙_NN 都_AD 是_VC 相通_VV 的_DEC ，_PU 也_CC 可_VV 能_VV 是_VC 部分_AD 连通_VV 、_PU 部分_NN 不_AD 连通_VV 的_DEC 。_PU
+多孔_NN 介质_NN 有_VE 许多_CD 种_M ，_PU 一般_AD 按_P 它_PN 的_DEG 成因_NN 和_CC 组成_VV 来_MSP 分类_VV :_PU 多_CD 孔_M 介质_NN 可_VV 分为_VV 天然_JJ 多孔_NN 介质_NN 和_CC 人造_NN 多_AD 孔_VV 介质_NN ，_PU 而_CC 天然_JJ 多孔_NN 介质_NN 又_AD 分为_AD 地下_VV 多_CD 孔_M 介质_NN 和_CC 生物_NN 多_CD 孔_NN 介质_NN ，_PU 地下_VV 多_CD 孔_M 介质_NN 是_VC 由_P 岩石_NN 和_CC 土壤_NN 组成_VV 的_DEC 多_CD 孔_M 介质_NN ，_PU 像是_CC 砂岩_NN 、_PU 石灰岩_NN 和_CC 煤炭_NN 等_ETC 。_PU 另_DT 外生物_NN 多_CD 孔_NN 介质_NN 是_VC 指_VV 由_P 植物_NN 和_CC 动物_NN 构成_VV 的_DEC 多_CD 孔_M 介质_NN ，_PU 例如_AD 植物_NN 的_DEC 根_NN 、_PU 茎等_NN ，_PU 和_CC 动物_NN 的_DEG 肺_NN 、_PU 肝等_NN ，_PU 会_VV 让_VV 他们_PN 形成_VV 多_CD 孔_M 介质_NN 的_DEG 原因_NN 主要_AD 是_VC 它们_PN 里面_LC 有_VE 许多_CD 微小_NN 管状物_NN 。_PU 最后_AD 还_AD 有_VE 人造_NN 多_AD 孔_VV 介质_NN ，_PU 简单_VA 的_DEV 说_VV 他_PN 就_AD 是_VC 人造_VV 的_DEC 多孔_NN 介质_NN ，_PU 例如_AD 砖块_NN 就_AD 是_VC 。_PU
+
+
+
+

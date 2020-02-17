@@ -1,0 +1,10 @@
+﻿放_VV 射性_JJ 污染_NN
+
+放射性_JJ 物体_NN 或_CC 放射源_NN 缺少_VV 防护_NN 措施_NN ，_PU 会_VV 导致_VV 放射性_NN 污染_NN 。_PU
+
+核_JJ 工业_NN 中_LC 会_VV 产生_VV 放射性_NN 废弃物_NN 、_PU 废水_NN 、_PU 废气_NN 等_ETC 污染物_NN 。_PU 当_P 核电_NN 站发_VV 生事_NN 故_AD 时_LC ，_PU 也_AD 会_VV 导致_VV 严重_VA 的_DEC 环境_NN 污染_NN ，_PU 典型_JJ 案例_NN 如_P 切尔诺_NN 贝_VV 利_NN 事件_NN 和_CC 由_P 2011_CD 年_M 日本_NR 东北_NN 地_DEC 方太_NN 平洋近海_AD 地_DEV 震_VV 引起_VV 的_DEC 日本_NR 福岛_NN 第一_OD 核电厂_NN 事故_NN 。_PU
+
+进行_VV 各_DT 类核_NN 试验_NN 时_LC ，_PU 放射性_NN 物质_NN 会_VV 扩散_VV 到_VV 大气_NN 中_LC ，_PU 形成_VV 放射性_NN 粉尘_NN 。_PU
+
+
+

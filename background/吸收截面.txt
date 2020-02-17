@@ -1,0 +1,8 @@
+﻿_AD 吸收_VV 截面_NN
+
+吸收_VV 截面_NN 指_VV 某_DT 种_M 物质_NN 对_P 不同_JJ 波长_NN 的_DEC 光_NN (_PU 或_CC 能量_NN ，_PU 光_NN 的_DEG 波长_NN 愈_AD 短_VC 表示_VV 光_NOI 的_DEC 能量_NN 越_AD 大_VA 。_PU )_CD 的_DEG 吸收率_NN 。_PU 更_AD 一般_AD 地_DEV ，_PU 术语_NN "_PU 截面_NN "_PU 被_SB 用于_VV 物理_NN 学量化_NN 某_DT 一_CD 特定_JJ 的_DEG 粒子_NN 与_CC 粒子_NN 相互_AD 作用_VV 的_DEC 概率_NN ，_PU 例如_AD ，_PU 散射_VV ，_PU 电磁波_NN 吸收等_NN （_PU 注意_VV ，_PU 在_P 这_DT 种_M 情况_NN 下_LC ，_PU 光_AD 被_SB 描述_VV 为_VC 由_P 粒子_NN ，_PU 即_AD 光子_NN 组成_NN ）_PU 。_PU
+
+吸收_VV 截面_NN 的_DEG 符号_NN 为_VC σ_VA ，_PU 公式_NN 为_VC :_PU
+<_PU br_NN >_PU formula_NN
+
+

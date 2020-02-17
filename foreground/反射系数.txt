@@ -1,0 +1,28 @@
+﻿反射_NN 系数_NN
+
+在_P 物理学_NN 和_CC 电机_NN 工程学_NN 中_LC ，_PU 反射_NN 系数_NN 是_VC 一_CD 个_M 描述_VV 在_P 传输_NN 介质_NN 中_LC 因为_P 阻抗_NN 的_DEG 不_AD 连_AD 续_AD 造成_VV 有_VE 多少_JJ 电磁波_NN 被_SB 反射_VV 的_DEC 参数_NN 。_PU 它_PN 等于_VV 反射波_NN 与_CC 入射波_NN 的_DEG 振幅_NN 比_NN ，_PU 两_CD 者_NN 都_AD 用_P 相_NN 量_NN 表示_VV 。_PU 例如_AD 在_P 光学_NN 中_LC 用于_VV 计算_VV 具有_VV 不同_JJ 折射率_NN 的_DEG 表面_NN 所_MSP 反射_VV 的_DEC 光_NN 的_DEG 量_NN ，_PU 如_P 在_P 玻璃_NN 表面_NN ，_PU 或_CC 在_P 电力_NN 传输线_NN 中_LC 计算_VV 被_VV 一_CD 个_M 阻_NN 抗_VV 反射_NN 多_AD 少_VA 。_PU 反射_NN 系数_NN 与_CC "_PU 透射_NN 系数_NN "_PU 密切_NN 相关_AD 。_PU 系统_NN 的_DEG 反射率_NN 也_AD 称作_VV “_PU 反射_NN 系数_NN ”_PU 。_PU
+
+不同_VA 的_DEC 专业_NN 术语_NN 有着_P 不同_VA 的_DEC 应用_NN 。_PU
+
+在_P 电信_NN 中_LC ，_PU 反射_NN 系数_NN 是_VC 反射波_NN 与_CC 入射波_NN 的_DEC 复振幅_NN 之_DEG 比_NN 。_PU 特别_AD 在_P 传输线_NN 的_DEG 不_AD 连续_VA 中_LC ，_PU 反射_NN 系数_NN 为_VC 反射波_NN 的_DEC 电场_NN 强度_NN （_PU formula_NN __NN 1_CD ）_PU 与_CC 入射波_NN 的_DEC 电场_NN 强度_NN （_PU formulaformula_NN （_PU 大写_CD gamma_NN ）_PU 来_MSP 表示_VV ，_PU 可以_VV 写作_VV ：_PU
+
+反射_NN 系数_NN 也_AD 可以_VV 用_P 其他_DT 场_NN 或者_CC 电路量_NN 确定_VV 。_PU
+
+反射_NN 系数_NN 可以_VV 表_VV 为_P 负载_NN 阻抗_NN formula_NN 与_CC 输入端_NN 阻_AD 抗_VV formula_NN 的_DEC 关系_JJ 式_NN ：_PU
+
+注意_VV 到负_VV 的_DEC 反射系_NN 数意味_NN 着_AD 反射_VV 波接_NN 受到_VV 180_CD °_M ，_PU 或者_CC 说_VV formula_NN 的_DEG 相移_NN 。_PU
+
+反射_NN 系数_NN 的_DEG 绝对值_NN （_PU 用_P 竖线_NN 标明_NN ）_PU 可以_VV 用_P formula_NN 计算_NN ：_PU
+
+反射_NN 系数_NN 可以_VV 使用_VV 史密_JJ 斯_DT 图_NN 来_VV 图形化_NN 表示_VV 。_PU
+
+反射_NN 系数_NN 在_P feeder_NN 中_LC 用来_VV 测试_VV 介质_NN 的_DEG 可靠性_NN 。_PU
+
+在_P 光学_NN 和_CC 一般_JJ 的_DEG 电磁学_NN 中_LC ，_PU “_PU 反射_NN 系数_NN ”_PU 既_CC 可以_VV 指_VV 这里_PN 描述_VV 的_DEC 振幅_NN 反射_NN 系数_NN ，_PU 也_AD 可以_VV 指_VV 反射率_NN ，_PU 根据_P 语境_NN 决定_VA 。_PU 通常_JJ 情况_NN 下_LC ，_PU 反射率_NN 是_VC 用_P "_PU R_NR "_PU 表示_VV ，_PU 而_CC 振幅_NN 反射_NN 系数_NN 用_P 小写_NN "_PU r_NN "_PU 表示_VV 。_PU
+
+半透膜_NN 的_DEG 反射_NN 系数_NN 与_CC 膜_NN 反射_NN 过_AD 膜_VV 溶质_NN 粒子_NN 的_DEC 量_NN 有关_P 。_PU 所有_DT 粒子_NN 都_AD 能_VV 通过_P 则_AD 结果_VV 为_VC 零_CD 。_PU 所有_DT 粒子_NN 都_AD 不_AD 能_VV 通过_P 则_AD 结果_VV 为_VC 一_CD 。_PU 它_PN 在_P 斯_DT 塔林_NN 方程_NN 。_PU
+
+
+
+
+

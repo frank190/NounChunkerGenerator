@@ -1,0 +1,5 @@
+﻿光泽_NN (_PU 光学_NN )_PU
+
+光泽_NN （_PU ）_PU 是_VC 物质_NN 的_DEC 一_CD 种_M 光学_NN 性质_NN ，_PU 取决於_VV 一_CD 个_M 表面_NN 在_P 方向_NN 反射光_NN 的_DEC 能力_NN 。_PU 光泽_NN 是_VC 形容_VV 一_CD 个_M 物体_NN 的_DEC 的_DEG 重要_JJ 参数_NN 。_PU 影响_VV 光泽度_NN 的_DEC 因素_NN 包括_VV 材质_NN 的_DEG 折射率_NN 、_PU 光_NN 的_DEG 入射角_NN 以及_CC 表面_NN 的_DEC 纹理_NN 。_PU
+
+

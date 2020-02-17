@@ -1,0 +1,15 @@
+﻿信杂比_VV (_PU 磁振_NN 造影_VV )_PU
+
+"_PU 本_DT 条目_NN 主要_AD 介绍_VV 磁振_NN 造_VV 影_NN 方面_NN 的_DEC 信杂_NN 比_P 问题_NN ，_PU 欲瞭解_VV 原始_JJ 信号_NN 处理_NN 方面_NN 的_DEC 信杂_NN 比_P 概念_AD ，_PU 请_VV 参见_VV 信杂比_NN 。_PU "_PU
+
+信杂比_NN 或_CC 称讯_NN 杂_VA 比_P 、_PU 信噪_NN 比_NN (_PU signal_NN -_PU to_NN -_PU noiseratio_NN ,_PU S_CD N_CD R_M )_PU 出自_VV 於_P 信号_NN 处理_NN 方面_NN 的_DEG 概念_NN ，_PU 应用_VV 在_P 磁振_NN 造影_VV (_PU MRI_NN )_PU 领域_NN ，_PU 涉及_VV 到_VV 影像_NN 品质_NN 以及_CC 微_JJ 小_JJ 生理_NN 讯号_NN 的_DEG 侦测_NN 、_PU 鉴別力_NN 。_PU
+
+磁振_NN 造影_VV 的_DEC 噪声_NN 来自_VV 於_P 生物体_NN 带_VV 电离子_NN 的_DEC 热_JJ 运动_NN 、_PU 射频_NN 线圈_NN 电路_NN 的_DEG 热噪声_NN 等_ETC 处_NN 。_PU 在_P 一般_AD 影像_VV 上_LC ，_PU 由于_P 生物体_NN 水_NN 含量_VV 的_DEC 丰沛_NN ，_PU 相应_JJ 地水_NN 中_LC 两_CD 个_M 氢_NN 原子核_NN (_PU 质子_NN )_PU 含量_NN 也_AD 是_VC 相当_JJ 丰沛_NN ，_PU 其_PN 自_P 旋_NN 所_MSP 提供_VV 的_DEC 磁振_NN 讯号_NN 还_AD 算高_VV ，_PU 经过_P 放大_NN 讯号_NN 仍_AD 可_VV 高出_VV 噪声_NN 许多_VV 。_PU 然而讯_AD 号取_VV 样方式_JJ 等等诸_JJ 多因素_NN 仍_AD 可_VV 使得_VV 噪声_NN 影响_VV 变大_VV 而_MSP 降低_VV 影像_NN 品质_NN ；_PU 相_AD 应地_VV ，_PU 当_P 信杂_NN 比_P 低下_VV 时_LC ，_PU 可以_VV 透过_VV 一些_CD 方法_NN 来_MSP 弥补_VV ，_PU 例如_AD 讯号_NN 平均_VA 。_PU
+
+以下_AD 列举_VV 了_AS 影响_VV 信杂比_NN 的_DEC 因素_NN ：_PU
+
+由于_P 磁振显_NN 微术_NN (_PU MRmicroscopy_NN )_PU 所_MSP 取_VV 的_DEC 体积_NN 元素_NN 相当_AD 小_VA ，_PU 因此_AD 信杂_VV 比_P 很_AD 低_VA ，_PU 需要_VV 透过_VV 多次_JJ 讯号_NN 平均_VA 来_MSP 提高_VV 之_DEC ，_PU 造成_VV 扫描_NN 时间_NN 相对_AD 较_AD 长_VA 。_PU
+
+
+
+

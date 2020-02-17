@@ -1,0 +1,11 @@
+﻿_NN X_NN 波段_NN
+
+根据_P IEEE521_NN -_PU 2002_CD 标准_NN ，_PU X_NN 波段_NN 是_VC 指_VV 频率_VV 在_P 8_CD -_PU 12_CD GHz_M 的_DEC 无线_JJ 电波_NN 波段_NN ，_PU 在_P 电磁_NN 波谱_NN 中_LC 属于_VV 微波_NN 。_PU 而_CC 在_P 某些_DT 场合_NN 中_LC ，_PU X_NN 波段_NN 的_DEG 频率_NN 范围_NN 则_AD 为_VC 7_CD -_PU 11_CD ._PU 2G_CD Hz_M 。_PU 通俗而言_AD ，_PU X_NN 波段_NN 中_LC 的_DEG X_NN 即_NN 英语_NN 中_LC 的_DEC “_PU extended_NN ”_PU ，_PU 表示_VV “_PU 扩展_VV 的_DEC ”_PU 调幅_NN 广播_VA 。_PU
+
+X_NN 波段_NN 通常_AD 的_DEG 下_JJ 行频率_NN 为_VC 7_CD ._PU 25_CD -_PU 7_CD ._PU 75_CD GHz_M ，_PU 上行_NR 频率_NN 为_VC 7_CD ._PU 9_CD -_PU 8.4_CD GHz_M ，_PU 也_AD 常_AD 被_SB 称为_VV 7_CD /_PU 8_CD GHz_M 波段_NN （_PU ）_PU 。_PU 而_CC N_CD ASA_NN 和_CC 欧洲_NN 空间_NN 局_NN 的_DEG 深空站_NN 通用_VV 的_DEC X_NN 波段_NN 通信_NN 频率_NN 范围_NN 则_AD 为_VC 上行_NN 7145_CD -_PU 7235_CD MHz_M ，_PU 下_LC 行_VV 8400_CD -_PU 8500_CD MHz_M 。_PU
+
+根据_P 国际_NN 电信_NN 联盟_NN 无线_JJ 电规_NN 则_AD 第8_OD 条_M ，_PU X_NN 频段_NN 在_P 空间_NN 应用_NN 方面_NN 有_VE 空间_JJ 研究_NN 、_PU 广播_JJ 卫星_NN 、_PU 固定_VV 通讯_NN 业务_NN 卫星_NN 、_PU 地球_NN 探测_VV 卫星_NN 、_PU 气象_NN 卫星_NN 等_ETC 用途_NN 。_PU 雨衰_NN 减对_VV X_NN 频段_NN 的_DEC 信号_NN 传输_VV 有_VE 一定_JJ 的_DEG 影响_NN 。_PU
+
+
+
+

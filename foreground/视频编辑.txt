@@ -1,0 +1,11 @@
+﻿视频_NN 编辑_NN
+
+视频_NN 编辑_NN 是_VC 把_BA 摄影机_NN 摄录_VV 下来_VV 的_DEC 影像_NN ，_PU 再_AD 在_P 相关_JJ 设备_NN 上_LC 使用_VV 线性_JJ 编辑_NN 或_CC 非_JJ 线性_JJ 编辑_NN 的_DEC 方法_NN 进行_VV 剪辑_NN ，_PU 然后_AD 输出_VV 符合_VV 主_JJ 导者_NN 要求_NN 的_DEC 视频_NN 的_DEC 过程_NN 。_PU
+
+视频_NN 编辑_NN 目前_NT 分为_AD 线性_JJ 编辑_NN 和_CC 非线性_JJ 编辑_NN 。_PU
+
+使用_VV 一_CD 台_M 播放_VV 录像机_NN ，_PU 一_CD 台_M 录制_NN 录像机_NN ，_PU 按照_P 录像机_NN 原先_AD 拍摄_VV 的_DEC 顺序_NN ，_PU 进行_VV 编辑_NN 的_DEC 过程_NN 称为_VV 线性_JJ 编辑_NN 。_PU 其_PN 特点_NN 是_VC ：_PU 1_CD ._PU 多_CD 次_M 编辑_NN 后_LC ，_PU 视频图_NN 像_P 质量_NN 损失_NN 严重_VA 。_PU 2_CD ._PU 只_AD 能_VV 按_P 时间_NN 顺序_NN 进行_VV 编辑_NN 。_PU 3_CD ._PU 如_P 要_VV 改变_VV 画面_NN 的_DEG 顺序_NN ，_PU 必须_VV 采用_VV 复制_VV 、_PU 粘贴_NN 。_PU 4_CD ._PU 又_AD 称有_VV 损编辑_NN 。_PU
+
+1_CD ._PU 无论_AD 多少_VA 次_DEV 编辑_VV ，_PU 视频图_NN 像_P 质量_NN 几乎_AD 不_AD 损失_NN 。_PU 2_CD ._PU 能_VV 按_P 时间_NN 顺序_NN 任意_AD 进行_VV 编辑_NN 。_PU 3_CD ._PU 可以_VV 改变_VV 画面_NN 的_DEC 先后_JJ 顺序_NN ，_PU 不_AD 受_VV 限制_NN 。_PU 4_CD ._PU 又_AD 称_VV 无损_AD 编辑_VV 。_PU
+
+

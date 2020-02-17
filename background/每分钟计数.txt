@@ -1,0 +1,9 @@
+﻿_OD 每_DT 分钟_M 计数_NN
+
+每_DT 分钟_M 计数_NN （_PU ，_PU 符号_NN ：_PU CPM_NN ）_PU ，_PU 表示_VV 单位_NN 时间_NN 1_CD 分钟_M 内_JJ 放射性_NN 检测_NN 仪器_NN （_PU 如_P 盖革_NN 计数器_NN ）_PU 测到_VV 的_DEC 电离_NN 事件_NN 的_DEC 计数_NN 。_PU CPM_NN 不_AD 属于_VV 国际_NN 单位制_NN 。_PU 而_CC CPS_NN 表示_VV 1_CD 秒钟_M 内_LC 的_DEG 电离_NN 事件_NN 的_DEC 计数_NN 。_PU
+
+CPM_NN 一般_AD 用于_VV 表示_VV 某_DT 种_M 粒子_NN 的_DEG 度量_NN 单位_NN ，_PU 如_P 阿尔_NN 法粒子_NN 、_PU 贝塔_NN 粒子_NN 。_PU 而_MSP 伽_VV 玛射线_NN 或_CC X射线_NN 的_DEG 计量_NN 单位_NN 一般_AD 用_P 希沃特_NN 。_PU
+放射性_NN 计数率_NN （_PU countrate_NN ）_PU 不同于_VV 放射性_NN 剂量率_NN （_PU doserate_NN ）_PU ，_PU 二者_NN 需要_VV 换算_VV 。_PU 转换_VV 计算_NN 依赖于_VV 放射性_NN 能量_NN 级别_NN 、_PU 被_SB 检测_VV 的_DEC 放射性_NN 类别_NN 、_PU 以及_CC 探测器_NN 的_DEG 放射性_NN 特征_NN 。_PU 电离室_NN 可以_VV 测量_VV 放射性_NN 剂量_NN ，_PU 而_CC 盖革_VV 计数器_NN 可以_VV 测量_VV 放射性_NN 计数_NN 。_PU 这_AD 需要_VV 到_VV 计量院_NN 用_VV 已_AD 知_VV 放射性_NN 强度_NN 的_DEC 辐射源_NN 标定盖_NN 革_VV 计数器_NN 。_PU 标定_VV 后_LC 会_VV 给出_VV 某_DT 一_CD 特定_JJ 能量_NN 伽_NN 马射线_NN （_PU 如_P 钴_NN 60_CD ）_PU 的_DEG 探测_NN 效率_NN K_NN 。_PU 计算_VV 时_LC 用_P 计数器_NN 读数_NN M_NN 除_AD 以_P 探测_NN 效率_NN K_NN 即_AD 为_VC 微希沃_NN 特_AD 每_DT 小时_NN 。_PU 需注意_VV 探测_NN 效率_NN 的_DEC 单位_NN 。_PU
+
+
+

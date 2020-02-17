@@ -1,0 +1,7 @@
+﻿安_VV 德森_NN 模型_NN
+
+安德森_NN 模型_NN 是_VC 一_CD 种_M 哈密顿_JJ 算符_NN ，_PU 通常_AD 用来_VV 描述_VV 重_AD 费_JJ 米子_NN ，_PU 是_VC 由_P 菲利普_NN ·_PU 安德_NN 森发展_NN 出来_VV 的_DEC 理论_NN 。_PU 以_P 数学_NN 的_DEC 方法_NN 表示_VV 为_VC ：_PU <_PU br_NN >_PU
+formula_NN
+<_PU br_NN >_PU
+
+

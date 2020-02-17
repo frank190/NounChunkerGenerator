@@ -1,0 +1,7 @@
+﻿_CS 策动力_NN
+
+策动力_NN ，_PU 是_VC 指_VV 当_P 物体_NN 在_P 周期性_NN 外力_NN 的_DEC 持续_JJ 作用_NN 下_LC 做受_VV 迫_VV 振动_NN 时_LC ，_PU 物体_NN 所_MSP 受到_VV 的_DEC 周期性_NN 外力_NN 。_PU
+
+物体_NN 受迫_VV 振动_VV 的_DEC 振幅_NN 与_CC 策动力_NN 的_DEC 频率_NN 有关_VA 。_PU
+
+

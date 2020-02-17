@@ -1,0 +1,6 @@
+﻿真_NT 实质量_NN
+
+天文学_NN 中_LC 的_DEG 真实_JJ 质量_NN 是_VC 行星_AD 真正_VA 的_DEC 质量_NN ，_PU 和_CC 经由_P 径向_NN 速度_NN 量测_VA 得到_VV 的_DEC 质量_NN 下_LC 限_VV 是_VC 不同_VA 的_DEC 。_PU 确定_VV 行星真_JJ 实质量_NN 的_DEG 方式_NN 包含_VV 了_AS 量_NN 测_VV 卫星_NN 和_CC 行星_NN 的_DEC 距离_NN 以及_CC 轨道_NN 周期_NN ，_PU 较_AD 先进_VA 的_DEC 天文_NN 测量_NN 技术_NN 则_AD 可以_VV 借由_P 量_NN 测_VV 在_P 同_DT 一_CD 个_M 恒星_NN 系统_NN 中_LC 其他_DT 行星_NN 的_DEG 运动_NN ，_PU 并_CC 结合_VV 包含_VV 凌星_NN 观测_VV 的_DEC 径向_NN 速度_NN 方式_NN （_PU 这_PN 表示_VV 系统_NN 是_VC 极_AD 低_JJ 轨道_NN 倾角_VV 的_DEC 状态_NN ）_PU 和_CC 包含_VV 视差量_NN 测_VV 的_DEG 径向_NN 速度_NN 方式_NN （_PU 同时_AD 决定_VV 轨道_NN 倾角_VV ）_PU 得知_VV 行_VV 星真_NN 实质量_NN 。_PU
+
+
+

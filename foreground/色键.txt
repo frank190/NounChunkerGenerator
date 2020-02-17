@@ -1,0 +1,22 @@
+﻿色键_NN
+
+色键_NN （_PU ）_PU ，_PU 又称_JJ 色彩_NN 嵌空_VV ，_PU 是_VC 一_CD 种_M 去_VV 背合_VV 成_VV 技术_NN 。_PU Chroma_NN 为_VC 纯色_JJ 之_DEG 意_NN ，_PU Key_NN 则_AD 是_VC 抽离_VV 颜色_NN 之意_LC ，_PU 把_BA 被_SB 拍摄_VV 的_DEC 人物_NN 或_CC 物体_NN 放置_VV 于_P 绿幕_NN 的_DEC 前面_NN ，_PU 并_CC 进行_VV 去背_NN 后_LC ，_PU 将_BA 其_PN 替换_VV 成_VV 其他_DT 的_DEG 背景_NN 。_PU 此_DT 技术_NN 在_P 电影_NN 、_PU 电视剧_NN 及_CC 游戏_NN 制作_NN 中_LC 被_SB 大量_AD 使用_VV ，_PU 色键_NN 也_AD 是_VC 虚拟_JJ 摄影棚_NN （_PU Virtualstudio_NN ）_PU 与_P 视觉_NN 效果_NN （_PU Visualeffects_NN ）_PU 当_P 中_LC 的_DEG 一_CD 个_M 重要_JJ 环节_NN 。_PU
+
+普遍_AD 使用_VV 绿幕_NN 或_CC 蓝幕_NN ，_PU 因为_P 这些_DT 颜色_NN 被_SB 认为_VV 是_VC 与_P 皮肤_NN 颜色_NN 有_VE 明显_JJ 差异_NN 的_DEC 颜色_NN 。_PU
+
+绿色_JJ 在_VV 摄影机_NN 的_DEG 图像_NN 传感器_NN 中_LC 是_VC 最_AD 敏感_VA 的_DEC ，_PU 因为_P 可以_VV 在_P 绿色_JJ 通道_NN 中_LC 保留_VV 更_AD 多_VA 的_DEC 细节_NN ，_PU 产生_VV 最_AD 干净_VA 的_DEC 主题_NN 。_PU 由于_P 图像_NN 传感器_NN 对_P 绿色_JJ 的_DEG 高_JJ 敏感性_NN ，_PU 所以_AD 只_AD 需_VV 较_AD 少_VA 的_DEC 光来_NN 照_VV 亮_VV 绿色_JJ 。_PU 绿幕_JJ 也是_NN 最_AD 被_SB 普遍_AD 使用_VV 的_DEC ，_PU 因为_P 蓝幕_NN 会_VV 与_P 欧美_NN 演员_NN 的_DEC 蓝色_JJ 虹膜_NN 相近_VV ，_PU 导致_VV 去背_NN 失误_NN 。_PU
+
+蓝幕_AD 被_SB 使用_VV 在_P 绿色_JJ 的_DEG 主体_NN （_PU 例如_AD 植物_NN ）_PU ，_PU 尽管_CS 摄影机_NN 对_P 绿色_JJ 光更_NN 敏感_NN 。_PU
+
+演员_NN 服装_NN 应_VV 避免_VV 与_P 背景_NN 颜色_NN 相同_VA ，_PU 除非_AD 是_VC 刻意_NN 要_VV 表现_VV 透明_VA 的_DEC 效果_NN ，_PU 例如_AD 在_P 绿_NN 幕前_NT 的_DEG 演员_NN 穿着_VV 绿色_JJ 衣服_NN 或_CC 绿色_JJ 头套_NN ，_PU 使_VV 其_PN 显示_VV 为_VC 透明_VA 的_DEC 。_PU 因为_P 服装_NN 可_VV 被_SB 替换_VV 为_VC 背景_NN ，_PU 故_AD 使用_VV 与_P 背景_NN 相同_VA 的_DEC 颜色_NN 来_MSP 覆盖_VV 不_AD 想_VV 让观_VV 众_CD 看到_VV 的_DEC 地方_NN ，_PU 这_DT 种_M 技术_NN 可以_VV 用于_VV 实现_VV 类似于_VV 在_P 哈利_NR ·_PU 波特_NR 电影_NN 中_LC “_PU 隐形_JJ 斗篷_NN ”_PU 的_DEC 透明_JJ 效果_NN 。_PU
+
+有_VE 时服_NN 装会_NN 与_CC 背景_NN 冲突_NN 。_PU 例如_AD 在_P 2002_CD 年_M 的_DEG 电影_NN 蜘蛛侠_NN ，_PU 蜘蛛侠_NN 和_CC 绿魔_NN 在_P 半空_NN 中_LC ，_PU 场景_NN 中_LC 蜘蛛_VV 侠_NN 不_AD 得_VV 不_AD 在_VV 绿_NN 屏前_NT 枪杀绿_NN 魔_NN ，_PU 而_CC 绿魔_NN 不_AD 得不_VV 在_VV 蓝_NN 屏前_NT 被_SB 枪杀_VV 。_PU 因为_P 蜘蛛侠_NN 穿着_VV 一_CD 件_M 红色_NN 和_CC 蓝色_JJ 的_DEG 服装_NN ，_PU 而_CC 绿魔_NN 的_DEC 服装_NN 是_VC 完全_AD 绿色_JJ 的_DEG 。_PU 如果_CS 这_DT 两_CD 个_M 枪杀_NN 在_P 同_DT 一_CD 背景_NN 前_LC ，_PU 其中_NN 一_CD 部分_NN 将_AD 会_VV 被_SB 删除_VV 。_PU
+
+光线_NN 均匀_VA 和_CC 避免_VV 阴影_NN 是_VC 使用_VV 色键_NN 的_DEC 最_AD 大_JJ 挑战_NN ，_PU 因为_P 色键_NN 最好_AD 被_SB 设定_VV 在_P 一_CD 个_M 狭窄_VA 的_DEC 颜色_NN 范围_NN 内_LC ，_PU 而_CC 阴影_NN 将_AD 造成_VV 颜色_NN 变深_VV 。_PU 这_DT 种_M 情形_NN 常_AD 在_P 低_JJ 成本_NN 制作_NN 或_CC 不_AD 能_VV 手动_AD 修复_VV 的_DEC 现场_NN 直播_AD 节目_VV 中_LC 出现_VV 。_PU 光线_NN 均匀_AD 受所_VV 使用_VV 的_DEC 材料_NN 影响_VV 。_PU 材料_NN 本身_PN 若_CS 会_VV 反光_AD 则_AD 不_AD 易_AD 成功_VV 。_PU 有_VE 光泽_NN 的_DEC 表面_NN 会_VV 反映_VV 灯光_NN 使_VV 该_DT 区域_NN 变得_VV 灰色_NN ，_PU 而_CC 其他_DT 地方_NN 可能_VV 会_VV 变暗_VV 。_PU 哑光_NN 表面_NN 会_VV 扩散_VV 反射光_NN ，_PU 并_CC 有_VE 更_AD 均匀_VA 的_DEC 色彩_NN 范围_NN 。_PU 拍摄_VV 干净_VV 色键_NN 效果_NN 的_DEC 关键_NN 是_VC 创造_VV 主体_NN 和_CC 蓝绿_NN 之间_LC 的_DEG 差异_NN 。_PU 为了_P 区分_NT 主体_NN 与_CC 蓝幕_NN 或_CC 绿幕_NN ，_PU 通常_AD 会_VV 设定_VV 主体_NN 较_AD 蓝_VA 幕_M 或_CC 绿幕_NN 低_VA 两_CD 级_M ，_PU 或_CC 高_VA 两_CD 级_M 。_PU 有时_AD 利用_VV 阴影_NN 可_VV 制造_VV 某_DT 种_M 特殊_VA 的_DEC 效果_NN 。_PU 蓝幕_NN 或_CC 绿幕_NN 的_DEC 阴影_NN 区域_NN 可_VV 与_P 所_MSP 希望_VV 的_DEC 背景_NN 视频_NN 图像_NN 的_DEG 暗_AD 版本_JJ 替换_NN ，_PU 使_VV 角色_NN 看起_VV 来如同_AD 铸像_VV 。_PU 与_P 色键_NN 相同_VA 颜色_VA 的_DEC 沾染_NN 都_AD 会_VV 使_VV 结果_NN 看起_VV 来_MSP 不_AD 自然_VA 。_PU 镜头_NN 焦距_VV 的_DEC 转换_NN 亦_AD 可能_VV 造成_VV 失败_VV 的_DEC 色键_NN 效果_NN 。_PU
+
+欠曝_NN 或_CC 曝光_NN 过度_NN 都_AD 会_VV 导致_VV 饱和度_NN 下降_VV ，_PU 在_P 摄影_NN 中_LC 曝光_VV 不_AD 足_VA 的_DEC 图像_NN 会_VV 含有_VV 较_AD 多_VA 的_DEC 噪点_NN 。_PU
+
+有_VE 许多_CD 软件_NN 可以_VV 进行_VV “_PU 去背_NN ”_PU ，_PU 如_P AdobeAfterEffects_NR 、_PU AutodeskSmoke_NR 、_PU FinalCutPro_NN 、_PU PinnacleStudio_NN 、_PU HQP_NN -_PU Live_NN 等_ETC 。_PU
+
+
+

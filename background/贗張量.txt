@@ -1,0 +1,18 @@
+﻿赝_NN 张量_NN
+
+物理学_NN 与_P 数学_NN 中_LC ，_PU 赝张量_NN （_PU ）_PU 为_VC 在_P 座标_NN 转换_NN 等_ETC 情形_NN 下_LC ，_PU 行为_P 类似_JJ 张量_NN 的_DEG 数量_NN 。_PU 但_AD 在_P 空间_NN 反演_VV 、_PU 瑕_NN 旋转_VV 时_LC 会_VV 多出_VV 负号_NN ，_PU 张量_NN 则_AD 不_AD 会_VV 。_PU
+
+赝张量_NN 的_DEG 另_DT 一_CD 个_M 意义_NN 出现_VV 在_P 广义_PN 相对_JJ 论中_NN ：_PU 张量_NN 遵守_NN 严格_VA 的_DEC 转换律_NN ，_PU 而_CC 赝张量_NN 不_AD 是_VC 。_PU 也_AD 因此_AD ，_PU 当_P 转换_NN 参考_NN 系_NN 时_LC ，_PU 赝张量_NN 的_DEG 形式_NN 一般来说_AD 无法_AD 保持_VV 不_AD 变_VV ；_PU 一_CD 个_M 含有_VV 赝张量_NN 的_DEC 方程_NN 式_VV 在_P 一_CD 个_M 参考_NN 系_NN 成立_VV ，_PU 在_P 另_DT 个_M 参考_NN 系_NN 就_AD 不_AD 见得_VV 成立_VV 。_PU 细节_NN 参见_VV ：_PU 广义_JJ 协变性_NN 。_PU
+
+在_P 做_VV 镜射_NN 时_LC ，_PU 赝张量_NN 会_VV 多出_VV 一_CD 个_M 负号_NN ，_PU 而_CC 张量_NN 不_AD 会_VV 。_PU 根据_P 定义_NN ，_PU 类型_NN (_PU "p","q")_PU 的_DEG 赝张量_NN P_NN 是_VC 个_M 几何_JJ 物体_NN ，_PU 其_PN 分量_NN 以_P 任意基_NN 底展开_NN ，_PU 可以_VV 指标_VV (_PU "_PU p_NN "_PU +"q")_PU 来_MSP 写出_VV ，_PU 其_PN 遵守_JJ 转换_NN 规则_NN ：_PU
+
+式子_NN 两_CD 边_NN 采用_VV 不同_JJ 基底_NN 。_PU
+
+这里_PN formula_NN __NN 2_CD 是_VC 赝张量_NN 的_DEG 分量_NN ，_PU 分別_NN 以_P 新_JJ 、_PU 旧_JJ 基底_NN 写出_VV ；_PU formulamatrix_NN ）_PU ，_PU formula_NN
+
+而_AD formula_NN
+
+广义_JJ 相对_JJ 论_NN 中_LC ，_PU 重力场_NN 自身_PN 的_DEG 能量_NN 、_PU 动量_NN 无法_AD 以_P 能量_NN -_PU 动量_NN 张量_NN 来_MSP 描述_VV ，_PU 而_CC 需_VV 引入_VV 一_CD 个_M 物理量_NN ，_PU 其_PN 在_P 受限_VV 的_DEC 座标_NN 转换_NN 中_LC 行为_VV 类似_JJ 张量_NN 。_PU 此_DT 即_AD 赝_JJ 张量_NN 的_DEG 例子_NN ，_PU 其中_NN 较_AD 著名_VA 的_DEC 为_VC 。_PU
+
+
+

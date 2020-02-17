@@ -1,0 +1,10 @@
+﻿完_VV 整晶体_NN
+
+完整_AD 晶体_NN （_PU ）_PU 指_VV 不_AD 存_VV 在_P 点_NN 缺陷_VV ，_PU 线_NN 缺陷_NN 和_CC 面_NN 缺陷_NN 等_ETC 类型_JJ 晶体_NN 缺陷_VV 的_DEC 晶体_NN 。_PU 由于_P 在_P 结晶_NN 时_LC 不_AD 可能_VV 排除_VV 造成_VV 晶体_NN 缺陷_VV 的_DEC 因素_NN ，_PU 因而_AD 在_P 现实_NT 中_LC ，_PU 完整_JJ 晶体_NN 并_AD 不_AD 存在_VV 。_PU 但_CC 这_DT 一_CD 假象_NN 概念_AD 对于_P 热力学_NN 定律_VV 的_DEC 表述_JJ 非常_AD 重要_VA 。_PU
+
+在_P 晶体学_NN 中_LC ，_PU 其_PN 可以_VV 被_SB 用来_VV 指_VV 不_AD 存在_VV 线缺陷_NN 和_CC 面_NN 缺陷_VV 的_DEC 晶体_NN ，_PU 因为_AD 对于_P 不_AD 存在_VV 其他_DT 类型_JJ 晶体_NN 缺陷_VV 的_DEC 晶体_NN ，_PU 少量_CD 的_DEG 点_NN 缺陷_NN 是_VC 难以_AD 测定_VV 的_DEC 。_PU
+
+晶体_NN 缺陷_NN 可_VV 由于_P 重力_NN 因素_AD 产生_VV 。_PU 因而_AD 在_P 像国_NR 际空_NN 间站_NN 或_CC 太空_JJ 这_DT 种_M 零重力_NN 环境_NN 中_LC ，_PU 可以_VV 制得_VV 接近_AD 完整_VV 晶体_NN 的_DEC 较为_AD 理想_VA 的_DEC 晶体_NN 。_PU 。_PU
+
+
+

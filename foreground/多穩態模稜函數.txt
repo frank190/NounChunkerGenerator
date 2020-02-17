@@ -1,0 +1,32 @@
+﻿多_CD 稳态_NN 模稜_NN 函数_NN
+
+多_CD 稳态_NN 模稜_NN 函数_NN （_PU Multistaticambiguityfunctions_NN ）_PU ，_PU 是_VC 由_P 模稜_NN 函数_NN 延伸_VV 而_MSP 来_VV 的_DEC 机率_NN 模型_NN ，_PU 用以_VV 模拟_VV 多_CD 组_M 雷达_NN 侦测_VV 同_DT 一_CD 目标_NN 的_DEC 状况_NN 。_PU
+
+多_CD 稳态_NN 模稜_NN 函数_NN 是_VC 由_P 模稜_NN 函数_NN 延伸_VV 用以_VV 模拟_VV 多_CD 稳态_NN 雷达_NN 系统_NN ，_PU 其中_NN 针对_P 同_DT 一_CD 目标_NN 有_VE 许多_CD 并列_VV 的_DEC 发送器_NN 及_CC 接收器_NN 。_PU
+
+在_P 这样_PN 的_DEG 情况_NN 下_LC ，_PU 时间_NN 和_CC 位置_NN 之间_LC 、_PU 简单_VA 如_P 单_AD 稳态_JJ 雷达_NN （_PU MonostaticRadarSystem）_PU 的_DEG 线性_JJ 关系_NN 不_AD 再_AD 适用_VV ，_PU 而_CC 是_VC 关乎_P 於_P 此_DT 传输_NN 系统_NN 之_DEG 几何_DT 特性_NN 之下_LC （_PU 发送器_NN 、_PU 接收器_NN 和_CC 目标物_NN 的_DEG 相对_JJ 关系_NN 共_AD 组_VA 之_DEC 三角型_NN ）_PU 。_PU
+
+因此_AD ，_PU 多_AD 稳态_NN 模稜_NN 函数_NN 多_AD 在_P 此时_NT 适用_VV ，_PU 作为_P 表达_VV 此_DT 组_M 二_CD 或_CC 三维_CD 雷达_NN 侦测_NN 系统_NN 各_DT 部份_CD 之间_LC 的_DEG 相对_JJ 关系_NN 及_CC 传输_JJ 状况_NN ：_PU 包刮_VV 相对_JJ 或_CC 绝对_JJ 位置_NN 、_PU 目标物_NN 座标_NN 系_NN 之_DEG 速度_NN 等_ETC ，_PU 是_VC 为_VV 一_CD 多_CD 稳态_NN 函数_NN 。_PU
+
+就像_AD 单_AD 稳_VA 态_JJ 模稜_NN 函数_NN 是_VC 与_P 滤波器_NN 匹配_NN ，_PU 多_AD 稳态_NN 模稜_NN 函数_NN 则_AD 是_VC 来自_VV 与_P 其_PN 相应_VV 之_DEC 多稳_CD 态_NN 光学_NN 侦测器_NN ，_PU 例如_AD ：_PU 因为_P 所有_DT 接收器_NN 间_LC 的_DEG 协调_NN 运算_NN （_PU jointprocessing_NN ）_PU 、_PU 而_MSP 得以_VV 提供_VV 固定_JJ 错误_NN 回报_NN 机率_NN ，_PU 并_CC 使得_VV 接受_NN 机率_NN 最_AD 大_VA 化者_NN 。_PU 如_AD 是_VC 侦测_VV 演算法_NN 之_DEG 特性_NN ，_PU 需_VV 依靠_AD 在_P 此_DT 多_CD 稳态_NN 系统_NN 中_LC 、_PU 每_DT 个_M 双稳_JJ 态偶_NN 对_P 观察_VV 到_VV 的_DEC 目标_NN 波动_NN 是否_AD 相关_VV 而_MSP 定_VV 。_PU 若_CS 相关_AD ，_PU 则_AD 侦测器_NN 间_LC 相位_NN 将_AD 呈现_VV 於_P 接收_VV 到_VV 的_DEC 信号_NN 上_LC 呈现_VV 相关性_JJ 加总_NN （_PU coherentsummation_NN ）_PU ，_PU 因而_AD 对_P 目标_NN 之_DEC 定位_NN 正确率_NN 有_VE 很_AD 大_VA 的_DEC 帮助_NN 。_PU
+
+若_CS 非_AD ，_PU 则_AD 侦测器_NN 将_AD 表现_VV 非_VC 相关_JJ 加总_NN （_PU incoherentsummation_NN ）_PU 的_DEC 效果_NN 因而_AD 有_VE 多_NN 样化_VV 的_DEC 放大_NN 倍率_NN ，_PU 难以_AD 定位_VV 正确_CC 目标_NN 。_PU
+
+在_P 没有_VE 噪声_NN 干扰_VV 的_DEC 情况_NN 下_LC ，_PU 广义_VV 的_DEC 稳态_NN 情况_NN 被_SB 定义_VV 为_VC
+
+而_AD 我们_PN 定义_VV 广义_VV 的_DEC 模稜函_NN 数维_NN ：_PU
+
+其中_NN :_PU formula_NN
+
+此时_NT 若_VV 我们_PN 给定_VV 一_CD 固定_JJ 目标_NN (_PU 即_AD 有_VE 固定_VV 的_DEC :_PU formula_NN
+
+而_AD 既然_AD 在_P 我们_PN 对于_P 使用_VV 此_DT 函数_NN 的_DEC 情况_NN 下_LC 通常_AD 以_P 知晓_VV 目标_NN 位置_NN 及_CC 目标_NN 速度_NN 为_VV 目的_NN ，_PU 以_P 上述_JJ 相关_JJ 变量_NN 为_VC 依据_P 来_MSP 表示_VV 模稜_NN 函数_NN 将_BA 使_VV 计算_NN 更为_AD 容易_VA 。_PU
+
+而_AD 在_P 讯号_NN 源_NN 都_AD 普勒_JJ 效应_NN 作用_NN 以及_CC 本身_PN 延迟_VV ，_PU 以及_CC 目标_NN 自己_PN 座标系_NN 之_DEG 速度_NN 向量_VV ，_PU 使得_VV 将_BA 此_DT 函数_NN 之解_VV 为_VC 高度_NN 非_VC 线性_JJ 。_PU 而以此_JJ 方式_NN 模型_NN 接收_VV 讯号_NN 之_DEC 多稳态_JJ 雷达_NN 系统_NN 计算_VV ，_PU 便_AD 显得_VV 相当_JJ 困难_NN ，_PU 且_CC 具有_VV 一定_JJ 程度_NN 的_DEG 重要性_NN 。_PU
+
+而_AD 为了_P 简化_VV 这样_PN 的_DEG 计算_NN ，_PU 且_CC 更_AD 重要_VA 地_DEC ，_PU 準确_VA 地_DEV 描述_VV 上述_JJ 系统_NN 的_DEG 几何_DT 特性_NN ，_PU 我们_PN 将_BA 所有_DT 讯号_NN 接收器_NN 依照_P 平行_VV 於_P 目标_NN 之_DEG 速度_NN 排列_VV 。_PU
+
+且_P 为了_P 简化_VV 观察_NN 困难_VV ，_PU 我们_PN 通常_AD 选取_VV 三_CD 维_NN 空间_NN 中_LC 之_DEG 二维_CD 做为_P 来_MSP 代表_VV 多_CD 稳态_NN 模稜_NN 函数_NN 之_DEG 表现_NN ；_PU 更_AD 广义而言_AD ，_PU 我们_PN 可以_VV 给定_VV 任_DT 一_CD 属于_VV 目标_NN 和_CC 其_PN 速度_NN 及_CC 雷达_NN 系统_NN 间_LC 关系_VV 六_CD 维_M 关系_NN 之子_NN 集合_VV 以_MSP 定义_VV 我们_PN 所_MSP 需_VV 支函数_NN 。_PU
+
+
+

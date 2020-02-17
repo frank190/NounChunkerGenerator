@@ -1,0 +1,7 @@
+﻿径_NN 向_P 分布_VV 函数_NN
+
+在_P 统计_VV 力学_NN 中_LC ，_PU 粒子_NN 系统_NN （_PU 原子_NN 、_PU 分子_NN 、_PU 胶体_NN ，_PU ……_PU ）_PU 中_LC ，_PU 径向_JJ 分布_NN 函数_NN ,_PU (_CD 也_AD 叫做_VV 对_P 关联_JJ 函数_NN )_PU formula_NN 为_VC 相距_JJ 参考_JJ 粒子_NN formula_NN
+
+对于_P 均匀_VA 和_CC 各_DT 项_M 同性_JJ 体系_NN ，_PU 设_VV 参考_VV 粒子_NN 处于_VV 原点_NN O_LC ，_PU 粒子_NN 平均_JJ 数密度_NN 为_VC formula_NN ，_PU 距离_VV Oformula_NN 处_NN 局域_VV 时间_NN 平均_AD 密度_NN 为_VC formula_NN
+
+

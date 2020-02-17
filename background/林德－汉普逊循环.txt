@@ -1,0 +1,14 @@
+﻿林德_NN －_PU 汉_BA 普逊_JJ 循环_NN
+
+林德_NR －_PU 汉普逊_NR 循环_NN 用于_VV ，_PU 特别_AD 是_VC 空气_NN 分离_VV 。_PU 和_CC 卡尔_NN ·_PU 冯林_NN 德于_VV 1895_CD 年_M 分别_AD 独立_VA 地_DEV 申请_VV 了_AS 该_DT 循环_NN 的_DEC 专利_NN 。_PU
+
+林德_NR －_PU 汉普逊_NR 系统_NN 引入_VV 了_AS 再生_JJ 冷却_NN ——_PU 一_CD 种_M 正反馈_NN 冷却_NN 系统_NN 。_PU 热_NN 交换器_NN 布置_VV 允许_VV 绝对_AD 温差_NN (_PU e_NN ._PU g_NN ._PU 0_CD ._PU 27_CD °C_M /_PU atmJ_NN -_PU T_NN 下_NN 空气_NN 的_DEC 冷却_NN )_PU 超过_P 单级_JJ 冷却_NN ，_PU 并_CC 达到_VV 液化_NN “_PU 固定_NN ”_PU 气体_NN 所_MSP 需_VV 的_DEC 低温_NN 。_PU
+
+汉普森_NN －_PU 林德_NN 循环_NN 与_CC 西门子_NN 循环_NN 的_DEG 不同_JJ 在于_VV 膨胀_NN 阶段_NN 。_PU 中气体_NN 对_P 外做_NN 功降_NN 温度_NN 降低_VV ，_PU 林德_NR －_PU 汉普逊_NR 循环_NN 则_AD 仅_AD 依赖于_VV 焦耳－汤_JJ 姆逊_NN 效应_NN 。_PU 优点_NN 是_VC 冷侧_NN 不_AD 需要_VV 移动_JJ 部件_NN 。_PU
+
+
+在_P 每_DT 个_M 循环_NN 中_LC ，_PU 净_JJ 冷却_NN 大于_VV 在_P 循环_NN 开始_NN 时_LC 加入_VV 的_DEC 热量_NN 。_PU 当_P 气体_NN 经过_P 更_AD 多循_VA 环温度_NN 降逐_VV 步降_NN 低_VA ，_PU 在_P 扩压缸_NN 处_NN 达到_VV 更_AD 低_VA 的_DEC 温度_NN 将_AD 变得_VV 更为_AD 困难_VA 。_PU
+
+
+
+

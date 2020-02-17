@@ -1,0 +1,6 @@
+﻿特高频_VV
+
+特_AD 高频_VA （_PU ，_PU 简称_VV UHF_NN ）_PU ，_PU 是_VC 指_VV 频率_NN 由_P 300_CD MHz_NN 到_VV 3_CD GHz_M 的_DEG 电磁波_NN 。_PU 波长_NN 由_P 10_CD cm_M 到_CC 1m_CD 不等_NN 。_PU 用于_VV 短途_JJ 通信_NN ，_PU 可以_VV 用_VV 小_JJ 而_AD 短_VA 的_DEC 天线_NN 作_VV 收发_VV ，_PU 适合_VV 行动_VV 通讯_NN 。_PU
+
+
+

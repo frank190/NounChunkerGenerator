@@ -1,0 +1,7 @@
+﻿_OD 斯_DT 托克_NN 斯_DT 定律_NN
+
+在_P 雷诺_NN 数_NN 很_AD 小_VA 的_DEC 情况_NN 下_LC ，_PU 球形_NN 物体_NN 在_P 流体_NN 中_LC 运动_VV 所_MSP 受到_VV 的_DEC 阻力_NN ，_PU 等于_VV 该_DT 球形_NN 物体_NN 的_DEG 半径_NN 、_PU 速度_NN 、_PU 流体_NN 的_DEG 黏度_NN 与_P 6_CD π_NN 的_DEG 乘积_NN 。_PU 这_DT 个_M 定律_NN 叫做_VV 斯_DT 托克_NN 斯定_AD 律_VA 。_PU
+
+如果_CS 物体_NN 在_P 流体_NN 中_LC 因_P 自身_NN 的_DEG 重量_NN 而_MSP 下落_VV ，_PU 则_AD 其_PN 最终_JJ 速度_NN 为_VC ：_PU
+
+

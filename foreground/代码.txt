@@ -1,0 +1,9 @@
+﻿代码_NN
+
+在_P 通信_NN 和_CC 资讯_NN 处理_NN 中_LC ，_PU 代码_NN （_PU code_NN ）_PU 是_VC 指_VV 一_CD 套_M 转换_NN 信息_NN 的_DEC 规则_NN 系统_NN ，_PU 例如_AD 将_BA 一_CD 个_M 字母_NN 、_PU 单词_NN 、_PU 声音_NN 、_PU 图像_NN 或_CC 手势_NN 转换_VV 为_VC 另_DT 一_CD 种_M 形式_NN 或_CC 表达_NN ，_PU 有时_AD 还_AD 会_VV 缩短_VV 或_CC 加密_VV 以便_AD 通过_P 某_DT 种_M 信道_NN 或_CC 存储_VV 媒体_NN 通信_NN 。_PU 一_CD 个_M 最早_JJ 的_DEG 例子_NN 是_VC 语言_NN 的_DEG 发明_NN ，_PU 它_PN 使_VV 人_NN 可以_VV 通过_P 说话_NN 将_BA 他_PN 看到_VV 、_PU 听到_VV 、_PU 感受_VV 到_VV 或_CC 想到_VV 的_DEC 事情_NN 表达_VV 给_P 其他_DT 人_NN 。_PU 但_AD 是_VC ，_PU 说话_NN 的_DEG 通信_NN 范围_NN 局限_VV 于_P 声音_NN 可以_VV 有效_AD 传播_VV 、_PU 辨识_VV 的_DEC 范围_NN ，_PU 并且_CC 发言_VV 只_AD 能_VV 传达_VV 给_P 现有_JJ 的_DEG 听众_NN 。_PU 将_BA 言谈_NN 转化_VV 为_VC 视觉_NN 符号_NN 的_DEG 写作_NN 扩大_VV 了_AS 跨越_VV 时间_NN 、_PU 空间_NN 的_DEC 通信_NN 表达_VV 。_PU 代码有_VV 时亦_JJ 称代号_NN 等_ETC 。_PU
+
+而_AD 编码_NN （_PU encoding_NN ）_PU 能_VV 将_BA 的_DEG 信息_NN 转化_VV 为_VC 便于_VV 通信_NN 或_CC 存储_VV 的_DEC 符号_NN 。_PU 解码_NN （_PU Decoding_NN ）_PU 则_AD 是_VC 将_BA 其_PN 逆向_VV 还原_VA 的_DEC 过程_NN ，_PU 将_BA 代码_NN 符号_NN 转化_VV 回_VV 收件人_NN 可以_VV 理解_VV 的_DEC 形式_NN 。_PU
+
+编码_NN 的_DEG 其中_NN 一_CD 个_M 原因_NN 是_VC 在_P 、_PU 口语_NN 或_CC 写作_VV 难以_AD 实现_VV 实现_VV 的_DEC 情况_NN 下_LC 进行_VV 通信_NN 。_PU 例如_AD ，_PU 旗语_NN 可以_VV 用_P 特定_JJ 标记_NN 表达_VV 特定_JJ 信息_NN ，_PU 站_VV 在_P 远处_JJ 的_DEG 另_DT 一_CD 个_M 人_NN 可以_VV 解读_VV 标识_NN 来_MSP 重现_VV 该_DT 信息_NN 。_PU
+
+

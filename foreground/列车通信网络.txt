@@ -1,0 +1,15 @@
+﻿列车_NN 通信_VV 网络_NN
+
+列车_NN 通信_NN 网络_NN （_PU ，_PU 简称_VV TCN_NN ）_PU ，_PU 是_VC 一_CD 种_M 以_P 计算机_NN 网络_NN 为_VC 核心_NN 的_DEC 分布式_JJ 网络_NN 控制_NN 系统_NN ，_PU 作为_P 铁路_NN 机车_NN 车辆_NN 的_DEG 控制_NN 、_PU 检测_NN 和_CC 诊断_NN 系统_NN ；_PU 该_DT 国际_NN 标准_NN 由_P 国际_NN 电工_NN 委员会_NN （_PU IEC_NN ）_PU 和_CC 国际_NN 铁路_NN 联盟_NN （_PU UIC_NN ）_PU 联合_VV 制定_VV ，_PU 即_AD IEC_NN 61375_CD ，_PU 同时_AD 电气_NN 电子_NN 工程_NN 师学会_NN （_PU IEEE_NN ）_PU 也_AD 引用_VV 该_DT 项_M 标准_NN 作为_VV 列车_NN 通信_NN 网络_NN 标准_NN ，_PU 即_AD IEEE1473_NN -_PU T_NN 。_PU
+
+车载_NN 网络_NN 总体_NN 结构_NN 包含_VV 两_CD 级_M 总线_NN 层次_JJ 架构_NN ，_PU 分别_AD 为_VC 可_VV 用于_VV 连接_VV 各_DT 节_NN 可_VV 动态_JJ 编组_NN 车辆_NN 间_LC 的_DEG 绞线式_JJ 列车_NN 总线_NN （_PU WireTrainBus_NN ，_PU WTB_NN ）_PU ，_PU 以及_CC 用于_VV 连接_VV 一_CD 节_M 车辆_NN 或_CC 一_CD 组_M 车辆_NN 单元_NN 内部_NN 各_DT 种_M 设备_NN 的_DEC 多功能_JJ 车辆_NN 总线_NN （_PU MultifunctionVehicleBus_NN ，_PU MVB_NN ）_PU 。_PU
+
+列车_NN 通信_NN 网络_NN 的_DEC 前身_NN 为_VC 车载_NN 微机_NN 系统_NN 。_PU 1970_CD 年代_NN 末_LC 至_P 1980_CD 年代_NN 初_LC ，_PU 西德_NN 西门子_NN 公司_NN 和_CC 瑞士_NN 布朗_NN ·_PU 勃法_NN 瑞_NN 公司_NN （_PU BBC_NN ）_PU 分别_AD 成功_VV 研制_VV 了_AS “_PU SIBAS_NN ”_PU 和_CC “_PU MICAS_NN ”_PU 微机_NN 控制_NN 系统_NN 。_PU 1988_CD 年_M ，_PU 国际_NN 电工_NN 委员_NN 会_VV 第九_OD 技术_NN 委员会_NN （_PU TC9_NN ）_PU ，_PU 与_P 世界_NN 上_LC 20_CD 多_CD 个_M 主要_JJ 铁路_NN 运营_NN 部门_NN 和_CC 机车_NN 车辆_NN 制造_VV 厂家_NN 代表_VV ，_PU 以及_CC 国际_NN 铁路_NN 联盟_NN 的_DEG 代表_NN ，_PU 共同_AD 组成_VV 第22_OD 工作组_NN （_PU WG22_NN ）_PU ，_PU 其_PN 任务_NN 是_VC 制订_VV 一_CD 个_M 开放_VV 的_DEC 通信_NN 系统_NN ，_PU 从而_AD 使得_VV 各_DT 种_M 铁道_NN 机车_NN 车辆_NN 能够_VV 相互_AD 联挂_VV ，_PU 并且_CC 车上_VA 的_DEC 可_VV 编程_VV 电子_NN 设备_NN 能够_VV 互换_VV ，_PU 并_CC 以_P 具有_VV 多年_JJ 应用_NN 经验_VV 的_DEC “_PU SIBAS_NN ”_PU 和_CC “_PU MICAS_NN ”_PU 微机_NN 控制_NN 系统_NN 作为_VV 雏形_NN 。_PU 1992年_NT 6月_NT ，_PU 第22_OD 工作_NN 组以_VV 委员_NN 会_VV 草案_JJ （_PU CommitteeDraft_NN ）_PU 的_DEG 形式_NN 向_P 各国_PN 发出_VV 列车_NN 通信_NN 网络_NN 的_DEG 征求意_NN 见稿_VV ，_PU 该_DT 稿_NN 分成_VV 四_CD 个_M 部分_NN ：_PU 第一_OD 部分_NN 为_P 总体_NN 结构_NN ，_PU 第二_OD 部分_NN 为_VV 实时_JJ 协议_NN ，_PU 第三_OD 部分_NN 为_VC 多功能_JJ 车辆_NN 总线_NN （_PU MVB_NN ）_PU ，_PU 第四_OD 部分_NN 为_VC 绞线式_JJ 列车_NN 总线_NN （_PU WTB_NN ）_PU 。_PU
+
+经过_P 多_CD 年_M 的_DEG 努力_NN ，_PU 第22_OD 工作_NN 组_NN 在_P 西门子_NN 公司_NN 和_CC Adtranz_NN 公司_NN （_PU 瑞士_NN 布朗_NN ·_PU 勃法_NN 瑞_AD 公司_VV 于_P 1988_CD 年_M 被_SB Adranz_NR 收购_VV ）_PU 原有_JJ 技术_NN 方案_NN 的_DEG 基础_NN 上_LC ，_PU 共同开_AD 发出_VV 了_AS 一_CD 套_M 系统_NN 标准_NN 。_PU 1994年_NT 5月_NT 至_P 1995年_NT 9月_NT ，_PU 欧洲_NN 铁路_NN 研究所_NN （_PU ERRI_NN ）_PU 在_P 瑞士_NN 因_P 特拉_NN 肯_VV 至_P 荷兰阿_NN 姆_NOI 斯_DT 特丹_NN 之间_LC 的_DEG 铁路_NN ，_PU 对_P 瑞士_NN 联邦_NN 铁路_NN （_PU SBB_NN ）_PU 、_PU 德国_NN 铁路_NN 股份_NN 公司_NN （_PU DB_CD ）_PU 、_PU 意大利_JJ 国家_NN 铁路_NN （_PU FS_M ）_PU 、_PU 荷兰_NN 铁路_NN （_PU NS_CD ）_PU 的_DEG 车辆_NN 编组_VV 而_MSP 成_VV 的_DEC 试验_NN 列车_VV 进行_VV 了_AS 全面_PN 的_DEG TCN_NN 实验_NN 。_PU
+
+1999年_NT 6月_NT ，_PU TCN_NN 标准_NN 草案_NN 61375_CD -_PU 1_CD 正式_NN 成为_VV 国际_NN 标准_NN 。_PU 在_P 61375_CD -_PU 1_CD 中_LC ，_PU 除了_P 以上_LC 四_CD 个_M 部分_NN 外_LC ，_PU 还_AD 有_VE 第五_OD 部分_NN （_PU 列车_NN 网络_NN 管理_NN ）_PU ，_PU 附录_NN A_NN （_PU 列车_NN 通信网_NN 导引_NN ）_PU 和_CC 附录_NN B_NN （_PU 一致性_JJ 测试_NN 导则_NN ）_PU 。_PU
+
+
+
+

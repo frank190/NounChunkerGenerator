@@ -1,0 +1,29 @@
+﻿物_NN 理学_NN 重要_AD 著作_VV 列表_NN
+
+
+
+
+
+
+
+
+
+
+
+
+"_PU "_PU '_PU 1_CD ._PU 电荷_NN 会_VV 产生_VV 电场_NN (_PU 库仑_NN 定律_VV )_PU
+2_CD ._PU 磁场_NN 的_DEG 变化_NN 会_VV 产生_VV 电场_NN (_PU 法_NN 拉第_VV 电磁_NN 感应_NN 定率_NN )_PU
+3_CD ._PU 单独_JJ 的_DEG 磁极_NN 并_AD 不_AD 存在_VV
+4_CD ._PU 电流_NN 会_VV 产生_VV 磁场_NN (_PU 安培_NN 定率_NN )_PU 电场_NN 的_DEG 变化_NN 也_AD 会_VV 产生_VV 磁场_NN "_PU
+
+
+
+
+
+
+
+
+
+
+
+

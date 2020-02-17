@@ -1,0 +1,9 @@
+﻿平衡_NN
+
+平衡_VA ，_PU 是_VC 指_VV 一_CD 种_M 稳定_VA 的_DEC 状态_NN ，_PU 当_P 受到_VV 多_CD 种_M 对立_VV 的_DEC 各_DT 方面_NN ，_PU 若_CS 每_DT 一_CD 部份_NN 都_AD 互相_AD 抵消_VV ，_PU 使_VV 整体_NN 无_VE 变化_NN 则_AD 称为_VV 平衡_NN 。_PU 在_P 经_NOI 济学_NN 上_LC ，_PU 若_CS 支出_VV 和_CC 收入_VV 相等_VA ，_PU 则_AD 达到_VV 一_CD 个_M 平衡_NN ；_PU 在_P 化学_NN 上_LC ，_PU 若_CS 一_CD 可_VV 逆反应_VV 的_DEC 正反应_NN 与_CC 逆反应_NN 相等_VV ，_PU 则_AD 达到_VV 一_CD 个_M 平衡_NN ；_PU 在_P 天文学_NN 上_LC ，_PU 一_CD 颗_M 主序_NN 带上_VV 的_DEC 恒_NN 星_NN ，_PU 比如_AD 太阳_VA ，_PU 在_P 恒星_NN 内部_NN 给定_VV 的_DEC 任何_DT 一_CD 层_M ，_PU 都_AD 是_VC 在_P 热压力_NN （_PU 向外_NR ）_PU 和_CC 在_P 其_PN 外_NN 物质_NN 的_DEG 质量_NN 产生_VV 的_DEC 压力_NN （_PU 向内_NR ）_PU 相等_NR ，_PU 重力_NN 就_AD 没有_VE 多余_JJ 的_DEG 能量_NN 使_VV 恒_AD 星_AD 塌缩_VV ，_PU 以_MSP 达到_VV 平衡_VV 的_DEC 状态_NN 。_PU 在_P 物理学_NN 上_LC ，_PU 若_CS 受力_NN 或_CC 力矩_NN 互相_AD 抵消_VV ，_PU 则_AD 也_AD 能_VV 形成_VV 平衡_NN 。_PU
+
+若_CS 为_VC 变动_VV 的_DEC ，_PU 但_CC 直_AD 保留_VV 在_P 一_CD 个_M 平均_JJ 而_CC 整体_AD 为_VC 有_VE 规律_NN 的_DEC 波动_NN 变化_NN ，_PU 则_AD 称为_VV 动态_NN 平衡_VA ，_PU 比如_AD 说生_VV 态平衡_NN 。_PU
+此外_AD ，_PU 平衡_NN 亦_AD 可以_VV 分为_AD 稳定_VV 平衡_NN 和_CC 不_AD 稳定_VA 平衡_NN
+
+
+

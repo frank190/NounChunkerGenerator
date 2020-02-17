@@ -1,0 +1,17 @@
+﻿奈奎_NN 斯_DT 特_AD 图_NN
+
+奈奎_NN 斯_NN 特_CC 图_NN （_PU ）_PU 是_VC 对于_P 一_CD 个_M 连续_JJ 时间_NN 的_DEG 线性_JJ 非_JJ 时变_NN 系统_NN ，_PU 将_BA 其_PN 频率_NN 响应_NN 的_DEG 增益_NN 及_CC 相位_NN 以_P 极座_NN 标_VV 的_DEC 方式_NN 在_P 复_AD 平面_JJ 中绘出_NN ，_PU 常_AD 在_P 控制_NN 系统_NN 或_CC 信号_NN 处理_NN 中_LC 使用_VV ，_PU 可以_VV 用来_VV 判断_VV 一_CD 个_M 有_VE 反馈_NN 的_DEC 系统_NN 是否_AD 稳定_VA 。_PU 奈奎斯特_VV 图_NN 的_DEG 命名_NN 是_VC 来自_VV 贝尔实_AD 验室_VV 的_DEC 电子_NN 工程_NN 师哈_NN 里_LC ·_PU 奈奎_NN 斯_AD 特_VA （_PU HarryNyquist_NN ）_PU 。_PU
+
+奈奎_NN 斯_NN 特_CC 图_NN 上_LC 每_DT 一_CD 点_M 都_AD 是_VC 对应_VV 一_CD 特定_JJ 频率_NN 下_LC 的_DEG 频率_NN 响应_NN ，_PU 该_DT 点_NN 相对于_P 原点_NN 的_DEG 角度_NN 表示_VV 相位_NN ，_PU 而_CC 和_P 原点_NN 之间_LC 的_DEG 距离_NN 表示_VV 增益_NN ，_PU 因此_AD 奈奎_VV 斯_DT 特图_NN 将_BA 振幅_NN 及_CC 相位_NN 的_DEC 波德_NN 图_NN 综合_VV 在_P 一_CD 张_M 图_NN 中_LC 。_PU
+
+一般_JJ 的_DEG 系统_NN 有_VE 低通_JJ 滤波器_NN 的_DEG 特性_NN ，_PU 高_JJ 频时_NN 的_DEG 频率_NN 响应_NN 会_VV 衰减_VV ，_PU 增_VV 益_NN 降低_VV ，_PU 因此_AD 在_P 奈_VV 奎_CD 斯_DT 特图_NN 中_LC 会_VV 出现_VV 在_P 较_AD 靠近_VV 原点_NN 的_DEG 区域_NN 。_PU
+
+闭环_NN 负_VV 反馈_NN 系统_NN 的_DEG 稳定性_NN 评估_NN 可以_VV 由_P 开环_NN 系统_NN （_PU 同_DT 一_CD 个_M 系统_NN ，_PU 但_CC 不_AD 考虑_VV 其_PN 反馈_NN 回路_NN ）_PU 的_DEG 奈奎_NN 斯_DT 特_AD 图_NN ，_PU 配合_VV 奈_VV 奎_AS 斯_DT 特_AD 稳定_VA 判_DEV 据_P 判断_VV 其_PN 稳定性_NN 。_PU 此_DT 方法_NN 甚至_AD 可以_VV 用_VV 在_P 有_VE 延迟_VV 的_DEC 系统_NN ，_PU 或是_CC 传递_VV 函数_NN 不_AD 是_VC 有_VE 理函数_NN 的_DEG 系统_NN ，_PU 这些_DT 系统_NN 用_P 其他_DT 方法_NN 都_AD 很_AD 难_AD 分析_VV 。_PU 可以_VV 借由_VV 图线_NN 围绕_VV formula_NN
+
+奈奎_NN 斯_NN 特_CC 图_NN 可以_VV 提供_VV 一些_CD 有关_P 传递_VV 函数_NN 的_DEG 信息_NN 。_PU 例如_AD 曲线_NN 进入_VV 原点_NN 时_LC 的_DEG 角度_NN 可以_VV 计算_VV 极点_CD 个_M 数_NN 和_CC 零点_NN 个数_NN 的_DEG 差_NN 。_PU
+
+当_P 手绘_NN 奈奎_VV 斯_DT 特_M 图_NN 时_LC ，_PU 可以_VV 画出_VV 图形_NN 的_DEG 外观_NN ，_PU 但_CC 座标_NN 轴部_NN 份有_VV 些_CD 调整_VV ，_PU 以_MSP 显示_VV 一些_CD 重要_JJ 部份_NN 的_DEG 信息_NN 。_PU 当_P 用_P 计算机_NN 绘图_VV 时_LC ，_PU 需要_VV 包括_VV 所有_DT 有关_JJ 的_DEG 频率_NN 范围_NN ，_PU 因此_AD 频率_NN 可能_VV 会_VV 用_P 对数_NN 的_DEC 方式_NN 增加_VV ，_PU 以_MSP 包括_VV 大_VA 的_DEC 频率_NN 范围_NN 。_PU
+
+
+
+

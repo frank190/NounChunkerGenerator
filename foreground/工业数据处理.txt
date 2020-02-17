@@ -1,0 +1,7 @@
+﻿工业_NN 数据_NN 处理_NN
+
+工业_NN 数据_NN 处理_NN （_PU ）_PU 是_VC 计算机_NN 科学_VV 的_DEC 一_CD 个_M 分支_NN ，_PU 研究_NN 领域_NN 覆盖_VV 了_AS 工业_NN 中_LC 可_VV 编程_VV 控制器_NN 、_PU 自动_AD 控制_VV 和_P 智能_NN 设备_NN 等_ETC 的_DEG 的_DEC 设计_NN 和_CC 编程_NN 。_PU 该_DT 学科_NN 的_DEC 产品_NN 至少_AD 包含_VV 微_JJ 处理器_NN 或者_CC 单片机_NN 其中_NN 的_DEG 一_CD 种_M （_PU 用于_VV 处理_VV 输入_VV 输出_VV 的_DEC 数据_NN 信号_NN ）_PU 。_PU
+
+目前_NT 对于_P 工业_NN 数据_NN 处理_NN 的_DEC 另_DT 一_CD 个_M 定义_NN 是_VC ，_PU 该_DT 学科_NN 主要_AD 研究_VV 一些_CD 设计_NN 物理量_NN 测量_NN 、_PU 控制_VV 的_DEC 计算机_NN 程序_NN ，_PU 例如_AD ，_PU 坦克_NN 里_LC 温度_NN 和_CC 气压_NN 的_DEG 测控_NN ，_PU 机器人_NN 的_DEG 定位_NN ，_PU 等等_VV 。_PU
+
+

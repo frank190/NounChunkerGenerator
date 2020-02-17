@@ -1,0 +1,6 @@
+﻿安德_NN 烈夫_JJ 反射_NN
+
+安德_NN 烈_JJ 夫_NN 反射_VV (_PU )_NN 是_VC 描述_VV 一_CD 个_M 电子_NN 入射超_NN 导体_NN (_PU S_CD )_PU 和_CC 正常_JJ 金属_NN (_PU N_CD )_PU 之_DEG 现象_NN ，_PU 是_VC 由_P 俄国_NR 物理_NN 学_VV 家亚_NN 历_DT 山_NN 大_VA ·_PU F_CD ·_PU 安德_NN 烈_NOI 夫首度_NN 发现_VV 。_PU 当_P 电子_NN 过入射_NN 超导体_NN 和_CC 正常_JJ 金属_NN 之间_LC 时_LC ，_PU 在_P 正常_JJ 金属_NN 这边_AD 会_VV 形成_VV 一_CD 个_M 与_P 之前_NT 入射_VV 电子_NN 自旋_NN 相反_VV 的_DEC 电洞_NN ，_PU 而_CC 在_P 超导体_NN 的_DEC 另_DT 一_CD 边会_NN 形成_VV 一_CD 个_M 库柏_NN 对_NN (_PU 两_CD 个_M 自_P 旋_AD 不同_JJ 电子_NN 纠缠_NN 在_P 一起_NN 状态_NN )_PU
+所谓_JJ 正常_JJ 金属_NN ,_PU 这里_PN 指_VV 在_P 费米面_NN 附近_NN ,_PU 相_AD 反自_VV 旋态_NN 密度_NN 相同_VA 的_DEC 金属_NN ._PU
+
+

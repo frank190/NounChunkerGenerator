@@ -1,0 +1,27 @@
+﻿丽音_NN 广播_VA
+
+丽音_NN 是_VC 英语_NN 合成词NICAM_VV 的_DEC 音译_NN ，_PU 即_AD "_PU NearInstantaneousCompandedAudioMultiplex_NN "_PU ，_PU 意谓_NN 「_PU 接近_VV 即时_NT 的_DEG 缩扩_NN 音频_NN 多路_NN 广播_VA 」_PU 。_PU 「_PU 」_PU （_PU ）_PU 指_VV 「_PU 压缩_VV 、_PU 扩大_VV 」_PU 。_PU 「_PU 接近_VV 即时_NT 」_PU 是_VC 因为_P 缩扩_NN 过程_NN 需要_VV 约_AD 千_CD 分_M 一_CD 秒_M 的_DEG 时间_NN 。_PU 丽音_NN 使用_VV 数码_NN 技术_NN ，_PU 把_BA 电视台_NN 发送_VV 的_DEC 两_CD 条_M 音频_NN 讯号_NN 数码化_NN 后_LC 进行_VV 压缩_NN ，_PU 传送_VV 后_LC 再_AD 在_P 接收机_NN 里_LC 扩大还_AD 原_VA 。_PU 数码化_NN 使用_VV 的_DEC 是_VC 14_CD 位元_NN PCM_NN 、_PU 32千_NN 赫_AD 采样_VV 。_PU 这_DT 种_M 广播_NN 法_NN 可以_VV 播出_VV 优质_NN 立体声_NN ，_PU 或_CC 作_VV 双_CD 声道_NN 广播_VV ，_PU 让观_VV 众_CD 任意_NN 选择_VV 所_MSP 需_VV 声道_NN 。_PU
+
+相比_VV 后来_PN 根据_P 心理_NN 声学_NN 而_MSP 发展_VV 的_DEC 压缩_NN 技术_NN （_PU 如_P MP3_NN ）_PU ，_PU NICAM_NN 无疑_AD 在_P 压缩_NN 效率_NN （_PU 1_CD :_PU 1.4_CD ，_PU MP3_CD 约_AD 1_CD :_PU 10_CD ）_PU 方面_NN 远远_AD 差於_VV MP3_NN ，_PU 但_CC NICAM_NN 因_P 压缩_VV 而_MSP 造成_VV 的_DEC 时_NN 滞_LC （_PU 约_AD 1_CD /_PU 32_CD 秒_M ）_PU 却_AD 远远_AD 低于_VV MP3_NN （_PU 最少_AD 100_CD 毫秒_M ，_PU 即_AD 1_CD /_PU 10_CD 秒_M ）_PU ，_PU 於_P 传统_NN 模拟_NN 讯号_NN 电视_NN 广播_NN 中_LC ，_PU MP3_NN 等_ETC 压缩_JJ 技术_NN 产生_VV 的_DEC 时滞_NN 实_AD 在_VV 太_AD 长_VA 并_AD 不_AD 能_VV 接受_VV （_PU 例如_AD 在_P 现场_NN 直播_AD ，_PU 100_CD ms_M 的_DEC 时滞_NN 等_ETC 同_DT 2_CD -_PU 3_CD 帧_M 画面_NN 的_DEG 延误_NN ，_PU 足够_VV 造成_VV 相当_PN 明显_VA 的_DEC 音画_NN 脱节_VV 现象_NN ）_PU ，_PU 故此_AD 虽然_CS NIC_CD AM_M 佔_NN 用_P 相当_JJ 庞大_NN ，_PU 704_CD kbit_NN /_PU s_NN 的_DEG 频宽_NN ，_PU 在_P 直_AD 到_VV 数码_NN 电视_NN 广播_AD 出现_VV 之前_LC ，_PU NICAM_M 这_DT 种_M 数码_NN 音频_NN 技术_NN 在_P 类比_P 广播_JJ 技术_NN 之中_LC 并未_AD 被_SB 取代_VV 。_PU
+
+丽音_NN 技术_NN 於_P 1980_CD 年代_NN 由_P 英国_NN 广播_JJ 公司_NN （_PU BBC_NN ）_PU 发展_NN ，_PU 并_CC 於_P 1991_CD 年_M 於_P 英国_NN 正式_NN 推出_VV ，_PU 用作_VV BBC_NN 电视_NN 频道_NN 的_DEC 声道_NN 播送_NN 方法_NN 。_PU 该_DT 技术_NN 亦_AD 於_P 法国_VA 、_PU 丹麦_NN 、_PU 中国_NR 大陆_CD 、_PU 香港_NN 、_PU 纽西兰_NN 等_ETC 地_DEV 采用_VV 。_PU
+
+在_P 香港_NN ，_PU 由于_P 居住_VV 了_AS 大量_NN 来自_VV 中国_JJ 内地_NN 及_CC 来自_VV 各_DT 洲_M 不同_JJ 国籍_NN 及_CC 种族_NN 的_DEC 人士_NN ，_PU 当地_VA 的_DEC 私营_NN 免费_NN 电视台_NN 无线_JJ 电视_NN ，_PU 在_P 两_CD 条_M 以_P 模拟_JJ 视频_NN 传送_VV 的_DEC 中_LC 、_PU 英文_NN 频道_NN 在_P 每_DT 晚_M 黄金_NN 时间_NN ，_PU 相当_AD 比例_VV 的_DEC 节目_NN （_PU 新闻_JJ 报导_NN 和_CC 由_P 香港_NN 电台_NN 电视部_NN 制作_VV 的_DEC 节目_NN 除外_LC ）_PU 都_AD 从_P 1991_CD 年_M 起用_VV 上_JJ 丽音_NN 作_VV 双语_NN 广播_VA （_PU 至_VV 於_P 数码_NN 电视_NN 广播_VA 的_DEC 频道_NN ，_PU 则_AD 以_P 传送_VV 多_CD 条_M AC_NN -_PU 3_CD 位流_NN 以_MSP 作_VV 配合_VV ；_PU 另外_AD ，_PU 公营_NN 港台_NN 电视_NN 的_DEC 模拟_NN 广播_AD 频道_VV 只有_JJ 立体声_NN 广播_NN ，_PU 而_CC 没有_VV 多_CD 种_M 语言_NN 广播_VA 的_DEC 安排_NN ）_PU ；_PU 然而_AD ，_PU 由于_P 香港_NN 政府_NN 已_AD 决定_VV 于_P 2020_CD 年_M 终止_NN 模拟_NN 电视_NN 广播_VA ，_PU 届时_AD 丽音_VV 广播_JJ 技术_NN 也_AD 会_VV 停止_VV 在_P 香港_NN 使用_VV 。_PU
+
+其他_DT 地方_NN 的_DEC 电视台_NN ，_PU 则_AD 利用_VV 如_P FM_NN 电台_NN 一样_VA 的_DEC 「_PU 类比_JJ 立体声_NN 」_PU （_PU analogstereo_NN ）_PU 技术_NN 播放_VV 声道_NN 。_PU
+
+为了_P 兼容_VV 无_VE 丽音_NN 设备_NN 的_DEG 电视机_NN ，_PU 丽音_NN 的_DEC 讯号_NN 被_SB 放在_VV 视频_NN 载_VV 波_NN 附近_VV 的_DEC 另_DT 一_CD 个_M （_PU ）_PU 。_PU 原来_JJ 的_DEG 类比_NN 声道_NN 广播_VA 不_AD 会_VV 受_VV 影响_NN 。_PU 所以_AD 使用_VV 丽_DT 音_NN 发放_VV 的_DEC 是_VC 三_CD 个_M 音频_NN 讯号_NN ：_PU 原来_VV 的_DEC 类比_NN 单_CC 声道_NN ，_PU 和_CC 两_CD 个_M 丽音_NN 数位_NN 声道_NN 。_PU 电视台_NN 可以_VV 把_BA 两_CD 个_M 丽音_NN 数位_NN 声道_NN 用作_VV 立体声_NN 广播_VA ，_PU 亦_AD 可以_VV 把_BA 它们_PN 作_VV 两_CD 种_M 语言_NN 的_DEC 单声道_NN 广播_VV 。_PU 因此_AD 丽音之下_VV 的_DEC 多_CD 语_M 广播最_AD 多_VA 可以_VV 是_VC 三_CD 种_M 语言_NN 。_PU 丽音_NN 的_DEC 数码_NN 声道_NN 讯号理_NN 论_NN 上_LC 还_AD 可以_VV 转作_VV 数码_NN 资料_NN 广播_VA 。_PU
+
+丽音_NN 广播_NN 可_VV 提供_VV 几_CD 种_M 资料_NN 传送_NN 模式_NN :_PU
+
+丽音_NN 广播_VA 的_DEC 基本_JJ 原理_NN 如下_VV :_PU
+
+有_VE 丽音_NN 设备_NN 的_DEG 录影机_NN 多数_CD 会_VV 把_BA 丽音_NN 的_DEC 数位_NN 声道_NN 录_VV 在_P VHSHi_NN -_PU F_CD i_NN 的_DEG 轨迹_NN 上_LC ，_PU 原来_VA 的_DEC 单_JJ 声道_NN 则_AD 录_VV 在_P 线性_JJ 轨道_NN 上_LC 。_PU
+
+DVD_NN 录影机_NN 则_AD 有_VE 不同_JJ 方法_NN ，_PU 有些_DT 声称_NN 能_VV 将_BA 多_JJ 声道_NN 录入_VV 不同_JJ 声轨_NN ，_PU 以_MSP 选择_VV DVD_NN 语言_NN 的_DEG 相同_JJ 方法_NN 选择_VV ；_PU 有些只_AD 限於_VV 硬盘_NN 或_CC DVD_NN -_PU VR_NN 格式_NN ；_PU 有些_DT 则_AD 只_AD 能_VV 录入_VV 同_DT 一_CD 声轨_NN 左_JJ 右_JJ 声道_NN ，_PU 第三_OD 声道_NN 会_VV 丟失_VV 。_PU
+
+
+"_PU 注意_NN ：_PU 未_AD 有_VE 列出_VV 纯_JJ 数据_NN 模式_NN "_PU
+
+
+

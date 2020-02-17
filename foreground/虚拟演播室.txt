@@ -1,0 +1,15 @@
+﻿_AD 虚拟_JJ 演播室_NN
+
+虚拟_JJ 演播室_NN （_PU "virtualstudio"_PU ）_PU 是_VC 以_P 虚拟_JJ 场景_NN 为_VV 主体_NN 的_DEC 电视_NN 演播室_NN ，_PU 给_P 视频_NN 制作_VV 带来_VV 很_AD 大_VA 的_DEC 方便_NN 。_PU 这_DT 技术_NN 经常_AD 被_SB 应用_VV 于_P 校园_NN 电视台_NN 中_LC 。_PU
+
+1978_CD 年_M ，_PU EugeneL_NN ._PU 提出_VV 了_AS “_PU 电子_NN 布景_NN ”_PU （_PU ElectroStudioSetting_NR ）_PU 的_DEC 概念_NN ，_PU 指出_VV 未来_VA 的_DEC 节目_NN 制作_NN 可以_VV 在_P 只有_JJ 人员_NN 和_CC 摄像机_NN 的_DEC 空演_JJ 播室_NN 内_LC 完成_VV ，_PU 其_PN 余布景_NN 和_CC 道具_NN 都_AD 由_P 电子_NN 系统_NN 产生_VV 。_PU
+
+随着_P 计算机_NN 技术_NN 与_CC 虚拟_JJ 现实_NN （_PU VirtualReality_NN ）_PU 技术_NN 的_DEG 发展_NN ，_PU 在_P 1992_CD 年以_VV 后_JJ 虚拟_JJ 演播室_NN 技术_NN 真正_AD 走向_VV 了_AS 实用_VV 。_PU 作为_P 数字_NN 演播室_NN 发展_JJ 新_JJ 技术_NN ，_PU 虚拟_JJ 演播室_NN 技术_NN 已_AD 成为_VV 了_AS 当今_NT 数字_NN 电视_NN 演播室_NN 新_JJ 技术_NN 的_DEC 热点_NN 。_PU 在_P 1994_CD 年_M IBC_NN 展览会_NN 上_VV 虚拟_JJ 演播室_NN 技术_NN 首次_NN 亮像_VV ，_PU 并_CC 在_P 各_DT 种_M 电视_NN 转播_NN 中_LC 得以_VV 实现_VV 。_PU
+
+虚拟_JJ 演播室_NN 系统_NN （_PU TheVirtualStudioSystem_NR ，_PU 简称_NR VSS_NN ）_PU 是_VC 近年_NT 来随_VV 着_AS 计算机_NN 技术_NN 飞速_AD 发展_VV 和_P 色键_NN 技术_NN 不_AD 断改_VV 进而_AD 出现_VV 的_DEC 一_CD 种_M 新_VA 的_DEC 电视节_NN 目制作_NN 系统_NN 。_PU
+
+在_P 虚拟_JJ 演播室_NN 系统_NN 中_LC ，_PU 摄像机_NN 的_DEG 工作_NN 状态_NN 信息_NN 传送_VV 给_VV 图形_NN 工作站_NN ，_PU 计算机_NN 依_P 此_PN 得到_VV 前景_NN 物体_NN 与_CC 摄像机_NN 之间_LC 的_DEG 距离_NN 和_CC 相对_JJ 位置_NN ，_PU 从而_AD 计算_VV 出_VV 虚拟_JJ 场景_NN 最_AD 适宜_VA 的_DEC 大小_NN 、_PU 位置_NN ，_PU 并_CC 按_P 要求_NN 计算_VV 生成_VV 虚拟_JJ 场景_NN 的_DEC 三维_NN 模型_NN 。_PU 现场_JJ 视频_NN 采用_VV 色键_NN 原理_VA ，_PU 将_BA 主持人_NN 或_CC 演员_NN 置身_VV 于_P 蓝色_NN 或_CC 绿色_JJ 背景幕_NN 布_NN 前_LC 表演_VV ，_PU 然后_AD 利用_VV 切换台_NN 上_LC 的_DEG 色键_NN 功能_NN 将_BA 主持人_NN 从_P 背景_NN 幕布_NN 中_LC 分离_VV 出来_VV ，_PU 实时_AD 地_DEV 与_P 计算机_NN 产生_VV 的_DEC 三维_NN 模型_NN 完美_VA 无_VE 缺地_NN 集成_VV 在_P 一起_NN ，_PU 构成_VV 一_CD 个_M 现实_NN 中_LC 不_AD 存在_VV 的_DEC 、_PU 但是_AD 在_P 电视_JJ 画面_NN 上_LC 却_AD 又起_VV 到_VV 演播_VV 室作_NN 用_VV 的_DEC 那_DT 种_M 假想_NN 的_DEC 新_JJ 的_DEG 环境_NN 和_CC 气氛_NN ，_PU 最_AD 终_AD 得到_VV 把_BA 将_BA 实拍_VV 的_DEC 人物_NN 与_P 虚拟_JJ 景物_NN 无缝_AD 地_DEV 融合_VV 起来_VV 的_DEC 画面_NN 。_PU
+
+目前_NT 世界_NN 上_LC 有_VE 数十_CD 家_M 公司_NN 已_AD 开发_VV 或_CC 正_AD 在_P 开发_VV 这_DT 一_CD 全新_DT 的_DEG 电视节_NN 目制作_NN 系统_NN 。_PU 如_P 美国_NR E&&_NN S_NN 公司_NN 的_DEC Minset_NN 、_PU 加拿_VV 大Discreet（后来被Autodesk收购_PU ）_PU 、_PU Logic_NN 公司_NN 的_DEC Vapour_NN 以及_CC 以_P 色列_NN RT_NN -_PU SET_NN 公司_NN 的_DEC Larus_NN 虚拟_JJ 演播室_NN 系统_NN 等_ETC ，_PU 另外_AD ，_PU Accom_NN 、_PU BBC_NN 、_PU Trinity_NN 、_PU ORAD_NN 、_PU Radamec_NN 等_ETC 公司_NN 也_AD 有_VE 虚拟_JJ 演播室_NN 系统_NN 面世_VA 。_PU
+
+

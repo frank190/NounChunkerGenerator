@@ -1,0 +1,9 @@
+﻿_AD 低_JJ 介电_NN 常数_NN 物质_NN
+
+低_JJ 介电_NN 常数_NN 物质_NN （_PU low_NN -_PU k_NN ）_PU 顾_VV 名_NN 思义_VV ，_PU 即_AD 相对_JJ 电容率_NN （_PU k_NN ）_PU 比较低_NN （_PU 低于_VV 二氧化硅_NN ，_PU k=_VV 3_CD ._PU 9_CD ）_PU 的_DEG 电介质_NN ，_PU 主要_AD 应用_VV 在_P 微电子_NN 领域_NN 。_PU 具体_AD 可_VV 参见_VV 低_JJ 介电_NN 常数_NN 材料_NN
+
+在_P 电子_NN 技术_NN 不断_AD 发展_VV 的_DEC 今天_NN ，_PU 微电子_NN 工业_NN 一直_AD 以来_VV 仍旧基本_AD 保持_VV 着_AS 摩尔_NN 定律_NN 的_DEG 正确性_NN 。_PU 为了_P 提高_VV 集成_JJ 电路_NN 的_DEG 性能_NN 和_CC 速度_NN ，_PU 越来越_AD 多_VA ，_PU 越来越_AD 小_VA 的_DEC 晶体管_NN 被_SB 集成_VV 到_VV 芯片_NN 中_LC 。_PU 随着_P 这_DT 种_M 小型化_NN 的_DEG 趋势_NN ，_PU 芯片_NN 中_LC 不同_JJ 层_NN 导线_NN 之间_LC 的_DEG 距离_NN 也_AD 随_P 之_PN 减小_VV 。_PU 用作_VV 导线_NN 之间_LC 绝缘_JJ 层_NN 的_DEG 二氧化硅_NN （_PU SiO_NN ）_PU 由于_P 厚度_NN 的_DEG 不断_NN 缩小_VV 使得_VV 自身_PN 电容_NN 增大_VV 。_PU 这_DT 种_M 电荷_NN 的_DEG 积聚_NN 将_BA 干扰_NN 信号_NN 传递_NN ，_PU 降低_NN 电路_NN 的_DEG 可靠性_NN ，_PU 并且_CC 限制_VV 了_AS 频率_NN 的_DEG 进一步_AD 提高_VV 。_PU 为了_P 解决_VV 这_DT 个_M 问题_NN ，_PU 微电子_NN 工业_NN 将_AD 应用_VV 低_JJ 介电_NN 常数_NN 材料_NN 代替_VV 传统_JJ 的_DEG 二氧化硅_NN 绝缘_NN 材料_NN 。_PU
+
+由于_P 空气_NN 有_VE 极_AD 低_VA 的_DEC 介电_NN 常数_NN （_PU k_CD =_PU 1_CD ）_PU ，_PU 所以_AD 在_P 一般_NT 的_DEG 电介质_NN 中_LC 加入_VV 空气泡_NN 可以_VV 极_AD 大_VA 的_DEV 降低_VV 介电_NN 常数_NN 。_PU 目前_NT 生产_VV 低_JJ 介电_NN 常数_NN 物质_NN 所_MSP 用_VV 的_DEC 方法_NN 即_AD 是_VC 用_P 高分子_NN 聚合物_NN (_PU k_CD ~_PU 2_CD ._PU 5_CD )_PU 作为_P 基底_NN 加入_VV 纳米_NN 尺度_NN 的_DEC 空气泡_NN ，_PU 可以_VV 将_BA k_NN 降低_VV 到_VV 2.0_CD 甚至_AD 以下_VV 。_PU 但_AD 是_VC 由于_P 低_JJ 介电_NN 常数_NN 物质_NN 还_AD 需要_VV 经_P 受苛_VV 刻_NN 的_DEG 工业_NN 加工_NN 过程_NN ，_PU 它_PN 的_DEG 强度_NN ，_PU 韧性_NN ，_PU 耐热性_NN ，_PU 耐酸性_NN 都_AD 要_VV 有_VE 严格_VA 的_DEC 限制_NN 。_PU
+
+

@@ -1,0 +1,10 @@
+﻿_NN 特征_NN 长度_NN
+
+在_P 物理_NN 上_LC ，_PU 特征_NN 长度_NN 是_VC 指_VV 可_VV 定义_VV 物理_NN 系统_NN 的_DEG 重要_JJ 尺度_NN ，_PU 一般_AD 会_VV 出现_VV 在_P 一些_CD 公式_NN 中_LC ，_PU 表达_NN 系统_NN 的_DEG 一些_CD 尺寸_NN 特性_NN 。_PU
+
+以下_NN 是_VC 一些_CD 定义_NN 中_LC 有_VE 特征_NN 长度_NN 的_DEC 物理量_NN ：_PU
+
+在_P 计算_VV 力学_NN 中_LC ，_PU 特征_NN 长度_NN 是_VC 用来_VV 调整_VV 本构_NN 方程_NN 中_LC 应_VV 力集_NN 中_LC 程度_NN 的_DEG 数值_NN ，_PU 特征_NN 长度_NN 和_CC 积分点_NN 有关_VV ，_PU 若_CS 是_VC 二维_JJ 分析_NN ，_PU 特征_NN 长度_NN 是_VC 面积_NN 的_DEG 平_JJ 方根_NN ，_PU 若_CS 是_VC 三维_JJ 分析_NN ，_PU 特征_NN 长度_NN 是_VC 体积_NN 的_DEC 立方根_NN 。_PU
+
+
+

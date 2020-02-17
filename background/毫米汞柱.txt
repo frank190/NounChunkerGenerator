@@ -1,0 +1,6 @@
+﻿毫米_NN 汞柱_NN
+
+毫米_JJ 汞柱_NN （_PU ）_PU ，_PU 符号_NN 为_VC mmHg_NN ，_PU 是_VC 一_CD 种_M 压力_NN 单位_NN ，_PU 等于_VV 一_CD 毫米_M 高_VA 的_DEC 水银_NN 柱_NN 对_P 液柱_NN 底面_NN 产生_VV 的_DEC 压力_NN 。_PU 一_CD 毫米_JJ 汞柱_NN 为_VC 133_CD ._PU 322387415_CD 帕斯卡_M ，_PU 约_AD 为_VC 1_CD 托_M 。_PU 。_PU
+
+
+

@@ -1,0 +1,11 @@
+﻿拉普拉_VV 斯_DT 极限_NN
+
+拉普拉_VV 斯_DT 极限_NN 是_VC 指_VV 可以_VV 使_VV 克卜勒_NN 方程_NN 的_DEC 级数_NN 解_VV 收敛_VV 的_DEC 最大_JJ 离心率_NN ，_PU 其_PN 数值_NN 约_AD 为_VC
+
+克卜勒_NN 方程_NN 描述_VV 物体_NN 在_P 一_CD 离心率_NN 为_VC ε_NN 的_DEG 椭圆_NN 轨道_NN 上_LC ，_PU 其_PN 平近_JJ 点角_NN "_PU M_NN "_PU 和_CC 偏近点角_NN "_PU E_CD "_PU 之间_LC 的_DEG 关系_NN ，_PU "_PU E_NN "_PU 无法_AD 以_P 初等_JJ 函数_NN 表示_VV ，_PU 但_CC 利用_VV 可以_VV 得到_VV 以下_JJ 的_DEG 幂级数_NN ：_PU
+
+拉普拉_VV 斯_AD 发现_VV 此_DT 级数_NN 只_AD 在_P 离心率_NN 较_AD 小时_AD 收敛_VV ，_PU 当_P 离心率_NN 超过_VV 一定_JJ 值_NN 就_AD 会_VV 发散_VV 。_PU 其_PN 收敛_VV 半径_NN 即_AD 为_VC 拉普_NN 拉_VV 斯_PN 极限_VA 。_PU
+
+
+
+

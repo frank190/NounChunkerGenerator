@@ -1,0 +1,38 @@
+﻿迭代_NN 稀_JJ 疏_NN 渐_AD 近_AD 最_AD 小_JJ 方差_NN 算法_NN
+
+迭代_JJ 稀疏_NN 渐_AD 近_AD 最_AD 小_JJ 方差_NN 算法_NN 是_VC 用于_VV 信号_NN 处理_NN 中_LC 的_DEG 谱估计_NN 和_CC 到达_JJ 方向_NN （_PU DOA_CD ）_PU 估计_VV 的_DEC 无参_JJ 数超_NN 分辨率_NN 算法_NN 。_PU 这_DT 个_M 名称_NN 是_VC 为了_P 强调_VV 渐_AD 近_JJ 最_AD 小_JJ 方差_NN （_PU AMV_NN ）_PU 标準_VV 的_DEC 创造基础_NN 。_PU 它_PN 是_VC 在_P 恶劣_NN 环境_NN 下_LC 恢复_VV 多_CD 个_M 高相_JJ 关源_NN 的_DEG 幅度_NN 和_CC 频率_NN 特性_NN 的_DEC 有力_JJ 工具_NN ，_PU 例如_AD 有_VE 限数量_NN 的_DEG 快照_NN ，_PU 低_JJ 信噪_NN 比_NN 。_PU 它_PN 可以_VV 用于_VV 合成_VV 孔径_NN 雷达_VA 。_PU
+
+迭代_JJ 稀疏_NN 渐_AD 近_AD 最_AD 小_JJ 方差_NN 算法_NN 是_VC 一_CD 种_M 基_NN 於_P 压缩_NN 感知_VV 的_DEC 超高_JJ 分辨_NN 率成_VV 像程式_NN ,_PU 可以_VV 用于_VV 合成_VV 孔径_NN 雷达_VV 成像_NN ,_PU 讯号_NN 处理_NN ,_PU 核磁_NN 共振_AD 成像_VV 等_ETC 医学_NN 影像_NN 领域_NN 。_PU
+
+SAMV_NR 算法_NN 的_DEC 公式_NN 在_P DOA_NR 估计_VV 的_DEC 背景_NN 下_LC 作为_VV 反问题_NN 给出_VV 。_PU 假设_VV formula_NN -_PU 元素_NN 均匀_VA 线性_JJ 阵列_NN （_PU ULA_NN ）_PU 分別接收_VV 从_P 位于_VV formula_NN 位置_NN 发出_VV 的_DEC formulaULA_NN 中_LC 的_DEG 传感器_NN 在_P 特定_JJ 时间_NN 累积_NN formulaformula_NN
+
+其中_NN formula_NN 是_VC 转向_VV 矩阵_NN ,_PU formula_NN 包含_VV 源波形_NN ，_PU 和_CC formula_NN 是_VC 噪音词_NN 。_PU 假设_VV formulaformula_NN 是_VC Diracdelta_NN 函数_NN 并且_CC 它_PN 仅_AD 等于_VV 1_CD ，_PU 唯一_AD 存在_VV formula_NN 否则_AD 为_VC 0_CD 。_PU 并且_CC 假设_VV formulaandformula_NN 是_VC 独立_VA 的_DEC ，_PU 而_CC formulawhereformulaLetformula_NR 是_VC 包含_VV 未知_NN 信号_NN 功率_NN 和_CC 噪声_NN 方差_NN 的_DEC 向_P 量_NN ，_PU formula_NN
+
+formula_NN __NN 19_CD 的_DEG 协方_NN 差_NN 矩阵_VV ，_PU 其中_NN 有关_JJ formula_NN
+该_DT 协方_NN 差_NN 矩阵_NN 可以_VV 通过_P 样本_JJ 协方_NN 差_NN 矩阵_NN 进行_VV 传统_NN 估计_VV formula_NN ，_PU 其中_NN formula_NN 。_PU 将_BA 向_P 量化_VV 运算_NN 符_VV 应用于_VV 矩阵_NN formula_NN 后_LC ，_PU 获取_VV 的_DEC 向_P 量_NN formula_NN 与_CC 未_AD 知参_VV 数线性_NN 相关_JJ formula_NN 当_P
+
+formula_NN
+
+其中_NN formulaformulaformulaformula_NN 和_CC 使_VV formula_NN
+
+要_VV 从_P 统计_VV 的_DEC formula_NN __NN 33_CD 去_VV 估算_VV formula_NN ，_PU 我_PN 们基_NN 於_P 渐_AD 近_AD 最_AD 小_JJ 方差準_NN 则_AD 开发_VV 了_AS 一_CD 系列_M 迭代_JJ SAMV_NN 方法_NN 。_PU 从_P 开始_NN ，_PU 从_P 协方_NN 差_NN 矩阵_NN formula_NN 的_DEC 任意_NN 一致_VA 的_DEC 估计值_NN formula_NN ，_PU 基_NN 於_P 二_NN 阶统_NN 计值_NN formula_NN ，_PU 以_P 实数_NN 对称_VA -_PU 正定_JJ 矩阵_NN 为_VC 界_NN
+
+其中_NN formula_NN __NN 39_CD 。_PU 此外_AD ，_PU 这_DT 个_M 下界_NN 是_VC 通过_P 最_AD 小_JJ 化_NN 得到_VV 的_DEC formula_NN 的_DEG 渐_AD 近_AD 分布_VV 的_DEC 协方_NN 差_NN 矩阵_NN 得到_VV 的_SP 。_PU ，_PU
+
+其中_NN
+formula_NN
+
+因此_AD ，_PU 可以_VV 迭代地获_VV formula_NN 的_DEG 估计值_NN 。_PU
+formula_NN 和_CC 最小化_JJ formula_NN __NN 45_CD 的_DEG formula_NN 可_VV 借由_VV 以下_JJ 计算_NN 获得_VV 。_PU
+
+假设_VV formula_NN 和_CC formula_NN 在_P 第f_OD ormula_JJ 迭代_NN 中_LC 已_AD 被_SB 估算_VV 到_VV 某_DT 种_M 程度_NN ,_PU 第_P formula_NN
+
+其中_NN formula_NN 的_DEG 估计_NN 值_VV 在_P 第f_OD ormula_JJ 迭代_NN 是_VC formulawithformula_NN
+
+基_NN 於_P 大多数_CD 压缩_NN 感知_VV 的_DEC 源_NN 定位_NN 技术_NN 的_DEC 分辨率_NN 受到_VV 覆盖_NN 位置_NN 参数_NN 空间_NN 的_DEG 方向_NN 网格_VA 的_DEC 精_JJ 细度_NN 的_DEG 限制_NN 。_PU 在_P 稀疏_NN 信号_NN 恢复_VV 模型_NN 中_LC ，_PU 真值_NN 信号_NN 的_DEC 稀疏性_NN formula_NN 取决於超_VV 完备_JJ 字典_NN formula_NN 会_VV 出现_VV 选择_NN 最_AD 佳超完备_VV 字典_JJ 的_DEG 难度_NN 。_PU 计算_VV 复杂_VA 度_DEV 与_P 方向_NN 网格_VA 的_DEC 精细度_NN 成_VV 正比_VA ，_PU 高_JJ 密度_NN 网格_NN 在_P 计算_NN 上_LC 不_AD 实用_VV 。_PU 为了_P 克服_VV 网格_NN 强加_VV 的_DEC 分辨率_NN 限制_VV ，_PU 提出_VV 了_AS 无_VE 网格_NN SAMV_NN -_PU SML_NN （_PU 迭代_JJ 稀疏_NN 渐_AD 近_AD 最_AD 小_JJ 方差_NN -_PU 随_P 机_NN 最_AD 大_JJ 似然_NN ,_PU 它_PN 借由_P 迭_CD 代_M 的_DEG 最_AD 小_JJ 化随机_NN 最_AD 大_VA 似_AD 然_AD 估计_VV 的_DEC 消耗_NN 函数_NN ，_PU 相对于_P 单一_JJ 纯数_NN formulaformula_NN
+
+在_P SISO_NN 雷达_NN /_PU 声纳_NN 距离_NN -_PU 多_CD 普勒_NN 成像_VV 问题_NN 中_LC 使用_VV SAMV_NN 算法_NN 的_DEC 典型_JJ 应用_NN 。_PU 该_DT 成像_JJ 问题_NN 是_VC 单快_JJ 照_JJ 应用_NN ，_PU 并且_CC 包括_VV 与_P 单快_JJ 照估_NN 计兼_VV 容_VV 的_DEC 算法_NN ，_PU 即_AD 匹配_VV 滤波器_NN （_PU MF_NN ，_PU 类似_JJ 於周_NN 期图_NN 或_CC 反投影_NN ，_PU 这_PN 通常_AD 被_SB 有效_VA 地_DEV 实现_VV 为_VC 快速_AD 傅立_VV 叶_NN 变换_NN （_PU F_CD FT_M ）_PU ）_PU ，_PU IAA_NN 和_CC SAMV_NN 算法_NN 的_DEG 变体_NN （_PU SAMV_NN -_PU 0_CD ）_PU 。_PU 模拟_JJ 条件_NN 与_P 之_PN 相同_VA :_PU 一_CD 个_M formulapulsecompression_NN 使用_VV P3_NN 代码_NN 相同_AD 作为_VV 发射_NN 脉冲_NN ，_PU 模拟_NN 总共_AD 九_CD 个_M 运动_NN 目标_NN 。_PU 在_P 所有_DT 移动_JJ 目标_NN 中_LC ，_PU 三_CD 个_M 是_VC formuladB_NN 功率_NN ，_PU 其余_DT 六_CD 个_M 是_VC formuladB_NN 功率_NN 。_PU 假设_VV 接收_NN 信号_NN 被_SB formuladB_NR 功率_NN 的_DEC 均匀_JJ 高_JJ 斯_DT 白_JJ 噪声_NN 污染_NN 。_PU
+
+匹配_VV 滤波器_NN 检测_NN 结果_NN 在_P 多_CD 普勒_NN 和_CC 范围域_NN 都_AD 受到_VV 严重_VA 的_DEC 拖尾_NN 和_CC 光谱洩_NN 漏_VV 影响_VV ，_PU 因此_AD 无法_AD 区分_VV formuladB_NR 目标_NN 。_PU 相反_VA ，_PU IAA_NN 算法_NN 提供_VV 增强_VV 的_DEC 成像_NN 结果_NN ，_PU 具有_VV 可_VV 观察_VV 的_DEC 目标_NN 范围_NN 估计_VV 和_CC 多_CD 普勒_NN 频率_NN 。_PU SAMV_NN -_PU 0_CD 方法_NN 提供_VV 高度_NN 稀疏_VV 的_DEC 结果_NN 并_CC 完全_AD 消除_VV 拖尾_NN 效应_NN ，_PU 但_CC 它_PN 错过_VV 了_AS 弱_JJ formuladB_NN 目标_NN 。_PU
+
+

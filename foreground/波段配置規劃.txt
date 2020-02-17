@@ -1,0 +1,7 @@
+﻿波段_NN 配置_VV 规划_NN
+
+波段_NN 配置_VV 规划_NN 是_VC 一_CD 个_M 计划_VV ，_PU 用于_VV 使用_VV 无线_JJ 频率_NN 的_DEG 特定_JJ 波段_NN ，_PU 属于_VV 电磁_NN 频谱_NN 的_DEG 一_CD 部分_NN 。_PU 每_DT 个_M 波段_NN 计划_VV 定义_VV 所_MSP 包含_VV 的_DEC 频率_NN 范围_NN ，_PU 包括_VV 频道_NN 是如_AD 何_DT 被_SB 定义_VV ，_PU 和_CC 频道_NN 所_MSP 带出_VV 的_DEC 资讯_NN 。_PU 阐述_VV 在_P 波段_NN 配置_VV 规划_VV 的_DEC 典型_NN 的_DEC 定义_NN 是_VC ：_PU
+在_P 美国_NR ，_PU 由_P 国际_NN 电信_NN 联盟_NN 定义_NN 实际_JJ 授权_NN 的_DEC 频段_NN ，_PU 或_CC 由_P 当地_NN 的_DEC 监管_NN 机构_NN ，_PU 如_P 联邦_NN 通信_NN 委员会_NN (_PU F_CD CC_M )_PU 。_PU 对于_P 业余_NN 无_VE 线电_NN 爱好者_NN 要_VV 使用_VV 授权_NN 频段_VV ，_PU 请_VV 参见_VV ：_PU 授权频段_VV 。_PU
+
+
+

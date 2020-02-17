@@ -1,0 +1,7 @@
+﻿阻力_NN 危机_NN
+
+阻力_NN 危机_NN 是_VC 一_CD 种_M 流体_NN 力学_NN 的_DEC 现象_NN ，_PU 是_VC 流场_NN 的_DEC 雷诺_NN 数_AD 增加_VV 到_VV 一定_JJ 程度_NN 时_LC ，_PU 其_PN 阻力_NN 系数_NN 突然_AD 下降_VV 的_DEC 现象_NN 。_PU 针对_P 圆形_JJ 物体_NN （_PU 例如_AD 球_NN 或是_CC 圆_VV 柱_NN ）_PU 的_DEG 阻力_NN 危机_NN 现象_NN 已_AD 有_VE 详尽_VV 的_DEC 研究_NN
+。_PU 当_P 雷诺_NN 数_AD 增加_VV 到_VV 大约_AD 300000_CD 时_LC ，_PU 阻力_NN 系数_NN 会_VV 快速_VA 的_DEC 由_P 0.5_CD 变成_VV 0_CD ._PU 2_CD ，_PU 此时_AD 会_VV 产生_VV 较_AD 窄_VA 的_DEC 湍流_NN 尾流_NN 。_PU 阻力_NN 危机_NN 的_DEG 现象_NN 也_AD 和_P 物体_NN 的_DEC 有_VE 关_NN 。_PU
+
+
+

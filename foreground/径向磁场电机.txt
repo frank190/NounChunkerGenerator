@@ -1,0 +1,6 @@
+﻿径_NN 向_P 磁场_NN 电机_NN
+
+径向_JJ 磁场_NN 电机_NN 是_VC 目前_NT 广泛_AD 使用_VV 的_DEC 电机_NN ，_PU 其_PN 有效_JJ 磁场_NN 方向_NN 为_VC 径向_NN ，_PU 通过_P 径向_JJ 磁场_NN 的_DEG 相互_JJ 作用_NN 来_MSP 工作_VV ——_PU 作为_VV 发电机_NN 发出_VV 电流_NN 或_CC 作为_P 电动机_NN 输出_VV 力矩_NN 。_PU
+
+
+

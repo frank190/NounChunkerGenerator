@@ -1,0 +1,13 @@
+﻿卡罗_NN 流体_NN
+
+卡罗_NN 流体_NN （_PU ）_PU 是_VC 一_CD 种_M 广义_NN 牛顿_NN 流体_NN 模型_NN ，_PU 其_PN 黏度_NN （_PU formula_NN __NN 1_CD ）_PU 与_P 剪切_NN 速率_NN （_PU formula_NN
+
+其中_NN ，_PU formula_NN __PU 4_CD 、_PU formula_NN __PU 5_CD 、_PU formula_NN __PU 6_CD 、_PU formula_NN
+
+卡罗_NN 流体_NN 於_P 低_JJ 剪切_NN 速率_NN （_PU formula_NN __NN 12_CD ）_PU 下_LC ，_PU 表现_VV 牛顿_NN 流体_NN 行为_VV ；_PU 於_P 高_JJ 剪切_NN 速率_NN （_PU formula_NN
+
+本_DT 模型_NN 由_P 皮埃尔_NN ·_PU 卡罗_NN 率先_AD 提出_VV 。_PU
+
+
+
+

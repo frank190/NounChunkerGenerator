@@ -1,0 +1,8 @@
+﻿环境_NN 物理学_NN
+
+环境_NN 物理_NN 学是物_NN 理学_NN 与_CC 环境_NN 科学_VA 的_DEC 交叉_NN 学科_VV ，_PU 主要_AD 研究_VV 人类_NN 和_CC 物理_NN 环境_NN 之间_LC 相互_VV 的_DEC 作用_NN ，_PU 其体_NN 系目_NN 前_LC 尚_AD 没有_VV 完全_AD 定型_VV ，_PU 目前_NT 主要_JJ 研究声_NN 、_PU 光_NN 、_PU 热_NN 、_PU 加速度_NN 、_PU 电磁场_NN 、_PU 射线_NN 对_P 人体_NN 以及_CC 环境_NN 生态_NN 系统_NN 的_DEG 影响_NN ，_PU 以及_CC 消除_VV 这些_DT 影响_VV 的_DEC 技术_NN 方法_NN 和_CC 控制_VV 措施_NN ，_PU 因为_P 物理_NN 环境_NN 中_LC 的_DEG 声_NN 、_PU 光_NN 、_PU 电_NN 、_PU 热_NN 等_ETC 要素_NN 是_VC 人类_NR 现代_JJ 生活_NN 所_MSP 必须_VV 的_DEC ，_PU 但_CC 其_PN 在_P 环境_NN 中_LC 的_DEG 量_NN 决定_NN 是否_AD 适宜_VV 人类_VA 的_DEC 生活_NN 和_CC 是否_AD 对_P 生态_NN 系统_NN 有_VE 影响_VV ，_PU 因此_AD 要_VV 进行_VV 定量_NN 研究_NN ，_PU 根据_P 其_PN 研究_NN 对象_NN 可_VV 分为_VV ：_PU
+
+等_ETC
+
+
+

@@ -1,0 +1,15 @@
+﻿3_CD 纳米_NN 制程_NN
+
+3_CD 奈_VV 米制程_NN 是_VC 半导体_NN 制造_NN 制程_NN 的_DEC 一_CD 个_M 水平_NN 。_PU
+
+2017年_NT 9月_NT 29日_NT ，_PU 台积_NN 电宣布_NN 未_AD 来_VV 3_CD nm_M 制_NN 程晶_NN 圆厂_NN ，_PU 落脚_VV 台湾台_NN 南市_NN 的_DEG 南部_NN 科学_NN 工业_NN 园区_NN 。_PU 预计_VV 最快_AD 2022_CD 年_M 量产_VV 。_PU
+
+2019年_NT 5月_NT ，_PU 三星_NN 表示_VV 自家_NN 3_CD nm_M 预计_VV 2021_CD 年_M 推出_VV 。_PU Intel_NN 预计_VV 2025_CD 年_M 推出_VV 。_PU
+
+台积电_NN 和_CC Intel_NN 皆_AD 规划_VV 以_P 2_CD 奈米_NN 作为_P 接续_VV 3_CD 奈米_M 的_DEC 制程_NN ，_PU 台积_NN 电预计_NN 2024_CD 年_M 量产_VV ，_PU Intel_NN 预计_VV 2027_CD 年_M 推出_VV 。_PU
+
+国际_NN 装置_NN 与_CC 系统_NN 发展_VV 路线图_NN 2017_CD 预计_VV 3_CD 奈米_NN 制程_NN 将_BA 在_P 2024_CD 年_M 量产_VV ，_PU 后继者_NN 是_VC 2_CD ._PU 1_CD 奈米_M （_PU 2027_CD ）_PU 、_PU 1.5_CD 奈米_NN （_PU 2030_CD ）_PU 和_CC 1_CD 奈米_NN （_PU 2033_CD ）_PU 。_PU
+
+而_AD Intel_NN 在_P 其_PN 路线_NN 图以_NN 1_CD ._PU 4_CD 奈米_NN (_PU 2029_CD 年_M )_PU 作为_P 2_CD 奈米_NN 的_DEC 继承者_NN ，_PU 台积_NN 电亦_NN 表示_VV 后_LC 续_AD 会_VV 发展_VV 至_VV 1_CD 奈米_M 。_PU
+
+

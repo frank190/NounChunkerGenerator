@@ -1,0 +1,11 @@
+﻿_CS PCB_NN 分板_NN
+
+PCB_NN 分板_NN ，_PU 是_VC 在_P 大_JJ 批量_NN 电子_NN 组装_NN 生产_NN 工序_NN 上_LC 的_DEG 一_CD 步_M 重要_VA 的_DEC 工序_NN 。_PU 为了_P 提高_VV 印刷_NN 电路板_NN （_PU PCB_NN ）_PU 制造_VV 的_DEC 产量_NN 和_CC 表面_NN 黏_VV 著_AS 技术_NN （_PU SMT_CD ）_PU 产线_NN 生产_NN 速度_NN ，_PU 印刷_NN 电路板_NN 通常_AD 被_SB 设计_VV 成_VV 一块_JJ 大板_NN ，_PU 在_P 最终_JJ 产品_NN 中_LC 使用_VV 分板机_NN 设备_NN 来_MSP 分成_VV 许多_CD 更_AD 小_VA 的_DEC 单个_NN PCB_NN 小板_NN 。_PU 这_DT 一_CD 大块_NN PCB板_NN 可_VV 称为_VV 连板_NN 或_CC 拼板_NN ，_PU 这_DT 一_CD 大块_NN 的_DEG 连板_NN 或_CC 拼板_NN 被_SB 分切_VV 成_VV 小块_NN 在_P 不同_VA 的_DEC 产品_NN 工艺_NN 之中_LC ，_PU 可能_VV 是_VC 在_P SMT_NN 之后_AD 进行_VV 分板_NN ，_PU 也_CC 可能_VV 是_VC 在_P 线上_JJ 测试仪_NN （_PU ICT_NN ）_PU 之后_LC ，_PU 也_AD 可能_VV 在_P 焊接_VV 通孔_NN SMT_NR 之后_LC ，_PU 或是_CC 在_P 最后_JJ 产品_NN 组装_NN 之前_LC 。_PU
+
+PCB_NN 分板_NN 方式_NN 主要_AD 有_VE 六_CD 种_M ：_PU
+
+各_DT 种_M PCB_NN 基板_NN 材料_NN 可以_VV 用_P 激光_JJ 分板机_NN 切割_NN ，_PU 包括_VV FR4_NN 基板_NN 和_CC 仿_NN 树脂_NN 基_NN 材料_NN 、_PU 聚酰亚胺_NN 、_PU 陶瓷_NN 、_PU 聚_VV 四_CD 氟乙烯_NN 、_PU 聚酯_NN 、_PU 铝_NN 、_PU 黄铜_NN 和_CC 铜等_NN 。_PU
+
+虽然_CS 激光_JJ 分板机_NN 的_DEG 分板_NN 速度_NN 及_CC 质量_NN 上_LC 都_AD 有_VE 优点_NN ，_PU 能_VV 满足_VV 客户_NN 交期_NN 及_CC 品质_NN 的_DEG 要求_NN ，_PU 但_CC 目前_NT 激光_JJ 分板机_NN 价格_NN 比较_AD 昂贵_VA ，_PU 一般大多_AD 厂家_NN 是_VC 选用_JJ 冲床_NN 分板机_NN 或_CC 铣刀式_JJ 分板机_NN 来_MSP 代替_VV 。_PU
+
+

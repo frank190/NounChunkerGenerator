@@ -1,0 +1,8 @@
+﻿局_NN 部态_NN 密度_NN
+
+局部态_NN 密度_NN (_PU Localdensityofstates_NN )(_PU LDOS)_NN 是_VC 指_VV 在_P 实空_JJ 间分布_NN 的_DEG 态_NN 密度_NN 。_PU 它_PN 可以_VV 通过_P 扫描_NN 隧道_NN 显_VV 微镜_NN 得到_VV ，_PU 也_AD 可以_VV 在_P 已_AD 知_VV 晶体_NN 结构_NN 和_CC 材料_NN 特性_NN 的_DEC 情况_NN 下_LC ，_PU 通过_P 计算机_NN 仿真_NN 得到_VV ，_PU 比如_AD 密度泛_NN 函理_NN 论_NN 。_PU
+
+LDOS_NN 可以_VV 用来_VV 分析_VV 器件_NN 具体_JJ 工作_NN 原理_NN 。_PU 比如_VV ，_PU 右图_NN 是_VC 一_CD 个_M 金属_NN 氧化物_NN 半导体_NN 场效_NN 应晶_NN 体管_NN (_PU MOSFET)_NN 中_LC 的_DEG LDOS_NN 随_P 着晶_NN 体管_NN 开通_VV 和_CC 关闭_VV 的_DEC 变化_NN ，_PU 该_DT 图_NN 通过_P 计算机_NN 仿真_NN 得到_VV 。_PU 源极_NN 和_CC 漏极_NN 中_LC 清晰_VV 可_VV 见_VV 导带_NN 和_CC 禁带_NN 的_DEC 分界线_NN ，_PU 以及_CC 束缚_NN 能_VV 级_PN 。_PU 在_P 中间_NN 的_DEG 沟道_NN ，_PU 随着_P 栅极_NN 电压_NN 增加_VV ，_PU 势垒_NN 高度_NN 下降_VV ，_PU 密度_NN 增加_VV ，_PU 晶体管_NN 开通_VV 。_PU
+
+
+

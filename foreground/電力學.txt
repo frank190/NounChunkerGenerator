@@ -1,0 +1,12 @@
+﻿电_NN 力学_NN
+
+电力学_NN 是_VC 以_P 探讨_VV 大_JJ 电流_NN （_PU 强电_NR ）_PU ，_PU 高_JJ 功率_NN 的_DEG 电路_NN 为主_VV 的_DEC 科学_NN ，_PU 其_PN 主要_JJ 基础_NN 是_VC 建构_NN 在_P 工程_NN 数学_NN 、_PU 电路学_NN 、_PU 电子学_NN 及_CC 电磁学_NN ，_PU 电力_NN 领域_NN 分成_VV 电力_NN 系统_NN 及_CC 电力_NN 电子_NN 等_ETC 领域_NN ，_PU 并_CC 大量_AD 地_DEV 应用于_VV 发电_VV 、_PU 供电_NN 、_PU 输电_NN 、_PU 配电_NN 、_PU 电能_NN 转换_NN 、_PU 电力_NN 使用_NN 及_CC 电力_NN 转换器_NN 等_ETC 相关_JJ 技术_NN 。_PU
+
+
+在_P 这_DT 三_CD 大_JJ 领域_NN 下_LC ，_PU 包含_VV 「_PU 电力_NN 系统_NN 分析_NN 」_PU 、_PU 「_PU 电力_NN 系统_NN 控制_NN 」_PU 、_PU 「_PU 故障_NN 电力_NN 系统_NN 分析_NN 」_PU 、_PU 「_PU 电脑_NN 电驿_NN 」_PU 、_PU 「_PU 输_VV 配电_NN 」_PU 、_PU 「_PU 计算机_NN 在_P 电力_NN 之_DEC 应用_NN 」_PU 、_PU 「_PU 电动机_NN 控制_NN 」_PU 及_CC 「_PU 电力_NN 电子_NN 」_PU 等次_JJ 领域_NN 。_PU
+
+「_PU 电力_NN 系统_NN 分析_NN 」_PU 、_PU 「_PU 电力_NN 系统_NN 控制_NN 」_PU 、_PU 「_PU 故障_NN 电力_NN 系统_NN 分析_NN 」_PU 、_PU 「_PU 电脑_NN 电驿_NN 」_PU 、_PU 「_PU 输_VV 配电_NN 」_PU 、_PU 「_PU 计算机_NN 在_P 电力_NN 之_DEC 应用_NN 」_PU 、_PU 「_PU 电动机_NN 控制_NN 」_PU 、_PU 「_PU 电力_NN 电子_NN 」_PU
+
+
+
+

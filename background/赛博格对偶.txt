@@ -1,0 +1,5 @@
+﻿赛博格_NN 对_P 偶_PN
+
+在_P 量子_NN 场论_NN 里_LC ，_PU 塞_NN 伯格_NN 对_P 偶_PN （_PU ）_PU 是_VC 关于_P 两_CD 个_M 不同_VA 的_DEC 超对_JJ 称量子_NN 色动力_NN 学理论_NN 之间_LC 的_DEG 一_CD 个_M S_NN 对_P 偶_PN ，_PU 它_PN 由_P 内森_NN ·_PU 塞_NN 伯格_NN 提出_VV 。_PU 这_DT 两_CD 个_M 理论_NN 有所_VV 不同_VA ，_PU 但_AD 它们_PN 在_P 低能_NN 的_DEC 情况_NN 下_LC 相同_VA 。_PU 更_AD 准确_VA 地_DEV 说_VV ，_PU 在_P 重正_NR 化流_NN 中_LC 它们_PN 流向_VV 相同_VA 的_DEC 红外_NN 固定点_NN ，_PU 所以_AD 它们_PN 处于_VV 同_DT 一_CD 个_M 普适类_NN 之中_LC 。_PU
+
+

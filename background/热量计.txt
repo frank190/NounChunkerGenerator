@@ -1,0 +1,8 @@
+﻿热量计_NN
+
+热量计_NN （_PU ）_PU ，_PU 或_CC 称量_NN 热计_VA 、_PU 卡计_NN ，_PU 是_VC 一_CD 种_M 用于_VV 测量_NN 进行_VV 热量_NN 测定_VV 的_DEC 实验_NN 设备_NN ，_PU 可以_VV 用于_VV 测量_NN 化学_NN 反应_NN 、_PU 物理_NN 变化_NN 过程_NN 的_DEG 热量_NN 变化_VV ，_PU 或_CC 测定_VV 材料_NN 的_DEG 热容_NN 。_PU 最_AD 常见_VA 的_DEC 是_VC 差_JJ 示_VV 扫描量_NN 热_AD 计_VA 、_PU 恒温_NN 微卡计_NN （_PU isothermalmicrocalorimeter_NN ）_PU 、_PU 滴定_JJ 量热计_NN （_PU titrationcalorimeter_NN ）_PU 及_CC 加速_JJ 量热仪_NN （_PU acceleratedratecalorimeter_NN ）_PU 等_ETC 。_PU 最_AD 简单_VA 的_DEC 热量计_NN 是_VC 在_P 燃烧室_NN 上_LC 面放_VV 一_CD 个_M 金属_NN 容器_NN ，_PU 其中_NN 装有_VV 水_JJ 及_CC 一_CD 支_M 温度计_NN 。_PU
+
+若_CS 要_VV 量_NN 测_VV 物质_NN A_NN 和_CC 物质_NN B_NN 反应_NN 时_LC ，_PU 每_DT 摩尔_M 的_DEG 焓变化_NN ，_PU 可以_VV 将_BA 物质_NN 放到_VV 量热计_NN 中_LC ，_PU 记录_VV 其_PN 反应_NN 前_LC 的_DEG 初温_NN 及_CC 反应_VV 后_LC 的_DEG 末温_NN ，_PU 将_BA 物质_NN 质量_NN 乘以_VV 温度差_NN 及_CC 其_PN 比热_NN ，_PU 即_AD 可_VV 算出_VV 所_MSP 吸收_VV 的_DEC 热量_NN ，_PU 再_AD 除以_VV 摩尔数_NN 即_AD 为_VC 反应_NN 中_LC 的_DEG 焓_NN 变化_NN 。_PU 此_DT 方法_NN 主要_AD 用_VV 在_P 学校_NN 教授量_NN 热法_NN 时_LC 示_VV 范用_NN ，_PU 此_DT 方法_NN 没有_VV 考_VV 虑容器_NN 散失_VV 的_DEC 热_NN ，_PU 以及_CC 温度计_NN 及_CC 容器_NN 本身_PN 的_DEG 热容_NN 。_PU
+
+
+

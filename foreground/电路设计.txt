@@ -1,0 +1,6 @@
+﻿_NN 电路_NN 设计_NN
+
+电路_NN 设计_NN （_PU ）_PU ，_PU 广义_NN 上_LC 是_VC 指_VV 对_P 任何_DT 电路_NN 的_DEG 设计_NN （_PU 电子_NN 电路_NN 设计_VV ）_PU ，_PU 而_CC 狭义_NN 上_LC 则_AD 主要_AD 指_VV 集成_JJ 电路_NN 设计_NN 中_LC 寄存器_NN 传输级_NN 设计_NN （_PU 即_AD 功能_NN 设计_NN ）_PU 和_CC 物理_NN 设计_NN 两_CD 大_JJ 步骤_NN 之间_LC ，_PU 将_BA 逻辑_NN 综合_NN 产生_VV 的_DEC 逻辑_NN 门级_NN 网表_NN ，_PU 转换_VV 到_VV 更_AD 低_JJ 抽象_NN 级_NN 的_DEG 晶体_NN 管级_NN 电路_NN 所_MSP 经历_VV 的_DEC 设计_NN 过程_NN 。_PU 为了_P 表示_VV 这_DT 种_M 情况_NN 与_CC 广义_NN 上_LC 电路_NN 设计_VV 的_DEC 区别_NN ，_PU 工程_NN 师有_VV 时_LC 也_AD 将_BA 其_PN 称为_VV 晶体_NN 管级_NN 设计_NN 。_PU
+
+
+

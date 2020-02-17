@@ -1,0 +1,7 @@
+﻿总_NN 压力_NN
+
+在_P 物理_NN 上_LC 的_DEG 总压力_NN （_PU totalpressure_NN ）_PU 是_VC 指_VV 二_CD 种_M 不同_VA 的_DEC 物理量_NN ，_PU 其_PN 单位_NN 都_AD 和_P 压力_NN 相同_VA ：_PU
+因为_P 这_DT 是_VC 流体_NN 完全_AD 不_AD 流动_VV 时_LC 的_DEG 静压_NN ，_PU 因此_AD 也_AD 称为_VV 滞止压_NN 强_VA 。_PU
+
+
+

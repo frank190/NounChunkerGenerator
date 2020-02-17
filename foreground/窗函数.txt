@@ -1,0 +1,68 @@
+﻿窗_NN 函数_NN
+
+在_P 信号_NN 处理_NN 中_LC ，_PU 窗函数_NN （_PU ）_PU 是_VC 一_CD 种_M 除_P 在_P 给定_JJ 区间_NN 之_DEG 外取值_NN 均_AD 为_VC 0_CD 的_DEG 实函数_NN 。_PU 譬如_VV ：_PU 在_P 给定_JJ 区间_NN 内_LC 为_P 常数_NN 而_MSP 在_P 区间_NN 外_NN 为_VC 0_CD 的_DEG 窗函_NN 数_CD 被_SB 形象_VV 地_DEV 称为_VV 矩形窗_NN 。_PU 任何_DT 函数_NN 与_CC 窗函数_NN 之_DEG 积仍_NN 为_VC 窗_NN 函数_NN ，_PU 所以_AD 相乘_VV 的_DEC 结果_NN 就像_AD 透过_VV 窗口_NN “_PU 看_NN ”_PU 其他_DT 函数_NN 一样_VA 。_PU 窗函_NN 数_VV 在_P 频谱_NN 分析_VV 、_PU 滤波器_NN 设计_NN 、_PU 波束_NN 形成_VV 、_PU 以及_CC 音频_NN 数据_NN 压缩_NN （_PU 如_P 在_P OggVorbis_NN 音频_NN 格式_NN 中_LC ）_PU 等_ETC 方面_NN 有_VE 广泛_VA 的_DEC 应用_NN 。_PU
+
+从_P 理论_NN 上_LC 可以_VV 得出_VV 函数_NN formula_NN 的_DEC 傅立叶_NN 变换_VV 除了_P 在_P 频率_NN formula_NN 之_DEG 外处_NN 处_NN 为_VC 0_CD 。_PU 但是_AD 许多_VV 其它_DT 的_DEG 函数_NN 或者_CC 波形_NN 数据_NN 并_AD 没有_VV 这样_AD 方便_VA 的_DEC 闭式_NN 变换_NN ，_PU 或者_CC 是_VC 我们_PN 只_AD 对_P 某_DT 一_CD 时间_NN 范围_NN 内_LC 的_DEG 频谱_NN 数据_NN 感兴趣_NN ，_PU 在_P 这_DT 种_M 情况_NN 下_LC ，_PU 就_AD 需要_VV 对_P 有限_VA 时间_NN 范围_NN 的_DEC 波形_NN 进行_VV 傅立叶_NN 变换_VV 或者_CC 其它_DT 类似_VA 的_DEC 变换_NN 。_PU 通常_AD 通过_P 波形_NN 与_P 一_CD 个_M 窗函数_NN 的_DEG 乘积_NN 来_MSP 表示_VV 。_PU 但是_AD ，_PU 包括_VV 矩形窗_NN 在_P 内_NN 的_DEG 所有_DT 窗函数_NN 都_AD 会_VV 对待_VV 测_VV 频谱_NN 产生_VV 影响_NN 。_PU
+
+当_P 输入_VV 波形_NN 是_VC 采样_NN 信号_NN 而非_AD 连续_VV 信号_NN 时_LC ，_PU 傅立_VV 叶分_CD 析_VV 通常_AD 对_P 信号_NN 应用_VV 窗函数_NN 并_CC 用_P 离散傅_NN 立叶_VV 变换_VV 。_PU 但是_AD 离散_VV 傅_NN 里叶_NN 变换_NN 得到_VV 的_DEC 频谱_NN 只是_AD 离散_VV 时间_NN 傅_NN 里_LC 叶_NOI 变换_VV 频谱_NN 的_DEC 一_CD 个_M 粗糙_NN 采样_VV 。_PU 上_JJ 图_NN 是_VC 正弦_NN 信号_NN 应用_VV 矩形窗_NN 后_LC 傅立_VV 叶频谱_NN 的_DEG 一_CD 部分_NN 。_PU 位于_VV 横轴_NN 0_CD 点_M 位置_NN 的_DEC 是_VC 正弦_NN 信号_NN 真实_AD 频谱_VV ，_PU 其_PN 余频_NN 谱均_VV 为_VC 谱_VV 泄漏_VV 。_PU 频率_NN 单位_NN 为_VC “_PU DFTbins_NN ”_PU （_PU DFT_NN 量化_NN 单位_NN ）_PU 即_AD 这些_DT 整数值_NN 是_VC DFT_NN 采样_NN 得到_VV 的_DEC 频率_NN 。_PU 所以_AD 该_DT 图_NN 显示_VV 了_AS 这样_JJ 一_CD 种_M 情况_NN ，_PU 正弦_NN 信号_NN 的_DEC 实际_JJ 频率_NN 正好_AD 与_P DFT_NN 的_DEG 采样_NN 频率_NN 一致_VA ，_PU 并且_CC 频谱_VV 的_DEC 最_AD 大_JJ 值_VV 通过_P 采样_VV 得到_VV 。_PU 采样_AD 错过_VV 最_AD 大_JJ 值_NN 时_LC 的_DEG 测量_NN 误差_NN 被_SB 称为_VV “_PU 扇形_JJ 损失_NN ”_PU （_PU 名称_NN 源于_VV 顶点_NN 的_DEG 形状_NN ）_PU 。_PU 但是_CC 这_DT 种_M 状况_NN 下_LC 最_AD 有趣_VA 的_DEC 是_VC 那些_DT 与_P 实际_JJ 频谱_NN 相_AD 一致_VA 的_DEC 即值_NN 为_VC 零_CD 的_DEC 那些_DT 点_NN 。_PU 这_DT 种_M 情况_NN 下_LC ，_PU DFT_NN 创造_VV 了_AS 没有_VV 泄露_VV 的_DEC 假象_NN 。_PU 尽管_NN 不如_AD 本_DT 例_NN 这样_VA ，_PU 泄露_VV 是_VC DFT_NN 中_LC 人为_AD 引入_VV 的_DEC 也_AD 是_VC 普遍_AD 误解_VV 。_PU 但是_AD 既然_AD 任何_DT 窗_NN 函数_NN 都_AD 有_VE 泄露_NN ，_PU 那些_DT 表面_NN 上_LC 的_DEG 不_AD 存在_VV 泄露_VV 才_AD 是_VC 人为_AD 造成_VV 的_DEC 。_PU
+
+概念_VV 的_DEC 分辨率_NN 和_CC 动态_NN 范围_NN 往往_AD 是_VC 有些_DT 主观_NN 的_SP ，_PU 这_PN 取决_VV 於_P 用户_NN 的_DEG 实际_JJ 意图_NN 。_PU 但_CC 他们_PN 也_AD 往往_AD 是_VC 高度_NN 相关_VV ，_PU 与_P 总洩漏_NN ，_PU 这_PN 是_VC 量化_VV 的_DEC 。_PU 它_PN 通常_AD 表示_VV 为_VC 一_CD 个_M 等效_JJ 带宽_NN ，_PU B_NN 认为_VV 它_PN 作为_P 再_AD 分配_VV DTFT_NR 成_VV 长方形_JJ 的_DEG 高度_NN 等于_VV 频谱_NN 宽度_NN B_NN 的_DEG 最大_JJ 和_CC 洩漏_JJ 的_DEG ，_PU 更_AD 大_VA 的_DEC 带宽_VV 。_PU 它_PN 有时_AD 被_SB 称为_VV 噪声_NN 等_ETC 效_NN 带宽_VV 或_CC 等_ETC 效噪声_NN 带宽_VV ，_PU 因为_P 它_PN 是_VC 成_VV 正比_VA 的_DEC 平均_JJ 功率_NN 将_BA 每_DT 个_M 登记_NN 的_DEC DFT_NN 并_CC 当_P 输入_NN 信号_NN 包含_VV 随机_JJ 噪声_NN 组件_NN （_PU 或者_CC 只是_AD 随_P 机噪声_NN ）_PU 。_PU 图_NN 的_DEG 功率_NN 谱_VV ，_PU 平均_AD 随着_P 时间_NN 的_DEC 推移_NN ，_PU 通常_AD 显示_VV 一_CD 个_M 单位_NN 的_DEG 噪声_NN 底_LC ，_PU 造成_VV 这_DT 种_M 效果_NN 。_PU 噪声_NN 的_DEG 高度层_NN 是_VC 成_VV 正比_VA 的_DEC ，_PU 所以_AD 乙_VV 两_CD 个_M 不同_VA 的_DEC 窗口_NN 功能_NN 可以_VV 产生_VV 不同_VA 的_DEC 噪音_NN 楼层_NN 。_PU
+
+在_P 信号_NN 处理_NN 中_LC ，_PU 透过_P 某些_DT 操作_NN ，_PU 可以_VV 利用_VV 信号_NN 和_CC 噪声_NN 之间_LC 性质_VV 的_DEC 差异_NN ，_PU 来_MSP 提高_VV 信号_NN 某些_DT 方面_NN 的_DEC 品质_NN 。_PU 当_P 某_DT 个_M 正弦_NN 信号_NN 随_P 机地_NN 叠加_VV 的_DEC 破坏性_NN 噪声_NN ，_PU 频谱_VV 分析_NN 能_VV 区別_VV 的_DEC 信号_NN 与_P 噪声_NN 的_DEC 分量_NN ，_PU 往往_AD 能_VV 使_VV 检测_NN 信号_NN 的_DEG 某些_DT 特性_NN 更_AD 容易_VA ，_PU 如_P 测量_NN 振幅_NN 和_CC 频率_NN 。_PU 比如说_AD ，_PU 若_CS 将_BA 大多数_CD 的_DEG 正弦_NN 信号_NN 能量集_NN 中_LC 於_P 一_CD 个_M 频率_NN 附近_NN ，_PU 并_CC 将_BA 噪声_NN 均匀_AD 分布_VV ，_PU 能_VV 有效_VA 的_DEV 改善_VV 信噪比_NN （_PU ）_PU 。_PU 处理_NN 增益_NN 通常_AD 用来_VV 描述_VV SNR_NR 改善_VV 的_DEC 程度_NN 。_PU 频谱_NN 分析_VV 的_DEC 处理_NN 增益_NN 取决_VV 於_P 窗_NN 函数_NN 的_DEG 噪声_NN 频_VV 宽_NN （_PU B_NN ）_PU 和_CC 潜在_JJ 的_DEG 扇_NN 形_NN 损失_NN 。_PU 这些_DT 效果_NN 可能_VV 部分_AD 抵消_VV ，_PU 因为_P 窗函_NN 数_AD 有_VE 最_AD 少_VA 的_DEC 扇形_JJ 自然_JJ 有_VE 最_AD 大_VA 的_DEC 渗漏_NN 。_PU
+右图_NN 描述_VV 了_AS 三_CD 种_M 不同_VA 的_DEC 窗函数_NN 对_P 相同_VA 的_DEC 数据_NN 的_DEG 影响_NN 。_PU 此_DT 数据_NN 包含_VV 两_CD 个_M 相等_JJ 强度_NN 的_DEC 正弦_NN 信号_NN 与_P 外加_VV 的_DEC 噪声_NN 。_PU 两_CD 正_CC 弦_CD 波_M 的_DEG 频率_NN 被_SB 定为_VV 其中_NN 一_CD 个_M 无_VE 扇形_NN 而_CC 另_DT 一_CD 个_M 有_VE 最_AD 大_JJ 扇形_NN 。_PU 两_CD 个_M 正弦_NN 信号_NN 在_P HannWindow_NR 下_NN 都_AD 造成_VV 比_P Blackman_NN –_CC Harriswindow_NN 更_AD 少_VA 的_DEC 信噪_NN 比_P 损耗_NN 。_PU
+一般_JJ 情况_NN 下_LC ，_PU 这_PN 防止_VV 我们_PN 在_P 低_JJ 动态_NN 范围_NN 的_DEC 应用_NN 采用_VV 高_JJ 动态_NN 范围_NN 的_DEC 窗_NN 。_PU
+
+在_P 一些_CD 应用_NN 中_LC ，_PU 最好_AD 不_AD 使用_VV 窗_NN 函数_NN 。_PU 例如_AD ：_PU
+
+
+
+
+
+每_DT 个_M DFT_NN 过程_NN 都_AD 被_SB 窗所_VV 修饰_VV 限制_NN ，_PU 因为_P 一_CD 个_M 有限_JJ 时间_NN 序列_NN 等_ETC 效_NN 上_NN 是_VC 由_P 无_VE 限长_NN 时间序_NN 列乘_VV 上_DT 一_CD 长度_NN 与_CC 资料_NN 区块_NN 长度_NN 相同_VA (_PU N_CD Δ_M t_NN )_PU 的_DEC 矩形窗_NN 。_PU 在_P 矩形窗_NN 的_DEG 例子_NN 中_LC ，_PU 其_PN DFT_NN 是_VC 由_P 讯号_NN 本身_PN 的_DEG DFT_NN 及_CC 一_CD 矩形_JJ 的_DEG DFT_NN 做_VV 回旋_VV 所_MSP 产生_VV ，_PU 然而_AD 矩形_VV 窗_NN 属于_VV 时间_NN 变量_VV 的_DEC 零_CD 次_M 冪窗_NN 。_PU 矩形窗_NN 使用_VV 最_AD 多_VA ，_PU
+习惯_NN 上_LC 不_AD 加_VV 窗_NN 就_AD 是_VC 使_VV 信号_NN 通过_VV 了_AS 矩形窗_NN 。_PU 这_DT 种_M 窗_NN 的_DEG 优点_NN 是_VC 主瓣_NN 比较_AD 集中_VA ，_PU 缺点_NN 是_VC 旁_JJ 瓣较_NN 高_VA ，_PU 并_CC 有_VE 负旁瓣_NN ，_PU 导致_VV 变换_NN 中_LC 带进_VV 了_AS 高频_JJ 干扰_NN 和_CC 洩漏_NN ，_PU 甚至_AD 出现_VV 负谱_NN 现象_NN 。_PU
+
+高_VA 斯_DT 函数_NN 经由_P 傅立_NN 叶_NN 转换_NN 得到_VV 的_DEC 结果_NN ，_PU 仍然_AD 是_VC 高_VA 斯_DT 函数_NN 。_PU 由于_P 高_VA 斯_DT 函数_NN 会_VV 向_P 无限_JJ 大_JJ 与_CC 负_VV 无_VE 限大_JJ 处_NN 无限_AD 延伸_VV ，_PU 因此_AD 一般_AD 都_AD 会_VV 设定_VV 一_CD 个_M 截断_NN 高_VA 斯_DT 函数_NN 的_DEG 阈值_NN ，_PU 或是_CC 将_BA 高_JJ 斯_DT 函数_NN 搭配_VV 其他_DT 两_CD 端_NN 数值_NN 为_VC 零_CD 的_DEC 函数_NN 。_PU
+
+另外_AD ，_PU 由于_P 取高_VV 斯_DT 函数_NN 的_DEC 对数_NN 会_VV 产生_VV 拋物_NN 曲线_NN ，_PU 此_DT 性质_NN 可_VV 用于_VV 频率_NN 估测_VV 的_DEC 近_DT 二_CD 次_M 内插_NN 中_LC 。_PU
+
+受限_VV 高斯_JJ 窗_NN 在_P 给定_JJ 时间_NN 宽度_NN N_NN "_PU σ_NN "_PU 下_LC ，_PU 将_BA 产生_VV 最_AD 小_JJ 可能_NN 的_DEC 方均根_NN 频率_NN 宽度_NN "_PU σ_NN "_PU ，_PU 并_CC 最_AD 优_JJ 化方_NN 均_AD 根_VA 时_LC 频_VV 带宽_VV 的_DEC 乘积_NN 。_PU
+
+近似_AD 受限_VV 高斯窗_AD ，_PU 在_P 给定_VV 时间_NN 宽度_NN N_NN "_PU σ_NN "_PU 下_LC ，_PU 可_VV 由_P 下方_NN 的_DEC 式子_NN 进一步_AD 近似_VV ：_PU
+
+其中_NN Gaussian_NN 定义_NN 为_VC :_PU
+
+当_P  _P formulaHamming_NN 窗_NN ；_PU 当_P  _NN formula_NN 则_AD 叫作_VV Hann_NN 窗_NN 。_PU
+
+Hann_CD 窗有_VV 时_LC 也_AD 称为_VV "_PU Hanning_VV "_PU 窗_NN （_PU “_PU 汉宁_NN 窗_NN ”_PU ）_PU ，_PU 以_MSP 与_P Hamming_NN 窗_NN 的_DEC 名称_NN 类似_NN 。_PU 但_AD 是_VC 这_PN 是_VC 不_AD 对_VV 的_SP ，_PU 因为_P 这_DT 两_CD 个_M 窗_NN 是_VC 分别_AD 根据_P JuliusvonHann_NN 和_CC RichardHamming_NN 的_DEC 名字_NN 命名_VA 的_DEC 。_PU
+Hann_VV 窗_NN 又_AD 称_VV 升_VV 余弦窗_NN 。_PU H_CD ann_M 窗_NN 可以_VV 看作_VV 是_VC 3_CD 个_M 矩形_NN 时间_NN 窗_NN 的_DEG 频谱_NN 之_DEC 和_CC ，_PU 或者_CC 说_VV 是_VC 3_CD 个_M sinc_NN (_PU t_NN )_PU 型_NN 函数_NN 之_DEG 和_CC ，_PU 而_CC 括号_NN 中_LC 的_DEG 两_CD 项_M 相对_VV 于_P 第一_OD 个_M 谱_VV 窗向_NN 左_NN 、_PU 右_NN 各_AD 移动_VV 了_AS π_NN /_PU T_NN ，_PU 从而_AD 使_VV 旁_NN 瓣_VV 互相_AD 抵消_VV ，_PU 消去_VV 高频_JJ 干扰_NN 和_CC 漏能_NN 。_PU
+
+从_P 减小_VV 泄漏_NN 观点_NN 出发_VV ，_PU Hann_VV 窗_NN 优于_VV 矩形窗_NN 。_PU 但_CC Hann_NN 窗主瓣_NN 加宽_VV ，_PU 相当于_VV 分析_NN 带宽_VV 加宽_VV ，_PU 频率_NN 分辨力_NN 下降_VV 。_PU
+
+如果_CS 我们_PN 将_BA  _NN formula_NN 设_VV 为_VC 接近_VV 0.53836_CD 的_DEG 数值_NN ，_PU 或是_CC 更_AD 精确_VA 来_MSP 说_VV 是_VC 25_CD /_PU 46_CD ，_PU 便_AD 会_VV 得到_VV Hamming_NN 窗_NN ，_PU 而_CC 设定_VV 这_DT 个_M 数值_NN 的_DEC 用意_NN ，_PU 是_VC 在_P 频率_NN 为_VC 5_CD π_M /_PU ("N"_PU  − _NN 1_CD )_PU 处_NN 产生_VV 零_CD 交会_NN 处_NN (_PU zero_NN -_PU crossing_NN )_NN ，_PU 使_VV 原先_AD Hann_NR 窗_NN 的_DEC 第一_OD 个_M 旁瓣_LC (_PU sidelobe_NN )_PU 可以_VV 被_SB 大幅_AD 消除_VV ，_PU 产生_VV 只有_JJ Hann_NN 窗_NN 1_CD /_PU 5_CD 高度_NN 的_DEG 旁瓣_NN 。_PU
+
+根据_P 一般_JJ 习惯_NN ，_PU Blackman_NN 窗_NN 所_MSP 设定_VV 的_DEC 数值_NN 并_AD 非_AD 完全_AD 精确_VA (_PU "_PU α_NN "_PU  = _NN 0_CD ._PU 16_CD ,_PU "_PU a_NN "_PU  = _NN 0_CD ._PU 42_CD ,_PU "_PU a_NN "_PU  = _NN 0_CD ._PU 5_CD ,_PU "_PU a_NN "_PU  = _NN 0_CD ._PU 08_CD )_PU ，_PU 而_CC 是_VC 近似_VA 於_P 精确_VA Blackman_NR 的_DEG 数值_NN (_NN "_PU a_NN "_PU  = _NN 7938_CD /_PU 18608_CD  ≈ _NN 0_CD ._PU 42659_CD ,_PU "_PU a_NN "_PU  = _NN 9240_CD /_PU 18608_CD  ≈ _NN 0_CD ._PU 49656_CD ,_PU "_PU a_NN "_PU  = _NN 1430_CD /_PU 18608_CD  ≈ _NN 0_CD ._PU 076849_CD )_PU 。_PU
+
+如_P 此_PN 的_DEG 数值_NN 设定_NN ，_PU 其_PN 用意_NN 是_VC 在_P 第三_OD 个_M 及_CC 第四_OD 个_M 旁瓣_NN 位置_NN 产生_VV 零_CD 交会_NN 处_NN (_PU zero_NN -_PU crossing_NN )_NN 。_PU
+
+当_P 我们_PN 考虑_VV "_PU n_NN "_PU 为_VC 一_CD 实数_NN ，_PU Nuttall_NN 窗_NN 函数_NN 及_CC 其_PN 一_CD 次_M 导数_NN 在_P 任意_JJ 处_NN 皆_AD 为_VC 连续_VV ，_PU 且_CC 当_P "_PU n_OD =_PU 0_CD "_PU 时_LC 的_DEG 数值_NN 为_VC 0_CD ，_PU 而_CC Blackman-Nuttall_NN 窗_NN 及_CC Blackman_NN -_PU Harris_NN 窗_NN ，_PU 在_P "_PU n_CD =_PU 0_CD "_PU 处_NN 则_AD 有_VE 一_CD 微小_JJ 的_DEG 正值_NN 。_PU
+
+Blackman_NN -_PU Harris_NN 窗_NN 是_VC Hamming_NN 窗_NN 家族_NN 的_DEC 一般化_NN ，_PU 借由_AD 加上_VV 更多_AD 位移_VV sinc_NN 函数_NN 而_MSP 产生_VV ，_PU 并_CC 能够_VV 减低_VV 旁瓣_NN 的_DEG 影响_NN 。_PU
+
+平顶_JJ 窗_NN 在_P 部分_NN 区域_NN 为_VC 负值_NN ，_PU 并且_CC 在_P 频域_NN 中_LC 具有_VV 较_AD 小_VA 的_DEC 扇形_JJ 损失_NN 。_PU 该_DT 特性_NN 有利于_VV 测量_NN 正_CC 弦频率_NN 分量_NN ，_PU 但_AD 具有_VV 较_AD 低_JJ 频率_NN 精準度_NN 以及_CC 高_JJ 噪声_NN 频带_NN 等_ETC 缺点_NN 。_PU 我们_PN 可以_VV 利用_VV 低通_JJ 滤波器_NN 的_DEG 设计_NN 方法_NN 产生_VV 平顶窗_NN 函数_NN 。_PU
+
+正_AD 弦_P 窗有_VV 时_LC 也_AD 称作_VV 余弦窗_NN ，_PU 因为_P 其_PN 函数_NN 可_VV 同时_AD 由_P 正弦或_NR 余弦_NN 函数_NN 的_DEC 方式_NN 表示_VV 。_PU
+
+正弦窗_NR 的_DEC 自_VV 相关_JJ 函数_NN 可_VV 产生_VV 波曼窗_NN (_PU Bohmanwindow_NN )_NN 。_PU
+
+此_DT 类別_NN 的_DEC 窗_NN 具有_VV 以下_JJ 形式_NN ：_PU
+
+矩形窗_NN (_NN "_PU α_NN "_PU  = _NN 0_CD )_PU 、_PU 正弦窗_NN 、_PU 以及_CC Hann_NN 窗_NN (_PU "_PU α_NN "_PU  = _NN 2_CD )_PU 皆_AD 属于_VV 这_DT 类_M 窗_NN 的_DEG 一_CD 员_M 。_PU
+formula_NN
+
+α参_NN 数_AD 控制_VV 了_AS 窗口_NN 的_DEC 尖细_JJ 程度_NN ，_PU α_NN 也_AD 是_VC 旁_JJ 瓣准尉_NN 的_DEC 对数_NN ，_PU 因此_AD α=_NN 2_CD ._PU 0_CD 表示_VV 比_P 主_PN 瓣低_VV 了_AS 两_CD 个_M 度_NN (_PU decades_NN )_PU 或_CC 是_VC -_PU 40_CD dB_M 。_PU 窗口_NN 的_DEC 特征_NN 是_VC 主瓣_NN 的_DEC 背景_NN 洩漏_VV 在_P 转换_VV 后_LC 的_DEG 输出_NN 唯_AD 一常_AD 数_AD 振福_VV 。_PU 对_P 一_CD 个_M 已_AD 给定_VV 洩漏_NN 等级_VV ，_PU 当_P 主瓣_NN 的_DEG 宽度_NN 为_VC 最_AD 小_VA 时_LC ，_PU 这_DT 个_M 窗口_NN 是_VC 最_AD 优化_VV 。_PU
+另外_AD 优点_NN 在于_VV ，_PU 当_P 只_AD 有_VE 小_JJ 数目_NN 输入_VV 讯号_NN 取样_VA 点_M 时_LC ，_PU 可_VV 用来_VV 做_VV 小_JJ 转换_NN ，_PU 这_DT 个_M 窗口_NN 在_P 主瓣_NN 附近_NN 提供_VV 很_AD 好_VA 的_DEC 能_VV 见度_NN 。_PU
+
+
+Jian_NN -_PU JiunDing_NN ,_PU classlectureofTimeFrequencyAnalysisandWavelettransform_NR ,_PU GraduateInstituteofCommunicationEngineering_NR ,_PU NationalTaiwanUniversity_NR ,_PU Taipei_NN ,_PU Taiwan_NN ,_PU 2018_CD ._PU
+
+

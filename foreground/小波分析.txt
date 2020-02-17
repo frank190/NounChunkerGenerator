@@ -1,0 +1,142 @@
+﻿小波_NN 分析_NN
+
+小波_JJ 分析_NN （_PU ）_PU 或_CC 小波_NN 转换_NN （_PU ）_PU 是_VC 指_VV 用_P 有限_JJ 长_NN 或_CC 快速_AD 衰减_VV 的_DEC 「_PU 母小_NN 波_NN 」_PU （_PU ）_PU 的_DEG 振荡_NN 波形_NN 来_MSP 表示_VV 信号_NN 。_PU 该_DT 波形_NN 被_SB 缩放_VV 和_CC 平移_VV 以_MSP 匹配_VV 输入_VV 的_DEC 信号_NN 。_PU
+
+「_PU 小波_NN 」_PU （_PU ）_PU 一_CD 词_NN 由_P 和_CC 在_P 1980_CD 年代_NN 早期_AD 提出_VV 。_PU 他们_PN 用_VV 的_DEC 是_VC 法_JJ 语词_NN ，_PU 意思_NN 就_AD 是_VC 「_PU 小波_NN 」_PU 。_PU 后来_VV 在_P 英语_NN 里_LC ，_PU 「」_PU 被_SB 改为_VV 「_PU 」_PU 而_AD 成_VV 了_AS 。_PU
+
+小波_NN 变化_VV 的_DEC 发展_NN ，_PU 承袭_NN Gabortransform_NR 的_DEG 局部_NN 化_NN 思想_VV ，_PU 并且_CC 克服_VV 了_AS 傅立叶_NN 和_CC Gabortransform_NN 的_DEC 部分_NN 缺陷_VV ，_PU 小_JJ 波_M 变换_NN 提供_VV 了_AS 一_CD 个_M 可以_VV 调变_VV 的_DEC 时频_NN 窗口_NN ，_PU 窗口_NN 的_DEG 宽度_NN (_PU width_NN )_PU 随着_P 频率_NN 变化_VV ，_PU 频率_NN 增高_VV 时_LC ，_PU 时间_NN 窗口_NN 的_DEG 宽度_NN 就_AD 会_VV 变窄_VV ，_PU 以_MSP 提高_VV 分辨率_NN ．_PU 小波_NN 在_P 整_DT 个_M 时间_NN 范围_NN 内_LC 的_DEG 振幅_NN 平均值_NN 为_VC 0_CD ，_PU 具有_VV 有限_VA 的_DEC 持续_JJ 时间_NN 和_CC 突变_NN 的_DEC 频率_NN 与_CC 震幅_NN ，_PU 可以_VV 是_VC 不_AD 规则_VA ，_PU 或_CC 不_AD 对称_VA 的_DEC 讯号_NN 。_PU
+
+小波_NN 变换_NN 分成_VV 两_CD 个_M 大类_NN ：_PU 离散_VV 小波_NN 变换_NN （_PU DWT_NN ）_PU 和_CC 连续_JJ 小波_NN 转换_NN （_PU CWT_NN ）_PU 。_PU 两_CD 者_NN 的_DEG 主要_JJ 区別_NN 在于_VV ，_PU 连续_AD 变换_VV 在_P 所有_DT 可能_VV 的_DEC 缩放_VV 和_P 平移_NN 上_LC 操作_VV ，_PU 而_CC 离散_VV 变换_NN 采用_VV 所有_DT 缩放_NN 和_CC 平移值_NN 的_DEC 特定_JJ 子集_NN 。_PU
+
+小波_NN 理论_NN 和_CC 几_CD 个_M 其他_DT 课题_NN 相关_VV 。_PU 所有_DT 小波_NN 变换_NN 可以_VV 视为_VV 时域_NN 频域_NN 表示_VV 的_DEC 形式_NN ，_PU 所以_AD 和_CC 调和_VV 分析_NN 相关_VV 。_PU 所有_DT 实际_NN 有用_VA 的_DEC 「_PU 离散_NN 小波_NN 变换_NN 」_PU 使用_VV 包含_VV 有限_JJ 脉冲_NN 响应_NN 滤波器_NN 的_DEG 滤波器段_NN （_PU filterband_NN ）_PU 。_PU
+
+简单_VA 来说_VA （_PU 技术_NN 上_LC 并_AD 非如_AD 此_DT ）_PU ，_PU 母小波_NN 函数_NN formula_NN
+
+多数_CD 情况_NN 下_LC ，_PU 需要_NN 要求_VV formula_NN
+即母_CS 小_JJ 波_M 有_VE M_CD 个_M 消失矩_NN (_PU v_CC anishingmoment_NR )_ETC ，_PU 且_CC M_NN 不_AD 等于_VV 0_CD ，_PU 这_PN 表示_VV 母小波_NN 必须_VV 不_AD 是_VC 常数_NN 且_CC 均值_NN 为_VC 0_CD 。_PU
+
+wavelet_NN 是_VC 指_VV 小_JJ 型波_NN (_PU 在_P 傅立叶_NN 分析_VV 里_LC 的_DEG 弦波_NN 是_VC 大_JJ 型波_NN )_PU ，_PU 简单_AD 说来_VV ，_PU 小_JJ 波_NN (_PU wavelet_NN )_PU 是_VC 一_CD 个_M 衰减_NN 迅速_VA 的_DEC 振荡_NN 。_PU
+
+有_VE 几_CD 种_M 定义_NN 小波_NN （_PU 或者_CC 小_JJ 波族_NN ）_PU 的_DEC 方法_NN :_PU
+
+小_JJ 波_NN 完全_AD 通过_P 缩放_VV 滤波器_NN "_PU g_NN "_PU ——_PU 一_CD 个_M 低_AD 通有_VV 限脉冲_NN 响应_NN （_PU F_CD IR_M ）_PU 长度_NN 为_VC "_PU 2N"_NN 和_CC 为_VC 1_CD 的_DEG 滤波_NN 器_NN ——_PU 来_MSP 定义_VV 。_PU 在_P 双_CD 正_AD 交_P 小_JJ 波_M 的_DEG 情况_NN ，_PU 分解_VV 和_CC 重建_VV 的_DEC 滤波器_NN 分別_NN 定义_VV 。_PU
+
+高通_JJ 滤波器_NN 的_DEG 分析_NN 作为_VV 低通_VA 的_DEC QMF_NN 来_MSP 计算_VV ，_PU 而_CC 重建_NN 滤波器_NN 为_VC 分解_VV 的_DEC 时间_NN 反转_VV 。_PU 例如_AD Daubechies_NN 和_CC Symlet_NN 小波_NN 。_PU
+
+小波_NN 由_P 时域_NN 中_LC 的_DEG 小波_JJ 函数_NN formula_NN (_PU 即_AD 母小_NN 波_NN )_PU 和_CC 缩放_VV 函数_NN formula_NN (_PU 也_AD 称为_VV 父小波_NN )_PU 来_MSP 定义_VV 。_PU
+
+小波_NN 函数_NN 实际_NN 上_LC 是_VC 带通_VV 滤波器_NN ，_PU 每_DT 一_CD 级_M 缩放_VV 将_BA 带宽_JJ 减半_NN 。_PU 这_PN 产生_VV 了_AS 一_CD 个_M 问题_NN ，_PU 如果_CS 要_VV 覆盖_VV 整_DT 个_M 谱需_NN 要无_VV 穷多_VA 的_DEC 级_NN 。_PU 缩_VV 放_VV 函数_NN 滤掉_NN 变换_NN 的_DEC 最低_JJ 级并_NN 保证_VV 整_DT 个_M 谱_NN 被_SB 覆盖_VV 到_VV 。_PU 详细_JJ 解释_NN 请_VV 参看_VV 。_PU
+
+对于_P 有_VE 紧_NN 支撑_VV 的_DEC 小波_NN ，_PU formula_NN
+
+小波_NN 只有_VV 时域_NN 表示_VV ，_PU 作为_VV 小波_NN 函数_NN formula_NN
+
+小波_NN 以_P continuous_NN /_PU discrete_NN 来_NN 分_LC ，_PU 有_VE 3_CD 种_M :_PU
+
+1_CD ._PU 第一_OD 种_M 输入_NN 为_VC :_PU continuous_NN ，_PU 输出_NN 为_VC :_PU continuous_NN
+
+-_PU >_PU 称为_VV ContinuousWaveletTransform_NN
+
+2_CD ._PU 第二_OD 种_M 输入_NN 为_VC :_PU continuous_NN ，_PU 输出_NN 为_VC :_PU discrete_NN
+
+-_PU >_PU 称为_VV continuouswavelettransformwithdiscretecoefficients_NN
+
+3_CD ._PU 第三_OD 种_M 输入_NN 为_VC :_PU discrete_NN ，_PU 输出_NN 为_VC :_PU discrete_NN
+
+-_PU >_PU 称为_VV DiscreteWaveletTransform_NN
+
+离散_NN 小波_NN 变换_NN （_PU DWT_NN ）_PU 通常_AD 被_SB 用于_VV 信号_NN 编码_NN ，_PU 比如_AD 在_P 工程_NN 和_CC 计算机_NN 科学_NN ，_PU 而_CC 连续_JJ 小_JJ 波转换_NN （_PU CWT_NN ）_PU 通常_AD 被_SB 用于_VV 信号_NN 分析_NN ，_PU 即_AD 科学_JJ 研究类_NN 。_PU 小波_NN 变换_VV 现在_NT 被_SB 大量_AD 不同_VA 的_DEC 应用_NN 领域_NN 采纳_VV ，_PU 有时_AD 甚至_AD 会_VV 取代_VV 了_AS 傅里叶_NN 变换_VV 的_DEC 位置_NN ，_PU 在_P 许多_CD 领域_NN 都_AD 有_VE 这样_PN 的_DEG 转变_NN 。_PU 例如_AD 很_AD 多_VA 物理学_NN 的_DEG 领域_NN 亦_AD 经历_VV 了_AS 这_DT 个_M 转变_NN ，_PU 包括_VV 分子_NN 动力学_NN ，_PU 从头_AD 计算_VV （_PU abinitiocalculations_VV ）_PU ，_PU 天文_NN 物理_NN 学_NN ，_PU 密度_NN 矩阵_NN 局部化_NN ，_PU 地球物_NN 理学_NN ，_PU 光学_NN ，_PU 湍流_NN ，_PU 和_CC 量子_NN 力学_NN 。_PU 其他_DT 经历_VV 了_AS 这_DT 种_M 变化_NN 的_DEC 学科_NN 有_VE 图像_NN 处理_VV ，_PU 血压_NN ，_PU 心率_NN 和_CC 心电图_NN 分析_NN ，_PU DNA_NN 分析_NN ，_PU 蛋白质_NN 分析_VV ，_PU 气象_NN 学_NN ，_PU 通用_NN 信号_NN 处理_VV ，_PU 语言_NN 识別_VV ，_PU 计算机_NN 图形学_NN ，_PU 和_CC 多分_CD 形_NN 分析_VV 。_PU
+
+所有_DT wavelet_NN 适用_VV 的_DEC 运用_NN 中_LC ,_PU 大致上_AD 有_VE 下列_JJ 两_CD 项_M 特点_NN ：_PU
+
+通常_AD 在_P 做_VV 讯号_NN 或_CC 影像_VV 处理_NN 的_DEC 过程_NN 中_LC ，_PU 会面_NN 临到_VV 取样点_NN 的_DEG 取舍_NN :_PU
+而_AD wavelettransformscomprisethem_NR ._PU
+影像_JJ 分割_NN 可以_VV 定义_VV 为_VC ，_PU 将_BA 影像_AD 分成_VV 若干_CD 个_M 区域_NN ，_PU 而_CC 这些_DT 像素_NN 组成_VV 区域_NN 必须_VV 为_VC 各_DT 个_M 类似_VA 的_DEC 像素_NN 所_MSP 链接_VV 而_MSP 成_VV ．_PU
+
+影像_VV 的_DEC 分割_NN 大略_AD 可以_VV 分为_VV :_PU
+
+临界_NN 值法_NN ：_PU
+主要_AD 是_VC 靠_P 设定_VV 临界值_NN ，_PU 来去_VV 区分物体_NN 与_P 背景_NN ．_PU
+
+区域法_NN ：_PU
+将_BA 影像_VV 分为_VV 若干_CD 个子_NN 区域_NN ，_PU 这些_DT 子_JJ 区域_NN 有_VE 相连_JJ 性_NN
+
+边界法_NN ：_PU
+借由_AD 求影像_VV 梯度_NN 大小_NN ，_PU 来_MSP 找出_VV 正确_JJ 影像_JJ 边界_NN 的_DEC 方法_NN
+
+边缘法_NN ：_PU
+利用_VV 一_CD 阶_NN 导数_NN 的_DEG 大小_NN 来_MSP 侦测_VV 出_VV 边缘_NN 所_MSP 在_VV 的_DEC 位置_NN ，_PU 之后_AD 再_AD 使用_VV 一_CD 阶_M 导数_NN 的_DEG 方向_NN 将_AD 小_VA 的_DEC 边缘_NN 链接_VV 成_VV 边界_NN 的_DEC 方法_NN ．_PU
+借由_P 小_JJ 波_M 转换_NN 的_DEC 方法_NN ，_PU 将_BA 原始_VA 的_DEC 影像_NN ，_PU 经过_P 特定_JJ 的_DEG 小_JJ 波_NN 转换_VV 的_DEC 技巧_NN 后_LC ,_PU EX_NN :_PU symletswavelet_NN ,_PU 滤除_NN 掉噪声_NN ，_PU 并且_CC
+对_P Ｘ_NN 轴方_NN 向做_VV 一_CD 次_M 小波_NN 转换_NN ，_PU 对_P Y轴_NN 方向_NN 做_VV 一次_JJ 小波_NN 转换_NN ，_PU 之后_AD 采用_VV 影像_JJ 分割_NN 的_DEC 方法_NN ，_PU 提高_VV 影像_NN 分割_VV 的_DEC 精确度_NN ．_PU
+
+影像_AD 压缩_VV 的_DEC 过程_NN
+
+原始_VA 的_DEC 图形_NN 资料_NN -_PU >_PU 色彩_NN 模式_NN 的_DEG 转换_NN -_PU >_PU DCT_NN 转换_NN -_PU >_PU 量化器_NN -_PU >_PU 编码器_NN -_PU >_PU 压缩_VV 完成_VV
+
+小波_NN 转换_VV 最_AD 常见_VA 的_DEC 应用_NN 是_VC 用于_VV 影像_VV 压缩_NN 。_PU 和_CC 其他_DT 变换_NN 一样_VA ，_PU 小波_NN 变换_NN 可以_VV 用于_VV 原始_JJ 影像_NN （_PU 例如_AD 图像_NN ）_PU ，_PU 然后_AD 将_BA 变换_VV 后_LC 的_DEG 数据_NN 编码_NN ，_PU 得到_VV 有效_VA 的_DEC 压缩_NN 。_PU 影像_VV 压缩_NN 通常_AD 可_VV 分为_VV 三_CD 大_JJ 步骤_NN ，_PU 分別_NN 是_VC 转换_NN (_PU Transform_NN )_NN 、_PU 量化_NN (_PU Quantization)_NN 和_CC 编码_NN (_PU Coding_NN )_NN 。_PU 其中_NN 转换_VV 这_DT 个_M 步骤_NN 是_VC 将_BA 原始_JJ 资料_NN 转换_VV 成_VV 另_DT 一_CD 种_M 表示_VV 法_NN ，_PU 可_VV 经由_P 逆转换_NN 得到_VV 原始_JJ 讯号_NN 。_PU 转换_VV 的_DEC 目的_NN 在于_VV 除_P 去讯号_NN 取样_VA 的_DEC 相关性_NN ，_PU 也就是_AD 去除_VV 取_VV 样间_NN 的_DEG 累赘_NN 。_PU 在_P 对_P 影像_NN 资料_NN 转换_NN 时_LC ，_PU 通常_AD 是_VC 将_BA 影像_NN 先_AD 分割_VV 成_VV 不_AD 重叠_VV 小_JJ 区块_NN ，_PU 再_AD 对_P 小_JJ 区块_NN 进行_VV 单位_NN 转换_NN ，_PU 而_CC 单位_JJ 转换_NN 是_VC 一_CD 种_M 可逆_VV 的_DEC 转换_NN ，_PU 其_PN 演算_NN 的_DEC 核心_NN 为_VC 正交_JJ 的_DEG 基底_NN 函数_NN 。_PU 讯号_NN 可以_VV 分为_AD 规则性_JJ 讯号_NN 与_CC 非_AD 规则性_JJ 讯号_NN 两_CD 类_M ，_PU 所谓_JJ 规则性_JJ 讯号_NN 即_AD 是_VC 讯号_NN 中_LC 所有_DT 组成物_NN 是_VC 同时_AD 发生_VV 的_DEC ；_PU 而非规_AD 则性_JJ 讯号_NN 其_PN 组成物_NN 并非_CC 是_VC 同时_AD 发生_VV 。_PU 对于_P 规则_VV 的_DEC 讯号_NN ，_PU 理想_VA 且_CC 有效_VA 的_DEC 转换_NN 方式_NN 是_VC 傅_NN 立_VV 叶_NN 转换_VV 。_PU 而_CC 适用_VV 于_P 非_AD 规则性_JJ 信号_NN 的_DEC 工具_NN 就_AD 是_VC 小_JJ 波_NN 转换_VV 。_PU 较为_AD 知名_VA 的_DEC 影像_NN 压缩_VV 文件_NN 格式_NN JPEG2000_NN 就_AD 是_VC 采用_VV 小波_NN 的_DEC 图像标_NN 準_NN ，_PU 演算法_NN 细节_VV 请_VV 参考_VV 小_JJ 波_M 压缩_NN 。_PU
+
+wavelet_NN 影像_VV 压缩_VV 未来_VV 的_DEC 趋势_NN 为_VC :_PU
+
+小波_NN 转换_NN 亦_AD 常_AD 应用于_VV 影像_VV 的_DEC 边缘_NN 侦测_NN （_PU edgedetection_NN ）_PU ，_PU 传统_JJ 的_DEG 影像_JJ 边缘_NN 侦测_VV 采用_VV 二维_JJ 差分_NN 运_VV 算子_NN 以_MSP 侦测_VV 影像_NN 边缘_NN ，_PU 乃_AD 假设_AD 影像_VV 边缘_NN 上_LC 和_CC 边缘_NN 旁_LC 之_DEG 影像灰_NN 阶值_NN 必_AD 然_AD 不同_VA ，_PU 当_P 取_VV 微分_CD 时_LC ，_PU 在_P 边缘_NN 上_LC 会_VV 呈现_VV 非常_AD 大_JJ 梯度值_NN ，_PU 借由_AD 调整_VV 影像灰_NN 阶值_NN 的_DEC 临界值_NN 参数_NN 可_VV 强化_VV 边缘_NN ，_PU 但_CC 二_CD 维_M 小波_NN 转换_NN 则_AD 是_VC 一_CD 种_M 效果_NN 较_AD 佳_VA 的_DEC 影像_JJ 边缘_NN 侦测_NN 方法_NN ，_PU 当_P 取_VV 小波_NN 转换_VV 时_LC ，_PU 在_P 影像_VV 边缘_NN 上_LC 亦_AD 会_VV 呈现_VV 非常_AD 大_VA 的_DEC 梯度_NN 值_NN 。_PU 在_P 电脑_NN 视觉_NN 或_CC 影像_NN 处理_VV 上_LC 经常_AD 使用_VV 动态_JJ 轮廓_NN 或_CC 蛇行_NN 模式_NN 来_MSP 侦测_VV 物体_NN 的_DEG 边界_NN 或_CC 边缘_NN 。_PU
+
+在_P 物体_NN 纹路_NN 及_CC 表面_NN 瑕疵_NN 检测_NN 上_LC 亦_AD 有_VE 其_PN 应用_NN ，_PU 由于_P 小波_NN 转换_VV 有_VE 局部性_NN 处理_NN 的_DEC 能力_NN ，_PU 对于_P 小_JJ 区域_NN 之_DEC 瑕疵_NN 能_VV 有效_JJ 凸显_NN ，_PU 其_PN 频率_NN 特性_NN 使得_VV 在_P 处理_NN 瑕疵_NN 上_LC 不_AD 易_AD 受_VV 环境_NN 影响_VV 。_PU 相对于_P 频率域_NN 之_DEG 转换_NN 方法_NN ，_PU 小_JJ 波转换_NN 处理_NN 速度_NN 快_VA ，_PU 因_P 不_AD 须_VV 事先_AD 经过_VV 训练_NN 与_P 繁复_VA 的_DEC 数学_NN 计算_NN ，_PU 使得_VV 小波_NN 转换_VV 在_VV 速度_NN 处理_VV 上_LC 获得_VV 不错_JJ 效果_NN ，_PU 其_PN 具有_VV 多_CD 解析_NN (_PU Multi_NN -_PU resolution_NN )_PU 与_P 多尺度_NN (_PU Multi_NN -_PU scale_NN )_PU 能力_NN ，_PU 使得_VV 在_P 处理_NN 纹路_NN 瑕疵_NN 上_LC 不_AD 会_VV 产生_VV 方块_NN 效应_NN 。_PU 小波_NN 转换_VV 不_AD 会_VV 变动_VV 影像物体_NN 的_DEG 相对_JJ 位置_NN ，_PU 且_CC 保留_VV 纹路_NN 与_CC 瑕疵_NN 的_DEC 空间_NN 关系_VV 与_P 影像大_NN 小_VA 。_PU
+
+小波_NN 转换_VV 亦_AD 可_VV 用_VV 在_P 音乐_NN 讯号_NN 上_LC ，_PU 像_P 是_VC 乐器_NN 自动_AD 辨识_VV 的_DEC 应用_NN ，_PU 第一_OD 种_M 为_P 先_AD 使用_VV 一_CD 维_M 小波_NN 转换_VV 将_BA 声音_NN 讯号_NN 分解_VV 为_VC 不同_JJ 频率_NN 范围_NN 的_DEC 各_DT 个_M 频带_NN ，_PU 接着_AD 再_AD 对_P 各_DT 个_M 频带_NN 中_LC 撷取_VV 能量_NN 平均值_NN 以及_CC 能量_NN 标準_NN 差_AD 视为_VV 一_CD 维_M 小波_NN 转换_VV 之_DEC 特征_NN 向量_VV 。_PU 而_CC 第二_OD 种_M 方法_NN 为_VC 先将_JJ 声音_NN 讯号_NN 转成_VV 频谱图_NN 并_CC 视为_VV 一_CD 张_M 二_CD 维_NN 影像_NN ，_PU 对此_AD 频谱_VV 图做_NN 二_CD 维_CD 小波_NN 转换_NN 分解_VV 出_VV 各_DT 个_M 频带_NN ，_PU 再_AD 对_P 频带_NN 中_LC 撷取_VV 能量_NN 平均值_NN 和_CC 能量_NN 标準_NN 差_AD 做为_VV 二_CD 维_M 小波_NN 的_DEC 特征_NN 向量_VV 。_PU 最后_AD ，_PU 利用_VV 相邻_JJ 近似法_NN 使用_VV 欧基_NN 里德_NN 距离_NN 来_MSP 计算_VV 测试_VV 资料_NN 的_DEC 特征_NN 向_P 量_NN 和_CC 每_DT 一_CD 乐器_NN 的_DEG 特征_NN 向_P 量_NN 之_DEG 距离_NN ，_PU 并_CC 取_VV 最_AD 小_JJ 距离_NN 为_VC 辨识_NN 结果_NN 的_DEC 乐器_NN 类別_NN 。_PU
+
+而_AD 小_JJ 波转换_NN 也_AD 常用_VV 在_P 音乐_NN 讯号_NN 的_DEG 压缩_NN ，_PU 由于_P 人_NN 耳_VV 对_P 声音_NN 各_DT 频带_NN 是_VC 有_VE 其_PN 感知力_NN 的_DEC ，_PU 故_AD 有些_DT 频带人_NN 无法_AD 听见_VV ，_PU 有些_PN 频带人_NN 耳特別_NN 灵敏_NN 。_PU 利用_VV 离散_NN 小波_NN 转换_VV 来_MSP 将_BA 音乐_NN 讯号_NN 做高_VV 低频_NN 切割_VV 多_CD 次_M ，_PU 就_AD 可以_VV 将_BA 原_JJ 讯号_NN 分成_VV 许多子_NN 频带_NN (_PU sub_NN -_PU band_NN )_NN ，_PU 但_CC 传统_JJ 离散_NN 小波_NN 转换_VV 计算_NN 架构_NN ，_PU 将_BA 波型_NN 分成_VV 高频_NN 与_CC 低频_NN 后_LC ，_PU 下_DT 一_CD 次_M 的_DEG 切割_NN 只_AD 对_P 低_JJ 频做_NN 切割_NN ，_PU 故_AD 没_AD 办法_AD 完全_AD 分割_VV 出_VV 与_P 人耳_NN 感知_VV 频带_NN 相_AD 符合_VV 的_DEC 子频带_NN 。_PU 於_AD 是_VC 更_AD 精细_VA 的_DEC 计算架_NN 构_VV 被_SB 提出_VV ，_PU 称为_AD 离散_VV 小_JJ 波包_NN 转换_NN (_PU discretewaveletpackettransform_NN )_PU ，_PU 原理_NN 就_AD 是_VC 音乐_NN 讯号_NN 被_SB 分成_VV 高频_JJ 讯号_NN 后_LC ，_PU 会_VV 再_AD 做_VV 分割_NN 。_PU 一_CD 段_M 音乐_NN 讯号_NN 就_AD 可以_VV 被_SB 分割_VV 成_VV 更_AD 贴近_VV 人耳_NN 25_CD 个_M 频带_NN 的_DEG 讯号_NN ，_PU 这样_PN 的_DEG 分割法_NN 更_AD 优于_VV 一般_JJ 傅立叶_NN 分析_VV 所_MSP 使用_VV 的_DEC 滤波器_NN ，_PU 从_P 这些_DT 子频带_NN 中_LC ，_PU 找出_VV 能够_VV 被_SB 屏蔽_VV 的_DEC 讯号_NN ，_PU 滤除_VV 之后_LC ，_PU 就_AD 可以_VV 将_BA 原本_JJ 音乐_NN 讯号_NN 文件_NN 大小_AD 压缩_VV 了_AS 。_PU
+
+在_P 辨识_VV 音乐_NN 讯号_NN 的_DEG 乐谱_NN 上_LC 也_AD 有_VE 其_PN 应用_NN ，_PU 音乐_NN 讯号_NN 由_P 一_CD 个_M 个_M 音符_NN 组成_VV ，_PU 而_CC 每_DT 个_M 音符_NN 以_P 特定_VA 的_DEC 节奏_VV 出现_VV ，_PU 通常_AD 是_VC 成群_VV 的_DEC 谐音_NN 出现_VV ，_PU 若_CS 要_VV 分辨_VV 出_VV 一_CD 段_M 讯号_NN 最_AD 主要_VA 的_DEC 频率_NN 为_VC 何_DT ，_PU 必须_VV 滤除_VV 其_PN 泛音_NN 才_AD 能_VV 判断_VV ，_PU 而_CC 由_P 离散_NN 小_JJ 波_NN 转换_NN 的_DEC 多重_JJ 分辨率_NN 分割_VV 就_AD 可以_VV 将_BA 泛音_NN 区隔_VV 在_P 不同_VA 的_DEC 子频带_NN 中_LC ，_PU 而且_CC 讯号_NN 中_LC 的_DEG 噪声_NN 也_AD 可以_VV 依_P 同_DT 样_M 方法_NN 被_SB 滤除_VV 。_PU 由于_P 是_VC 要_VV 侦测_VV transient_NN 现象_NN ，_PU 基_NN 於_AD 要_VV 侦测_VV 什_DT 么样_VA 的_DEC 讯号_NN 就_AD 使用_VV 跟_P 它_PN 很_AD 像_P 的_DEC 讯号_NN 当_P 作_VV 基底_NN 拆解_VV 它_PN 这_DT 个_M 原则_NN ，_PU 故_AD 在_P 选择_VV 小_JJ 波基_NN 底_LC 时_LC ，_PU 就_AD 要_VV 选择_VV 较_AD 有_VE 突然_JJ 剧烈_NN 变化_VV 的_DEC 母小波_NN ，_PU 如_P 此_DT 一_CD 来_M 小_JJ 波_NN 转换_VV 后_LC 的_DEG 小波_NN 系数_NN ，_PU 能量_NN 就_AD 会_VV 聚集_VV 在_P 原讯号_NN 有_VE 剧烈_JJ 变化_NN 之_DEC 处了_NN ，_PU 由_P 此_DT 方法_NN 可_VV 有效_AD 辨识_VV 音乐_NN 讯号_NN 的_DEG 音高_NN (_PU 也就_AD 是_VC 频率_NN )_PU 。_PU
+
+音乐_NN 讯号_NN 简易_AD 压缩_VV
+
+原始_JJ 音乐_NN 讯号　_NN -_PU >MDCT_NN -_PU >_PU 去除_VV 不_AD 重要_VA 的_DEC 系数_NN -_PU >_NOI IMDCT_NN -_PU >_PU 输出_NN 结果_NN
+
+MDCT_NN :_PU ModifiedDiscreteCosineTransform_NR
+
+连续_JJ 小_JJ 波转_NN 换常_AD 应用于_VV 遥测_VV 影像_NN 分析_NN 上_LC ，_PU 如_P 海底_NN 地形_VV 之_DEC 解析_NN ，_PU 利用_VV 具有_VV 分析_NN 非_AD 均匀_VA 讯号_VA 的_DEC 高维_NN 连续_AD 小_JJ 波转_NN 换理论_NN 作为_VV 遥测_NN 影像_VV 的_DEC 分析_NN 工具_NN ，_PU 从中_AD 求取_VV 影像_NN 波浪_NN 谱_NN ，_PU 再_AD 从_P 影像_VV 波浪_NN 谱_NN 中_LC 反算_VV 出_VV 观测_NN 区域_NN 的_DEC 水深值_NN 。_PU 传统_JJ 的_DEG 研究_NN 多_CD 将_BA 海洋遥_NN 测影_VV 像_P 假设_VV 为_VC 均匀_VA (_PU homogeneous_NN )_PU 的_DEG 海面_NN 影像_VV ，_PU 并_CC 采用_VV 被_SB 分析_VV 影像_VV 为_VC 均匀性_JJ 前提_NN 所_MSP 发_VV 展出_VV 的_DEC 方法_NN 进行_VV 谱_NN 转换_NN ，_PU 其_PN 分析_VV 所_MSP 得_VV 之_DEC 影像谱_NN 实际上_AD 为_P 整_DT 个_M 遥测影_NN 像_P 波数谱_NN 的_DEG 平均值_NN 。_PU 然而_AD 自然界_AD 的_DEC 讯号_NN 常_AD 存在_VV 有_VE 非_AD 均匀_VA 的_DEC 特性_NN ，_PU 近_AD 岸_VV 海域_NN 的_DEC 波浪_NN 亦_AD 不_AD 例外_VA 。_PU 为_VC 能_VV 从_P 分析_NN 非_AD 均匀_AD 影像_VV 讯号_NN 中_LC 分析_VV 得到_VV 合理_VA 且_CC 準确_VA 的_DEC 水深_NN 资讯_NN ，_PU 可_VV 引入_VV 非_AD 均匀_VA 讯号_VA 分析_VV 理论_NR -_PU 小波_NR 转换_VV 。_PU 如_P 高_JJ 维小波_NN 转换_VV 理论_NN 可_VV 应用_VV 在_P 分析_VV 海洋遥_NN 测影像_VV 之_DEC 研究_NN ，_PU 借以_VV 从中_AD 计算_VV 出_VV 底床_NN 地形_VV 的_DEC 资讯_NN ，_PU 透过_P 小波_NN 转换_VV 的_DEC 非定常_JJ 讯号_NN 的_DEG 解析_NN 能力_NN ，_PU 可_VV 将_BA 整_DT 张_M 遥测影_NN 像_P 分解_VV 为_VC 不同_VA 的_DEC 子_NN 影像_NN ，_PU 每_DT 一_CD 块子_NN 影像_NN 区域_NN 的_DEC 波场理_NN 论_NN 上_LC 具有_VV 一定_JJ 程度_NN 之_DEG 均匀_VA 性_NN ，_PU 再_AD 进而_AD 从_P 各_DT 子_NN 影像_NN 中_LC 求解_VV 水深值_NN ，_PU 借以_VV 描绘_NN 出_VV 观测_VV 海域_NN 的_DEC 水深_NN 资讯_NN 。_PU
+
+离散_NN 小波_NN 转换_NN 亦_AD 常_AD 应用_VV 在_P 生医_NN 领域_NN 中_LC ，_PU 因为_P 其_PN 具有_VV 较_AD 低_VA 的_DEC 复杂度_NN 与_CC 较_AD 佳_VA 的_DEC 时域_NN -_PU 频域_NN 分析_NN 之_DEG 特性_NN ，_PU 而_CC 被_SB 选择_VV 作为_P 分析_VV 生医_NN 讯号_NN 的_DEC 方法_NN 。_PU 心电图_NN (_PU Electrocardiography_NN )_PU 与_P 脑波图_NN (_PU Electroencephalography_NN )_PU 是_VC 两_CD 项_M 常见_VA 的_DEC 生医_NN 应用_NN 。_PU 在_P 心电图_NN 方面_NN ，_PU 为了_P 诊断_VV 心脏_NN 相关_JJ 疾病_NN ，_PU 可_VV 使用_VV 离散_PN 小_JJ 波转换_NN 去除_VV 原始_JJ 讯号_NN 中_LC 冗余_VV 的_DEC 特征_NN ，_PU 并_CC 由_P 重建_VA 的_DEC 讯号_NN 中_LC 侦测_VV R_NN -_PU R_NN 区间_NN 。_PU
+
+一般而言_AD ，_PU 病患_NN 之_DEC 心电图_NN 时常_AD 需要_VV 全天候_AD 的_DEC 观察_NN 与_P 分析_NN ，_PU 因此_AD 资料量_NN 相当_AD 庞大_VV ，_PU 此时_NT 便_AD 需要_VV 很_AD 大_VA 的_DEC 储存_NN 空间_NN 来_MSP 储存_VV 这些_DT 资料_NN ，_PU 因此_AD 有_VE 必要_JJ 将_BA 心电图_NN 之_DEG 资料_NN 加以_VV 压缩_NN ，_PU 才_AD 可_VV 有效_AD 减少_VV 所_MSP 需_VV 之_DEC 储存_NN 设备_NN 成本_NN 。_PU 讯号_NN 的_DEG 压缩_NN 可_VV 分为_VV 无_VE 失真_NN (_PU lossless_NN )_PU 压缩_NN 和_CC 失真_NN (_PU lossy_NN )_PU 压缩_VV 两_CD 种_M ，_PU 若_CS 是_VC 依_P 传统_JJ 医学_NN 观念_NN ，_PU 或许_CC 应该_VV 使用_VV 无_VE 失真_NN 压缩_VV ，_PU 才_AD 可_VV 避免_VV 因_P 资讯_NN 不_AD 完整_VA 而_MSP 造成_VV 误诊_NN 等_ETC 医疗_NN 疏失_NN ，_PU 但_CC 由于_P 传送_VV 资讯_NN 之_DEC 网路_NN 频宽_VV 有限_VA 且_CC 资料_NN 庞大_VV ，_PU 因此_AD 使用_VV 失真_NN (_PU lossy_NN )_PU 压缩_NN 以_MSP 达到_VV 更_AD 大_VA 的_DEC 压缩_NN 效率_NN 已_AD 成_VV 必然_AD ，_PU 在_P 增大_VV 压缩_NN 效率_NN 的_DEC 同时_AD ，_PU 亦_AD 可_VV 保证_VV 其_PN 重建_NN 讯号_NN 之_DEG 可靠度_NN ，_PU 以_MSP 避免_VV 不_AD 必要_VA 的_DEC 医疗疏_NN 失便_VV 是_VC 一_CD 重要_JJ 课题_NN ，_PU 小_JJ 波_NN 转换_VV 便_AD 可_VV 达到_VV 此_DT 项_M 目标_NN 。_PU
+
+而_AD 小_JJ 波转换_NN 亦_AD 有_VE 去除_VV 不_AD 必要_JJ 噪声_NN 之_DEC 功用_NN ，_PU 以_MSP 正_AD 确判_VV 读心_NN 电图_NN ，_PU 此_DT 方法_NN 称为_VV 小波_NN 系数_NN 临界法_NN (_PU waveletcoefficientsthresholding_NN )_PU ，_PU 讯号_NN 经_P 小_JJ 波_NN 转换_VV 后_LC ，_PU 噪声_NN 会_VV 成为_VV 较_AD 小_VA 的_DEC 讯号_NN (_PU lowscale_NN )_NN ，_PU 因此_AD 将_BA 较_AD 小_JJ scale_NN 的_DEG 讯号_NN 去除_VV ，_PU 即_AD 可_VV 去除_VV 噪声_NN ，_PU 一_AD 般_VA 的_DEC 做法_NN 为_VC 设立_VV 一_CD 临界值_NN ，_PU 将_BA 低于_VV 此_DT 临界值_NN 的_DEC 讯号_NN 舍弃_VV ，_PU 高于_VV 临界值_NN 的_DEC 讯号_NN 保留_VV 。_PU 而_MSP 选择_VV 临界值_NN 的_DEC 方式_NN 有_VE 两_CD 种_M ，_PU 一_CD 种_M 为_P 硬式_NN 临界值_NN (_PU hardthreshold_NN )_NN ，_PU 其_PN 临界_NN 值_NN 为_VC 一_CD 常数_NN ，_PU 不_AD 随_P 输入_VV 讯号_NN 改变_VV 而_CC 改变_VV ，_PU 此_DT 法_NN 优点_NN 为_VC 设计_NN 简单_VA ，_PU 但_AD 得到_VV 的_DEC 结果_NN 并_AD 不_AD 理想_VA ，_PU 若_CS 改_VV 由_P 不同_JJ 输入_NN 讯号_NN 形成_VV 不同_JJ 临界值_NN ，_PU 则_AD 称为_VV 软式_JJ 临界值_NN ，_PU 将_BA 经_P 小_JJ 波转换_NN 后_LC 每_DT 一_CD 频带_NN 之_DEG 变异数_NN (_PU v_CC ariance_NR )_PU 开根_NR 号_M 后_LC 形成_VV 标準差_NN ，_PU 而后_CC 以_P 标準_NN 差_NN 当_P 作_VV 参数_NN 作为_VV 临界值_NN ，_PU 此_DT 法_NN 产生_VV 之_DEC 临界值_NN 会_VV 因_P 输入_VV 讯号_NN 长度_NN 的_DEG 不同_JJ 而_CC 改变_VV 。_PU
+
+另_DT 一_CD 个_M 小波_NN 转换_VV 在_P 生医_NN 领域_NN 的_DEG 应用_NN 则_AD 是_VC 应用_VV 在_P 脑电图_NN 上_LC ，_PU 早_AD 期脑_NN 电图_NN 讯号_NN 分析_NN 技术_NN ，_PU 普遍_NN 以_P 傅利_NN 叶_NN 转换_VV 为_VC 主_VA ，_PU 近年_NN 来_VA ，_PU 小波_NN 转换_NN 技术_NN 逐渐_AD 被_SB 采用_VV ，_PU 其_PN 特性_NN 在_P 对于_P 未知_JJ 讯号_NN 的_DEG 频率_NN 分布_VV ，_PU 在_P 时间轴_NN 上_LC 可以_VV 得到_VV 很_AD 好_VA 的_DEC 分辨率_NN ，_PU 适合_VV 应用于_VV 脑_NN 波_M 的_DEG 不_AD 稳定_VA 讯号_NN 分析_NN 处理_NN 。_PU 再_AD 配合_VV 类神_NN 经_P 网路_NN 非_JJ 线性_JJ 分辨_NN 能力_VV ，_PU 可_VV 有效_JJ 分辨α_NN 波_NN 、_PU β波_NN 。_PU
+
+亦_AD 有_VE 一_CD 个_M 应用_NN 是_VC 在于_VV 脑电图_NN 中_LC 正常_VA 的_DEC 背景_NN 讯号_NN 与_CC 不_AD 正常_VA 的_DEC 尖峰_NN 讯号_NN 之_DEG 区分_NN ，_PU 患有_VV 癫痫_NN 的_DEC 病人_NN 其_PN 不_AD 正常_VA 的_DEC 尖峰_JJ 讯号_NN 其_PN 形状_NN 会_VV 类似_VV 一_CD 个_M 凸起_NN 的_DEC 尖峰_NT ，_PU 故_AD 此_DT 讯号_NN 壳称_NN 为_VC 尖峰_JJ 讯号_NN (_PU spike_NN )_PU ，_PU 利用_VV 多重_JJ 解析_NN 变换_NN 的_DEC 小波_NN 转换_NN (_PU multi_NN -_PU resolutionwavelettransform)_PU 可_VV 用来_VV 分析_VV 这_DT 类_M 型态_NN 类似_NN 、_PU 但_CC 大_JJ 小_JJ 区间_NN 变异_VV 很_AD 大_VA 的_DEC 癫痫_NN 讯号_NN 。_PU
+
+第一_OD 个_M 小波_NN 转换_NN 是_VC 在_P 1909_CD 年提_VV 出来_VV 的_DEC 哈尔_NN 小波_NN (_PU Haarwavelet_NN )_NN ，_PU 但是_CC 当时_AD 小_JJ 波_NN 的_DEG 概念_NN 并_AD 不_AD 存在_VV ，_PU 直_AD 到_P 1981_CD 年_M 地球物_NN 理学_NN 家才_NN 提出_VV 小_JJ 波_NN 的_DEG 概念_NN ，_PU 且_CC 小波_NN 转换_VV 变_VV 成分_NN 析地_AD 震波_VV 的_DEC 新_JJ 工具_NN 。_PU
+
+之后_AD 在_P 1984_CD 年_M 和_CC 物理_NN 学家_AD 发明_VV 了_AS "_PU wavelet_NN "_PU 一_CD 词_M ，_PU 并且_CC 对于_P 连续_JJ 小波_NN 转换_NN 和_CC 其_PN 各_DT 种_M 应用_VV 有_VE 比较详尽_VV 的_DEC 数学_NN 研究_NN 。_PU
+
+在_P 1985_CD 年_M 之前_LC ，_PU 大家_AD 所_MSP 熟知_VV 的_DEC 正交_JJ 小波_NN (_PU orthogonalwavelet_NN )_PU 只_AD 有_VE Haar_NN 小波_NN ，_PU 然而_CC 数学_NN 家伊_NN 夫_NN ·_PU 梅耶尔_NN 在_P 1985_CD 年_M 建立_VV 了_AS 第二_OD 种_M 正交_JJ 小波_NN ，_PU 即_AD 。_PU 接着_AD 越来越_AD 多_VA 人_NN 投入_VV 这_DT 个_M 领域_NN 并_CC 在_P 1987_CD 年法_NN 国办_VV 了_AS 第一_OD 届_M 国际_NN 研讨会_NN 。_PU
+
+1988_CD 年_M ,_PU 和_CC 伊夫_NN ·_PU 梅耶尔_NN 提出_VV 了_AS 多分_JJ 辨率_NN 的_DEG 概念_NN ，_PU 同_DT 年_M (_PU 1988_CD )_PU ，_PU 英格丽_NN ·_PU 多_CD 贝西_NN 建立_VV 了_AS 紧_JJ 支撑_NN 正_AD 交_VV 小_JJ 波_M (_PU compactsupportorthogonalwavelet_NN )_NN 。_PU 隔年_NN (_PU 1989_CD )_PU 提出_VV 了_AS 快速_AD 小_JJ 波_NN 转换_VV 。_PU 随着_P 快速_AD 小_VA 波_NN 转换_VV 的_DEC 发展_NN ，_PU 许多_CD 小_JJ 波_NN 转换_VV 的_DEC 应用_NN 得以_VV 实现_VV 。_PU
+
+除了_P 先前_NT 许多_CD 卓越_VA 的_DEC 数学家_NN 像_AD 是_VC 英格丽_NN ·_PU 多_CD 贝西_NN ，_PU ，_PU ，_PU 伊夫_NN ·_PU 梅耶尔_NN ，_PU ，_PU ，_PU 在_P 小波_NN 理论_NN 上_LC 都_AD 有_VE 显著_VA 的_DEC 贡献_NN ，_PU 之后_AD 直到_VV 现在_NT 也_AD 陆续_VA 有_VE 人_NN 提出_VV 了_AS 许多_CD 方法_NN 和_CC 应用_NN 。_PU
+
+
+如果_CS 函数_NN formula_NN
+
+称作_VV formula_NN
+
+为_P formula_NN
+
+存在_VV 著_AS 大量_CD 的_DEG 小波_NN 变换_NN ，_PU 每_DT 个_M 适合_VV 不同_VA 的_DEC 应用_NN 。_PU 完整_VA 的_DEC 列表_NN 参看_VV 小波_NN 相关_VV 的_DEC 变换_NN 列表_NN ，_PU 常见_VA 的_DEC 如下_VV ：_PU
+
+
+
+
+
+傅立_VV 叶_NN 转换_NN 具有_VV 局部性_NN ，_PU G_CD abor_M 转换_NN 没有_VV 具有_VV 局部性_NN
+
+小波_NN 转换_VV 具有_VV 局部性_NN ，_PU 并且_CC 可以_VV 改变_VV 参数_NN 来_MSP 调整_VV 频谱_NN 的_DEC 窗口_NN 和_CC 结构_NN 形状_NN ，_PU 进而_AD 做到_VV "_PU 变焦_VV "_PU 的_DEG 作用_NN ._PU
+
+因此_AD 小波_JJ 分析_NN 可以_VV 达到_VV 多_JJ 分辨率_NN 的_DEC 效果_NN
+
+
+
+
+
+
+

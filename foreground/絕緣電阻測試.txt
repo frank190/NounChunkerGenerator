@@ -1,0 +1,5 @@
+﻿_CD 绝缘_NN 电阻_NN 测试_NN
+
+绝缘_NN 电阻_NN 测试_NN 是_VC 测试_VV 和_CC 检验_VV 电气_NN 设备_NN 的_DEG 绝缘_NN 性能_NN 的_DEC 常规_JJ 手段_NN ，_PU 同时_AD 也_AD 是_VC 高压_JJ 绝缘_NN 试验_NN 的_DEG 预备_NN 试验_NN 。_PU 和_CC 耐压_NN 测试_VV 相似_VA ，_PU 它_PN 是_VC 把_BA 最高_AD 可_VV 达_VV 1000V_CD 的_DEC 直流_NN 电压_NN 施加_VV 到_VV 需要_NN 测试_VV 的_DEC 两_CD 点_M 。_PU 绝缘_NN 电阻_NN 测试_VV 的_DEC 结果_NN 通常_AD 是_VC 以_P 兆欧姆_NN 为_VC 单位_NN 的_DEG 电阻值_NN ，_PU 而_CC 不_AD 是_VC 像_VV 耐_VV 压测_NN 试以_VV Pass_NN /_PU F_CD ail_M 来_MSP 表示_VV 测试_NN 结果_NN 。_PU 一_CD 般典型_JJ 绝缘_NN 电阻_NN 测试_NN 电压_NN 为_VC 500V_CD 直流_NN ，_PU 而_CC 其_PN 绝缘_NN 电阻_NN 的_DEG 值_NN 不_AD 得低于_VV 几_CD 兆_M 欧姆_NN 。_PU
+
+

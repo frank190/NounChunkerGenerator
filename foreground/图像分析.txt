@@ -1,0 +1,9 @@
+﻿图_NN 像分析_AD
+
+图_NN 像_P 分析_NN （_PU imageanalysis_NN ）_PU 和_CC 图像_NN 处理_NN （_PU imageprocessing_NN ）_PU 关系_AD 密切_VV ，_PU 两_CD 者_NN 有_VE 一定_JJ 程度_NN 的_DEC 交叉_NN ，_PU 但是_CC 又_AD 有_VE 所_MSP 不同_JJ 。_PU 图像_NN 处_NN 理侧_NN 重于_VV 信号_NN 处理_NN 方面_NN 的_DEC 研究_NN ，_PU 比如_AD 图_NN 像对_P 比度_NN 的_DEG 调节_NN 、_PU 图像_NN 编码_NN 、_PU 去噪_NN 以及_CC 各_DT 种_M 滤波_NN 的_DEC 研究_NN 。_PU 但_AD 是_VC 图像_NN 分析_VV 更_CD 侧重_NN 点_NN 在于_VV 研究_VV 图像_NN 的_DEG 内容_NN ，_PU 包括_VV 但_CC 不_AD 局限于_VV 使用_VV 图像_NN 处理_VV 的_DEC 各_DT 种_M 技术_NN ，_PU 它_PN 更_AD 倾向于_VV 对_P 图像_NN 内容_NN 的_DEC 分析_NN 、_PU 解释_NN 、_PU 和_CC 识别_VV 。_PU 因而_AD ，_PU 图像_NN 分析_NN 和_CC 计算机_NN 科学_NN 领域_NN 中_LC 的_DEG 模式_NN 识别_NN 、_PU 计算机_NN 视觉关_NN 系_NN 更_AD 密切_VA 一些_VA 。_PU
+
+图像_AD 分析_VV 一般_AD 利用_VV 数学_NN 模型_NN 并_CC 结合_VV 图像_NN 处理_VV 的_DEC 技术_NN 来_MSP 分析_VV 底层_NN 特征_NN 和_CC 上层_NN 结构_NN ，_PU 从而_AD 提取_VV 具有_VV 一定_JJ 智能性_NN 的_DEG 信息_NN 。_PU
+
+图像_AD 分析_VV 研究_VV 的_DEC 领域_NN 一般_AD 包括_VV ：_PU
+
+

@@ -1,0 +1,10 @@
+﻿势阱_NN
+
+势阱_NN （_PU ）_PU 是_VC 一_CD 个_M 包围_VV 着_AS 势能_NN 局部_NN 极_AD 小_VA 点_NN 的_DEG 邻域_NN 。_PU 被_LB 势阱_NN 捕获_VV 的_DEC 能量_NN 无法_AD 转化_VV 为_VC 其它_DT 形式_NN 的_DEC 能量_NN （_PU 例如_AD 能量_NN 从_P 重力_NN 势阱_NN 中_LC 逃脱_VV 转化_NN 为_VC 动能_NN ）_PU ，_PU 因为_P 它_PN 被_SB 势阱_VV 的_DEC 局部_NN 极_CC 低点_NN 捕获_VV 。_PU 也正_AD 是_VC 因此_AD ，_PU 一_CD 个_M 被_SB 势阱_VV 捕获_VV 的_DEC 物体_NN 不_AD 能_VV 继续_VV 向_P 全_DT 局势_NN 能_VV 最_AD 低处_JJ 运动_NN ，_PU 即使_CS 它_PN 根据_P 熵_NN 的_DEG 原理_NN 自然_AD 地_DEV 倾向于_VV 向_P 全局_PN 最_AD 低_JJ 点运动_NN 。_PU
+
+粒子_NN 在_P 某_DT 力场_NN 中_LC 运动_VV ，_PU 势能_NN 函数_NN 曲线_NN 在_P 空间_NN 的_DEG 某_DT 一_CD 有限_JJ 范围_NN 内势_NN 能_VV 最_AD 小_VA ，_PU 形如_AD 陷阱_NN ，_PU 称为_VV 势陷_NN
+就_AD 是_VC 电子_NN 的_DEG 势能图_NN 像_P 类似_P 一_CD 个_M 波_NN 的_DEG 形状_NN ，_PU 那么_AD 当_P 电子_NN 处_NN 于_P 波谷_NN ，_PU 就_AD 好像_AD 处在_VV 一_CD 口_M 井里_NN ，_PU 比较_AD 稳定_VA ，_PU 很_AD 难跑_AD 出来_VV 。_PU 所以_AD 称为_VV 势阱_NN 。_PU 不_AD 单单_AD 是_VC 量子_NN 力学_NN 里_LC 有_VE 这_DT 个_M 势阱_NN ，_PU 任何_DT 形式_NN 的_DEC 势只_NN 要_VV 具有_VV 这_DT 种_M 样子_NN ，_PU 我们_PN 都_AD 可以_VV 称_VV 它_PN 有_VE 势阱_NN ，_PU 比如_AD 重力_NN 势阱_NN 。_PU 量子_NN 力学_NN 与_CC 经典_NN 物理_NN 的_DEC 在_P 这里_PN 有_VE 一_CD 个_M 小小_VA 的_DEC 差别_NN ，_PU 就_AD 是_VC 量子_NN 力学_NN 里_LC ，_PU 电子_NN 具有_VV 某些_DT 概率_NN 穿过_VV 势阱_NN 跑_VV 出来_VV ，_PU 称之为_VV 隧道_NN 效应_NN 。_PU 隧道_NN 电子_NN 显微镜_NN 就_AD 是_VC 利用_VV 这_DT 个_M 原理_NN 。_PU
+
+
+
+

@@ -1,0 +1,5 @@
+﻿波_NN 阵面_NN
+
+波阵面_NN （_PU ）_PU 简称_VV “_PU 波面_NN ”_PU ，_PU 为_VC 波_VV 在_P 介质_NN 中_LC 传播_VV 时_LC ，_PU 经_P 相同_JJ 时间_NN 所_MSP 到达_VV 的_DEC 各_DT 点_M 所_MSP 连成_VV 的_DEC 直线_NN 、_PU 曲线_NN （_PU 二_CD 维_NN 内_LC ）_PU 或_CC 面_NN （_PU 三_CD 维内_NN ）_PU 。_PU 也就是说_AD ，_PU 它_PN 指_VV 的_DEC 是_VC 某_DT 一_CD 时刻_NN 波动_NN 所_MSP 达到_VV 的_DEC 各_DT 点_M 所_MSP 连成_VV 的_DEC 曲面_NN 。_PU 最_AD 前方_NN 的_DEC 曲面_NN 叫做_VV “_PU 波前_NT ”_PU （_PU ）_PU 。_PU 波阵面_NN 质点_NN 的_DEC 振动_JJ 情况_NN 与_P 机械_NN 波_NN 的_DEC 波源_NN 初_LC 始振_CC 动_VV 情况_NN 相同_VA 。_PU 由于_P 同_DT 一_CD 波_M 阵面_NN 上_LC 各_DT 点_NN 的_DEG 振动_NN 相位_NN 相同_VA ，_PU 所以_AD 波阵面_NN 是_VC 同_DT 相面_JJ （_PU 即相_JJ 位差_NN 为_VC 零_CD ）_PU 。_PU
+
+

@@ -1,0 +1,11 @@
+﻿角移_NN
+
+在_P 物理学_NN 中_LC ，_PU 角移_NN （_PU angulardisplacement_NN ）_PU 亦称_VV 为_VC 角位移_NN ，_PU 是_VC 一_CD 种_M 物理量_NN ，_PU 用来_VV 描述_VV 一_CD 质点_NN 或_CC 物体_NN 绕某_VV 一_CD 轴_NN 所_MSP 转过_VV 的_DEC 角度_NN ，_PU 单位_NN 为_VC 弧度_NN 。_PU 角位_NN 移_VV 有_VE 大小_NN 和_CC 方向_NN ，_PU 但_CC 不_AD 满足_VV 平行_JJ 四边_NN 形合_VV 成_VV 法则_NN ，_PU 所以_AD 一般_AD 不_AD 是_VC 矢量_NN 。_PU
+
+若_CS 一_CD 质点_NN 在_P 固定_VV 的_DEC 圆上绕_JJ 圆心_NN 运动_VV ，_PU 因_P 质点_NN 与_CC 圆心_NN 的_DEC 距离_NN 恒_AD 不_AD 变_VV ，_PU 即_AD 是_VC 半径_NN ，_PU 因此_AD 质点_NT 在_P 圆周_NN 上_LC 的_DEG 位移_NN 可以_VV 使用_VV 角度_NN 变化_VV 来_MSP 描述_VV ，_PU 而_CC 质点_NN 绕_VV 圆心_NN 旋转_VV 所_MSP 形成_VV 的_DEC 角度_NN 变化_NN 称为_VV 角移_NN 或_CC 角位移_NN 。_PU
+
+右图_NN 为_VC 刚体_NN 上_LC 一点P_CD ，_PU 距离_VV 原点_NN "_PU r_NN "_PU ，_PU 绕_VV 一_CD 固定_VV 在_P 原点_NN 的_DEC 轴_NN 转动_VV 。_PU 在_P 极坐_NN 标系_NN 中_LC ，_PU P_NN 点_NN 的_DEG 坐标_NN 为_VC (_PU "_PU r_NN "_PU ,_PU "_PU θ_NN "_PU )_NN 。_PU 一_CD 段_M 时间_NN 内_LC ，_PU P_P 点_NN 走过_VV 的_DEC 弧_NN 长_VA "_PU s_CD "_PU 与_P 角位置_NN 的_DEC 关系_NN 为_VC ：_PU
+则_AD 角_JJ 位移_NN 为_VC ：_PU
+如果_CS 物体_NN 从_P P点_NN 转到_VV Q点_NN ，_PU 两点_NN 的_DEC 角_NN 坐标_NN 分别_AD 是_VC formula_NN __NN 3_CD 和_CC formulaformula_NN 。_PU
+
+

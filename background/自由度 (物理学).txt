@@ -1,0 +1,10 @@
+﻿自_VV 由度_P (_PU 物理学_NN )_PU
+
+在_P 力学_NN 里_LC ，_PU 自由_P 度指_NN 的_DEC 是_VC 力学_NN 系统_NN 的_DEC 独立_JJ 坐标_NN 的_DEC 个数_NN 。_PU 力学_NN 系统_NN 由_P 一_CD 组_M 坐标_NN 来_MSP 描述_VV 。_PU 比如_VV 一_CD 个_M 质点_NN 的_DEC 三维_NN 空间_NN 中_LC 的_DEG 运动_NN ，_PU 在_P 笛卡_NN 尔坐_NN 标系_NN 中_LC ，_PU 由_P formula_NN 三_CD 个_M 坐标_NN 来_MSP 描述_VV ；_PU 或者_CC 在_P 球坐_NN 标系_NN 中_LC ，_PU 由_P formula_NN 三_CD 个_M 坐标_NN 描述_VV 。_PU 描述_NN 系统_NN 的_DEG 坐标_NN 可以_VV 自由_VA 的_DEC 选取_NN ，_PU 但_CC 独立_CS 坐标_VV 的_DEC 个_M 数总_NN 是_VC 一定_JJ 的_DEG ，_PU 即_AD 系统_NN 的_DEG 自由度_NN 。_PU 一般而言_AD ，_PU formula_NN 个_M 质点_NN 组成_VV 的_DEC 力学_NN 系统_NN 由_P formula_NN 个_M 坐标_NN 来_MSP 描述_VV 。_PU 但_CC 力学_NN 系统_NN 中_LC 常常_AD 存在_VV 著_AS 各_DT 种_M 约束_NN ，_PU 使得_VV 这_DT formula_NN 个_M 坐标_NN 并_AD 不_AD 都_AD 是_VC 独立_VA 的_DEC 。_PU 对于_P formula_NN 个_M 质点_NN 组成_VV 的_DEC 力学_NN 系统_NN ，_PU 若_CS 存在_VV formula_NN 个_M 完整_AD 约束_VV ，_PU 则_AD 系统_NN 的_DEG 自由度_NN 减为_VV
+比如_VV ，_PU 运动_NN 於_P 平面_NN 的_DEC 一_CD 个_M 质点_NN ，_PU 其_PN 自由度_NN 为_VC 2_CD 。_PU 又或是_AD ，_PU 在_P 空间_NN 中_LC 的_DEG 两_CD 个_M 质点_NN ，_PU 中间_NN 以_P 线_NN 连接_VV 。_PU 所以_AD 其_PN 自由_P 度_NN
+其中_NN 的_DEG 3_CD 表示_VV 2_CD 个_M 质点_NN 的_DEC 质心_NN 有_VE 3_CD 个_M 位移_NN 方向_NN ，_PU 但_CC 由于_P 有_VE 一_CD 条_M 线_NN 约_AD 束_VA ，_PU 两_CD 个_M 质点_NN 绕_VV 质心_NN 的_DEC 转动_NN 自由度_NN 由_P 3_CD 减为_VV 2_CD ，_PU 即_AD 不_AD 可_VV 做_VV 以_P 线_NN 为_VC 轴_NN 的_DEG 转动_NN ，_PU 而_CC 又_AD 由于_P 线_NN 是_VC 刚性_NN 不_AD 可_VV 伸缩_VV 的_DEC ，_PU 故_AD 两_CD 质点_NN 不_AD 可_VV 在线_VV 的_DEC 方向_NN 上_LC 振动_VV ，_PU 即_AD 振动_VV 自由度_NN 为_VC 0_CD 。_PU 如_P 果线_NN 是_VC 弹性_NN 的_DEC ，_PU 则_AD 这_DT 个_M 模型_NN 类似于_VV 两_CD 原子_NN 构成_VV 的_DEC 气体_NN 分子_NN 模型_NN ，_PU 除了_P 有_VE 3_CD 个_M 位移_NN 自由度_NN 、_PU 2_CD 个_M 转动_VV 自由度_NN 外_LC ，_PU 还_AD 有_VE 1_CD 个_M 振动_JJ 自由度_NN 。_PU
+
+因此_AD 在_P 研究_NN 气体_NN 分子_NN 时_LC 一般_AD 将_BA 自由_JJ 度分_NN 为_VC 平移_VV 自由度_NN ，_PU 转动_VV 自由度_NN 及_CC 振动_JJ 自由度_NN 三_OD 类_M 。_PU
+
+
+

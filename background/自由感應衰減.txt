@@ -1,0 +1,13 @@
+﻿自_VV 由_P 感应_NN 衰减_NN
+
+自_AD 由_P 感应_NN 衰减_NN (_PU freeinductiondecay_NN ,_PU FID)_NN 是_VC 核磁_NN 共振(NMR)_PU 与_P 磁振_NN 造影_VV (_PU MRI_NN )_NN 中_LC 最_AD 简单_VA 的_DEC 信号_NN 形式_NN 。_PU 受_VV 激发_VV 的_DEC 核种_NN 对_P 磁振_NN 频谱仪_NN 或_CC 磁振_NN 造影_VV 扫瞄器_NN 的_DEG 射频_NN 线圈_NN 造成_VV 感应_NN 电流_NN 而_MSP 产生_VV 讯号_NN ，_PU 并且_CC 因_P 发生_VV 弛缓_NN 而_MSP 使_VV 讯号_NN 强度_NN 逐渐_AD 衰减_VV 至_VV 零_CD ，_PU 这_DT 种_M 逐渐_JJ 衰减_NN 的_DEC 讯号_NN 即_AD 称为_VV 「_PU 自由_P 感应_NN 衰减_NN 」_PU 。_PU
+
+在_P 多数_JJ 液体_NN 情形_NN 下_LC ，_PU 整_DT 个_M 信号_NN 形式_NN 是_VC 振幅_NN 呈_VV 指数_NN 衰减_VV 的_DEC 振荡_NN 信号_NN ，_PU 信号_NN 频率_NN 为_VC 该_DT 原子_NN 核_NN 在_P 如_P 此_DT 强度_NN 的_DEC 主_JJ 磁场_NN 下_LC 所_MSP 具有_VV 的_DEC 共振_JJ 频率_NN ——_PU 称为_VV 拉莫_NN 频率_NN 。_PU 讯号_NN 的_DEG 振荡_NN 反映_VV 了_AS 磁化_NN 强度_NN 在_P 垂直_VV 主_JJ 磁场_NN 方向_NN (_PU 称为_VV 横向_NN )_PU 的_DEG 平面_NN 上_LC 进动_VV (_PU 旋进_VV )_PU ；_PU 衰减_NN 则_AD 反映_VV 了_AS 横向_NN 上_LC 的_DEC 弛_NN 缓_VV 现象_NN 。_PU 在_P 固体_NN 情形_NN ，_PU 衰减_VV 函数_NN 则_AD 变得_VV 复杂_VA ，_PU 成为_VV 高_VA 斯_DT 函数_NN 、_PU 洛仑兹_NN 函数_NN 与_CC 正弦_NN 函数_NN 的_DEG 混合_NN 。_PU
+
+自_AD 由_P 感应_NN 衰减_VV 的_DEC 讯号_NN 在_P 一_CD 核_M 种_M 一_CD 激发_VV 后_LC 就_AD 开始_VV 会_VV 有_VE 讯号_NN ，_PU 然而_AD 最前_NT 的_DEG 一_CD 段_M 却_AD 不_AD 能_VV 收取_VV 讯号_NN ，_PU 称为_VV 「_PU 空白_JJ 时间_NN 」_PU (_PU deadtime_NN )_NN 。_PU 理由_P 是_VC 这_DT 段_M 时间_NN 内_LC 仍_AD 残留_VV 相当_JJ 强度_NN 的_DEC 激发_JJ 射频_NN 脉冲尾_NN 波_NN ，_PU 对于_P 同样_AD 是_VC 射频_NN 波段_NN 的_DEC 自由_JJ 感应_NN 衰减_NN 会_VV 造成_VV 遮盖_NN 。_PU
+
+自_AD 由_P 感应_NN 衰减_NN 形式_NN 的_DEC 讯号_NN 在_P 收取_VV 之后_LC ，_PU 会_VV 进行_VV 傅立叶_NN 变换_VV 成为_VV 磁振_NN 频谱_VV 以_MSP 做_VV 分析_NN 。_PU
+
+
+
+

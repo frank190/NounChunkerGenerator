@@ -1,0 +1,20 @@
+﻿信噪_NN 比_P
+
+信噪比_NN （_PU ，_PU 缩写_VV 为_VC SNR_NN 或_CC S/N）_NN ，_PU 又_AD 称_VV -_PU {_PU 讯噪比_NN }_PU -_PU ，_PU 是_VC 科学_NN 和_CC 工程_NN 中_LC 所_MSP 用_VV 的_DEC 一_CD 种_M 度量_NN ，_PU 用于_VV 比较_VV 所_MSP 需_VV 讯号_NN 的_DEG 强度_NN 与_P 背景_NN 噪声_NN 的_DEG 强度_NN 。_PU 其_PN 定义_NN 为_VC 讯号_NN 功率_NN 与_CC 噪声_NN 功率_NN 的_DEG 比率_NN ，_PU 以_P 分贝_NN （_PU dB_NN ）_PU 为_VC 单位_NN 表示_VV 。_PU 大于_VV 比率_NN 1_CD :_PU 1_CD （_PU 高于_VV 0_CD 分贝_M ）_PU 表示_VV 讯号_NN 多于_VV 噪声_NN 。_PU 信噪_NN 比_P 通常_AD 用于_VV 描述_VV 电子_NN 讯号_NN ，_PU 也_CC 可以_VV 应用_VV 在_P 各_DT 种_M 形式_NN 的_DEC 讯号_NN ，_PU 比如_AD 内_LC 的_DEG 同位素_NN 量_NN ，_PU 或_CC 细胞_NN 间_LC 的_DEG 生物_NN 化学_NN 信号_NN 。_PU
+
+所_MSP 指为_VV 有用_JJ 信号_NN 功率_NN （_PU PowerofSignal_NN ）_PU 与_P 噪声_NN 功率_NN （_PU PowerofNoise_NN ）_PU 的_DEC 比_NN 。_PU 因_P 此_PN 为_VC 振幅_NN （_PU Amplitude_NN ）_PU 平方_VV 的_DEC 比_NN ：_PU
+
+它_PN 的_DEG 单位_NN 一般_AD 使用_VV 分贝_VV ，_PU 其_PN 值_NN 为_VC 十_CD 倍_M 对数_NN 信号_NN 与_P 噪声_NN 功率_NN 比_NN ：_PU
+
+其中_NN
+
+信道_NN 信噪_NN 比_NN 为_VC
+其中_NN W_NN 是_VC 带宽_VV ，_PU formula_NN 是_VC 调制_NN 系数_NN
+
+（_PU AM_NN 接收机_NN 的_DEC ）_PU 输出_VV 信噪比_NN 为_VC
+
+信道_NN 信噪_NN 比_NN 为_VC
+
+输出_NN 信噪_NN 比_NN 为_VC
+
+

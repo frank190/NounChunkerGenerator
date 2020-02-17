@@ -1,0 +1,11 @@
+﻿Foe_VV (_PU 单位_NN )_PU
+
+foe_NN 是_VC 一_CD 个_M 用来_VV 描述_VV 超新星_NN 所_MSP 释出_VV 能量_CD 的_DEG 单位_NN ，_PU 其_PN 值_VV 为_VC 10_CD 焦耳_M 或_CC 10_CD erg_NN 。_PU 一_CD 个_M bethe_NN (_PU B_NN )_PU 和_CC 一_CD 个_M foe_NN 等值_NN 。_PU
+
+foe_NN 是_VC [_PU tentothepowerof_NN ]_PU fifty_NN -_PU oneergs_NN 的_DEC 首字母_NN 缩写_VV 。_PU
+
+foe_NN 这_DT 个_M 词_NN 是_VC 由_P 石溪_NN 大学_NN 的_DEG GeraldBrown_NN 和_CC HansBethe_NN 一起_AD 工作_VV 时_LC 因为_P 太常_AD 用到_VV 此_DT 单位_NN 而_MSP 创_VV ，_PU 而_CC bethe_NN (_PU B_NN )_PU 则_AD 是_VC StephenWeinberg_NN 以_P HansBethe_NN 之_DEG 名所命_NN 。_PU
+
+这_PN 是_VC 个_M 方便_VA 的_DEC 测量_NN 单位_NN ，_PU 因为_P 超新星_NN 通常_AD 在_P 非常_AD 短_VA 的_DEC 时间_NN 内_LC （_PU 其_PN 可以_VV 以_P 秒_NN 为_P 单位_NN 测量_VV ）_PU 释放_VV 约_AD 一_CD 个_M F_CD oe_NN 的_DEC 可_VV 观测_VV 能量_NN 。_PU 相比_VV 之下_LC ，_PU 如果_CS 太阳_VV 在_P 其_PN 整_DT 个_M 生命_NN 周期_NN 具有_VV 其_PN 当前_NT 的_DEG 光度_NN ，_PU 则_AD 它_PN 将_AD 释放_VV 3_CD ._PU 827W_CD ×_PU 3_CD ._PU 1536s_CD /_PU yr_NN ×_PU 10_CD 年_M ≈_NN 1.2_CD Foe_M 。_PU
+
+

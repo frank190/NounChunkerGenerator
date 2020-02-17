@@ -1,0 +1,11 @@
+﻿测力计_NN
+
+测力计_NN ，_PU 是_VC 用_P 来量_NN 度力_NN 大小_NN 的_DEC 工具_NN 。_PU
+
+测力_NN 计有_VV 多_CD 种_M ，_PU 包括_VV ，_PU 弹簧_NN 测力计_NN ，_PU 握力_NN 测力计_NN ，_PU 磅秤_NR 测力_NN 计_NN 等_ETC 。_PU
+
+弹簧_NN 测力_NN 计_VV 具有_VV 一_CD 个_M 弹簧_NN ，_PU 非常_AD 基本_VA 的_DEC 一_CD 个_M 测力计_NN ，_PU 通常_AD 量_VV 程_NN 只_AD 有_VE 5N_CD （_PU 牛顿_CD ）_PU 。_PU
+
+也_AD 可_VV 利用_VV 公式_NN formula_NN
+
+

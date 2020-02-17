@@ -1,0 +1,10 @@
+﻿自_VV 扩散_NN
+
+依照_P IUPAC_NN 定义_NN ，_PU 自_P 扩散_NN （_PU self_NN -_PU diffusion_NN ）_PU 系数_NN 是_VC 指_VV 化学_NN 势梯度_NN 为_VC 零_CD 时_LC ，_PU 物质_NN formula_NN __NN 1_CD 的_DEG 扩散_NN 系数_NN formula_NN
+
+formula_NN
+
+其中_NN formula_NN __NN 4_CD 为_VC 物质_NN formula_NN __NN 1_CD 的_DEG 活性度_NN ，_PU formula_NN __NN 6_CD 为_VC 物质_NN formula_NN
+
+
+

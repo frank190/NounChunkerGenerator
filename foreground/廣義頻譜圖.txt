@@ -1,0 +1,47 @@
+﻿广义_NN 频谱图_NN
+
+广义_JJ 频谱图_NN （_PU Generalizedspectrogram_NN ）_PU ，_PU 为_VC 频谱图_NN 的_DEG 通用_NN 型_NN 。_PU 为了_P 得知_VV 信号_NN 随着_P 时间_NN 的_DEG 频率_NN 分布_NN 状态_NN ，_PU 以_P 频谱图_NN 观察_VV 时_LC ，_PU 其_PN 分辨率_NN 受到_VV 测_VV 不_AD 準_VV 原理_NN 影响_NN ，_PU 频率_NN 分辨率_NN 与_P 时间_NN 分辨率_NN 相_AD 乘为_VV 定值_NN 。_PU 为_P 解决_VV 此_DT 问题_NN ，_PU 於_P 是_VC 将_BA 频谱图_NN 推广_VV 至_VV 广义_JJ 频谱图_NN 。_PU
+
+一_CD 段_M 随_P 时间_NN 变化_VV 的_DEC 信号_NN ，_PU 同时_AD 具有_VV 时域_NN 和_CC 频域_NN 的_DEC 特征_NN ，_PU 若_CS 想要_VV 了解_VV 一_CD 个_M 信号_NN 在_P 某_DT 段_M 时间_NN 内_LC 的_DEG 频率_NN 特征_NN ，_PU 最_AD 好_VA 的_DEC 方式_NN 就_AD 是_VC 使用_VV 时_LC 频_VV 分析_NN ，_PU 观察_VV 一_CD 段_M 信号_NN 的_DEC 时_LC 频_VV 分布_VV 图_NN 。_PU 频谱图_NN (S_CD pectrogram_NN )_PU 就_AD 是_VC 其中_NN 一_CD 种_M 同时_AD 表示_VV 时间_NN 和_CC 频率_NN 特征_NN 的_DEC 分布图_NN 。_PU
+
+以_P 高_VA 斯_DT 函数_NN 作为_VV 窗_NN 函数_NN (_PU windowfunction_NN )_PU ，_PU 使用_VV 时_LC 频_VV 分析_NN ，_PU 求出_VV 两_CD 组_M 不同_JJ 长度_NN 的_DEC 窗函数_NN 的_DEG 加_NN 伯_NN 转换_NN ，_PU 即_AD formula_NN 和_CC formula_NN ，_PU 再_AD 将_BA formula_NN 取_VV 共_AD 轭_VA 复_CC 数_CD 后_LC 相_AD 乘_VV 。_PU 公式_NN 如下_VV ：_PU
+
+formula_NN
+
+其中_NN formula_NN __NN 5_CD 为_VC 加_NN 伯_NN 转换_NN 的_DEC 窗函数_NN ，_PU formulaformula_NN
+
+加_NN 伯_NN 转换_NN 的_DEC 公式_NN 如下_VV ：_PU
+
+formula_NN
+
+formula_NN
+
+若_CS 将_BA formula_NN
+
+长度_NN 不同_VA 的_DEC 窗函数_NN ，_PU 其时_NT 频域_NN 的_DEC 分辨率_NN 不同_VA ，_PU 依据_P 测_VV 不_AD 準_VV 原理_NN ，_PU 较_AD 窄_VA 的_DEC 窗函数_NN ，_PU 时间_NN 分辨率_NN 较_AD 好_VA ，_PU 而_CC 频率_NN 分辨率_NN 较_AD 差_VA ；_PU 相反_VA 的_DEC ，_PU 较_AD 宽_VA 的_DEC 窗函数_NN ，_PU 频率_NN 分辨率_NN 较_AD 好_VA ，_PU 而_CC 时间_NN 分辨率_NN 较_AD 差_VA 。_PU
+
+为了_P 同时_AD 在_P 时间_NN 和_CC 频率轴_NN 上_LC 都_AD 达到_VV 更_AD 好_VA 的_DEC 分辨率_NN ，_PU 把_BA 在_P 频谱_VV 图原_NN 定义_NN 中_LC 的_DEG formula_NN :_PU 可以_VV 让_VV formula_NN __NN 12_CD 长度_NN 较_AD 宽_VA ，_PU 在_P 频域_NN 上面_LC 有_VE 良好_VA 的_DEC 分辨率_NN ，_PU 而_CC formula_NN __NN 13_CD 则_BA 长度_NN 较_AD 窄_VA ，_PU 在_P 时域_NN 上_LC 有_VE 良好_VA 的_DEC 分辨率_NN 。_PU 先分_NT 別_VV 运算_VV formula_NN __NN 1_CD 和_CC formula_NN __NN 2_CD ，_PU 再_AD 相乘_AD ，_PU 变为_VV formula_NN
+
+
+
+当_P 我们_PN 的_DEG 输入_NN 信号_NN 为_VC ：_PU
+我们_PN 先分別_JJ 求出_NN formula_NN 与_CC formula_NN 的_DEC 。_PU 经_P Matlab_NN 计算_VV 后_LC ，_PU 如下_VV 图_NN
+将_BA 其中_NN 一_CD 个_M 取_VV 共_AD 轭复_JJ 数后_NN ，_PU 两_CD 者_NN 相乘_VV ，_PU 得到_VV 广义_JJ 频谱图_NN 如下_VV ；_PU
+我们_PN 可以_VV 与_P formula_NN
+可以_VV 发现_VV 广义_JJ 频谱图_NN 无论_AD 是_VC 在_P 时间_NN 分辨率_NN 下_LC ，_PU 或是_CC 频率_NN 分辨率_NN 下_LC ，_PU 都_AD 优于_VV formula_NN
+
+原本_JJ 的_DEG 广义_NN 频谱图_NN 公式_NN 为_VC
+formula_NN
+
+我们_PN 可以_VV 对此_AD 再_AD 进行_VV 一_CD 般化_NN ，_PU 如下_VV
+
+formula_NN
+
+或者_CC 如_P 下方_NN 形式_NN ：_PU
+
+formula_NN
+
+两_CD 种_M 方法_NN 新增_VV 了_AS formula_NN __NN 27_CD 、_PU formula_NN
+
+
+

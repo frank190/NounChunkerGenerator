@@ -1,0 +1,10 @@
+﻿超_VV 冷_JJ 原子_NN
+
+超冷_JJ 原子_NN 是_VC 将_BA 原子_NN 保持_VV 在_P 一_CD 个_M 极_AD 低温_VV 的_DEC 状态_NN （_PU 接近绝对_VV 零度_NN ，_PU 0K_CD ）_PU ，_PU 一般来说_AD 其_PN 典型_JJ 温度_NN 在_P 百_CD 纳开_VV 左_JJ 右_NN 。_PU 在_P 这样_PN 的_DEG 低温_NN 状态_NN 下_LC ，_PU 原子_NN 的_DEC 量子_NN 力学_NN 性质_NN 变得_VV 十_CD 分_M 重要_VA 。_PU 要到_VV 达如_VV 此_DT 低_VA 的_DEC 温度_NN ，_PU 则_AD 需要_VV 好_VA 几_CD 种_M 技术_NN 的_DEG 配合_NN 使用_VV 。_PU 首先_AD 将_BA 原子_NN 囚禁_VV 于_P 磁光阱_NN 中_LC ，_PU 并_CC 用_P 激光_NN 冷却_VV 预_AD 冷_VA 。_PU 再_AD 利用_VV 蒸发_NN 制冷_VV ，_PU 以_MSP 达到_VV 更_AD 低_VA 的_DEC 温度_NN 。_PU
+
+当_P 原子_NN 被_SB 降到_VV 足够_VA 低_VA 的_DEC 温度_NN 时_LC ，_PU 他们_PN 将_AD 会_VV 处于_VV 一_CD 种_M 新_VA 的_DEC 量子_NN 物态_NN 。_PU 对于_P 玻色型_JJ 原子_NN 气会_NN 产生_VV 玻色_NN -_PU 爱因_VV 斯_DT 坦凝聚_NN ；_PU 对于_P 费米型_JJ 原子气_NN ，_PU 则_AD 形成_VV 简并费米_NN 气_NN 。_PU 由于_P 原子_NN 间_LC 存在_VV 相互_AD 作用_VV ，_PU 实际上_AD 绝_AD 大多数_CD 原子_NN 在_P 低温_NN 下_LC 的_DEG 基态_NN 是_VC 形成_VV 固体_NN （_PU 除了_P He_NN 和_CC He_NN ，_PU 由于_P 较_AD 大_VA 的_DEC 零点能_NN ，_PU 常压_JJ 下_NN 始终_AD 为_VC 液体_NN ）_PU ，_PU 因此_AD 这_DT 类_M 原子_NN 气_NN 实际上_AD 处于_VV 亚稳态_NN 。_PU 但_AD 是_VC 当_P 原子_NN 气_NN 足够_VV 稀薄_VV ，_PU 碰撞_VV 概率_NN 足够_VA 小_VA ，_PU 这_DT 种_M 亚稳态_NN 可以_VV 比较_VV 长_JJ 时间_NN 的_DEC 存在_VV 。_PU 无论_AD 是_VC 费米子_NN 还_AD 是_VC 玻色子_NN ，_PU 如果_CS 原子_NN 间_LC 相互_AD 为_VC 吸引_VV 作用_NN ，_PU 上述_JJ 原子_NN 气_NN 所_MSP 描述_VV 的_DEC 状态_NN 将_AD 会_VV 失稳_VV 而_CC 塌缩_VV 。_PU 对于_P 费米型_JJ 气体_NN ，_PU 某_DT 种_M 原子_NN 间_LC 的_DEG 吸引_NN 作用_NN 可能_VV 形成_VV 类似超_NN 导当_NN 中_LC 的_DEG 库_NN 伯_NN （_PU Cooper_NN ）_PU 对_P ，_PU 而_MSP 形成_VV 新_VA 的_DEC 基态_NN 。_PU
+
+实验_NN 上_LC ，_PU 冷_NN 原子_NN 被_SB 用于_VV 研究_VV 玻色_NN -_PU 爱因_VV 斯_DT 坦凝聚_NN （_PU BEC_NN ）_PU ，_PU 超流_NN ，_PU 量子_NN 磁性_NN ，_PU 多体_NN 系统_NN ，_PU BCS_NN 机制_NN ，_PU BCS_NN -_PU BEC_NN 连续_AD 过渡_VV 等_ETC ，_PU 对_P 理解_JJ 量子_NN 相_AD 变有_VV 重要_JJ 意义_NN 。_PU 冷_NN 原子_NN 也_AD 被_SB 用于_VV 研究人_NN 工合_VV 成规_NN 范场_NN ，_PU 使得_VV 人们_NN 可以_VV 在_P 实验室_NN 中_LC 模拟_VV 规_JJ 范场_NN ，_PU 从而_AD 在_P 凝聚_NN 态体_NN 系_NN 中_LC 辅助_JJ 验证_NN 粒子_NN 物理_NN 的_DEC 理论_NN （_PU 而_CC 不_AD 需要_VV 巨_AD 大_VA 的_DEC 加速器_NN ）_PU 。_PU 冷原子_NN 可以_VV 被_SB 精确_VV 的_DEC 操控_NN ，_PU 可以_VV 用于_VV 研究_VV 量子_NN 信息学_NN ，_PU 冷原子_NN 系统_NN 是_VC 实现_VV 量子_NN 计算_VV 的_DEC 众多_NN 方案_NN 中_LC 非常_AD 有_VE 前景_NN 的_DEC 之一_NN 。_PU
+
+
+

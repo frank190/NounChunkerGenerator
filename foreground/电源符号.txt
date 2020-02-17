@@ -1,0 +1,9 @@
+﻿电源_NN 符号_NN
+
+电源_NN 符号_NN 是_VC 一_CD 种_M 用来_VV 表示_VV 控制器_NN 启动_NN 还_AD 是_VC 停止_VV 特定_NN 设备_NN 的_DEG 符号_NN 。_PU 国际_NN 电工_NN 委员_NN 会_VV 的_DEC 60417_CD 标准_NN 中_LC 描述_VV 了_AS 「_PU 通用_JJ 电源_NN 符号_NN 」_PU ，_PU 该_DT 标准_NN 1973_CD 年_M 的_DEG 版本_NN （_PU IEC_NN 417_CD ）_PU 中_LC 则_AD 将_BA 其_PN 描述_VV 为_VC 「_PU 设备_NN 用_P 图形_NN 符号_NN 」_PU ，_PU 相关_VV 的_DEC 非_JJ 正式_JJ 使用_NN 则_AD 更_AD 早_VA 。_PU
+
+著名_NT 的_DEG 开关_NN 符号_NN 是_VC 用户_NN 界面_NN 设计_NN 上_LC 逻辑_NN 演化_VV 的_DEC 结果_NN 。_PU 最_AD 初_JJ ，_PU 大_JJ 多数_NN 电源_NN 控制器_NN 上_LC 的_DEG 开关_NN 都_AD 有_VE 两_CD 个_M 状态_NN ，_PU 分别_AD 用_P 文字_NN 标明_NN （_PU 英文_NN 的_DEC 「_PU 开_NN 」_PU ）_PU 和_CC （_PU 英文_NN 的_DEC 「_PU 关_NN 」_PU ）_PU 。_PU 随着_P 技术_NN 的_DEG 普及_NN ，_PU 为了_P 跨越_VV 语言_NN 文字_NN 方面_NN 的_DEG 障碍_NN ，_PU 人们_NN 把_BA 这_DT 两_CD 个_M 英文_NN 单词_AD 用_P 通用_VV 的_DEC 符号线_NN （_PU |_NN ）_PU 和_CC 圈_NN （_PU o_NN ）_PU 代替_VV 。_PU 如今_VV 的_DEC 电源_NN 开关_NN 仍_AD 在_P 使用_VV 这_DT 一_CD 标准_NN 。_PU
+
+待机_NN 按钮_NN 的_DEG 符号_NN 由_P 「_PU |_NN 」_PU 和_CC 「_PU o_NN 」_PU 两_CD 个_M 符号_NN 叠加_VV 而_MSP 来_VV 。_PU
+
+

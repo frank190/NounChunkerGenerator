@@ -1,0 +1,6 @@
+﻿登伯_NN 效应_NN
+
+登_NN 伯_NN 效应_NN （_PU 英语_NN ：_PU Dembereffect_NR )_ETC :_PU 在_P 电路_NN 中_LC ，_PU 用光_NN 照射_VV 其_PN 阴极_NN ，_PU 由_P 光电_NN 效应_NN 在_P 电路_NN 中_LC 产生_VV 光电_NN 电流_NN I1_NN ；_PU 如_P 用_VV 电子_NN 轰击_NN 阴极_NN ，_PU 电子_NN 的_DEG 动能_NN 除_P 激发_VV 电流_NN 外_LC ，_PU 还_AD 能_VV 使_VV 电极_NN 周围_NN 气体_NN 游离_VV 也_AD 能_VV 产生_VV 电流_NN ，_PU 称为_VV 电子_NN 轰击_NN 电流_NN I2_NN 。_PU 在_P 阴极_NN 上_LC 同时_AD 用光_VV 照射_VV 和_P 电子_NN 轰击_NN ，_PU 此时_NT 电路_NN 上_LC 所_MSP 产生_VV 的_DEC 电流_NN I3_NN ；_PU 而_CC I_NN 3>I1_CD +_CC I_NN 2_CD ;_PU 这_DT 种_M 现象_NN 称为_VV 登_VV 伯_NN 效应_NN 。_PU
+登_NN 伯_NN 效应_NN 是_VC 美国_NR 科学家_NN 亨利_NN ·_PU 登_VV 伯_CD （_PU 1882_CD -_PU 1943_CD ）_PU 于_P 1925_CD 年_M 发现_VV 的_SP 。_PU 他_PN 当时_NT 只用_JJ 金属_NN 作_VV 阴极_NN 研究_NN ，_PU 自_AD 发现_VV 此_DT 效应_NN 后_LC ；_PU 用作_VV 研究_VV 的_DEC 阴极_NN 材料_NN 已_AD 扩展_VV 到_VV 半导体_NN 和_CC 金属_NN 化合物_NN 等_ETC 。_PU
+
+

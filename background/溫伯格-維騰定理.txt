@@ -1,0 +1,5 @@
+﻿温_NN 伯格_NN -_PU 维腾_NN 定理_NN
+
+理论物_NN 理学_NN 中_LC ，_PU 温_NN 伯格_NN -_PU 维腾_NN 定理_NN （_PU ）_PU 是_VC 由_P 两_CD 位_M 理论物_NN 理学_NN 家史_NN 蒂文_NN ·_PU 温_NN 伯格_NN 与_CC 爱德华_NN ·_PU 维腾_NN 证明_VV 的_DEC 定理_NN 。_PU 此_DT 定理_NN 指出_VV 静_JJ 质量_NN 为_VC 零_CD 的_DEC 粒子_NN ，_PU 不论_AD 是_VC 基本_JJ 粒子_NN 或_CC 复合_JJ 粒子_NN ，_PU 若_CS 其_PN 自_P 旋_NN "_PU j_NN "_PU >_PU 1_CD /_PU 2_CD ，_PU 则_AD 无法_AD 携带_VV 劳仑_NN 兹_AD 协变_VV 的_DEC 流_NN （_PU current_NN ）_PU ；_PU 若_CS 其_PN 自_P 旋_NN "_PU j_NN "_PU >_NN 1_CD ，_PU 则_AD 无法_AD 携带_VV 劳仑_NN 兹_AD 协变_VV 的_DEC 应力_NN -_PU 能量_NN 张量_NN 。_PU 此_DT 定理_NN 通常_AD 诠释_VV 成_VV ：_PU 在_P 相对_JJ 论量子_NN 场论_NN 中_LC ，_PU 重力子_NN （_PU 自_P 旋_OD "_PU j_NN "_PU =_NN 2_CD ）_PU 无法_AD 是_VC 一_CD 种_M 复合_JJ 粒子_NN 。_PU
+
+

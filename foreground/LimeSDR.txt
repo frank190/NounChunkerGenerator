@@ -1,0 +1,12 @@
+﻿_CD LimeSDR_NN
+
+LimeSDR_NN 是_VC 一_CD 个_M 由_P LimeMicrosystems_NR 创建_VV 的_DEC 软件_NN 无_VE 线电_NN ，_PU 於_P 2016年_NT 6月_NT 21日_NT 透过_VV CrowdSupply_NN 群众募资_NN 成立_VV 。_PU
+
+LimeSDR_NN 的_DEC 硬件_NN 底板_NN 是_VC 一_CD 个_M 完全_JJ 开源_NN 的_DEC 产品_NN ：_PU 无论_AD 是_VC 其_PN 控制_VV 软件_NN 或_CC 其_PN 硬件_NN 本身_PN 也_AD 是_VC 完全_AD 开源_VV 的_SP 。_PU
+可_VV 自行_VV 开发_VV 必要_VA 的_DEC 软件_NN ，_PU 或_CC 下载_VV 并_CC 使用_VV 由_P 志愿者_NN 发佈_VV 的_DEC 软件_NN 。_PU 本_DT 产品_NN 对应_AD 於_P 从_P 100_CD kHz_NN 到_VV 3_CD ._PU 8_CD GHz_M 的_DEG 频带_NN 。_PU 采样_VV 频率_NN 受限_VV 於_P USB_NN 3_CD ._PU 0_CD 的_DEG 传输_NN 速率_NN 61_CD ._PU 44_CD M/秒_M 。_PU 本_DT 产品_NN 体积_NN 非常_AD 轻巧_VA ，_PU 只_AD 有_VE 一_CD 台_M 苹果_NN i_NN P_CC h_NN one_P 5_CD s_M 的_DEG 大小_NN 。_PU
+
+以下_NN 为_VC LimeSDR_NN 的_DEC 技术_NN 规格_NN ：_PU
+
+
+
+

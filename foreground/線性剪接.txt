@@ -1,0 +1,12 @@
+﻿线性_NN 剪接_NN
+
+线性_JJ 剪接_NN （_PU ）_PU ，_PU 是_VC 在_P 影像_NN 中_LC 进行_VV 最后_JJ 阶段_NN 后期_NN 制作_VV 的_DEC 编辑_NN 过程_NN ，_PU 是_VC 指_VV 利用_VV 录影_NN 带按_VV 时序_NN 进行_VV 顺时_NN 剪接_VV 。_PU
+
+在_P 线性_JJ 剪辑_NN 中_LC 必须_VV 有_VE 两_CD 、_PU 三部_NN 放影机_NN （_PU 内含_NN TBC_NN ）_PU 、_PU 一部_NN 录_VV 放影机_NN 、_PU 影像_VV 特效机_NN 、_PU 混音器_NN 、_PU 控制盘_NN 、_PU 信号_NN 产生器_NN 及_CC 示波器_NN 等_ETC 设备_NN ，_PU 由于_P 花费_NN 昂贵_VA ，_PU 故_AD 一般_AD 只_AD 会_VV 由_P 电视台_NN 使用_VV 。_PU
+
+线性_JJ 剪接_NN 需利_NN 用_P 录影带_NN 进行_VV ，_PU 会先_AD 使用_VV 母带_NN （_PU Master_NN ）_PU 录制_VV 另_DT 一_CD 部_M 录影机_NN 的_DEG 画面_NN ，_PU 然后_AD 根据_P 母带_NN 时间_NN ，_PU 顺_VV 次序_NN 将_BA 片段_NN 放入_VV 。_PU
+
+影音_NN 尚_AD 未_AD 数码化_NN 的_DEC 时代_NN ，_PU 影片_NN 剪辑_NN 采用_VV 线性_JJ 剪接_NN 方式_NN ，_PU 也就是_AD 拍摄_VV 的_DEC 母带_NN 和_CC 成品_NN 带_VV 必须_VV 同_DT 步边_NN 放边录_NN 。_PU 而_MSP 过去_VV 的_DEC 影带_NN 上_LC 通常_AD 会_VV 有_VE 三_CD 个_M 主要_JJ 轨道_NN ：_PU 影像轨_NN （_PU VideoTrack_NN ）_PU 、_PU 音轨_NN （_PU SoundTrack_NR ）_PU 和_CC 控制轨_NN （_PU ControlTrack_NN ）_PU 。_PU 其中_NN 控制轨_NN 是_VC 用来_VV 纪录_VV TimeCode_NN 和_CC 影音_NN 同步_VA 的_DEC 轨道_NN 。_PU 由于_P 控制轨_NN 的_DEG 存在_NN ，_PU 就_AD 产生_VV 了_AS Assemble_NN 和_CC Insert_NN 两_CD 种_M 剪辑_NN 方式_NN 。_PU
+
+
+

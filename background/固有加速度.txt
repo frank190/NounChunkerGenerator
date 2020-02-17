@@ -1,0 +1,8 @@
+﻿_CS 固有_VV 加速度_NN
+
+相对_AD 论_NN 中_LC ，_PU 固有_VV 加速度_NN 为_VC 一_CD 加速_AD 物体_NN 实质_NN 感受_VV 到_VV 的_DEC 加速度_NN （_PU 亦_AD 即_AD 可_VV 透过_VV 加速规_NN 测量_VV 到_VV 的_DEC 加速度_NN ）_PU 。_PU 这_PN 是_VC 与_P 加速物_NN 体瞬_NN 时间_NN 呈_VV 相对_AD 静止_VV 的_DEC 自由_AD 落下_VV 观察者_NN 或_CC 惯性_NN 系_NN 观察者_NN 所_MSP 测到_VV 加_VV 速度_NN 。_PU 重力场_NN 不_AD 造成_VV 任何_DT 固有_VV 加速度_NN ，_PU 因为_P 惯性_NN 系_NN 在_P 重力场_NN 存在_VV 时_LC 呈现_VV 自由_P 落体_NN ，_PU 该_DT 惯性_NN 系_NN 感受_NN 或_CC 测量_NN 不_AD 到_VV 任何_DT 固有_VV 加速度_NN （_PU 失重_NR 现象_NN ）_PU 。_PU 因此_AD 有_VE 个_M 系理_NN 为_VC ：_PU 所有_DT 惯性_JJ 观察者_NN ，_PU 其_PN 固有_VV 加速度_NN 必_AD 为_VC 零_CD 。_PU
+
+固有_VV 加速度_NN 与_P 座标加_NN 速度_NN 不同_VA 。_PU 座标_NN 加速度_NN 与_P 座标系_NN 的_DEC 选择_NN 有关_P ，_PU 也_AD 与_P 观察者_NN 的_DEC 选择_NN 有关_P （_PU 参见_VV 狭义_NN 相对_AD 论中_VA 的_DEC 三_CD 维加_VV 速度_NN 。_PU ）_PU
+
+
+

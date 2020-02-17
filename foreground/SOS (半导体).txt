@@ -1,0 +1,5 @@
+﻿SOS(_VV 半导体_NN )_PU
+
+蓝宝石_NN 上_LC 的_DEC 硅_NN （_PU ）_PU 是_VC 集成_JJ 电路_NN 制造_NN 工艺_NN 中_LC 的_DEG 一_CD 种_M 异质_NN 外延_NN 技术_NN ，_PU 它_PN 将_BA 一_CD 层_NN 较_AD 薄_VA （_PU 通常_AD 小于_VV 0_CD ._PU 6_CD 微米_NN ）_PU 的_DEC 硅_NN 生长_VV 在_P 蓝宝石_NN （_PU 主要_JJ 成分_NN 为_VC 氧化铝_NN ）_PU 晶圆_NN 上_LC 。_PU SOS_CD 技术_NN 是_VC CMOS_NN 技术_NN 中_LC SOI_NR （_PU ，_PU 绝缘体_NN 上_LC 的_DEC 硅_NN ）_PU 的_DEC 一_CD 部分_NN 。_PU
+
+

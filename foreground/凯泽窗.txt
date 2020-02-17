@@ -1,0 +1,18 @@
+﻿凯泽窗_NN
+
+凯泽窗_NN （_PU Kaiserwindow_NN ）_PU 是_VC 由_P 贝尔_NN 实验室_NN 的_DEG JamesKaiser_NN 所_MSP 提出_VV 的_DEC 。_PU 凯泽窗_NN 是_VC 一_CD 个_M 单_AD 参数_NN 的_DEG 窗函数_NN 群_NN ，_PU 用_VV 在_P 数字_NN 信号_NN 处理_NN 中_LC ，_PU 其_PN 定义_NN 如下_VV ：_PU
+
+其中_NN ：_PU
+
+若_CS "_PU N_CD "_PU 为_VC 奇数_NN ，_PU 窗函数_NN 最_AD 大_VA 值_DEV 会_VV 在_P  _PN formula_NR __NN 2_CD  _NN 。_PU 若_NN "_PU N_NN "_PU 为_VC 偶_PN 数_NN ，_PU 窗_NN 函数_NN 最_AD 大_VA 值_VV 会_VV 在_P  _NN formula_NR
+
+若_CS 将_BA 上述_JJ 离散_NN 数列_NN 视为_VV 是_VC 连续_JJ 函数_NN ，_PU 并_CC 进行_VV 傅立叶_NN 变换_NN ：_PU
+
+"_PU w_NN "_PU ("t")_PU 的_DEG 最大值_NN 为_VC "_PU w_NN "_PU (_PU 0_CD )_PU  = _NN 1_CD ._PU  _P 上述_JJ 的_DEG "_PU w_NN "_PU [_PU n_CD ]_PU 数列_NN 为_VC 以下_JJ 函收_NN 的_DEG 取様_NN ：_PU
+
+而且_AD rect_NN ()_PU 为_VC 矩形_NN 函数_NN ._PU &_NN nbsp_NN ；_PU "W"("f")_PU 主瓣_NN 后_LC 的_DEG 第一_OD 个_M 零点_NN 在_P ：_PU
+
+调整_VV "_PU α_NN "_PU 可以_VV 在_P 主瓣_NN 的_DEG 宽度_NN 及_CC 旁瓣_NN 大小_NN 中_LC 进行_VV 取舍_NN 。_PU 若_NN "_PU α_NN "_PU 增加_VV ，_PU "W"("f")_PU 主瓣_NN 的_DEG 宽度_NN 增加_VV ，_PU 而_CC 旁_DT 瓣_NN 的_DEG 大小_NN 减小_VV ，_PU 如_P 右图_NN 所_MSP 示_VV 。_PU "_PU α_NN "_PU  = _NN 0_CD 会_VV 对应_VV 长方形_JJ 的_DEG 窗_NN 函数_NN 。_PU 若_NN "_PU α_NN "_PU 增加_VV ，_PU 时域_NN 及_CC 频率_NN 下_LC 凯泽窗_NN 的_DEG 形状_NN 都_AD 会_VV 接近_VV 高_VA 斯_DT 曲线_NN 。_PU 凯泽窗_NN 在_P 频率_NN 0_CD 附近_VV 的_DEC 集中_JJ 程度_NN 是_VC 几乎_AD 最_AD 优化_VV 的_DEC （_PU Oppenheim_NN "_PU etal_NN ._PU "_PU ,_PU 1999_NN ）_PU 。_PU
+
+
+

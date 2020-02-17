@@ -1,0 +1,13 @@
+﻿拉梅_NN 参数_NN
+
+在_P 线性_JJ 弹性_JJ 力学_NN 中_LC ，_PU 拉梅_NN 参数_NN 包括_VV 以下_JJ 两_CD 个_M 参数_NN ：_PU
+上述_JJ 参数_NN 的_DEC 条件_NN 是_VC 各_DT 向_P 同性_JJ 材料_NN ，_PU 并_CC 在_P 三_CD 维_NN 中_LC 满足_VV 虎_NOI 克_M 定律_NN 。_PU
+
+其_PN 中σ_NN 是_VC 应力_NN ，_PU ε_NN 是_VC 体积_NN 变形量_NN ，_PU formula_NN __NN 3_CD 是_VC 单位_JJ 矩阵_NN ，_PU formula_NN
+
+第一_OD 参_M 数λ_NN 没有_VE 物理_NN 解释_VV ，_PU 但_CC 其_PN 有助_JJ 於化简_NN 胡克_NN 定律_VV 的_DEC 刚度_NN 矩阵_NN 。_PU 两_CD 个_M 参数_NN 构建_VV 了_AS 均质_NN 各_AD 向_P 同性_JJ 介质_NN 的_DEG 弹性_NN 模量_NN 的_DEC 参数化_NN 形式_NN ，_PU 并_CC 与_P 其他_DT 弹性_NN 模量_NN 形成_VV 了_AS 联系_NN 。_PU
+
+拉梅_NN 参数_NN 以_P 拉梅_NN （_PU Gabrie_JJ lLam_NN é_NN ）_PU 的_DEG 名字_NN 命名_NN 。_PU
+
+
+

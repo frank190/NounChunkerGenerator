@@ -1,0 +1,16 @@
+﻿校际_NN 微电子_NN 中心_NN
+
+校际_NN 微电子_NN 中心_NN （_PU InteruniversityMicroelectronicsCentre_NR ，_PU 缩写_VV imec_NN ）_PU ，_PU 又称_NN 比利_VV 时微_NN 电子_NN 研究_NN 中心_NN ，_PU 是_VC 一_CD 个_M 专注_NN 於_P 奈米_NN 科技_NN 的_DEC 世界_NN 领先_AD 研究_VV 中心_NN ，_PU 其_PN 总部_NN 位于_VV 比利_VV 时鲁汶_NN ，_PU 并_CC 在_P 荷兰恩_NN 荷芬_NR 、_PU 台湾_NR 新竹_NN 、_PU 美国_NR 佛罗_NN 里_LC 达_VV 、_PU 印度_NN 设有_VV 研发_VV 中心_NN ，_PU 在_P 中国_NR 和_CC 日本_NR 设有_VV 办事处_NN 。_PU imec_NN 的_DEG 重点_NN 是_VC 下_DT 一_CD 代_M 电子_NN 技术_NN 研究_NN ，_PU 领先_AD 业界_VV 三_CD 年_M 至_CC 十_CD 年_M 技术_NN 需要_VV ，_PU 在_P 全球_DT 半导体_NN 业界_NN 备受_VV 推崇_NN 。_PU 目前_NT 员工_NN 来_MSP 自超_VV 过_AS 70_CD 个_M 国家_NN 共_AD 约_AD 3_CD ,_PU 500_CD 人_NN ，_PU 其中_NN 超过_VV 800_CD 人_NN 为_VC 业界_NN 进驻_VV 工程师_NN 及_CC 顶尖_VV 学校_VV 的_DEC 访问_NN 学者_NN 。_PU
+
+1982_CD 年_M ，_PU 比利_VV 时佛_NN 兰芒区_NN 政府_NN 在_P 微电子_NN 领域_NN 建立_VV 了_AS 一_CD 个_M 方案_NN ，_PU 目的_NN 是_VC 加强_VV 法兰德_NN 斯_DT 的_DEG 微电_NN 子_NN 工业_NN 。_PU 该_DT 决定_JJ 的_DEG 灵感_NN 来自_VV 於_P 微电子_NN 对于_P 该_DT 行业_NN 的_DEG 战略_NN 重要性_AD ，_PU 以及_CC 为跟_P 上_DT 该_DT 领域_NN 发展_VV 所_MSP 需_VV 的_DEC 大量_CD 投资_NN 。_PU
+
+这_DT 个_M 计画_NN 包括_VV 建立_VV imec_NN 微电子_NN 研究_NN 中心_NN 、_PU 半导体厂_NN （_PU 前_JJ 阿尔卡_NN 特微_JJ 电子_NN ，_PU 现在_NT 的_DEG 意法_NN 半导体_NN 和_CC AMI_NN 半导体_NN ）_PU ，_PU 以及_CC 为_VC VLSI_NN 设计_NN 工程师_NN 的_DEG 培训_NN 计划_VV ，_PU 后者_CC 现_AD 已_AD 完全_AD 融入_VV imec_NN 活动_VV 。_PU
+
+Imec_NN 成立_VV 于_P 1984_CD 年_M ，_PU 作为_P 一_CD 个_M 非_AD 营利_NN 组织_NN 由_P 罗杰_NN ·_PU 冯_NR ·_PU 欧弗斯_NR 特雷登_NN （_PU RogerVanOverstraeten_NR ）_PU 教授_NN 领导_VV 。_PU 它_PN 由_P 董事_NN 会_VV 监督_VV ，_PU 其中_NN 包括_VV 来自_VV 工业界_NN 、_PU 佛兰芒_NN 大学_NN 和_CC 佛兰芒_NN 政府_NN 的_DEG 代表_NN 。_PU 自_P 1984_CD 年_M 以来_LC ，_PU imec_NN 由_P 罗杰_NN ·_PU 冯_NR ·_PU 欧弗斯_NR 特雷登_NN 、_PU 吉尔_NN 伯特_NN ·_PU 迪克_NN 勒克_NN （_PU GilbertDeclerck_NN ，_PU 1999年_NT 6月_NT 起_VV ）_PU 和_CC 路克_NN ·_PU 冯_NN ·_PU 登_NN ·_PU 霍夫_NN （_PU LucVandenHove_NN ，_PU 2009年_NT 7月_NT 起_VV ）_PU 领导_VV 。_PU
+
+比利_VV 时鲁汶_NN 的_DEG imec_NN 包括_VV 24_CD ,_PU 400_CD 平方米_M 的_DEG 办公_NN 空间_NN 、_PU 实验室_NN 、_PU 培训_VV 设施_NN 和_CC 技术_NN 支援室_NN 。_PU 总部_NN 核心_NN 是_VC 两_CD 个_M 最_AD 先进_VA 的_DEC 洁净室_NN ，_PU 运行_VV 半_JJ 工业_NN 操作_NN （_PU 24_CD /_PU 7_CD ）_PU 。_PU 有_VE 一_CD 个_M 专注_NN 於_P 研发_VV 10_CD 奈米_M 制程_NN 技术_NN 的_DEG 300_CD 毫米_M 无_VE 尘室_NN （_PU 450_CD 毫米_M 无_VE 尘室_NN 也_AD 已_AD 準备_VV 好_VA ）_PU 和_CC 一_CD 个_M 用来_VV 进行_VV 研究_NN 发展_NN 、_PU 需求_NN 导向_VV 发展_NN 、_PU 原型_NN 和_CC 小_JJ 批量_NN 制造_VV 超过_VV 摩尔_M 定律_NN 的_DEC 技术_NN （_PU 传感器_NN 、_PU 致动器_NN 和_CC MEMS_NR ，_PU NEMS_NR 等_ETC ）_PU 之_DEC 200_CD 毫米_M 无_VE 尘室_NN 。_PU Imec_NN 也_AD 有_VE 硅_NN 和_CC 有机_JJ 太阳_NN 能_VV 电池_NN 的_DEG 生产线_NN 、_PU 生物_NN 电子_NN 学_VV 研究_NN 专_AD 用_P 实验_NN 室_NN ，_PU 以及_CC 材料_NN 表_VV 征_NN 和_CC 可靠性_NN 测试_VV 的_DEC 设备_NN 。_PU 对于_P 直观物_NN 联网_VV 技术_NN 的_DEC 研究_NN ，_PU imec_NN 拥有_VV 传感器_NN 、_PU 成像_NN 技术_NN 、_PU 无线_AD 连接_VV 的_DEC 专用_JJ 实验室_NN 。_PU
+
+世界_NN 知名_NN 企业_NN Samsung_NR 、_PU Intel_NN 、_PU Qualcomm_NN 、_PU TSMC_NN 、_PU GlobalFoundries_NN 、_PU Infineon_NN 等_ETC 均_AD 有_VE 合作_JJ 计画_NN 。_PU
+
+
+

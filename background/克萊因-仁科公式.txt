@@ -1,0 +1,5 @@
+﻿克_NN 莱因_NN -_PU 仁科_NN 公式_NN
+
+克_M 莱因_NN -_PU 仁科_NN 公式_NN 给出_VV 了_AS 最_AD 低阶_VA 的_DEC 量子_NN 电动_NN 力学_NN 中_LC 从_P 单个_NN 自由_P 电子_NN 散射_NN 出来_VV 的_DEC 光子_NN 的_DEC 微分截_NN 面_NN 。_PU 在_P 低频_JJ 情况_NN 下_LC （_PU 例如_AD 可见光_NN ）_PU 可_VV 推出_VV 汤姆孙_NN 散射_VV ；_PU 在_P 更高_JJ 频率_NN 下_LC （_PU 例如_AD X射线_NN 以及_CC 伽_P 马射线_NN ）_PU 可_VV 推出_VV 康普顿_NN 散射_VV 。_PU
+
+

@@ -1,0 +1,7 @@
+﻿_NN 弹簧秤_NN
+
+弹簧秤_NN ，_PU 是_VC 利用_VV 弹簧_NN 的_DEG 变形_NN 来_MSP 测量_VV 作_VV 用力_NN 大小_NN 或_CC 物体_NN 重量_NN 的_DEC 仪器_NN 。_PU 作用_NN 力_NN 的_DEG 大小_NN 可以_VV 从_P 弹簧秤_NN 的_DEG 指针_NN 和_CC 外壳_NN 上_LC 的_DEG 标度_NN 直接_AD 读出_VV 。_PU
+
+弹簧秤_NN 可_VV 根据_P 其_PN 运作_NN 原理_NN 细_AD 分为_VV 拉力_NN 弹簧秤_NN 和_CC 压力_NN 弹簧秤_NN 。_PU
+
+

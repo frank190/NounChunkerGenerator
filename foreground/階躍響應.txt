@@ -1,0 +1,130 @@
+﻿阶跃_NN 响应_NN
+
+阶跃_NN 响应_NN 是_VC 指_VV 系统_NN 在_P 其_PN 输入_VV 为_VC 单位_JJ 阶跃_NN 函数_NN 时_LC ，_PU 其_PN 输出_VV 的_DEC 变化_NN 。_PU 在_P 电子_NN 工程_NN 或_CC 自动_AD 控制_VV 领域_NN 中_LC ，_PU 阶跃_NN 响应_NN 是_VC 指_VV 系统_NN 的_DEG 输入_NN 在_P 很_AD 短_JJ 时间_NN 由_P 0_CD 变成_VV 1_CD 时_LC ，_PU 其_PN 输出_VV 的_DEC 时域_NN 特性_NN 。_PU 此_DT 概念_NN 可以_VV 延伸_VV 到_VV 使用_VV 抽象_NN 数学_NN 概念_NN 的_DEC 动力_NN 系统_NN ，_PU 以_MSP 演化_VV 参数_NN 表示_VV 其_PN 特性_NN 。_PU
+
+分析_NN 系统_NN 的_DEG 阶跃_NN 响应_VV 有_VE 助於_VV 了_AS 解系统_NN 的_DEG 特性_NN ，_PU 因为_P 当_P 输入_VV 在_P 长_JJ 时间_NN 稳态_VA 后_LC ，_PU 有_VE 快速_VA 而_CC 大幅度_AD 的_DEG 变化_NN ，_PU 可以_VV 看出_VV 系统_NN 各_DT 个_M 部份_NN 的_DEG 特性_NN 。_PU 而且_CC 也_AD 可以_VV 知道_VV 系统_NN 的_DEG 稳定性_NN 。_PU
+
+一统_JJ 的_DEG 阶跃_NN 响应_NN 可以_VV 用_P 与_P 以下_JJ 时域_NN 特性_NN 的_DEC 量_NN 来_MSP 描述_VV ：_PU
+
+对于_P 线性_JJ 动态_NN 系统_NN 来说_LC ，_PU 从_P 这些_DT 特征_NN 中_LC 可以_VV 推知_VV 许多_CD 该_DT 系统_NN 的_DEG 信息_NN 。_PU
+
+考虑_VV 如_P 右图_NN 的_DEG RC_NN 电路_NN ，_PU 频域_NN 下_LC 输出_VV 电压V_NN 和_CC 输入_NN 电压_NN V_NN 的_DEG 关系_NN 可_VV 表示_VV 为_VC 下式_NN ：_PU
+
+其中_NN formula_NN
+
+考虑_VV 以下_JJ 形式_NN 的_DEG 输入_NN 电压_NN V_NN (_PU t_NN )_PU ：_PU
+
+则_AD 输出_VV 电压_NN V_NN (_PU t_NN )_PU 可以_VV 表示_VV 为_VC 以下_JJ 的_DEG 形式_NN ：_PU
+本_DT 节_NN 介绍_VV 了_AS 一_CD 个_M 简单_VA 的_DEC 负_VV 反馈_NN 放大器_NN 的_DEG 阶跃_NN 响应_VV 如_P 图_NN 1_CD 所_MSP 示_VV 。_PU 反馈_VV 放大器_NN 由_P 一_CD 个_M 增益_NN 为_VC "_PU A"_NN 的_DEG 主开环_NN 放大器_NN 和_CC 反馈_NN 因子_AD 为_VC β_NN 的_DEG 反馈_NN 回路_NN 。_PU 以下_JJ 会分_NN 析此_AD 回授_VV 放大器_NN ，_PU 确认_VV 其_PN 阶跃_NN 响应_NN 和_CC 控制_VV 响应_NN 的_DEC 时间_NN 常数_NN 之间_LC 的_DEG 关系_NN ，_PU 也_AD 看_VV 阶跃_NN 响应_NN 和_CC 回授量_NN 之间_LC 的_DEG 关系_NN 。_PU
+
+负反馈_NN 放大器_NN 增益_VV 为_VC （_PU 见负_JJ 反馈_NN 放大器_NN ）_PU ：_PU
+
+其中_NN
+
+在_P 许多_CD 情况_NN 下_LC ，_PU 可以_VV 用_VV 时间_NN 常数τ_NN 的_DEC 单一主_JJ 导极点_NN 很_AD 好_VA 地_DEV 模拟_VV 正向_JJ 放大器_NN ，_PU 它_PN 的_DEG 开环_NN 增益_VV 为_VC ：_PU
+
+零频率_NN 增益_VV 为_VC "_PU A_NN "_PU ，_PU 角频率_NN ω=_NN 2_CD π_NN "_PU f_NN "_PU 。_PU 这_DT 种_M 正向_JJ 放大器_NN 有_VE 单位阶_NN 跃_VV 响应_NN
+
+是_VC 从_P 零到_JJ 新平_JJ 衡值_NN "_PU A_NN "_PU 的_DEG 指数_NN 趋近_VV 。_PU
+
+单极点_NN 放大器_NN 的_DEG 传递_NN 函数_NN 导出_VV 闭环_NN 增益_VV ：_PU
+
+此_DT 闭环_NN 增益_NN 与_CC 开环_NN 增益_VV 是_VC 形式_NN 相同_VA ：_PU 均_AD 为_VC 单极_JJ 滤波器_NN 。_PU 其_PN 阶跃_NN 响应_VV 的_DEC 形式_NN 相同_VA ：_PU 一_CD 个_M 趋于_VV 新平_JJ 衡值_NN 的_DEC 指数_NN 衰减_VV 。_PU 但_CC 闭环_NN 阶跃_NN 函数_NN 的_DEG 时间_NN 常数_NN 为_VC τ_NN /_PU (_PU 1_CD +_M β_NN "_PU A_NN "_PU )_NN ，_PU 因此_AD 因_P 此它_DT 比_NN 前_LC 向_P 放大器_NN 的_DEG 响应_NN 快_VA ，_PU 是_VC 其_PN 1_CD +_M β_NN "_PU A_NN "_PU 倍_NN ：_PU
+
+由于_P 反馈_NN 因_P 子β_NN 的_DEG 增加_NN ，_PU 阶跃_NN 响应_VV 会_VV 更快_VV ，_PU 直到_VV 最初_AD 假设_VV 的_DEC 一_CD 个_M 主_JJ 导极点_NN 不_AD 再_AD 准确_VA 。_PU 如果_CS 有_VE 第二_OD 个_M 极_NN 点_LC ，_PU 则_AD 随着_P 闭_VV 环_M 时间_NN 常数_NN 区域_NN 第二_OD 个_M 极点_JJ 的_DEG 时间_NN 常数_NN ，_PU 需要_VV 进行_VV 双极点_NN 分析_NN 。_PU
+
+在_P 开环_NN 增益_VV 有_VE 两_CD 个_M 极点_NN 的_DEC 情况_NN 下_LC （_PU 两_CD 个_M 时间_NN 常数_NN ，_PU τ_NN 和_CC τ_NN ）_PU ，_PU 阶跃_NN 响应_NN 更为_AD 复杂_VA 。_PU 开环_NN 增益_VV 为_VC ：_PU
+
+零频率_NN 增益_VV 为_VC "_PU A_NN "_PU ，_PU 角频率_NN ω=_NN 2_CD π_NN "_PU f_NN "_PU 。_PU
+
+双极点_NN 放大器_NN 的_DEG 传递_NN 函数_NN 可以_VV 导出_VV 闭环_NN 增益_VV ：_PU
+
+放大器_NN 的_DEG 时间_NN 相关性_NN 通过_P 切换_NN 变量_NN "_PU s_NN "_PU =_NN "_PU j_NN "_PU ω_NN 很_AD 容易_AD 发现_VV ，_PU 于是_AD 增_VV 益_NN 变为_VV ：_PU
+
+这_DT 个_M 表达式_NN 的_DEG 极点_NN （_PU 即_AD 分母_VV 的_DEC 零点_NN ）_PU 位于_VV ：_PU
+
+这_PN 说明_VV 对于_P 足够_VA 大_VA "_PU β_VV A_NN "_PU 平方根_NN 就_AD 会_VV 变成_VV 虚数_NN ，_PU 极点_NT 的_DEG 位置_NN 是_VC 共_P 轭_NN 复_CC 数_NN ，_PU "_PU s_NN "_PU 与_CC "_PU s_NN "_PU ；_PU 参见_VV 图_NN 2_CD ：_PU
+
+其中_NN
+
+而_AD
+使用_VV 极坐标_NN 系_NN ，_PU 根_NN 的_DEG 半径_NN 的_DEC 模_NN 为_VC |_NN "_PU s_NN "_PU |_NN （_PU 图_NN 2_CD ）_PU ：_PU
+
+而_AD 角_JJ 坐标φ_NN 为_VC ：_PU
+
+拉普拉_VV 斯_DT 变换_NN 表_VV 告诉_VV 我们_PN 这样_JJ 一_CD 个_M 系统_NN 的_DEG 时间_NN 响应_VV 是_VC 由_P 两_CD 个_M 函数_NN 的_DEG 组合_NN 而_MSP 成_VV 的_SP ：_PU
+
+也就是说_AD ，_PU 解_VV 在_P 时间_NN 上_LC 阻尼_NN 振荡_NN 。_PU 特别是_AD ，_PU 该_DT 系统_NN 的_DEC 单位阶_NN 跃_VV 响应_NN 为_VC ：_PU
+
+化简_NN 为_VC
+
+当_P "_PU A_NN "_PU 趋于_VV 无穷_AD 大_VA 时_LC ，_PU 反馈系_NN 数β_NN 为_VC 1_CD 。_PU
+
+注意_VV 到_VV 响应_VV 的_DEC 阻尼_NN 是_VC 由_P ρ_NN 决定_VV 的_DEC ，_PU 也就是_AD 由_P 开环_NN 放大器_NN 的_DEG 时间_NN 常数_NN 确定_VV 的_DEC 。_PU 相反_VV ，_PU 振荡_VV 的_DEC 频率_NN 是_VC 由_P μ_NN 确定_VV 的_DEC ，_PU 也就是_AD 由_P ,_PU 通过_P β_NN "_PU A_NN "_PU 由_P 反馈_NN 参数_NN 确定_VV 的_DEC 。_PU 因为_P ρ_NN 涉及_VV 到_VV 时间_NN 常数_NN 的_DEC 倒数_NN 之_NN 和_CC ，_PU 所以_AD 可以_VV 发现_VV ρ_AS 主要_AD 受到_VV 两_CD 个_M 时间_NN 常数_NN 中_LC "_PU 较_AD 短_VA "_PU 的_DEG 那_DT 个_M 影响_NN 。_PU
+
+图_NN 3_CD 显示_VV 了_AS 参数_NN μ取_NN 3_CD 个_M 不同_JJ 值_NN 时_LC ，_PU 单元_NN 阶_NN 跃_AD 输入_VV 的_DEC 时间_NN 响应_VV 。_PU 可以_VV 看出_VV 随着_P μ_PN 增加_VV ，_PU 振荡_VV 频率_NN 也_AD 会_VV 增加_VV ，_PU 但_CC 振荡_NN 被_SB 包含_VV 在_P 由_P 指数型_JJ 函数_NN [_PU  _NN 1_CD  _NN − _NN exp_NN  _NN (_PU −ρ_NN t_NN )_PU  _NN ]_PU 和_CC [_PU  _AD 1_CD  +_NN  _NN exp_NN (_PU −ρ_NN t_NN )_PU  _NN ]_PU 确定_VV 的_DEC 两_CD 条_M 渐近线_NN 以内_LC 。_PU 这_DT 两_CD 条_M 渐近线_NN 是_VC 由_P ρ_NN 决定_VV 的_DEC ，_PU 所以_AD 也_AD 就_AD 由_P 开环_NN 放大器_NN 的_DEG 时间_NN 常数_NN 决定_VA ，_PU 与_P 反馈_NN 无_VE 关_NN 。_PU
+
+终值_NN 的_DEC 振荡_NN 现象_NN 被_SB 称为_VV 振铃_NN 。_PU 过冲_NN 是_VC 指_VV 摆动_VV 最_AD 大_JJ 值高于_VV 终_AD 值_VV ，_PU 显然_AD 会_VV 随着_P μ_PN 增加_VV 。_PU 同样_AD ，_PU 下_JJ 冲_NN 是_VC 指_VV 摆动_VV 最_AD 小值_NN 低于_VV 终_MSP 值_VV ，_PU 同样_AD 也_AD 会_VV 随着_P μ_AD 增加_VV 。_PU 安定_NN 时间_NN 是_VC 指_VV 从_P 终值_NN 出发_VV ，_PU 降到_VV 低于_VV 某_DT 个_M 特定_JJ 水平_NN （_PU 终值_NN 的_DEC 10%_NN ）_PU 用_VV 的_DEC 时间_NN 。_PU
+
+稳定_JJ 时间_NN 对_AD μ_VA 的_DEC 依赖性_NN 不_AD 明显_VA ，_PU 而_CC 双极点_NN 系统_NN 的_DEC 近似_JJ 可能_NN 不_AD 能_VV 达到_VV 用_P 稳定_JJ 时间_NN 对_P 反馈_NN 的_DEC 依赖性_NN 作出_VV 现实_NT 中_LC 的_DEG 结论_NN 的_DEC 准确性_NN 。_PU 但_CC 渐_AD 近_JJ 线_NN [_PU  _NN 1_CD  _NN − _NN exp_NN  _NN (_PU −ρ_NN t_NN )_PU  _NN ]_PU 与_CC [_PU  _JJ 1_CD  _NN +_CC  _NN exp_NN  _NN (_PU −ρ_NN t_NN )_PU  _NN ]_PU 显然_JJ 影响_NN 稳定_VA 时间_NN ，_PU 它们_PN 被_SB 开环_VV 放大器_NN 的_DEG 时间_NN 常数_NN 控制_VV ，_PU 特别_AD 是_VC 在_P 2_CD 个_M 时间_NN 常数_NN 中_LC 的_DEG 时间_NN 较_AD 短_VA 的_DEC 。_PU 这_DT 表明_NN 开_VV 环_NN 放大器_NN 的_DEG 设计_NN 必须_VV 满足_VV 稳定_VA 时间_NN 的_DEG 规定_NN 。_PU
+
+此_DT 分析_NN 的_DEG 有_VE 两_CD 个_M 主要_JJ 结论_NN ：_PU
+
+顺便_AD 说_VV 一_CD 句_M ，_PU 可以_VV 注意_VV 到_VV 实际_NN 中_LC 与_P 线性_JJ 双极点_NN 模型_NN 的_DEG 偏离_NN 主要_AD 来自_VV 两_CD 个_M 方面_NN ：_PU 其_PN 一_CD ，_PU 实际_JJ 放大器_NN 的_DEG 极点_NN 多于_VV 两_CD 个_M ，_PU 零点_NN 也_AD 是_VC ；_PU 其_PN 二_CD ，_PU 实际_JJ 放大器_NN 是_VC 非_JJ 线性_JJ 的_DEG ，_PU 所以_AD 它们_PN 的_DEG 阶跃_NN 响应_NN 会_VV 随着_P 信号_NN 幅度_NN 变换_NN 。_PU
+以下_LC 会_VV 说明_VV 如何_DT 用_VV 适当_VA 的_DEC 参数_NN 选择_NN 来_MSP 减少_VV 过_AS 冲_VV 。_PU
+
+利用_VV 以上_JJ 的_DEG 公式_NN ，_PU 可以_VV 将_BA 阶跃_NN 响应_NN 微分_NN 找_VV 最_AD 大_VA 值_DEV 来_VV 计算_VV 过_AS 冲量_NN 。_PU 其_PN 过冲量_NN 最_AD 大_VA 值_SP "_PU S_NN "_PU 为_VC ：_PU
+
+阶跃_NN 响应_VV 的_DEC 终值_NN 为_VC 1_CD ，_PU 因此_AD 其_PN 指数_NN 即_AD 为过_P 冲量_NN 。_PU 可以_VV 看出_VV 若_CS μ=_NN 0_CD ，_PU 其_PN 过冲量_NN 为_VC 0_CD ，_PU 也就_AD 是_VC ：_PU
+
+令_NN "_PU x_NN "_PU =_NN (_PU τ_NN /_PU τ_NN )_PU ，_PU 可以_VV 求解_VV 二_CD 个_M 时间_NN 常数_NN 之间_LC 的_DEG 比例_NN ，_PU 结果_AD 为_VC
+
+因为_P β_NN "_PU A_NN "_PU »_NN 1_CD ，_PU 因此平_AD 方根_NN 中_LC 的_DEG 1_CD 可以_VV 省略_VV ，_PU 得到_VV
+
+换句话说_AD ，_PU 第一_OD 个_M 时间_NN 常数_NN 需_VV 远大于_VV 第二_OD 个_M 时间_NN 常数_NN 。_PU 有时_NT 系统_NN 为了_P 一些_CD 特性_NN ，_PU 需要_VV 允许_VV 一些_CD 过冲量_NN ，_PU 以下_NN 的_DEC 关系_NN 中_LC 引入_VV 一_CD 个_M 因子α_NN ：_PU
+
+α_CD 可以_VV 依_P 允许_VV 的_DEC 过冲量_NN 来_MSP 设计_VV 。_PU
+
+图_NN 4_CD 就_AD 是_VC 描述_VV 其_PN 程序_NN 。_PU 比较_VV 上_JJ 图_NN （_PU α=_NN 4_CD ）_PU 及_CC 下图_JJ （_PU α _NN =_CC  _NN 0.5_CD ）_PU 可以_VV 看出_VV α较_NN 小_VA ，_PU 可以_VV 加快_VV 响应_VV 的_DEC 速度_NN ，_PU 但_CC 也_AD 让_VV 过_AS 冲量_NN 变大_VV 。_PU 中间_NN 的_DEC 图_NN α_NN  = _NN 2_CD 为_VC 幅度_NN 最_AD 平坦_VA 的_DEC 滤波器_NN ，_PU 在_P 波德图_NN 上_LC 没有_VE 尖_NN 点_NN 。_PU 此_PN 设计_VV 有_VE 经_P 验法_NN 则_AD 内建_VV 的_DEC 安全_NN 预度_NN ，_PU 可以_VV 处理_VV 像_P 重_AD 零_CD 点_M 、_PU 重极点_NN 、_PU 非线性_NN （_PU 例如_AD 和_P 信号_NN 振幅_NN 相依_VV 的_DEC 特性_NN ）_PU 及_CC 制造_VV 的_DEC 变异_NN ，_PU 这些_DT 都_AD 可能_VV 造成_VV 过_AD 大_VA 的_DEC 过冲量_NN 。_PU 极_CD 点_M 摆放_NN 位置_NN （_PU 也就_AD 是_VC α_NN ）_PU 的_DEG 调整是_NN 的_DEG 主题_NN ，_PU 其中_NN 一_CD 个_M 方式_NN 是_VC 。_PU
+
+图_NN 3_CD 中_LC 阶跃_NN 响应_NN 中振铃_NN 的_DEG 幅度_NN 是_VC 由_P 阻尼_NN 因_P 数_NN exp_NN (_PU −ρ_NN t_NN )_PU 决定_VV 的_DEC 。_PU 也就是说_AD ，_PU 如果_CS 我们_PN 指_VV 定出_VV 可_VV 接受_VV 的_DEC 阶跃_NN 响应_VV 离终值_NN 的_DEC 偏移量Δ_NN ，_PU 即_AD ：_PU
+
+在_P 时间_NN 长于_VV 稳定_JJ 时间_NN "_PU t_NN "_PU 这_DT 个_M 前提_NN 下_LC ，_PU 无_VE 论β_NN "_PU A_NN "_PU 的_DEG 值_NN 为_VC 多少_JJ 时_NN 这_DT 个_M 条件_NN 都_AD 能_VV 满足_VV 。_PU 稳定_JJ 时间_NN "_PU t_NN "_PU 为_VC ：_PU
+
+因为_AD 过冲_VV 的_DEC 条件_NN ，_PU τ _NN =_AD  _VA "_PU αβ_NN A_NN "_PU τ_NN ，_PU 因此_AD τ »_NR  τ_NN 成立_VV 。_PU 一般_JJ 稳定_NN 时间_NN 条件_NN 是_VC 指_VV 稳定_JJ 时间_NN 和_CC 其_PN 单位_NN 增益_VV 的_DEC 频宽_NN 成_VV 反比_VV 的_DEC 情形_NN ，_PU 原因_AD 是_VC 1_CD /_PU (2_CD π τ_NN )_PU 接近_VV 放大器_NN 在_P 典型_JJ 下_NN 的_DEG 频宽_NN 。_PU 不_AD 过_VV 此_DT 结果_NN 比_P 经验_NN 法则_VA 的_DEC 结果_NN 更_AD 準确_VA 。_PU 例如_AD ，_PU 若_CS Δ _NN =_NOI  _NN 1_CD /_PU e_NN  = _NN 1_CD ._PU 8%_CD ，_PU 其_PN 稳定_NN 时间_NN 为_VC "_PU t_NN "_PU  = _NN 8_CD  τ_VV 。_PU
+
+一般而言_AD ，_PU 对_P 过冲量_NN 的_DEG 控制会_NN 决定_VV 二_CD 个_M 时间_NN 常数_NN 的_DEC 比例_NN ，_PU 稳定_VV 时间_NN "_PU t_NN "_PU 会_VV 决定_JJ  τ_NN
+
+其次_AD ，_PU 极点_NN 比_P 例τ_NR /_PU τ也_NR 和_CC 回_VV 授_NN 放大器_NN 的_DEG 相位_NN 裕度_NN 有关_VV 。_PU 图_NN 5_CD 是_VC 二_CD 个_M 极点_NN 放大器_NN 的_DEG 波德图_NN ，_PU 频率_VV 到_VV 第二_OD 个_M 极_AD 点_VA 的_DEC 位置_NN 。_PU 图_NN 5_CD 的_DEG 假设_NN 是_VC 频率_NN "_PU f_CD "_PU 在_P 位在_NT "_PU f_NN "_PU  = _NN 1_CD /_PU (2_CD πτ_NN )_PU 的_DEG 最_AD 小_JJ 极点_NN 及_CC 位在_P "_PU f_NN "_PU  = _NN 1_CD /_PU (2_CD πτ_NN )_PU 的_DEC 第二_OD 极_M 点_NN 之间_LC 。_PU 如_P 图_NN 5_CD 所_MSP 示_VV ，_PU 若_CS  α ≥_NN  _NN 1_CD ，_PU 此_DT 假设_CS 即_AD 成立_VV 。_PU
+
+利用_VV 图_NN 5_CD ，_PU 频率_NN （_PU 用_P "_PU f_NR "_PU 表示_VV )_PU 为_VC 回路_NN 增_VV 益_NN β_NN "_PU A_NN "_PU 满足_VV 单位_NN 增_VV 益_NN 或_CC 是_VC 0_CD  _NN dB_NN 条件_NN 的_DEC 位置_NN ，_PU 可_VV 以_P 定义_VV 为_VC ：_PU
+
+波德_NN 增益图_NN 中_LC 增益_VV 下降_VV 的_DEC 斜率_NN 是_VC 20_CD  _M dB_NN /_PU decade_NN ，_PU 频率_NN 每_AD 增加_VV 十_CD 倍_M ，_PU 增益_NN 下降_VV 的_DEC 比例_NN 相同_VA ：_PU
+
+相位_NN 裕度_NN 是_VC 频率_NN 在_P "_PU f_NN "_PU 处_NN ，_PU 相位_NN 和_CC −_NN 180_CD °_M 之间_LC 的_DEG 距离_NN ，_PU 因此_AD 裕度_NN 为_VC ：_PU
+
+因为_P "_PU f_NN "_PU /"f"= "βA"_PU  » _NN 1_CD ，_PU 有关_P "_PU f_NN "_PU 的_DEG 项_NN 为_VC 90_CD °_M ，_PU 因此_AD 相_BA 位_NN 裕度_NN 为_VC ：_PU
+
+若_CS α=_NN 1_CD ，_PU 则_AD φ=_NN 45_CD °_M ，_PU 若_CS α=_NN 2_CD ，_PU 则_AD φ=_NN 63_CD ._PU 4_CD °_M ._PU Sansen_NN 建议_NN α=_NN 3_CD ，_PU 对应_VV 的_DEC φ=_NN 71_CD ._PU 6_CD °_M 「_PU 是_VC 一_CD 种_M 很_AD 好_VA 的_DEC 启始_JJ 条件_NN 。_PU 」_PU
+
+若τ_CS 缩短_VV ，_PU α_AD 会_VV 增加_VV 。_PU 稳定_VA 时间_NN "_PU t_NN "_PU 也_AD 会_VV 减小_VV 。_PU 若_CS τ变_NN 大_VA ，_PU α_AD 也_AD 会_VV 增加_VV ，_PU 稳定_VV 时间_NN 会_VV 略有_VV 变动_VV 。_PU 若用_VV 到_VV 技巧_NN ，_PU τ_NN 和_CC τ_NN 都_AD 会_VV 变化_VV 。_PU
+
+若_CS 放大器_NN 有_VE 二_CD 个_M 以上_LC 的_DEG 极_NN 点_LC ，_PU 图_NN 5_CD 的_DEG 波德_NN 图_NN 仍然_AD 可以_VV 计算_VV 相位_JJ 裕度_NN ，_PU 只要_CS 将_BA "_PU f_NN "_PU 视为_VV 「_PU 等效_JJ 的_DEG 第二_OD 极点_NN 」_PU 位置_NN 即_AD 可_VV 。_PU
+
+本_DT 节_NN 以_P 抽象_NN 概_AD 念下_VV 的_DEC formula_NN
+
+若_CS 针对_VV 一_CD 个_M 一般_JJ 的_DEG 动态_NN 系统_NN ，_PU 其_PN 阶跃_NN 响应_NN 可_VV 定义_VV 如下_VV ：_PU
+
+其_PN 阶跃_NN 响应_NN 是_VC 系统_NN 输入_VV 为_VC 单位_JJ 阶跃_NN 函数_NN 时_LC 的_DEG 演化_NN 函数_NN 。_PU 表示_VV 式_NN 中_LC "_PU H_NN "_PU ("t")_PU 为_VC 下标_NN 。_PU
+
+对于_P 一_CD 个_M 线性_JJ 非_JJ 时变_NN 系统_NN ，_PU 令_VV formula_NN (_NN "_PU t_NN "_PU )_NN 和_CC 系统_NN 冲激_VV 响应_NN "_PU h_NN "_PU ("t")_PU 的_DEG 卷积_NN 来_MSP 表示_VV ：_PU
+
+对线性_JJ 非_JJ 时变_NN 系统_NN 而_MSP 言就_VV 是_VC 将_BA 后面_NN 的_DEC 式子_NN 积分_NN 。_PU 相对_VV 的_DEC ，_PU 对于_P 线性_JJ 非_JJ 时变_NN 系统_NN ，_PU 阶跃_NN 响应_VV 的_DEC 微分_NN 即_AD 为_VC 冲激_JJ 响应_NN ：_PU
+
+不过_P 此_DT 关系_JJ 在_P 非线性_JJ 系统_NN 或_CC 是_VC 时变_NN 系统_NN 并_AD 不_AD 成立_VV 。_PU
+
+对于_P 一_CD 个_M 线性_JJ 非_JJ 时变_NN 系统_NN ，_PU 其_PN 阶跃_NN 响应_NN 可以_VV 用_P 单位阶_NN 跃_VV 函数_NN "_PU H_NN "_PU (_NN "_PU t_NN "_PU )_NN 和_CC 系统_NN 冲_VV 激_JJ 响应_NN "_PU h_NN "_PU ("t")_PU 的_DEG 卷积_NN 来_MSP 表示_VV ：_PU
+
+
+
+

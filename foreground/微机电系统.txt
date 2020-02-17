@@ -1,0 +1,38 @@
+﻿微_NN 机电_NN 系统_NN
+
+微机电_NN 系统_NN （_PU ，_PU 缩写_VV 为_VC MEMS_NN ）_PU 是_VC 将_BA 微电子_NN 技术_NN 与_P 机械_NN 工程_NN 融合_VV 到_VV 一起_NN 的_DEC 一_CD 种_M 工业_NN 技术_NN ，_PU 它_PN 的_DEG 操作_NN 范围_NN 在_P 微米_NN 范围_NN 内_LC 。_PU 比_P 它_PN 更_AD 小_VA 的_DEC ，_PU 在_P 纳米_NN 范围_NN 的_DEC 类似_JJ 技术_NN 被_SB 称为_VV 纳_VV 机电_NN 系统_NN （_PU nanoelectromechanicalsystems_NN ，_PU N_CD EMS_M ）_PU 。_PU 微机电_NN 系统_NN 在_P 日本_NR 被_SB 称作_VV 微机械_NN （_PU micromachines_NN ）_PU ，_PU 在_P 欧洲_NN 被_SB 称作_VV 微_JJ 系统_NN 技术_NN （_PU MicroSystemsTechnology_NR ，_PU MST_NN ）_PU 。_PU
+
+微机电_NN 系统_NN 与_CC 或_CC 的_DEG 超前_JJ 概念_NN 不同_VA 。_PU 微机电_NN 系统_NN 由_P 尺寸_NN 为_VC 1_CD 至_CC 100_CD 微米_NN （_PU 0_CD ._PU 001_CD 至_CC 0_CD ._PU 1_CD 毫米_M )_PU 的_DEC 部件_NN 组成_VV ，_PU 而且_CC 微机_NN 电_NN 设备_NN 的_DEG 尺寸_NN 通常_AD 在_P 20_CD 微米_M 到_VV 一_CD 毫米_M 之间_LC 。_PU 它们_PN 内部_NN 通常_AD 包含_VV 一_CD 个_M 微_JJ 处理器_NN 和_CC 若干_CD 获取_VV 外界_NN 信息_NN 的_DEC 微型_JJ 传感器_NN 。_PU 相比_JJ 大_JJ 尺寸_NN 的_DEC 机械_NN 装置_NN ，_PU 由于_P MEMS_NN 的_DEG 大_JJ 表面积_NN 与_CC 体积_NN 比_NN ，_PU MEMS_NN 在_P 设计_NN 时_LC 需要_VV 考虑_VV 环境_NN 电磁_NN 作用_NN （_PU 例如_AD 静电荷_NN 和_CC 磁矩_NN ）_PU 和_CC 流体_NN 动力学_NN （_PU 例如_AD 表面_NN 张力_NN 和_CC 粘度_NN ）_PU 。_PU MEMS_NN 技术_NN 与_P 分子_NN 纳米_NN 技术_NN 或_CC 分子_NN 电子_NN 学_NN 的_DEG 区别_NN 在于_VV 后者_NN 还_AD 必须_VV 考虑_VV 表面_NN 化学_NN 。_PU
+
+微机电_NN 系统_NN 的_DEG 加工_NN 技术_NN 由_P 半导体_NN 加工_NN 技术_NN 改造_VV 而_MSP 来_VV ，_PU 使_VV 其_PN 可以_VV 应用_VV 到_VV 实际_JJ 当中_NN ，_PU 而后者_AD 一般_AD 用来_VV 制造_VV 电子_NN 设备_NN 。_PU 其_PN 加工_NN 方式_NN 包含_VV 了_AS moldingandplating_NN ，_PU 湿_AD 法_NN 刻蚀_NN （_PU 氢氧化钾_NN ，_PU 四甲基_NN 氢氧化铵_NN ）_PU 和_CC 干法刻蚀_NN （_PU RIE_NN 和_CC DRIE_NN ）_PU ，_PU 电火_NN 花加工_NN （_PU EDM_NN ）_PU ，_PU 和_CC 其他_DT 一些_CD 能够_VV 制造_VV 小型_JJ 设备_NN 的_DEG 加工_NN 方式_NN 。_PU
+
+苹果_NN 公司_NN 的_DEC 设备_NN 以_P MEMS_NN 时钟_NN 代替_VV 石_NN 英钟_NN 。_PU 氦_NN 原子_NN 会_VV 破坏_VV MEMS_NN 积体_NN 电路_NN ，_PU 使_VV 氦气_NN 影响_VV iPhone_NN 、_PU AppleWatch_NN 和_CC iPad_NN 等_ETC 设备_NN 。_PU
+
+微型_JJ 机械_NN 的_DEG 概念_NN 在_P 相应_JJ 的_DEG 加工_NN 技术_NN 出现_VV 之前_AD 就_AD 被_SB 提出_VV 了_AS 。_PU 1959_CD 年_M ，_PU 理查德_NN ·_PU 费曼_VV 在_P 加州理_NN 工学_NN 院进_NN 行题_NN 为_VC 《_PU 》_PU 的_DEG 演讲_NN 。_PU 费曼_VV 在_P 演讲_NN 中_LC 提出_VV 了_AS 在_P 原子_NN 尺度_NN 上_LC 操纵_NN 物质_NN 的_DEC 可能性_NN 以及_CC 将_BA 面临_NN 的_DEC 挑战_NN 。_PU
+1964_CD 年_M ，_PU 西屋_NN 公司_NN 的_DEC 一_CD 支_M 团队_NN 制造_VV 出_VV 了_AS 第一_OD 批_M 微机_NN 电_NN 设备_NN 。_PU 这_DT 种_M 设备_NN 名叫谐_NN 振栅_NN 极晶体管_NN （_PU ）_PU
+
+微机电_NN 系统_NN 是_VC 微米_JJ 大小_NN 的_DEC 机械_NN 系统_NN ，_PU 其中_NN 也_AD 包括_VV 不同_JJ 形状_NN 的_DEC 三维_JJ 平板_NN 印刷_NN 产生_VV 的_DEC 系统_NN 。_PU 这些_DT 系统_NN 的_DEG 大小_NN 一般_AD 在_P 微米_VV 到_VV 毫米_M 之间_LC 。_PU 在_P 这_DT 个_M 大小_NN 范围_NN 中_LC 日常_VV 的_DEC 物理_NN 经验往往_P 不_AD 适用_VV 。_PU 比如_AD 由于_P 微机电_NN 系统_NN 的_DEG 面积_NN 对_P 体积_NN 比比_P 一般_JJ 日常_JJ 生活_NN 中_LC 的_DEC 机械_NN 系统_NN 要_VV 小_JJ 得_AD 多_VA ，_PU 其_PN 表面_NN 现象_NN 如_P 静电_NN 、_PU 润湿_NN 等_ETC 比体_NN 积现_VV 象_P 如_P 惯性_NN 或_CC 热_JJ 容量_NN 等_ETC 要_VV 重要_VA 。_PU 它们_PN 一般_AD 是_VC 由_P 类似于_VV 生产_VV 半导体_NN 的_DEC 技术_NN 如_P 表面_NN 微_VV 加工_VV 、_PU 体型_NN 微加工_NN 等_ETC 技术_NN 制造_VV 的_DEC 。_PU 其中_NN 包括_VV 更改_VV 的_DEC 硅_NN 加工_NN 方法_NN 如_P 压延_NN 、_PU 电镀_NN 、_PU 湿蚀刻_NN 、_PU 干蚀刻_NN 、_PU 电火_NN 花加工_NN 等等_ETC 。_PU
+
+生产_NN 微机_NN 电_NN 系统_NN 的_DEG 公司_NN 的_DEG 大小_NN 各_AD 不_AD 相同_VA 。_PU 大_VA 的_DEC 公司_NN 主要_AD 集中于_VV 为_P 汽车_NN 、_PU 生物_NN 医学_NN 或_CC 电子_NN 工业_NN 生产_VV 大_JJ 批量_NN 的_DEG 便宜_JJ 的_DEG 系统_NN 。_PU 成功_VV 的_DEC 小_JJ 公司_NN 则_AD 集中于_VV 生产_NN 创新_VV 的_DEC 技术_NN 。_PU 所有_DT 这些_DT 公司_NN 都_AD 致力于_VV 研究_NN 开发_VV 。_PU 随着_P 传感器_NN 的_DEG 发展_NN 微机电_NN 系统_NN 的_DEC 复杂性_JJ 和_CC 效率_NN 不断_AD 提高_VV 。_PU
+
+常见_VA 的_DEC 应用_NN 有_VE ：_PU
+
+设计_VV 微机电_NN 系统_NN 最_AD 重要_VA 的_DEC 工具_NN 是_VC 有_VE 限元_NN 分析_NN 。_PU
+
+微机电_NN 系统_NN 有_VE 多_CD 种_M 原材料_NN 和_CC 制造_NN 技术_NN ，_PU 选择_NN 条件_NN 是_VC 系统_NN 的_DEG 应用_NN 、_PU 市场_NN 等等_ETC 。_PU
+
+硅_NN 是_VC 用来_VV 制造_VV 集成_JJ 电路_NN 的_DEG 主要_JJ 原_JJ 材料_NN 。_PU 由于_P 在_P 电子_NN 工业_NN 中_LC 已经_AD 有_VE 许多_CD 实用_JJ 硅制造_NN 极_AD 小_VA 的_DEC 结构_NN 的_DEC 经验_NN ，_PU 硅_NN 也_AD 是_VC 微机电_NN 系统_NN 非常_AD 常用_VV 的_DEC 原材料_NN 。_PU 硅_NN 的_DEG 物质_NN 特性_NN 也_AD 有_VE 一定_JJ 的_DEG 优点_NN 。_PU 单晶体_NN 的_DEC 硅遵_NN 守胡克_NN 定律_VV ，_PU 几乎_AD 没有_VE 弹性_JJ 滞_NN 后_LC 的_DEG 现象_NN ，_PU 因此_AD 几乎_VA 不_AD 耗能_VV ，_PU 其_PN 运动_NN 特性_NN 非常_AD 可靠_VA 。_PU 此_PN 外硅_NN 不_AD 易_AD 折断_VV ，_PU 因此_AD 非常_AD 可靠_VA ，_PU 其_PN 使用_VV 周期_NN 可以_VV 达到_VV 上_LC 兆_OD 次_M 。_PU 一般_AD 微机电_NN 系统_NN 的_DEG 生产_NN 方式_NN 是_VC 在_P 基质_NN 上_LC 堆积_NN 物质_NN 层_NN ，_PU 然后_AD 使用_VV 平板_NN 印刷_NN 和_CC 蚀刻_NN 的_DEC 方法_NN 来_MSP 让_VV 它_PN 形成_VV 各_DT 种_M 需要_VV 的_DEC 结构_NN 。_PU
+
+表面_NN 微加工_NN 是_VC 在_P 硅芯片_NN 上_LC 沉积_VV 多_CD 晶硅_NN 然后_AD 进行_VV 加工_NN 。_PU
+
+深层_JJ 刻蚀_NN 如_P 深层_JJ 反应_JJ 离子_NN 刻蚀_NN 技术_NN 向_P 硅芯片_NN 内部_NN 刻蚀_NN 。_PU 刻蚀_VV 到_VV 芯片_NN 内部_NN 的_DEG 一_CD 个_M 牺牲层_NN 。_PU 这_DT 个_M 牺牲层_NN 在_P 刻蚀_VV 完成_VV 后_LC 被_LB 腐蚀掉_NN ，_PU 这样本_AD 来埋_VV 在_P 芯片_NN 内部_NN 的_DEG 结构_NN 就_AD 可以_VV 自由_AD 运动_VV 了_AS 。_PU
+
+体型_NN 微加工_NN 与_CC 深层_NN 刻蚀_NN 类似_VA ，_PU 是_VC 另_DT 一_CD 种_M 去除_VV 硅_NN 的_DEC 方法_NN 。_PU 一般体_NN 型微_VV 加工_VV 使_VV 用碱_NN 性_NN 溶液_NN 如_P 氢氧化钾_NN 来_NN 腐蚀_NN 平板_NN 印刷_VV 后_LC 留_VV 下来_VV 的_DEC 硅_NN 。_PU 这些_DT 碱溶液_NN 腐蚀_NN 时_LC 的_DEG 相对_JJ 各_DT 向_M 异性_NN 非常_AD 强_VA ，_PU 沿_P 一定_JJ 的_DEG 晶体_NN 方向_NN 的_DEG 腐蚀_NN 速度_NN 比_P 其它_DT 的_DEG 高_JJ 1000_CD 倍_M 。_PU 这样_VA 的_DEC 过程_NN 往往_AD 用来_VV 腐蚀_NN v_CC 状_NN 的_DEG 沟_NN 。_PU 假如_AD 选择_VV 的_DEC 原材料_NN 的_DEG 晶向_NN 足够_VA 精确_VA 的_DEC 话_NN 这样_PN 的_DEG 沟_NN 的_DEG 边_NN 可以_VV 非常_AD 平_VA 。_PU
+
+虽然_JJ 电子_NN 工业_NN 对_P 硅_NN 加工_VV 的_DEC 经验_NN 是_VC 非常_AD 丰富_VA 和_CC 宝贵_VA 的_DEC ，_PU 并_CC 提供_VV 了_AS 很_AD 大_VA 的_DEC 经济性_NN ，_PU 但是_AD 纯_VA 的_DEC 硅_NN 依然_AD 是_VC 非常_AD 昂贵_VA 的_DEC 。_PU 高_JJ 分子_NN 材料_NN 非常_AD 便宜_VA ，_PU 而且_CC 其_PN 性能_NN 各_DT 种_M 各_DT 样_M 。_PU 使用_VV 注射_VV 成形_NN 、_PU 压花_NN 、_PU 立体光_NN 固化_VV 成形_NN 等_ETC 技术_NN 也_AD 可以_VV 使用_VV 高_JJ 分子_NN 材料_NN 制造_VV 微机电_NN 系统_NN ，_PU 这样_PN 的_DEG 系统_NN 尤其_AD 有利于_VV 微液体_NN 应用_NN ，_PU 比如_AD 可_VV 携测_VV 血_NN 装置_NN 等_ETC 。_PU
+
+金属_NN 也_AD 可以_VV 用来_VV 制造_VV 微机电_NN 系统_NN 。_PU 虽然_CS 比起_VV 硅_NN 来_VV 金属_NN 缺乏_VV 其_PN 良好_VA 的_DEC 机械_NN 特性_NN ，_PU 但是_CC 在_P 金属_NN 的_DEG 适用_NN 范围_NN 内_LC 它_PN 非常_AD 可靠_VA 。_PU
+
+MEMS_NN 研究_NN 人员_NN 使用_VV 一_CD 系列_M 的_DEG 工程_NN 软件_NN 工具_NN 来_VV 对_P 他们_PN 的_DEG 设计_NN 进行_VV 仿真_NN 和_CC 原型_JJ 测试_NN 。_PU MEMS_NN 设计_NN 中_LC 经常_AD 用到_VV 有_VE 限元_NN 分析_NN 。_PU 对_P 动态力_NN ，_PU 热度_NN 等等_VA 的_DEC 仿真_NN 可以_VV 通过_P ANSYS_NN ，_PU COMSOL_NN 、_PU IntelliSuite_NN 和_CC CoventorWare_NN -_PU ANALYZER_NN 等_ETC 软件_NN 来_MSP 实现_VV 。_PU 其_PN 他_PN 软件_NN ，_PU 比如_AD ConvertorWare_NN -_PU ARCHITECT_NN 和_CC MEMS_NN -_PU PRO_NN ，_PU 被_SB 用来_VV 开发_VV 更_AD 适合_VV 加工_VV 制造_VV 的_DEC 产品_NN 布局_NN ，_PU 甚至_AD 用来_VV 仿真_AD 嵌入_VV 型_NN 的_DEG MEMS_NN 系统_NN 。_PU 当_P 原型机_NN 开发_VV 完成_VV 后_LC ，_PU 研究_NN 人员_NN 能够_VV 用_P 各_DT 种_M 仪器_NN 比如_AD 激光_VV 多_CD 普勒_NN 扫描_NN 振动计_NN ，_PU 显微镜_NN ，_PU 频闪_VV 观测仪_NN 等_ETC 来_MSP 对_P 它们_PN 进行_VV 测试_NN 。_PU
+
+

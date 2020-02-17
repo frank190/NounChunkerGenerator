@@ -1,0 +1,10 @@
+﻿_CD 时域_NN
+
+时域_NN （_PU ）_PU 是_VC 描述_JJ 数学_NN 函数_NN 或_CC 物理_NN 信号_NN 对_P 时间_NN 的_DEC 关系_NN 。_PU 例如_AD 一_CD 个_M 信号_NN 的_DEC 时域_NN 波形_NN 可以_VV 表达_VV 信号_NN 随着_P 时间_NN 的_DEG 变化_NN 。_PU
+
+若_CS 考虑_VV 离散_VV 时间_NN ，_PU 时域_NN 中_LC 的_DEC 函数_NN 或_CC 信号_NN ，_PU 在_P 各_DT 个_M 离散_NN 时间点_NN 的_DEG 数值_NN 均_AD 为_VC 已_AD 知_VV 。_PU 若_CS 考虑_VV 连续_JJ 时间_NN ，_PU 则_AD 函数_NN 或_CC 信号_NN 在_P 任意_JJ 时间_NN 的_DEG 数值_NN 均_AD 为_VC 已知_VA 。_PU
+
+在_P 研究_VV 时域_NN 的_DEC 信号_NN 时_LC ，_PU 常_AD 会_VV 用_P 示波器_NN 将_BA 信号_NN 转换_VV 为_VC 其_PN 时域_NN 的_DEC 波形_NN 。_PU
+
+
+

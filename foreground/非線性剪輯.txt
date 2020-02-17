@@ -1,0 +1,22 @@
+﻿非线_NN 性_NN 剪辑_NN
+
+非线性_JJ 编辑_NN （_PU ）_PU ，_PU 简称_JJ N_CD L_M E_NN ，_PU 是_VC 一_CD 种_M 对_P 视频_NN （_PU N_CD LVE_M ）_PU 或_CC 音频_NN 进行_VV 编辑_NN （_PU N_CD LAE_M ）_PU 的_DEC 方法_NN ，_PU 这_DT 种_M 对_P 原始_NN 数据_NN 进行_VV 非_VC 破坏性_JJ 编辑_NN 与_CC 二十世纪_NN 的_DEG 线性_JJ 剪辑_NN 是_VC 相对_VV 的_DEC 。_PU
+
+非_JJ 线性_JJ 剪辑_NN 是_VC 电影_NN 和_CC 电视_NN 后期_NN 制作_NN 中_LC 的_DEG 一_CD 种_M 现代_JJ 剪接_NN 方式_NN ，_PU 它_PN 意味_VV 着_AS 能_VV 存取_VV 视频_NN 片段_NN 中_LC 的_DEG 任意_JJ 一_CD 帧_M 。_PU 它_PN 的_DEG 概念_JJ 类似于_VV 最初_AD 使用_VV 在_P 电影_NN 剪接_NN 中_LC “_PU 剪_NN ”_PU 和_CC “_PU 接_NN ”_PU 的_DEC 手段_NN 。_PU 但是_AD ，_PU 在_P 电影_NN 剪接_VV 的_DEC 过程_NN 中_LC ，_PU 它_PN 是_VC 一_CD 个_M 破坏性_NN 的_DEC 过程_NN ，_PU 电影_NN 底片_NN 必须_VV 被_SB 剪断_VV 。_PU 数字_NN 视频_NN 技术_NN 出现_VV 后_LC ，_PU 产生_VV 了_AS 非_JJ 线性_JJ 剪接_NN 手段_NN 。_PU 非线性_JJ 编辑_NN 是_VC 对_P 视频_NN 或_CC 音频_NN 的_DEC 素材_NN 通过_P 电脑_NN 设备_NN 或_CC 其他_DT 数字_NN 随机_AD 存取_VV 的_DEC 方式_NN 剪辑_VV 。_PU 与_P 过去_NT 需要_VV 两_CD 台_M 以上_LC 的_DEG 录像机_NN ，_PU 从_P 不同_VA 的_DEC 磁带_NN 合成_VV 到_VV 一_CD 盘_M 磁带_NN 的_DEG 线性_JJ 编辑_NN 方式_NN 相比_VV ，_PU 能_VV 立即_AD 重新_AD 排列_VV 、_PU 替换_VV 、_PU 增加_VV 、_PU 删除_VV 、_PU 修改_VV 映像_NN 数据_NN ，_PU 以_MSP 达到_VV 快速_AD 编辑_VV 的_DEC 目标_NN 。_PU
+
+1990_CD 年代_NN ，_PU 随着_P 个人_NN 电脑_NN 运算_NN 能力_NN 的_DEG 提升_NN 和_CC 普及_VV ，_PU 非_AD 线性_JJ 已经_AD 走入_VV 家庭_NN 或_CC 个人_NN 使用_VV 普遍_NN 应用_NN 。_PU
+
+常用_VV 的_DEC 非线性_JJ 剪辑_NN 的_DEC 电脑_NN 软件_NN 有_VE AdobePremierePro_NN ,_PU CorelVideoStudio_NN ,_PU PowerDirector_NN 和_CC VegasPro_NN 等_ETC 。_PU
+
+非线性_JJ 编辑_NN 是_VC 相对_P 传统_JJ 上_NN 以_P 时间_NN 顺序_AD 进行_VV 线性_JJ 编辑_NN 而言_LC ，_PU 非_AD 线性_JJ 剪辑_NN 提供_VV 了_AS 更_AD 灵活_VA 的_DEC 影片_NN 编辑_NN 方式_NN 和_CC 简单_JJ 项目_NN 管理_NN 等_ETC 诸多_CD 的_DEG 优点_NN ，_PU 特别_AD 是_VC 理论_NN 上素_NN 材质量_NN 不_AD 会_VV 损失_VV 的_DEC 优点_NN 受到_VV 欢迎_NN 。_PU 另外_AD ，_PU 非_AD 线性_JJ 编辑_NN 借助_VV 计算机_NN 来_MSP 进行_VV 数字化_NN 制作_VV ，_PU 几乎_AD 所有_DT 的_DEG 工作_NN 都_AD 在_P 计算机_NN 里_LC 完成_VV ，_PU 不_AD 再_AD 需要_VV 那么_AD 多_VA 的_DEC 外部_NN 设备_NN ，_PU 对_P 素材_VA 的_DEV 调用_VV 也_AD 是_VC 瞬间_PN 实现_VV ，_PU 不_AD 用_VV 反_VV 反复_VV 复_AD 在_P 磁带_NN 上_LC 寻找_VV ，_PU 突_AD 破单_VV 一_CD 的_DEG 时间_NN 顺序_NN 编辑_NN 限制_NN ，_PU 可以_VV 按_P 各_DT 种_M 顺序_NN 排列_VV ，_PU 具有_VV 快捷_NN 简便_VA 、_PU 随机_NN 的_DEG 特性_NN 。_PU
+
+视频_NN 和_CC 音频_NN 模拟_NN 数据_NN 首先_AD 需要_VV 经过_VV 转换_NN ，_PU 然后_AD 储存_VV 到_VV 硬盘_NN 或_CC 其它_DT 数字_NN 储存_NN 设备_NN ，_PU 当_P 这些_DT 添加_VV 的_DEC 视频_NN 或_CC 音频_NN 数据_NN 被_SB 导入_VV 到_VV 剪辑_NN 软件_NN 中_LC ，_PU 就_AD 能_VV 直接_AD 电脑_NN 中_LC 进行_VV 编辑_NN 。_PU 但_AD 如果_CS 是_VC 数字素_NN 材则_NN 不_AD 需要_VV 转换_VV 这_DT 个_M 步骤_NN 。_PU
+
+非线性_JJ 编辑_NN 可_VV 直接_AD 访问_VV 的_DEC 数字_NN 视频_NN 剪辑_VV 的_DEC 任何_DT ，_PU 而_CC 不_AD 需要_VV 通过_P 观看_VV 整_DT 个_M 片段_NN 。_PU 可以_VV 通过_P 直接_AD 输入_VV 时间码_NN 或_CC 描述性_JJ 元_NN 数据_NN 访问_NN 任何_DT 帧_NN 。_PU
+
+它_PN 利用_VV 电脑_NN 进行_VV 剪接_NN ，_PU 过程_NN 中_LC 可_VV 有_VE 很_AD 大_VA 的_DEC 弹性_NN ，_PU 不_AD 一定_AD 顺着_VV 时序_NN 进行_VV 。_PU 是_VC 对_P 视频_NN 或_CC 音频_NN 素材_NN 通过_P 随机_AD 存取_VV 的_DEC 方式_NN 剪辑_VV 。_PU 非线性_JJ 剪辑_NN 在_P 概念_NN 上_LC 的_DEG 影片_NN 剪辑_NN 或_CC 其中_NN 使用_VV 的_DEC “_PU 剪切_NN 和_CC 粘贴_NN ”_PU 技术_NN 类似_NN ，_PU 但_CC 在_P 传统_JJ 电影_NN 剪接_VV 的_DEC 过程_NN 中_LC 有_VE 一_CD 个_M 破坏性_NN 的_DEC 过程_NN ，_PU 电影_NN 底片_NN 必须_VV 被_SB 剪断_VV 。_PU 然而_AD 在_P 非线性_JJ 剪辑_NN 的_DEC 过程_NN 中_LC ，_PU 原始_VA 的_DEC 素材_NN 在_P 剪接_NN 过程_NN 中_LC 不_AD 会_VV 丢失_VV 或_CC 产生_VV 不_AD 可_VV 恢复_VV 的_DEC 修改_NN 。_PU
+
+专业_NN 的_DEG 编辑_NN 软件_NN 将_BA 剪接师_NN 的_DEC 选择_NN 记录_NN 为_VC “_PU ”_PU ，_PU 并_CC 能_VV 与_P 其它_DT 编辑_NN 软件_NN 互换_VV 。_PU 能_VV 保存_VV 许多_CD 由_P 原始_JJ 素材_NN 文件_NN 产生_VV 的_DEC 修改_NN 与_CC 变化_NN ，_PU 而_CC 不_AD 需要_VV 储存_VV 许多_CD 个_M 复_AD 本_DT ，_PU 允许_VV 更_AD 灵活_VA 的_DEC 编辑_VV 。_PU 它_PN 能_VV 通过_P 改变_VV 编辑_NN 决定_AD 列表_VV 而_CC 改变_VV 切口_NN 和_CC 撤消_VV 前_DT 一_CD 步_M 决定_LC （_PU 不_AD 需要_VV 复制_VV 真实_VA 的_DEC 影片_NN 数据_NN ）_PU 。_PU 当_P 用上_VV 不同_JJ 特效_NN 的_DEC 时候_NN ，_PU 也_AD 不_AD 用_VV 担心_NN 因为_P 重复_JJ 编码_NN 而_MSP 产生_VV 的_DEC 画质_NN 损失_NN 。_PU 通过_P 编辑_NN 决定_AD 列表_VV ，_PU 剪接师_NN 还_AD 可以_VV 在_P 低_JJ 分辨率_NN 的_DEG 视频_NN 复_AD 本_DT 上_NN 工作_VV 。_PU 这_PN 使_VV 在_P 普通_JJ 个人_NN 计算机_NN 上_LC 快速_AD 剪接_VV 广播_JJ 级_NN 或_CC 高_JJ 清级_NN 的_DEG 视频_NN 成为_VV 可能_VV ，_PU 即使_CS 计算机_NN 没有_VV 足够_VA 的_DEC 能力_NN 实时_AD 处理_VV 如_P 此_DT 高_JJ 质量_NN 的_DEC 高清_JJ 数据_NN 。_PU
+
+
+

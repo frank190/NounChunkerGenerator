@@ -1,0 +1,6 @@
+﻿复合_VV (_PU 物理学_NN )_PU
+
+在_P 固体物_NN 理学_NN 中_LC ，_PU 载_VV 流子_NN 的_DEC 复合_NN （_PU ）_PU 指_VV 半导体_NN 中_LC 的_DEC 载流子_NN （_PU 电子_NN 和_CC 空穴_NN ）_PU 成_VV 对_P 消失_VV 的_DEC 过程_NN 。_PU 这_DT 一_CD 过程_NN 在_P 许多_CD 光电_NN 半导体_NN 材料_NN 中_LC 都会_AD 涉及_VV 。_PU 在_P 一些_CD 具有_VV PN_NN 结_NN 的_DEC 器件_NN ，_PU 例如_AD 二极管_NN 和_CC 双极性_JJ 晶体管_NN 中_LC ，_PU 为了_P 研究_VV 其_PN 详细_VA 的_DEC 工作_NN 原理_NN ，_PU 分析_VV 载_VV 流子_NN 的_DEC 复合_NN 过程_NN 也_AD 是_VC 必要_VA 的_DEC 。_PU
+
+
+

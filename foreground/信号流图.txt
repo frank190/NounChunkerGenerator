@@ -1,0 +1,74 @@
+﻿_NN 信号_NN 流_VV 图_NN
+
+信号_NN 流图_NN （_PU Signal_NN -_PU flowgraph_NN ）_PU 最早_AD 是_VC 由_P 克劳德_NN ·_PU 香农_NN 所_MSP 发明_VV ，_PU 但_AD 因为_P 美国_JJ 麻省理_NN 工学院_NN 的_DEC 于_P 20_CD 世纪_NN 50_CD 年代_NN 初_LC 提出_VV 这_DT 个词_NN ，_PU 因为_P 也称_JJ 梅森图_NN （_PU Masongraph_NN ）_PU ，_PU 信号_NN 流图_NN 是_VC 特殊_VA 的_DEC ，_PU 属于_VV ，_PU 其中_NN 的_DEG 节点_NN 表示_NN 系统_NN 的_DEG 变量_NN ，_PU 而_MSP 连接_VV 两_CD 节点_NN 的_DEG 边_NN 表示_VV 二_CD 个_M 变量_NN 之间_LC 的_DEC 函数_NN 关系_NN 。_PU 信号_NN 流图_NN 的_DEG 理论_NN 是_VC 以_P 有_VE 向_P 图_NN 为_VV 基础_NN ，_PU 不过_AD 是_VC 应用_VV 有_VE 向_P 图_NN 来_MSP 表示_VV 系统_NN ，_PU 和_CC 有_VE 向_P 图_NN 的_DEG 原理_NN 差异_NN 较_AD 大_VA 。_PU
+
+信号_NN 流图_NN 最常_AD 用来_VV 表示_VV 物理_NN 系统_NN 和_CC 其_PN 控制器_NN （_PU 网宇_NN 实体_NN 系统_NN 或_CC 控制_NN 系统_NN ）_PU 之间_LC 的_DEG 关系_NN ，_PU 不过_P 在_P 许多_CD 电子_NN 电路_NN 、_PU 运算_VV 放大器_NN 电路_NN 、_PU 数位_NN 滤波器_NN 、_PU 状态_NN 变量_NN 滤波器_NN 及_CC 类比_NN 滤波器_NN 的_DEG 分析_NN 中_LC 也_AD 会_VV 用到_VV 信号_NN 流_VV 图_NN 。_PU 在_P 许多_CD 文献_NN 中_LC ，_PU 信号_NN 流图_NN 都_AD 可以_VV 转换_VV 为_VC 一_CD 组线性_NN 方程_NN 或_CC 是_VC 线性_JJ 微分_NN 方程_NN ，_PU 而_CC 各_DT 组_M 变量_NN 之间_LC 的_DEG 增益_NN 则_AD 用_VV 边上_NN 的_DEC 系数_NN 来_MSP 表示_VV ，_PU 也_AD 有些_DT 信号_NN 流_VV 图_NN 会_VV 用_P 特殊_JJ 方式_NN 来_MSP 表示_VV 非_VC 线性_JJ 系统_NN 。_PU 而_MSP 利用_VV 梅森_NN 增_VV 益_NN 公式_NN 可以_VV 找到_VV 输入_NN 和_CC 输出_NN 之间_LC 的_DEG 关系_NN 。_PU
+
+以下_NN 是_VC 梅森_NN 提出_VV 信号_NN 流_VV 图_NN 的_DEC 基本_JJ 概念_NN ：_PU
+
+在_P 基本_JJ 信号_NN 流图_NN 中_LC ，_PU 节点_NN 的_DEG 相依_JJ 关系_NN 可以_VV 用_P 指向_VV 此_DT 节点_NN 的_DEC 箭头_NN 表示_VV ，_PU 节点_NT 会_VV 影响_VV 的_DEC 其他_DT 节点_NN 可以_VV 用_P 由_P 节点_NT 射出_VV 的_DEC 箭头_NN 表示_VV ，_PU 最_AD 常见_VA 的_DEC 信号_NN 流_NN 图_NN 中_LC ，_PU 每_DT 一_CD 个_M 节点_NN "_PU i_NN "_PU 若_CS 有_VE 指向_VV 此_DT 节点_NN 的_DEC 箭头_NN ，_PU 此_DT 节点_NN 的_DEC 值会_NN 和_CC 这些_DT 箭头_NN 另_DT 一_CD 端_NN 的_DEG 节点_NN 有关_P ，_PU 而且_CC 呈_VV 一_CD 函数_NN 关系_VV ，_PU 举例_VV 为_VC "_PU F_CD "_PU 。_PU (_PU a_NN )_PU 图_NN 表示_VV 各_DT 节点_NT 有_VE 以下_JJ 的_DEG 关系_NN ：_PU
+节点_NN "_PU x_NN "_PU 是_VC 独_JJ 立节点_NN ，_PU 没有_VE 箭头_NN 指向_VV 此_DT 节点_NN ，_PU 节点_NN "_PU x"_NN 和_CC "_PU x"_NN 和_CC 其他_DT 节点_NN 的_DEC 关系_NN 分別_NN 如_P 图_NN (b)_CD 和_CC (c)_CD 。_PU
+
+信号_NN 流图_NN 会_VV 针对_VV 每_DT 一_CD 个_M 节点_NN 定义_VV 一_CD 函数_NN ，_PU 处理_VV 其_PN 输入_VV 的_DEC 变量_NN 。_PU 每_DT 个_M 非独_JJ 立节点_NN 都_AD 会_VV 依_CD 个_M 別_NN 特定_NN 方式_NN 来_MSP 处理_VV 输入_NN 信号_NN ，_PU 再_AD 将_BA 结果_NN 送到_VV 其他_DT 的_DEG 节点_NN 「_PU 信号_NN 流_VV 图_NN 一_CD 开始_VV 是_VC 由_P 梅森_NN 所_MSP 定义_VV ，_PU 其中_NN 表示_VV 了_AS 许多_CD 的_DEC 函数_NN 关系_VV ，_PU 可能_VV 线_VV 性_NN ，_PU 也_CC 可能_VV 非_VC 线性_JJ 。_PU 」_PU
+
+信号_NN 流图_NN 中_LC 的_DEG 变量_NN 可以_VV 自行_VV 依_P 需要_VV 选定_VV ，_PU 系统_NN 本身_PN 有_VE 其_PN 方程式_NN ，_PU 但_CC 也_AD 可以_VV 根据_P 其_PN 系统_NN 及_CC 架构_NN 来_MSP 选择_VV 变量_NN ，_PU 绘制_NN 信号_NN 流_VV 图_NN ，_PU 复杂_VA 的_DEC 系统_NN 可能_VV 会_VV 有_VE 多_CD 种_M 选择_NN 变量_NN 的_DEC 方式_NN 。_PU 同_DT 一_CD 个_M 系统_NN 也_AD 可以_VV 用_P 不同_VA 的_DEC 信号_NN 流_P 图_NN 来_MSP 表示_VV ，_PU 系统_NN 和_CC 信号_NN 流_P 图_NN 之间_LC 没有_VV 一_CD 对_P 一_CD 的_DEG 对应_JJ 关系_NN 。_PU
+
+线性_JJ 信号_NN 流_VV 图_NN 只_AD 针对_P 线性_JJ 非_JJ 时变_NN 系统_NN 。_PU 在为_P 系统_NN 建立_VV 模型_NN 时_LC ，_PU 第一_OD 步_M 是_VC 找到_VV 确认_NN 系统_NN 行为_VV 的_DEC 方程式_NN ，_PU 先_AD 不_AD 考虑_VV 因_P 果关系_NN （_PU 这_PN 称为_VV acausalmodeling_NN ）_PU ，_PU 之后_AD 可以_VV 由_P 方程式_JJ 推出_NN 信号_NN 流_VV 图_NN 。_PU
+
+线性_JJ 信号_NN 流图_NN 也_AD 是_VC 由_P 节点_NN 及_CC 箭头_NN 组成_VV ，_PU 不过_P 箭头_NN 上_LC 会_VV 有_VE 加权_NN 的_DEC 系数_NN 。_PU 节点_NN 是_VC 线性_JJ 方程组_NN 的_DEG 变量_NN ，_PU 而_CC 加权_VV 的_DEC 系数_NN 则_AD 是_VC 方程组_NN 中_LC 的_DEG 系数_NN ，_PU 信号_NN 只_AD 会_VV 依_P 节点_NN 的_DEG 方向_NN ，_PU 由_P 一_CD 个_M 节点_NN 流到_VV 另_DT 一_CD 个_M 节点_NN 。_PU 线性_JJ 信号_NN 流_NN 图_NN 中_LC 只_AD 能_VV 表达_NN 信号_NN 和_CC 系数_NN 相_AD 乘_VA ，_PU 以及_CC 数_CD 个_M 信号_NN 的_DEG 相_NN 加_NN ，_PU 这_PN 已_AD 足以_VV 表示_VV 线性_NN 方程组_NN 。_PU 当_P 一_CD 信号_NN 延_VV 著_AS 箭头_NN 一_CD 个_M 节点_NN 到_VV 另_DT 一_CD 个_M 节点_NN 时_LC ，_PU 此_DT 信号_NN 就_AD 乘以_VV 箭头_NN 上_LC 的_DEC 系数_NN ，_PU 若_CS 几_CD 个_M 箭头_NN 指到_VV 同_DT 一_CD 个_M 节点_NN 时_LC ，_PU 这_DT 几_CD 个_M 信号_NN 会_VV 相加_JJ （_PU 若_CS 需要_VV 相_AD 减_VV ，_PU 可以_VV 调整_VV 对应_NN 系数_NN 为_VC 负即_NN 可_VV ）_PU 。_PU
+
+针对_P 用线_NN 性_NN 代数_NN 方程_NN 或是_CC 微分_NN 方程_NN 来_MSP 表示_VV 的_DEC 系统_NN ，_PU 线性_JJ 信号_NN 流_VV 图_NN 在_P 数学_NN 上_LC 等效_AD 於_P 其_PN 方程式_NN ，_PU 看_VV 信号_NN 流_P 图_NN 上_LC 各_DT 节点_NN 信号_NN 的_DEC 来源_NN 以及_CC 箭头_NN 上_LC 的_DEC 系数_NN 即_AD 可_VV 得到_VV 方程式_NN 。_PU 箭头_NN 上_LC 的_DEC 系数_NN 多_AD 半_AD 会_VV 是_VC 实数_NN 或是_CC 某_DT 种_M 参数_NN 组成_VV 的_DEC 线性_JJ 函数_NN （_PU 例如_AD 拉_VV 氏_NN 转换_NN 的_DEC 变量_NN "_PU s_NN "_PU ）_PU 。_PU
+
+线性_JJ 信号_NN 流图_NN 是_VC 和_CC 以下形_JJ 式线性_NN 系统_NN 有关_VV 的_DEC 信号_NN 流_VV 图_NN ：_PU
+
+右图_NN 中_LC 有_VE 一_CD 些线性_JJ 信号_NN 流图_NN 中_LC 的_DEG 基本_JJ 元件_NN 。_PU
+
+以下_NN 是_VC 一_CD 些线性_JJ 信号_NN 流_NN 图_NN 中_LC 常_AD 见_VV 的_DEC 术语_NN ：_PU
+
+
+
+有些_DT 研究者_NN 认为_VV ，_PU 线性_JJ 信号_NN 流_VV 图_NN 的_DEG 限制_NN 比_P 方块_NN 图_NN 要_AD 多_VA ，_PU 信号_NN 流_VV 图_NN 严_VA 谨_AD 用_P 有_VE 向_P 图_NN 来_MSP 表示_VV 线性_JJ 代数_NN 方程_NN 。_PU
+
+有些_DT 研究者_NN 则_AD 认为_VV 为_VC 线性_JJ 信号_NN 流图_NN 和_CC 线性_JJ 方块_NN 图_NN 是_VC 描述_VV 一_CD 个_M 系统_NN 的_DEG 二_CD 个_M 等效_JJ 方式_NN ，_PU 用_P 任何_DT 一_CD 个_M 都_AD 可以_VV 找到_VV 系统_NN 的_DEG 增益_NN 。_PU
+
+Bakshi_NN 及_CC Bakshi_NN 提供_VV 了_AS 一_CD 个_M 信号_NN 流图_NN 和_CC 方块_NN 图_NN 比较_VV 的_DEC 列表_NN ，_PU Kumar_NN 另外_AD 有_VE 一_CD 个_M 列表_NN 。_PU 根据_P Barker_NN 等_ETC 人_NN 的_DEG 论点_NN ：_PU
+
+在_P 右图_NN 中_LC 有_VE 一_CD 个_M 回授_NN 系统_NN 的_DEG 简单_JJ 方块图_NN ，_PU 以及_CC 二_CD 个_M 对应_VV 的_DEC 信号_NN 流_VV 图_NN 。_PU 输入_NN "_PU R_NN (_PU s_NN )_PU "_PU 是_VC 输入_NN 信号_NN 的_DEC 拉氏_NN 转换_NN ，_PU 是_VC 信号_NN 流_VV 图_NN 的_DEC 源节_NN 点_NN （_PU 没有_VE 输入边_NN 的_DEC 节点_NN ）_PU ，_PU 输出_NN 信号_NN "_PU C_NN (_PU s_NN )_PU "_PU 是_VC 输出_NN 变量_VV 的_DEC 拉氏_NN 转换_NN ，_PU 表示_VV 为_VC 最终_JJ 节点_NN （_PU 没有_VE 输出边_NN 的_DEC 节点_NN ）_PU ，_PU "_PU G_CD (_PU s)_CD "_PU 和_CC "_PU H(s)_M "_PU 为_VC 传递_NN 函数_NN ，_PU "_PU H_NN (_PU s_NN )_PU "_PU 可以_VV 提供_VV 调整_VV 后_LC 的_DEG 输出_NN 信号_NN "_PU B_NN (_PU s_NN )_PU "_PU 给_P 输入端_NN ，_PU 二_CD 个_M 信号_NN 流_P 图_NN 是_VC 等_ETC 效_NN 的_SP 。_PU
+
+信号_NN 流图_NN 也_AD 可以_VV 用来_VV 分析_NN 系统_NN ，_PU 用来_VV 瞭解_VV 一_CD 个_M 已_AD 有_VE 系统_NN 的_DEC 模型_NN ，_PU 也_AD 可以_VV 用来_VV 合成_VV ，_PU 确认不同_AD 设计_VV 的_DEC 特质_NN 。_PU
+在_P 建构_NN 动态_NN 系统_NN 的_DEC 模型_NN 时_LC ，_PU 以下_NN 是_VC Dorf_NR 和_CC Bishop_NN 列出_VV 的_DEC 步骤_NN ：_PU
+在_P 上_JJ 述程_NN 中_LC ，_PU 物理_NN 系统_NN 的_DEG 数学_NN 模型_NN 方程_NN 可以_VV 用来_VV 推导_VV 信号_NN 流图_NN 方程_NN 。_PU
+
+信号_NN 流图_NN 也_AD 用_VV 在_P （_PU DSE_M ）_PU ，_PU 一_CD 个_M 趋近_AD 实际_AD 呈现_VV 的_DEC 过渡_NN 表示_VV 方式_NN 。_PU 设计_NN 空间_NN 探索_VV 会_VV 在_P 许多_CD 不同_VA 的_DEC 选项_NN 中_LC 找_VV 一_CD 个_M 适合_VV 的_DEC 解_VV 。_PU 典型_VA 的_DEC 分析_NN 流程_NN 会_VV 先_AD 针对_VV 待_VV 确认_VA 的_DEC 系统_NN ，_PU 以_P 其_PN 各_DT 元件_NN 的_DEG 物理_NN 方程式_NN 来_MSP 建模_VV 。_PU 设计_NN 空间_NN 探索_VV 不同_AD ，_PU 其_PN 设计_NN 合成_VV 的_DEC 规格_NN 是_VC 想要_VV 的_DEC 传递_NN 函数_NN 。_PU 例如_AD ，_PU 不同_VA 的_DEC 策略会_NN 产生_VV 不同_VA 的_DEC 信号_NN 流_VV 图_NN ，_PU 可_VV 由_P 此_PN 推导_VV 出_VV 对应_JJ 的_DEG 实现_NN 方式_NN 。_PU
+另_DT 一_CD 个_M 使用_VV 有_VE 说明_NN 的_DEC 信号_NN 流_VV 图_NN 的_DEG 例子_NN 是_VC 连续_JJ 时间_NN 行为_VV 的_DEC 表示_NN 方式_NN ，_PU 作为_VV 架构_NN 生成器_NN 的_DEG 输入_NN 。_PU
+
+香农_NN 公式_NN （_PU Shannon_NN '_PU sformula_NN ）_PU 是_VC 计算_VV 类比_NN 电脑_NN 中_LC 互联_VV 放大器_NN 增益_VV 的_DEC 解析_NN 表示法_NN 。_PU 在_P 二_CD 次_M 大战_NN 时_LC ，_PU 香农_NN 在_P 探_PN 就_AD 类比_VV 电脑_NN 的_DEC 功能_NN 运作_VV 时_LC ，_PU 发展_VV 了_AS 香农_NN 公式_NN 。_PU 因为_P 战争_NN 期间_NN 的_DEG 的_DEC 限制_NN ，_PU 香农_NN 当时_NT 没有_AD 发表_VV 他_PN 的_DEG 研究_NN 。_PU 在_P 1952_CD 年_M 重新_AD 发现_VV 了_AS 相同_VA 的_DEC 公式_NN 。_PU
+
+哈普_AD 将_BA 香农_NN 公式_NN 扩展_VV 到_VV 在_P 图形_NN 上_LC 封闭_VV 的_DEC 系统_NN 。_PU 香农_NN -_PU 哈普_NR 公式_NN （_PU Shannon_NN -_PU Happformula_NN ）_PU 可以_VV 计算_VV 传递_VV 函数_NN 、_PU 灵敏度_NN 、_PU 误差_NN 函数_NN 等_ETC 。_PU
+
+对于_P 一致_VA 的_DEC 单_JJ 边线性_NN 方程_NN ，_PU 香农_NN -_PU 哈普_NR 公式_NN 可以_VV 用_VV 直接_AD 替代_VV 的_DEC 方式_NN 求解_VV （_PU 非_AD 迭代_JJ 法_NN ）_PU 。_PU
+
+NASA_CD 的_DEG 电路_NN 计算_VV 软体_NN N_CD ASAP_VV 就_AD 是_VC 以_P 香农_NN -_PU 哈普_NR 公式_NN 为_VV 基础_NN 。_PU
+
+图_NN 3_CD 是_VC 由_P 渐近_JJ 增益_NN 模型_NN 表示_VV 负反馈_NN 放大器_NN 的_DEG 一_CD 种_M 可能_VV 的_DEC 信号_NN 流_VV 图_NN ，_PU 可以_VV 得到_VV 放大器_NN 增益_VV 的_DEC 方程式_NN 为_VC
+
+其_PN 参数_NN 的_DEG 说明_NN 如下_VV ：_PU "_PU T_NR "_PU =_AD 返回_VV 比_NN ，_PU "_PU G_CD "_PU =_CC 直_BA 变大器_NN 增益_VV ，_PU directamplifiergain_NN ,_PU "_PU G_CD "_PU =前馈_PU （_PU 表示_VV 回授_NN 可_VV 能有_VV 的_DEC 双向_JJ 特性_NN ，_PU 也_CC 可能_VV 是_VC 刻意_JJ 的_DEG 前_JJ 馈补偿_NN ）_PU 。_PU
+
+增益_NN "_PU G_CD "_PU 和_CC "_PU G_CD "_PU 的_DEG 意思分_NN 別_NN 是_VC 时间_NN 接近_VV 零_CD 及_CC 无_VE 限大_NN 时_LC 的_DEG 增益_NN ：_PU
+
+有_VE 许多_CD 可能_VV 的_DEC 信号_NN 流_VV 图_NN ，_PU 对应_AD 不同_VA 的_DEC 增益_NN 关系_NN 。_PU 图_NN 4_CD 是_VC 另_DT 一_CD 个_M 信号_NN 流_VV 图_NN ，_PU 其_PN 渐_AD 近_JJ 增益_NN 模型_NN 比较_NN 容易_AD 用_P 电路_NN 表示_VV 。_PU 在_P 此_DT 图_NN 中_LC ，_PU 参数_NN β_NN 为_VC 回授_NN 因子_LC ，_PU 而_CC "_PU A_NN "_PU 为_VC 控制_VV 因子_NN ，_PU 和_CC 电路_NN 中_LC 的_DEG 相依讯_JJ 号源_NN 有关_P ，_PU 配合_NN 信号_NN 流_VV 图_NN ，_PU 可以_VV 得到_VV 增益_NN 为_VC
+
+若_CS 要_VV 连接_VV 到_VV 渐_DER 近_AD 增益_NN 模型_NN ，_PU 参数_NN "_PU A"_NN 和_CC β_NN 不_AD 能_VV 是_VC 任意_JJ 的_DEG 电路_NN 参数_NN ，_PU 需要_VV 和_CC 返回_VV 比_NN "_PU T_NN "_PU 有_VE 以下_JJ 的_DEG 关系_NN ：_PU
+
+因此_AD 渐_AD 近_AD 增益_VV 为_VC ：_PU
+
+替换_AD 结果_VV 到_VV 增益_NN 表示_VV 式_NN 中_LC ，_PU
+
+上述_JJ 就_AD 是_VC 渐近_AD 增益_NN 模型_NN 的_DEG 公式_NN 。_PU
+
+梅森_AD 在_P 导入_VV 线性_JJ 信号_NN 流_VV 图_NN 的_DEC 同时_NN ，_PU 也_AD 导入_VV 了_AS 非_JJ 线性_JJ 信号_NN 流_VV 图_NN 。_PU 梅森_NN 提到_VV ：_PU 「_PU 线性_JJ 信号_NN 流_VV 图_NN 就_AD 是_VC 相关_JJ 系统_NN 是_VC 线性_JJ 的_DEG 信号_NN 流图_NN 」_PU "_PU
+
+若_CS 以_P x_NN 来_MSP 表示_VV j节点_NN 的_DEG 讯号_NN ，_PU 以下_NN 例子_NN 是_VC 不_AD 符合_VV 线性_JJ 非_JJ 时变_NN 系统_NN 的_DEC 函数_NN ：_PU
+
+
+

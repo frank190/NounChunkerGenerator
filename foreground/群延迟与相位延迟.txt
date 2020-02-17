@@ -1,0 +1,5 @@
+﻿群_NN 延迟_VV 与_P 相位_NN 延迟_NN
+
+在_P 信号_NN 处理_NN 中_LC ，_PU 群延迟_NN （_PU groupdelay_NN ）_PU 是_VC 指_VV 信号_NN 通过_P 被_SB 测_VV 器件_NN 的_DEG 各_DT 正弦_JJ 分量_NN 的_DEG 振幅_NN 包络_VV 的_DEC 时延_NN ，_PU 并且_CC 是_VC 各_DT 频率_NN 分量_NN 的_DEC 函数_NN 。_PU 相反_VV ，_PU 相位_NN 延迟_NN （_PU phasedelay_NN ）_PU 是_VC 与_P 幅度_NN 包络_VV （_PU amplitudeenvelope_NN ）_PU 的_DEG 时间_NN 延迟_VV 相反_VA 的_DEC 相位_NN 时间_NN 延迟_VV 。_PU
+
+

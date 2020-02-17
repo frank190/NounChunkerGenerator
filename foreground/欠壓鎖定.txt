@@ -1,0 +1,7 @@
+﻿欠压_NN 锁定_NN
+
+欠压_NN 锁定_NN （_PU Undervoltage_NN -_PU Lockout_NN ）_PU 简称_VV UVLO_NN ，_PU 是_VC 电子_NN 设备_NN 中_LC 在_P 电源_NN 电压_NN 低于_VV 正常_JJ 工程_NN 準位_NN 时_LC ，_PU 切断_VV 电源_NN 的_DEG 电路_NN 。_PU 在_P 嵌入式_NN 系统_NN 中_LC 常_AD 会_VV 用_P UVLO_NN 监控_VV 电池_NN 电压_NN ，_PU 若_CS 电压_NN 低于_VV 一_CD 定值_NN ，_PU 会_VV 直接_AD 切断_VV 电源_NN ，_PU 保护_VV 嵌入式_NN 系统_NN 的_DEG 电路_NN
+
+许多_CD 电子_NN 设备_NN 中_LC 都_AD 有_VE UVLO_NN 的_DEG 功能_NN ，_PU 例如_AD 在_P 镇流器_NN 中_LC 就_AD 有_VE UVLO_NN 电路_NN ，_PU 若_CS 电压_NN 过低_VV 时_LC 直接_AD 切断_VV 电源_NN 。_PU
+
+

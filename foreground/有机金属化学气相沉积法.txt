@@ -1,0 +1,18 @@
+﻿有_DT 机金_NN 属化_VV 学气_NN 相_NN 沉积_NN 法_NN
+
+有机_JJ 金属_NN 化学_NN 气相_NN 沉积法_NN ，_PU 是_VC 在_P 基板_NN 上_LC 成长_VV 半导体_NN 薄膜_NN 的_DEC 一_CD 种_M 方法_NN 。_PU 其他_DT 类似_VA 的_DEC 名称_NN 如_NN ：_PU 、_PU 及_CC 等等_VA ，_PU 其中_NN 的_DEG 前_DT 两_CD 个_M 字母_NN 或_CC 是_VC ，_PU 指_VV 的_DEC 是_VC 半导体_NN 薄膜_NN 成长_NN 过程_NN 中_LC 所_MSP 采用_VV 的_DEC 反应源_NN 为_P 金属_NN 化合物_NN 或是_CC 有_VE 机_NN 金属_NN 化合物_NN 。_PU 而后面_AD 三_CD 个_M 字母_NN 或_CC 是_VC ，_PU 指_VV 的_DEC 是_VC 所_MSP 成_VV 长_VA 的_DEC 半导体_NN 薄膜_NN 的_DEG 特性_NN 是_VC 属于_VV 非_VC 晶形_JJ 薄膜_NN 或是_CC 具有_VV 晶_NN 形_NN 的_DEC 薄膜_NN 。_PU 一般而言_AD ，_PU 所_MSP 指_VV 的_DEC 是_VC 非晶形_JJ 薄膜_NN 的_DEG 成长_NN ，_PU 这_DT 种_M 成长_NN 方式_NN 归类於_VV "_PU 沉积_NN "_PU (_PU Deposition_M )_PU ；_PU 而_CC 所_MSP 指_VV 的_DEC 是_VC 具有_VV 晶_NN 形_NN 的_DEC 薄膜_NN 成长_NN 方式_NN ，_PU 这_DT 种_M 方式_NN 归类於_VV "_PU 磊晶_NN "_PU (_PU Epitaxy_NN )_NN 。_PU
+
+MOCVD_NN 成长_VV 薄膜_NN 时_LC ，_PU 主要_AD 将_BA 载流_JJ 气体_NN 通过_P 有机_JJ 金属_NN 反应源_NN 的_DEG 容器_NN 时_LC ，_PU 将_BA 反应源_NN 的_DEG 饱和_JJ 蒸气_NN 带_VV 至_P 反应腔_NN 中_LC 与_P 其它_DT 反应_JJ 气体_NN 混合_VV ，_PU 然后_AD 在_P 被_SB 加热_VV 的_DEC 基板_NN 上面_LC 发生_VV 化学_NN 反应_NN 促成_VV 薄膜_NN 的_DEG 成长_NN 。_PU 一般而言_AD ，_PU 载流_NN 气体_NN 通常_AD 是_VC 氢气_NN ，_PU 但是_CC 也_AD 有些_DT 特殊_JJ 情况_NN 下_LC 采用_VV 氮气_NN （_PU 例如_AD ：_PU 成_VV 长氮化_NN 铟镓_NN （_PU InGaN_NN ）_PU 薄膜_NN 时_LC ）_PU 。_PU 常用_VV 的_DEC 基板_NN 为_VC 砷化镓_NN （_PU G_CD aAs_M ）_PU 、_PU 磷化镓_NN （_PU G_CD aP_M ）_PU 、_PU 磷化铟_NN （_PU InP_NN ）_PU 、_PU 硅（Si_NN ）_PU 、_PU 碳化硅_NN （_PU SiC_NN ）_PU 及_CC 蓝宝石_NN （_PU AlO_NN ）_PU 等等_VV 。_PU 而_CC 通常_AD 所_MSP 成长_VV 的_DEC 薄膜_NN 材料_NN 主要_AD 为_VC 三五_NN 族_NN 化合物_NN 半导体_NN （_PU 例如_AD ：_PU 砷化镓_NN （_PU G_CD aAs_M ）_PU 、_PU 砷化_JJ 镓铝_NN （_PU AlGaAs_NN ）_PU 、_PU 磷化_NN 铝铟镓_NN （_PU AlGaInP_NN ）_PU 、_PU 氮化铟镓_NN （_PU InGaN_NN ）_PU ）_PU 或_CC 是_VC 二六_CD 族_NN 化合物_NN 半导体_NN ，_PU 这些_DT 半导体_NN 薄膜_NN 则_AD 是_VC 应用_VV 在_P 光电_NN 元件_NN （_PU 例如_AD ：_PU 发光_JJ 二极体_NN 、_PU 雷射_NN 二极体_NN 及_CC 太阳_NN 能_VV 电池_NN ）_PU 及_CC 微_JJ 电子_NN 元件_NN （_PU 例如_AD ：_PU 异质_NN 结_VV 双极性_JJ 晶体管_NN ）_PU 及_CC 假晶式_JJ 高_JJ 电子_NN 迁移率_NN 电晶体_NN （_PU PHEMT_NN ）_PU ）_PU 的_DEG 制作_NN 。_PU
+
+MOCVD_NN 系统_NN 的_DEC 组件_NN 可_VV 大致_AD 分为_VV ：_PU 反应腔_NN 、_PU 气体_NN 控制_NN 及_CC 混合_NN 系统_NN 、_PU 反应源_NN 及_CC 废气_NN 处理_NN 系统_NN 。_PU
+
+1_CD ._PU 反应腔_NN （_PU ReactorChamber_NN ）_PU ：_PU
+
+2_CD ._PU 气体_NN 控制_NN 及_CC 混合_NN 系统_NN ：_PU
+
+3_CD ._PU 反应源_NN （_PU Precursor_NN ）_PU ：_PU
+
+4_CD ._PU 废气_NN 处理_NN 系统_NN （_PU Scrubber_NR ）_PU ：_PU
+
+
+

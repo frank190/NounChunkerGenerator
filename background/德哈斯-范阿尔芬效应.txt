@@ -1,0 +1,9 @@
+﻿德_NN 哈_NOI 斯_DT -_PU 范阿尔_NN 芬_NN 效应_NN
+
+德哈斯_NN -_PU 范阿_NN 尔芬_NN 效应_NN （_PU 英文_NN :_PU DeHaas_NR -_PU vanAlpheneffect_NR )_ETC ;_PU 是_VC 指_VV 纯_JJ 金属_NN 晶体_NN 的_DEC 磁化_NN 强度_NN 随_P 外加_VV 磁场_NN 的_DEG 增加_VV 而_CC 发生_VV 振荡_NN 的_DEC 现象_NN 。_PU 它_PN 是_VC 一_CD 种_M 量子_NN 力学_NN 效应_NN 。_PU 产生_VV 这_DT 种_M 效应_NN 的_DEC 物理_NN 原因_NN 是_VC 由于_P 金属_NN 晶体_NN 的_DEC 电子_NN 能_VV 态_NN 的_DEC “_PU 朗道_NN 量子化_NN ”_PU 引起_VV 的_DEC 。_PU 此时_NT 金属_NN 的_DEC 电子_NN 在_P 磁场_NN 中_LC ，_PU 只_AD 能_VV 以_P 一_CD 系_NN 列轨_NN 道量_NN 子化_NN 状态_NN 存在_VV ；_PU 由于_P 电子_NN 占有_VV 朗道量_NN 子化_NN 状态_NN 的_DEG 数目_NN 随_P 磁场_NN 而_MSP 改变_VV ，_PU 因此_AD ，_PU 移动_VV 磁场_NN ，_PU 就_AD 可_VV 观察_VV 到_VV 金属_NN 晶体_NN 的_DEC 磁化_NN 强度_NN 随_P 磁场_NN 倒数_NN 而_CC 周期_NN 振荡_NN 。_PU
+
+德哈斯_NN -_PU 范阿_NN 尔芬_NN 效应_NN 是_VC 由_P 约翰_NN ·_PU 德哈_NN 斯_NN 和_CC 他_PN 的_DEG 学生_NN 范阿_NN 尔芬于_VV 1930_CD 年_M 发现_VV 的_SP 。_PU
+
+要_VV 在_P 高_JJ 磁场_NN 强度_NN 和_CC 低温_NN 下_LC ，_PU 金属_NN 才_AD 会_VV 出现_VV 德哈斯_NN -_PU 范阿_NN 尔芬_NN 效应_NN 。_PU 在_P 这样_JJ 的_DEG 条件_NN 下_LC ，_PU 金属_NN 的_DEC 其它_DT 一些_CD 性能_NN ，_PU 如_P 电阻_NN （_PU 称为_VV 舒_NN 伯_OD 尼_M 科夫_NN -_PU 德哈_NN 斯_DT 效应_NN ）_PU 和_CC 比热_NN 等_ETC 也_AD 发生_VV 振荡_NN 。_PU
+
+

@@ -1,0 +1,13 @@
+﻿图像_NN
+
+图_NN 像_AD 是_VC 人_NN 对_P 视觉_NN 感知_VV 的_DEC 物质_NN 再现_VV 。_PU 图像_NN 可以_VV 由_P 光学_NN 设备_NN 获取_VV ，_PU 如_P 照相机_NN 、_PU 镜子_NN 、_PU 望远镜_NN 及_CC 显微镜_NN 等_ETC ；_PU 也_AD 可以_VV 人为_AD 创作_VV ，_PU 如_P 手工_NN 绘画_VV 。_PU 图像_NN 可以_VV 记录_VV 、_PU 保存_VV 在_P 纸质_NN 媒介_VA 、_PU 胶片_NN 等等_ETC 对光_NN 信号_NN 敏感_VA 的_DEC 介质_NN 上_LC 。_PU 随着_P 数字_NN 采集_NN 技术_NN 和_CC 信号_NN 处理_NN 理论_VA 的_DEC 发展_NN ，_PU 越来越_AD 多_VA 的_DEC 图像_NN 以_P 数字_NN 形式_NN 存储_VV 。_PU 因而_AD ，_PU 有些_DT 情况_NN 下_LC “_PU 图像_NN ”_PU 一_CD 词_NN 实际上_AD 是_VC 指_VV 数字_NN 图像_NN 。_PU
+
+与_P 图像_NN 相关_VV 的_DEC 话题_NN 包括_VV 图像_NN 采集_VV 、_PU 图像_VV 制作_NN 、_PU 图像_NN 分析_NN 和_CC 图像_NN 处理_NN 等_ETC 。_PU
+
+图像_AD 分为_VV 静态_JJ 影像_NN ，_PU 如_P 图片_NN 、_PU 照片_NN 等_ETC ，_PU 和_CC 动态_JJ 影像_NN ，_PU 如_P 影片_NN 等_ETC 两_CD 种_M 。_PU
+
+图像_AD 是_VC 一_CD 种_M 视觉_NN 符号_NN 。_PU 透过_P 专业_NN 设计_VV 的_DEC 图像_NN ，_PU 可以_VV 发展_VV 成人_NN 与_CC 人沟_NN 通_VV 的_DEC 视觉_NN 语言_NN ，_PU 也_AD 可以_VV 是_VC 了_AS 解族_VV 群文化_NN 与_CC 历史_DT 源流_NN 的_DEC 史料_NN 。_PU 世界_NN 美术史_NN 中_LC 大量_CD 的_DEG 平面_NN 绘画_NN 、_PU 立体雕_NN 塑_NN 与_P 建筑_NN ，_PU 也_AD 可_VV 视为_VV 人类_NN 由_P 古自_JJ 今文_NN 明_AD 发展_VV 的_DEC 图像_NN 文化_NN 资产_NN 。_PU
+
+
+
+

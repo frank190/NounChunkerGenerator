@@ -1,0 +1,5 @@
+﻿前_NT 开式_NN 晶圆_VV 传送盒_NN
+
+前开式_JJ 晶圆_NN 传送盒_NN F_CD O_CC UP(_CD FrontOpeningUnifiedPod_NN )_NN 。_PU 这_NN 是_VC 半导体_NN 制程_NN 中_LC 被_SB 使用_VV 来_MSP 保护_VV 、_PU 运送_NN 、_PU 并_CC 储存_VV 晶圆_VV 的_DEC 一_CD 种_M 容器_NN ，_PU 其_PN 内部_NN 可以_VV 容纳_VV 25_CD 片_M 的_DEG 300_CD mm_M 晶圆_NN ，_PU 而_CC 其_PN 主要_JJ 的_DEG 组成_NN 元件_NN 为_VC 一_CD 个_M 能_VV 容纳_VV 25_CD 片_M 晶圆_VV 的_DEC 前开式_JJ 容器_NN 并_CC 有_VE 一_CD 个_M 前开式_JJ 的_DEG 门框_NN 专司_NN 容器_VV 的_DEC 开闭_NN ，_PU 是_VC 一_CD 种_M 专_AD 属于_VV 12_CD 寸_M (_PU 300_CD mm_M )_PU 晶圆厂_NN 内_LC 的_DEG 自动化_NN 传送_NN 系统_NN 重要_VA 的_DEC 传载_NN 容器_NN 。_PU 它_PN 最_AD 重要_VA 的_DEC 功用_NN 是_VC 确保_VV 每_DT 25_CD 片_M 的_DEG 晶圆_NN 在_P 它_PN 的_DEG 保护_NN 下_LC 避免_VV 在_P 每_DT 一_CD 台_NN 生产_NN 机台_NN 之间_LC 的_DEG 传送_NN 被_LB 外部_NN 环境_NN 中_LC 的_DEG 微尘汙染_NN ，_PU 进而_AD 影响_VV 到_VV 良率_NN 。_PU 是_VC 先进_VA 的_DEC 12_CD 寸晶_NN 圆厂_NN 重要_VA 的_DEC 生产_NN 工具_NN 。_PU
+
+

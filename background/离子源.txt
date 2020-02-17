@@ -1,0 +1,5 @@
+﻿离子_NN 源_NN
+
+离子_NN 源_NN 是_VC 产生_VV 原子_NN 和_CC 分子_NN 离子_NN 的_DEC 设备_NN 。_PU 离子_NN 源_NN 被_SB 用于_VV 质谱仪_NN ，_PU 光学_NN 发射光_NN 谱仪_NN ，_PU 粒子_NN 加速器_NN ，_PU 离子_NN 注入机_NN 和_CC 离子_NN 发动机_NN 形成_VV 离子_NN 。_PU
+
+

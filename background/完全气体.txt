@@ -1,0 +1,14 @@
+﻿完_VV 全_DT 气体_NN
+
+完全_JJ 气体_NN 在_P 物理学_NN 中_LC 是_VC 指_VV 一_CD 种_M 假想_VV 的_DEC 气体_NN ，_PU 仅_AD 考虑_VV 分子_NN 热_NN 运动_NN ，_PU 而_CC 忽略_JJ 分子_NN 间_LC 内聚力_NN 与_CC 分子_NN 体积_NN ，_PU 因此_AD 在_P 物理_NN 特性_NN 的_DEC 计算_NN 上_LC 会_VV 比较_VV 简单_VA 。_PU 完全_AD 气体_NN 比_P 理_NN 想气体_NN 更加_VV 的_DEC 简单_VA ，_PU 因此_AD 可以_VV 将_BA 理想_JJ 气体_NN 方程_NN 式直_AD 接用_VV 在_P 完全_JJ 气体_NN 上_LC ，_PU 不_AD 需_VV 考虑_VV 凡_AD 得_VV 瓦力_NN 的_DEG 影响_NN
+
+有些_DT 文献_NN 中_LC ，_PU 会_VV 将_BA 完全_JJ 气体_NN 等同于_VV 理想_JJ 气体_NN 。_PU
+不过_AD 也_AD 有时_AD 会_VV 有_VE 比_NN 较_AD 细_VA 的_DEC 分类_NN ，_PU 例如_AD 将_BA 完全_JJ 气体_NN 区分_NN 为_VC 热_NN 完全_AD 气体_NN （_PU ）_PU 与_P 量_NN 热_AD 完全_AD 气体_NN （_PU ）_PU 。_PU
+
+其中_NN 热_AD 完全_AD 气体_NN 是_VC 指_VV 满足_VV 克拉_NN 珀龙_NN 状态_NN 方程_NN 的_DEC 气体_NN ，_PU 且_CC 其_PN 内能_NN 、_PU 焓_NN 、_PU 比热容_NN 为_VC 温度_NN 的_DEC 函数_NN 。_PU 而_CC 量_NN 热_AD 完全_AD 气体_NN 则_AD 是_VC 指_VV 比_P 热容_NN 与_CC 比热比_NN 为_VC 常数_NN 的_DEC 热_NN 完全_AD 气体_NN 。_PU
+
+有时_AD 也_AD 会_VV 用_P 不_AD 完全_VA 气体_NN 、_PU 半_AD 完全_AD 气体_NN 、_PU 完全_JJ 气体_NN 及_CC 理想_JJ 气体_NN 之类_VA 的_DEC 名称_NN 。_PU
+
+下_DT 表_NN 可以_VV 说明_VV 这_DT 二_CD 种_M 命名_NN 方式_NN 差异_NN
+
+

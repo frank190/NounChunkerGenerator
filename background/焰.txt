@@ -1,0 +1,12 @@
+﻿焰_NN
+
+火焰_NN -_PU {zh_NN -_PU Hant_NN :_PU 、_PU 火燄_NN 、_PU 焰_NN 或_CC 燄_NN ;_PU zh_NN -_PU Hans_NN :_PU 或_CC 焰_NN ;_PU }_NN -_PU ，_PU 是_VC 高能_JJ 粒子_NN 与_CC 其他_DT 粒子_NN 碰撞_NN 时_LC 造成_VV 的_DEC 发光_JJ 现象_NN 。_PU 当_P 可燃物_NN 质处_NN 於_P 白炽_VA 的_DEC 高温_NN 状态_NN 时_LC ，_PU 会_VV 使_VV 最_AD 接近_VV 物质_NN 白炽_NN 部分_NN 的_DEC 粒子_NN 加速_NN ，_PU 并_CC 和_P 其他_DT 粒子_NN 碰撞_VV 并_CC 发光_VV ，_PU 这_DT 个_M 过程_NN 称为_VV 「_PU 燃烧_VV 」_PU 。_PU 在_P 大气_NN 中_LC ，_PU 愈_AD 高温_NN 的_DEC 燃烧_NN 所_MSP 发生_VV 的_DEC 火焰_NN 会_VV 愈_AD 稳定_VA 。_PU
+
+火焰_NN 的_DEC 粒子_NN 运动_NN 以_MSP 碰撞_VV 为_VC 主_VA ，_PU 其_PN 特征_NN 更_AD 接近_VV 气体_NN ，_PU 而_CC 不_AD 是_VC 电浆体_NN ，_PU 但_AD 造成_VV 火焰_NN 这_DT 个_M 现象_NN 的_DEG 那_DT 个_M 白炽物质_NN 的_DEC 高能量_NN 有机_JJ 会使_NN 周围_NN 的_DEC 气体_NN 离子化_NN ，_PU 令_VV 周围_NN 的_DEC 气体_NN 转化_VV 为_VC 电浆体_NN ，_PU 因此_AD 某些_DT 高温_NN 火焰_NN 可能_VV 带有_VV 微量_NN 极_AD 低_VA 电离度_NN 的_DEC 电浆体_NN 。_PU
+
+火焰_NN 的_DEC 颜色_NN 取决_VV 於_P 其_PN 燃烧_VV 介质_NN （_PU 空气_NN ）_PU 、_PU 次要_JJ 则_AD 是_VC 温度_NN ，_PU 并_CC 不_AD 一定_JJ 蓝色_JJ 光就_NN 比_P 黄色_JJ 光_NN 温度_NN 高_VA 。_PU 例如_AD 酒精灯_NN 外_LC 焰_VV 温度_NN 高于_VV 内焰_NN ，_PU 黄色_JJ 就_AD 高于_VV 蓝色_NN 。_PU
+颜色_NN 随_P 温度_NN 变化_NN 的_DEC 是_VC 物质_NN 本身_PN 的_DEG 颜色_NN ，_PU 例如_AD 烧红_VV 的_DEC 物体_NN 温度_NN 低于_VV 烧_NN 的_DEG 发白光_NN 的_DEC 物体_NN 。_PU
+
+我们_PN 可以_VV 只_AD 以_P 目视_NN 的_DEC 方法_NN 概_AD 估出_VV 火光_NN 的_DEC 温度_NN ：_PU
+
+

@@ -1,0 +1,10 @@
+﻿影片_NN 剪辑_NN 软体_NN
+
+影片_NN 剪辑_NN 软体_NN 是_VC 一_CD 种_M 应用_JJ 软体_NN ，_PU 可_VV 在_P 电脑_NN 非_JJ 线性_JJ 剪辑_NN 系统_NN （_PU N_CD LE_M ）_PU 上_LC 处理_NN 数位_NN 影片_NN 的_DEG 后制_JJ 剪辑_NN 。_PU 它_PN 取代_VV 了_AS 传统_JJ 的_DEG 平面_NN 赛璐珞_NN 底片_NN 剪辑_NN 工具_NN ，_PU 以及_CC 类比_VV 的_DEC 录影_NN 带线性_JJ 剪辑_NN 机器_NN 。_PU
+
+非_JJ 线性_JJ 剪辑_NN 软体_NN 通常_AD 是_VC 以_P 时间轴_NN （_PU timeline_NN ）_PU 介面_NN 为_VC 基础_NN ，_PU 录制_VV 的_DEC 动态_JJ 影片_NN 片段_NN （_PU clip_NN ）_PU 依_P 播放_VV 顺序_AD 在_P 时间轴_NN 上_LC 排列_VV 。_PU 非线性_JJ 剪辑_NN 软体_NN 提供_VV 了_AS 各_DT 种_M 编辑_NN 片段_NN 的_DEC 工具_NN ，_PU 包括_VV 裁_DER 剪_VV 、_PU 分割_NN 、_PU 切断_VV ，_PU 也_AD 能_VV 重新_AD 组合_VV 排列_VV 时间轴_NN 上_LC 的_DEG 各_DT 个_M 片段_NN 。_PU 随着_P 非线性_JJ 剪辑_NN 软体_NN 的_DEG 发展_NN 进步_VV ，_PU 所_MSP 包含_VV 的_DEC 功能_NN 也_AD 逐渐_AD 扩充_VV ，_PU 现在_NT 大多数_CD 的_DEG 消费者_NN 和_CC 专业_NN 非_JJ 线性_JJ 剪辑_NN 系统_NN 也_AD 加入_VV 了_AS 调整_VV 影片_NN 色彩_NN 、_PU 影片_NN 校正_VV 和_CC 视觉_VV 特效_JJ 功能_NN ，_PU 也_AD 能_VV 编辑_VV 或_CC 混合_VV 与_P 影片_NN 序列_NN 同步_VA 的_DEC 音讯_NN 。_PU
+
+当_P 剪辑_NN 计画_NN 完成_VV 后_LC ，_PU 非_JJ 线性_JJ 剪辑_NN 系统_NN 能_VV 将_BA 计划_VV 输出_VV 成_VV 多_CD 种_M 格式_NN ，_PU 包括_VV 公开_VV 播送_VV 用_VV 的_DEC 影带_NN 格式_NN ，_PU 或_CC 可_VV 透过_P 网路_NN 、_PU DVD_NN 和_CC 行动_NN 装置_NN 传输_VV 的_DEC 压缩_NN 文件_NN 格式_NN 。_PU
+
+
+

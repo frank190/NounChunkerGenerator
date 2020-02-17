@@ -1,0 +1,7 @@
+﻿平方_NN 反_VV 比_P 定律_NN
+
+反平_JJ 方定律_NN 是_VC 一_CD 个_M 物理_NN 学定律_NN ，_PU 又_AD 称_VV 平方_NN 反_VV 比_P 定律_NN 、_PU 逆平_NN 方律_NN 、_PU 反平_JJ 方律_NN ；_PU 如果_CS 任何_DT 一_CD 个_M 物理_NN 定律_NN 中_LC ，_PU 某_DT 种_M 物理量_NN 的_DEG 分布_NN 或_CC 强度_NN ，_PU 会_VV 按照_VV 距离_NN 源_NN 的_DEG 平方_NN 反比_VV 而_CC 下降_VV ，_PU 那么_AD 这_DT 个_M 定律_NN 就_AD 可以_VV 称为_VV 是_VC 一_CD 个_M 反平方_NN 定律_VV 。_PU
+
+例子_NN ：_PU
+
+

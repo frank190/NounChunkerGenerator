@@ -1,0 +1,50 @@
+﻿_CD 继电器_NN
+
+继电器_NN （_PU Relay_NN ）_PU ，_PU 也称_JJ 电驿_NN ，_PU 是_VC 一_CD 种_M 电子_NN 控制_NN 器件_NN ，_PU 它_PN 具有_VV 控制_NN 系统_NN （_PU 又_AD 称_VV 输入_NN 回路_NN ）_PU 和_CC 被_LB 控制_NN 系统_NN （_PU 又_AD 称_VV 输出_NN 回路_NN ）_PU ，_PU 通常_AD 应用于_VV 自动_AD 控制_VV 电路_NN 中_LC ，_PU 它_PN 实际上_AD 是_VC 用_VV 较_AD 小_VA 的_DEC 电流_NN 去_VV 控制_VV 较_AD 大_JJ 电流_NN 的_DEC 一_CD 种_M “_PU 自动_NN 开关_NN ”_PU 。_PU 故_AD 在_P 电路_NN 中_LC 起_VV 着_AS 自动_JJ 调节_NN 、_PU 安全_VV 保护_NN 、_PU 转换_NN 电路_NN 等_ETC 作用_NN 。_PU
+
+时间_NN 继电器_NN 用来_VV 延迟_VV 接触_VV 操作_NN ，_PU 有_VE 通电_NN 后_LC 延迟_VV 接触者_NN 和_CC 断电_NN 后_LC 延迟_VV 断开者_NN （_PU 或_CC 两_CD 者_NN 兼有_VV ）_PU 的_DEC 型号_NN 。_PU
+
+依据_P 输入_VV 线圈_NN 的_DEG 电流_NN 性质_NN ，_PU 分为_VV 直流_JJ 继电器_NN 和_CC 交流_NN 继电器_NN 。_PU 直流_JJ 继电器_NN 与_P 交流_NN 继电器_NN 在_P 控制_NN 方式_NN 上_LC 并_CC 无_VE 区别_NN ，_PU 但是_CC 在_VV 铁心_NN 结构_NN 上_LC 有_VE 区别_NN 。_PU 交流_NN 继电器_NN ，_PU 因_P 电流_NN 产生_VV 交变_NN 磁场_NN ，_PU 在_P 磁感应_NN 强度_NN 过_AD 零_VA 时_LC ，_PU 触点_NN 会_VV 断开_VV ，_PU 产生_VV 振动_NN 与_P 噪音_NN ，_PU 因此_AD 在_P 铁心_NN 上_LC 增加_VV 短路环_NN ，_PU 延迟_VV 铁心_NN 磁场_NN 变化_VV ，_PU 可以_VV 防止_VV 触点_NN 振动_NN 。_PU
+
+热敏_JJ 干簧_NN 继电器_NN 是_VC 一_CD 种_M 利用_VV 热敏磁性_JJ 材料_NN 检测_NN 和_CC 控制_NN 温度_NN 的_DEC 新型_JJ 热敏_NN 开关_NN 。_PU 它_PN 由_P 感温_NN 磁环_NN 、_PU 恒磁环_NN 、_PU 干簧管_NN 、_PU 导热_NN 安装片_NN 、_PU 塑料_NN 衬底_NN 及_CC 其他_DT 一些_JJ 附件_NN 组成_VV 。_PU 热敏_JJ 干簧_NN 继电器_NN 不用_JJ 线圈_NN 励_NN 磁_LC ，_PU 而_CC 由_P 恒_JJ 磁环_NN 产生_VV 的_DEC 磁力_NN 驱动_NN 开关_NN 动作_NN 。_PU 恒_AD 磁环_NN 能否_AD 向_P 干簧管_NN 提供_VV 磁力_NN 是_VC 由_P 感温_NN 磁环_NN 的_DEG 温控_NN 特性_NN 决定_VV 的_DEC 。_PU
+
+固态_JJ 继电器_NN （_PU solidstaterelay_NN ，_PU S_CD SR_M ）_PU 是_VC 利用_VV 一_CD 颗_M 发光_JJ 二极体_NN （_PU LED_NN ）_PU 等_ETC 发光_JJ 元件_NN 与_P 一_CD 颗_M 光电_NN 晶体_NN 等_ETC 光_AD 接收_VV 元件_NN 作成_VV 之_DEC 光_NN 耦合器_NN ，_PU 触发_VV 硅控_NN 整流器_NN （_PU S_CD CR_M ）_PU 或_CC 双向_JJ 硅控_NN 整流器_NN （_PU TRIAC_NN ）_PU ，_PU 因此_AD 可以_VV 接受_VV 低压_NN （_PU DC_NN 或_CC AC_NN ）_PU 信号_NN 输入_VV ，_PU 而_CC 驱动_VV 高压_NN 之_DEG 输出_NN ，_PU 具隔_VV 离输_AD 出入_VV 及_CC 控制_VV 高_JJ 功率_NN 输出_NN 之_DEC 效果_NN 。_PU 优点_NN 是_VC 开关_NN 速度_NN 快_VA 、_PU 工作_NN 频率_NN 高_VA 、_PU 使用_NN 壽命_NN 长_VA 、_PU 噪声_NN 低_VA 和_CC 工作_NN 可靠_VA ，_PU 用于_VV 防爆_VV 场所_NN ，_PU 也_AD 有_VE 许多_CD 的_DEG 不利_NN 的_DEC 地方_NN ，_PU 例如_AD ：_PU 当_P 闭合_VV 的_DEC 时候_NN ，_PU 高_VA 的_DEC 电阻_NN （_PU 发热_NN ）_PU ，_PU 增加_VV 电噪音_NN 。_PU 当_P 断开_VV 的_DEC 时候_NN ，_PU 低_VA 的_DEC 电阻_NN ，_PU 反向_AD 漏_VV 电流_NN （_PU 通常_AD µ_VC A_NN 范围_NN ）_PU 。_PU 可_VV 使用_VV 于_P 取代_VV 常规_JJ 电磁式_NN 继电器_NN ，_PU 广泛_AD 用于_VV 数位_NN 程式_NN 控制_NN 装置_NN 。_PU
+
+固态_JJ 继电器_NN 按_P 负载_NN 电源_NN 类型_NN 可_VV 分为_VV 交流型_NN 和_CC 直流_NN 型_NN 。_PU 按_P 开关_NN 型式_NN 可_VV 分为_VV 常开型_JJ 和_CC 常闭型_JJ 。_PU 按隔_JJ 离型式_NN 可_VV 分为_VV 混合_JJ 型_NN 、_PU 变压器_NN 隔离_VV 型_NN 和_CC 光电_NN 隔离_NN 型_NN ，_PU 以_P 光电_NN 隔离_NN 型_NN 为_VC 最_AD 多_VA 。_PU
+
+磁簧_NN 继电器_NN 是_VC 以_P 线圈_NN 产生_VV 磁场_NN 将_BA 磁簧管_NN 作动_NN 之_DEG 继电器_NN ，_PU 为_VC 一_CD 种_M 线圈_NN 传感_NN 装置_NN 。_PU 因_P 此_DT 磁簧_NN 继电器_NN 之_DEG 特征_NN 、_PU 小型_JJ 尺寸_NN 、_PU 轻量_CD 、_PU 反应_NN 速度_NN 快_VA 、_PU 短_AD 跳动_VV 时间_NN 等_ETC 特性_NN 。_PU
+
+当_P 整_DT 块_M 铁磁_NN 金属_NN 或者_CC 其他_DT 导磁_NN 物质_NN 与_P 之_PN 靠近_VV 的_DEC 时候_NN ，_PU 发生_VV 动作_NN ，_PU 开通_VV 或者_CC 闭合_NN 电路_NN 。_PU 由_P 永久_JJ 磁铁_NN 和_CC 干簧管_NN 组成_VV 。_PU 永久_JJ 磁铁_NN 、_PU 干簧管_NN 固定_VV 在_P 一_CD 个_M 不_AD 导_VV 磁_NN 也_AD 不_AD 带有_VV 磁性_NN 的_DEC 支架_NN 上_LC 。_PU 以_P 永久_JJ 磁铁_NN 的_DEG 南北_NN 极_NN 的_DEG 连线_NN 为_VV 轴线_NN ，_PU 这_DT 个_M 轴线_NN 应该_VV 与_P 干簧管_NN 的_DEG 轴线_NN 重合_VV 或者_CC 基本_AD 重合_VV 。_PU 由_P 远及_JJ 近_NN 的_DEG 调整_DT 永久_JJ 磁铁_NN 与_CC 干簧管_NN 之间_LC 的_DEG 距离_NN ，_PU 当_P 干簧管_NN 刚好_AD 发生_VV 动作_NN （_PU 对于_P 常开_JJ 的_DEG 干簧管_NN ，_PU 变为_VV 闭合_NN ；_PU 对于_P 常闭_VV 的_DEC 干簧管_NN ，_PU 变为_VV 断开_NN ）_PU 时_LC ，_PU 将_BA 磁铁_NN 的_DEC 位置_NN 固定_VV 下来_VV 。_PU 这时_NT ，_PU 当_P 有_VE 整_DT 块_M 导磁_NN 材料_NN ，_PU 例如_AD 铁板_NN 同时_AD 靠近_VV 磁铁_NN 和_CC 干簧管_NN 时_LC ，_PU 干簧管_NN 会_VV 再次_AD 发生_VV 动作_NN ，_PU 恢复_VV 到_VV 没有_VV 磁场_NN 作用_NN 时_LC 的_DEG 状态_NN ；_PU 当_P 该_DT 铁板_NN 离开_VV 时_LC ，_PU 干簧管_NN 即_AD 发生_VV 相反_JJ 方向_NN 的_DEG 动作_NN 。_PU
+磁簧_NN 继电器_NN 结构_NN 坚固_VA ，_PU 触点_NN 为_VC 密封_NN 状态_NN ，_PU 耐用性_NN 高_VA ，_PU 可以_VV 作为_P 机械_NN 设备_NN 的_DEG 位置_NN 限制_VV 开关_NN ，_PU 也_CC 可以_VV 用以_VV 探测_VV 铁制门_NN 、_PU 窗_NN 等_ETC 是否_AD 在_P 指定_JJ 位置_NN 。_PU
+
+光_CS 继电器_NN 为_VC AC_NN /_PU DC_NN 并用_VV 的_DEC 半导体_NN 继电器_NN ，_PU 指发_VV 光器件_NN 和_CC 受光器件_NN 一体化_NN 的_DEC 器件_NN 。_PU 输入侧_NN 和_CC 输出侧_NN 电气性_NN 绝缘_NN ，_PU 但_CC 信号_NN 可以_VV 通过_P 光_NN 信号_NN 传输_NN 。_PU
+
+其_PN 特点_NN 为_VC 壽命_NN 为_VC 半_BA 永久性_JJ 、_PU 微小_JJ 电流_NN 驱动_NN 信号_NN 、_PU 高_JJ 阻抗_NN 绝缘_NN 耐压_NN 、_PU 超小型_JJ 、_PU 光传_NN 输_NN 、_PU 无_VE 接点_NN 等_ETC 。_PU
+
+主要_AD 应用于_VV 量_NN 测_VV 设备_NN 、_PU 通信_NN 设备_NN 、_PU 保全_VV 设备_NN 、_PU 医疗_NN 设备_NN 等_ETC 。_PU
+
+是_VC 指_VV 继电器_NN 正常_AD 工作_VV 时线圈_NN 所_MSP 需要_VV 的_DEC 电压_NN 。_PU 根据_P 继电器_NN 的_DEG 型号_NN 不同_VA ，_PU 一般_AD 使用_VV 直流_JJ 电压_NN ，_PU 但_CC 交流_NN 继电器_NN 可以_VV 是_VC 交流_NN 电压_NN 。_PU
+是_VC 指_VV 继电器_NN 中线圈_NN 的_DEG 直流_NN 电阻_NN ，_PU 可以_VV 通过_P 三_CD 用_VV 电表_NN 测量_VV 。_PU
+是_VC 指_VV 继电器_NN 中_LC 接点_NN 接触_VV 后_LC 的_DEG 电阻_NN 值_NN 。_PU 此_DT 电阻値_NN 一般_AD 很_AD 小_VA ，_PU 不_AD 易_AD 通过_P 万_CD 用_P 表_NN 测量_VV ，_PU 宜_VV 使用_VV 低_JJ 阻计_NN 配合_VV 四_CD 线_NN 测量_NN 方式_NN 来_MSP 测量_VV 。_PU
+对于_P 许多_CD 继电器_NN 来说_LC ，_PU 接触_VV 电阻_NN 无穷_AD 大_VA 或者_CC 不_AD 稳定_VA 是_VC 最_AD 大_VA 的_DEC 问题_NN 。_PU
+
+是_VC 指_VV 继电器_NN 能够_VV 产生_VV 吸合_NN 动作_VV 的_DEC 最小_JJ 电流_NN 或_CC 最小_JJ 电压_NN 。_PU 在_P 正常_AD 使用_VV 时_LC ，_PU 给定_VV 的_DEC 电流_NN 必须_VV 略_AD 大于_VV 吸合_VV 电流_NN ，_PU 这样_AD 继电器_NN 才能_NN 稳定_VA 地_DEV 工作_VV 。_PU 而_CC 对于_P 线圈_NN 所_MSP 加_VV 的_DEC 工作_NN 电压_NN ，_PU 一般_AD 也_AD 不_AD 要_VV 超过_VV 额定_JJ 工作_NN 电压_NN 的_DEG 1.5_CD 倍_M ，_PU 否则_AD 会_VV 产生_VV 较_AD 大_VA 的_DEC 电流_NN 而_MSP 把_BA 线圈_NN 烧毁_NN 。_PU
+是_VC 指_VV 继电器_NN 产生_VV 释放_NN 动作_VV 的_DEC 最大_JJ 电流_NN 或_CC 最大_JJ 电压_NN 。_PU 当_P 继电器_NN 吸合_NN 状态_NN 的_DEC 电流_NN 减小_VV 到_VV 一定_JJ 程度_NN 时_LC ，_PU 继电器_NN 就_AD 会_VV 恢复_VV 到_CC 未_AD 通电_VV 的_DEC 释放_NN 状态_NN 。_PU 这时_NT 的_DEG 电流_NN 远远_AD 小于_VV 吸合_VV 电流_NN 。_PU
+是_VC 指_VV 继电器_NN 接点_NN 允许_VV 承载_VV 的_DEC 电压_NN 和_CC 电流_NN 。_PU 它_PN 决定_VV 了_AS 继电器_NN 能_VV 控制_VV 的_DEC 电压_NN 和_CC 电流_NN 大小_NN ，_PU 使用_VV 时_LC 不_AD 能_VV 超过_VV 此_DT 值_NN ，_PU 否则_AD 很_AD 容易_AD 损坏_VV 继电器_NN 的_DEG 触点_NN 。_PU
+
+用_P 万用_JJ 电表_NN 的_DEG 电阻档_NN ，_PU 测量_VV 常闭_JJ 触点_NN 与_CC 动点_NN 电阻_NN ，_PU 其_PN 阻值_NN 应为_VV 0_CD ；_PU 而_CC 常开_JJ 触点_NN 与_CC 动点_NN 的_DEG 阻值_NN 就_AD 为_VC 无穷_AD 大_VA 。_PU 由_P 此_PN 可以_VV 区别_VV 出_VV 哪_DT 个_M 是_VC 常_AD 闭_VV 触点_NN ，_PU 哪_DT 个_M 是_VC 常_AD 开_VV 触点_NN 。_PU
+
+可_VV 用_P 万能表_NN R_OD ×_PU 10_CD Ω档_NN 测量_NN 继电器_NN 线圈_NN 的_DEG 阻值_NN ，_PU 从而_AD 判断_VV 该_DT 线圈_NN 是否_AD 存在_VV 着_AS 开路_NN 现象_NN 。_PU
+找来_AD 可_VV 调稳_VV 压_VV 电源_NN 和_CC 电流_NN 表_NN ，_PU 给_P 继电器_NN 输入_VV 一_CD 组_M 电压_NN ，_PU 且_CC 在_P 供电_VV 回路_NN 中_LC 串入_VV 电流_NN 表_NN 进行_VV 监测_NN 。_PU 慢慢_AD 调高_VV 电源_NN 电压_NN ，_PU 听到_VV 继电器_NN 吸合声_NN 时_LC ，_PU 记下_VV 该_DT 吸合_NN 电压_NN 和_CC 吸合_VV 电流_NN 。_PU 为_VC 求_VV 准确_VA ，_PU 可以_VV 试_VV 多_CD 几_CD 次_M 而求_NN 平均值_NN 。_PU
+也_AD 是_VC 像_P 上述_JJ 那样_AD 连接_VV 测试_NN ，_PU 当_P 继电器_NN 发生_VV 吸合_NN 后_LC ，_PU 再_AD 逐渐_AD 降低_VV 供电_NN 电压_NN ，_PU 当_P 听到_VV 继电器_NN 再次_AD 发生_VV 释放_JJ 声音_NN 时_LC ，_PU 记下_VV 此时_NT 的_DEG 电压_NN 和_CC 电流_NN ，_PU 亦_AD 可_VV 尝试_VV 多_CD 几_CD 次_M 而_MSP 取得_VV 平均_JJ 的_DEG 释放_NN 电压_NN 和_CC 释放_VV 电流_NN 。_PU 一_CD 般_M 情况_NN 下_LC ，_PU 继电器_NN 的_DEG 释放_NN 电压_NN 约_AD 在_P 吸合_VV 电压_NN 的_DEG 10_CD ~_PU 50％_CD ，_PU 如果_CS 释放_VV 电压太_NN 小_VA （_PU 小于_VV 1_CD /_PU 10_CD 的_DEG 吸合_NN 电压_NN ）_PU ，_PU 则_AD 不_AD 能_VV 正常_AD 使用_VV 了_AS ，_PU 这样_AD 会_VV 对_P 电路_NN 的_DEG 稳定性_NN 造成_VV 威胁_NN ，_PU 工作_NN 不_AD 可靠_VA 。_PU
+
+
+继电器_NN 线圈_NN 在_P 电路_NN 中_LC 用_P 一_CD 个_M 长_JJ 方框_NN 符号_NN 表示_VV ，_PU 如果_CS 继电器_NN 有_VE 两_CD 个_M 线圈_NN ，_PU 就_AD 画_VV 两_CD 个_M 并列_CC 的_DEG 长方_JJ 框_NN 。_PU 同时_AD 在_P 长_NN 方框_NN 内_LC 或_CC 长_JJ 方框_NN 旁_LC 标_VV 上_JJ 继电器_NN 的_DEG 文字_NN 符号_NN “_PU J_NN ”_PU 。_PU 继电器_NN 的_DEG 触点_NN 有_VE 两_CD 种_M 表示_VV 方法_NN ：_PU 一_CD 种_M 是_VC 把_BA 它们_PN 直接_AD 画_VV 在_P 长_CD 方框_NN 一_CD 侧_NN ，_PU 这_DT 种_M 表示法_NN 较为_AD 直观_VV 。_PU 另_DT 一_CD 种_M 是_VC 按照_NN 电路_NN 连接_VV 的_DEC 需要_NN ，_PU 把_BA 各_DT 个_M 触点_NN 分别_AD 画到_VV 各自_PN 的_DEG 控制_NN 电路_NN 中_LC ，_PU 通常_AD 在_VV 同_DT 一_CD 继电器_NN 的_DEG 触点_NN 与_CC 线圈_NN 旁_LC 分别_AD 标注_VV 上_LC 相同_VA 的_DEC 文字_NN 符号_NN ，_PU 并_CC 将_BA 触点_NN 组编_NN 上_LC 号码_NN ，_PU 以_MSP 示_VV 区别_NN 。_PU 继电器_NN 的_DEG 触点_NN 有_VE 三_CD 种_M 基本_JJ 形式_NN ：_PU
+
+选用_VV 继电器_NN 时_LC ，_PU 一般_JJ 控制_NN 电路_NN 的_DEG 电源_NN 电压_NN 可_VV 作为_P 选用_VV 的_DEC 依据_NN 。_PU 控制_NN 电路_NN 应能_VV 给_VV 继电器_NN 提供_VV 足够_VA 的_DEC 工作_NN 电流_NN ，_PU 否则_AD 继电器_NN 吸合_NN 是_VC 不_AD 稳定_VA 的_DEC 。_PU
+查阅_VV 有关_JJ 资料_NN 确定_VV 使用_VV 条件_NN 后_LC ，_PU 可_VV 查找_VV 相关_JJ 资料_NN ，_PU 找出_VV 需要_VV 的_DEC 继电器_NN 的_DEG 型号_NN 和_CC 规格号_NN 。_PU 若_CS 手头_NN 已_AD 有_VE 继电器_NN ，_PU 可_VV 依据_P 资料_NN 核对_AD 是否_AD 可以_VV 利用_VV 。_PU 最后_AD 考虑_VV 尺寸_NN 是否_AD 合适_VA 。_PU
+
+若是_AD 用于_VV 一般_JJ 用电器_NN ，_PU 除_P 考虑_NN 机箱_NN 容积_NN 外_LC ，_PU 小型_JJ 继电器_NN 主要_AD 考虑_VV 电路板_NN 安装_VV 布局_NN 。_PU 对于_P 小型_JJ 电器_NN ，_PU 如_P 玩具_NN 、_PU 遥控_NN 装置_NN 则_AD 应选_VV 用_VV 超小型_JJ 继电器_NN 产品_NN 。_PU
+
+
+

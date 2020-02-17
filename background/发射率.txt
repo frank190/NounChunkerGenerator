@@ -1,0 +1,13 @@
+﻿发_VV 射率_NN
+
+发射率_NN 是_VC 衡量_NN 物体_NN 表面_NN 以_P 热辐射_NN 的_DEG 形式_NN 释放_VV 能量_NN 相对_AD 强弱_VA 的_DEC 能力_NN 。_PU 物体_NN 的_DEG 发射率_NN 等于_P 物体_NN 在_P 一定_JJ 温度_NN 下_LC 发射_VV 的_DEC 能量_NN 与_CC 同_DT 一_CD 温度_NN 下_LC 黑体_NN 辐射_NN 能量_NN 之_DEG 比_NN 。_PU 黑体_NN 的_DEG 发射率_NN 等于_P 1_CD ，_PU 其他_DT 物体_NN 的_DEG 发射率_NN 介于_VV 0_CD 和_CC 1_CD 之间_LC 。_PU 发射率_NN 是_VC 个_M 标量_NN 。_PU
+
+通常_AD 来说_VV ，_PU 材料_NN 颜色_NN 越_AD 暗_VV 表面_NN 越_AD 粗糙_VA ，_PU 其_PN 发射率_NN 就_AD 越_AD 接近_VV 1_CD 。_PU 材料_NN 的_DEG 反射率_NN 越_AD 高_VA ，_PU 其_PN 发射率_NN 就_AD 越_AD 低_VA ，_PU 高度_NN 抛光_VV 的_DEC 银_NN 的_DEG 发射率_NN 只有_AD 大约_AD 0_CD ._PU 02_CD 。_PU
+
+发射率_NN 定义_NN 为_VC 热_JJ 辐射体_NN 的_DEG 辐射出_NN 射度_NN 与_CC 处于_VV 相同_JJ 温度_NN 的_DEC 全_DT 辐射体_NN 的_DEG 辐射_NN 出_VV 射度_NN 之_DEG 比_NN 。_PU
+
+光谱_JJ 发射率_NN 定义_NN 为_VC 热_JJ 辐射体_NN 的_DEG 辐射出_NN 射度_NN 的_DEC 光谱_NN 密_JJ 集度_NN 与_P 处于_VV 相同_JJ 温度_NN 的_DEC 全_DT 辐射体_NN 的_DEC 光谱_NN 密集度_AD 之_DEV 比_VV 。_PU
+
+光谱_NN 定向_VV 发射率_NN 定义_NN 为_VC 热_JJ 辐射体_NN 给定_NN 方向_NN 的_DEG 辐射_NN 亮度_NN 的_DEC 光谱_NN 密_JJ 集度_NN 与_P 处于_VV 相同_JJ 温度_NN 的_DEC 全_DT 辐射体_NN 辐射_NN 亮度_NN 的_DEC 光谱_NN 密集度_AD 之_DEV 比_VV 。_PU
+
+

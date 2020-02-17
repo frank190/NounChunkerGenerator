@@ -1,0 +1,15 @@
+﻿麦克_NN 斯_DT 韦妖_NN
+
+麦克_NN 斯_DT 韦妖_NN （_PU ）_PU ，_PU 是_VC 在_P 物理学_NN 中_LC 假想_VV 的_DEC 妖_NN ，_PU 能_VV 探测_VV 并_CC 控制_VV 单_DT 个_M 分子_NN 的_DEG 运动_NN ，_PU 於_P 1871_CD 年_M 由_P 英国物_NN 理学_NN 家詹_NN 姆斯_NN ·_PU 马克_NN 士_NN 威_VC 为了_P 说明_VV 违_VV 反热力_NN 学_VV 第二_OD 定律_VV 的_DEC 可能性_NN 而_MSP 设想_VV 的_SP 。_PU
+
+当时_NT 麦克_NN 斯_DT 韦意_NN 识到_VV 自然界_NN 存在_VV 着_AS 与_P 熵_NN 增加_VV 相_AD 拮抗_VV 的_DEC 能量_NN 控制_NN 机制_NN 。_PU 但_CC 他_PN 无法_AD 清晰_VA 地_DEV 说明_VV 这_DT 种_M 机制_NN 。_PU 他_PN 只_AD 能_VV 诙谐_VA 地_DEV 假定_VV 一_CD 种_M “_PU 妖_NN ”_PU ，_PU 能够_VV 按照_VV 某_DT 种_M 秩序_NN 和_CC 规则把_NN 作_VV 随_P 机热_NN 运动_VV 的_DEC 微粒_NN 分配_VV 到_VV 一定_JJ 的_DEG 相_OD 格_M 里_LC 。_PU 麦克_NN 斯_DT 韦妖_NN 是_VC 耗散_NN 结构_NN 的_DEG 一_CD 个_M 雏形_NN 。_PU
+
+可以_VV 简单_VA 的_DEC 这_DT 样_M 描述_NN ，_PU 一_CD 个_M 绝热_JJ 容器_NN 被_SB 分成_VV 相等_VV 的_DEC 两_CD 格_M ，_PU 中间_NN 是_VC 由_P “_PU 妖_NN ”_PU 控制_VV 的_DEC 一_CD 扇_M 小_JJ “_PU 门_NN ”_PU ，_PU 容器_NN 中_LC 的_DEG 空气_NN 分子_NN 作_VV 无规_JJ 则热_NN 运动_NN 时_LC 会_VV 向门_VV 上_JJ 撞击_NN ，_PU “_PU 门_NN ”_PU 可以_VV 选择性_AD 的_DEV 将_BA 速度_NN 较_AD 快_VA 的_DEC 分子_NN 放入_VV 一_CD 格_M ，_PU 而_CC 较_AD 慢_VA 的_DEC 分子_NN 放入_VV 另_DT 一_CD 格_M ，_PU 这样_AD ，_PU 其中_NN 的_DEG 一_CD 格_M 就_AD 会_VV 比_P 另外_DT 一_CD 格_M 温度_NN 高_VA ，_PU 可以_VV 利用_VV 此_DT 温差_NN ，_PU 驱动_VV 热机_NN 做_VV 功_NN 。_PU
+
+这_PN 是_VC 第二_OD 类_M 永动机_NN 的_DEG 一_CD 个_M 范例_NN 。_PU
+
+在_P 1981_CD 年_M ，_PU Bennett_NN 的_DEG 论文_NN 表明_VV ，_PU 麦克斯_AD 韦妖_NN 控制_NN “_PU 门_NN ”_PU 使_VV 分子_NN 从_P 一_CD 格_M 进入_VV 另_DT 一_CD 格_NN 中_LC 的_DEG 耗散_NN 过程_NN ，_PU 并_CC 不_AD 是_VC 发生_VV 在_P 衡量_NN 过程_NN 中_LC ，_PU 而_CC 是_VC 发生_VV 在_P 妖_NN 的_DEG 对_P 上_CD 个_M 分子_NN 判断_VV “_PU 记忆_NN ”_PU 的_DEG 去除_NN 过程_NN ，_PU 且_CC 这_DT 个_M 过程_NN 是_VC 逻辑_P 不_AD 可_VV 逆_VV 的_DEC 。_PU
+
+
+
+

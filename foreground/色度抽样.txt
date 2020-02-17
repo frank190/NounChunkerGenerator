@@ -1,0 +1,60 @@
+﻿色度_NN 抽样_VA
+
+在_P 数位图_NN 像_P 处理_NN 领域_NN 中_LC ，_PU 色彩_NN 采样_VV 是_VC 指_VV 在_P 表示_VV 图像_NN 时_LC 使用_VV 较_JJ 亮度_NN 信息_NN 为_VC 低_VA 的_DEC 分辨率_NN 来_MSP 表示_VV 色彩_NN （_PU "_PU 色度_NN "_PU ）_PU 信息_NN 。_PU 当_P 对_P 模拟_JJ 分量_NN 视频_NN 或者_CC YUV_NN 讯号_NN 进行_VV 数字_NN 抽样_VA 时_LC ，_PU 一般_AD 会_VV 用到_VV 色度_NN 抽样_VA 。_PU
+
+由于_P 储存_VV 及_CC 传送_VV 的_DEC 限制_NN ，_PU 讯号_NN 处理_NN 中_LC 大多数_CD 会_VV 偏向_VV 被_SB 减少_VV （_PU 或_CC 被_SB 压缩_VV ）_PU 以_MSP 减低_VV 负荷_NN 。_PU 由于_P 人眼_NN 对_P 色度_NN 的_DEC 敏感度_NN 不及_CC 对_P 亮度_NN 的_DEC 敏感度_NN ，_PU 图像_NN 的_DEG 色度_NN 分量_NN 不_AD 需要_VV 有_VE 和_P 亮度_NN 分量_NN 相同_VA 的_DEC 清晰度_NN ，_PU 所以_AD 许多_VV 视讯_NN 系统_NN 在_P 色_NN 差_NN 通道_NN 上_LC 进行_VV 较低_NN （_PU 相对_JJ 亮度_NN 通道_NN ）_PU 清晰度_NN （_PU 例如_AD ，_PU 抽样_JJ 频率_NN ）_PU 的_DEG 抽样_NN 。_PU 这样_AD 在_P 不明_AD 显降_VV 低_JJ 画面_NN 质量_NN 的_DEC 同时_AD 降低_VV 了_AS 影像_VV 讯号_NN 的_DEG 总频_NN 宽_VA 。_PU 因_P 抽样_NN 而_MSP 丟失_VV 的_DEC 色度_NN 值_VV 用_P 内插值_NN ，_PU 或者_CC 前_DT 一_CD 色度值_NN 来_MSP 替代_VV 。_PU 在_P 压缩_JJ 影像_NN 中_LC ，_PU 以_P 4_CD :_PU 2_CD :_PU 2_CD Y_M '_PU CbCr_NN 作例_VV ，_PU 它_PN 只_AD 需_VV R_NN '_PU G_NN '_PU B_NN '_PU （_PU 4_CD :_PU 4_CD :_PU 4_CD ）_PU 三_CD 分_M 之二_VA 的_DEC 频宽_NN 。_PU 频_AD 宽_VA 的_DEV 减少_VV 在_P 肉眼_NN 上_LC 几乎_AD 没有_VV 影像_VV 上_LC 差別_NN 。_PU
+
+由于_P 人类_NN 的_DEG 视觉_NN 系统_NN 对_P 颜色_NN 的_DEC 位置_NN 及_CC 移动_VV 不及_CC 对_P 亮度_NN 敏感_NN ，_PU 频宽_NN 上_LC 可以_VV 以_P 储存_VV 较_AD 多_VA 的_DEC 亮度_NN 细节_VA 、_PU 较_AD 少_VA 的_DEC 色度_NN 细节_NN 作_VV 优化_NN 。_PU 在_P 一般影像_AD 观看_VV 距离_NN 时_LC ，_PU 色度_NN 细节_VV 在_P 较_AD 低_VA 的_DEC 取样率_NN 下_LC 仍_AD 不_AD 引起_VV 可_VV 察觉_VV 的_DEC 损失_NN 。_PU 於_P 视频_NN 系统_NN 中_LC ，_PU 可以_VV 以_P 不同_JJ 颜色_NN 分部_NN 的_DEG 取样_VA 而_CC 达成_VV 以_P 上_NN 结果_NN 。_PU 视频_NN 讯号_NN 可_VV 分別_VV 为_VC 一_CD 个_M 亮度_NN 分量_NN （_PU Y_NN '_PU ）_PU 及_CC 两_CD 个_M 不同_JJ 颜色_NN 分量_NN （_PU 色度_NN ）_PU 。_PU
+
+色彩_NN 采样_VV 是_VC 颜色_JJ 科学_NN 的_DEC 分支_NN ，_PU 在_P 颜色_NN 科学_NN 亮度_NN 及_CC 色度_NN 分量_NN 是_VC 以_P 一_CD 个_M 伽玛校正_NN （_PU 三_CD 重_AD 刺激_VV ）_PU 的_DEC R'G'B_NN '_PU 分量_NN 的_DEG 加权_NN 总和_AD 形成_VV ，_PU 代替_VV 线性_JJ （_PU 三重_JJ 刺激_NN ）_PU 的_DEC R_NN '_PU G_NN '_PU B_NN '_PU 分量_NN 。_PU 因此_AD ，_PU 明度_NN 及_CC 颜色_JJ 细节_NN 并非_CC 完全_AD 互相_AD 独立_VV 。_PU 在_P 亮度_NN 及_CC 色度_NN 分量_NN 之间_LC 会_VV 存在_VV 着_AS 一些_CD 明度_NN 及_CC 颜色_NN 资讯_NN 的_DEC 「_PU 溢出_VV 」_PU （_PU "_PU Bleeding_NN "_PU ）_PU 现象_NN （_PU 如下_JJ 图所示_NN ）_PU 。_PU 此_DT 误差_NN 尤其_AD 於_P 高_VA 饱和_VA 的_DEC 颜色_NN 情况_NN 下_LC 出现_VV ，_PU 其_PN 现象_AD 在_P 彩条_NN 测试图_NN （_PU 经_P 色彩_NN 采样_VV ）_PU 中_LC 洋_JJ 红色_NN 及_CC 绿色_NN 之间_LC 会_VV 轻微_AD 显著_VV 。_PU 在_P 工程_NN 学_VV 的_DEC 概算_NN 下_LC （_PU 即_AD 是_VC 将_BA 「_PU 伽玛_NN 校正_NN 」_PU 及_CC 「_PU 组成_VV 加权_NN 总和_NN 」_PU 两_CD 个_M 步骤_NN 逆向_AD 进行_VV ）_PU ，_PU 使_VV 色彩_NN 采样_VV 方式_NN 更_AD 容易_AD 实行_VV 。_PU
+原图_NN ，_PU 未_AD 经_P 色彩_NN 采样_VV ，_PU 200%_NT 放大_NN 。_PU
+经_P 色彩_NN 采样_VV 的_DEC 图像_NN （_PU 以_P SonyVegasDV_NN 编码器_NN 压缩_NN ，_PU 套用_VV Box_NN 滤镜_NN ）_PU
+
+视频_NN 系统_NN 的_DEG 抽样_NN 系统_NN 中_LC 通常_AD 用_P 一_CD 个_M 三_CD 分_M 比_P 值_NN 表示_VV ：_PU "_PU J_NN :_PU a_NN :_PU b_NN "_PU （_PU 例如_AD 4_CD :_PU 2_CD :_PU 2_CD ）_PU ，_PU 形容_VV 一_CD 个_M 以_P J_CD 个_M 像素_NN 宽_VA 及_CC 两_CD 个_M 像素_NN 高_VA 的_DEC 概念_NN 上_LC 区域_NN ，_PU 有时_AD 候会_VV 以_P 四_CD 分_M 比_P 值_NN 表示_VV （_PU 例如_AD 4_CD :_PU 2_CD :_PU 2_CD :_PU 4_CD ）_PU 。_PU 依_P 序_NN 列出_VV 为_VC ：_PU
+
+
+以下_JJ 链接_NN 中_LC 的_DEG 一_CD 幅_M 教学_NN 图片_NN 解释_VV 了_AS 不同_JJ 抽样_NN 系统_NN 的_DEG 运作_NN ：_PU http_NN :_PU /_PU /lea_NN ._PU hamradio_NN ._PU si_NN /_PU ~_NN s51_CD kq_M /_PU subsample_NN ._PU gif_NN （_PU 资料_NN 来源_NN ：_PU "BasicsofVideo"_PU ）_PU 以及_CC 由_P DouglasKerr_NN 所_MSP 著_VV 的_DEC "_PU ChrominanceSubsamplinginDigitalImages_NN "_PU 。_PU
+以上_LC 例图_AD 仅_AD 给出_VV 理论上_AD 的_DEC 示例_NN 。_PU 以及_CC 注意图_NN 中_LC 并_AD 没有_VV 表明_VV 任何_DT 色度_NN 过滤_NN （_PU 防止_VV 叠影_VV 的_DEC 措施_NN ）_PU 。_PU
+
+在_P 计算_NN 与_P 4_CD :_PU 4_CD :_PU 4_CD 抽样_NN （_PU 或_CC 4_CD :_PU 4_CD :_PU 4_CD :_PU 4_CD ）_PU 有关_VV 的_DEC 频宽_NN 系数_NN 时_LC ，_PU 把_BA 各_DT 系数_NN 加总_VV 再_AD 除_P 以_P 12_CD （_PU 当_P 有_VE Alpha_NN 时_LC 除以_VV 16_CD ）_PU 。_PU
+
+在_P 比较_VV 图像_NN 质量_NN 时_LC ，_PU 这_DT 三_CD 个_M 值_NN 之间_LC 的_DEG 比_NN 值_NN 才_AD 是_VC 重要_VA 的_DEC ，_PU 所以_AD 4_CD :_PU 4_CD :_PU 4_CD 可以_VV 简化_VV 为_VC 1_CD :_PU 1_CD :_PU 1_CD ；_PU 但是_AD 习惯_VV 上_JJ 亮度_NN 样本_VV 的_DEC 数量值_NN 总_JJ 为_VC 4_CD ，_PU 其他_DT 两_CD 个_M 值_VV 依_P 此_DT 类推_NN 。_PU
+
+有时_NT 抽样率_NN 为_VC 四_CD 分比_M 值_NN ，_PU 如_P 4_CD :_PU 2_CD :_PU 2_CD :_PU 4_CD 。_PU 这时_AD 第四_OD 个_M 值_NN 是_VC 调制_VV 通道_NN 的_DEC 抽样_NN 频率_NN 比_VV 值_NN 。_PU 事实_NN 上_LC ，_PU 因为_P 在_P 调制_VV 应用_NN 中_LC 非常_AD 需要_VV 高_JJ 质量_NN 图像_NN ，_PU 所以_AD 这_DT 个_M 值_NN 在_P 任何_DT 情况_NN 下_LC 都_AD 为_VC 4_CD 。_PU
+
+每_DT 三_CD 个_M Y'CbCr_NN 分量_NN 都_AD 有_VE 相同_JJ 抽样率_NN 。_PU 此_DT 系统_NN 有_VE 时候_NN 用作_VV 高阶_JJ 底片_NN 扫瞄器_NN 及_CC 电影_NN 后期_NN 制作_NN 中_LC 。_PU 通常_AD 会_VV 以_P 两_CD 条_M SDI_NN 通道_NN 连线_NN 来_MSP 承载_VV 4_CD :_PU 4_CD :_PU 4_CD 频_M 宽_JJ 讯号_NN ：_PU 通道_NN A_NN 会_VV 盛载_AD 4_CD :_PU 2_CD :_PU 2_CD 的_DEG 讯号_NN ，_PU 通道_VV B_NN 则_AD 会_VV 承载_VV 0_CD :_PU 2_CD :_PU 2_CD 的_DEG 讯号_NN ，_PU 合并成_VV 4_CD :_PU 4_CD :_PU 4_CD 讯号_NN 。_PU
+需要_VV 注意_VV 的_DEC 是_VC ，_PU 有_VE 时候_NN "_PU 4_CD :_PU 4_CD :_PU 4_CD "_PU 也_AD 表示_VV 在_P RGB_NN 色度_NN 空间_NN 中_LC ，_PU 全部_AD 没有_VV 作_VV 任何_DT 色度_NN 抽样_VA 。_PU 如_P HDCAMSR_NN 等_ETC 格式_NN 可以_VV 以_P 双_CD 通道_NN H_NN D_AD -_PU SDI_NN 记录_NN 4_CD :_PU 4_CD :_PU 4R_CD '_PU G_CD '_PU B_NN '_PU 讯号_NN 。_PU
+
+每_DT 个_M 色差_NN 通道_NN 的_DEC 抽样率_NN 是_VC 亮度_NN 通道_NN 的_DEG 一半_CD ，_PU 即水_CS 平色_JJ 差清_NN 晰度_NN 分半_VV 。_PU 这样_AD 从_P 无_VE 压缩_NN 视频_NN 中_LC 可_VV 减少_VV 了_AS 三分之一_CD 的_DEG 频宽_NN ，_PU 当_NN 中_LC 的_DEG 视觉_NN 差_JJ 別_NN 仅仅_AD 少量_AD 甚至_AD 不_AD 存在_VV 。_PU
+
+大多_CD 数_CD 高端_NN 数码_NN 视频_NN 格式_NN 采用_VV 这_DT 一_CD 比率_NN ，_PU 如_P ：_PU
+
+虽然_CS 此_DT 系统_NN 己_VV 在_P 技术_NN 上_LC 定义_VV 存在_VV ，_PU 但_AD 只有_AD 非常_AD 少_VA 的_DEC 软_VA 、_PU 硬体_NN 编_VV 解码器_NN 使用_VV 。_PU Cb水平_VV 清晰度_NN 为_VC Cr_NN 的_DEG 两_CD 倍_M ，_PU 以及_CC 亮度_NN 清晰度_NN 的_DEG 四分之一_CD 。_PU 这样_AD 为_VC 证明_VV 了_AS 人_NN 的_DEG 肉眼_NN 对于_P 蓝色_JJ 和_CC 黄色_JJ 的_DEG 空间_NN 上_LC 敏感度_NN ，_PU 比_P 红色_NN 和_CC 绿色_NN 的_DEC 弱_VA 。_PU NTSC_NN 系统_NN 相似_VA 以上_LC 算法_NN ，_PU 将_BA 蓝色_NN 和_CC 黄色_NN 的_DEC 清晰度_NN 减弱_VV ，_PU 令_VV 其_PN 清晰度_NN 比_P 亮度_NN 为_VC 低_VA 。_PU
+
+4_CD :_PU 1_CD :_PU 1_CD 色彩_NN 取样_VA 中_LC ，_PU 水平_JJ 色度_NN 清晰度_NN 为_VC 四分之一_CD ，_PU 为_P 全_PN 频宽_VV 的_DEC 一半_CD 。_PU 起初DV_PU 格式_NN 的_DEC 4_CD :_PU 1_CD :_PU 1_CD 色彩_NN 取样_AD 不_AD 被_SB 考虑_VV 用_P 作_VV 广播_JJ 级_NN 用途_NN ，_PU 被_SB 低端_AD 及_CC 家用_JJ 产品_NN 应用_NN 。_PU 当代_VV 的_DEC DV_NN 格式_NN （_PU 一些_CD 包括_VV 4_CD :_PU 1_CD :_PU 1_CD 色度_NN 抽样_VA ）_PU 都_AD 被_SB 用作_VV 如_P 电子_NN 新闻_NN 采访_VV 等_ETC 专业级_NN 用途_NN 。_PU DV_NN 格式_NN 偶尔_PN 被_SB 用作_VV 数位_NN 电影_NN 摄影_NN 。_PU
+
+NTSC_CD 系统_NN 中_LC ，_PU 若_CS 亮度_NN 以_P 13_CD ._PU 5M_CD Hz_M 取样_VA ，_PU 表示_VV Cr_NN 及_CC Cb_NN 的_DEG 讯号_NN 都_AD 以_P 3_CD ._PU 375_CD MHz_M 取样_VV ，_PU 符合_VV 最_AD 高_VA 1.6875_CD MHz_M 的_DEG 奈奎_NN 斯_DT 特频_NN 宽_VA 。_PU 而_AD 传统_VV 「_PU 高端_NN 广播级NTSC_PU 模拟_NN 讯号_NN 编码器_NN 」_PU ，_PU 在_P I_NN /_PU Q_NN 波段_NN 中_LC 只有_AD 分別_VV 1.5_CD MHz_NN 及_CC 0.5_CD MHz_NN 的_DEG 奈奎_NN 斯_AD 特_AD 频_VV 宽_VA 。_PU 不_AD 过_VV 在_P 大部分_CD 器材_NN 中_LC ，_PU 尤其_AD 是_VC 廉价_NN 电视机_NN 及_CC VHS_NN /_PU Betamax_NN 录影机_NN 中_LC ，_PU 色度_NN 波段_NN 只_AD 有_VE 0.5_CD MHz_NN 的_DEG 频宽_NN 给_P Cr_NN 及_CC Cb_NN 分量_NN 使用_VV 。_PU 所以_AD 尽管_NN 和_CC 全_PN 频_VV 宽_JJ 数位_NN 讯号_NN 比较_VV ，_PU 仅_AD 有_VE 四分之一_CD 的_DEG 色度_NN 频宽_VV ，_PU 其_PN 实_AD DV_NN 系统_NN 提供_VV 了_AS 比_P 高阶_JJ NTSC_NN 色差_NN 模拟_NN 规格_NN 更_AD 优质_VA 的_DEC 色彩_NN 频宽_VV 。_PU
+
+使用_VV 4_CD :_PU 1_CD :_PU 1_CD 色彩_NN 取样_VA 的_DEC 格式_NN 包括_VV ：_PU
+
+4_CD :_PU 2_CD :_PU 0_CD 又_CC 称_VV I420_NN 。_PU I420_NN 是_VC YUV_NN 格式_NN 的_DEC 一_CD 种_M ，_PU 属于_VV planarformat_NN 。_PU 4_CD :_PU 2_CD :_PU 0_CD 并_CC 不_AD 意味_VV 着_AS 只_AD 有_VE Y_NN ,_PU Cb_NN 而_MSP 没有_VV C_NN r_NN 分量_NN 。_PU 它_PN 指_VV 的_DEC 是_VC 对_P 每_DT 行_M 扫描线_NN 来说_LC ，_PU 只_AD 有_VE 一_CD 种_M 色度_NN 分量_NN 以_P 2_CD :_PU 1_CD 的_DEG 抽样_NN 率_VV 存储_NN 。_PU 相邻_VV 的_DEC 扫描_NN 行_VV 存储_NN 不同_VA 的_DEC 色度_NN 分量_VV ，_PU 也就是说_AD ，_PU 如果_CS 一行_AD 是_VC 4_CD :_PU 2_CD :_PU 0_CD 的话_M ，_PU 下_LC 一行_AD 就_AD 是_VC 4_CD :_PU 0_CD :_PU 2_CD ，_PU 再_AD 下_DT 一_CD 行_NN 是_VC 4_CD :_PU 2_CD :_PU 0_CD ._PU .._PU 以_P 此_DT 类推_NN 。_PU 对_P 每_DT 个_M 色度_NN 分量_NN 来说_LC ，_PU 水平_NN 方向_NN 和_CC 竖直_JJ 方向_NN 的_DEC 抽样率_NN 都_AD 是_VC 2_CD :_PU 1_CD ，_PU 所以_AD 可以_VV 说_VV 色度_NN 的_DEC 抽样率_NN 是_VC 4_CD :_PU 1_CD 。_PU PAL_NN 制式_NN 和_CC SECAM_NN 制式_NN 的_DEC 色彩_NN 系统_NN 特别_AD 适合_VV 于_P 用_P 这_DT 种_M 方式_NN 来_MSP 存储_VV 。_PU 绝_AD 大多数_CD 视频_NN 编_VV 解码器_NN 都_AD 采用_VV 这_DT 种_M 格式_NN 作为_P 标准_VA 的_DEC 输入_NN 格式_NN 。_PU 对_P 非_AD 压缩_VV 的_DEC 8_CD 比_M 特量化_NN 的_DEG 视频_NN 来说_LC ，_PU 每_DT 个_M 由_P 2x2_CD 个_M 2_CD 行_CC 2_CD 列_VV 相邻_VV 的_DEC 像素_NN 组成_VV 的_DEC 宏_NN 像_P 素_AD 需要_VV 占用_VV 6_CD 字节_NN 内存_NN 。_PU
+
+映射_NN ：_PU
+
+码流_NN
+
+将_BA 被_SB 映射_VV 为_VC 下面_NN 的_DEG 两_CD 行_M 各_DT 四_CD 个_M 像素_NN ：_PU
+
+使用_VV 这_DT 种_M 方法_NN 的_DEG 质量_NN 很_AD 接近于_VV 4_CD :_PU 1_CD :_PU 1_CD ,_PU 通常_AD 应用于_VV 下面_NN 的_DEG 格式_NN ：_PU
+
+
+这_DT 种_M 格式_NN 虽然_CS 是_VC 存在_VV 的_DEC （_PU 也_AD 确实_AD 有_VE 些编_JJ 解码器_NN 支持_VV 这_DT 种_M 格式_NN ）_PU ，_PU 但是_AD 并_AD 没有_VV 得到_VV 广泛_VA 的_DEC 应用_NN ，_PU 因为_P 它_PN 在_P 色度_NN 方面_NN 的_DEC 清晰度_NN 比_P 传统_JJ 的_DEG VHS_NN 录像_VV 带还_AD 要差_VV 。_PU 这_DT 种_M 方法_NN 对_P 水平_JJ 方向_NN 进行_VV 4_CD :_PU 1_CD 的_DEG 色度_NN 抽样_VA ，_PU 对_P 竖直_JJ 方向_NN 进行_VV 2_CD :_PU 1_CD 的_DEG 色度_NN 抽样_VA 。_PU 比起_VV 4_CD :_PU 4_CD :_PU 4_CD ，_PU 它_PN 的_DEG 色度_NN 数据量_NN 仅仅_AD 是_VC 1_CD /_PU 8_CD 大小_NN 。_PU 对_P 非_AD 压缩_VV 的_DEC 8_CD 比_M 特量化_NN 的_DEG 视频_NN 来说_LC ，_PU 每_DT 个_M 由_P 4x2_CD 个_M 2_CD 行_CC 4_CD 列_VV 相邻_VV 的_DEC 像素_NN 组成_VV 的_DEC 宏_NN 像素_NN 需要_VV 占用_VV 10_CD 字节_NN 内存_NN 。_PU
+
+映射_NN ：_PU
+
+码流_NN
+
+将_BA 被_SB 映射_VV 为_VC 下面_NN 的_DEG 两_CD 行_M 各_DT 四_CD 个_M 像素_NN ：_PU
+
+
+

@@ -1,0 +1,11 @@
+﻿朱林_NN 定律_NN
+
+朱林_NN 定律_NN （_PU ）_PU 律_BA 描述_JJ 液体_NN 在_P 毛细管_NN 中_LC 上升_VV 或_CC 下降_VV 的_DEC 规律_NN 。_PU 此_DT 定律_NN 的_DEC 文字_NN 表述_VV 是_VC ：_PU 在_P 确定_VV 的_DEC 温度_NN 下_LC ，_PU 液体_NN 在_P 毛细管_NN 内_LC 升高_VV 的_DEC 高度_NN 和_CC 毛细管_NN 的_DEG 直径_NN 成_VV 反比_NN 。_PU 其_PN 数学_NN 表达式_NN 为_VC ：_PU
+
+formula_NN
+
+其中_NN
+当_P 毛细管_NN 的_DEG 半径_NN 比_P 毛细_JJ 长度_NN 小_VA 时_LC ，_PU 这_PN 定律_VV 是_VC 有效_VA 的_DEC 。_PU
+吉奥_NN 瓦尼_NN ·_PU 博雷利_NN （_PU 1608_CD -_PU 1675_CD ）_PU 在_P 朱林_NN 之前_LC 用_P 实验_NN 证明_VV 了_AS ，_PU 毛细管_NN 内_LC 液体_NN 上_LC 升高_VV 度与_PN 毛细管_NN 半径_NN 成_VV 反比_VV 的_DEC 关系_NN ；_PU 但_CC 英国_NR 生理_NN 学家_NN （_PU 1684_CD -_PU 1750_CD ）_PU 独立_AD 证明_VV 了_AS 他_PN 的_DEG 定律_NN ，_PU 此后_AD 就称_VV 此_DT 为_VC 朱林_NN 定律_VV 。_PU
+
+

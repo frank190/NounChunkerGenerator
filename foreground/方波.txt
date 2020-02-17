@@ -1,0 +1,40 @@
+﻿方波_NN
+
+方波_NN 是_VC 一_CD 种_M 非_AD 正_JJ 弦曲线_NN 的_DEC 波形_NN ，_PU 通常_AD 会_VV 於_P 电子_NN 和_CC 讯号_NN 处理_VV 时_LC 出现_VV 。_PU 理想_NN 方波_NN 只_AD 有_VE 「_PU 高_VA 」_PU 和_CC 「_PU 低_JJ 」_PU 这_DT 两_CD 个_M 值_NN 。_PU
+
+在_P 现实_JJ 世界_NN ，_PU 方波_NN 只有_AD 有限_VA 的_DEC 频宽_NN 。_PU 由于_P 一般_JJ 电子_NN 零件_NN 只有_AD 高_VA （_PU 1_CD ）_PU 和_CC 低_VA （_PU 0_CD ）_PU 两_CD 个_M 值_NN ，_PU 方波_NN 就_AD 自然_AD 产生_VV ，_PU 并_CC 於_P 数位_NN 开关_NN 电路_NN 中_LC 广泛_AD 应用_VV 。_PU 因为_P 方波_NN 可以_VV 快速_AD 从_P 一_CD 个_M 值转_VV 至_VV 另_DT 一_CD 个_M （_PU 即_AD 0_CD →_PU 1_CD 或_CC 1→0_CD ）_PU ，_PU 所以_AD 方波_NN 就_AD 用作_VV 时钟_JJ 讯号_NN 来_MSP 準确_VV 地_DEV 触发_VV 同_DT 步_M 电路_NN 。_PU 但是_CC 如果_CS 用_P 频率_NN 定义_VV 域_NN 来_MSP 表示_VV 方波_NN ，_PU 就_AD 会_VV 出现_VV 一_CD 连串_NN 的_DEC 谐波_NN 。_PU 这_AD 可_VV 能_VV 会_VV 产生_VV 电磁波_NN 和_CC 电流_NN 脉波_NN ，_PU 影响_VV 周围_NN 的_DEG 电路_NN ，_PU 产生_VV 噪声_NN 和_CC 错误_VV ，_PU 对_P 一些_CD 精密_JJ 仪器_NN 如_P 类比_NN 数位_NN 资料_NN 转换器_NN （_PU analog_NN -_PU to_NN -_PU digitalconverter_NN ）_PU 影响_VV 十_CD 分_M 明显_VA ，_PU 所以_AD 设计_VV 会_VV 使用_VV 正_AD 弦_P 波作_VV 时钟_JJ 讯号_NN 来_MSP 代替_VV 方波_NN 。_PU
+
+在_P 音乐_NN 上_LC ，_PU 方波_NN 被_SB 视为_VV 空洞_NN 的_DEC 声音_NN ，_PU 因此_AD 会_VV 以_P 减法_NN 合成_VV 过滤方_NN 波作_NN 管乐_NN 的_DEC 基础_NN 。_PU 另外_AD ，_PU 电吉他_NN 的_DEG 失真_JJ 效果_NN （_PU distortion_NN ）_PU 把_BA 波形_NN 的_DEC 外层_NN 削去_NN ，_PU 令_VV 波形_NN 趋向_AD 成为_VV 方波_NN 。_PU 失真_AD 越_AD 大会_AD 令波形越_VV 像_P 方波_NN 。_PU
+
+一_CD 个_M 「_PU 简单_NN 二_CD 能_VV 级_P 莱德_NN 马契_NN 函数_NN 」_PU （_PU simpletwo_NN -_PU levelRademacherfunction_NN ）_PU 就_AD 是_VC 一_CD 个_M 方波_NN 。_PU
+
+方波_NN 和_CC 锯齿波_NN 不同_VA 。_PU 锯齿波_NN 包含_VV 所有_DT 整数谐_NN 波_JJ 成分_NN （_PU integerharmonics_NN ）_PU ，_PU 方波_NN 只_AD 有_VE 奇数谐波_NN 成分_NN 。_PU
+
+我们_PN 可以_VV 傅立_VV 叶_JJ 级数_NN 表达_VV 一_CD 个_M 理想_NN 方波_NN ，_PU 这_DT 个_M 傅立叶级_NN 数_AD 有_VE 无_VE 限个项_NN ，_PU 如_P 下式_NN ：_PU
+
+formula_NN
+
+以_P 傅立_VV 叶级_JJ 数来_NN 表达_VV 方波_NN 会_VV 出现_VV 吉布_NR 斯_DT 现象_NN （_PU G_CD ib_M bsphenomenon_NR ）_PU 。_PU 非_VC 理想_NN 方波_NN 中_LC 的_DEG 振铃_NN 被_SB 证明_VV 与_P 此_DT 现象_NN 有关_VA 。_PU 吉布_NN 斯_DT 现象_NN 可_VV 使用_VV σ_NN 近似_LC （_PU σ_NN -_PU approximation_NN ）_PU 来_MSP 阻止_VV ，_PU 而_CC σ_NN 近似_AD 使用_VV Lanczos_NN σ_NN 因_P 子_NN 来_MSP 使_VV 序列_NN 更_AD 理想_VA 地_DEV 收敛_VV 。_PU
+
+方波_NN 的_DEC 高_JJ （_PU 1_CD ）_PU 和_CC 低_VA （_PU 0_CD ）_PU 两_CD 个_M 值_NN 之间_LC 的_DEG 转换_NN 时_LC ，_PU 时间_NN 应_VV 尽量_NN 缩短_VV ，_PU 所以_AD 理想_NN 方波_NN 值_NN 的_DEG 转变_NN 是_VC 即时_NT 的_DEG 。_PU 当然_AD ，_PU 这_PN 在_P 现实_JJ 世界_NN 中_LC 永_AD 不_AD 可能_VV 发生_VV ，_PU 因为_P 它_PN 的_DEG 转变率_NN 要_VV 无限_AD ，_PU 并且_CC 要_VV 无限_AD 大_VA 的_DEC 频宽_NN 。_PU
+
+在_P 现实_JJ 世界_NN ，_PU 方波_NN 只有_AD 有限_VA 的_DEC 频宽_NN ，_PU 因此_AD 会_VV 出现_VV 严重_VA 的_DEC 吉布_NN 斯_DT 现象_NN 并_CC 常常_AD 表现_VV 出_VV 像_P 吉布斯_NR 现象_NN 一样_VA 的_DEC 振铃_NN 效应_NN （_PU ringingeffect_NN ）_PU ，_PU 或者_CC 是_VC 像_P σ_NN 近似_VA 一样_VA 的_DEC 波动_NN 效应_NN （_PU rippleeffect_NN ）_PU 。_PU
+
+在_P 现实_JJ 世界_NN ，_PU 数码_NN 电子_NN 的_DEG 频宽_NN 有限_VA ，_PU 方波_NN 只_AD 能_VV 以_P 有限_VA 的_DEC 频宽_NN 来_MSP 表达_VV ，_PU 意味_VV 着_AS 我们_PN 只_AD 能取_VV 一_CD 个_M 近_AD 此_DT 方波_NN 的_DEC 波型_NN 。_PU 要_VV 得出_VV 这_DT 个_M 合理_NN 的_DEC 波型_NN ，_PU 最少_AD 要_VV 有_VE 基波_NN （_PU fundamentalharmonic_NN ）_PU 和_CC 第三_OD 次_M 谐波_NN （_PU thirdharmonic_NN ）_PU 。_PU 当然_AD ，_PU 谐波_NN 的_DEG 数量_NN 越_AD 多_VA ，_PU 波型_NN 就_AD 越_AD 像_P 一_CD 个_M 方波_NN 。_PU
+
+工作_NN 周期_NN （_PU dutycycle_NN ）_PU 是_VC 方波值_NN 「_PU 1_CD 」_PU 佔_DT 一_CD 个_M 周期_NN 的_DEC 时间_NN 比例_VV 。_PU 真实_AD 方波_VA 的_DEC 工作_NN 周期_NN 是_VC 50%_CD ──_NN 即_AD 高_VA 值_NN 和_CC 低_JJ 值占_NN 的_DEC 时间_NN 一样_VA 。_PU 方波_NN 的_DEG 平均值_NN 是_VC 由_P 工作_NN 周期_NN 决定_VV 的_DEC ，_PU 因此_AD 通过_P 改变_VV ON_NN 和_CC OFF_NN 周期_NN 然后_AD 求平_VV 均数_CD ，_PU 有可能_AD 代表_VV 两_CD 个_M 限制_NN 电平_NN （_PU limitinglevel_NN ）_PU 间_LC 的_DEG 任意值_NN 。_PU 这_DT 是_VC 脉波_NN 宽度_NN 调变_VV （_PU pulse_NN -_PU widthmodulation_NN ）_PU 的_DEC 基础_NN 。_PU
+
+正如_AD 已经_AD 提到_VV 的_SP ，_PU 理想_NN 方波_NN 在_P 高_VA 和_CC 低_VA 两_CD 个_M 值_NN 之间_LC 是_VC 瞬_NN 时_LC 变化_VV 的_DEC 。_PU 实际上_AD ，_PU 由于_P 波形_JJ 产生_NN 系统_NN 的_DEG 物理_NN 局限性_NN ，_PU 这_PN 永远_AD 不_AD 可_VV 能_VV 实现_VV 。_PU 信号_NN 从_P 低_VA 值_VV 上升_VV 到_VV 高值_NN 然后_AD 再_AD 下降_VV 所_MSP 花费_NN 的_DEG 时间_NN 分别_AD 称为_VV 脉冲_NN 上升_NN 时间_NN （_PU risetime_NN ）_PU 和_CC 脉冲_NN 衰减_NN 时间_NN （_PU falltime_NN ）_PU 。_PU
+
+如果_CS 系统_NN 出现_VV 过_AS 阻尼_NN ，_PU 那么_AD 波就永远_VV 不_AD 会_VV 达到_VV 理论_NN 上_LC 的_DEG 高_JJ 和_CC 低_JJ 两_CD 个_M 值_NN ，_PU 如果_CS 系统_NN 出现_VV 欠_VV 阻_NN 尼_NOI ，_PU 波_VV 在_P 稳定_VA 下来_VV 之前_NT 就_AD 会_VV 在_P 高_VA 和_CC 低_VA 两_CD 个_M 值_NN 附近_NN 振荡_NN 。_PU 在_P 这_DT 两_CD 种_M 情况_NN 下_LC ，_PU 脉冲_NN 上升_NN 和_CC 衰减_NN 时间_NN 就_AD 会_VV 在_P 两_CD 个_M 特定_JJ 的_DEG 中间值_NN 之间_LC 被_SB 测量_VV ，_PU 例如_AD 5%_CD 和_CC 95%_CD 之间_LC ，_PU 或_CC 10%_CD 和_CC 90%_CD 之间_LC 。_PU 公式_NN 存在_VV 的_DEC 能_VV 决定_NN 系统_NN 的_DEC 近似_JJ 频宽_NN ，_PU 决定_VV 了_AS 波_M 的_DEG 脉冲_NN 上升_NN 和_CC 衰减_NN 时间_NN 。_PU
+
+方波_NN 有_VE 很_AD 多定_JJ 义法_NN ，_PU 除了_P 在_P 不_AD 连续_AD 点外_VV 它们_PN 都_AD 是_VC 等效_JJ 的_DEG 。_PU
+
+当_P 正弦值_NN 为_VC 正时_NN 上_LC 式_NN 等于_VV 1_CD ，_PU 当_P 正弦值_NN 为_VC 负时_NN 上_LC 式_NN 等于_VV −_NN 1_CD ，_PU 且_CC 0_CD 在_P 不_AD 连续_VV 点上_VV 。_PU
+
+占空比_NN 为_VC 50%_CD 时_LC ，_PU "_PU T_NN "_PU 是_VC 2_CD ._PU 也_AD 可以_VV 用_P 分段_NN 的_DEC 方式_NN 表示_VV ：_PU
+
+当_P 下列_JJ 式子_NN 成立_VV 时_LC ，_PU 上述_JJ 式子_NN 成立_NN
+
+
+

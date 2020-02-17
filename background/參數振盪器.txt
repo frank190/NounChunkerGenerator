@@ -1,0 +1,7 @@
+﻿参_NN 数振_NN 荡器_NN
+
+参数_NN 振荡器_NN （_PU ）_PU 是_VC 一_CD 种_M 受_VV 驱动_VV 的_DEC 谐振器_NN ，_PU 其中_NN 驱动_NN 系统_NN 的_DEC 参数_NN 设置_VV 在_P 某些_DT 频率_NN ，_PU 而_CC 这_DT 频率_NN 通常_AD 与_P 振荡器_NN 的_DEC 自然_JJ 频率_NN 不同_VA 。_PU 参数_NN 振荡器_NN 的_DEG 一_CD 个_M 简单例子_NN 为_VC 儿童_NN 在_P 秋千上_NT 周期性_NN 地_DEV 站立_VV 跟_P 蹲下_VV ，_PU 来_MSP 增加_VV 秋千_VA 的_DEC 振荡_NN 幅度_NN 。_PU 儿童_NN 的_DEG 动作_NN 改变_VV 了_AS 秋千_NT 摆荡_VV 的_DEC 惯量_NN 。_PU 这_DT 个_M 驱动_NN 的_DEC 频率_NN 必须_VV 是_VC 秋千_OD 自然_JJ 频率_NN 的_DEG 两_CD 倍_M 。_PU 其他_DT 相关_JJ 可_VV 改变_VV 的_DEC 参数_NN 包括_VV 振荡器_NN 的_DEG 共振_NN 频率_NN formula_NN __NN 1_CD 以及_CC 阻尼_NN formula_NN
+
+参数_NN 振荡器_NN 应用于_VV 物理学_NN 中_LC 多_CD 个_M 领域_NN 。_PU 古典_NN 的_DEG 变容_NN 二极体_NN 参数_NN 振荡器_NN 组成_VV 包括_VV 有_VE 一_CD 个_M 半导体_NN 变容_NN 二极体_NN ，_PU 连接_VV 到_VV 共振_NN 电路_NN 或_CC 腔室_NN 共振器_NN 。_PU 驱动机_NN 制为_VV 投_VV 过_AS 改变_VV 偏_AD 压_VV 来_MSP 调整_VV 二极体_NN 的_DEC 电容_NN 。_PU 改变_VV 二极体_NN 电容_NN 的_DEG 电路_NN 则_AD 称作_VV 「_PU 泵_NN 」_PU （_PU pump_NN ）_PU 或_CC 「_PU 驱动器_NN 」_PU （_PU driver_NN ）_PU 。_PU 在_P 微波_NN 电路_NN 中_LC 则_AD 是_VC 用_P 电磁_NN 波导_NN /_PU 钇铝_NN 石榴石_NN （_PU YAG_NN ）_PU 为_VC 基础_NN 的_DEC 参数_NN 振荡器_NN ，_PU 工作_NN 原理_NN 仍_AD 是_VC 相同_VA 。_PU 另_DT 一_CD 个_M 重要_VA 的_DEC 例子_NN 为_VC 光学_NN 参数_NN 振荡器_NN ，_PU 其_PN 将_AD 入射_VV 的_DEC 雷射光_NN 波转_NN 换成_VV 两_CD 道_NN 较_AD 低_VA 频率_NN （_PU 分別_VV 为_VC formula_NN
+
+

@@ -1,0 +1,22 @@
+﻿圆_NN 锥摆_NN
+
+圆锥摆_NN 是_VC 一_CD 个_M 固定_VV 在_P 一_CD 根_M 悬挂_VV 在_P 中心点_NN 上_LC 的_DEG 绳子_NN （_PU 或_CC 轻_CD 杆_M ）_PU 的_DEG 重物_NN 。_PU 其_PN 结构_NN 与_CC 单摆_JJ 类似_NN ，_PU 但重物_NN 并_CC 不_AD 是_VC 像_P 单摆_JJ 一_CD 样_M 来回_AD 摆动_VV ，_PU 而_CC 是_VC 以_P 一_CD 个_M 恒定_JJ 的_DEG 速度_NN 在_P 水平面_NN 上_LC 做_VV 圆周_NN 运动_NN ，_PU 并_CC 和_P 细绳_NN （_PU 或_CC 轻_CD 杆_M ）_PU 一起_AD ，_PU 画出_VV 圆锥_NN 的_DEC 轨迹_NN 。_PU 圆锥_NN 摆_VV 最初_AD 在_P 1660_CD 年_M 由_P 英国_NN 科学_NN 家罗_NN 伯特胡_NN 克作_VV 为_VC 行星_NN 的_DEG 运行_NN 轨道_NN 模型_NN 所_MSP 研究_VV 。_PU 在_P 1673_CD 年_M 荷兰物_NN 理学_NN 家惠_NN 更_AD 斯_AD 利用_VV 他_PN 的_DEG 《_PU 摆钟_JJ 论》_NN 中_LC 的_DEG 一_CD 个_M 新_JJ 概念_NN ——_PU 离心力_NN ，_PU 计算_VV 了_AS 它_PN 的_DEG 轨道_NN 周期_NN 。_PU 之后_LC ，_PU 圆锥摆_VV 被_SB 用作_VV 一些_CD 机械_NN 设备_NN 和_CC 钟表_NN 中_LC 的_DEG 计时_NN 装置_NN 。_PU
+圆锥_NN 摆_VV 因_P 其_PN 流畅_VA 的_DEC 运动_NN 而_MSP 替代_AD 拥有_VV 不_AD 可_VV 避免_VV 的_DEC 不_AD 平稳_VA 运动_NN 轨迹_NN 的_DEC 单摆_NN ，_PU 成为_VV 机械_NN 装置_NN 中_LC 的_DEG 计时_JJ 元件_NN 。_PU 两_CD 个_M 典型_JJ 例子_NN 是_VC ：_PU 它_PN 能_VV 使_VV 灯塔_NN 中_LC 在_P 海面_NN 上_LC 稳定_VV 旋转_NN ；_PU 以及_CC 以_P 其_PN 机械_NN 性质_NN 而_MSP 制作_VV 的_DEC 天文_NN 望远镜_NN 中_LC 的_DEG 赤道仪_NN 使得_VV 镜头_NN 随着_P 恒_AD 星_JJ 运动_NN ，_PU 以_MSP 达到_VV 持续_JJ 观察_NN 目标_NN 的_DEC 目的_NN 。_PU
+
+想象_VV 一_CD 个_M 质量_NN 为_VC "_PU m_NN "_PU 的_DEG 重物_NN 系_VC 在_P 一_CD 根_M 长_NN 为_VC "_PU l_NN "_PU 的_DEC 细绳_NN 上_LC ，_PU 以_MSP 恒_AD 定_VV 速度_NN "_PU v_CC "_PU 做_VV 无_VE 摩擦_NN 的_DEG 圆周_NN 运动_VV ，_PU 细_AD 绳_NN 始终_AD 与_P 竖直_NN 方向_NN 保持_VV 角度_NN "_PU θ_NN "_PU 。_PU 共_AD 有_VE 两_CD 个_M 力作_NN 用_VV 在_P 重_NN 物_NN 上_LC ：_PU
+
+绳子_NN 的_DEG 张力_NN 可以_VV 分解_VV 为_VC 沿_P 竖直_NN 方向_NN 的_DEC "_PU Tcos_NN θ_NN "_PU ,_PU 和_CC 沿_P 水平_JJ 方向_NN 的_DEC "_PU Tsin_NN θ_NN "_PU ,_PU 且_CC "_PU Tsin_NN θ_NN "_PU 方向_NN 始_AD 终指_AD 向圆_VV 周_VV 运动_VV 的_DEC 圆心_NN 。_PU 根据_P 牛顿_JJ 第二_OD 定律_VV ，_PU 绳子_NN 张力_NN T_NN 的_DEC 水平_NN 分量_AD 提供_VV 重_BA 物_NN 做_VV 圆周_NN 运动_VV 的_DEC 向心力_NN ：_PU
+
+又_AD 因为_P 重物_NN 在_P 竖直_NN 方向_NN 上_LC 没有_VV 加速度_NN ，_PU 所以_AD 张力_NN "_PU T_NN "_PU 的_DEG 竖直_JJ 分量_NN 就_AD 等于_VV 重物_VV 的_DEC 重力_NN "_PU mg_NN "_PU 。_PU
+两_CD 个_M 方程_NN 相_AD 除_VA ，_PU 消去_NN "_PU T_NN "_PU 和_CC "_PU m_NN "_PU ，_PU 得_SP ：_PU
+又_AD 因为_P 重物_NN 的_DEC 速度_NN "_PU v_CC "_PU 恒_AD 定_VV ，_PU 所以_AD "_PU v_CC "_PU 又_CC 可以_VV 表示_VV 为_VC "_PU 2_CD πr_M "_PU 除_P 以_P 圆周_NN 运动_NN 周期_NN t_NN ：_PU
+将_BA "_PU v_CC "_PU 替换_VV 到_VV 原先_JJ 式子_NN 中_LC ，_PU 得到_VV ：_PU
+整理_PN 上_LC 式得_VV ：_PU
+
+又_AD 因为_P
+
+其中_NN h_NN 为_VC 重物_NN 离_P 绳子_NN 悬挂点_NN 的_DEG 高度_NN 距离_NN 。_PU 将_BA 上面_NN 两_CD 式_NN 联立_VV 可得_VV ：_PU
+由_P 此_DT 式_NN 可以_VV 看出_VV ，_PU 重_AD 物_NN 运转_NN 周期_NN 只_AD 与_P "_PU Lcos_NN θ_NN "_PU 有关_P ，_PU 而_CC 在_P "_PU θ_NN "_PU 很_AD 小_VA 时_LC ，_PU "_PU cos_NN θ_NN "_PU ≈_NN 1_CD ,_PU 此时_AD ，_PU 圆锥摆_VV 的_DEC 周期_NN 与_CC 单摆_NN 相同_VA 。_PU 此外_AD ，_PU 在_P 角度_NN θ_NN 很_AD 小_VA 时_LC ，_PU 周期_NN t_NN 近似_VA 地_DEV 独立_VV 于_P θ_NN ，_PU 而_CC 成为_VV 一_CD 个_M 定值_NN （_PU 绳长_NN 一定_VA ）_PU ，_PU 这_PN 就_AD 意味_VV 着_AS 其_PN 周期_NN 与_CC 施加_VV 在_P 重物_NN 上_LC 的_DEG 维持_VV 其_PN 运动_NN 的_DEC 力_NN 的_DEG 大小_NN 无关_AD ，_PU 这_DT 种_M 性质_NN 被_SB 称为_VV 等时性_NN ，_PU 并_CC 使得_VV 圆锥摆_NN 与_CC 单摆_NN 拥有_VV 良好_VA 的_DEC 计时_NN 作用_NN 。_PU
+
+
+

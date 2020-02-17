@@ -1,0 +1,12 @@
+﻿_CD Conax_NN
+
+Conax_NN (_PU 官方_NN 中文_NN 名称_NN ：_PU 挪威_NN 康纳_NN 斯_AD 有_VE 限公司_NN )_PU 是_VC 一_CD 间_M 专门_NN 设计_NN 数位_NN 电视_NN 条件_NN 收视_VV 模块_NN (_PU conditionalaccess)_NN 的_DEG 公司_NN 。_PU 该_DT 公司_NN 总部_NN 位于_VV 挪威_NN 首都_AD 奥斯陆_VV ，_PU 同时_AD 在_P 美国_NR 、_PU 印度_NN 及_CC 德国_NN 成_VV 立子_NN 公司_NN 。_PU 而_MSP 销售_VV 及_CC 支援_VV 办事_NN 处_NN 则_AD 设立_VV 在_P 俄罗_NN 斯_NN 、_PU 新_JJ 加坡_VV 、_PU 中国_NR 、_PU 南朝_NR 鲜_AD 、_PU 巴西_NN 以及_CC 加拿_VV 大_VA 。_PU
+
+在_P 1986_CD 年_M ，_PU Conax_NN 原本_AD 是_VC 研究_VV 小组_NN 名称_NN ，_PU 由_P 挪威_NN 电信_NN 成立_NN ，_PU 隸属于_VV 挪威_NN 电信_NN 研究_NN 及_CC 发展_NN 部门_NN 。_PU 自_P 1992_CD 年_M 开始_NN ，_PU 该_DT 部门_NN 的_DEC 技术_NN ，_PU 包括_VV 世界_NN 上_LC 第一_OD 张_M 付费_NN 电视_NN 智慧_NN 卡_NN ，_PU 开始_VV 投入_VV 大_JJ 规模_NN 营运_NN 。_PU 1994_CD 年_M ，_PU 该_DT 小组_NN 正式_JJ 独立_VV 成_VV 一_CD 间_JJ 公司_NN ，_PU 现_AD 为_VC 挪威_NN 电信_NN 的_DEC 子公司_NN 。_PU
+
+现今_NT ，_PU 挪威_NN 电信_NN 拥有_VV Conax_NN 公司_NN 90%_CD 股权_NN ,_PU 而_CC 另外_AD 10%_CD 由_P TelenorVentureIIASA_NN 拥有_VV 。_PU
+
+OpenandInteroperablebystickingtoanon_NN -_PU proprietaryandopensolution_NN ，_PU Conax_NN 公司_NN 兼_CC 承_VV 科技_NN 技术_NN 有_VE 『_PU 自由_P 选择_NN 』_PU (freedomofchoice)_PU 的_DEG 概念_NN ，_PU 这_PN 包括_VV ：_PU
+
+
+

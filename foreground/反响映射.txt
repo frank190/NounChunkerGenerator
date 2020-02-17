@@ -1,0 +1,11 @@
+﻿_CS 反响_VV 映射_NN
+
+反响_VV 映射_NN （_PU ）_PU 是_VC 天体物_NN 理学_NN 中_LC 通过_P 观测_VV 活动星_NN 系核_NN 中_LC 宽发_VV 射线_NN 对于_P 连_AD 续谱_VV 的_DEC 响应_NN 来_MSP 测量_VV 宽_JJ 发射线区_NN （_PU ,_PU BLR_NN ）_PU 半径_NN 的_DEC 方法_NN 。_PU
+通过_P 这_DT 种_M 方法_NN 可以_VV 测量_VV 活动_JJ 星系_NN 中心_NN 超大_VV 质量_NN 黑洞_NN 的_DEG 质量_NN 。_PU 此_DT 方法_NN 直接_AD 测量_VV 由_P 引力_NN 引起_VV 的_DEC 黑洞_NN 周围_NN 气体_NN 的_DEG 运动_NN ，_PU 因而_AD 被_SB 认为_VV 是_VC 首要_VA 的_DEC 质量_NN 测量_NN 方法_NN 。_PU
+
+宽_AD 发射_VV 线_NN 的_DEG 强度_NN 随着_P 由_P 吸积盘_NN 发出_VV 的_DEC 连续_JJ 谱_NN 的_DEG 强度_NN 变化_NN ，_PU 但_CC 吸积盘_NN 的_DEG 辐射_NN 需要_VV 一定_JJ 的_DEG 时间_NN 才能_VV 到达_VV 宽_JJ 发射_NN 线区_NN ，_PU 进而_AD 激发_VV 宽_JJ 发射线_NN 的_DEG 辐射_NN 。_PU 通过_P 测量_VV 这_DT 一_CD 延迟_VV 即_AD 可_VV 得出_VV 光线_NN 由_P 吸积盘_NN 到达_VV 宽_JJ 发射_NN 线区_NN 中心_NN 的_DEC 距离_NN ，_PU 也_AD 就_AD 近似_VV 为_VC 宽发_JJ 射线区_NN 的_DEG 半径_NN 。_PU
+黑洞_NN 与_P 其_PN 绕转物_NN 有_VE 如下_JJ 关系_NN ：_PU
+其中_NN formula_NN __NN 2_CD 是_VC 绕转物_NN 的_DEG 均_AD 方根_NN 速率_NN ，_PU 可_VV 由_P 宽_JJ 发射线_NN 的_DEG 线宽_NN 测得_VV 。_PU formula_NN __NN 3_CD 是_VC 万_CD 有_VE 引力_NN 常数_NN ，_PU formula_NN __NN 4_CD 是_VC 一_CD 个_M 与_P 宽发_NN 射线区_NN 的_DEG 形状_NN 有关_VV 的_DEC 因子_NN 。_PU formula_NN
+
+
+

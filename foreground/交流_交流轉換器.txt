@@ -1,0 +1,22 @@
+﻿_CS 交流_NN /_PU 交流_NN 转换器_NN
+
+交流_NN /_PU 交流_NN 转换器_NN 是_VC 将_BA 交流_NN 的_DEG 电气_NN 波形_NN 转换_VV 为_VC 另_DT 一_CD 种_M 交流_NN 电气_NN 波形_NN 的_DEC 设备_NN ，_PU 其_PN 电压_NN 和_CC 频率_NN 均_AD 可_VV 任意_AD 调整_VV 。_PU 像_P 变频器_NN 、_PU 及_CC 矩阵_NN 转换器_NN 都_AD 是_VC 交流_NN /_PU 交流_NN 转换器_NN 。_PU
+
+交流_NN /_PU 交流_NN 转换器_NN 可以_VV 依_P 以下_JJ 的_DEG 方式_NN 分类_VV ：_PU
+
+有_VE 直流链_NN 的_DEC 转换器_NN 有_VE 二_CD 种_M ：_PU
+
+若_CS 马达_NN 需要_VV 动态_JJ 剎车_NN ，_PU 可以_VV 用_VV 剎车_NN 斩波器_NN 及_CC 电阻器_NN 并联_VV 在_P 整流器_NN 上_LC 来_MSP 达成_VV 。_PU 另_DT 一_CD 种_M 剎车_NN 方式_NN 是_VC 在_P 整流器_NN 上_LC 反向_AD 并联_VV 闸流体_NN ，_PU 使_VV 能量_NN 可以_VV 回到_VV 交流_NN 电源端_NN 。_PU 不过_CC 这_DT 种_M 相控_JJ 闸流体_NN 为_VV 基_NN 础的_VV 整流器_NN ，_PU 在_P 轻_AD 载_VV 时_LC 对_P 电源_NN 电压_NN 的_DEG 歧变比_NN 二极体_NN 整流器_NN 要_AD 大_VA ，_PU 功率_NN 因素_NN 也_AD 比较_AD 小_VA 。_PU
+
+若_CS 交流_NN /_PU 交流_NN 转换器_NN 希望_VV 有_VE 近似_JJ 弦波_NN 的_DEG 输入_NN 电流_NN ，_PU 以及_CC 双向_VV 的_DEC 功率_NN 流动_NN ，_PU 可以_VV 用_VV 脉冲_NN 宽度_NN 调变_VV （_PU PWM_NN ）_PU 的_DEG 整流器_NN 、_PU PWM_NN 的_DEG 逆变器_NN 配合_VV 直流_JJ 链_NN 达到_VV 。_PU 直流_JJ 链_NN 的_DEG 大小_NN 以_P 逆变器_NN 和_CC 整流器_NN 之间_LC 共同_VA 的_DEC 能量_NN 储存_NN 元件_NN 来_MSP 表示_VV ，_PU 在_P 电压源_NN 变频器_NN 中_LC 为_P 电容_NN ，_PU 在_P 电流_NN 源_NN 变频器_NN 中_LC 为_P 电感_NN 。_PU PWM_NN 整流器_NN 控制_VV 输入_NN 电流_NN 为_VC 弦波_NN ，_PU 可能_VV 和_P 交流_NN 电源_NN 的_DEG 电压_NN 同_AD 相_VA ，_PU 若_CS 是_VC 能量_AD 回馈_VV 到_VV 电源端_NN ，_PU 电流_NN 会_VV 和_P 电压反_NN 相_NN 。_PU
+
+因为_P 直流链_NN 的_DEC 储存_NN 元件_NN ，_PU 整流器_NN 和_CC 逆变器_NN 有_VE 相当_JJ 程度_NN 的_DEC 解耦_NN ，_PU 有_VE 在_P 控制_NN 上_LC 的_DEG 好处_VA 。_PU 不_AD 过直_AD 流链_VV 的_DEC 储存_NN 元件_NN 其_PN 体积_NN 较_AD 大_VA ，_PU 若_CS 在_P 电压源_NN 变频器_NN 中_LC 使用_VV 电解_NN 电容器_NN ，_PU 也_AD 潜在_VA 的_DEV 降低_VV 了_AS 系统_NN 的_DEG 壽命_NN 。_PU
+
+利用_VV 切换_NN 元件_NN 将_AD 输入_VV 波形_NN 切换_VV 后_LC ，_PU 产生_VV 变频率_NN ，_PU 近似_AD 弦波_VV 的_DEC 输出_NN 电压_NN ，_PU 没有_VE 中间_NN 的_DEC 直流_NN 链_NN 储存_NN 元件_NN 。_PU 切换_NN 元件_NN 可能_VV 是_VC ，_PU 不过_P 其_PN 输出_VV 频率_NN 需要_VV 比_P 输入_VV 电压_NN 的_DEG 频率_NN 要_VV 低_VA 。_PU 大型_VA 的_DEC 循环_NN 换流器_NN （_PU 功率_NN 约_AD 到_VV 10_CD MW_M ）_PU 是_VC 为_VC 压缩机_NN 及_CC 风洞机_NN 所_MSP 设计_VV ，_PU 或是_CC 像_P 水_NN 泥窑炉_NN 之类_LC 的_DEG 变速_JJ 应用_NN 。_PU
+
+为了_P 提高_VV 功率_NN 密度_NN 及_CC 可靠性_NN ，_PU 一_CD 种_M 可行_VV 的_DEC 作法_NN 是_VC 考虑_VV 矩阵式_NN 的_DEG 架构_NN ，_PU 将_BA 三_CD 相_NN 输入_VV 和_CC 三_CD 个_M 输出_NN 用_P 九_CD 个_M 双向_JJ 的_DEG 功率_NN 晶体_NN 来_MSP 进行_VV 切换_NN ，_PU 每_DT 一_CD 相_NN 输入_VV 都_AD 有_VE 三_CD 个_M 功率_NN 晶体_NN 连接_VV 到_VV 三_CD 相_NN 的_DEG 输出_NN ，_PU 这_PN 就_AD 是_VC 直接_AD 型_VV 的_SP ，_PU 没有_VE 中介_NN 的_DEC 能量_NN 转换_NN 元件_NN ，_PU 电压_NN 及_CC 电流_NN 的_DEG 转换_NN 都_AD 在_P 一_CD 级_M 的_DEG 转换器_NN 中_LC 完成_VV 。_PU
+
+有_VE 另外_DT 一_CD 种_M 间接型_JJ 的_DEG 能量_NN 转换_NN 方式_NN ，_PU 可以_VV 用_P 间接型_JJ 的_DEG 矩阵_NN 转换器_NN ，_PU 或是_CC 由_P 苏黎_NN 世联_VV 邦理_NN 工学院_NN 的_DEG JohannW_NN ._PU Kolar_NN 教授_NN 发明_NN 的_DEG 来_MSP 达成_VV 。_PU 就像_VV 电压源_NN 及_CC 电流源_NN 的_DEC 变频器_NN 一样_VA ，_PU 会_VV 分为_VV 几_CD 阶来_M 处理_VV 电压_NN 及_CC 电流_NN 的_DEG 转换_NN ，_PU 但_CC 直流_JJ 链_NN 没有_VE 中介_NN 的_DEC 储能_NN 元件_NN 。_PU 一般来说_AD ，_PU 使用_VV 矩阵_NN 转换器_NN 后_LC ，_PU 可以_VV 减小_VV 直流链_NN 的_DEC 储能_NN 元件_NN ，_PU 或是_CC 甚至_AD 不_AD 用_VV ，_PU 不过_AD 会_VV 使用_VV 很_AD 多_VA 的_DEC 功率_NN 晶体_NN 。_PU 矩阵_NN 转换器_NN 常_AD 视为_VV 未来_JJ 变频_NN 技术_NN 的_DEG 概念_NN 之一_LC ，_PU 不_AD 过数_NN 十_CD 年来_VV 的_DEC 密集_NN 研究_NN ，_PU 在_P 工业_NN 上_LC 的_DEG 使用_NN 并_AD 不_AD 多_VA 。_PU 不过_AD 因为_P 近来_NT 已_AD 可_VV 获得_VV 低_JJ 成本_NN 、_PU 高_JJ 效能_NN 的_DEC 半导体_NN ，_PU 过去_VV 几_CD 年_M 已_AD 有_VE 少数_NN 变频器_NN 厂商_NN 在_P 提倡_NN 矩阵_NN 转换器_NN 。_PU
+
+
+

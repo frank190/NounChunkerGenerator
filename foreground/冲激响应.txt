@@ -1,0 +1,14 @@
+﻿冲激_NN 响应_NN
+
+在_P 信号_NN 处理_NN 中_LC ，_PU 脉冲_NN 响应_NN （_PU ）_PU 一般_AD 是_VC 指_VV 系统_NN 在_P 输入_VV 为_VC 单位_JJ 脉冲_NN 函数_NN 时_LC 的_DEG 输出_NN （_PU 响应_NN ）_PU ，_PU 是_VC 暂_BA 态_NN 响应_NN 中_LC 的_DEG 一_CD 种_M 。_PU 对于_P 连续_JJ 时间_NN 系统_NN 来说_LC ，_PU 脉冲_NN 响应_NN 一般_AD 用_P 函数_NN formula_NN
+
+并且_AD ，_PU 在_P 从_P 负无_JJ 穷到_NN 正_AD 无_VE 穷_JJ 区间_NN 内积_NN 分为_VV 1_CD ：_PU
+
+在_P 输入_VV 为_VC 狄拉克_NN δ_DEC 函数_NN 时_LC ，_PU 系统_NN 的_DEG 脉冲_NN 响应_NN formula_NN __NN 4_CD 包含_VV 了_AS 系统_NN 的_DEG 所有_DT 信息_NN 。_PU 所以_AD 对于_P 任意_JJ 输入_NN 信号_NN formula_NN __NN 5_CD ，_PU 可以_VV 用_P 连续_JJ 域卷积_NN 的_DEC 方法_NN 得出_VV 所_MSP 对应_VV 的_DEC 输出_NN formula_NN
+
+对于_P 离散_NN 时间_NN 系统_NN 来说_LC ，_PU 脉冲_NN 响应_NN 一般_AD 用_P 序列_NN formula_NN
+
+同样_JJ 道理_NN ，_PU 在_P 输入_VV 为_VC formula_NN __NN 10_CD 时_LC ，_PU 离散_NN 系统_NN 的_DEG 脉冲_NN 响应_NN formula_NN __NN 8_CD 包含_VV 了_AS 系统_NN 的_DEG 所有_DT 信息_NN 。_PU 所以_AD 对于_P 任意_JJ 输入_NN 信号_NN formula_NN __NN 12_CD ，_PU 可以_VV 用离_P 散域_NN 卷积_NN （_PU 求和_VV ）_PU 的_DEC 方法_NN 得出_VV 所_MSP 对应_VV 的_DEC 输出_NN 信号_NN formula_NN
+
+
+

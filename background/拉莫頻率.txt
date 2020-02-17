@@ -1,0 +1,8 @@
+﻿拉_NN 莫_CC 频率_NN
+
+拉莫_NR 频率_NN 出现_VV 在_P 磁共振_NN 现象学_NN 中_LC ，_PU 指_VV 的_DEC 是_VC 特定_JJ 自旋_NN 在_P 一定_JJ 主_JJ 磁场_NN 强度_NN B_NN 下_LC 会_VV 具有_VV 的_DEC 共振_JJ 频率_NN 。_PU 数学_NN 关系_NN 可以_VV 简单_AD 写为_VV ：_PU
+
+其中_NN f_NN 为_VC 拉莫_JJ 频率_NN ，_PU 以_P 赫兹_NN 表示_VV ；_PU B_NN 为_VC 主_JJ 磁场_NN 强度_NN ，_PU 以_MSP 特_AD 斯_DT 拉_NN 表示_VV ；_PU γ_NN 为_VC 旋磁比_NN ，_PU 为_VC 两_CD 者_NN 间_LC 的_DEG 比例_NN 常_AD 数_VA ，_PU 一_CD 种_M 特定_JJ 自旋_NN 具有_VV 固定值_NN 。_PU
+
+
+

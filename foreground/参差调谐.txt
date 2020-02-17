@@ -1,0 +1,36 @@
+﻿参差_NN 调谐_VV
+
+参差_JJ 调谐_NN （_PU staggeredtuning_NN ）_PU 是_VC 用于_VV 多级_JJ 调谐_NN 放大器_NN 的_DEG 一_CD 种_M 技术_NN ，_PU 其中_NN 每_DT 一_CD 级_M 调谐到_NN 的_DEG 频率_NN 有_VE 微小_JJ 的_DEG 差异_NN 。_PU 相比_VV 同_DT 步_M 调谐_NN （_PU 每_DT 一_CD 级_M 都_AD 以_P 相同_JJ 频率_NN 进行_VV 调谐_NN ）_PU ，_PU 参差_JJ 调谐_NN 可以_VV 产生_VV 更_AD 宽_VA 的_DEC 频带_NN ，_PU 但是_CC 其_PN 代价_NN 是_VC 增益_VV 的_DEC 降低_NN 。_PU 参差_NN 调谐_VV 也_AD 能_VV 让到_VV 间_LC 的_DEG 更加_JJ 锋利_NN 。_PU 相对于_P 其他_DT 类型_NN 的_DEG 滤波器_NN 来说_LC ，_PU 参差_VV 调谐_NN 和_CC 同步_JJ 调谐_NN 电路_NN 更_AD 容易_AD 调谐_VV 和_CC 制造_VV 。_PU
+
+参差_JJ 调谐_NN 电路_NN 的_DEG 功能_NN 可以_VV 用有_VV 理函数_NN 表示_VV ，_PU 因此_AD 它们_PN 设计_VV 出_VV 任何_DT 主流_NN 滤波器_NN 响应来_NN ，_PU 如_P 巴特_NN 沃_OD 斯_DT 响应_NN 和_CC 切比_NN 雪_NN 夫_NN 响应_NN 。_PU 可以_VV 很_AD 容易_AD 控制_VV 使_VV 电路_NN 的_DEG 极点_NN ，_PU 得到_VV 想要_VV 的_DEC 响应_NN ，_PU 因为_P 有级_JJ 间放_NN 大_JJ 缓冲_NN 。_PU
+
+实际_JJ 应用_NN 包括_VV 电视_NN 中_LC 频_VV 放大器_NN （_PU 大多_CD 是_VC 20_CD 世纪_NN 的_DEG 接收机_NN ）_PU 以及_CC WLAN_NN 。_PU
+
+参差_JJ 调谐_NN 扩大_VV 了_AS 多级_JJ 调谐_NN 放大器_NN 的_DEC 带宽_VV ，_PU 但_CC 代价_NN 是_VC 整体_JJ 增益_NN 减小_VV 。_PU 参差_AD 调谐_VV 也_AD 增加_VV 了_AS 通带_NN 的_DEG 陡度_NN ，_PU 因而_AD 提高_VV 了_AS 。_PU
+
+调谐_VV 放大器_NN （_PU 如_P 在_P 条目_NN 开头_NN 展示_VV 的_DEC 那_DT 个_M ）_PU 可以_VV 更_AD 一般_AD 地_DEV 被_SB 描述_VV 为_VC 一_CD 个_M 跨导_VV 放大器链_NN ，_PU 每_DT 个_M 放大器_NN 的_DEG 负载_NN 都_AD 为_VC 一_CD 个_M 调谐_NN 电路_NN 。_PU
+
+该_DT 放大器_NN 的_DEG 一级_JJ 的_DEG 增益_NN "_PU A_NN "_PU ("s")_PU 为_VC ：_PU
+
+这_PN 可以_VV 用_VV 一_CD 种_M 更_AD 一般_VA 的_DEC 形式_NN 来_MSP 书写_VV ，_PU 即_AD 不_AD 要_VV 假设_VV 谐振器_NN 是_VC LC_NN 类型_NN 的_DEG ，_PU 运用_JJ 下面_NN 的_DEG 代换_NN ，_PU
+
+得到_VV ，_PU
+
+可以_VV 通过_P 代换_NN （_PU 其中_NN "_PU i_NN "_PU 为_VC 虚数_NN 单位_NN ，_PU "_PU ω_NN "_PU 为_VC 角频率_NN ）_PU ，_PU 用_P （_PU 角_NN ）_PU 频率_NN 的_DEC 函数_NN 来_MSP 给出_VV 增益_NN 表达式_NN
+
+频带_NN 边缘_NN 的_DEG 频率_NN "_PU ω_NN "_PU 可以_VV 通过_P 令频_NN 带_VV 边缘_NN 的_DEG 增益_NN 值等于_VV 此_DT 表达式_JJ 的_DEG 模来_NN 求得_VV 该_DT 表达式_NN ，_PU
+
+解出_VV "_PU ω_NN "_PU 并_CC 求_P 两_CD 个_M 正_AD 值解_VV 的_DEC 差_NN ，_PU 得到_VV 带_VV 宽Δ_NN "_PU ω_NN "_PU ，_PU
+
+以及_CC 相对_AD 带宽_VV "_PU B_NN "_PU ，_PU
+
+放大器_NN 的_DEG 总_JJ 响应_NN 是_VC 各_DT 级_M 的_DEG 乘积_NN ，_PU
+
+理想_VA 的_DEC 是_VC 能够_VV 依据_P 所_MSP 需_VV 规格_NN 的_DEG 标准_NN 低_AD 通来_VV 设计_VV 滤波器_NN 。_PU 通常_AD 会_VV 选择_VV 光滑_NN 的_DEC 巴特沃_NN 斯_AD 响应_VV ，_PU 但_CC 也_AD 可以_VV 用_P 允许_VV 响应_NN 中_LC 存在_VV 涟波_NN 的_DEC 。_PU 对于_P 陡_NN 的_DEG 边缘_NN ，_PU 带有_VV 纹波_VV 的_DEC 多项式_JJ 的_DEG 一_CD 个_M 普遍_NN 选择_NN 是_VC 切_VV 比_P 雪夫_NN 响应_NN 。_PU 为了_P 方便_VV 变换_NN ，_PU 级_CS 增益_NN 表达式_NN 可以_VV 重新_AD 写成_VV 下面_NN 形式_NN ，_PU
+
+使用_VV 此_DT 变换_NN 可以_VV 变换_VV 为_VC 低_JJ 通_NN
+
+参差_AD 调谐_VV 在_P 宽带_NN 应用_NN 中_LC 的_DEG 效果_NN 最_AD 好_VA 。_PU 以往_NT 曾用_VV 在_P 电视_NN 中_LC 频_VV 放大器_NN 中_LC 。_PU 不过_P 现代_JJ 多半_CD 已_AD 由_P SAW_NN 滤波器_NN 取代_NN 。_PU 参差_AD 调谐_VV 在_P 无线_JJ 应用_NN （_PU 例如_AD 无_VE 线_NN 局域_NN 网_NN ）_PU 的_DEG 超大_JJ 规模_NN 集成_JJ 电路_NN 中_LC 相当_AD 适用_VV 。_PU 因为_P 其_PN 元件_NN 数值_NN 的_DEC 分布_NN 范围_NN 不_AD 大_VA ，_PU 比_P 传统_JJ 的_DEG 梯形_NN 网络_NN 容易_AD 用_P 集成_JJ 电路_NN 来_MSP 实现_VV 。_PU
+
+
+

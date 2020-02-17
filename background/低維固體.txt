@@ -1,0 +1,6 @@
+﻿低维_NN 固体_NN
+
+低维_JJ 固体_NN 是_VC 指_VV 某些_DT 固体_NN 表现_VV 出_VV 明显_VA 的_DEC 一_CD 维_NN 或_CC 二_CD 维_NN 特征_NN ，_PU 例如_AD 分子_NN 具有_VV 链状_NN 结构_NN 的_DEC 三硫化钽_NN 、_PU TTF_NN -_PU TCNQ_NN 就_AD 是_VC 一_CD 维_M 固体_NN ，_PU 而_CC 分子_NN 具有_VV 片状_JJ 结构_NN 的_DEC 石墨_NN 夹层_NN 或_CC 是_VC 二_CD 硫_NN 化_VV 镍_NN 就_AD 是_VC 二_CD 维_NN 固体_NN 。_PU 低_JJ 维_NN 固体_NN 具有_VV 三_CD 维固_M 体所_NN 没有_VE 的_DEG 一些_CD 物理_NN 特性_NN ，_PU 像_P 是_VC 一_CD 维导体_NN 对于_P 电子_NN ─_PU 点_NN 阵_NN 相互_AD 作用_VV 是_VC 不_AD 稳定_VA 的_DEC ，_PU 因此_AD 在_P 低温_NN 下_LC 会_VV 变为_VV 半导体_NN 或_CC 绝缘体_NN 。_PU
+
+
+

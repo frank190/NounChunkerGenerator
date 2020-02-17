@@ -1,0 +1,12 @@
+﻿像素_NN 长_AD 宽_VA 比_P
+
+像素_NN 长_AD 宽_VA 比_P （_PU pixelaspectratio_NN ,_PU PAR_NN ）_PU 是_VC 描述_JJ 数位_NN 影像_VV 的_DEC 像素_NN 中_LC ，_PU 宽_NN 和_CC 高_NN 之间_LC 的_DEG 比率_NN 。_PU
+
+大多数_CD 的_DEG 数位_NN 成像_NN 系统_NN ，_PU 会_VV 将_BA 影像_VV 显示_VV 为_VC 很多_JJ 微小_NN 的_DEC 正方型_JJ 像素格_NN 。_PU 但_CC 部分_NN 成像_NN 系统_NN ，_PU 尤其是_AD 必须_VV 与_P 标準_NN 画质_NN 电视_NN 相容者_NN ，_PU 会_VV 将_BA 影像_VV 显示_VV 为_VC 长方形_JJ 的_DEG 像素格_NN 。_PU 像素_NN 格_NN 的_DEC 长_JJ 和_CC 宽_JJ 不_AD 一_CD 定_NN 等_ETC 长_VA ，_PU 因此_AD 就_AD 用_VV 像素_NN 长_VA 宽_AD 比_P 来_MSP 描述_VV 之_DEC 。_PU
+
+像素_NN 长_AD 宽_VA 比_DEV 通常_AD 会_VV 用于_VV 描述_VV 标_VV 準_NN 画质_NN 电视_NN 相关_JJ 的_DEG 影像_NN ，_PU 除了_P 少数_CD 特例_NN 以外_LC 。_PU 大多数_CD 的_DEG 成像_NN 系统_NN ，_PU 包括_VV 遵守_NN 电影_NN 电视_NN 工程_NN 师协_NN 会标準_NN 和_CC 实务_NN 的_DEC 系统_NN ，_PU 皆_AD 是_VC 使用_VV 正_JJ 方_NN 像_P 素_NN 。_PU
+
+长宽_JJ 比_NN （_PU 影像_NN ）_PU
+
+
+

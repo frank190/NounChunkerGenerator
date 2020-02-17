@@ -1,0 +1,13 @@
+﻿创生_NN 及_CC 湮灭_NN 算_VV 符_NN
+
+-_PU {T_NN |_NN zh_NN -_PU hans_NN :_PU 产生_VV 及_CC 湮_PN 没_AD 算符_VV ;_PU zh_NN -_PU hant_NN :_PU 创生_NN 及_CC 消灭_NN 算符_VV }_PU -_PU
+
+物理学_NN 中_LC ，_PU -_PU {A_NN |_NN zh_NN -_PU hans_NN :_PU 湮没_NN ;_PU zh_NN -_PU hant_NN :_PU 消灭_NN }_PU -_PU 算符_NN （_PU Creationandannihilationoperators_NN ）_PU 是_VC 将_BA 处_NN 於_P 特定_NN 状态_NN 中_LC 的_DEG 多_CD 个_M 粒子_NN ，_PU 其_PN 粒子_NN 数_NN 下降_VV 1_CD 的_DEG 算符_NN ；_PU -_PU {A_NN |_NN zh_NN -_PU hans_NN :_PU 产生_VV ;_PU zh_NN -_PU hant_NN :_PU 创生_NN }_PU -_PU 算符_NN 则_AD 是_VC 将_BA 处_NN 於_P 特定_NN 状态_NN 中_LC 的_DEG 多_CD 个_M 粒子_NN ，_PU 其_PN 粒子_NN 数_AD 增加_VV 1_CD 的_DEG 算符_NN ，_PU 创生算符_VV 也_AD 是_VC 消灭_VV 算符_VV 的_DEC 伴算符_NN （_PU adjoint_NN ）_PU 。_PU 按照_P 不同_VA 的_DEC 课题_NN ，_PU 问题_NN 中_LC 的_DEG 粒子_NN 类型_NN 也_AD 各_AD 有_VE 不同_JJ 。_PU 举例_NN 来_MSP 说_VV ，_PU 在_P 量子_NN 化学_NN 与_P 多体理_NN 论_NN 中_LC ，_PU 创生_VV 与_P 消灭_NN 算符_VV 的_DEC 作用_NN 对_P 象常_AD 为_VC 电子_NN 。_PU
+
+消灭_NN 与_CC 创生算_NN 符_VV 在_P 量子_NN 谐振子_NN 的_DEC 场合_NN 中_LC ，_PU 特_AD 別_NN 指_VV 的_DEC 是_VC 阶梯_NN 算符_VV 。_PU 在_P 这样_PN 的_DEG 场合_NN ，_PU 升算_VV 符_VV 诠释_VV 为_VC 创生算符_VV ，_PU 将_BA 一_CD 能量_NN 量子_NN 加到_VV 振子_NN 系统_NN ，_PU 对于_P 降算符_NN 也_AD 是_VC 相同_VA 的_DEC 类比_NN 。_PU 它们_PN 可以_VV 用来_VV 代表_VV 声子_NN 。_PU 在_P 物理学_NN 与_CC 化学_NN 的_DEC 分支_NN 学科_VV 里_LC ，_PU 使用_VV 这些_DT 算符_NN 而_AD 不_AD 是_VC 波函数_NN 的_DEC 方法_NN 称之为_VV 二_CD 次_M 量子化_NN 。_PU
+
+创生_NN 与_CC 消灭算_NN 符背_VV 后_LC 的_DEG 数学_NN 与_CC 出现_VV 在_P 量_NN 子_NN 谐振_NN 子_NN 中_LC 的_DEG 阶梯_NN 算符_VV 的_DEC 式子_NN 相同_VA 。_PU 举例_NN 来说_LC ，_PU 消灭_VV 与_P 创生算_NN 符_VV 对于_P 同_DT 一_CD 状态_NN 的_DEC 交换子_NN 等于_VV 一_CD ；_PU 其他_DT 的_DEG 交换子_NN 皆_AD 为_VC 零_CD 。_PU
+
+创生_NN 与_CC 消灭_NN 算符_VV 的_DEC 概念_NN 对于_P 自由_AD 场论_NN 来_MSP 说_VV 是_VC 有_VE 良好_VA 定义_VV 的_DEC ，_PU 然而_AD 在_P 交互_NN 作用_NN 量子_NN 场论_NN （_PU interactingQFTs_NN ）_PU 中_LC ，_PU 它们_PN 只_AD 能_VV 在_P 交互_NN 作用_VV 图像_NN （_PU interactionpicture_NN ）_PU 中_LC 有_VE 所_MSP 定义_VV ；_PU 而_CC 根据_P 哈_DT 格_M 定理_NN （_PU Ha_CD ag_M '_PU stheorem_NN ）_PU ，_PU 交互_NN 作用_VV 图像_NN 是_VC 不_AD 存在_VV 的_DEC 。_PU
+
+

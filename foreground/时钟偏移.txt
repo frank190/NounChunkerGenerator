@@ -1,0 +1,25 @@
+﻿时钟_NN 偏移_NN
+
+时钟_NN 偏移_NN （_PU ）_PU 或_CC 称_VV 时钟_NN 偏斜_VV ，_PU 是_VC 指_VV 时钟_NN 信号_NN 到达_VV 数字_NN 电路_NN 各_DT 个_M 部分_NN 所_MSP 用_VV 时间_NN 的_DEG 差异_NN 。_PU 对于_P 大多数_CD 数字_NN 集成_NN 电路_NN 系统_NN ，_PU 例如_AD 计算机_NN 系统_NN ，_PU 各_DT 种_M 信号_NN 都_AD 是_VC 根据_P 系统_NN 定时器_NN 讯号_NN 的_DEC 时钟_NN 频率_NN 进行_VV 同步_JJ 的_DEG ，_PU 这样_AD 这些_DT 信号_NN 就_AD 能_VV 在_P 相同_VA 的_DEC 步调_NN 上_LC 工作_VV 。_PU 最_AD 理想_VA 的_DEC 情况_NN 是_VC ，_PU 输入_NN 信号_NN 在_P 下_DT 一_CD 个_M 时钟_NN 的_DEG 有效_JJ 电平_NN 或者_CC 信号_NN 边缘_NN 带来_VV 之前_LC ，_PU 切换_VV 并_VV 在_P 其_PN 正确_VA 的_DEC 逻辑_NN 电平_NN 上_LC 保持_VV 稳定_VA ，_PU 从而_AD 使_VV 整_DT 个_M 电路_NN 系统_NN 的_DEG 行为_JJ 合乎_NN 预设_VV 。_PU 在_P 一_CD 个_M 完整_VA 的_DEC 电路_NN 系统_NN 中_LC ，_PU 不同_JJ 电子_NN 器件_NN 的_DEG 速度_NN 可能_VV 有着_P 大小_NN 不_AD 一_CD 的_DEC 差距_NN ，_PU 因此_AD 系统_NN 存在_VV 一_CD 个_M 最_AD 大_VA 的_DEC 运行_NN 频率_NN 。_PU 实际上_AD ，_PU 信号_NN 可能_VV 无法_AD 准确_VA 地_DEV 在_P 理想_VA 的_DEC 信号_NN 边缘_NN 到来_VV 之前_NT 的_DEG 瞬间_NN 保持_VV 在_P 其_PN 正确_VA 的_DEC 信号_NN 值_NN 上_LC ，_PU 它_PN 保持_VV 稳定_VA 所_MSP 需_VV 的_DEC 时间_NN 于_P 理想_NN 情况_NN 有_VE 一定_JJ 的_DEG 偏移_NN ，_PU 这_DT 种_M 偏移_NN 就_AD 是_VC 时钟_AD 偏移_VV 。_PU 除了_P 上面_NN 这_DT 种_M 情况_NN ，_PU 还_AD 有_VE 其他_DT 多_CD 种_M 原因_NN 可以_VV 导致_VV 时钟_JJ 偏移_NN 的_DEC 现象_NN 。_PU
+
+同步_AD 时序_NN 电路_NN 的_DEG 基本_JJ 模型_NN 是_VC 由_P 寄存器_NN （_PU 实现_VV 时序_NN 功能_NN ）_PU 和_CC 寄存器_NN 之间_LC 的_DEG 组合_NN 逻辑_NN 电路_NN （_PU 实现_JJ 组合_NN 逻辑_NN 功能_NN ）_PU 构成_VV 的_DEC 。_PU 数据_NN 信号_NN 被_SB 锁存_VV 在_P 寄存器_NN 中_LC ，_PU 并_CC 可以_VV “_PU 穿过_VV ”_PU 组合_NN 逻辑_NN 电路_NN 到达_VV 下_DT 一_CD 个_M 寄存器_NN ，_PU 然后_AD 在_P 时钟_NT 的_DEG 有效_JJ 边缘_NN 到来_VV 时_LC ，_PU 下_DT 一_CD 级_M 寄存器_NN 对_P 数据_NN 信号_NN 进行_VV 锁存_NN 。_PU 理想_VA 的_DEC 电路_NN 系统_NN 需要_VV 时钟_M 信号_NN 在_P 各_DT 个_M 寄存器_NN 上_LC 的_DEG 步调_NN 尽可能_AD 地_DEV 一致_VV ，_PU 这样_AD 才能_VV 使_VV 各_DT 个_M 寄存器_NN 的_DEG 行为_NN “_PU 同步_NT ”_PU 。_PU 然而_AD ，_PU 在_P 实际_VV 的_DEC 同步_JJ 电路_NN 设计_NN 过程_NN 中_LC ，_PU 常常_AD 遇到_VV 时钟_NN 信号_NN 在_P 不同_JJ 时间_NN 到达_VV 电路_NN 各_DT 个_M 部分_NN 的_DEC 现象_NN ，_PU 这_PN 就_AD 是_VC 时钟_AD 偏移_VV 。_PU
+
+在_P 同_DT 步_M 电路_NN 里_LC ，_PU 时钟_NN 偏移_VV formula_NN
+
+产生_VV 时钟_NN 偏移_VV 现象_NN 的_DEG 原因_NN 有_VE 几_CD 种_M ，_PU 例如_AD 互_AD 连线_VV 的_DEC 长度_NN 、_PU 温度_NN 的_DEC 偏差_NN 、_PU 位于_VV 传输_VV 路径_NN 中间_LC 的_DEC 器件_NN 、_PU 电容耦_NN 合_NN 、_PU 器件_NN 材料_NN 不_AD 完善_VA 以及_CC 使用_VV 时_LC 钟_BA 信号_NN 的_DEC 器件_NN 的_DEG 输入端_NN 电容_NN 不同_VA 。_PU 随着_P 电路_NN 的_DEG 时钟_NN 频率_NN 增加_VV ，_PU 时序_NN 性质_NN 会_VV 变得_VV 更加_AD 关键_VA ，_PU 稍微_VA 的_DEC 偏移_NN 甚至_AD 会_VV 使_VV 电路_NN 偏离_AD 正常_AD 工作_VV 的_DEC 状态_NN 。_PU
+
+时钟_NN 偏移_VV 主要_AD 分为_VV 两_CD 类_M ：_PU 正_AD 偏移_VV 和_CC 负_VV 偏移_VV 。_PU 当_P 信号_NN 传输_VV 的_DEC 目标_NN 寄存器_NN 在_P 接收_VV 寄存器_NN 之前_LC 捕获_VV 正确_VA 的_DEC 时钟_NN 信号_NN ，_PU 电路_NN 发生_VV 正_AD 偏移_VV ；_PU 反之_AD ，_PU 当_P 信号_NN 传输_VV 的_DEC 目标_NN 寄存器_NN 在_P 接收_VV 寄存器_NN 之后_LC 捕获_VV 正确_VA 的_DEC 时钟_NN 信号_NN ，_PU 电路_NN 发生_VV 负_VV 偏移_NN 。_PU
+
+时钟_NN 偏移_NN 可能_VV 会_VV 造成_VV 两_CD 种_M 时序_NN 违背_VV ：_PU 保持_VV 时间_NN 违背_NN 、_PU 建立_NN 时间_NN 违背_VV 。_PU
+
+发生_VV 在_P 时钟_NN 信号_NN 的_DEC 到来比_JJ 数据_NN 信号_NN 从_P 信号_NN 源到_NN 达目标_NN 寄存器_NN （_PU 或_CC 目标_NN 触发器_NN ）_PU 并_CC 在_P 其中_NN 保持_VV 一_CD 段_M 时间_NN 更_AD 晚_VA 。_PU 反过来讲_AD ，_PU 即_AD 数据_NN 信号_NN 在_P 连接_VV 到_VV 目标_NN 寄存器_NN 上_LC ，_PU 未_AD 能_VV 在_P 有效_JJ 边缘_NN 到来_VV 之后_AD 保持_VV 足够_VA 长_VA 的_DEC 时间_NN ，_PU 从而_AD 造成_VV 数据_NN 不_AD 能_VV 正确_VA 地_DEV 被_SB 锁存_VV 在_VV 目标_NN 寄存器_NN 中_LC 。_PU
+
+假设_VV 目标_NN 寄存器_NN 捕获_VV 有效_JJ 时钟_NN 信号_NN 边缘_NN 的_DEC 时间_NN 比_P 数据_NN 信号_NN 的_DEG 到达_JJ 更_AD 早_VA ，_PU 那么_AD 连接_VV 在_P 目标_NN 寄存器_NN 上_LC 的_DEG 数据_NN 信号_NN 必须_VV 在_P 时钟_NN 信号_NN 下_LC 一次_AD 有效_AD 边缘_VV 到来_VV 之前_NT 尽快_AD 保持_VV 稳定_VA 。_PU 如果_CS 数据_NN 信号_NN 未_AD 能_VV 满足_VV 这_DT 一_CD 要求_NN ，_PU 那么_AD 就_AD 会_VV 发生_VV 建立_JJ 时间_NN 违背_VV 。_PU 如果_CS 时钟_NN 信号_NN 有效_JJ 边缘_NN 到来_VV 之时_LC ，_PU 数据_NN 信号_NN 仍未_AD 稳定_AD 连接_VV 到_VV 目标_NN 寄存器_NN ，_PU 就_AD 意味_VV 着_AS 要_VV 等待_VV 再_VV 下_DT 一_CD 次_M 时钟_NN 信号_NN 有效_AD 边缘_VV 到来_VV 的_DEC 时候_NN 才_AD 能_VV 做_VV 尝试_VV 。_PU 数据_NN 信号_NN 需要_VV 的_DEC 建立_VV 时间_NN 长度_NN 是_VC 系统_NN 时_LC 钟信_VV 号频率_NN 的_DEG 要求_NN 。_PU
+
+单纯_AD 提高_VV 时钟_NN 频率_NN 不_AD 能_VV 解决_VV 保持_NN 时间_NN 违背_VV ，_PU 因此_AD 在_P 某_DT 种_M 程度_NN 上_LC ，_PU 保持_VV 时间_NN 违背_VV 问题_NN 更加_AD 严重_VA 。_PU 设计_NN 人员_VA 需要_VV 考虑_VV 正_AS 的_DEC 时钟_NN 偏移_VV 和_CC 负_VV 的_DEC 时钟_NN 偏移_VV ，_PU 使得_VV 建立_VV 时间_NN 约束_VV 和_CC 保持_VV 时间_NN 约束_AD 都_AD 不_AD 被_SB 违背_VV 。_PU
+
+在_P 超大_VV 规模_NN 集成_JJ 电路_NN 中_LC ，_PU 存在_VV 大量_CD 需要_VV 时钟_M 信号_NN 进行_VV 同步_JJ 的_DEG 寄存器_NN ，_PU 这_PN 就_AD 需要_VV 构建_VV 一_CD 个_M 时钟_NN 信号_NN 的_DEC 分布_NN 传输_VV 网络_NN ，_PU 来_MSP 提供_VV 时钟偏_JJ 移尽_NN 可能_VV 小_VA 的_DEC 同步_JJ 时序_NN 。_PU 在_P 集成_JJ 电路_NN 的_DEG 物理_NN 设计_VV 阶段_NN ，_PU 需要_VV 设计_VV 一_CD 个_M 良好_VA 的_DEC 时钟_NN 树_NN 结构_NN 。_PU 通过_P 在_P 时钟_NN 信号_NN 传输_NN 电路_NN 上_LC 插入_VV 不同_JJ 参数_NN 的_DEG 缓冲器_NN ，_PU 可以_VV 尽可能_AD 地_DEV 使_VV 时钟_JJ 偏移_NN 接近_VV 零_CD ，_PU 即_AD 时钟_NN 信号_NN 近乎_AD 同步_AD 到达_VV 集成_JJ 电路_NN 中_LC 的_DEG 各_DT 个_M 寄存器_NN 。_PU 设计_NN 人员_NN 可以_VV 利用_VV 计算机_NN 辅助_NN 工程_NN 软件_NN （_PU 例如_AD Synopsys_NN 等_ETC 公司_NN 的_DEC 电子_NN 设计_NN 自动_AD 化工具_VV ）_PU 来_MSP 辅助_VV 设计_NN 。_PU 静态_JJ 时序_NN 分析_NN 可以_VV 检查_VV 集成_JJ 电路_NN 是否_AD 违背_VV 保持_VV 时间_NN 、_PU 建立_VV 时间_NN 相关_VV 的_DEC 约束_NN 。_PU
+
+
+
+

@@ -1,0 +1,8 @@
+﻿_OD 无_VE 定形体_NN
+
+无_VE 定形体_NN ，_PU 或_CC 称_VV 非_JJ 晶体_NN 、_PU 非_AD 晶形_JJ 固体_NN ，_PU 是_VC 其中_NN 的_DEG 原子_NN 不_AD 按照_P 一定_JJ 空间_NN 顺序_AD 排列_VV 的_DEC 固体_NN ，_PU 与_P 晶体_NN 相_AD 对应_VV 。_PU 常见_JJ 的_DEG 无定_JJ 形体_NN 包括_VV 玻璃_NN 和_CC 很_AD 多高_JJ 分子_NN 化合物_NN 如_P 聚苯乙烯_NN 等_ETC 。_PU 只要_JJ 冷却_NN 速度_NN 足够_VA 快_VA ，_PU 任何_DT 液体_NN 都_AD 会_VV 过冷_VV ，_PU 生成_VV 无定_JJ 形体_NN 。_PU 其中_NN ，_PU 原子_NN 尚_AD 未_AD 排好_VV 在_P 热力学_NN 上_LC 有利_VA 的_DEC 晶态_NN 中_LC 的_DEG 晶格_NN 或_CC 骨架_NN 便_AD 已_AD 失去_VV 运动_NN 速度_NN ，_PU 但_AD 仍_AD 保留_VV 有_VE 液态_NN 时_LC 原子_NN 的_DEC 大_JJ 致分布_NN 。_PU
+由于_P 熵_NN 的_DEG 缘故_NN ，_PU 即_AD 使_VV 冷却_NN 速度_NN 很_AD 慢_VA ，_PU 很_AD 多_VA 聚合物_NN 仍_AD 会_VV 生成_VV 无_VE 定形体_NN 。_PU
+
+
+
+

@@ -1,0 +1,13 @@
+﻿尤里卡_VV 147_CD
+
+尤_AD 里_P 卡_NN 147_CD （_PU EUREKA_NN 147_CD ，_PU 也_AD 可_VV 写成_VV ：_PU EUREKA_NN -_PU 147_CD 、_PU Eureka_NN 147_CD 或_CC Eureka_NN -_PU 147_CD ）_PU 是_VC 一_CD 种_M 数位_NN 广播_NN 技术_NN 的_DEG 通讯_NN 协定_VV ，_PU 最初_AD 是_VC 由_P 欧洲_NN 各_DT 国_NN 所_MSP 共同_AD 发展_VV 、_PU 订立_VV 的_DEC 标準_NN ，_PU 如今_AD 则_AD 已经_AD 逐渐_AD 遍行_VV 适用于_VV 世界_NN 各_DT 国_NN 。_PU
+
+事实上_AD EUREKA_NN 147_CD 更为_P 人_NN 所_MSP 知_VV 的_DEC 称呼_NN 是_VC 数位音_NN 讯广播_NN （_PU DAB_NN ,_PU Digitalaudiobroadcasting_NN ）_PU ，_PU 不_AD 过除_VV 了_AS EUREKA_NN 147_CD 外_M 也_AD 还_AD 有_VE 其他_DT 类型_NN 的_DEG 数位_NN 音讯_NN 广播_NN 技术_NN ，_PU 如_P IBOC_NN （_PU In_NN -_PU bandon_NN -_PU channel_NN ）_PU 或_CC IBAC_NN （_PU In_NN -_PU bandadjacent_NN -_PU channel_NN ）_PU 等_ETC 。_PU
+
+EUREKA_NN 147_CD 使用_VV 波段_NN III_NN （_PU bandIII_NN ）_PU 以及_CC L_NN 波段_NN （_PU Lband_NN ）_PU 的_DEG 无线_JJ 频带_NN 来_MSP 运作_VV ，_PU 波段_NN III_NN 的_DEG 频带_NN 范畴_NN 为_VC 174_CD MHz_NN —_PU 240_CD MHz_NN ，_PU L_NN 波段_NN 则_AD 为_VC 1452MHz_NN —_PU 1492_CD MHz_NN ，_PU 不过_AD 在_P 有些_DT 国家_NN 也_AD 可以_VV 使用_VV 超高_JJ 频波段_NN （_PU UHF_NN ，_PU 300_CD MHz_NN —_PU 3000_CD MHz_M ）_PU 来_MSP 运作_VV 。_PU
+
+此外_AD ，_PU EUREKA_NN 147_CD 能够_VV 让_VV 数位_NN 音讯_NN （_PU Digitalaudio_NN ）_PU 的_DEC 位元_NN 串流_NN （_PU Bitstream_NN ）_PU 进行_VV 同时性_JJ 的_DEG 多路_NN 传输_NN （_PU Multiplexing_NN ）_PU ，_PU 经由_P 此_DT 种_M 方式_NN 也_AD 可_VV 让_VV 多_CD 个_M 电台_NN 共_AD 用_P 同_DT 一_CD 个_M 无_VE 线电_NN 信号_NN 及_CC 其_PN 波段_NN ，_PU 以_P 多路_NN 传输_NN 方式_NN 对_P 外发波_NN 之后_LC ，_PU 再_AD 交由_VV 接收器_NN 进行_VV 对应_JJ 的_DEG 解码_NN ，_PU 如此_AD 即_AD 可_VV 还原_VV 出_VV 真正_CC 可_VV 聆听_VV 的_DEC 数位_NN 音讯_NN 。_PU
+
+
+
+

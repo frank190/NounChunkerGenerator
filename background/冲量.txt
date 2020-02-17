@@ -1,0 +1,18 @@
+﻿冲量_NN
+
+冲量_NN 是_VC 作用_P 在_P 物体_NN 上_LC 的_DEG 力_NN 在_P 时间_NN 上_LC 的_DEG 累积_NN 。_PU
+冲量_NN 的_DEG 量纲_NN 和_CC 单位_NN 都_AD 与_P 动量_JJ 一样_NN 。_PU （_PU kg_NN ·_PU m_NN /_PU s_NN 或_CC N_NN ·_PU s_NN ）_PU
+一_CD 个_M 随_P 时间_NN 改变_VV 的_DEC 力_NN 对_P 一_CD 个_M 物体_NN 的_DEG 冲量_NN 指_VV 这_DT 个_M 力_NN 的_DEG 作用_NN 对_P 时间_NN 的_DEC 积累_JJ 效果_NN 。_PU 即_AD 力_VV 对_P 时间_NN 的_DEG 积分_NN ：_PU
+
+其中_NN ，_PU formula_NN __NN 2_CD 是_VC 冲量_NN （_PU 有时_AD 也_AD 记作_VV formula_NN __NN 3_CD ）_PU ，_PU formula_NN __NN 4_CD 是_VC 作用_VV 的_DEC 力_NN ，_PU formula_NN
+
+力_NN formula_NN __NN 4_CD 是_VC 动量_NN formula_NN
+冲量_NN 的_DEG 研究_NN 对象_NN ，_PU 在_P 一般_JJ 情况_NN 下_LC 是_VC 单_CD 个_M 质点_NN ，_PU 有时_AD 也_AD 可以_VV 是_VC 多_CD 个_M 质点_NN 组成_VV 的_DEC 物体_NN 系_NN 。_PU
+
+当_P 外力_NN 为_VC 恒力_NN 时_LC ，_PU 恒力_NN 的_DEG 冲量_NN 简化_VV 为_VC 这_DT 个力_NN 与_P 其_PN 作用_NN 时间_NN 的_DEG 乘积_NN 。_PU
+
+其中_NN ，_PU formula_NN __NN 4_CD 是_VC 作用_VV 在_P 物体_NN 上_LC 的_DEG 恒力_NN ，_PU formula_NN __NN 13_CD 是_VC 作用_VV 的_DEC 时间_NN ，_PU formula_NN __NN 14_CD 是_VC 物体_NN 的_DEG 质量_NN ，_PU formula_NN __NN 15_CD 是_VC 作用_NN 时间_NN 内物体_NN 速度_NN 的_DEG 改变_NN 量_NN ，_PU formula_NN __NN 16_CD 是_VC 力_NN 的_DEG 冲量_NN ，_PU formula_NN
+
+由于_P 冲量_NN formula_NN __NN 18_CD 和_CC 动量_NN formula_NN
+
+

@@ -1,0 +1,5 @@
+﻿弹性波_NN
+
+弹性波_NN （_PU elasticwave_NN ）_PU 是_VC 在_P 弹性力_NN 的_DEG 作用_NN 下_LC 所_MSP 产生_VV 的_DEC 波动_NN 。_PU 弹性波_NN 是_VC 透过_P 弹性_JJ 或_CC 黏弹性_JJ 介质_NN 来_MSP 传播_VV 的_DEC 机械波_NN 。_PU 介质_NN 的_DEG 弹性_NN 提供_VV 了_AS 波动_VV 的_DEC 恢复力_NN 。_PU
+
+

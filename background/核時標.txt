@@ -1,0 +1,9 @@
+﻿核_NN 时_LC 标_VV
+
+核时标_NN 是_VC 在_P 天文物_NN 理学_NN 中_LC 纯粹基_JJ 余核_NN 燃料_NN 消耗_NN 速率_NN 估计_VV 的_DEC 恒星_NN 壽命_NN 。_PU 如果_CS 假设_VV 的_DEC 条件_NN 能够_VV 满足_VV ，_PU 热_NN 和_CC 力学_NN 时_LC 标_VV 是_VC 用来_VV 估计_VV 个_M 別恒_JJ 星_NN 处_NN 在_P 生命_NN 阶段_NN 的_DEG 哪_DT 一_CD 个_M 时期_NN ，_PU 和_CC 恒_AD 星_JJ 壽命_NN 的_DEG 某_DT 一_CD 个_M 阶段_NN 。_PU 实际上_AD ，_PU 恒_AD 星_NN 的_DEC 壽命_NN 会_VV 大于_VV 原子核_NN 时_LC 标_VV 估计_VV 的_DEC ，_PU 因为_P 当_P 一_CD 种_M 燃料_NN 变得_VV 缺_VV 乏时_VV ，_PU 另_DT 一_CD 种_M 常常_AD 会取_VV 而_CC 代之_VV －_PU 氢燃_VV 烧成_VV 氦_NN 、_PU 氦会_NN 再_AD 燃烧_VV 等等_ETC 。_PU 但是_AD ，_PU 在_P 氢_NN 燃烧_VV 之后_LC 所有_DT 阶段_NN 总_JJ 合_VV 在_P 一起_NN 的_DEC 时间_NN 通常_AD 仍短_VV 于_P 氢_NN 燃烧_VV 期间_NN 的_DEG 10%_CD 。_PU
+
+因为_P 氢_NN 是_VC 主序_NN 带_VV 恒_AD 星_VA 的_DEC 主要_JJ 燃料_NN 来源_NN ，_PU 一般_AD 都_AD 用_P 它_PN 来_MSP 确定_VV 恒星_JJ 的_DEG 核壽命_NN 。_PU 它_PN 构成_VV 恒星_JJ 核心_NN 的_DEC 主要_JJ 部分_NN 并且_CC 被氦_VV 的_DEC 外壳_NN 包围_VV 着_AS 。_PU 在_P 恒星_NN 内部_NN 的_DEG 核_NN 反应_NN 中_LC ，_PU 氢_AD 变成_VV 氦_CD ；_PU 当_P 氢_NN 耗尽_VV 之后_LC ，_PU 恒_AD 星_VV 进入_VV 生命_NN 中_LC 的_DEG 另_DT 一_CD 个_M 阶段_NN ，_PU 并且_CC 开始_VV 燃烧_VV 氦_SP 。_PU
+formula_NN
+此_DT 处_NN 的_DEG M_NN 是_VC 恒_JJ 星_NN 的_DEG 质量_NN ，_PU X_NN 是_VC 恒星_NN 中_LC 组成_VV 燃料_NN 的_DEG 比率_NN ，_PU L_NN 是_VC 恒_JJ 星_NN 的_DEG 光度_NN ，_PU Q_NN 是_VC 从_P 核_NN 融合_VV 的_DEC 每_DT 单位_NN 质量_NN 中_LC 释放_VV 的_DEC 能量_NN (_PU 化学_NN 方程_NN 式应_VV 该_DT 检验_NN 所_MSP 获得_VV 的_DEC 数值_NN )_NN ，_PU F_NN 是_VC 恒_JJ 星_NN 已经_AD 燃烧掉_VV 的_DEC 燃料_NN 比率_NN (_PU F_CD 通常_AD 相当_VV 於_P 0_CD ._PU 1_CD )_PU 。_PU 例如_AD ，_PU 太阳_PN 的_DEG 核时标_NN 大约_AD 是_VC 100亿_CD 年_M 。_PU
+
+

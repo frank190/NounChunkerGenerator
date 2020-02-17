@@ -1,0 +1,9 @@
+﻿格_NN 拉德斯通_VV －_PU 戴_VV 尔关系_NN
+
+格拉德_NN 斯通_AD －_PU 戴_VV 尔关系_NN （_PU ）_PU 是_VC 流体_NN 折射率_NN 与_CC 密度_NN 之间_LC 所_MSP 满足_VV 的_DEC 定量关_NN 系式_NN ，_PU 由_P 英国_NN 科学家_NN 与_CC 于_P 19_CD 世纪_NN 提出_VV 。_PU
+
+格拉德_NN 斯通_AD －_PU 戴_VV 尔关_NN 系_NN 的_DEG 表达式_NN 为_VC ：_PU
+
+其中_NN formula_NN __NN 2_CD 为_VC 折射率_NN ，_PU formula_NN __NN 3_CD 为_VC 密度_NN ，_PU formula_NN
+
+

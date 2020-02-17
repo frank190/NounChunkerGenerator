@@ -1,0 +1,11 @@
+﻿线性_NN 熵_NN
+
+在_P 量子_NN 力学_NN 中_LC ，_PU 尤其_AD 是_VC 量子_NN 信息_NN 学_NN 中_LC ，_PU 体系_NN 的_DEG 线性熵_NN （_PU ）_PU 定义_VV 为_VC
+formula_NN
+根据_P 定义_NN ，_PU 线性_JJ 熵取值_NN 范围_NN 为_VC formula_NN __NN 3_CD ，_PU 其中_NN formula_NN
+取值_NN 范围_NN 是_VC formula_NN
+
+线性_JJ 熵_NN 是_VC 常_AD 用_VV 的_DEC 冯纽_NN 曼_AD 熵_VA 的_DEC 低阶_NN 近似_VA 。_PU 将_BA 冯纽曼_NN 熵_VV 在_P 纯态_NN 附近_VV 展开_NN 得到_VV ：_PU
+只_AD 保留_VV 第一_OD 项_M ，_PU 就_AD 能得_VV 到线性熵_NN 。_PU
+
+

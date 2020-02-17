@@ -1,0 +1,7 @@
+﻿_NN 相互_AD 作用_VV 点_NN
+
+在_P 粒子物_NN 理学_NN 中_LC ，_PU 相互_AD 作用_NN 点_NN （_PU ）_PU 是_VC 指_VV 粒子_NN 间_LC 发生_VV 碰撞_NN 的_DEC 地方_NN 。_PU 需要_VV 加以_VV 区分_NN 的_DEC 是_VC “_PU 象征_NR ”_PU （_PU ）_PU 相互_AD 作用_VV 点_NN 和_CC “_PU 真实_AD （_PU 物理_NN ）_PU ”_PU 相互_JJ 作用_NN 点_NN （_PU ）_PU ，_PU 前者_NN 指_VV 相互_JJ 作用_NN 点_LC 的_DEG 设计值_NN ，_PU 而_CC 后者_NN 指_VV 粒子_NN 实际_AD 发生_VV 碰撞_NN 的_DEC 位置_NN 。_PU
+
+对于_P 目标_NN 固定_VV 的_DEC 实验_NN ，_PU 相互_AD 作用_VV 点_NN 是_VC 粒子束_NN 和_CC 靶_NN 相互_AD 作用_VV 的_DEC 位置_NN 。_PU 对于_P 粒子_NN 对撞机_NN ，_PU 相互_AD 作用_VV 点_NN 是_VC 粒子束_NN 之间_LC 发生_VV 撞击_NN 的_DEC 地方_NN 。_PU 粒子_NN 加速器_NN 的_DEG 粒子_NN 探测器_NN 被_SB 安装_VV 在_P 加速器_NN 的_DEG 象征_NN 相互_AD 作用_VV 点_LC 。_PU 因此_AD ，_PU 相互_PN 作_VV 用_P 点_NN 附近_VV 的_DEC 所有_DT 区域_NN 都_AD 被_SB 成为_VV 相互_AD 作用_VV 区域_NN 。_PU 诸如_AD 大型_JJ 正负_JJ 电子_NN 对撞机_NN 、_PU HERA_NN 、_PU RHIC_NN 、_PU 兆电子_NN 伏特_NN 加速器_NN 以及_CC 大型_JJ 强子_NN 对撞机_NN 可以_VV 提供_VV 若干_CD 个_M 相互_JJ 作用_NN 区域_NN ，_PU 从而_AD 可以_VV 让_VV 不同_VA 的_DEC 几_CD 个_M 实验_NN 采集_VV 相同_JJ 粒子_NN 撞击_NN 的_DEC 实验_NN 结果_NN 。_PU
+
+

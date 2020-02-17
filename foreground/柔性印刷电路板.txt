@@ -1,0 +1,18 @@
+﻿柔性_NN 印刷_NN 电路板_NN
+
+柔性_JJ 印刷_NN 电路板_NN （_PU F_CD l_M exiblePrintedCircuit_NN ，_PU F_CD PC_M ）_PU 又称_VV 为_VC 柔性_JJ 线路板_NN 、_PU 软性_NN 电路板_NN 、_PU 软性_JJ 线路板_NN 、_PU 挠性_NN 线路板_NN 、_PU 软板_NN 等_ETC ，_PU 是_VC 一_CD 种_M 特殊_VA 的_DEC 印制_NN 电路板_NN 。_PU 它_PN 的_DEG 特点_NN 是_VC 重量_NN 轻_VA 、_PU 厚度_NN 薄_NN 、_PU 柔软_NN 、_PU 可_VV 弯曲_VV 。_PU 主要_AD 使用_VV 于_P 手机_NN 、_PU 笔记_VV 本_DT 电脑_NN 、_PU PDA_NN 、_PU 数码_NN 相机_VV 、_PU 液晶_NN 显示屏_NN 等_ETC 很多_JJ 产品_NN 。_PU
+
+柔性_JJ 印刷_NN 电路板_NN 主要_AD 由_P 以下_JJ 几_CD 个_M 部分_NN 组成_VV ：_PU
+
+按照_P 导电_JJ 铜箔_NN 的_DEC 层数_NN ，_PU 柔性_JJ 印刷_NN 电路板_NN 可以_VV 划分_VV 为_VC 单_JJ 层板_NN 、_PU 双_JJ 面板_NN 、_PU 双层板_NN 、_PU 多层板_NN 等_ETC 。_PU
+
+单_AD 层柔_JJ 性板_NN 是_VC 结构_NN 最_AD 简单_VA 的_DEC 柔性板_NN 。_PU 从_P 下到_NN 上_LC 依次_AD 为_VC ：_PU 基板_NN 、_PU 接着剂_NN 、_PU 铜箔_NN 、_PU 接着剂_NN 、_PU 保护膜_NN 。_PU 可_VV 根据_P 需要_VV 在_P 最下_JJ 层_NN 增加_VV 补强_NN 。_PU
+
+双_JJ 面板_NN 的_DEG 两_CD 面_NN 都_AD 有_VE 焊盘_NN ，_PU 主要_AD 用于_VV 和_CC 其他_DT 电路板_NN 的_DEG 连接_NN 。_PU 从_P 下到_NN 上_LC 依次_AD 为_VC ：_PU 保护膜_NN 、_PU 接着剂_NN 、_PU 铜箔_NN 、_PU 接着剂_NN 、_PU 基板_NN 、_PU 接着剂_NN 、_PU 铜箔_NN 、_PU 接着剂_NN 、_PU 保护膜_NN 。_PU
+
+当_P 电路_NN 的_DEG 线路_NN 更_AD 复杂_VA 、_PU 单层板_NN 无法_AD 布线_VV 时_LC ，_PU 就_AD 需要_VV 使用_VV 双_JJ 层板_NN 或者_CC 多_JJ 层板_NN 。_PU
+
+多层板_NN 与_CC 单层板_NN 的_DEG 区别_NN 是_VC ，_PU 多层板_NN 增加_VV 了_AS 过孔_NN 结构_NN 以便_AD 连结_VV 各_DT 层_M 铜箔_NN 。_PU 从_P 下到_NN 上_LC 依次_AD 为_VC ：_PU 基板_NN 、_PU 接着剂_NN 、_PU 铜箔_NN 、_PU 接着剂_NN ……_PU 保护膜_NN 。_PU
+
+
+

@@ -1,0 +1,46 @@
+﻿一_CD 阶_NN 保持_VV
+
+一_CD 阶_NN 保持_VV （_PU Frst_M -_PU orderhold_NN 、_PU FOH_NN ）_PU 是_VC 一_CD 种_M 的_DEG 数学_NN 模型_NN ，_PU 可以_VV 透过_P 传统_JJ 的_DEG 数位类_NN 比_P 转换器_NN （_PU D_CD AC_M ）_PU 及_CC 称为_VV 积分器_NN 的_DEG 模拟_NN 电路_NN 完成_VV 。_PU 一_CD 阶_NN 保持_VV 可以_VV 将_BA 讯号_NN 重建_VV 为_VC 近似_JJ 原始_JJ 讯号_NN 的_DEC 函数_NN 。_PU 在_P 实务_NN 上_LC ，_PU 像_P 一_CD 阶_NN 保持_VV 或_CC 零_CD 阶_NN 保持_VV 之_DEC 类_NN 的_DEG 保持_NN 电路_NN 有_VE 其_PN 必要_JJ 性_NN 。_PU 根据_P 采样_VV 定理_VV ，_PU 可以_VV 将_BA 离散_VV 后_LC 的_DEG 讯号_NN 用_P 狄拉克_NN δ_NN 脉冲_NN 序列_NN "_PU x_NN "_PU ("t")_PU 表示_VV ，_PU 再经_AD 过低_VV 通_VV 滤波器_NN 即_AD 可_VV 还原_VV 到_VV 原始_VA 的_DEC 讯号_NN 。_PU 不_AD 过_VV 实务_NN 上_LC 无法_AD 输出_VV 狄拉克_NN δ_NN 脉冲_NN 序列_NN 。_PU 利用_VV 传统_JJ 的_DEG 数位类_NN 比_P 转换器_NN 以及_CC 一_CD 些线性_NN 类比_NN 电路_NN 就_AD 可以_VV 重建_VV 预测型_JJ 或_CC 是延_JJ 迟型_JJ 的_DEG 一_CD 阶_NN 保持_NN 电路_NN 。_PU
+
+虽然_CS 在_P 实务_NN 上_LC 的_DEG 作法_NN 有所_VV 不同_VA ，_PU 但_CC 可以_VV 将_BA 假想_VV 的_DEC 狄拉克_NN δ_NN 脉冲_NN 序列_NN "_PU x_NN "_PU ("t")_PU 有_VE 特定_JJ 特性_NN 的_DEC （_PU 若_CS 是_VC 线性_JJ 时不变_NN 系统_NN ，_PU 可以_VV 用_VV 冲激_NN 响应_VV 完全_AD 描述_VV 其_PN 特性_NN ）_PU ，_PU 因此_AD 每_DT 一_CD 个_M 脉冲_NN 输入_NN 都_AD 可以_VV 产生_VV 正确_VA 的_DEC 分段_NN 线性_JJ 输出_NN 。_PU
+
+一_CD 阶_NN 保持_VV 是_VC 利用_VV 假想_VA 的_DEC 或_CC 是_VC 线性_JJ 时不变_NN 系统_NN ，_PU 将_BA 理想_VA 的_DEC 取_VV 样讯号_NN
+
+转换_VV 为_VC 分段_NN 线性_JJ 的_DEG 讯号_NN 。_PU
+
+所_MSP 得到_VV 的_DEC 等效_JJ 冲激_NN 响应_NN 为_VC
+
+等效_JJ 频率_NN 响应_NN 是_VC 冲激_NN 响应_VV 的_DEC 傅里_NN 叶_NN 变换_NN
+
+可以_VV 令_VV "_PU s_NN "_PU =_NN "_PU i_NN "_PU 2_CD π_NN "_PU f_NN "_PU ，_PU 得到_VV F_CD OH_M 传递_VV 函数_NN 的_DEG 拉普_NN 拉_VV 斯_DT 变换_NN ：_PU
+
+因为_P 一_CD 阶_NN 保持_VV 滤波器_NN 的_DEG 冲激_NN 响应_VV 在_P t_NN 小于_VV 0_CD 时_LC 就_AD 已_AD 有_VE 值_NN ，_PU 因此_AD 此_DT 系统_NN 是_VC 反_VV 因_P 果_NN 系统_NN 。_PU
+延迟_VV 一_CD 阶_NN 保持_VV （_PU Delayedfirst-_JJ orderhold_NN ）_PU 有时_AD 也_AD 称为_VV 因果_P 一_CD 阶_NN 保持_VV （_PU causalfirst_NN -_PU orderhold_NN ）_PU 和_CC 一_CD 阶_NN 保持_VV 相同_VA ，_PU 但_CC 输出_VV 会_VV 延迟_VV 一_CD 个_M 取_VV 样周_NN 期才_NN 输出_VV ，_PU 因此_AD 会_VV 有_VE 延迟_VV 的_DEC 分段_NN 连续_VV 信号_NN
+
+其_PN 等效_JJ 冲激_NN 响应_NN 为_VC
+
+等效_JJ 频率_NN 响应_NN 是_VC 冲激_NN 响应_VV 的_DEC 傅里_NN 叶_NN 变换_NN
+
+可以_VV 令_VV "_PU s_NN "_PU =_NN "_PU i_NN "_PU 2_CD π_NN "_PU f_NN "_PU ，_PU 得到_VV F_CD OH_M 传递_VV 函数_NN 的_DEG 拉普_NN 拉_VV 斯_DT 变换_NN ：_PU
+
+延迟_VV 一_CD 阶_NN 保持_VV 为_VC 因果_NN 系统_NN 。_PU 冲激_NN 响应_VV 在_P t_NN 小于_VV 0_CD 时_LC 没有_VE 值_NN 。_PU
+
+这_OD 类_M 的_DEG 延迟_NN 一_CD 阶_NN 保持_VV 可以_VV 用_P 增益_VV 为_VC "_PU H_NN "_PU (_NN "_PU z_NN "_PU )_PU =_CS 1_CD −_NN "_PU z_NN "_PU 的_DEG 数字_NN 滤波_NN 器_NN ，_PU 将_BA 数字_NN 滤波_NN 器_NN （_PU "_PU x_NN "_PU [_PU "_PU n_NN "_PU ]_PU −_NN "_PU x_NN "_PU [_PU "_PU n_NN "_PU −_NN 1_CD ]_PU ）_PU 的_DEG 输出_NN 送到_VV 传统_JJ 的_DEG 数位_NN 类比_NN 转换器_NN （_PU 本质上_AD 是_VC 零_CD 阶_NN 保持_VV ）_PU ，_PU 再_AD 用_P "_PU H_NN "_PU (_NN "_PU s_NN "_PU )_PU =_NN 1_CD /_PU ("sT")来积分DAC_PU 的_DEG 输出_NN 。_PU
+
+预测型_JJ 一阶_NN 保持_VV （_PU predictivefirst_NN -_PU orderhold_NN ）_PU 和_CC 上_LC 二_CD 一_CD 个_M 一_CD 阶_NN 保持_VV 的_DEC 差异_NN 较_AD 大_VA ，_PU 预测型_JJ 一_CD 阶_NN 保持_VV 是_VC 因果_CS 系统_NN 的_DEG 假想线性_NN 时_LC 不_AD 变_VV 系统_NN ，_PU 可以_VV 将_BA 理论_NN 取样_NN 信号_NN
+
+转换_VV 为_VC 分段_NN 线性_JJ 输出_NN 信号_NN ，_PU 会_VV 用_P 目前_NT 取样_VA 以及_CC 上_DT 一_CD 次_M 的_DEG 取様_NN 来_MSP 线性_JJ 外_NN 推下_VV 一_CD 个_M 取样点_NN ，_PU 此_DT 滤波器_NN 的_DEG 输出_NN 为_VC
+
+其_PN 等效_JJ 冲激_NN 响应_NN 为_VC
+
+等效_JJ 频率_NN 响应_VV 为_VC 冲激_NN 响应_VV 的_DEC 傅里叶_NN 变换_NN 。_PU
+
+可以_VV 令_VV s_NN =_VV i2πf_NN ，_PU 得到_VV FOH_NN 传递_VV 函数_NN 的_DEG 拉普_NN 拉_VV 斯_DT 变换_NN ]_PU ：_PU
+
+此_DT 为_VC 因果_NN 系统_NN 。_PU 预测型_JJ 一阶_NN 保持_VV 的_DEC 冲激_NN 响应_VV 不_AD 会_VV 在_P 输入_VV 脉冲_NN 之前_LC 就_AD 出现_VV 。_PU
+
+这_DT 种_M 分段_NN 线性_JJ 的_DEG 重建_NN 信号_NN 方式_NN 可以_VV 用_P 增益_NN "_PU H_CD "_PU ("z")=1−"z"_PU <_PU sup_NN >_PU −_NN 1_CD <_PU /_PU sup_NN 的_DEG 数字_NN 滤波器_NN 来_MSP 实现_VV ，_PU 将_BA 数位_NN 滤波器_NN 的_DEG 输出_NN （_PU 就_AD 是_VC "_PU x_NN "_PU ["n"]−"x"[_PU "_PU n_NN "_PU −_NN 1_CD ]_PU ）_PU 接到_VV 理想_VA 的_DEC 传统_NN 数位类_NN 比_P 转换器_NN （_PU 其_PN 本质上_AD 是_VC 零_CD 阶_NN 保持_VV ）_PU ，_PU 将_BA 其_PN 输出_VV 接到_VV 类比_NN 滤波器_NN ，_PU 其_PN 传递_NN 函数_NN 为_VC "_PU H_NN "_PU (_NN "_PU s_NN "_PU )_PU =_NOI (_PU 1_CD +_M "_PU sT_NN "_PU )_NN /_PU (_NN "_PU sT_NN "_PU )_NN 。_PU
+
+
+
+

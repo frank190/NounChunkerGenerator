@@ -1,0 +1,42 @@
+﻿光刻_NN
+
+微影_NN 制程_NN （_PU ）_PU 是_VC 半导体_NN 器件_NN 制造_NN 工艺_NN 中_LC 的_DEG 一_CD 个_M 重要_JJ 步骤_NN ，_PU 该_DT 步骤_NN 利用_VV 曝光_NN 和_CC 显影_VV 在_P 光阻层_NN 上_LC 刻画_VV 几何_DT 图形_NN 结构_NN ，_PU 然后_AD 通过_P 刻蚀_NN 工艺_NN 将_BA 光掩模_NN 上_LC 的_DEG 图形_NN 转移_VV 到_VV 所_MSP 在_VV 衬底_NN 上_LC 。_PU 这里_PN 所_MSP 说_VV 的_DEC 衬底_NN 不仅_CC 包含_VV 硅晶圆_NN ，_PU 还_AD 可以_VV 是_VC 其他_DT 金属层_NN 、_PU 介质层_NN ，_PU 例如_AD 玻璃_NN 、_PU SOS_NN 中_LC 的_DEG 蓝宝石_NN 。_PU
+
+下面_NN 以_P 衬底_NN 上_LC 金属_NN 连接_VV 的_DEC 刻蚀_NN 为_VV 例_NN 讲解_VV 光_AD 刻_M 过程_NN 。_PU
+
+首先_AD ，_PU 通过_P 金属化_NN 过程_NN ，_PU 在_P 硅_NN 衬底_NN 上_LC 布置_VV 一_CD 层_M 仅_AD 数_CD 纳米_NN 厚_VA 的_DEC 金属_NN 层_NN 。_PU 然后_AD 在_P 这_DT 层_M 金属_NN 上_LC 覆上_VV 一_CD 层_M 光阻_NN 。_PU 这_DT 层_M 光阻剂_NN 在_P 曝光_NN （_PU 一般_AD 是_VC 紫外线_NN ）_PU 后_LC 可以_VV 被_LB 特定_JJ 溶液_NN （_PU 显影液_NN ）_PU 溶解_VV 。_PU 使_VV 特定_NN 的_DEC 光波_NN 穿过_VV 光掩膜_NN 照射_VV 在_P 光阻_NN 上_LC ，_PU 可以_VV 对_P 光阻_NN 进行_VV 选择性_JJ 照射_NN （_PU 曝光_NN ）_PU 。_PU 然后_AD 使用_VV 前_JJ 面_NN 提到_VV 的_DEC 显影液_NN ，_PU 溶解_VV 掉_VV 被_SB 照射_VV 的_DEC 区域_NN ，_PU 这样_AD ，_PU 光掩模_NN 上_LC 的_DEG 图形_NN 就_AD 呈现_VV 在_P 光_NN 阻_NN 上_LC 。_PU 通常_AD 还_AD 将_BA 通过_P 烘干_VV 措施_NN ，_PU 改善_VV 剩余_NN 部分_NN 光_AD 阻_VA 的_DEC 一些_CD 性质_NN 。_PU
+
+上述_JJ 步骤_NN 完成_VV 后_LC ，_PU 就_AD 可以_VV 对_P 衬底_NN 进行_VV 选择性_NN 的_DEC 刻蚀_NN 或_CC 离子_NN 注入_NN 过程_NN ，_PU 未_AD 被_SB 溶解_VV 的_DEC 光阻_NN 将_BA 保护_NN 衬底_NN 在_P 这些_DT 过程_NN 中_LC 不_AD 被_SB 改变_VV 。_PU
+
+刻蚀_NN 或_CC 离子_NN 注入_VV 完成_VV 后_LC ，_PU 将_BA 进行_VV 光刻_NN 的_DEC 最后_JJ 一_CD 步_M ，_PU 即_AD 将_BA 光阻_NN 去除_VV ，_PU 以_MSP 方便_VV 进行_VV 半导体_NN 器件_NN 制造_VV 的_DEC 其他_DT 步骤_NN 。_PU 通常_AD ，_PU 半导体_NN 器件_NN 制造_VV 整_DT 个_M 过程_NN 中_LC ，_PU 会_VV 进行_VV 很_AD 多次_JJ 光刻_NN 流程_NN 。_PU 生产_VV 复杂_JJ 集成_JJ 电路_NN 的_DEG 工艺_NN 过程_NN 中_LC 可能_VV 需要_VV 进行_VV 多达_NN 50_CD 步光_NN 刻_NN ，_PU 而_CC 生产_VV 薄膜_NN 所_MSP 需_VV 的_DEC 光刻_NN 次数_NN 会_VV 少_P 一些_CD 。_PU
+
+微影_NN 制程_NN 中_LC 采用_VV 的_DEC 感光_NN 物质_NN 被_SB 称为_VV 光阻_NN ，_PU 主要_AD 分为_VV 正光阻_NN 和_CC 负光阻_NN 两_CD 种_M 。_PU 正_AD 光_AD 阻未_VV 被_LB 光_NN 照_VV 的_DEC 部分_CD 在_P 显影_VV 后会_NN 被_SB 保留_VV ，_PU 而_CC 负_VV 光阻胶_NN 被_SB 感光_VV 的_DEC 部分_NN 在_P 显影_VV 后会_NN 被_SB 保留_VV 。_PU 光阻_NN 不_AD 仅_AD 需要_VV 对_P 指定_VV 的_DEC 光_NN 照_P 敏感_NN ，_PU 还_AD 需要_VV 在_P 之后_LC 的_DEG 金属_NN 刻蚀_NN 等_ETC 过程_NN 中_LC 保持_VV 性质_NN 稳定_VA 。_PU 不同_VA 的_DEC 光阻_NN 一般_AD 具有_VV 不同_VA 的_DEC 感光_NN 性质_NN ，_PU 有些_PN 对_P 所有_DT 紫外线_NN 光谱_NN 感光_VV ，_PU 有些_PN 只_AD 对_P 特定_JJ 的_DEG 光谱_NN 感光_VV ，_PU 也_AD 有些_DT 对_NN X_NN 射线_NN 或者_CC 对_P 电子_NN 束感光_NN 。_PU 光_AD 阻_P 需要_VV 保存_VV 在_P 特殊_VA 的_DEC 遮光器_NN 皿_NN 中_LC 。_PU
+在_P 涂抹_VV 光_VV 阻_NN 之前_LC ，_PU 硅_NN 衬底_NN 一般_AD 需要_VV 进行_VV 预_NN 处理_NN 。_PU 一_CD 般_M 情况_NN 下_LC ，_PU 衬底_NN 表面_NN 上_LC 的_DEG 水_NN 分需_NN 要蒸_AD 发掉_VV ，_PU 这一步_AD 通过_P 脱水_NN 烘焙_NN 来_MSP 完成_VV 。_PU 此外_AD ，_PU 为了_P 提高_VV 光_AD 阻_VV 在_P 衬底_NN 表面_NN 的_DEG 附着_NN 能力_NN ，_PU 还_AD 会_VV 在_P 衬底_NN 表面_NN 涂抹_VV 化合物_NN 。_PU 目前_NT 应用_VV 的_DEC 比_NN 较_AD 多_VA 的_DEC 是_VC 六_CD 甲基乙硅_NN 氮烷_NN （_PU ）_PU 、_PU 三甲基甲硅烷基二乙胺_NN （_PU ）_PU 等_ETC 。_PU
+
+在_P 这_DT 一_CD 步_NN 中_LC ，_PU 需要_VV 将_BA 光阻_NN 均匀_VA 、_PU 平整_VA 地_DEV 分布_VV 在_P 衬底_NN 表面_NN 上_LC 。_PU
+
+首先_AD ，_PU 将_BA 硅片_NN 放在_VV 一_CD 个_M 平整_VA 的_DEC 金属_NN 托盘_NN 上_LC ，_PU 托盘_NN 内_LC 有_VE 小孔_NN 与_CC 真空管_NN 相连_VV 。_PU 由于_P 大气_NN 压力_NN 的_DEC 作用_NN ，_PU 硅片_NN 可以_VV 被_SB “_PU 吸附_VV ”_PU 在_P 托盘_NN 上_LC ，_PU 这样_PN 硅片_NN 就_AD 可以_VV 与_P 托盘_NN 一起_AD 旋转_VV 。_PU 涂胶_NN 工艺_NN 一般_AD 分为_VV 三_CD 个_M 步骤_NN ：_PU
+
+完成_VV 光阻_NN 的_DEC 涂抹_NN 之后_LC ，_PU 需要_VV 进行_VV 软烘_NN 干_VV 操作_NN ，_PU 这_DT 一_CD 步骤_NN 也_AD 被_SB 称为_VV 前_JJ 烘_NN 。_PU
+
+在_P 液态_NN 的_DEC 光阻_NN 中_LC ，_PU 溶剂_NN 成分_NN 占_VV 65％_CD －_PU 85％_CD 。_PU 虽然_CS 在_P 甩胶_NN 之后_LC ，_PU 液态_NN 的_DEC 光阻_NN 已经_AD 成为_VV 固态_VV 的_DEC 薄膜_NN ，_PU 但_AD 仍_AD 有_VE 10％_CD －_PU 30％_CD 的_DEG 溶剂_NN ，_PU 容易_AD 沾污_VV 灰尘_NN 。_PU 通过_P 在_P 较_AD 高_JJ 温度_NN 下_LC 进行_VV 烘培_NN ，_PU 可以_VV 使_VV 溶剂_NN 从_P 光阻_NN 中_LC 挥发_VV 出来_VV （_PU 前烘_NR 后溶剂_NN 含量_NN 降至_VV 5％_CD 左右_NN ）_PU ，_PU 从而_AD 降低_VV 了_AS 灰尘_NN 的_DEC 沾污_NN 。_PU 同时_AD ，_PU 这_DT 一_CD 步骤_NN 还_AD 可以_VV 减轻_VV 因_P 高速_JJ 旋转_NN 形成_VV 的_DEC 薄膜_NN 应力_NN ，_PU 从而_AD 提高_VV 光阻_NN 衬底_NN 上_LC 的_DEG 附着性_NN 。_PU
+
+在_P 前烘_NN 过程_NN 中_LC ，_PU 由于_P 溶剂_NN 挥发_VV ，_PU 光阻_NN 厚度_NN 也_AD 会_VV 减薄_VV ，_PU 一般_AD 减薄_VV 的_DEC 幅度_NN 为_VC 10％_CD －_PU 20％_CD 左右_NN 。_PU
+
+在_P 这_DT 一_CD 步_NN 中_LC ，_PU 将_BA 使用_VV 特定_JJ 波长_NN 的_DEC 光_NN 对_P 覆盖_NN 衬底_NN 的_DEG 光_NN 阻_NN 进行_VV 选择性_NN 地_DEV 照射_VV 。_PU 光阻_NN 中_LC 的_DEG 感光剂_NN 会_VV 发生_VV 光_NN 化学_NN 反应_NN ，_PU 从而_AD 使_VV 正_AD 光_AD 阻_VE 被_SB 照射_VV 区域_NN （_PU 感光_NN 区域_NN ）_PU 、_PU 负光_JJ 阻未_NN 被_SB 照射_VV 的_DEC 区域_NN （_PU 非_VC 感光区_NN ）_PU 化学_NN 成分_NN 发生_VV 变化_NN 。_PU 这些_DT 化学_NN 成分_NN 发生_VV 变化_NN 的_DEC 区域_NN ，_PU 在_P 下_DT 一_CD 步_M 的_DEC 能够_VV 溶解_VV 于_P 特定_VA 的_DEC 显影_VV 液_NN 中_LC 。_PU
+
+在_P 接受_VV 光照_NN 后_LC ，_PU 正性_JJ 光阻_NN 中_LC 的_DEG 感光剂_NN DQ_CD 会_VV 发生_VV 光_NN 化学_NN 反应_NN ，_PU 变为_VV 乙烯酮_NN ，_PU 并_CC 进一步_AD 水解_VV 为_VC 茚并羧酸_NN （_PU ）_PU ，_PU 羧酸_NN 在_P 碱性_JJ 溶剂_NN 中_LC 的_DEG 溶解度_NN 比_P 未_AD 感光_NN 部分_NN 的_DEC 光阻_NN 高出_AD 约_AD 100_CD 倍_M ，_PU 产生_VV 的_DEC 羧酸_NN 同时_AD 还_AD 会_VV 促进_VV 酚_NN 醛_NN 树脂_NN 的_DEC 溶_NN 解_VV 。_PU 利用_VV 感光_NN 与_CC 未_AD 感光_VV 光阻_NN 对_P 碱性_JJ 溶剂_NN 的_DEG 不同_JJ 溶解度_NN ，_PU 就_AD 可以_VV 进行_VV 掩膜_NN 图形_NN 的_DEG 转移_NN 。_PU
+
+通过_P 在_P 曝光_NN 过程_NN 结束_VV 后_LC 加入_VV 显影液_NN ，_PU 正_AD 光_AD 阻_VA 的_DEC 感光区_NN 、_PU 负光阻_VV 的_DEC 非_JJ 感光区_NN ，_PU 会_VV 溶解_VV 于_P 显影液_NN 中_LC 。_PU 这_DT 一_CD 步_M 完成_VV 后_LC ，_PU 光阻层_NN 中_LC 的_DEG 图形_NN 就_AD 可以_VV 显现_VV 出来_VV 。_PU 为了_P 提高_VV 分辨率_NN ，_PU 几乎_AD 每_DT 一_CD 种_M 光阻_NN 都_AD 有_VE 专门_JJ 的_DEG 显影液_NN ，_PU 以_MSP 保证_VV 高_JJ 质量_NN 的_DEC 显影_NN 效果_NN 。_PU
+
+光阻_NN 显影_VV 完成_VV 后_LC ，_PU 图形_NN 就_AD 基本_AD 确定_VV ，_PU 不过_P 还_AD 需要_VV 使_VV 光_AD 阻_VA 的_DEC 性质_NN 更为_AD 稳定_VA 。_PU 硬烘干_NN 可以_VV 达到_VV 这_DT 个_M 目的_NN ，_PU 这_DT 一_CD 步骤_NN 也_AD 被_SB 称为_VV 坚膜_NN 。_PU 在_P 这_DT 过程_NN 中_LC ，_PU 利用_VV 高温_NN 处理_NN ，_PU 可以_VV 除去_VV 光阻_NN 中_LC 剩余_VV 的_DEC 溶剂_NN 、_PU 增强_JJ 光阻_NN 对_P 硅片_NN 表面_NN 的_DEG 附着力_NN ，_PU 同时_AD 提高_VV 光_AD 阻_VV 在_P 随后_NT 刻蚀_NN 和_CC 离子_NN 注入_NN 过程_NN 中_LC 的_DEG 抗蚀性_NN 能力_NN 。_PU 另外_AD ，_PU 高温_NN 下_LC 光_AD 阻_VE 将_BA 软化_NN ，_PU 形成_VV 类似_JJ 玻璃体_NN 在_P 高温_NN 下_LC 的_DEG 熔融_NN 状态_NN 。_PU 这会_PN 使_VV 光阻_NN 表面_NN 在_P 表面_NN 张力_NN 作用_NN 下_LC 圆滑化_VV ，_PU 并_CC 使_VV 光阻层_NN 中_LC 的_DEG 缺陷_NN （_PU 如_P 针孔_NN ）_PU 减少_VV ，_PU 这样_AD 修正_VV 光_NN 阻图形_NN 的_DEG 边缘_NN 轮廓_NN 。_PU
+
+这_DT 一_CD 步骤_NN 简称_VA 去胶_NN 。_PU 刻蚀_NN 或_CC 离子_NN 注入_NN 之后_LC ，_PU 已_AD 经_VV 不_AD 再_AD 需要_VV 光_AD 阻作_VV 保护层_NN ，_PU 可以_VV 将_BA 其_PN 除去_VV 。_PU 去胶_NN 的_DEC 方法_NN 分类_AD 如下_VV ：_PU
+
+除了_P 这些_DT 主要_JJ 的_DEG 工艺_NN 以外_LC ，_PU 还_AD 经常_AD 采用_VV 一些_CD 辅助_NN 过程_NN ，_PU 比如_AD 进行_VV 大_JJ 面积_NN 的_DEG 均匀_JJ 腐蚀_NN 来_MSP 减小_VV 衬底_NN 的_DEG 厚度_NN ，_PU 或者_CC 去除_VV 边缘_NN 不_AD 均匀_VA 的_DEC 过程_NN 等等_ETC 。_PU 一般_AD 在_P 生产_VV 半导体_NN 芯片_NN 或者_CC 其它_DT 元件_NN 时_LC ，_PU 一_CD 个_M 衬底_NN 需要_VV 多次_AD 重复_VV 光_AD 刻_M 。_PU
+
+超大_CS 规模_NN 集成_JJ 电路_NN （_PU VLSI_NN ）_PU 是_VC 光_AD 刻_M 使用_VV 投影_NN 系统_NN 。_PU 光刻机_NN 可以_VV 应用于_VV 集成_JJ 电路_NN 产业链_NN 中_LC 晶圆_VV 制造_NN 、_PU 封装_NN 测试_NN ，_PU 以及_CC 平板_NN 显示_NN 、_PU 高_JJ 亮度_NN LED_NN 等_ETC 领域_NN 。_PU
+
+光刻_NN 的_DEC 优点_NN 是_VC 它_PN 可以_VV 精确_VA 地_DEV 控制_VV 形成_VV 图形_NN 的_DEG 形状_NN 、_PU 大小_NN ，_PU 此_DT 外它_NN 可以_VV 同时_AD 在_P 整_DT 个_M 芯片_NN 表面_NN 产生_VV 外形_NN 轮廓_NN 。_PU 不过_VV ，_PU 其_PN 主要_JJ 缺点_NN 在于_VV 它_PN 必须_VV 在_P 平面_NN 上_LC 使用_VV ，_PU 在_VV 不_AD 平_VA 的_DEC 表面_NN 上_LC 它_PN 的_DEG 效果_NN 要_VV 差_NN 一些_CD 。_PU 此_DT 外它_NN 还_AD 要求_VV 衬底_NN 具有_VV 极_AD 高_VA 的_DEC 清洁_NN 条件_NN 。_PU
+
+

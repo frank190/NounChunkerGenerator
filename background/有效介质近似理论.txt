@@ -1,0 +1,5 @@
+﻿有_DT 效介质_NN 近似_JJ 理论_NN
+
+有效_JJ 介质_NN 近似_VA 理论_VA （_PU 英文_NN 缩写_VV 为_VC EMA_NN 或_CC EMT_NN ）_PU 是_VC 一_CD 种_M 用来_VV 描述_VV 复合_JJ 材料_NN 宏观_NN 性质_VA 的_DEC 分析_NN 或_CC 理论_NN 的_DEC 模型_NN 。_PU 此_DT 理论_NN 将_BA 复合_JJ 材料_NN 中_LC 各_DT 个_M 成分_NN 的_DEG 性质_NN 通过_P 平均_JJ 计算_NN 来_MSP 得出_VV 复合_JJ 材料_NN 的_DEG 性质_NN 。_PU 由于_P 构成_VV 复合_JJ 材料_NN 的_DEG 各_DT 个_M 成分_NN 的_DEC 参数_NN 各_AD 异_VA 且_CC 往往_AD 不_AD 均匀_VA ，_PU 完全_AD 精确_VA 的_DEC 计算_NN 几乎_AD 是_VC 不_AD 可能_VV 的_DEC 。_PU 因此_AD ，_PU 有效_JJ 介质_NN 近似_AD 理论_VV 将_BA 复合_JJ 材料_NN 作为_VV 一_CD 个_M 整体_NN ，_PU 近似_AD 计算_VV 出_VV 其_PN 参数_NN 和_CC 性质_NN 。_PU 目前_NT ，_PU 这_DT 种_M 理论_NN 已经_AD 能够_VV 给出_VV 可_VV 接受_VV 的_DEC 近似值_NN 。_PU 从_P 这_DT 个_M 意义_NN 上_LC 说_VV ，_PU 有效_JJ 介质_NN 近似_AD 是_VC 一_CD 种_M 基于_VV 其_PN 组成_VV 成分_NN 的_DEG 性质_NN 和_CC 含量_NN 来_MSP 描述_VV 某_DT 种_M 介质_NN (_PU 复合_JJ 材料_NN )_PU 总体_NN 性质_VA 的_DEC 计算_NN 方法_NN 。_PU
+
+

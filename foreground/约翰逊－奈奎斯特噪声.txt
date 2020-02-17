@@ -1,0 +1,29 @@
+﻿约_AD 翰逊_VA －_PU 奈奎_NN 斯_DT 特_BA 噪声_NN
+
+约翰逊_AD –_DEV 奈奎_VV 斯_DT 特噪声_NN （_PU ，_PU 也_AD 称作_VV 热噪声_NN ，_PU 约_AD 翰逊_VV 噪声_NN ，_PU 或_CC 奈奎_NN 斯_DT 特_AD 噪声_NN ）_PU 是_VC 由于_P 热_AD 搅动_VV 导致_VV 导体_NN 内部_NN 的_DEG 电荷_NN 载体_NN （_PU 通常_AD 是_VC 电子_NN ）_PU 达到_VV 平衡_NN 状态_NN 时_LC 的_DEG 电子_NN 噪声_NN ，_PU 与_P 所_MSP 施加_VV 电压_NN 无关_AD 。_PU 一般_AD 用_P 统计_NN 物理_NN 推导_VV 该_DT 噪声_NN 被_SB 称作_VV 波动_JJ 耗散_NN 定理_NN ，_PU 这里_PN 用_P 广义_JJ 阻抗_NN 或_CC 广义_NN 极_CC 化率_NN 来_MSP 表征_VV 该_DT 介质_NN 。_PU
+
+一_CD 个_M 理想_NN 电阻器_NN 的_DEC 热噪声_NN 接近_VV 白_JJ 噪声_NN ，_PU 也_AD 就_AD 是_VC 功率_NN 谱密度_NN 在_P 整_DT 个_M 频谱_NN 范围_NN 内_LC 几乎_AD 是_VC 不_AD 间断_VV 的_DEC （_PU 然而_AD 在_P 极_AD 高频_VA 时_LC 并_CC 不_AD 如_P 此_PN ）_PU 。_PU 当_P 限定_VV 为_VC 有限_JJ 带宽_VV 时_LC ，_PU 热噪声_NN 近似_AD 高_VA 斯_PN 分布_VV 。_PU
+
+该_DT 类型_NN 噪声_NN 是_VC 由_P 约翰_NN ·_PU 约_AD 翰逊_NN 1926_CD 年_M 在_P 贝尔_NN 实验室_NN 发现_VV 并且_CC 第一_OD 次_M 测量_NN 的_DEC 。_PU 他_PN 向_P 哈_NN 里_LC ·_PU 奈奎_NN 斯_AD 特_AD 描述_VV 了_AS 他_PN 的_DEG 发现_NN ，_PU 奈奎_VV 斯_DT 特_AD 当_P 时_NN 也_AD 在_P 贝尔_NR 实验室_NN 并且_CC 能够_VV 解释_VV 这_DT 个_M 结果_NN 。_PU
+
+热噪声_NN 与_CC 散粒_NN 噪声_NN 完全_AD 不同_VA ，_PU 散粒_NN 噪声_NN 包括_VV 额外_JJ 的_DEG 电流_NN 波动_NN ，_PU 当_P 提供_VV 电压_NN 并_CC 伴随_VV 宏观_JJ 电流_NN 开始_NN 流动_VV 时_LC 就_AD 会_VV 产生_VV 。_PU 一般_AD 情况_NN 下_LC ，_PU 上述_JJ 定义_NN 适用于_VV 任何_DT 类型_NN 的_DEG 导电_NN 介质_NN 的_DEC 电荷_NN 载体_NN （_PU 例如_AD ，_PU 电解质_NN 中_LC 的_DEG 离子_NN ）_PU ，_PU 而_CC 不只_AD 是_VC 电阻_NN 。_PU 可以_VV 通过_P 一_CD 个_M 能_VV 提供_VV 非_VC 理想_JJ 电阻_NN 噪声_NN 的_DEC 电压源_NN 串联_VV 一_CD 个_M 无_VE 噪声_NN 的_DEC 理想_NN 电阻_NN 来_MSP 模拟_VV 。_PU
+
+单边_JJ 功率_NN 谱_VV 密度_NN ，_PU 或_CC 电压_NN 变化_NN （_PU 均方_NR ）_PU 带宽_VV 每_DT 赫兹_NN ，_PU 由_P 下式_NN 给出_VV
+其_PN 中 _NN "_PU k_NN "_PU 是_VC 玻尔_NN 兹_JJ 曼常_JJ 数用焦_NN 耳_CC 每_DT 开_VV 尔文_NN 表示_VV ,_PU "_PU T_NN "_PU 是_VC 电阻_NN 的_DEG 绝对_JJ 温度_NN 用_VV 开_VV 尔文_NN 表示_VV ，_PU "_PU R_NN "_PU 是_VC 电阻_NN 值_NN 用_P 欧姆_NN (_PU Ω_NN )_PU 表示_VV 。_PU
+
+该_DT 公式_NN 可_VV 用于_VV 室温_NN 下_LC 的_DEG 快速_JJ 计算_NN ：_PU
+例如_AD ，_PU 一_CD 个_M 1k_NN Ω_NN 电阻_NN 温度_NN 在_P 300_CD K时_M 有_VE
+
+对于_P 给定_VV 带宽_VV ，_PU 电压_NN formula_NN 给出_VV
+其_PN 中Δ_NN "_PU f_NN "_PU  _NN 为_VC 已_AD 测_VV 噪声_NN 之上_LC 的_DEC 带宽_JJ 用赫_NN 兹_AD 表示_VV 。_PU 一_CD 个_M  _NN 1k_CD 电阻器_NN 在_P 室温_NN 及_CC 10_CD  _NN kHz_NN  带_NN 宽情况_NN 下_LC 的_DEG RMS_NN 噪声_NN 电压_NN 是_VC 400_CD nV_M 。_PU 一_CD 个_M 有用_VA 的_DEC 经验法_NN 则_AD 需要_VV 记住_VV 的_DEC 是_VC ，_PU 50_CD Ω_NN 在_P 室温_NN 及_CC 1_CD Hz_M 带_VV 宽下_NN 对应于_VV 1_CD nV_M 的_DEC 噪声_NN 。_PU
+
+电阻器_NN 短路_NN 连接_VV 时_LC 的_DEG 耗散_NN 噪声_NN 功率_NN
+
+电阻器_NN 所_MSP 产生_VV 的_DEC 噪声_NN 可以_VV 传递_VV 至_VV 其余_DT 电路_NN ；_PU 最_AD 大_VA 的_DEC 噪声_NN 功率_NN 传递_VV 发生_VV 在_P 噪声_NN 产生_VV 阻抗_NN 与_CC 剩余_NN 电路_NN 的_DEG 戴维南_NN 等_ETC 效阻_NN 抗_VV 阻抗_NN 匹配_NN 时_LC 。_PU 在_P 这_DT 种_M 情况_NN 下_LC 两_CD 部分_NN 阻_NN 抗_NN 中_LC 的_DEG 任意_DT 一_CD 个_M 的_DEG 耗散_NN 噪声_NN 均_AD 作用_VV 在_P 其_PN 本身_PN 和_CC 其他_DT 电阻_NN 。_PU 由于_P 其中_NN 的_DEG 任何_DT 一_CD 个_M 电阻_NN 只_AD 有_VE 一半_CD 的_DEC 压降_NN ，_PU 因此_AD 噪声_NN 功率_NN
+此_DT 处 _NN "_PU P_NN "_PU 是_VC 热噪声_NN 功率_NN 用_P 瓦_NN 表示_VV 。_PU 注意_VV 这_PN 是_VC 独立_VA 的_DEC 噪声_NN 产生_VV 阻抗_NN 。_PU
+
+噪声源_NN 也_AD 可以_VV 通过_P 电流源_NN 并_CC 联电_VV 阻_NN 方式_NN 来_MSP 模拟_VV ，_PU 通过_P 诺顿_NN 等_ETC 效_NN 相应_VV 的_DEC 只要_CS 简单_VA 地_DEV 除以_VV  _NN "_PU R_NN "_PU 便_AD 可以_VV 得到_VV 。_PU 这里_PN 给出_VV 该_DT 电流源_NN 的_DEG 均_AD 方根_NN 值为_VV ：_PU
+i_NN =_NOI \_PU sqrt_NN <_PU /_PU ref_NN >_PU
+
+
+

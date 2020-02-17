@@ -1,0 +1,31 @@
+﻿Sinc_VV 函数_NN
+
+sinc_NN 函数_NN （_PU ）_PU 是_VC 一_CD 种_M 函数_NN ，_PU 在_P 不同_VA 的_DEC 领域_NN 它_AD 有_VE 不同_VA 的_DEC 定义_NN 。_PU 数学_NN 家们_NN 用_P 符号_NN formula_NN 表示_VV 这_DT 种_M 函数_NN 。_PU
+sinc_NN 函数_NN 可以_VV 被_SB 定义_VV 为_VC 归一化_JJ 的_DEG 或者_CC 非_AD 归_VV 一_CD 化_M 的_DEG ，_PU 不_AD 过_VV 两_CD 种_M 函数_NN 都_AD 是_VC 正_BA 弦_NN 函数_NN 和_CC 单调_JJ 的_DEG 递减_NN 函数_NN 1_CD /_PU "_PU x_OD "_PU 的_DEG 乘积_NN ：_PU
+
+在_P 这_DT 两_CD 种_M 情况_NN 下_LC ，_PU 当_P x_NN =_CC 0_CD 时_LC sinc_NN 函数_NN 的_DEG 值_NN 被_SB 定义_VV 为_VC 以下_JJ 的_DEG 极限值_NN ，_PU 因此_AD sinc_NN 函数_NN 是_VC 处_NN 处_NN 可_VV 解析_VV 的_DEC 。_PU
+
+非_AD 归_VV 一_CD 化_M sinc_NN 函数_NN 等同于归_VV 一_CD 化_M sinc_NN 函数_NN ，_PU 只是_CC 它_PN 的_DEG 变量_NN 中_LC 没有_VV 放大_NN 系数_NN π_NN 。_PU
+
+归_VV 一_CD 化_M sinc_NN 函数_NN 的_DEG 特性_NN 使得_VV 它_PN 在_P 插值_NN 与_CC 带限_NN 函数_NN 中_LC 得到_VV 理想_JJ 应用_NN ：_PU
+
+
+这_DT 两_CD 个_M sinc_NN 函数_NN 的_DEG 其它_DT 特性_NN 包括_VV ：_PU
+
+
+
+
+
+所以_AD 它_PN 不_AD 是_VC 勒_JJ 贝格_NN 积分_VA 。_PU
+
+
+尽管_CS 不_AD 是_VC 分布_VV ，_PU 归_VV 一_CD 化_M sinc_NN 函数_NN 也_AD 可以_VV 作为_VV "_PU nascent_NN δ_NN 函数_NN "_PU （_PU 参见_VV 狄_NN 拉克_NN δ函数_NN ）_PU 使用_VV 。_PU
+
+"_PU 归_VV 一_CD 化_M "_PU sinc_NN 函数_NN 通过_P 下式_NN 与_CC δ分布_NN δ_NN (_PU "_PU x_NN "_PU )_PU 发生_VV 联系_NN
+
+由于_P 等式_JJ 左侧_NN 并_AD 不_AD 收敛_VV ，_PU 所以_AD 这不_AD 是_VC 普通_VA 的_DEC limit_NN ，_PU 而_AD 是_VC 说明_VV 对于_P 任意_VV 的_DEC 紧_NN 支撑_NN 平_AD 滑_VV 函数_NN formula_NN 有_VE
+
+在_P 上面_NN 的_DEG 表_NN 达式_NN 中_LC ，_PU 随着_P "_PU a_NN "_PU 趋近于_VV 0_CD ，_PU sinc_NN 函数_NN 每_DT 个_M 单元_NN 长度_NN 上_LC 的_DEG 振动_NN 次数_NN 趋近_VV 于_P 无限_AD ，_PU 然而_CC 不管_CS "_PU a_NN "_PU 是_VC 什_DT 么值_NN ，_PU 这_DT 个_M 表示_VV 通常_AD 在_P ±_PU 1_CD /_PU (_PU π_NN "_PU x_NN "_PU )_NN 内_LC 振动_VV 。_PU 这_PN 与_P δ_NN (_PU x_NN )_PU 的_DEG 非_AD 正式_JJ 表示_VV 有_VE 所矛_DT 盾_M ，_PU δ(x_M )_PU 除了_P "_PU x_OD =_PU 0_OD "_PU 之_DEG 外其它_NN "_PU x_CD "_PU 上_LC 的_DEG 值_NN 都_AD 是_VC 0_CD ，_PU 这_PN 表明_VV 了_AS 将_BA δ函数_NN 作为_VV 函数_NN 而_MSP 不是_AD 分布_VV 带来_VV 的_DEC 问题_NN 。_PU 在_P 吉布_NN 斯_DT 现象_NN （_PU Gibbsphenomenon_NN ）_PU 中_LC 也_AD 有_VE 类似_VA 的_DEC 状况_NN 。_PU
+
+
+

@@ -1,0 +1,11 @@
+﻿回声_NN
+
+回声_NN （_PU 或_CC 称_VV 回音_NN ）_PU 是_VC 指_VV 障碍物_NN 对_P 声音_NN 的_DEG 反射_NN 。_PU 借_VV 由_P 声波_NN 反射_NN 可以_VV 做出_VV 回_VV 声_NN 定位_NN 的_DEC 效果_NN 。_PU 声波_NN 在_P 遇到_VV 障碍物_NN 时_LC ，_PU 一_CD 部分声波_NN 会_VV 穿过_VV 障碍物_NN ，_PU 而_CC 另_DT 一部分_CD 声波_NN 会_VV 反射_VV 回来_VV 形成_VV 回声_NN 。_PU 若_CS 障碍物_NN 具有_VV 坚硬_JJ 光滑_NN 的_DEC 表面_NN 易_AD 产生_VV 回声_NN ；_PU 反之_VV ，_PU 具有_VV 柔软_VA 的_DEC 表面_NN 则_AD 易_AD 吸收_VV 声音_NN ；_PU 另外_AD ，_PU 粗糙_NN 的_DEC 表面_NN 易_AD 散射_VV 声音_NN 。_PU 回声_NN 相比_AD 那些_DT 直接_AD 传播_VV 的_DEC 声音_NN 所_MSP 经过_VV 的_DEC 路程_NN 更_AD 长_VA ，_PU 所以_AD 会_VV 比_P 直接_AD 传播_VV 的_DEC 声音_NN 晚_AD 被_SB 听到_VV 。_PU 如果_CS 两_CD 列_M 声波_NN 的_DEG 时间_NN 间隔_VV 小于_VV 0_CD ._PU 1_CD 秒_M ，_PU 人_NN 耳边_NN 无法_AD 分辨_VV ，_PU 只_AD 能_VV 听到_VV 被_SB 延长_VV 的_DEC 声音_NN 。_PU 因为_P 室温_NN （_PU 20_CD ℃_M ）_PU 时_LC 空气_NN 中_LC 的_DEG 声速_NN 是_VC 343_CD 米_M 每_DT 秒_M ，_PU 所以_AD 站_VV 在_P 声源_NN 处_NN 的_DEC 人_NN 要听_VV 到_VV 回声_NN 需要_VV 障碍物_NN 到_VV 声源_NN 的_DEG 距离_NN 至少_AD 17_CD 米_M 。_PU
+
+回声_NN 的_DEC 强弱_JJ 用赫_NN 兹_AD 计_VV 测量_VV 。_PU
+
+在_P 录音室_NN 或_CC 音乐厅_NN 中_LC ，_PU 为了_P 使_VV 声音_NN 更_AD 清晰_VA ，_PU 还有_VV 在_P 体育馆_NN 中_LC 为了_P 使_VV 声音_NN 不_AD 显得_VV 嘈杂_NN ，_PU 通常_AD 需要_VV 减弱_VV 回声_NN 。_PU
+让声波_NN 散出_VV 会_VV 是_VC 一_CD 个_M 办法_NN 。_PU
+
+
+

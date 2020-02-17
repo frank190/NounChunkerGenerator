@@ -1,0 +1,10 @@
+﻿烧蚀_NN
+
+烧蚀_NN （_PU 消融_NN ，_PU Ablation_NN ）_PU 是_VC 物体_NN 表面_NN 经由_P 汽化_NN 、_PU 切削_NN 、_PU 或_CC 其它_DT 侵蚀_NN 作用_NN ，_PU 去除_VV 表面_NN 材料_NN 或_CC 物质_NN 的_DEC 过程_NN 。_PU 烧蚀_NN 材料_NN 的_DEG 例子_NN 如下_VV ：_PU 包括_VV 太空船_NN 升空_NN 和_CC 返回_NN 时_LC 穿越_VV 大气层_NN 、_PU 在_P 冰川_NN 的_DEC 冰_NN 和_CC 雪_NN 、_PU 药物_NN 和_CC 被动_JJ 防火_NN 保护_NN 等_ETC 的_DEG 生物_NN 组织_NN 材料_NN 。_PU
+
+这_PN 在_P 太空物_NN 理学_NN 的_DEG 重返_JJ 大气层_NN 时_LC 尤其_AD 重要_VV 。_PU
+
+在_P 太空物_NN 理学_NN 中_LC ，_PU 研究_VV 防_VV 热盾_NN 是_VC 一_CD 个_M 重要_VA 的_DEC 课题_NN ，_PU 防热盾_NN 一_CD 种_M 让_VV 太空人_NN 与_CC 热隔绝_NN 的_DEC 屏障_NN 。_PU 当_P 太空_NT 船返_NN 回地_VV 球_NN 是_VC 会_VV 压缩_VV 前方_PN 大气而_AD 产生_VV 极_AD 高_VA 的_DEC 温度_NN ，_PU 没有_VE 防热盾_NN 的_DEG 太空船_NN 返回_VV 地球_NN 时_LC 会_VV 立刻_AD 烧毁_VV 。_PU 因此_AD 必须_VV 要_VV 研究_VV 遇热烧熔_NN 很_AD 慢_VA 的_DEC 物质_NN 。_PU 当_P 太空船_NN 进入_VV 大气层_NN 时_LC ，_PU 使_VV 表面_NN 会_VV 汽化_VV ，_PU 而且_CC 这_PN 汽化_VV 后_LC 的_DEG 气体_NN 会_VV 带走_VV 大量_CD 的_DEG 热_NN ，_PU 让_VV 防热盾_NN 本身_PN 保持_VV 低_JJ 温_NN ，_PU 而_CC 不_AD 至_VV 於_P 伤害_NN 里面_NN 的_DEC 太空人_NN 。_PU
+
+
+

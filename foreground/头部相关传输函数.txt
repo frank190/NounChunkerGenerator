@@ -1,0 +1,8 @@
+﻿头部_NN 相关_VV 传输_NN 函数_NN
+
+头部_NN 相关_VV 传输_NN 函数_NN （_PU HeadRelatedTransferFunctions_NN ，_PU 缩写_VV ：_PU HRTF_NN ）_PU 又_AD 称为_VV ATF_NN （_PU anatomicaltransferfunction_NN ）_PU ，_PU 是_VC 一_CD 种_M 音效_NN 定位演_NN 算法_NN 。_PU
+
+HRTF_NN 是_VC 一_CD 组_M 滤波器_NN ，_PU 即_AD 利用_VV HDITD_NN （_PU InterauralTimeDelay_NN ）_PU 、_PU IAD_NN （_PU InterauralAmplitudeDifference_NN ）_PU 和_CC 耳廓_NN 频率_NN 振动_NN 等_ETC 技术_NN 产生_VV 立体_NN 音效_NN ，_PU 使_VV 声音_NN 传递_VV 至_VV 人耳_NN 内_LC 的_DEG 耳廓_NN ，_PU 耳道_NN 和_CC 鼓膜_NN 时_LC ，_PU 聆听者_NN 会_VV 有_VE 环绕_JJ 音效_NN 之_DEC 感觉_NN 。_PU 透过_VV DSP_NN ，_PU HRTF_NN 可_VV 实时_AD 处理_VV 虚拟_JJ 世界_NN 的_DEC 音源_NN 。_PU
+
+
+

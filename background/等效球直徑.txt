@@ -1,0 +1,8 @@
+﻿等_JJ 效球_NN 直径_NN
+
+等_ETC 效球_NN 直径_NN （_PU ，_PU 简称_VV ESD_NN ）_PU 为_VC 一_CD 科学_JJ 名词_NN ，_PU 是_VC 指_VV 一_CD 不规_JJ 则外形_JJ 物体_NN ，_PU 其_PN 体积_NN 相同_JJ 球体_NN 的_DEG 直径_NN 。_PU
+
+根据_P IUPAC_NN 的_DEC 定义_NN ，_PU 非_AD 圆形_JJ 物体_NN 的_DEC 等效_JJ 直径_NN 等于_VV 非_VC 圆形_JJ 物体_NN 有_VE 相同_JJ 性质_NN （_PU 空气_NN 力学_NN 、_PU 水力学_NN 、_PU 光学_NN 、_PU 电学_NN ）_PU 球体_NN 的_DEG 直径_NN 。_PU 若_CS 考虑_VV 在_P 非_AD 紊流_JJ 运动_NN 下_LC 的_DEG 物体_NN ，_PU 等_ETC 效_NN 直径_NN 等于_VV 斯_DT 托克_NN 斯_DT 定律_NN 中_LC 的_DEG 直径_NN 。_PU
+
+
+

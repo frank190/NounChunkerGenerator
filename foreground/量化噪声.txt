@@ -1,0 +1,9 @@
+﻿量化_NN 噪声_NN
+
+量化_VV 前_LC 的_DEG 信号_NN 经_P 量化_VV 后_LC 被_SB 量化_VV 后_LC 的_DEG 信号_NN 所_MSP 代替_VV ，_PU 这_DT 个_M 过程_NN 必然_AD 要_VV 产生_VV 量化_NN 误差_NN ，_PU 因此_AD ，_PU 设_VV 输入_NN 信号_NN 与_P 输出_NN 信号_NN 之间_LC 的_DEG 差值_NN 为_VC formula_NN
+
+它_PN 的_DEG 作用_NN 如同_CS 噪声_VV 一样_VA ，_PU 将_BA 其_PN 定义_VV 为_VC 量化_JJ 噪声_NN ，_PU 因此_AD 模拟_NN 信号_NN 通过_P 量化器_NN 可以_VV 理解_VV 为_VC x_NN 通过_VV 了_AS 一_CD 个_M 加性_JJ 噪声_NN 信道_NN ，_PU 输出_VV 为_VC formula_NN __NN 2_CD 。_PU 对于_P 加性_JJ 噪声_NN 信道_NN ，_PU 我们_PN 习惯_VV 于_P 用_P 噪声_NN 功率_NN 及_CC 信噪_NN 比_P 来_MSP 进行_VV 描述_NN 。_PU 因此_AD ，_PU 我们_PN 引入_VV 量化_JJ 噪声_NN 功率_NN 的_DEG 概念_NN ，_PU 用_P formula_NN
+
+它_PN 实际上_AD 就_AD 是_VC 均_JJ 方差_NN 。_PU 而_CC formula_NN __NN 5_CD 为_VC formula_NN
+
+

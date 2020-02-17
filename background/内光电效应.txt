@@ -1,0 +1,6 @@
+﻿_NN 内_LC 光电_NN 效应_NN
+
+内_JJ 光电_NN 效应_NN 是_VC 光电_NN 效应_NN 的_DEC 一_CD 种_M ，_PU 主要_AD 由于_P 光量子_NN 作用_NN ，_PU 引发_VV 物质_NN 电化学_NN 性质_NN 变化_NN 。_PU 内_JJ 光电_NN 效应_NN 又_AD 可_VV 分为_VV 光电导_NN 效应_NN 和_CC 光生伏_NN 打_VV 效应_NN 。_PU
+
+
+

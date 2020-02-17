@@ -1,0 +1,7 @@
+﻿总能_NN
+
+在_P 古典_NN 力学_NN 中_LC ，_PU 一_CD 个_M 物理_NN 系统_NN 的_DEG 总_JJ 能量_NN 或_CC 简称_JJ 总能_NN ，_PU 是_VC 其_PN 势能_NN （_PU 位_NN 能_VV ）_PU 与_P 动能_NN 的_DEC 总和_NN 。_PU 所有_DT 的_DEG 能量_NN 形式_NN 都_AD 可_VV 分类_VV 成_VV 此_DT 二_CD 类_M 中_LC 的_DEG 其中_NN 之一_LC ，_PU 总_AD 能_VV 可以_VV 等_ETC 效地_NN 看作_VV 是_VC 从_P 系统_NN 取得_VV 的_DEC 理论性_NN 最_AD 大_JJ 能量_NN 值_NN 。_PU
+
+在_P 近代_NN 物理_NN 中_LC ，_PU 一_CD 个_M 物理_NN 系统_NN 的_DEG 总能_NN 是_VC 其_PN 静_AD 能量_JJ formula_NN __PU 1_CD 、_PU 总动能_JJ formula_NN
+
+

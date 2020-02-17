@@ -1,0 +1,7 @@
+﻿芯片_NN 实验室_NN
+
+实验室_NN 芯片_NN (_PU Lab_NN -_PU on_NN -_PU a_NN -_PU chip_NN )_PU 是_VC 泛_JJ 指能_NN 集成_VV 多_CD 种_M 化学_NN 、_PU 生物_NN 分析_NN 功能_NN 於_P 单一_JJ 小型_JJ 芯片_NN 上_LC ，_PU 处理_NN 非常_AD 微_VA 小_JJ 液量_NN （_PU 不_AD 到_VV 数皮升_NN ,_PU picoliter_NN ）_PU 的_DEC 技术_NN ，_PU 有时_AD 又_AD 称_VV 微型_JJ 全_NN 分析_NN 系统_NN （_PU MicroTotalAnalysisSystems_NR ,_PU µTAS_NR ）_PU 。_PU 典型_JJ 制造法_NN 是_VC 使用_VV 微机电_NN 系统_NN 技术_NN 制出_VV 微小_NN 尺度_NN 的_DEC 渠道_NN ，_PU 致动器_NN ，_PU 传感器_NN 等_ETC 。_PU
+
+
+
+

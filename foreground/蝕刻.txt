@@ -1,0 +1,12 @@
+﻿蚀刻_NN
+
+蚀刻_NN 是_VC 指以酸性_NN 、_PU 腐蚀性_NN 或_CC 有_VE 研磨效_NN 用_VV 的_DEC 物质_NN 在_P 玻璃_NN 表面_NN 上_LC 创作_VV 的_DEC 技术_NN 。_PU 传统_NN 上_LC ，_PU 这_DT 段_M 过程_NN 是_VC 在_P 玻璃_NN 吹制_VV 好_VA 或_CC 铸好_VV 之后_AD 进行_VV 的_SP 。_PU
+
+1920_CD 年代_NN ，_PU 人们_NN 发明_VV 一_CD 种_M 新_VA 的_DEC 模刻_NN 技术_NN ，_PU 即_AD 将_BA 图案_NN 直接_AD 刻_VV 在_P 铸模_NN 上_LC 。_PU 所以_AD 当铸_NN 模好_VV 了_AS 之后_LC ，_PU 图案_NN 就_AD 已经_AD 在_P 玻璃_NN 的_DEC 表面_NN 上_LC 了_SP 。_PU 这_DT 项_M 技术_NN 降低_VV 了_AS 制作_NN 成本_NN ，_PU 且_CC 结合_VV 彩色_NN 玻璃_NN 的_DEC 广泛_NN 运用_VV 导致_VV 了_AS 1930_CD 年_M 代便_VV 宜花瓶_NN 的_DEG 出现_NN ，_PU 这些_DT 花瓶_NN 后_LC 来_MSP 被_SB 称之_VV 为_VC 「_PU Depressionglass_NN 」_PU 。_PU 因为_P 用_P 在_P 此_DT 过程_NN 中_LC 的_DEG 酸_NN 剂很_NN 危险_NN ，_PU 现在_NT 大多_AD 是_VC 使用_VV 研磨_VV 的_DEC 方法_NN 。_PU
+
+到了_P 近代_VV ，_PU 现在_NT 的_DEG 蚀刻_NN 应用_VV 在_P 半导体_NN 的_DEG 制程_NN 上_LC ，_PU 透过_P 黄光_NN 制程_NN 来_MSP 定义_VV 出_VV 想要_VV 的_DEC 图形_NN ，_PU 利用_VV 蚀刻_NN 来_MSP 得到_VV 。_PU
+
+半导体_NN 的_DEG 蚀刻_NN 可_VV 分为_VV 干式_JJ 蚀刻_NN 与_CC 溼式蚀_NN 刻_NN ：_PU
+
+
+

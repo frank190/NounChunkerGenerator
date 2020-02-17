@@ -1,0 +1,32 @@
+﻿数码_NN 声音_NN 广播_VA
+
+数码_NN 声音_NN 广播_VA （_PU ，_PU 英文_NN 缩写_VV 为_VC 「_PU 」_PU ）_PU 亦_AD 称_VV 尤_AD 里_JJ 卡_NN 147_CD （_PU EUREKA_NN 147_CD ）_PU ，_PU 是_VC 有些_DT 国家_NN 使用_VV 于_P 电台_NN 广播_VA 的_DEC 一_CD 项_M 数码_NN 技术_NN 。_PU 自_P 2006_CD 年_M 以来_LC ，_PU 全世界_AD 约_AD 有_VE 1_CD ,_PU 000_CD 个_M 电台_NN 采用_VV DAB_NR 技术_NN 用于_VV 广播_VV 。_PU
+DAB_NR 技术_NN 设计_NN 形成_VV 于_P 1980_CD 年代_M ，_PU 几_CD 年_M 内_LC 就_AD 已经_AD 有_VE 许多_CD 国家_NN 开始_AD 贩卖_VV 接收器_NN 。_PU 支持者_NN 声称_NN ，_PU 与_P 传统_NN 类比_P F_CD M_M 广播_NN 相比_VV ，_PU 数位声_NN 音广_NN 播有_VV 较_AD 多_VA 优势_VA ，_PU 例如_AD 声音_NN 保真度_NN 高_VA ，_PU 同_DT 一_CD 频率_NN 可_VV 广播_VV 更多_JJ 电台_NN 频道_NN 等_ETC ，_PU 并_CC 一定_JJ 程度_NN 上_LC 解决_VV 有关_JJ 噪音_NN 、_PU 多径_NN 、_PU 广播_JJ 音量_NN 时_LC 强_VA 时_LC 弱_VA 和_CC 同频率_NN 干扰_NN 等_ETC 的_DEG 问题_NN ；_PU 针对_P 此_DT 项_M 技术_NN ，_PU 研究者_NN 在_P 英国_NR 、_PU 丹麦_NR 、_PU 挪威_NR 和_CC 瑞士_NR 开展_VV 了_AS 电台_NN 收听_VV 测试_VV 实验_NN ，_PU 实验_NN 有_VE 98%_CD 的_DEG 电台_NN 参与_VV ，_PU 结果_AD 证明_VV ，_PU DAB_M 的_DEG 声音_NN 品质_NN 比_P F_CD M_NN 广播_AD 差_VA ，_PU 原因_NN 是_VC 他们_PN 使用_VV 的_DEC 位元率_NN 较_AD 低_VA ，_PU 致使_AD 存在_VV 品质_NN 上_LC 的_DEG 差异_NN 。_PU
+
+DAB_CD 近年_NN 有_VE 升级版_NN ，_PU 名为_P DAB_NN +_NN ；_PU 详细_JJ 技术_NN 内容_NN 已_AD 在_P 2007年_NT 发佈_VV ，_PU 不_AD 能_VV 兼容_AD 旧有_VV 制式_NN 。_PU 现有_JJ 的_DEG 旧式_NN 和_CC 大多数_CD 销售_NN 中_LC 之_DEG 接收器_NN 都_AD 不_AD 能_VV 支援_VV DAB_NR +_ETC ，_PU 不过_P 商店_NN 里_LC 有_VE 售卖_NN 可_VV 升级_VV 的_DEC 旧式_JJ 接收器_NN 。_PU 英国_NR 、_PU 澳洲_NN 、_PU 义大利_NN 、_PU 德国_NN 、_PU 瑞士_NN 和_CC 马耳_NN 他_VV 在_P 2008_CD 年_M 采用_VV DAB_NN +_NN 制式_NN 提供_VV 播客_NN 服务_NN 。_PU 亚洲_NN 国家_NN 例如_AD 中国_NN 也_AD 对_P DAB_NR +_NN 技术_NN 非常_AD 感兴趣_VV 。_PU
+
+由于_P DAB_NN +_AD 采用_VV HE_NN -_PU AACv2_NN 编码_NN （_PU 即_AD 「_PU 高_JJ 效率_NN AACv2_NN 」_PU ，_PU 又称_JJ AAC_NN +_NN +_ETC ）_PU ，_PU 其_PN 效率_NN 比_P DAB_NN 高_AD 大约_AD 三_CD 倍_M 。_PU 这_DT 意味_NN 着_VV 它_PN 允许_VV 电台_NN 提供_VV 更_AD 高_JJ 声音_NN 品质_NN 或_CC /_PU 和_CC 结合_NN 采用_VV 旧_JJ DAB_NR 制式_NN 广播_AD 使得_VV 电台_NN 频道_NN 数量_NN 增加_VV 。_PU 接收_VV 品质_NN 也_AD 比_P 旧式_JJ 收得_VV 更_AD 好_VA ，_PU 因为_P DAB_NN +_AD 增加_VV 了_AS 错误_JJ 识別码_NN （_PU Reed_NN –_CC Solomonerrorcorrectioncode_NN ）_PU 用作_VV 除错_VV 之_DEC 用_VV 。_PU
+
+传统_NN 上_LC ，_PU 电台_NN 通过_P 不同_VA 的_DEC 频率_NN （_PU AM_NN 及_CC FM_NN ）_PU 广播_VV 节目_VV ，_PU 收音机_NN 也_AD 就要_AD 调校_VV 不同_JJ 频率_NN 。_PU 代价_NN 是_VC 会_VV 用上_VV 较_AD 多_VA FM_NN 及_CC AM_NN 频谱_NN 为_VC 少数_CD 电台_NN 作_VV 广播_VA ，_PU 限制节_NN 目选择_NN 。_PU DAB_CD 是_VC 通过_P 同时性_JJ 的_DEG 多路_NN 传输_NN （_PU multiplexing_NN ）_PU 、_PU 压缩_NN 及_CC 组合_VV 多_CD 条_M 声音_NN 串流_NN （_PU audiostreaming_NN ）_PU ，_PU 集_NN 中_LC 於_P 同_DT 一_CD 条_M 广播_VA 频率_NN （_PU 例如_AD OFDM_NN 220_CD ._PU 352_CD 兆赫_NN ）_PU ，_PU 作_VV 多_CD 个_M 频道_NN 广播_VA 之_DEC 用_VV 。_PU 各_DT 频道_NN 可_VV 选择_VV 用_P 不同_JJ 位元_NN 率_VV 广播_VA ，_PU 位元_NN 率_VV 越_AD 低_VA ，_PU 可_VV 在_P 单_AD 一_CD 频率_NN 中_LC 广播_VV 的_DEC 频道_NN 越_AD 多_VA ，_PU 但_AD 代价_NN 是_VC 将_BA 声音_NN 品质_NN 降低_VV 。_PU
+
+DAB_CD 可_VV 更_AD 效率_VA 地_DEV 使用_VV 频谱_VV ，_PU 因为_P 单发_JJ 射站_NN 和_CC 其_PN 单兆赫_NN 可_VV 广播_VV 更多_AD 节目_VV 。_PU 不过_VV ，_PU 目前_NT 各地并_AD 没有_VV 计画_NN 终止_AD FM_NN 模拟_NN 信号_NN 及_CC 大部_NN 份电台_NN 节目_NN 正_AD 在_P 使出_VV 数码_NN 及_CC 模拟_NN 同时_AD 广播_VV ，_PU 好处_AD 是_VC 各_DT 技术_NN 不_AD 会_VV 被_SB 高度_AD 使用_VV 或_CC 依赖_VV 。_PU
+
+FM_NN 要求_VV 每_DT 一_CD 条_M 节目_NN 频道_NN 0_CD ._PU 3_CD 兆赫_NN 。_PU 频率_NN 再_AD 用_P 因素_NN 大约_AD 是_VC 15_CD ，_PU 意思_NN 每_DT 15_CD 个_M 发射站_NN 中_LC 有_VE 其中_NN 一_CD 个_M 用_VV 同_DT 一_CD 频率_NN 广播_VA 而_CC 不_AD 会_VV 就_AD 同_DT 频道_NN 干扰_VV 问题_NN 上_LC 影响_VV ，_PU 例如_AD 串扰_NN 。_PU 结果_NN 导致_VV 1_CD /_PU 15_CD /_PU （_PU 0_CD ._PU 3_CD 兆赫_NN ）_PU =_PU 0_CD ._PU 22_CD 节目_NN /_PU 发射站_NN /_PU 兆赫_NN 。_PU
+
+DAB_CD 用_P 192_CD 个_M 位元率_NN 的_DEG 编码_NN 要求_NN 1_CD ._PU 536_CD 兆赫_NN *_PU 192_CD 位_M 元率_NN /_PU 1136_CD kbps_NN =_CC 每_DT 单一_JJ 节_NN 目用_NN 上_LC 0_CD ._PU 26_CD 兆赫_NN 。_PU 本_DT 他_PN 节目_NN 频率_NN 再_AD 用_P 因素_NN 及_CC 多频网_NN （_PU MFN_NN ）_PU 是_VC 4_CD ，_PU 结果_NN 是_VC 1_CD ÷_NN 4_CD ÷_NN （_PU 0_CD ._PU 26_CD 兆赫_NN ）_PU =_PU 0_CD ._PU 96_CD 节目_NN /_PU 发射站_NN /_PU 兆赫_NN ，_PU 效率_NN 增加_VV 4_CD ._PU 3_CD 倍_M 。_PU 单频网_NN （_PU SFN_NN ）_PU ，_PU 例如_AD 全国性_JJ 节目_NN ，_PU 频率_NN 再_AD 用_P 因素_NN 是_VC 1_CD ，_PU 结果_NN 是_VC 1_CD /_PU 1_CD /_PU 0_CD ._PU 25_CD MHz_NN =_PU 3_CD ._PU 85_CD 节目_NN /_PU 发射站_NN /_PU 兆赫_NN ，_PU 效率_NN 比_P FM_NN 增加_VV 17_CD ._PU 3_CD 倍_M 。_PU
+
+DAB_CD 增加_VV 的_DEC 频道_NN 可能_VV 不_AD 能_VV 达到_VV 以_P L_NN 波段_NN 传送_VV ，_PU 因_P DAB_NN 对_P 障碍_VV 较_AD F_CD M_NN 敏感_NN ，_PU 可能_VV 导致_VV 在_P 多_CD 山丘_NN 的_DEC 地区_NN 和_CC 室内_NN 收听_VV 时_LC 信号_NN 出现_VV 较_AD 差_VA 的_DEC 情况_NN 。_PU 在_P 这些_DT 频率_NN 中_LC 广播_VV ，_PU 国家_NN 必需_AD 增加_VV 其_PN 发射站_NN 的_DEG 数量_NN 或_CC 传输_NN 功率_NN ，_PU 避免_NN 系统_NN 成为_VV 噪声_NN 限制_VV 而_CC 不_AD 是_VC 由_P 同_DT 频率_NN 干扰_NN 限制_NN 。_PU
+
+在_P 欧洲_NN 国家_NN ，_PU 不少_AD 购买_VV DAB_NR 收音机_NN 的_DEG 消费者_NN 会_VV 抱怨_VV DAB_NR 收音机_NN 的_DEG 电池_NN 续航_NN 能力_NN ，_PU 特別_NN 是_VC 便携式_JJ 收音机_NN 的_DEG 电池_NN 续航_NN 能力_NN 。_PU
+
+这_PN 是_VC 由于_P 数码_NN 收音机_NN 需要_VV 有_VE DAB_NR 解码_NN 芯片_NN 作为_VV 音频_NN 解码_NN 用_VV ，_PU 故_AD 此_DT 数码_NN 收音机_NN 的_DEG 电能_NN 消耗_VV 往往_AD 是_VC FM_NN 收音机_NN 的_DEG 数倍_NN 甚至_AD 十_CD 倍_M 以上_LC （_PU 在_P 无_VE 线电_NN 技术_NN 上_LC ，_PU 矿石_NN 收音机_NN 更_AD 可以_VV 不_AD 靠_VV 电池_NN 或_CC 外部_NN 电源_NN 而_MSP 收听_VV 调_VV 幅_M 广播_VA ）_PU ，_PU 在_P 静音_NT 输出_VV 的_DEC 情况_NN 下_LC ，_PU 传统_JJ 收音机_NN 的_DEC 能耗_NN 大约_AD 是_VC 数毫瓦_NN 至_CC 数十_OD 毫_M 瓦_NN ，_PU 但_CC 数码_NN 收音机_NN 在_P 现时_NT 的_DEG 芯片_NN 技术_NN 上_LC ，_PU 待机_VV 时_LC 耗_VV 电往_NN 往_AD 需要_VV 数百_OD 毫_AD 瓦_M 甚至_AD 达_VV 1_CD 瓦_M ，_PU 跟_P MP3机_NN 相_AD 若_VA 。_PU
+
+在_P FM_NN /_PU DAB_NN 双制式_JJ 收音机_NN 上_LC ，_PU 选用_VV 不同_VA 的_DEC 模式_NN 可以_VV 明显_VV 比较_VV 出_VV 这_DT 种_M 能耗_NN 上_LC 的_DEG 差_NN 別_NN 。_PU
+
+经过_P 多方面_NN 的_DEG 测试_NN ，_PU 已经_AD 证实_VV 应用_NN Eureka_NN 147_OD 系统_NN 无论_AD 在_P 固定_VV 或者_CC 移动_VV 的_DEC 情况_NN 下_LC 接收_VV ，_PU 都_AD 可以_VV 确保_VV 音质_NN 达到_VV 接近_VV CD_NN 的_DEC 水平_NN 。_PU
+
+一般_JJ CD_NN 立体声_NN 的_DEC 数据率_NN 为_VC 1411_CD Kbps_NN ，_PU Eureka_NN 147_CD 应用_VV 了_AS 「_PU 掩蔽型_JJ 通用子_NN 频带_NN 集成_VV 编码_NN 和_CC 复用_NN 」_PU （_PU MUSICAM_NN ，_PU MaskingPatternUniversalSubbandIntegratedCodingAndMultiplexing_NN ）_PU 的_DEG 编码_NN 方法_NN ，_PU 除掉_VV 了_AS 语言_NN 和_CC 音乐_NN 讯号_NN 中_LC 的_DEG 多余_JJ 的_DEG 成份_NN ，_PU 使到_VV 立体声_NN 的_DEC 数据率_NN 可以_VV 降至_VV 192_CD Kbps_NN 。_PU 这_DT 种_M 编码_NN 方法_NN 已经_AD 通过_P 多重_JJ 验证_NN 。_PU 「_PU 金_CS 耳朵_NN 」_PU 也_AD 听_VV 不_AD 出_VV 编码_NN 与_P 未经_NT 编码_NN 压缩_VV 的_DEC 讯号_NN 的_DEG 区_NN 別_NN 。_PU
+
+
+
+

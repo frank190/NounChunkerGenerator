@@ -1,0 +1,14 @@
+﻿过载_VV 继电器_NN
+
+过_AD 载_VV 继电器_NN ，_PU 是_VC 做为_AD 过热_VV 过_AS 载_VV 电流_NN 保护_NN 的_DEC 电控_NN 元件_NN ，_PU 通常_AD 装设_VV 於_P 接触器_NN 后方_NN ，_PU 并_CC 做为_VV 防止_VV 高_JJ 功率_NN 马达_NN 电流_NN 过载_NN 之_DEC 用途_NN 。_PU
+
+过_AD 载_VV 继电器_NN 英文_NN 是_VC ThermalRelay_NN 又_AD 称为_VV Overloadrelay_NN 、_PU OverCurrentRelay_NN ，_PU 英文_NN 代号_NN 是_VC TH_NN -_PU RY_NN 或_CC O‧L_NN ，_PU 中文_NN 又常_AD 译作_VV 热动_JJ 继电器_NN 、_PU 过电流_NN 继电器_NN 、_PU 积热_NN 继电器_NN 。_PU 继电器_NN (_PU 英文_NN ：_PU Relay_NN )_PU 也_AD 称为_VV 电驿_NN ，_PU 因此_AD 工业_NN 用语_NN 也_AD 常_AD 称为_VV 过载_NN 电驿_NN 、_PU 积热_NN 电驿_NN 、_PU 热_AD 继电器_NN 。_PU
+
+过_AD 载_VV 继电器_NN 利用_VV 双_JJ 金属片_NN 作为_VV 电动机_NN 之_DEC 过负载_NN 保护用_NN ，_PU 当_P 电动机_NN 发生_VV 过_AS 载时_NN ，_PU 使_VV 串联_VV 於_P 主_JJ 电路_NN 的_DEG 发热_NN 元件_NN 发热_VV ，_PU 并_CC 使_VV 邻近_VV 的_DEC 双_NN 金属_NN 片_NN (_PU bimetal_NN )_PU 受热_VV 而_MSP 弯曲_VV ，_PU 致使_CS 接点_NN 被_SB 顶开_VV ，_PU 电动机_NN 控制_NN 回路_NN 因此_AD 被_SB 切断_VV ，_PU 而_CC 电动机_NN 也_AD 随之_AD 断电_NN ，_PU 以_MSP 达到_VV 保护_VV 之_DEC 目的_NN ，_PU 因此_AD 与_P 一般_JJ 继电器_NN 功能_NN 与_P 使用_NN 上_LC 有_VE 很_AD 大_VA 不同_VA 。_PU
+
+双_CD 金属片_NN 是_VC 指_VV 两_CD 种_M 不同_JJ 膨胀_NN 系数_NN 之_DEG 金属_NN 叠合_NN 而_MSP 成_VV ，_PU 当_P 电路_NN 负载_NN 电流_NN 超过_VV 设定_NN 标_VV 準_NN 时_LC ，_PU 串联_VV 在_P 主电路_NN 之_DEG 电阻_NN 产生_VV 热量_NN 使_VV 双_NN 金属_NN 片_NN 受热_VV ，_PU 膨胀_NN 系数_NN 较_AD 大_VA 的_DEC 金属片_NN 伸长_VV 较_AD 多_VA ，_PU 而_AD 较_AD 小_VA 的_DEC 金属_NN 片伸_NN 长_VA 较_AD 少_VA ，_PU 故_AD 双_CD 金属_NN 片_NN 即_AD 成_VV 弯曲状_NN 而_MSP 推动_VV 断_VV 回路_NN 用_VV 的_DEC 接点_NN ，_PU 并_CC 导通_VV 警报_JJ 用_VV 回路_NN 接点_NN 。_PU
+
+
+
+
+

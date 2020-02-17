@@ -1,0 +1,13 @@
+﻿O(N_VV )_PU 模型_NN
+
+在_P 统计_VV 力学_NN 中_LC ，_PU O("n_M "_PU )_PU 模型_NN 是_VC 易辛_JJ 模型_NN 的_DEG 推广_NN ，_PU 它_PN 描述_VV 了_AS 晶格_NN 的_DEC 自_NN 旋_NN 。_PU
+
+哈_AD 密_JJ 顿量_NN 是_VC
+
+formula_NN __NN 2_CD ，_PU formula_NN
+
+玻茨_NN 模型_NN 也_AD 描述_VV 其他_DT 易辛_NN 模型_NN 的_DEG 推广_NN 。_PU
+
+
+
+

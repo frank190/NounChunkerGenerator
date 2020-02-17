@@ -1,0 +1,11 @@
+﻿玻色_NN 气体_NN
+
+玻色_JJ 气体_NN （_PU ）_PU 是_VC 一_CD 个_M 经典_VA 的_DEC 理想_JJ 气体_NN 的_DEC 量子_NN 力学_NN 模型_NN 。_PU 其_PN 概念_NN 相似_VA 於_DEC 费_JJ 米气体_NN 。_PU
+
+结合_VV 萨_AS 特延_JJ 德拉_NN ·_PU 玻色_NN 和_CC 爱因_VV 斯坦共同_AD 提出_VV 的_DEC 理想_NN 的_DEC 玻色_NN 气体_NN ，_PU 指_VV 的_DEC 是_VC 在_P 足够_VV 低_VA 的_DEC 温度_NN 下_LC 〈_PU 接近_VV 0_CD K_M 〉_PU 一_CD 群_M 玻色子_NN 会_VV 形成_VV 所谓_JJ 的_DEG 固化物_NN 。_PU 但_CC 这样_PN 的_DEG 行为_JJ 和_CC 古典_JJ 的_DEG 理想_JJ 气体_NN 不同_VA 。_PU 而_CC 固化_VV 物_NN 的_DEG 形成_NN 即_AD 所_MSP 认知_VV 的_DEC 玻色_NN –爱_NN 因斯_AD 坦_DEV 凝聚_VV 。_PU
+
+玻色子_NN 具有_VV 整数_NN 自_AD 旋_VA ，_PU 并_CC 遵守_VV 玻色_NN -_PU 爱因_VV 斯_DT 坦统计_NN 。_PU 萨特_NR 延_VV 德拉_NR ·_PU 纳特_NR ·_PU 玻色_NR 阐明_VV 了_AS 光子_NN 的_DEC 表现_NN ，_PU 并_CC 为_VC 统计力_NN 学遵_VV 从_P 量子_NN 规则_VA 的_DEC 微_JJ 系统_NN 提供_VV 了_AS 机会_NN ，_PU 1924_CD 年写_VV 了_AS 一_CD 篇_M 推导_VV 普朗_JJ 克量子_NN 辐射_NN 定律_NN 的_DEG 论文_NN 寄给_VV 当时_NT 在_P 德国_NR 的_DEC 爱因_NR 斯坦_NR ，_PU 爱因_NR 斯坦意_NR 识到_VV 这_DT 篇_M 论文_NN 的_DEG 重要性_NN ，_PU 并_CC 将_BA 其_PN 扩展_VV 到_VV 不同_VA 的_DEC 经典理_NN 想气体_NN 的_DEG ，_PU 不但_CC 亲自_VV 把_BA 它_PN 翻译_VV 成_VV 德语_NN ，_PU 还_AD 以_P 玻色_NN 的_DEC 名义_NN 把_BA 论文_NN 递予_VV 名望_NN 颇_AD 高_VA 的_DEC 《_PU 德国_NN 物理_NN 学刊_NN 》_PU （_PU "_PU Zeitschriftf_NN ü_NN rPhysik_NN "_PU ）_PU 发表_VV 。_PU
+
+
+
+

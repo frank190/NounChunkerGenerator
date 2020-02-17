@@ -1,0 +1,5 @@
+﻿背散射_VV 分析_NN
+
+背散射_NN 分析_NN 是_VC 指_VV 通过_P 探测_VV 大_JJ 角度_NN 散射_VV 离子_NN 能谱_NN 来_MSP 确定_VV 靶_NN 物质_NN 特性_NN 的_DEC 分析_NN 方法_NN ，_PU 一般_JJ 角度_NN 介于_VV 165_CD °_M ～_PU 170_CD °_M 之间_LC ，_PU 主要_AD 应用于_VV 分析靶_NN 物质_NN 成分_NN 。_PU 背散_NN 射分_NN 析_VV 有_VE 许多_CD 的_DEG 优点_NN ，_PU 例如_AD 快速_VA 、_PU 定量_VV 、_PU 无损_AD 等等_VV ，_PU 另外_AD 它_PN 还_AD 可以_VV 元素_NN 同时_AD 分析_VV ，_PU 因此_AD 这_DT 个_M 方法_NN 可以_VV 作_VV 定量_JJ 分析_NN 而_CC 不_AD 需要_VV “_PU 标样_NN ”_PU 。_PU 一般_JJ 背散_NN 射分_NN 析_VV 都_AD 用_P 能量_NN 为_VC 1_CD ～_PU 2_CD ._PU 5MeV_NN 的_DEC α粒_NN 子束_NN 作_VV 入射束_NN ，_PU 因为_P α粒_NN 子束_NN 可以_VV 得到_VV 较_AD 好_VA 的_DEC 质量_NN 分辨率_NN 和_CC 深度_NN 分辨率_NN 。_PU 背散射_NN 分析_VV 已_AD 成为_VV 固体_NN 物理_NN 、_PU 半导体_NN 物理_NN 、_PU 材料_NN 科学_NN 研究_NN 等_ETC 领域_NN 中_LC 常_AD 采用_VV 的_DEC 较_AD 成熟_VA 的_DEC 分析_NN 手段_NN 。_PU
+
+

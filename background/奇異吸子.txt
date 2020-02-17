@@ -1,0 +1,14 @@
+﻿奇_NN 异吸子_NN
+
+奇异_JJ 吸子_NN （_PU ）_PU 是_VC 具有_VV 碎形_JJ 结构_NN 的_DEG 吸子_NN 。_PU 当_P 动态_NN 系统_NN 发生_VV 混沌_JJ 现象_NN 时_LC ，_PU 相_AD 空间_AD 分析_VV 常_AD 出现_VV 奇_NN 异吸子_NN ；_PU 然而_AD 奇异_VV 吸子_NN 也_AD 出现_VV 在_P 非_AD 混沌_VV 的_DEC 情形_NN 。_PU
+
+若_CS 一_CD 奇异_JJ 吸子_NN 是_VC 混沌_VV 的_DEC ，_PU 则_AD 其_PN 对_P 初始_JJ 条件_NN 敏感_NN 。_PU 也就是_AD 任意_AD 两_CD 个_M 极为_AD 接近_VV 的_DEC 初始点_NN ，_PU 在_P 一定_JJ 数量_NN 的_DEG 叠代_NN 运算_NN 后_LC ，_PU 两_CD 者_NN 可以_VV 相距_VV 甚_AD 远_VA ；_PU 也_AD 可以_VV 再_AD 经过_VV 一定_JJ 数量_NN 的_DEG 叠代_NN 运算_VV 后_LC 又_AD 变得_VV 极为_AD 靠近_VV 。_PU 也_AD 因此_AD ，_PU 一_CD 个_M 具有_VV 混沌_JJ 吸子_NN 的_DEC 动力_NN 系统_NN 在_P 局域_NN 是_VC 不_AD 稳定_VA ，_PU 然而_AD 广域_VA 来_MSP 看却_VV 可以_VV 是_VC 稳定_VA 的_DEC ，_PU 因为_P 这些_DT 动态点_NN 再_AD 怎么_AD 彼此_AD 分离_VV ，_PU 也_AD 都_AD 不_AD 会_VV 离开_VV 吸子_NN 。_PU
+
+奇异_JJ 吸子_NN 这_DT 个_M 词_NN 最早_AD 是_VC 由_P DavidRuelle_NN 与_CC FlorisTakens_NN 所_MSP 命名_VV ，_PU 用以_VV 描述_VV 流体_NN 系统_NN 经_P 一_CD 连串分_NN 岔_CD 所_MSP 产生_VV 的_DEC 吸子_NN 结果_NN 。_PU
+
+奇异_JJ 吸子_NN 在_P 一些_CD 方向_NN 上_LC 常_AD 是_VC 可_VV 微_VA 的_DEC ，_PU 但_CC 一些_CD 例子_NN 则如_AD 同康_AD 托尘_VV 而_CC 不_AD 可_VV 微_VA 。_PU 奇异_JJ 吸子_NN 亦_AD 可_VV 出现_VV 在_P 有_VE 噪声_NN 的_DEC 场合_NN 。_PU
+
+奇异_JJ 吸子_NN 的_DEG 例子_NN 包括_VV 多_CD 卷_M 波混_NN 沌吸_NN 引子_NN 、_PU 艾侬_NN 吸子_NN 、_PU 热斯勒_NN 吸子_NN ，_PU 以及_CC 劳仑次_NN 吸子_NN 。_PU
+
+
+

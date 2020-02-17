@@ -1,0 +1,10 @@
+﻿涡度_NN 拟能_NN
+
+涡度_NN 拟能_NN （_PU ）_PU 是_VC 流体_NN 力学_NN 中_LC 的_DEG 一_CD 个_M 物理量_NN ，_PU 定义_NN 为_VC
+即_AD 涡度_NN formula_NN __NN 2_CD 平方_NN 的_DEC 一半_NN （_PU 有时亦_AD 定义_VV 为_VC 涡度_NN 的_DEG 平方_NN ，_PU 即_AD formula_NN
+（_PU 其中_NN formula_NN __NN 5_CD 为_VC 物质_NN 导数_NN ，_PU formula_NN __NN 6_CD 为_VC 速度_NN ，_PU formula_NN
+
+点乘_JJ 涡度_NN formula_NN
+（_PU 其中_NN formula_NN
+
+

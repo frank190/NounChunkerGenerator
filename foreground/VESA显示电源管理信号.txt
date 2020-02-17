@@ -1,0 +1,12 @@
+﻿_CD VESA_NN 显示_VV 电源_NN 管理_NN 信号_NN
+
+VESADisplayPowerManagementSignaling_NR (_PU VESA_NR 显示_VV 电源_NN 管理_NN 信号_NN ，_PU 简称_VV DPMS)_NN 是_VC VESA_NN 制定_VV 的_DEC 通过_P 显示卡_NN 对_P 显示器_NN 电源_NN 管理_NN 的_DEG 标准_NN 。_PU
+
+DPMS_CD 规定_VV 如果_CS 一定_JJ 时间_NN 不_AD 对_VV 计算机_NN 进行_VV 操作_NN 时_LC 显示器_NN 自动_AD 进入_VV 节电_NN 模式_NN 。_PU 原本_AD 根据_P 美国_NR 的_DEG 标准_NN 制定_VV 。_PU
+
+原理_NN 是_VC 根据_P 垂直_AD 同_DT 步_M 信号_NN (_PU V_NN -_PU sync_NN )_PU 和_CC 水平_AD 同_DT 步_M 信号_NN (_PU H_CD -_PU sync_NN )_PU 的_DEC 有_VE 无_VE 来_MSP 判断_VV 。_PU
+
+以下_NN 为_VC 节电_NN 模式_NN 的_DEG 规定_NN 。_PU
+
+
+

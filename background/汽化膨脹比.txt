@@ -1,0 +1,11 @@
+﻿汽化_NN 膨胀_NN 比_NN
+
+液化_NN 或_CC 物质_NN 的_DEC 膨胀_NN 比_NN 是_VC 指_VV 在_P 一定_JJ 量_NN 物质_NN 在_P 其_PN 液体_NN 时_LC 体积_NN ，_PU 和_CC 其_PN 在_P 室温_NN 、_PU 一_CD 大气_NN 压力_NN 下_LC ，_PU 气体_NN 时_LC 体积_NN 的_DEC 比_NN 。_PU
+
+若_CS 封闭_VV 容器_NN 中_LC 装有_VV 液化_NN 物质_NN ，_PU 而_CC 有_VE 相_AD 当_P 多_VA 的_DEC 液体_NN 蒸发_VV ，_PU 所_MSP 产生_VV 的_DEC 压力_NN 可能_VV 会_VV 破坏_VV 压力_NN 容器_NN 。_PU 因此_AD 需_VV 使用_VV 及_CC 。_PU
+
+液化_NN 或_CC 低温_NN 物质_NN 从_P 其_PN 沸点_NN 到_VV 室温_NN 下_LC 的_DEG 膨胀比_NN 为_VC ：_PU
+
+
+
+

@@ -1,0 +1,9 @@
+﻿磁_NN 重力波_NN
+
+磁重力波_NN 是_VC 一_CD 种_M 类型_NN 的_DEG 电浆波_NN 。_PU 磁_NN 重力波_NN 是_VC 一_CD 种_M 与_P 背景_NN 磁场_NN 波动_NN 相_AD 结合_VV 的_DEC 声学_NN 重力波_NN 。_PU 在_P 这_DT 方面_NN ，_PU 重力_NN 波指_NN 的_DEG 是_VC 一_CD 种_M 传统_JJ 的_DEG 流体波_NN ，_PU 与_P 相_AD 对论_VV 的_DEC 引力波_NN 完全_AD 无关_VV 。_PU
+
+在_P 太阳_NT 的_DEG 日冕_NN 中_LC 已经_AD 发现_VV 了_AS 磁_JJ 重力波_NN 。_PU
+
+
+
+

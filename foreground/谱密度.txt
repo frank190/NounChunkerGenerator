@@ -1,0 +1,59 @@
+﻿谱_NN 密度_NN
+
+时间_NN 序列_NN formula_NN 的_DEG 功率_NN 谱_VV formula_NN 描述_VV 了_AS 信号_NN 功率_NN 在_P 频域_NN 的_DEC 分布_NN 状况_NN 。_PU 根据_P 傅里_NN 叶_LC 分析_VV ，_PU 任何_DT 物理_NN 信号_NN 都_AD 可以_VV 分解_VV 成_VV 一些_CD 离散_NN 频率_NN 或_CC 连续_JJ 范围_NN 的_DEC 频谱_NN 。_PU 对_P 特定_JJ 信号_NN 或_CC 特定_JJ 种类_NN 信号_NN （_PU 包括_VV 噪声_NN ）_PU 频率_NN 内容_NN 的_DEC 分析_NN 的_DEG 统计_NN 平均_VA ，_PU 称作_VV 其_PN 频谱_NN 。_PU
+
+当_P 信号_NN 的_DEC 能量集_NN 中_LC 在_P 一_CD 个_M 有限_VA 时间_NN 区间_NN 的_DEC 时候_NN ，_PU 尤其_AD 是_VC 总_JJ 能量_NN 是_VC 有限_VA 的_DEC ，_PU 就_AD 可以_VV 计算_VV 能量_NN 谱_VV 密度_NN 。_PU 更_AD 常用_VA 的_DEC 是_VC 应用于_VV 在_P 所有_DT 时间_NN 或_CC 很_AD 长_VA 一_CD 段_M 时间_NN 都_AD 存在_VV 的_DEC 信号_NN 的_DEC 功率_NN 谱_VV 密度_NN 。_PU 由于_P 此_DT 种_M 持续_VV 存在_VV 的_DEC 信号_NN 的_DEG 总_JJ 能量_NN 是_VC 无穷_AD 大_VA ，_PU 功率_NN 谱密度_NN （_PU PSD_NN ）_PU 则_AD 是_VC 指_VV 单位_JJ 时间_NN 的_DEC 频谱_NN 能_VV 量_NN 分布_VV 。_PU 频谱_VV 分量_VV 的_DEC 求_NN 和_CC 或_CC 积分_AD 会_VV 得到_VV （_PU 物理_NN 过程_NN 的_DEC ）_PU 总_JJ 功率_NN 或_CC （_PU 统计_NN 过程_NN 的_DEC ）_PU 方差_NN ，_PU 这_PN 与_P 帕塞瓦_NN 尔定_VV 理_NN 描述_VV 的_DEC 将_BA formula_NN 在_P 时间_NN 域积分_NN 所_MSP 得_VV 相同_VA 。_PU
+
+物理_NN 过程_NN formula_NN 的_DEG 频谱_NN 通常_AD 包含_VV 与_P formula_NN 的_DEG 性质_NN 相关_VA 的_DEC 必要_JJ 信息_NN 。_PU 比如_AD ，_PU 可以_VV 从_P 频_NN 谱_VV 分析_NN 直接_AD 确定_VV 乐器_NN 的_DEG 音高_NN 和_CC 音色_NN 。_PU 电磁波_NN 电场_NN formula_NN 的_DEG 频谱_NN 可以_VV 确定_VV 光源_NN 的_DEC 颜色_NN 。_PU 从_P 这些_DT 时间_NN 序列_NN 中_LC 得到_VV 频_VV 谱_PN 就_AD 涉及_VV 到_VV 傅里叶_NN 变换_NN 以及_CC 基于_P 傅里_NN 叶_LC 分析_VV 的_DEC 推广_NN 。_PU 许多_CD 情况_NN 下_LC 时间_NN 域_NN 不_AD 会_VV 具体_AD 用_VV 在_P 实践_NN 中_LC ，_PU 比如_AD 在_P 摄谱仪_NN 用_VV 散射_VV 棱镜_NN 来_MSP 得到_VV 光谱_NN ，_PU 或_CC 在_P 声音_NN 通过_P 内_JJ 耳_NOI 的_DEG 听觉_NN 感受器_NN 上_LC 的_DEG 效应_NN 来_MSP 感知_VV 的_DEC 过程_NN ，_PU 所有_DT 这些_DT 都_AD 是_VC 对_P 特定_JJ 频率_NN 敏感_VA 的_DEC 。_PU
+不过_P 本_DT 文_NN 关注_VV 的_DEC 是_VC 时间_NN 序列_NN （_PU 至少_AD 在_P 统计_VV 意义_VA 上_LC ）_PU 已_AD 知_VV ，_PU 或_CC 可以_VV 直接_AD 测量_VV （_PU 如_P 经_P 麦克_NN 风采_NN 集再_NN 由_P 电脑_NN 抽样_VA ）_PU 的_DEC 情形_NN 。_PU 功率_NN 谱_VV 在_P 与_P 随_P 机过_NR 程的_NR 统计_NN 研究_NN 以及_CC 物理_NN 和_CC 工程_NN 中_LC 的_DEG 许多_CD 其他_DT 领域_NN 中_LC 都_AD 很_AD 重要_VV 。_PU 通常_JJ 情况_NN 下_LC ，_PU 该_DT 过程_NN 是_VC 时间_NN 的_DEC 函数_NN ，_PU 但_AD 也_AD 同样_AD 可以_VV 讨论_VV 空_JJ 间域_NN 的_DEG 数据_NN 按_P 空间_NN 频率_NN 分解_VV 。_PU
+
+在_P 物理学_NN 中_LC ，_PU 信号_NN 通常_AD 是_VC 波_NN 的_DEG 形式_NN ，_PU 例如_AD 电磁波_NN 、_PU 随_P 机振动_NN 或者_CC 声波_NN 。_PU 当_P 波_PN 的_DEG 频谱_NN 密度_NN 乘以_VV 一_CD 个_M 适当_VA 的_DEC 系数_NN 后_LC 将_AD 得到_VV 每_DT 单位_NN 频率波_NN 携带_VV 的_DEC 功率_NN ，_PU 这_PN 被_SB 称为_VV 信号_NN 的_DEC 功率_NN 谱密度_NN （_PU powerspectraldensity_NN ,_PU PSD_NN ）_PU 或者_CC 谱_VV 功率_NN 分布_NN （_PU spectralpowerdistribution_NN ,_PU SPD_NN ）_PU 。_PU 功率_NN 谱_VV 密度_NN 的_DEC 单位_NN 通常_AD 用_P 每_DT 赫_CD 兹_VA 的_DEC 瓦特数_NN （_PU W_CD /_PU Hz_M ）_PU 表示_VV ，_PU 或者_CC 使用_VV 波长_NN 而_AD 不_AD 是_VC 频率_NN ，_PU 即_AD 每_DT 纳米_M 的_DEC 瓦特数_NN （_PU W_NN /_PU nm_NN ）_PU 来_MSP 表示_VV 。_PU
+
+尽管_CS 并非_VV 一定_JJ 要_VV 为_VC 信号_NN 或者_CC 它_PN 的_DEG 变量赋_NN 予_VV 一定_JJ 的_DEG 物理量_NN 纲_NN ，_PU 下面_NN 的_DEG 讨论_NN 中_LC 假设_VV 信号_NN 在_P 时域_NN 内_LC 变化_NN 。_PU
+
+能量_NN 谱_VV 密度_NN 描述_VV 的_DEC 是_VC 信号_NN 或者_CC 时间_NN 序列_NN 的_DEG 能量_NN 如何_AD 随_P 频率_NN 分布_VV 。_PU 这里_PN ，_PU 能量_VV 这_DT 个_M 术语_NN 是_VC 用作_NN 信号_NN 处理_NN 中_LC 的_DEG 推广_NN 含义_NN ；_PU 也就是说_AD ，_PU 信号_NN formula_NN 的_DEC 能量_NN formula_NN 为_VC
+能量_NN 谱_VV 密度_NN 对_P 总_JJ 能量_NN 有限_VA 的_DEC 瞬变_NN 信号_NN （_PU 也就是类_AD 似于_VV 脉冲_NN 信号_NN 的_DEC ）_PU 最为_AD 适用_VV 。_PU 在_P 这_DT 种_M 情况_NN 下_LC ，_PU 帕塞瓦_NN 尔定_VV 理_JJ 给出_VV 了_AS 用傅_NN 里_LC 叶_AD 变换_VV formula_NN 表示_VV 信号_NN 能量_VV 的_DEC 形式_NN 。_PU
+
+这里_PN 频率_NN formula_NN 单位_NN 为_VC Hz_NN ，_PU 即_AD 每_DT 秒周_NN 期数_NN 。_PU 经常_AD 使用_VV 角频率_NN formulaformula_NN 可以_VV 理解_VV 为_VC 频率_NN 为_VC formula_NN 的_DEC 信号_NN 中_LC 单位_JJ 频率_NN 包含_VV 的_DEC 能量_NN 的_DEG 密度_NN 函数_NN 。_PU 鉴于_VV 此_DT ，_PU 信号_NN formula_NN 的_DEC 能量_NN 谱_VV 密度_NN 定义_VV 为_VC
+
+举_DT 一_CD 个_M 物理_NN 上_LC 的_DEG 例子_NN 来_MSP 说明_VV 如何_DT 测量_NN 信号_NN 的_DEC 能量_NN 谱_VV 密度_NN ，_PU 假设_VV formula_NN 表示_VV 阻抗_NN 为_VC formula_NN 的_DEC 传输线_NN 上_LC 传播_VV 的_DEC 电脉冲_NN 的_DEG 电势_NN （_PU 单位_NN 伏特_NN ）_PU ，_PU 并_CC 假设_VV 传输线_NN 末端_NN 是_VC 一_CD 个_M 匹配_NN 电阻器_NN （_PU 因而_AD 所有_DT 脉冲_NN 能量_NN 都_AD 传到_VV 电阻器_NN 上_LC 并且_CC 不_AD 会_VV 反射_VV 回来_VV ）_PU 。_PU 由_P 欧姆_NN 定律_VV ，_PU formula_NN 时刻_NN 传递_VV 到_VV 电阻器_NN 的_DEG 功率_NN 等于_P formulaformula_NN 积分_VV 。_PU 要_VV 求得_VV 频率_NN formula_NN 时_LC 的_DEG 能量_NN 谱_VV 密度_NN formula_NN __NN 2_CD ，_PU 可以_VV 在_P 传输线_NN 和_CC 电阻器_NN 之间_LC 加入_VV 一_CD 个_M 只_AD 允许_VV 感_VV 兴趣_NN 的_DEC 频率_NN 附近_VA 的_DEC 很_AD 窄_JJ 频率_NN 范围_NN （_PU formulaformula_NN __NN 26_CD 。_PU formula_NN 处_NN 的_DEC 能量_NN 谱_VV 密度_NN 的_DEC 值_NN 为_VC formulaformula_NN 的_DEC 单位_NN 为_VC V_NN Ω_NN ，_PU 能_VV 量_NN formula_NN 的_DEC 单位_NN 是_VC V s_NR  Ω _NN =_VV J_NN ，_PU 因此_AD 能量_AD 谱_VV 密度_NN formula_NN 的_DEC 单位_NN 为_VC J_NN  _NN Hz_NN 。_PU 在_P 许多_CD 情况_NN 下_LC ，_PU 常常_AD 不_AD 去除_VV 以_P formulaV_NN  _NN s_NN  _CD Hz_NN 。_PU
+
+这_DT 个_M 定义_NN 直接_AD 地_DEV 推广_VV 到_VV 了_AS 有_VE 无_VE 穷个_NN 值_NN 的_DEG 离散_NN 信号_NN formulaformula_NN
+
+其中_NN formula_NN 是_VC formula_NN 的_DEG 离散傅_NN 里_LC 叶_AD 变换_VV ，_PU 而_CC formula_NN 是_VC formula_NN 的_DEC 复共_JJ 轭_NN 。_PU 采样_NN 区间_NN formula_NN 需要_VV 保持_VV 正确_VA 的_DEC 物理_NN 单位_NN 并_CC 确保_VV 我们_PN 能_VV 恢复_VV 极限_JJ 情况_NN 下_LC formula_NN 连续_VV 的_DEC 情况_NN ；_PU 不_AD 过_VV 在_P 数学_NN 中_LC 往往_AD 将_BA 此_DT 区间_NN 设为_VV 1_CD 。_PU
+
+上面_NN 能量_NN 谱_VV 密度_NN 的_DEC 定义_NN 适用于_VV 能量集_NN 中_LC 在_P 一_CD 个_M 时间_NN 窗口_NN 附近_VV 的_DEC 瞬变_NN （_PU 脉冲状_NN 信号_NN ）_PU ；_PU 因_P 此_DT 信号_NN 的_DEC 傅里叶_NN 变换_NN 一般_AD 存在_VV 。_PU 对于_P 持续_AD 存在_VV 的_DEC 连续_JJ 信号_NN ，_PU 如_P 平稳_NN 过程_NN ，_PU 就_AD 必须_VV 定义_VV "_PU 功率_NN 谱_VV 密度_NN "_PU （_PU PSD_NN ）_PU ；_PU 这_PN 描述_VV 了_AS 一_CD 个_M 信号_NN 或_CC 时间_NN 序列_NN 的_DEG 功率_NN 随_P 频率_NN 的_DEG 分布_NN ，_PU 正_AD 如_P 前面_NN 给出_VV 的_DEC 简单_JJ 例子_NN 一样_VA 。_PU 在_P 这里_PN ，_PU 功率_NN 可以_VV 是_VC 实际_JJ 的_DEG 物理_NN 功率_NN ，_PU 不过更多_AD 时候_NT ，_PU 为了_P 更_AD 方便_VA 用于_VV 抽象_NN 信号_NN ，_PU 简单_VA 地_DEV 确定_VV 为_VC 信号_NN 的_DEG 平方值_NN 。_PU 例如_AD ，_PU 统_NN 计学_NN 系_NN 研究_NN 时间_NN （_PU 或_CC 其他_DT 独立_JJ 变量_NN ）_PU 的_DEC 函数_NN "_PU x_CD (_PU t)_CD "_PU 的_DEG 方差_NN ，_PU 并_CC 类_M 比电_NN 信号_NN ，_PU 习惯称_NN 之为_LC "_PU 功率谱_NN "_PU ，_PU 即使_CS 没有_VV 涉及_VV 到_VV 物理_NN 上_LC 的_DEG 功率_NN 。_PU 若_CS 要_VV 创建_VV 一_CD 个_M "_PU x(t_M )_PU "_PU 的_DEG 物理_NN 电压源_NN 并_CC 加在_VV 1_CD 欧姆_NN 的_DEC 电阻器_NN 两_CD 端_NN ，_PU 于_P 是_VC 在_P 电阻器_NN 上_LC 消耗_VV 的_DEC 瞬时_NN 功率_NN 就_AD 会_VV 是_VC "_PU x_NN "_PU 瓦特_NN 。_PU
+
+下面_NN 的_DEG 时间_NN 平均_AD 给出_VV 了_AS 信号_NN formula_NN 的_DEG 平均_JJ 功率_NN "_PU P_NN "_PU ：_PU
+
+注意_NN 平稳_NN 过程_NN 有_VE 可能_JJ 功率_NN 有限_VA 但_CC 能量_AD 无限_VV 。_PU 毕竟_NN ，_PU 能量_NN 是_VC 功率_NN 的_DEG 积分_NN ，_PU 而_CC 平稳_JJ 信号_NN 持续_VV 无_VE 限长_NN 时间_NN 。_PU 这_PN 就_AD 是_VC 在_P 这些_DT 情况_NN 下_LC 不_AD 能_VV 使用_VV 上_JJ 面_NN 定义_VV 的_DEC 能量_NN 谱_VV 密度_NN 的_DEC 原因_NN 。_PU
+
+在_P 分析_NN 信号_NN formula_NN 的_DEG 频率_NN 内容_NN 时_LC ，_PU 可能_VV 会_VV 计算_VV 傅_CD 里叶_NN 变换_VV formula_NN \_PU intx_NN (_PU t_NN )_PU e_NN ^_NN {_PU -_PU i_NN \_PU omegat_NN }_PU \_PU ,_PU dt_NN ._PU <_PU /_PU math_NN >_PU
+
+因_P 此_DT 功率_NN 谱_VV 密度_NN 可以_VV 被_SB 定义_VV 为_VC
+
+这里_PN E_NN 表示_VV 期望值_NN ；_PU 明确_VA 地_DEV ，_PU 我们_PN 有_VE
+
+在_P 后面_NN 形式_NN 中_LC （_PU 对_P 一_CD 个_M 平稳_JJ 随机_NN 过程_NN 来说_LC ）_PU ，_PU 可以_VV 改换_VV 变量_NN formula_NN [_PU 0_CD ,_PU T_NN ]_PU ）_PU 趋近_VV 于_P 无穷_VV ，_PU 所_MSP 得_VV 信号_NN 的_DEC 功率_NN 谱_VV 密度_NN formula_NN 与_CC 自_P 相关_JJ 函数_NN 可视_VV 为_VC 傅里叶_JJ 变换对_NN （_PU 维纳_VV －_PU 辛钦_NN 定理_VV ）_PU 。_PU 自_P 相关_JJ 函数_NN 是_VC 一_CD 个_M 定义_NN 为_VC formula_NN 的_DEG 统计量_NN （_PU 或_CC 更_AD 一般_VA 地_DEV ，_PU 在_P "_PU X_NN (_PU t_NN )_PU "_PU 是_VC 复_AD 值_VV 函数_NN 时_LC 为_VC formulaformula_NN 是_VC 绝对_P 可_VV 积_VV 的_DEC （_PU 并_CC 不_AD 总_JJ 是_VC 如_P 此_PN ）_PU ，_PU
+
+许多_CD 作者_NN 实际上_AD 用_P 这_DT 个_M 等式_NN 来_NN "_PU 定义_NN "_PU 功率_NN 谱_VV 密度_NN 。_PU
+
+给定_VV 频_VV 带_VV formula_NN __NN 54_CD （_PU 或_CC formulaformula_NN
+
+更_AD 一般_VA 地_DEV ，_PU 类似_VA 的_DEC 技术_NN 可以_VV 被_SB 用来_VV 估计_VV 一_CD 个_M 随_P 时间_NN 变化_VV 的_DEC 光谱_NN 密度_NN 。_PU 更_AD 一般_VA 地_DEV ，_PU 可以_VV 使用_VV 类似_VA 的_DEC 方法_NN 来_MSP 估计_VV 时_LC 变谱_VV 密度_NN 。_PU 在_P 这_DT 种_M 情况_NN 下_LC 上面_NN 定义_VV 的_DEC "_PU (0_CD ,_PU T)_CD "_PU 上_LC 的_DEC 截短傅_NN 里_LC 叶_AD 变换_VV 不_AD 是_VC 通过_P "_PU T_OD "_PU 趋近于_VV 无穷_VA 的_DEC 极限_NN 计算_VV 的_DEC 。_PU 这_PN 导致_VV 光谱_NN 覆盖率_NN 和_CC 分辨率_NN 降低_VV ，_PU 因为_P 不_AD 会_VV 采样_VV 小于_VV "_PU 1_CD /_PU T_CD "_PU 的_DEG 频率_NN ，_PU 而_CC "_PU 1_CD /_PU T_CD "_PU 的_DEG 整数_NN 倍频率_NN 的_DEG 结果_NN 不_AD 是_VC 独立_VA 的_DEC 。_PU
+
+
+
+
+：_PU 上面_NN 的_DEC 定理_NN 在_P 离散_NN 情况_NN 下_LC 也_AD 是_VC 成立_VV 的_DEC 。_PU 另外_DT 的_DEG 一_CD 个_M 结论_NN 是_VC 功率_NN 谱_VV 密度_NN 下_LC 总_VA 的_DEC 功率_NN 与_P 对应_JJ 的_DEG 总_JJ 的_DEG 平均_JJ 信号_NN 功率_NN 相等_VA ，_PU 它_PN 是_VC 逐渐_AD 趋近于_VV 零_CD 的_DEG 自_P 相关_JJ 函数_NN 。_PU
+
+
+
+
+信号_NN 功率_NN 谱_VV 的_DEC 概念_NN 和_CC 应用_NN 是_VC 电子_NN 工程_NN 的_DEC 基础_NN ，_PU 尤其_AD 是_VC 在_P 电子_NN 通信_NN 系统_NN 中_LC ，_PU 例如_AD 无_VE 线电_NN 和_CC 微波_NN 通信_NN 、_PU 雷达_NN 以及_CC 相关_JJ 系统_NN 。_PU 人们_NN 已经_AD 花费_VV 了_AS 很_AD 大_VA 的_DEC 精力_NN 和_CC 大量_CD 的_DEG 金钱_NN 投入_VV 到_VV 开发_NN 、_PU 生产_NN “_PU 频谱_NN 分析仪_NN ”_PU 这_DT 种_M 电子_NN 设备_NN ，_PU 用来_VV 帮助_VV 电子_NN 工程师_NN 、_PU 技术_NN 人员_NN 、_PU 技工_NN 观察_NN 、_PU 测量_NN 电子_NN 信号_NN 的_DEC 功率谱_NN 。_PU 频_VV 谱_P 分析仪_NN 的_DEG 价格_NN 根据_P 带宽_VV 和_CC 精度_NN 的_DEG 不同_JJ 而_CC 不同_AD ，_PU 质量_NN 最_AD 好_VA 的_DEC 仪器_NN 的_DEG 价格_NN 超过_VV 100_CD ,_PU 000_CD 美元_NN 。_PU
+
+光源_NN 的_DEC 频谱_NN 是_VC 每_DT 个_M 频率_NN 携带_VV 的_DEC 功率_NN 或者_CC 光源_NN 中_LC “_PU 颜色_NN ”_PU 的_DEG 度量_NN 。_PU 光谱_NN 通常_AD 是_VC 沿着_P 可_VV 见光_VV 在_P 波长_NN 空间_NN 而_AD 不_AD 是_VC 频率_NN 空间_NN 测量_VV 的_DEC 不同_JJ 点_NN （_PU 通常_AD 是_VC 31_CD 个_M 点_NN ）_PU 进行_VV 测量_NN ，_PU 它_PN 不_AD 是_VC 严格_AD 意义_VV 上_LC 的_DEG 谱_VV 密度_NN 。_PU 一些_CD 分光_NN 光度_NN 计_AD 能够_VV 分辨_VV 高_JJ 达_VV 1_CD 到_CC 2_CD 纳米_M 的_DEG 增量_NN 精度_NN ，_PU 测量_NN 值_VV 用_P 来计_JJ 算_VV 其它_DT 的_DEG 规格_NN 然后_AD 绘制_VV 出来_VV 显示_VV 光源_NN 的_DEC 频谱_NN 属性_VV 。_PU 这_PN 对于_P 分析_VV 特定_JJ 光源_NN 的_DEC 颜色_NN 特性_NN 来说_AD 是_VC 一_CD 个_M 非常_AD 有用_VA 的_DEC 工具_NN 。_PU
+
+
+
+

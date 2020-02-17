@@ -1,0 +1,7 @@
+﻿过_P 零_CD 率_NN
+
+过零_OD 率_M （_PU zero_NN -_PU crossingrate_NN ，_PU ZCR_NN ）_PU 是_VC 指_VV 一_CD 个_M 信号_NN 的_DEC 符号_NN 变化_VV 的_DEC 比率_NN ，_PU 例如_AD 信号_NN 从_P 正数_NN 变成_VV 负数_NN ，_PU 或_CC 反过来_VV 。_PU 这_DT 个_M 特征_NN 已_AD 在_P 语音_NN 识别_NN 和_CC 音乐_NN 信息_NN 检索_NN 领域_NN 得到_VV 广泛_AD 使用_VV ，_PU 是_VC 分类_AD 敲击_VV 声_NN 的_DEC 关键_JJ 特征_NN 。_PU
+
+ZCR_NN 形式_NN 上_LC 定义_VV 为_VC
+
+

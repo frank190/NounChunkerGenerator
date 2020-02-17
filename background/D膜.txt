@@ -1,0 +1,18 @@
+﻿D膜_NN
+
+在_P 弦论_NN 中_LC ，_PU D_NN -_PU 膜_NN 是_VC 一_CD 种_M 物体_NN 可以_VV 让_VV 开弦_VV 的_DEC 端点_NN 以_P 狄利_NN 克雷_NN 边界_NN 条件_NN 固定_VV 的_DEC 地方_NN 。_PU
+
+D_OD -_PU 模_OD 是_VC 1989_CD 年_M 由_P Dai_NN ,_PU Leigh_NN 和_CC 约瑟夫_NN ·_PU 波尔_NN 钦斯基_NN 发现_VV ，_PU 另外_AD 较_AD 罕为_VA 人知_VA 的_DEC 是_VC ，_PU 切赫_NN ·_PU 荷拉_NN 伐_VV 在_P 1989_CD 年_M 也_AD 曾_AD 独立_AD 发现_VV D_NN -_PU 膜_NN 。_PU 约_AD 瑟夫_NN ·_PU 波_NN 耳钦_NN 斯_DT 基_NN 在_P 1995_CD 年_M 发现_VV 了_AS D_NN -_PU 膜_VV 其_PN 实_AD 和_P 超重力_NN 的_DEC 解－黑_JJ p-_NN 膜_NN 是_VC 一样_VA 的_DEC 东西_NN 。_PU 这_DT 个_M 发现_VV 促使_VV 了_AS 第二_OD 次_M 弦论_NN 革命_VV ，_PU 还_AD 有_VE 全_PN 像_P 对_P 偶_PN 和_CC M_NN 理论_NN 对_P 偶_PN 的_DEG 发现_NN 。_PU
+
+D_OD -_PU 膜_VV 通常_AD 以_P 它_PN 的_DEG 维度_NN 作_VV 分类_AD ，_PU 可以_VV 在_P D_NN 后面_LC 加入_VV 维度_NN 数做_NN 表示_VV ，_PU 如_P D0_NN -_PU 膜_NN 是_VC 一_CD 个_M 点_NN ，_PU D1_NN -_PU 膜_NN 是_VC 一_CD 条_M 线_NN (_PU 有时又_AD 称作_VV D_NN -_PU 线_NN )_PU ，_PU D2_CD -_PU 是_VC 平面_NN 等_ETC ，_PU 其中_NN D_NN 2_CD 5_CD -_PU 膜_NN 是_VC 在_P 玻色_NN 弦理论_NN (_PU bosonicstringtheory_NN )_PU 所_MSP 考虑_VV 到_VV 维度_NN 最_AD 高_VA 的_DEC 空间_NN 。_PU 除_P 此_PN 之外_LC ，_PU 还_AD 有_VE 跟_P 即_AD 时子_NN 同性_AD 质_NN 固定_VV 在_P 时间_NN 和_CC 空间_NN 中_LC 的_DEG D_NN (_CD -_PU 1)_CD -_PU 膜_NN 。_PU
+
+开弦_NN （_PU 一_CD 种_M 有_VE 端点_NN 的_DEC 弦_NN ）_PU 的_DEG 端点_NN 依照_P 弦论_NN 的_DEG 运动_NN 方程_NN 必须_VV 满足_VV 两_CD 种_M 边界_NN 条件_NN 的_DEG 其中_NN 一_CD 种_M ：_PU
+
+
+弦_NN 的_DEG 端点_NN 的_DEG 每_DT 一_CD 个_M 座标_NN 都_AD 需要_VV 满足_VV 其中_NN 一_CD 种_M 的_DEG 边界_NN 条件_NN 。_PU 而_CC 弦_NN 的_DEG 两_CD 个_M 端点_NN 也_AD 可以_VV 满足_VV 不同_VA 的_DEC 边界_NN 条件_NN 。_PU
+
+陈–_NN 怕吞_VV 因素_P
+
+
+
+

@@ -1,0 +1,27 @@
+﻿_CD ARMA_NN 模型_NN
+
+ARMA_NN 模型_NN （_PU Autoregressivemovi_JJ ngaveragemodel_NN ，_PU 全称_AD ：_PU 自_P 回归_NN 滑动_VV 平均_JJ 模型_NN ）_PU 。_PU 是_VC 研究_NN 时间_NN 序列_NN 的_DEG 重要_JJ 方法_NN ，_PU 由_P 自_P 回归_NN 模型_NN （_PU 简称_JJ AR_NN 模型_NN ）_PU 与_P 移动_JJ 平均_JJ 模型_NN （_PU 简称_JJ MA_NN 模型_NN ）_PU 为_VC 基础_NN “_PU 混合_NN ”_PU 构成_VV 。_PU 在_P 市场_NN 研究_NN 中_LC 常_AD 用于_VV 长期_JJ 追踪_NN 资料_NN 的_DEC 研究_NN ，_PU 如_P ：_PU Panel_NN 研究_NN 中_LC ，_PU 用于_VV 消费_NN 行为_VV 模式_NN 变迁_VV 研究_NN ；_PU 在_P 零_CD 售_M 研究_NN 中_LC ，_PU 用于_VV 具有_VV 季节_NN 变动_VV 特征_NN 的_DEC 销售量_NN 、_PU 市场_NN 规模_VV 的_DEC 预测_NN 等_ETC 。_PU
+
+自_P 回归_NN 模型_NN 描述_VV 的_DEC 是_VC 当_P 前值_NN 与_CC 历史值_NN 之间_LC 的_DEG 关系_NN 。_PU
+
+移动_VV 平均_JJ 模型_NN 描述_VV 的_DEC 是_VC 自_P 回归_NN 部分_NN 的_DEG 误差_NN 累计_VV 。_PU
+
+ARMA_NN (_NN "_PU p_NN "_PU ,"q")_PU 模型_NN 中_LC 包含_VV 了_AS "_PU p_NN "_PU 个_M 自回_JJ 归项_NN 和_CC "_PU q"_CD 个_M 移动_JJ 平均项_NN ，_PU ARMA_NN (_NN "_PU p_NN "_PU ,"q")_PU 模型_NN 可以_VV 表示_VV 为_VC ：_PU
+
+有时_NT ARMA_NN 模型_NN 可以_VV 用滞_VV 后算子_NN （_PU Lagoperator_NN ）_PU formula_NN 来_MSP 表示_VV ，_PU formula_NN
+
+其中_NN formula_NN
+
+MA_NN (_NN "_PU q_NN "_PU )_NN 模型_NN 可以_VV 写成_VV 为_VC ：_PU
+
+其_PN 中θ_NN 表示_VV 多_CD 项_M 式_NN
+
+最后_AD ，_PU ARMA_NN (_NN "_PU p_NN "_PU ,"q")_PU 模型_NN 可以_VV 表示_VV 为_VC ：_PU
+
+或者_CC
+
+若_CS formula_NN
+若_CS formula_NN
+
+
+

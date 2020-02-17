@@ -1,0 +1,7 @@
+﻿时_NT 效性_NN 网路_NN
+
+时效性_JJ 网路_NN （_PU Time_NN -_PU SensitiveNetworking_NN ）_PU 也_AD 称为_VV 时间_NN 敏感_NN 网路_NN ，_PU 简称_VV TSN_NN ，_PU 是_VC IEEE802_NN ._PU 1_CD 工作_VV 小组_NN 中_LC 的_DEG Time_NN -_PU SensitiveNetworking_NN （_PU TSN_NN ）_PU 工作_VV 小组_NN 发展_NN 的_DEG 系列_NN 标準_NN 。_PU TSN_NN 工作_VV 小组_NN 是_VC 在_P 2012年_NT 11月_NT 由_P 已_AD 有_VE 的_DEG 工作_NN 小组_NN 更名_VV ，_PU 继续_VV 其_PN 工作_NN 。_PU 工作_VV 小组_NN 的_DEC 更名_NN 是_VC 反映_VV 其_PN 工作_NN 领域_NN 的_DEG 扩展_NN 。_PU 此_DT 标準_NN 会_VV 定义_VV 以_MSP 太_VV 网_NN 上_LC 时间_NN 敏感_NN 传输_VV 的_DEC 机制_NN 。_PU
+
+此_PN 计划_VV 主要_AD 是_VC 定义_VV IEEE802.1Q_NN 虚拟_JJ 局域网_NN 的_DEG 衍生_NN 内容_NN 。_PU 这些_DT 衍生_NN 内容_NN 特_AD 別_AD 强调_VA 传输_VA 的_DEC 超低_JJ 延迟_NN 以及_CC 高_JJ 可用性_NN 。_PU 可能_VV 的_DEC 应用_NN 包括_VV 使用_VV 在_P 车用_NN 网路_NN 或_CC 工业_NN 控制_NN 上_LC ，_PU 结合_VV 实时_JJ 影音_NN 串流_NN 以及_CC 实时_AD 控制_VV 串流_NN 的_DEC 集成性_NN 网路_NN 。_PU 特_AD 別_VV 成立_VV 的_DEC 工业_NN 小组_AD 也_AD 在_VV 正_AD 在_P 定义_VV TSN_NN 网路_NN 元件_NN 的_DEG 相容性_NN 以及_CC 互_JJ 操作性_NN 要求_NN 。_PU
+
+

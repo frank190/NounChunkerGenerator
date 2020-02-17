@@ -1,0 +1,22 @@
+﻿_CD MediaFLO_NN
+
+是_VC 美国_NR 高通_JJ 公司_NN 对于_P 行动_JJ 电话_NN 、_PU 个人_NN 数位_NN 助理_NN 等_ETC 可携式_JJ 装备_NN 的_DEG 广播_JJ 资料_NN 传送_VV 技术_NN 。_PU 广播_JJ 资料_NN 包含_VV 多样性_NN 的_DEC 即时_JJ 影音_NN 串流_NN 、_PU 独立_VA 或_CC 是_VC 非即_AD 时_LC 的_DEG 影音_NN 「_PU 短片_NN 」_PU ，_PU 如_P
+股市_NN 的_DEC 走势_NN 、_PU 体育_NN 赛事_NN 的_DEC 分数_NN ，_PU 以及_CC 气象_NN 报导_VV 等_ETC IP_NN 数据_NN 广播_VA 应用_NN 服务_NN 。_PU
+
+F_CD LO_M 在_P MediaFLO_NN 中_LC 是_VC 指_VV 「_PU 前向_JJ 链路_NN 」_PU （_PU ForwardLi_JJ nkOnly_NN ）_PU ，_PU 意思_NN 是_VC 从_P 基地台_NN 到_VV 载具_NN 的_DEG 数据_NN 使用_VV 单一_JJ 路径_NN 传送_VV 。_PU MediaFLO_NN 系统_NN 是_VC 从_P 现有_JJ 的_DEG 行动_NN 网路_NN 的_DEG 频谱_NN 使用_NN 中_LC 所_MSP 分割_VV 的_DEC 一_CD 块_M 传递_NN 数据_NN ，_PU 例如_AD 美国_NR 使用_VV 的_DEC MediaFLO_NN 的_DEG 频谱_NN 是_VC 以前_NT 用于_VV 极_AD 高频_JJ 55_NN 电视_NN 频道_NN （_PU UHFTVChannel_NN 55_CD ）_PU 的_DEG 716_CD -_PU 722_CD MHz_M 。_PU 。_PU
+
+MediaFLO_NN 相对于_P 韩国_JJ 的_DEG 地面_NN 数位_NN 行动_NN 广播_NN 标準_NN （_PU T_NN -_PU DMB_NN ）_PU 、_PU 欧洲_NN 的_DEC 手持式_JJ 数位_NN 视讯_NN 广播_NN 标準_NN （_PU DVB_NN -_PU H_CD ）_PU 而_MSP 言_VV 是_VC 同类型_JJ 的_DEG 竞争_NN 标準_VV 。_PU MediaFLO_NN 的_DEC 设备_NN 初次_AD 在_P 2006_CD 年_M 国际_NN 消费_NN 电子展_NN （_PU CES_NN ）_PU 由_P 乐金_NN 、_PU 三星_NN 等_ETC 厂商_NN 引进_VV 。_PU 在_P 2005年_NT 12月_NT 1日_NT ，_PU VerizonWireless_NN 与_CC 高通_JJ 宣布_NN 成为_VV MediaFLO_NN 网路_NN 的_DEG 合作_JJ 伙伴_NN ，_PU 并且_CC Verizon_NR 在_P 2007_CD 年_M 3月_CD 1日_NT 开始_VV 其_PN 「_PU VCASTTV_NN 」_PU 之_DEG 商业化_NN 经营_P 。_PU 另外_AD 2007年_NT 2月_NT CingularWirless_NN （_PU AT_NN &_NN TMobilityLLC_NN 的_DEC 前身_NN ）_PU 也_AD 宣布_NN 将_BA 有_VE 商业化_NN 营运_NN ，_PU 并_CC 在_P 2008_CD 年_M 5月_NT 开始_VV 服务_NN 。_PU 高_JJ 通试图_NN 将_BA MediaFLO_NN 的_DEC 技术_NN 国际化_NN ，_PU 并且_CC 意图_PN 与_P 其他_DT 既有_JJ 的_DEG 营_NN 运商_NN 建立_VV 伙伴关_NN 系_NN 。_PU
+
+MediaFLO_NN 的_DEG 协定_JJ 建立_NN 是_VC 产生_VV 于_P 原本_JJ 单点_NN 传播_NN （_PU unicasting_NN ）_PU 高速动_AD 画给_VV 多_CD 人_M 的_DEG 频谱_NN 使用_VV 的_DEC 不效_JJ 率性_NN 。_PU 此外_AD ，_PU 由于_P 大多数_CD 的_DEG 电力_NN 消耗_NN 问题_NN ，_PU 传统_JJ 类比_NN 电视_NN 与_CC 透过_JJ 空气_NN 介质_NN 的_DEG 数位_NN 电视_NN 讯号_NN 在_P 行动_NN 设备_NN 上_LC 的_DEG 执行_NN 相当_AD 困难_VV ；_PU 并且_AD ，_PU MediaFLO_NN 不_AD 需要_VV 用_VV 较_AD 高_VA 的_DEC 分辨率_NN 去作_VV 传递_NN ，_PU 也_AD 是_VC 因为_P MediaFLO_NN 的_DEC 串流_NN 只_AD 要_VV 200_CD -_PU 250_CD kbps_NN ，_PU 这_PN 对于_P 较_AD 大_JJ 尺寸_NN 画面_NN 是_VC 无法_AD 满足_VV 的_DEC 。_PU
+
+2007年_NT 12月_NT 时_LC ，_PU VerizonWireless_NN 是_VC 高通_JJ MediaFLO_NN 服务_VV 唯一_JJ 的_DEG 无线_JJ 产品_NN 供应_NN 设备_NN 的_DEG 需求_NN 买家_VV 。_PU VerizonWireless_NN 使用_VV EVDONetwork_NN 在_P 行动_NN 网路_NN 上_LC 设定_VV 权限_NN ，_PU 并且_CC 提供_VV 对于_P 节目_VV 的_DEC 解密钥_NN 来_MSP 解码_VV 。_PU
+
+目前_NT 在_P 美国_NR 有_VE 九_CD 家_M MediaFLO_NN 的_DEC 广播_JJ 频道_NN ：_PU
+
+此外_AD ，_PU AT&T_NN 於_P 2008年_NT 5月_NT 4日_NT 正式_JJ 开始_JJ 营运_NN MediaFLO_NN 的_DEG 电视台_NN
+
+国家_NN 通讯_NN 传播_VV 委员会_NN （_PU N_CD CC_M ）_PU 於_P 2006年_NT 10月_NT 、_PU 11_CD 月核_NN 定_VV 五_CD 家_M 团队_NN 业者_NN 试播_VV ，_PU 其中_NN 台视_NN 、_PU 中嘉_NN 、_PU 亚太_JJ 电信_NN 、_PU 威宝_NN 电信_NN 的_DEC 高通_JJ 团队_NN 采用_VV MediaFLO_NN 技术_NN ，_PU 并且_CC 於_P 2007_CD 年_M 初开_JJ 始试播_NN 。_PU
+
+
+
+

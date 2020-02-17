@@ -1,0 +1,12 @@
+﻿_CD IEC_NN 61131_CD
+
+IEC_NN 61131_CD 是_VC 国际_NN 电工_NN 委员会_NN (_PU IEC_NN )_PU 制定_VV 的_DEC 可程式_JJ 逻辑_NN 控制器_NN 标準_NN 。_PU 在_P IEC_NN 编号_NN 系统_NN 更_AD 改以_VV 前_LC ，_PU 称为_VV IEC_NN 1131_CD 。_PU
+
+"_PU IEC_NN 61131_CD "_PU 标準区_NN 分成_VV 以下_JJ 几_CD 个_M 部分_NN :_PU
+
+IEC_NN 61499_CD 功能_NN 区块_NN
+
+
+
+
+

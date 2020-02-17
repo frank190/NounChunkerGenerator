@@ -1,0 +1,5 @@
+﻿红暴_NN 现象_NN
+
+红暴现象_AD 是_VC 指_VV 一_CD 种_M 滤光_NN 不_AD 净_VA 的_DEC 问题_NN 。_PU 有时_AD 希望_VV 用_P 纯粹_NN 红外线_NN 照明_NN ，_PU 而_CC 在_P 光源_NN 加上_VV 滤镜_NN 过滤_VV 红外线_NN 以外_LC 的_DEC 光_NN 。_PU 滤光_NN 不_AD 净_VA 而_CC 有_VE 少量_CD 红光_NN 被_LB 人_NN 眼看_VV 到_VV ，_PU 此_DT 即_AD 红_JJ 暴_AD 现象_NN 。_PU
+
+

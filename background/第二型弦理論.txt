@@ -1,0 +1,14 @@
+﻿_OD 第二_OD 型_M 弦理论_NN
+
+II_NN 型弦论_NN 主要_AD 有_VE 两_CD 种_M 类型_NN ：_PU
+
+II_NN 型弦_NN 是_VC 只_AD 包含_VV 闭弦_NN 的_DEC 理论_NN ，_PU 起初_AD 因为_P 它_PN 与_P 弱力_NN 造成_VV P_NN 破坏_NN 的_DEC 事实_JJ 矛盾_NN ，_PU 故_AD 无法_AD 解释_VV 四维_JJ 时空_NN 的_DEG 标準_NN 模型_NN 。_PU II_NN 型弦_NN 不_AD 能_VV 描述_VV 规范_NN 作用_NN ，_PU 其_PN 低能_NN 极限_AD 等价_VV 於_P N_CD =_CC 2_CD 的_DEG 10_CD 维超_NN 重力_NN 理论_NN 。_PU
+
+IIA_NN 型弦_NN （_PU typeIIA_NN ）_PU 是_VC 五_CD 种_M 超弦_NN 之一_LC ，_PU 它_PN 与_P IIB_NN 型弦_NN 之间_LC 有_VE T_NN 对_P 偶_PN 联系_NN ，_PU 且_CC 与_P 11_CD 维_NN 的_DEG M_NN 理论_NN 之间_LC 有_VE U_NN 对_P 偶联_NN 系_NN 。_PU IIA_NN 型_NN 弦紧致_NN 空间_NN 半径_NN 1_CD /_PU R_NN 的_DEG 理论_NN ，_PU 其_PN 性质_NN 可_VV 等同于_VV IIB_NN 型弦_NN 紧_AD 致_VV 空间_NN 半径_NN 为_VC R_NN 的_DEG 理论_NN ，_PU 这_PN 是_VC 纳入_VV 时_LC 空几何_AD 的_DEV 对_P 偶_PN 性_NN ，_PU 又_AD 称为_VV 「_PU 大_JJ /_PU 小_JJ 半径_NN 对_P 偶_PN 」_PU 。_PU 此外_AD ，_PU 它_PN 与_P M_NN 理论_VV 的_DEC U_NN 对_P 偶_PN 可_VV 视为_VV 9_CD 维_M 与_CC 11_CD 维_NN 的_DEG 对应_JJ 关系_NN 。_PU
+
+IIB_NN 型弦_NN (_PU TypeIIB_NN )_PU 是_VC 五_CD 种_M 超弦_NN 之一_LC ，_PU 与_P IIA_NN 型_NN 弦_AD 具有_VV T_NN 对_NN 偶联_NN 系_NN ，_PU 且_CC 与_P 本身_PN 有_VE S_NN 对_P 偶_PN 联系_VV 。_PU
+当_P IIB_NN 型弦_NN 耦合_NN 常数_NN 大于_VV 1_CD 时_LC ，_PU 性质_NN 等_ETC 同于_VV 本_DT 身耦合_NN 常数_NN 小于_VV 1_CD ，_PU 这_DT 种_M 联系_NN 称为_VV 「_PU 自身_PN 对偶_VV 」_PU 。_PU 且_CC IIB_NN 型弦_NN 紧_AD 致_VV 空间_NN 半径_NN R_NN 的_DEG 理论_NN ，_PU 其_PN 性质_NN 可_VV 等同于_VV IIA_NN 型_NN 弦紧致_NN 空间_NN 半径_NN 为_VC 1_CD /_PU R_NN 的_DEG 理论_NN ，_PU 这_PN 是_VC 纳入_VV 时空_NT 几何_VA 的_DEC 对偶性_NN ，_PU 又_AD 称为_VV 「_PU 大_JJ /_PU 小_JJ 半径_NN 对_P 偶_PN 」_PU 。_PU 此外_AD ，_PU 它_PN 与_P 共形_JJ 场论_NN 间_LC 有_VE AdS_NN /_PU CFT_NN 对_P 偶_PN 联系_VV ，_PU 与_P F_CD 理论_NN 的_DEC 对偶性_JJ 可_VV 视为_VV 10_CD 维_M 与_CC 12_CD 维_NN 的_DEG 对应_JJ 关系_NN 。_PU
+
+
+
+

@@ -1,0 +1,11 @@
+﻿凯伊_NN 效应_NN
+
+凯伊_NN 效应_NN （_PU ）_PU :_PU 将_BA 混合_VV 有机_JJ 溶液_NN 倒到_VV 一_CD 固体_NN 表面_NN ，_PU 这_DT 表面_NN 突然_AD 向上_AD 喷出_VV 一_CD 束_M 液体_NN 和_CC 向_P 下倒_VV 的_DEC 液束_NN 相会_VA 。_PU 这_DT 种_M 现象_NN 称为_VV 「_PU 凯伊_NN 效应_NN 」_PU 。_PU 这_PN 是_VC 英国_NN 工程_NN 师艾伦_NN ·_PU 凯伊_NN 在_P 1963_CD 年_M 第一_OD 次_M 描述_VV 的_DEC 。_PU
+
+出现_VV 凯伊_NN 效应_NN 的_DEC 时间_NN 较_AD 短_VA ；_PU 一般_AD 在_P 300_CD 毫秒_M 左右_LC ，_PU 容易_AD 为_VC 人忽_NN 略_VA 。_PU
+
+此后_AD ，_PU 发现_VV 番茄酱_NN ，_PU 酸奶_VV ，_PU 油漆_NN ，_PU 洗_VV 发水_NN 和_CC 液体_NN 肥皂_NN 等_ETC 切应_JJ 变薄_NN （_PU 在_P 切_VV 应力_NN 下_LC 变稀_VV ）_PU 的_DEC 液体_NN 都_AD 具有_VV 这样_PN 的_DEG 性质_NN 。_PU
+
+为了_P 了解_VV 「_PU 凯伊_NN 效应_NN 」_PU ，_PU 荷兰_NN 特温_NN 特_AD 大学_VA 的_DEC 微斯路_NN 易斯_AD 用_P 高速_JJ 视频头_NN 观察_VV 这_DT 效应_NN 的_DEC 全_DT 过程_NN ；_PU 将_BA 切应_JJ 变薄_NN 液体_NN 倒_AD 到_VV 固体_NN 表面_NN ，_PU 开始_VV 时_LC ，_PU 形成_VV 一_CD 绕堆_NN ；_PU 但_CC 其中_NN 某_DT 一_CD 滴_M 滑下_NN ，_PU 随后_AD 有_VE 一_CD 束_M 流_VV 从_P 堆_DT 表面_NN 窝弦_VV 梯边_NN 飞跃_VV 而_MSP 出_VV ；_PU 从_P 表面_NN 发射_VV 出来_VV 。_PU 微斯路_JJ 易斯_NN 认为_VV ，_PU 切应_VV 变液_NN 的_DEC 介面_NN 形成_VV 润滑_NN 层起_VV 了_AS 重要_VA 的_DEC 作用_NN 。_PU 他_PN 还_AD 找到_VV 了_AS ，_PU 把_BA 切应_VV 变液_NN 倒_AD 到_VV 斜面_NN 上_LC ，_PU 能_VV 看到_VV 稳定_VA 的_DEC 反弹_JJ 射流_NN 的_DEC 条件_NN 。_PU 但_AD 是_VC 微_JJ 斯_DT 路_NN 易斯_VA 的_DEC 实验_NN 还_AD 未_AD 能_VV 从_P 物理_NN 角度_NN 说明_NN 产生_VV 凯伊_NN 效应_NN 的_DEC 原因_NN 。_PU 有_VE 人_NN 认为_VV ，_PU 在_P 有_VE 静电_VA 的_DEC 情况_NN 下_LC ，_PU 更_AD 易_AD 出现_VV 「_PU 凯伊_NN 效应_NN 」_PU 。_PU
+
+

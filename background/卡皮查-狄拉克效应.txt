@@ -1,0 +1,9 @@
+﻿_NN 卡_NN 皮查_NN -_PU 狄_NN 拉克_NN 效应_NN
+
+卡皮查_NN -_PU 狄拉克_NN 效应_NN （_PU ，_PU 简称_VV KDE_NN ）_PU 是_VC 一_CD 种_M 量子_NN 现象_NN ，_PU 即_AD 拥有_VV 良好_JJ 空间_NN 相干性_JJ 的_DEG 粒子束_NN （_PU 一般_JJ 情况_NN 下_LC 为_VC 电子束_NN ）_PU 通过_P 光场_NN 驻波_VV 时_LC 发生_VV 衍射_NN ，_PU 它_PN 是_VC 受_VV 激_JJ 康普顿_NN 散射_VV 的_DEC 一_CD 种_M 特殊_JJ 情况_NN 。_PU 该_DT 效应_NN 由_P PaulAdrienMauriceDirac_NN 与_CC PyotrKapitsa_NN 于_P 1933_CD 年_M 首次_AD 提出_VV 。_PU
+
+KDE_NN 可以_VV 通过_P 德布_NN 罗意_NN 1924_CD 年_M 的_DEG 波粒_NN 二象性_NN 理论_NN 得到_VV 解释_VV 。_PU 因为_P 粒子_NN 具有_VV 波_NN 的_DEC 性质_NN ，_PU 粒子_NN 束_NN 会_VV 被_LB 以_P 驻_VV 波形_JJ 式_NN 存在_VV 的_DEC 电磁场_NN 的_DEC 空间_NN 周期性_NN 结构_NN 所_MSP 散射_VV ，_PU 散射波_NN 又_AD 会_VV 与_P 自身_NN 发生_VV 干涉_NN （_PU 粒子束_NN 强度_NN 随_P 空间_NN 位置_NN 而_MSP 变_VV ，_PU 就_AD 像_P 一_CD 般_VA 的_DEC 光学_NN 衍射_NN 一样_VA ，_PU 产生_VV 极_AD 大_VA 与_CC 极_AD 小_JJ 峰_NN ）_PU 。_PU
+
+实验_NN 上_LC 观测_VV KDE_NN 要求_NN 高度_NN 相干_VV 光束_AD ，_PU 这_PN 在_P 激光_JJ 发明_NN 前_LC 是_VC 不_AD 可_VV 能_VV 实现_VV 的_SP 。_PU 2001_CD 年_M 进行_VV 的_DEC 实验_NN 证明_VV 了_AS 所_MSP 猜想_VV 的_DEC 衍射峰_NN 。_PU
+
+

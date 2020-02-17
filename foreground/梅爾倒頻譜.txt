@@ -1,0 +1,42 @@
+﻿梅尔_NN 倒_CC 频谱_NN
+
+在_P 讯号_NN 处理_NN (_PU SignalProcessing)_NN 中_LC ，_PU 梅尔_NN 倒频谱_NN (_PU Mel_NN -_PU FrequencyCepstrum_NN ,_PU MFC_NN )_PU 系_VC 一_CD 个_M 可_VV 用来_VV 代表_VV 短期_JJ 音讯_NN 的_DEC 频谱_NN ，_PU 其_PN 原理_NN 根基_NN 於_P 以_P 非线性_JJ 的_DEG 梅尔_NN 刻度_NN (_PU melscale_NN )_PU 表示_VV 的_DEC 对_P 数频谱_NN (_PU spectrum_NN )_PU 及_CC 其_PN 线性_JJ 余弦_NN 转换_NN (_PU linearcosinetransform)_NN 之上_LC 。_PU
+
+梅尔倒_NR 频谱_NN 系数_NN (_PU Mel_NN -_PU FrequencyCepstralCoefficients_NN ,_PU MFCC_NN )_PU 是_VC 一_CD 组_M 用来_VV 建立_VV 梅尔倒_NR 频谱_VV 的_DEC 关键_NN 系数_NN 。_PU 由_P 音乐_NN 讯号_NN 当_NN 中_LC 的_DEG 片段_NN ，_PU 我们_PN 可以_VV 得到_VV 一_CD 组_M 足以_AD 代表_VV 此_DT 音乐_NN 讯号_NN 之_DEG 倒频谱_NN ，_PU 而_CC 梅尔倒_NR 频谱_NN 系数_NN 即_AD 是_VC 从_P 这_DT 个_M 倒频谱_NN 中_LC 推得_VV 的_DEC 倒频谱_NN (_PU 也就是_AD 频谱_VV 的_DEC 频谱_NN )_PU 。_PU 与_CC 一_CD 般_VA 的_DEC 倒频_NN 谱_VV 不_AD 同_VA ，_PU 梅尔_NN 倒_AD 频谱_VV 最_AD 大_VA 的_DEC 特色_NN 在于_VV ，_PU 於_P 梅尔倒_NR 频谱_NN 上_LC 的_DEG 频带_NN 是_VC 均匀_AD 分布_VV 於_P 梅尔_NR 刻度_NN 上_LC 的_DEG ，_PU 也就是说_AD ，_PU 这样_PN 的_DEG 频带_NN 会_VV 较_AD 一般_JJ 我们_PN 所_MSP 看到_VV 、_PU 线性_JJ 的_DEG 倒频谱_NN 表示_VV 方法_NN ，_PU 和_CC 人类_NN 非_JJ 线性_JJ 的_DEG 听觉_NN 系统_NN (_PU audiosystem_NN )_PU 更为_AD 接近_VV 。_PU 例如_AD ：_PU 我们_PN 在_P 音讯_NN 压缩_VV 的_DEC 技术_NN 中_LC ，_PU 便_AD 常常_AD 使用_VV 梅尔倒_NR 频谱_NN 来_MSP 处理_VV 。_PU
+
+梅尔倒_NR 频谱_NN 系数_NN 通常_AD 是_VC 用_P 以下_JJ 方法_NN 得到_VV 的_SP ：_PU
+
+
+取得_VV 梅尔倒_NR 频谱_VV 的_DEC 方法_NN 众_AD 多_VA ，_PU 上述_JJ 只_NN 是_VC 其中_NN 一_CD 种_M 。_PU
+
+另外_AD ，_PU ETSI_NN 在_P 2000_CD 年左_NN 右_JJ 有_VE 定义_VV 一_CD 套_M 专_AD 为_VC 行动_JJ 电话_NN 设计_NN 的_DEG 梅尔_NN 倒_CC 频谱_NN 系数_NN 演_VV 算法_NN 。_PU
+
+梅尔倒_NR 频谱_NN 系数_NN 通常_AD 可以_VV 用于_VV 作为_VV 语音_NN 识别_NN (_PU speechrecognition)_NN 系统_NN 中_LC 的_DEG 特征_NN 质_NN 观察_NN ，_PU 例如_AD ：_PU 可以_VV 自动_AD 辨认_VV 一_CD 个_M 人透_AD 过_VV 电话说_NN 的_DEC 数字_NN 。_PU 梅尔倒_NR 频谱_NN 系数_NN 通常_AD 也_AD 可以_VV 作为_P 声纹_NN 识别_NN (_PU S_CD peakerRecognition_M )_PU ，_PU 也就是_AD 、_PU 用来_VV 辨识_VV 某_DT 段_M 语音_NN 讯号_NN 的_DEG 发话者_NN 是_VC 谁_PN 的_DEG 技术_NN 。_PU
+
+梅尔倒_NR 频谱_NN 系数_NN 在_P 近年_NT 来_VV 於_P 音乐_NN 分类_NN (_PU musicgenreclassification_NN )_PU 相关_JJ 应用_NN 的_DEC 领域_NN 也_AD 逐渐_AD 崭露_VV 头角_NN ，_PU 例如_AD 寻找_VV 一_CD 段_M 音乐_NN 的_DEC 相似_JJ 程度_NN 等_ETC 。_PU
+
+梅尔_NR 频率_NN 倒谱_NN 系数_NN MFCC_NN 和_CC 感知_NN 线性_NN 预测_VV PLP_NN ：_PU 不同于_VV LPC_NN 等_ETC 通过_P 对_P 人_NN 的_DEG 发声_NN 机理_NN 的_DEC 研究_NN 而_MSP 得到_VV 的_DEC 声学_NN 特征_NN ，_PU Mel_NN 倒谱_NN 系数_NN MFCC_NN 和_CC 感知_NN 线性_NN 预测_VV PLP_NN 是_VC 受_VV 人_NN 的_DEG 听觉_NN 系统_NN 研究_VV 成果_NN 推动_VV 而_MSP 导出_VV 的_DEC 声学_NN 特征_NN 。_PU 对_P 人_NN 的_DEG 听觉_NN 机理_NN 的_DEC 研究_NN 发现_VV ，_PU 当_P 两_CD 个_M 频率_NN 相近_VV 的_DEC 音调_NN 同时_AD 发出_VV 时_LC ，_PU 人_NN 只_AD 能_VV 听到_VV 一_CD 个_M 音调_NN 。_PU 临界_NN 带宽指_VV 的_DEC 就_AD 是_VC 这样_AD 一_CD 种_M 令_VV 人_NN 的_DEG 主观_NN 感觉_VV 发生_VV 突_AD 变_VV 的_DEC 带宽_JJ 边界_NN ，_PU 当_P 两_CD 个_M 音调_NN 的_DEC 频率_NN 差_NN 小于_VV 临界_NN 带宽_VV 时_LC ，_PU 人_NN 就_AD 会_VV 把_BA 两_CD 个_M 音调_NN 听成_VV 一_CD 个_M ，_PU 这_PN 称之_AD 为_VC 屏蔽_NN 效应_NN 。_PU Mel_NN 刻度_NN 是_VC 对_P 这_DT 一_CD 临界_NN 带宽_VV 的_DEC 度量_NN 方法_NN 之_DEC 一_CD 。_PU
+MFCC_NN 的_DEG 计算_NN 首先_AD 用_P FFT_NN 将_BA 时域_NN 信号_NN 转化_VV 成_VV 频域_NN ，_PU 之后_AD 对_P 其_PN 对数_NN 能量_NN 谱_VV 用_P 依照_P Mel_NN 刻度_NN 分布_VV 的_DEC 三角_NN 滤波器_NN 组_NN 进行_VV 卷积_NN ，_PU 最后_AD 对_P 各_DT 个_M 滤波器_NN 的_DEG 输出_NN 构成_VV 的_DEC 向_P 量_NN 进行_VV 离散_NN 余弦_NN 变换_NN DCT_NN ，_PU 取前_VV N_CD 个_M 系数_NN 。_PU PLP_NN 仍_AD 用_P 德宾法_NN 去_VV 计算_VV LPC_NN 参数_NN ，_PU 但_AD 在_P 计算_VV 自_VV 相关_JJ 参数_NN 时_LC 用_VV 的_DEC 也_AD 是_VC 对_P 听觉_NN 激励_VA 的_DEC 对数_NN 能_VV 量_NN 谱_VV 进行_VV DCT_NN 的_DEC 方法_NN 。_PU
+
+梅尔倒_NR 频谱_NN 系数_NN 并非_CC 相当_AD 稳定_VA ，_PU 在_P 计算_VV 当_VV 中_LC ，_PU 一_CD 组_M 系数_NN 其_PN 实_AD 相当_JJ 容易_AD 受到_VV 外加_VV 的_DEC 噪声_NN 影响_NN ；_PU 为了_P 对抗_VV 噪声_NN ，_PU 我们_PN 通常_AD 会_VV 将_BA 梅尔_NN 倒_CC 频谱_NN 系数_NN 在_P 语音_NN 辨认_NN 上_LC 进行_VV 正规化(_JJ normalization_NN )_PU 的_DEG 动作_NN ，_PU 以_MSP 减少_VV 噪声_NN 造成_VV 的_DEC 影响_NN 。_PU
+
+另外_AD ，_PU 有些_DT 研究者_NN 会_VV 将_BA 梅尔_NN 倒频谱_NN 系_NN 数基础_NN 的_DEC 演算法_NN 设计_VV 的_DEC 更加_JJ 顽强_NN ，_PU 例如_AD ：_PU 在_P 进行_VV 余弦_NN 转换_NN 前_LC 增加_VV 对_P 数化_NN 梅尔_NN 系数_NN 的_DEG 能量_NN 值_VV 至_P 一_CD 个_M 合适_VA 的_DEC 范围_NN ，_PU 以_MSP 减少_VV 诸如_AD 噪声_NN 等_ETC 低_JJ 能量项_NN 对于_P 整_DT 个_M 系数_NN 结果_VV 的_DEC 影响_NN 。_PU
+
+一般_AD 认为_VV PaulMermelstein_NN 是_VC 主要_JJ 致力_NN 於_P 发展_NN 梅尔倒_NR 频谱_VV 的_DEC 人_NN ，_PU 然而_AD Mermelstein_NN 本_DT 人却_NN 将_AD 主要_VA 的_DEC 概念_NN 功劳_NN 归_VV 给_P Bridle_NN 和_CC Brownfortheidea_NN :_PU
+Bridle_NN 和_CC Brown_NN 运用_VV 了_AS 一_CD 组_M 十九_OD 个_M 、_PU 由_P 余弦_NN 转换_NN 导出_VV 的_DEC 频谱型_JJ 的_DEG 系数_NN ，_PU 转换_VV 的_DEC 输入值_NN 是_VC 讯号_NN 在_P 一_CD 组_M 在_P 频带_NN 上_LC 有_VE 非_AD 均匀_VA 间隔_VV 分布_VV 的_DEC 带通_JJ 滤波器_NN (_PU bandpass_NN )_NN 后_LC 的_DEG 输出_NN 。_PU
+
+滤波器_NN 的_DEG 间隔_NN 是_VC 呈现_VV 对_P 数分布_NN 的_DEC ；_PU 因此_AD ，_PU 我们_PN 一般_AD 称之_VV 为_VC 梅尔式_JJ 的_DEG 导频谱_NN 系数_NN
+通常_AD 此_DT 两_CD 组_M 起源_NN 都_AD 会_VV 被_SB 人当_VV 作_VV 参照_VV 使用_VV 。_PU
+
+另外_AD ，_PU 许多_CD 作者_NN 包括_VV Mermelstein_NN 都_AD 认为_VV ，_PU 梅尔倒_NR 频谱_NN 中_LC 这样_AD 以_P 频谱_NN 为_VC 基_NN 準_NN 的_DEG 余弦_NN 转换_NN 函数_NN ，_PU 非常_AD 接近_VV 早期_AD 用于_VV 语音_NN 表征_NN 和_CC 辨认_NN 、_PU 对_P 对数化频_NN 谱_VV 进型_VV 的_DEC 主_JJ 成分_NN 分析_VV ；_PU 关于_P 这_DT 部分_NN 相关_VV 的_DEC 资讯_NN ，_PU 可_VV 参考_VV Pols_NN 和_CC 它_PN 同事_VV 的_DEC 研究_NN 。_PU
+
+1_CD ._PU 对_P 该_DT 信号_NN 做_VV 傅立_JJ 叶_NN 变换_NN
+formula_NN
+2_CD ._PU 根据_P 下面_NN 公式_NN 算出_VV Y_NN [_PU m_NN ]_PU
+formula_NN
+其中_NN formula_NN
+formula_NN
+3_CD ._PU 对_P Y[m_NN ]_PU 做_VV IDCT_NN 得_VV formula_NN
+formula_NN
+
+

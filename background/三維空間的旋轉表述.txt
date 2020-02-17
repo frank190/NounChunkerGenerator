@@ -1,0 +1,9 @@
+﻿三_OD 维_M 空间_NN 的_DEC 旋转_NN 表述_NN
+
+在_P 几何_DT 学_NN 中_LC ，_PU 三维_NN 空间_NN 中_LC 的_DEG 旋转_NN 具有_VV 多_CD 种_M 表述_NN ，_PU 其_PN 将_BA 旋转_NN 作为_P 一_CD 种_M 数学_NN 转换_NN 处理_NN 。_PU 在_P 物理学_NN 中_LC ，_PU 此_PN 概念_AD 被_SB 应用_VV 到_VV 古典_NN 力学_NN ，_PU 其中_NN 转动_VV 运动学_NN 或_CC 角_NN 运动学_NN 为_VC 对_P 旋转_NN 运动_NN 的_DEC 量化_JJ 科学_NN 。_PU 一_CD 物体_NN 在_P 某_DT 瞬间_NN 的_DEG 定向_NN 透过_VV 同_DT 种_M 工具_NN 描述_NN 。_PU
+
+根据_P 欧拉_JJ 旋转_NN 定理_NN ，_PU 刚体_NN （_PU 或_CC 有_VE 固定_JJ 原点_NN 的_DEC 三维座_NN 标_VV 系_NN ）_PU 的_DEG 任意_JJ 旋转_NN 可_VV 透过_VV 对_P 一_CD 些轴_NN 做_VV 几_CD 次_M 简单_AD 旋转_VV 来_MSP 表述_VV 。_PU 这样_PN 的_DEG 旋转_NN 最_AD 小_VA 有_VE 三_CD 个_M 实参_NN 数来唯_AD 一_CD 描述_VV 。_PU 然而_AD ，_PU 因为_P 各_DT 种_M 不同_VA 的_DEC 因素_NN ，_PU 实际上_AD 有_VE 数种_NN 表示法_NN ；_PU 其中_NN 不少_AD 表示_VV 法_NN 用_VV 了_AS 超过_VV 三_CD 个_M 参数_NN 来_MSP 描述_VV ，_PU 尽管_CS 自由_P 度_M 仍_AD 只_AD 有_VE 三_CD 个_M 。_PU
+
+旋转_NN 表示_VV 的_DEC 一_CD 个_M 例子_NN 为_VC 电脑_NN 视觉_NN 。_PU 在_P 这_DT 例子_NN 中_LC ，_PU 自动化_NN 观察者_NN 需要_VV 追踪_VV 目标_NN 。_PU 考虑_VV 一_CD 刚体_NN ，_PU 其_PN 有_VE 三_CD 个_M 正交_JJ 单位_NN 向_P 量_NN 固定_VV 在_P 其_PN 主体_NN 上_LC （_PU 代表_VV 该_DT 物体_NN 自身_PN 卡氏_NN 座标_VV 的_DEC 三_CD 个_M 轴_NN ）_PU 。_PU 其中_NN 基础_NN 问题_NN 为_VC 如何_DT 订出_VV 三_CD 个_M 单位_NN 向_P 量_NN 的_DEG 定向_NN ，_PU 因此_AD 相对于_P 观察者_NN 座标_NN 系_NN ，_PU 刚体_NN 被_SB 认为_VV 是_VC 参考_VV 的_DEC 空间_NN 定位_NN 。_PU
+
+

@@ -1,0 +1,21 @@
+﻿富士_NN 通西_JJ 门子_NN
+
+富士_JJ 通西_NN 门子_NN 电脑_NN 资讯_NN 有_VE 限公司_NN （_PU F_CD ujitsuSi_JJ emensComputers_NN ,_PU Inc_NN ._PU 简称_NN ：_PU F_CD SC_M ）_PU ，_PU 於_P 1999年_NT 建立_VV ，_PU 为_VC 日本_NR 富士_NN 通公_AD 司及_CC 德国_NR 西门_NN 子_NN 公司_NN 的_DEC 合资_NN 企业_NN ，_PU 各_AD 拥有_VV 一_CD 半股权_NN 。_PU 是_VC 一_CD 家_M IT_NN 供应商_NN ，_PU 销售_VV 消费性_NN 与_CC 商业_NN 电脑_NN 产品_NN 到_VV 欧洲_NN 、_PU 中东_NN 及_CC 非洲_AD 市场_NN 。_PU
+
+2008年_NT 11月_NT 4日_NT ，_PU 西门子_NN 宣布_NN ，_PU 截至_VV 2009_CD 年_M 4月1日_NN ，_PU 会_VV 持续_VV 将_BA 其_PN 持有_VV FSC_NN 的_DEG 大概_NN 4_CD ._PU 5亿_CD 欧元_NN 的_DEC 股份_NN 转让_VV 给富_PN 士通_NR 公司_NN 。_PU 届时_NN ，_PU F_CD SC_M 将_BA 更改_JJ 名字_NN 为_VC "_PU FujitsuTechnologySolutionsGmbH_NR (_PU 简称_NR 为_VC ：_PU FTS_M )_PU "_PU 。_PU 并且_AD ，_PU 旗下_NN 产品_NN 名称_NN ，_PU 将_BA 全部_AD 由_P 原先_JJ 的_DEG “_PU F_CD ujitsu_M -_PU Siemens_NN ”_PU 更_AD 改为_VV “_PU Fujitsu_M ”_PU 。_PU
+
+富士_JJ 通西_NN 门子_NN 电脑_NN 的_DEC 产品_NN 包括_VV 主机_NN 、_PU Unix_NN 服务器_NN 、_PU 手提_NN 电脑_NN 、_PU 桌上型_JJ 电脑_NN 、_PU 手持_NN 装置_NN （_PU 多_AD 由_P HTC_NN 代工_VV ）_PU 及_CC 周边_NN 产品_NN （_PU 例如_AD 显示器_NN 、_PU 键盘_NN 及_CC 鼠标_NN ）_PU 。_PU
+
+富士_JJ 通西_NN 门子_NN 专於_NN "_PU 绿色_NN "_PU 电脑_NN ，_PU 确保_VV 全部_DT 产品_NN 达到_VV 或_CC 超过_VV 各_DT 种_M 普遍_NN 的_DEC 生态_NN 与_CC 环境_NN 标示_NN 。_PU
+
+品牌_NN 包括_VV ：_PU
+
+原_JJ 公司_NN 可_VV 追遡_VV 到_VV 1980_CD 年_M 中_LC 芬兰_VV 的_DEC 诺基亚_NN 与_P 瑞典_NN 的_DEC 爱立_JJ 信个人_NN 电脑_NN 部门_NN 合并_VV 。_PU 1991年_NT NokiaData卖_VV 到_VV 英国_NR 的_DEC InternationalComputersLtd_NR (_PU ICL_NR )_ETC 。_PU ICL_NN 后_LC 来_MSP 与_P 富士_NN 通合_VV 并_VV 。_PU
+
+Ericsson_NN 个人_NN 电脑_NN 1980_CD 年期_NN 间_LC 因_P 其_PN 人体_NN 工学_NN 与_P 明亮_VA 的_DEC 颜色_NN 而_CC 为_P 人_NN 熟悉_VV 。_PU
+
+诺基亚_NN 的_DEC MikroMikko_NN 小型桌_NN 上型_JJ 电脑_NN 生产线_NN 继续_VV 於_P 芬兰_NN 埃_NOI 斯_DT 波_M Kilo_NN 工厂_NN 生产_NN 。_PU 组件_NN 包括_VV 主板_NN 及_CC 以_P 太_AD 网络_NN 卡_VV 在_P 移到_VV 台湾_NN 生产_VV 前_LC 均_AD 为_VC 本地_PN 生产_VV 。_PU 富士_AD 通以_VV ErgoPro_NN 的_DEC 名字_NN 在_P 国际_NN 市场_NN 上_LC 销售_VV MikroMikko_NN 产品_NN 。_PU
+
+德国_NR 公司_NN SiemensNixdorfInformationssysteme_NR ，_PU 就_AD 是_VC NixdorfComputer_NN 与_CC 西门子_NN 合并_VV 后_LC 的_DEG 结果_NN 。_PU
+
+

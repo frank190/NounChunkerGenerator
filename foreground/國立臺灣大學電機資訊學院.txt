@@ -1,0 +1,357 @@
+﻿国_NR 立台湾_NN 大学_NN 电机_NN 资讯_NN 学院_VV
+
+国立_JJ 台湾_NN 大学_NN 电机_NN 资讯_NN 学院_VV （_PU CollegeofElectricalEngineeringandComputerScience_NN ,_PU NationalTaiwanUniversity_NN ）_PU ，_PU 原隸_NN 属于_VV 工学_NN 院下_NN ，_PU 1997年_NT 8月_NT 成_VV 立台_NN 大电机_NN 学院_VV ，_PU 2000年_NT 8月1_NN 日更_AD 名国_NR 立台湾_NN 大学_NN 电机_NN 资讯_NN 学院_VV 。_PU 其_PN 下分_NN 设_VV 电机_NN 学群_NN 及_CC 资讯_NN 学群_VV ,_PU 电机_NN 及_CC 资讯_NN 两_CD 个_M 学系_NN ,_PU 分別_NN 位居_VV 大学_NN 入学_NN 招生_NN 第二_OD 类组_NN 的_DEG 第一_OD 和_CC 第二_OD 志愿_NN 。_PU 电机_NN 学群_VV 有_VE 电机_NN 工程学_NN 系_NN 暨_CC 研究所_NN ，_PU 光电_NN 工程_NN 学_VV 研究所_NN ，_PU 电信_NN 工程_NN 学_VV 研究所_NN ，_PU 电子_NN 工程_NN 学_VV 研究所_NN ，_PU 资讯_NN 学_VV 群_NN 包含_VV 资讯_NN 工程_NN 学系_VV 暨_CC 研究所_NN ，_PU 资讯_NN 网路_NN 与_P 多媒体_NN 研究所_NN ，_PU 以及_CC 跨学_NN 群_NN 的_DEG 生医_NN 电子_NN 与_CC 资讯_NN 学_VV 研究_NN 所_MSP 。_PU
+相关_JJ 单位_NN 有_VE 资讯_NN 电子_NN 研究_NN 中心_NN ,_PU 物联网_NN 研究_NN 中心_NN ，_PU 奈米_NN 机电_NN 系统_NN 研究_NN 中心_NN ，_PU 绿色_JJ 电能_NN 研究_NN 中心_NN 。_PU
+
+电机_NN 工程_NN 学系_VV 前身_NN 为_VC 1943_CD 年_M 5月_NN 成立_VV 的_DEC 「_PU 台北_NN 帝国_NN 大学_NN 工学部_NN 电气_NN 工学科_NN 」_PU ，_PU 1945_NN 年_CC 11月_NT 改制_VV 为_VC 国立_JJ 台湾_NN 大学_NN 工学_NN 院电机_NN 工程_NN 学系_VV 。_PU
+目前_NT ，_PU 电机_NN 学群_VV 的_DEC 系所架_NN 构为_VV 一_CD 系_VC 五_CD 所_M ，_PU 内含_NN 十_CD 一_CD 个_M 教学_NN 研究分_NN 组_NN ，_PU 其中_NN 电机_NN 所_MSP 含_VV 自动_JJ 控制组_NN 、_PU 电力_NN 系统_NN 与_CC 电力_NN 电子组_NN 、_PU 计算机_NN 科学组_NN ；_PU 光电_NN 所_MSP 含_VV 光电组_NN ；_PU 电信_NN 所_MSP 含_VV 电波组_NN 、_PU 通讯_NN 与_CC 信号_NN 处理组_NN 、_PU 资料_NN 科学_NN 与_CC 智慧_NN 网路组_NN ；_PU 电子_NN 所_MSP 含_VV 奈米_NN 电子组_NN 、_PU 积体_NN 电路_NN 与_CC 系统组_NN 、_PU 电子_NN 设计_NN 自动_AD 化组_VV ；_PU 生医_NN 电资_NN 所_MSP 含_VV 医工组_NN 。_PU
+电机_NN 所_MSP 包含_VV 「_PU 自动_AD 控制_VV 」_PU 、_PU 「_PU 电力_NN 系统_NN 与_CC 电力_NN 电子_NN 」_PU 、_PU 「_PU 计算机_NN 科学_NN 」_PU 三_CD 组_M 。_PU 自动_AD 控制_VV 组研究_NN 领域_NN 包含_VV ：_PU 线性_JJ 、_PU 非线性_JJ 及_CC 离散_JJ 事件_NN 动态_NN 系统_NN 、_PU 适应_VV 、_PU 强健_NN 、_PU 智慧_NN 等_ETC 控制_VV 理论_NN 、_PU 精密_JJ 伺服_NN 控制_VV 在_P 国防_NN 及_CC 工业_NN 上_LC 之_DEG 应用_NN 、_PU 机器_NN 人学_NN 与_CC 自动化_NN 工程_NN 、_PU 遥测_NN 及_CC 全球_DT 定位_NN 技术_NN 、_PU 新兴_NN 系统_NN 之_DEC 智慧型_JJ 自动化_NN 与_CC 控制_NN 。_PU 电力_NN 系统_NN 与_CC 电力_NN 电子_NN 组研究_NN 领域_NN 包含_VV ：_PU 电力_NN 系统_NN 、_PU 电机_NN 控制_NN 、_PU 电力_NN 电子_NN 、_PU 智慧_NN 电网_NN 。_PU 计算机_NN 科学组_NN 研究_NN 领域_NN ：_PU 平行_JJ 与_CC 向量_JJ 编译_NN 程式_NN 、_PU 网际_NN 网路_NN 与_P 多媒体_NN 系统_NN 、_PU 计算机_NN 容错_VV 、_PU 计算机_NN 结构_NN 、_PU 计算理_NN 论_NN 、_PU 数据库_NN 与_P 资讯勘_NN 测_VV 、_PU 行动_JJ 计算_NN 、_PU 网路_NN 安全_VA 与_CC 密码学_NN 。_PU
+
+1997年_NT 8月_NT 电信_NN 工程_NN 学_VV 研究_NN 所_MSP 成立_VV ，_PU 设置_VV 「_PU 电波_NN 」_PU 及_CC 「_PU 通讯_NN 与_CC 信号_NN 处理_NN 」_PU 两_CD 组_M 。_PU 电波_NN 组_SB 主要_AD 研究_VV 领域_NN 为_VC 天线_NN 、_PU 电磁_NN 理论_NN 、_PU 微波_NN 、_PU 毫_AD 米波_NN 电路_NN 、_PU 系统_NN 封装_NN 及_CC 电磁_NN 相容_NN 等_ETC 技术_NN 。_PU 「_PU 通信_NN 及_CC 讯号_NN 处理组_NN 」_PU 主要_JJ 研究_NN 领域_NN 为_VC 通讯_NN 、_PU 信号_NN 处理_VV 、_PU 光_NN 通讯_NN 及_CC 多媒体_NN 网路_NN 。_PU 2016_CD 年_M 增设_VV 「_PU 资料_NN 科学_NN 与_CC 智慧_NN 网路_NN 组_NN 」_PU ，_PU 主要_JJ 研究_NN 领域_NN 为_P 机器_NN 学习_VV 、_PU 大_JJ 数据_NN 分析_NN 、_PU 认知神_NN 经机器_NN 人学_NN 、_PU 资料_NN 隐私_NN 与_CC 讯息_NN 检索_VV 、_PU 物联网_NN 、_PU 软体_NN 定义_NN 网路_NN 、_PU 与_P 网路_NN 功能_NN 虚拟_VV 化_JJ 技术_NN 等_ETC 。_PU
+
+光电_NN 所_MSP 前身_VV 是_VC 电机_NN 所_MSP 光_VV 电组_NN ，_PU 1992年_NT 8月_NT 成立_VV 招收_VV 硕士班_NN 学生_VV ，_PU 1995年_NN 8月_NT 增设_VV 博士班_NN 。_PU
+光电_NN 所_MSP 研究_VV 领域_NN 包括_VV ：_PU 光纤_NN 通讯_VV 、_PU 光纤_NN 光学_NN 、_PU 积体_NN 光学_NN 、_PU 半导体_NN 雷射_NN 及_CC 光_BA 侦测器_NN 、_PU 半导体_NN 光电_NN 现象_NN 、_PU 光电_NN 半导体_NN 材料_NN 及_CC 元件_NN 、_PU 光电子_NN 技术_NN 、_PU 雷射_NN 技术_NN 与_CC 光电_NN 应用_NN 、_PU 非线性_JJ 光学_NN 、_PU 光电量_NN 测_VV 技术_NN 、_PU 光学_NN 设计_NN 、_PU 光电_NN 的_DEG 生物_NN 医学_NN 应用_NN 等_ETC 。_PU
+
+2001_CD 年_M 电子_NN 工程_NN 学_VV 研究_NN 所_MSP 奉准_VV 成立_VV 。_PU 电子_NN 所_MSP 分为_VV 「_PU 数位_NN 积体_NN 电路_NN 与_P 系统_NN 」_PU 、_PU 「_PU 类比_JJ 积体_NN 电路_NN 与_P 系统_NN 」_PU 、_PU 「_PU 奈米_NN 电子_NN 」_PU 、_PU 「_PU 电子_NN 设计_NN 自动_AD 化」_VV 四_CD 组_M ，_PU 研究_NN 重点_NN 以_P 积体_NN 电路_NN 系统_NN 芯片_NN 设计_VV 及_CC 奈_VV 米电子_NN 元件_NN 设计_NN 与_P 制程_NN 技术_NN 两_CD 方面_NN 为_VC 主_VA 。_PU
+
+生医_NN 电子_NN 与_CC 资讯_NN 学_VV 研究_NN 所_MSP 结合_VV 电机_NN 与_CC 资讯_NN 领域_NN ，_PU 进行_VV 生物_NN 医学_NN 之_DEG 研究_NN 及_CC 教学_NN 。_PU 2006_CD 年_M 8月_NT ，_PU 生医_NN 电资_NN 所_MSP 开始_VV 招收博_NN 士班_NN ，_PU 硕士班_NN 也_AD 於_P 2007年_NT 8月_NT 开始_VV 招生_NN 。_PU 涵盖_NN 范围_NN 有_VE 生医_NN 材料_NN 、_PU 生医_NN 力学_NN 、_PU 生医_NN 电子_NN 、_PU 生医_NN 资讯_NN 、_PU 生医_NN 影像_NN 、_PU 生医_NN 光电_NN 以及_CC 临床_NN 工程_NN 等_ETC 主要_JJ 领域_NN 。_PU
+
+1977_CD 年_M 资讯_NN 工程_NN 学系_VV 成立_VV ，_PU 1981年_NT 成_VV 立硕士_NN 班_NN ，_PU 1984_CD 年成_VV 立博_NN 士班_NN 。_PU 重点_NN 研究_NN 领域_NN 可_VV 分为_VV 计算_NN 机理_NN 论_NN 、_PU 计算机_NN 软体_NN 、_PU 计算机_NN 系统_NN 、_PU 计算机_NN 网路_NN 、_PU 智慧_NN 系统_NN 、_PU 多媒体_NN 系统_NN 、_PU 生医_NN 资讯_NN 。_PU 。_PU
+
+1991_CD 年_M 创立_VV 通讯_NN 与_CC 多媒体_NN 实验室_NN ，_PU 2000_CD 年_M 资工_NN 系_NN 加入_VV 电机_NN 资讯_NN 学院_VV 后_LC ，_PU 由_P 电机_NN 系_NN 及_CC 资工_NN 系_NN 教授_NN 组成_VV 网路_NN 与_P 多媒体_NN 研究_VV 所_MSP 筹_VV 划小_NN 组_NN ，_PU 2003_CD 年_M 资讯_NN 网路_NN 与_P 多媒体_NN 研究_NN 所_MSP 成立_VV 。_PU 主要_JJ 研究_NN 领域_NN 有_VE 多媒体_NN 技术_NN 与_CC 系统_NN 、_PU 影像_NR 视讯_NN 处理_NN 与_P 分析_NN 、_PU 资讯_NN 网路_NN 与_P 行动_NN 通讯_VV 、_PU 网际_NN 网路_NN 及_CC 社群_NN 网路_NN 、_PU 嵌入式_NN 系统_NN 、_PU 普及_CC 计算_VV 与_P 优质_NN 生活_NN 应用_NN 。_PU
+
+1945_CD 年台_NN 大电机_NN 系改_NN 制成_VV 立之初_AD ，_PU 当_P 时地点_NN 设於_VV 现今_NT 之_DEG 新生_JJ 大_JJ 楼位_NN 址_NN ，_PU 原_NN 为_VC 木造_NN 的_DEC 日本式_JJ 建筑_NN ，_PU 并_CC 与_P 土木_NN 系_NN 共同_AD 使用_VV 。_PU 1955_NT 工学_NN 院大_NN 楼_NN 落成_VV 后_LC （_PU 今_VV 土木_NN 系_NN 系_VC 馆_NN ）_PU 迁入_VV 电机_NN 系_NN 大部分_CD 实验_NN 室_NN 。_PU 当_P 时电机_NN 系_NN 大部份_NN 是_VC 在_P 此_DT 栋_M 建筑_NN 的_DEC 1_CD 、_PU 2_CD 、_PU 3_CD 楼_NN 西半边_NN ，_PU 另_DT 一_CD 部份_NN 则_AD 在_P 机械馆_NN 的_DEC 1_CD 楼_NN 使用_VV 3_CD 个_M 房间_NN 。_PU 而今_NT ，_PU 电机_NN 系_NN 主要_AD 使用_VV 的_DEC 系馆_NN 有_VE 电机_NN 一_CD 馆_NN 、_PU 电机_NN 二_CD 馆_NN 、_PU 博理馆_NN 、_PU 明_AD 达馆_VV 。_PU
+
+1960_CD 年代_NN ，_PU 在_P 当时_NT 的_DEG 系_NN 主任_NN 多方_AD 奔走_VV 及_CC 系_NN 友捐款_NN 之下_LC ，_PU 电机_NN 系_NN 终于_VV 获得_VV 台大_JJ 校方_NN 的_DEC 认同_NN 与_CC 支持_NN ，_PU 於_P 1968_CD 年_M 1_CD 月_NN 由_P 台大校_NN 长钱_JJ 思亮_NN 主持_NN 电机_NN 一_CD 馆动土_NN 典礼_NN 。_PU 1969年_NT 6月_NT ，_PU 电机_NN 一_CD 馆_NN 落成_VV 启用_NN ，_PU 是_VC 当时_NT 难得_VV 一_CD 见_M 、_PU 台大_NR 第一_OD 栋_M 的_DEG 中央_NN 空调_JJ 建筑_NN ，_PU 同时_AD 也_AD 是_VC 台大_NR 首度_NN 经由_P 募集_NN 捐款_NN 所_MSP 完成_VV 的_DEC 建筑_NN 。_PU
+
+由于_P 电机_NN 系_NN 人员_NN 与_CC 研究_NN 设备_NN 的_DEG 扩充_NN ，_PU 遂_AD 于_P 1976年_NT 5月_NT 提出_VV 兴建_NN 电机_NN 二_CD 馆_NN 之_DEG 规划_NN 。_PU 1982_CD 年_M ，_PU 教育部_NN 拨款_NN ，_PU 1983_CD 年_M 电机_NN 二_CD 馆_CC 第一_OD 期_M （_PU 东半部_NN ）_PU 工程_NN 顺_VV 利动土_NN 施工_VV ，_PU 1985年_NT 8月_NN ，_PU 电机_NN 二_CD 馆东_NN 半部_NN 落成_VV ，_PU 并_CC 於_P 1986_CD 年_M 1月_NN 迁入_VV 使用_VV 。_PU 1993年_NT 8月_NT ，_PU 电机_NN 二_CD 馆_CC 二_CD 期_M 工程_NN （_PU 西半部_NN ）_PU 完工_VV 。_PU 其中_NN 一_CD 楼东侧_NN 约_AD 五百_CD 坪_M 用地_NN ，_PU 自_P 一_CD 期_M 工程_NN 完工_VV 后_LC 即_AD 由_P 工学_NN 院图书_NN 馆_VV 使用_VV ，_PU 至_P 1998_CD 年_M 11月_CD 工学_NN 院图书_NN 馆_NN 迁入_VV 台大_JJ 新总图_NN 书馆_VV 后_LC ，_PU 方_AD 从_P 工学_NN 院交_NN 予电机_NN 学院_VV 。_PU
+
+博理馆_NN 为_P 电机_NN 系_NN 系友_NN 广达_VA 电脑_NN 公司_NN 董事_NN 长林_AD 百_CD 里_LC 捐赠_VV ，_PU 是_VC 一_CD 栋_M 地下_VV 一_CD 层_M ，_PU 地上_AD 七_CD 层_M 之_DEG 钢筋_NN 混凝土_NN 建筑_NN ，_PU 以_P 丁_PN 掛砖_VV 、_PU 斩_VV 石子_NN 、_PU 格子樑_NN 、_PU 铝_NN 玻璃_NN 帷幕墙_NN 、_PU 铝花板_NN 为_VV 建材_NN 。_PU
+根据_P 陈维昭_NN 校长回_NN 忆录_VV 所_MSP 载_VV ，_PU 大楼_JJ 命名_NN 来自_VV 於_P 捐赠_VV 人林_NN 百_CD 里_LC 名字_NN 「_PU 百_CD 里_LC 」_PU 的_DEG 广东话_NN 谐音_NN 。_PU 2002年_NT 11月_NT 15日_NT ，_PU 台湾_NN 大学_NN 创校_NN 74_CD 周年_NN 校庆_NN 餐会_NN 中_LC ，_PU 林_NN 百_CD 里_LC 与_P 陈维昭_NN 校长_VV 共同_JJ 簽_NN 约_AD 完成_VV 博理馆_NN 捐赠_NN 仪式_NN 。_PU 2003_CD 年_M 1月_NT 8日_NT 为_P 大楼_JJ 新建_NN 工程_NN 动土_NN 典礼_NN ，_PU 由_P 林百里_NR 董事_NN 长_VA 、_PU 陈维昭_NN 校长_NN 、_PU 时任_NN 许_VV 博文院_NN 长共_AD 同主_AD 持动_VV 土奠基_NN 典礼_NN 。_PU 2003年_NT 10月_NT 20日_NT 举行_VV 上_LC 樑_BA 典礼_NN 。_PU 2004年_NT 6月_NT 5日_NT ，_PU 林_NT 百_CD 里_NN 系_VC 友_NN 捐赠_VV 的_DEC 电机_NN 系_NN 第三_OD 栋_M 教学_NN 研究_NN 大楼_AD —_PU 博理_NN 馆举_NN 行落_VV 成_VV 典礼_NN 。_PU
+博理馆_NN 大楼_AD ，_PU 地下_VV 一_CD 层_M ，_PU 地上_AD 七_CD 层_M ，_PU 并_CC 有_VE 一_CD 间_LC 可_VV 容纳_VV 200_CD 多_CD 人_NN 之_DEG 阶梯式_JJ 会议厅_NN 。_PU 地下_NN 1_CD 楼_NN 为_VC 博理艺_NN 廊_NN 、_PU 读书_NN 中心_NN (_PU 系_VC K_NN )_PU 、_PU 娱乐室_NN (_PU 系康_NN )_PU 、_PU 系学_NN 会办公_NN 室等_NN 。_PU 1_CD 楼_M 主要_AD 为_VC 教学_VV 教室_NN ，_PU 2_CD 楼_NN 为_VC 重点_NN 与_CC 卓越_NN 计画_VV 使用_VV ，_PU 3_CD 楼_NN 为_VC 院务_NN 办公_VV 之_DEC 用_NN 、_PU 4_CD 至_CC 6_CD 楼_NN 是_VC 实验_NN 室_NN 、_PU 教师_NN 之_DEC 研究室_NN 与_CC 讨论_NN 室_NN ，_PU 7_CD 楼_M 为_P 电机_NN 系_NN 与_CC 广达_JJ 电脑_NN 公司_NN 共同_AD 合作_VV 计画_NN 之_DEC 用_VV 。_PU
+
+明_AD 达馆_VV 为_VC 明基友_NN 达_VV 集团_NN 李焜耀_NR 董事_NN 长_AD 捐赠_VV ，_PU 捐赠_VV 金额_NN 为_VC 三亿元_NN 。_PU 是_VC 一_CD 栋_M 地上_LC 7_CD 层_M ，_PU 地下_NN 1_CD 层_M 之_DEG 钢筋_NN 混凝_VV 土_NN 建筑_NN 。_PU 外形_NN 上_LC 撷取_VV 文学院_NN 的_DEG 立面_NN 造型_VV ，_PU 并_CC 采用_VV 回_VV 廊_NN 、_PU 拱门_NN 、_PU 十三_CD 沟面砖_NN 等_ETC 素材_NT ；_PU 而_AD 高_JJ 楼层_NN 则_AD 以_P 格状板_NN 和_CC 玻璃_NN 做为_VV 立面_NN ，_PU 格_NN 状板_NN 具备_VV 遮阳_NN 之_DEG 功能_NN ，_PU 呼应_VV 台大_NR 建筑_NN 景观_VA ，_PU 也_AD 同时_AD 具备_VV 现代_JJ 建筑_NN 之_DEC 机能_NN 考量_VV 。_PU
+明_AD 达馆_VV 的_DEC 正式簽_NN 约_CC 仪式_NN 於_P 2004年_NT 9月_NT 29日_NT 举行_VV ，_PU 并_CC 在_P 2005_CD 年_M 5月17_NN 日开_JJ 工动土_NN ，_PU 2007年_NT 1月_NT 11日_NT 明达_VV 馆_NN 落成_VV 启用_NN 。_PU 「_PU 明_AD 达馆_VV 」_PU 的_DEG 意涵_NN 为_VC 「_PU 明理_AD 达义_VV ，_PU 明德_AD 达信_VV 」_PU 在_P 建筑_VV 的_DEC 一_CD 角_NN 有_VE 孙_NN 中_LC 山先_AD 生_VV 的_DEC 此_DT 字帖_NN 书法_NN 。_PU
+
+明_AD 达馆_VV 的_DEC 地下_NN 1_CD 楼_NN 为_VC 停车场_NN ，_PU 1_CD 楼_NN 为_VC 公共_JJ 空间_NN ，_PU 包括_VV 餐厅_NN 以及_CC 展示_VV 空间_NN ，_PU 2_CD 楼_NN 与_P 3_CD 楼主_NN 要_VV 为_VC 教学_NN 与_CC 实验_NN 空间_NN ，_PU 4_CD 楼_NN 为_VC 与_P 明基_NN 及_CC 友达_NN 之_DEG 产学_NN 合作_NN 空间_NN ，_PU 5_CD 至_CC 7_CD 楼_NN 为_P 教师_NN 研究室_NN 与_CC 实验室_NN 。_PU
+
+明_AD 达馆_VV 前身_PN 是_VC 一般_JJ 民宅_NN ，_PU 约_AD 在_P 1989年_NT 11月_NT ，_PU 校地校_NN 地_DEV 完成_VV 征收_NN ，_PU 此_DT 处_NN 不_AD 再_AD 是_VC 私人_AD 产业_VV 。_PU 而_CC 在_P 兴筑_NN 明_AD 达馆_VV 前_LC ，_PU 基地_NN 上_LC 有_VE 间_LC 「_PU 台大_NR 福华_NN 」_PU 自助_AD 餐厅_VV 。_PU
+
+而_AD 资讯_NN 工程_NN 学系_VV 在_P 1977_CD 年_M 成立_NN 之初_LC 没有_VE 自己_PN 的_DEG 教室_NN ，_PU 1982_CD 年_M 8月系_NN 馆_NN (_PU 今_NN 计算机_NN 及_CC 资讯_NN 网路_NN 中心_NN )_PU 建成_VV 迁入_NN ，_PU 1993_CD 年_M 新系_JJ 馆完工_NN (_PU 今_VV 德_NN 田馆_NN 北侧_NN )_PU ，_PU 8月_NT 迁入_VV 。_PU 2003_CD 年_M ，_PU 华宇_NN 电脑_NN 李森田_NN 董事_NN 长夫妇_AD 捐赠_VV 的_DEC 资讯馆_NN 二_CD 期_NN 工程_NN (_PU 德_NN 田馆_NN )_PU 动工_VV ，_PU 并_CC 於_P 2004年_NT 9月_NT 29日_NT 落成_VV 启用_NN 。_PU
+
+方复_NN ：_PU 1951_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 中央_JJ 研究院_NN 院士_NN 、_PU 美国_NR 国家_NN 工程_NN 院院士_NN 、_PU FellowofAPS_NN 、_PU IEEE_NN 、_PU FranklinInstitute_NN 等_ETC 。_PU 曾_AD 於_P IBMT_NN ._PU J_NN ._PU WatsonResearchCenter_NN 从事_AD 半导体_NN 物理_NN 及_CC 元件_NN 之_DEC 研究_NN ，_PU 曾_AD 获得_VV 美国_NR 物理_NN 学会_VV （_PU APS_NN ）_PU 巴克_NR 莱_ETC （_PU OliverE_NN ._PU Buckley_NN ）_PU 固态_NN 物理_NN 奖_NN 、_PU IEEE_NN 沙若诺夫_NN （_PU DavidSaro_JJ nov_NN ）_PU 奖_NN 、_PU 富兰克_NN 林学_NN 院金质_NN 奖章_NN 、_PU 德国宏保_NN （_PU AlexandervonHumboldt_NN ）_PU 基金会_NN 研究_VV 奖_NN 。_PU
+
+傅京孙_NN ：_PU 1953_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 普渡_JJ 大学_NN 教授_NN 。_PU 电气_NN 电子_NN 工程_NN 师学会_NN （_PU IEEE_NN ）_PU 会_VV 士_NN 、_PU 美国_NR 国家_NN 工程_NN 院院士_NN 、_PU 中央_JJ 研究院_NN 院士_NN ，_PU 首_CS 届_M 国际_NN 模式_NN 识別_NN 大会_AD （_PU InternationalConferencePatternRecognition_NN ，_PU 缩写_VV ICPR_NN ）_PU 主席_NN 、_PU IEEE_NN 机器_NN 智能_NN 与_P 模式_NN 识別_NN 委员_NN 会_VV 首任_AD 主席_VV ，_PU 模式_NN 识別_NN 与_P 机器_NN 智能_NN 领域_NN 的_DEG 先驱_JJ 之一_NN ，_PU 被_SB 誉为_VV 「_PU 模式_NN 识別_NN 之_DEG 父_NN 」_PU 。_PU
+
+陈谟星_NN ：_PU 1954_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 德州_NN 大学_NN 奥斯_NN 汀分校_NN 电机_NN 博士_NN 。_PU 美国_NR 电机_NN 与_CC 能源_NN 学者_VV ，_PU 国际_NN 电机_NN 电子_NN 工程_NN 师学_NN 会_VV IEEE_NN 院士_NN 。_PU 曾_AD 担任_VV 美国_NR 德州_NN 大学_NN 阿灵_NN 顿分校_NN 教授_VV 、_PU 能源_NN 中心_NN 主任_VA 。_PU 曾_AD 获得_VV 美国_NR 爱迪_NN 生学_NN 会全美_NN 最佳_JJ 电力_NN 工程_NN 教育奖_NN ，_PU 为_VC 多_CD 家_M 电厂_NN 担任_VV 顾问_NN 。_PU
+
+：1954_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 布鲁克_NN 林理_NN 工学院_NN （_PU 现纽约_JJ 大学_NN 坦登_NN 工程_NN 学院_VV ）_PU 电机_NN 硕士_NN 与_CC 博士_NN 。_PU 中央_JJ 研究院_NN 院士_NN 、_PU 美国_NR 国家_NN 工程_NN 院院士_NN 、_PU 中国_NR 科学院_NN 外籍_NN 院士_NN 。_PU 数位_NN 信号_NN 处理_NN 领域_NN 的_DEG 先驱者_NN ，_PU 曾_AD 获_VV IEEEFellow_NN 、_PU CentennialMedal_NN 、_PU MillenniumMedal_NN 、_PU FourierAwardforSignalProcessing_NN 、_PU IEEE_NN 信号_NN 处理_NN 协会_NN 和_CC 电路_NN 与_P 系统_NN 协会_VV 的_DEC 协会_NN 最_AD 高_VA 奖_DEV 。_PU 曾_AD 任_VV 贝尔_DT 实验室_NN 。_PU 现任_JJ 美国_NR 普林_NN 斯_DT 顿_M 大学_NN 电机_NN 工程_NN 系_NN 教授_NN 。_PU
+
+黄煦涛_NR ：_PU 1956_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 麻省理_NN 工学_NN 院电机_NN 系_NN 硕士_NN 、_PU 博士_NN ，_PU 美籍_NN 华裔_NN 信息_NN 学家_VV ，_PU 以_P 其_PN 对_P 图象_NN 处理_NN 、_PU 模式_NN 识別_NN 、_PU 计算机_NN 视觉_NN 、_PU 人机_NN 互动_NN 等_ETC 领域_NN 的_DEG 研究_NN 而_MSP 知名_VV 。_PU 曾_AD 任_VV 麻省理_NN 工学_NN 院助理_NN 教授_VV 、_PU 副教授_NN ，_PU 普渡_JJ 大学_NN 电机_NN 系_NN 教授_NN 、_PU 信息_NN 处理_NN 实验室_NN 主任_NN ，_PU 伊利_NN 诺伊_NN 大学_NN 厄巴纳_NN -_PU 香槟_NN 分校_NN 杰出_VV 讲座_NN 教授_VV 、_PU Beckman_NN 研究院_NN 图象_NN 实验室_NN 主任_NN 。_PU 美国_NR 国家_NN 工程_NN 院院士_NN 、_PU 中国_NN 工程_NN 院外籍_NN 院士_NN 、_PU 中国_NR 科学院_NN 外籍_NN 院士_NN 、_PU 中央_JJ 研究院_NN 院士_NN 。_PU
+
+沈元壤_NN ：_PU 1956_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美籍_NN 华裔_NN 物理_NN 学家_NN ，_PU 美国_NR 柏克_NN 莱加_VV 州_NN 大学_NN 荣休_NN 教授_VV ，_PU 曾_AD 任_VV 复旦_JJ 大学_NN 特聘_NN 教授_NN 。_PU 曾_AD 先后_AD 当选_VV 美国_NR 文理_NN 科学院_NN 院士_NN 、_PU 中央_JJ 研究院_NN 院士_NN 、_PU 美国_NR 国家_NN 科学院_NN 院士_NN 、_PU 中国_NR 科学院_NN 外籍_NN 院士_NN 。_PU 以_P 其_PN 在_P 非线性_JJ 光学_NN 领域_NN 的_DEG 研究_NN 而_MSP 知名_VV 。_PU
+
+施敏_VV ：_PU 1957_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 国立_VV 交通_NN 大学_NN 电子_NN 工程_NN 系系_NN 讲座_NN 教授_VV 、_PU 美国_NR 国家_NN 工程_NN 院院士_NN 、_PU 中央_JJ 研究院_NN 院士_NN 。_PU 1967_CD 年_M 与_P 韩裔_NN 美国_NR 人_NN 发明_VV 并_CC 实作_VV 了_AS 第一_OD 个_M 非_AD 挥发性_JJ 记忆体_NN （_PU non_NN -_PU v_CC o_CD l_M atilesemiconductormemory_NN ，_PU N_CD VSM_M ）_PU ，_PU 开启_VV 了_AS 日后_JJ 电脑_NN 的_DEG 发展_NN 。_PU 电机_NN 电子_NN 工程_NN 师学会_NN （_PU IEEE_NN ）_PU 会_VV 士_NN 、_PU 尊荣_NN 会员_VA ，_PU 全球_AD 目前_NT 仅_AD 9_OD 位_M 科学_NN 家获_NN 此_DT 殊荣_CC 。_PU
+
+蔡振水_NR ：_PU 1957_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 尔湾_NN 分校_NN 电机_NN 工程_NN 系资_NN 深_AD 教授_VV 、_PU 杰出_VV 教授_NN （_PU 1991_CD 年_M －_PU ）_PU ，_PU 中央_JJ 研究院_NN 外籍_NN 院士_NN 。_PU 曾_AD 任_VV 美国_NR 洛基_NN 飞机_NN 飞弹_VV 公司_NN 研究_NN 中心_NN 研究员_NN 、_PU 美国_NR 卡内基_NN 美隆_JJ 大学_NN 教授_NN ，_PU 获_VV IEEEFellow_NR （_PU 1982_CD ）_PU 。_PU
+
+张_CS 立纲_VV ：_PU 1957年_NT 电机_NN 系_NN 毕业_NN ，_PU 史丹福_NN 大学_NN 电机_NN 工程_NN 系_NN 博士_NN 。_PU 曾_AD 任美_DT 国麻_NN 省理_NN 工学_NN 院电机_NN 系_NN 副教授_NN ，_PU 美国_NR 国际_NN 商业_NN 机器_NN 公司_NN 研究部_NN 经理_VV 一_CD 职_M 、_PU 香港_NN 科技_NN 大学_NN 理学_NN 院院_NN 长_VA 、_PU 副校_NN 长_VA 。_PU 美国_NR 国家_NN 科学院_NN 院士_NN 、_PU 工程_NN 院院士_NN ，_PU 中华_NR 民国_NN 中央_NN 研究院_NN 第20_OD 届_M （_PU 数理_NN 科学组_NN ）_PU 院士_NN ，_PU 中国_NR 科学院_NN 外籍_NN 院士_NN 。_PU
+
+刘兆汉_NN ：_PU 1960_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 布朗_NN 大学_NN 电机_NN 博士_NN 。_PU 中央_JJ 研究院_NN 院士_NN 、_PU 国际_NN 电机_NN 电子_NN 工程_NN 师学_NN 会会士_NN （_PU IEEEFellow_NN ）_PU 、_PU 2012_NN 年_NN 获选_VV 美国_NR 国家_NN 工程_NN 院院士_NN 。_PU 曾_AD 任_VV 国立_NN 中_LC 央大学_VV 校长_NN 、_PU 中央_JJ 研究院_NN 副院_NN 长_VA 、_PU 美国_NR 伊利_NN 诺_AD 大_VA 学香_NN 槟分校_NN 电机_NN 与_CC 电脑_NN 工程_NN 学系_VV 教授_NN 。_PU
+
+孔金瓯_NN :_PU 1962_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 为_VC 孔夫子_NN 第七十四_OD 后代_LC ，_PU 电磁_NN 科学家_NN ，_PU 美国_NR 麻省理_NN 工学_NN 院教授_NN ，_PU 国际_NN 电磁_NN 科学_NN 院院_NN 长_VA ，_PU IEEEfellow_NN 和_CC 美国_NR 光学_NN 学会_NN Fellow_NR 。_PU
+
+林本坚_NN ：_PU 1963_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 俄亥_NN 俄州_NN 立大学_VV 电机_NN 工程_NN 博士_NN 。_PU 中央_JJ 研究院_NN 院士_NN 、_PU 美国_NR 国家_NN 工程_NN 院院士_NN ，_PU 国际_NN 光学_NN 工程_NN 学会_VV 院士_VV ，_PU IEEEFellow_NN ，_PU 第二_OD 届_M 工业_NN 技术_NN 研究院_NN 院士_NN 。_PU 是_VC 中央_JJ 研究院_NN 数理_NN 科学组_NN 第一_OD 位_M 非_AD 学界_VV 出身_VV 的_DEC 院士_NN ，_PU 「_PU 浸润式_JJ 光学_NN 微影_NN 技术_NN 」_PU （_PU ImmersionLithography_NN ）_PU 的_DEG 先驱_JJ 。_PU 曾任_JJ 职於_NN IBM_NN 部门_NN 经理_P 、_PU 美商_NN 领创_NN 总经理_AD 。_PU 现_NT 任台_NN 湾积体_NN 电路_NN 制造_VV 股份_NN 有_VE 限公司_JJ 研究_NN 发展_VV 副总_NN 经理_AD ，_PU 国际_NN 半导体_NN 产业_NN 协会_NN （_PU SEMI_JJ ）_PU 台湾_JJ 委员_NN 会_VV 主席_VV 。_PU
+
+胡正_NR 明_ETC ：_PU 1968_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 柏克_NN 莱加_VV 州_NN 大学_NN 教授_NN ，_PU 台积电_NN （_PU TSMC_NN ）_PU 技术_NN 长_VA 、_PU 美国_NR 国家_NN 工程_NN 院院士_NN 、_PU 中央_JJ 研究院_NN 院士_NN 。_PU FinFET_NN （_PU 鳍式_NN 场效_NN 电晶体_NN ）_PU 发明人_NN ，_PU 使_VV 半导体_NN 制程_NN 得以_VV 缩小_VV 到_VV 20_CD 奈米_NN 以下_LC 。_PU
+
+马佐_NN 平_VA ：_PU 1968_NN 年电机_NN 系_NN 毕业_NN ，_PU 耶鲁_NN 大学_NN 硕士_NN 、_PU 博士_NN 。_PU 中央_JJ 研究院_NN 数理_NN 科学_NN 组院士_NN 、_PU 美国_NR 国家_NN 工程_NN 院院士_NN 、_PU 中国_NR 科学院_NN 外籍_NN 院士_NN ，_PU 曾_AD 获_VV 美国_NR 电机_NN 电子_NN 工程_NN 师学会_NN （_PU IEEE_NN ）_PU 葛洛夫奖_NN 、_PU 潘文渊_NN 杰出_VV 研究奖_NN 、_PU 康乃_NR 狄克_NN 州科_NN 技勋章_NN （_PU ConnecticutMedalofTechnology_NR ）_PU 。_PU
+
+陈品山_NN ：_PU 1968_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 哈佛_NR 大学_NN 计算机_NN 科学_NN 和_CC 应用_JJ 数学_NN 硕士_NN 及_CC 博士_NN 。_PU 先后_AD 任教_VV 于_P 麻_NN 省理_NN 工学院_NN 、_PU 加州_NN 大学_NN 洛杉_NN 矶分校_NN 、_PU 哈佛_NN 大学_NN ，_PU 从_P 1983_CD 年_M 至今_JJ 任路_NN 易斯_AD 安那州立_VV 大学_JJ 计算机_NN 科学系_NN MurphyJ_NN ._PU Foster_NN 杰出_VV 讲座_NN 教授_NN 。_PU 曾_AD 在_P IBM_NN 、_PU Honeywell_NN 、_PU 迪吉_NN 多_VA ，_PU 以及_CC 其他_DT 政府_NN 机构_NN 从事_VV 研究_NN 和_CC 顾问_NN 。_PU 曾_AD 获_VV FellowofACM_NN ,_PU IEEE_NN ,_PU andAAAS_NN ，_PU IEEEHarryGoodeAward_NN 、_PU ACM_NN /_PU AllenNewellAward_NN 。_PU
+
+李德财_NN ：_PU 1971_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 前_NN 中央_NN 研究院_NN 资讯_NN 科学_NN 所_MSP 所长_AD 、_PU 中央_JJ 研究_NN 院院士_NN 。_PU 曾_AD 任_VV 美国_NR 西北_NN 大学_AD 电机_NN 电脑_NN 科学_NN 系教授_NN 、_PU 财团_NN 法_NN 人_NN 资讯_NN 工业_NN 策_NN 进会_VV 常务_JJ 董事_NN 、_PU 国立_NN 中_LC 兴大学_VV 校长_NN 。_PU
+
+：1973_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 国家_NN 工程_NN 学_VV 院院士_NN 、_PU 中央_JJ 研究院_NN 院士_NN 、_PU 乔治_NN 亚理_NN 工学_NN 院电机_NN 系_NN 讲座_NN 教授_VV 、_PU IEEEFellow_NN ，_PU 曾_AD 任_VV 贝尔_NN 实验室_NN 研究员_NN 。_PU
+
+李琳山_NN ：_PU 1974_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹佛_NN 大学_NN 电机_NN 硕士_NN 、_PU 博士_NN 。_PU 中央_JJ 研究院_NN 院士_NN ，_PU IEEEFellow_NN ，_PU ISCA_NN （_PU 国际_NN 语音_NN 科学_NN 学会_NN ）_PU F_CD ellow_M ，_PU 2015_CD 年_M 总统_NN 科学奖_NN 。_PU 曾_AD 任_VV 中央_NN 研究院_NN 资讯_NN 科学_NN 研究_NN 所所_AD 长_VA 、_PU IEEE_NN 电信_NN 学会_VV 亚太_AD 地_DEV 区主_NN 席_NN 、_PU 台大_JJ 电机_NN 资讯_NN 学_VV 院院_NN 长_VA 。_PU 曾开_AD 发出_VV 全球_PN 第一_OD 套_M 中文_JJ 语音_NN 辨识_NN 系统_NN 。_PU
+
+庄_CS 顺连_VV ，_PU 1976年_NT 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 麻省理_NN 工学_NN 院电机_NN 工程_NN 硕士_NN 、_PU 博士_NN 。_PU 曾_AD 获_VV FellowoftheIEEE_NN ，_PU OSA_NN ，_PU APSandJSPS_NN 。_PU 美国_NR 伊利_NN 诺_AD 大_VA 学香_NN 槟分校_NN 电机_NN 系_NN 教授_NN 。_PU 著有_VV 光子_NN 物理_NN 元件_NN 知名_VV 教科书_NN 《_PU PhysicsofPhotonicDevices_NR 》_PU 。_PU
+
+许峰_NN 雄_VA ：_PU 1980_NN 年电机_NN 系_NN 毕业_NN ，_PU 卡内基_NN 美隆_VA 大学_NN 博士_NN 。_PU 电脑_NN 科学家_NN ，_PU 参与_VV IBM_NN 深蓝_AD 计划_VV 的_DEC 研究_NN ，_PU 推出_VV 超级_NN 电脑_NN 「_PU 深蓝_VA 」_PU ，_PU 以_P 3.5_CD 比_P 2.5_CD 的_DEG 累计_NN 积分_AD 击败_VV 国际西_NN 洋棋王_NN 卡斯帕_NN 罗夫_NN ，_PU 成为_VV 首位荣_NN 获美国_NN 电脑_NN 协会葛_NN 丽_NN 斯_AD ·_PU 莫_AD 瑞_VA ·_PU 霍普奖_NN 的_DEC 亚裔科_NN 学家_VV 。_PU 现任_JJ 北京_NN 的_DEC 微软_JJ 亚洲_NN 研究院_NN 高级_JJ 研究员_NN ，_PU 担任_NN 「_PU 平台_NN 元件_NN 中心_NN 」_PU 主任_NN 一_CD 职_NN ，_PU 专_AD 思_VV 研究_NN 平行_VV 运算_NN 及_CC 人工_NN 智慧_NN 等_ETC 领域_NN 。_PU
+
+：1980_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 麻省理_NN 工学_NN 院电机_NN 工程_NN 硕士_NN 、_PU 博士_NN 。_PU 曾_AD 获_VV FellowoftheAAAS_NN ,_PU IEEE_NN ,_PU SPIE_NN 。_PU 目前_NT 为_VC 南加_VV 州_NN 大学_NN 讯号_NN 及_CC 影像_JJ 处理_NN 研究系_NN 的_DEG 系_NN 主任_NN ，_PU 同时_AD 为_VC 美国_NR 南加州_NN 大学_NN 工程院_NN ，_PU 数学院_NN ，_PU 及_CC 电脑_NN 科学院_NN 的_DEG 终身_NN 教授_NN 。_PU 致力_NN 於_P 数字_NN 媒体_NN 处理_NN 、_PU 多媒体_NN 压缩_NN 、_PU 通讯_NN 网络_NN 技术_NN 及_CC 嵌入式_JJ 多媒体_NN 系统_NN 设计_NN 等_ETC 研究_NN 领域_NN ，_PU 为_VC 多媒体_NN 领域_NN 中_LC 最为_AD 多产_VV 的_DEC 研究学者_NN 之_DEG 一_NN ，_PU 亦_AD 是_VC 国际_NN 著名_VA 的_DEC 科技_NN 领航者_NN 。_PU
+
+孟怀萦_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 柏克_NN 莱分校_NN 电机_NN 电脑_NN 系_NN 硕士_NN 及_CC 博士_NN ，_PU 美国_NR 国家_NN 工程_NN 学_VV 院院士_NN 、_PU 中央_JJ 研究院_NN 院士_NN 、_PU 史丹佛_NN 大学_NN 电机_NN 系_NN 讲座_NN 教授_VV 、_PU IEEEFellow_NN 、_PU Atheros_NN 通讯_NN 公司_NN 创办人_NN 。_PU
+
+：1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 柏克_NN 莱分校_NN 电脑_NN 科学_NN 博士_NN 。_PU 美国_NR 伊利_NN 诺_AD 大_VA 学香_NN 槟分校_NN 电机_NN 工程_NN 学系_VV 教授_NN 。_PU 研究_NN 领域_NN 为_VC 计算机_NN 结构_NN (_PU computerarchitecture)_PU 及_CC 程式_NN 编译器_NN (_PU compiler)_NN 等_ETC 。_PU 同时_AD 为_VC IEEEFellow_NN (_PU 国际_NN 电机_NN 电子_NN 工程_NN 师学_NN 会院士_NN )_PU 及_CC ACMFellow_NN (_PU 美国_NR 计算机_NN 协会_NN 院士_VV )_PU 外_LC ，_PU 亦_AD 获颁_VV AMD_NN （_PU 超微_VV ）_PU 创始_VV 人_NN JerrySanders_NN 讲座_NN 教授_NN (_PU AMDJerrySandersChairofElectricalandComputerEngineering_NN )_PU 等_ETC 殊荣_AD ，_PU 为_P 学术界_NN 及_CC 产业界_NN 公认_VV 的_DEC 领袖_NN 级学者_NN 。_PU
+
+：1985_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 柏克_NN 莱分校_NN 电机_NN 电脑_NN 系_NN 硕士_NN 及_CC 博士_NN ，_PU 计算机_NN 科学家_NN 和_CC 电子_NN 工程师_NN ，_PU 曾_AD 获_VV FellowoftheAAAS_NN ,_PU IEEE_NN 、_PU 并_CC 於_P 2017_CD 年_M 入选_VV ACMFellow_NN 。_PU 专长_JJ 多媒体_NN 讯息_NN 检索_NN ，_PU 计算机_NN 视觉_NN ，_PU 机器_NN 学习_NN 和_CC 信号_NN 处理_NN 。_PU 美国_NR 哥伦_NN 比_P 亚_NN 大学_NN 工程_NN 与_CC 应用_NN 科学_NN 学院_NN 副院_NN 长_VA 、_PU 理查_VV 德迪克_NN 教授_VV ，_PU 於_P 2013_CD 年_M 至_CC 2017_CD 年_M 担任_VV ACMSpecialInterestGroupofMultimedia_NN （_PU SIGMM_NR ）_PU 主席_NN 。_PU 他_PN 於_P 2016_CD 年_M 被_SB Aminer_NR 列为_VV 多媒体_NN 领域_NN 最具_JJ 影响力_NN 的_DEC 学者_NN 。_PU
+
+洪小_NR 文_NN ：_PU 1985_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 卡内基_NN 美隆_JJ 大学_NN 博士_NN 。_PU 资讯_NN 科学家_NN ，_PU 电机_NN 电子_NN 工程_NN 师学_NN 会会士_NN （_PU IEEEFellow_NN ）_PU ，_PU 曾任_JJ 苹果_NN 电脑_NN APP_NN -_PU ISS_NN 部门_NN 技术_NN 总监_NN 、_PU 微软_JJ 语音_NN 产品_NN 部门_NN 首席_AD 技术_NN 架构_NN 师_NN ，_PU 现任_JJ 微软_JJ 亚洲_NN 研究_NN 院院_NN 长_VA 、_PU 微软亚_NN 太_AD 研发_VV 集团_NN 主席_AD 、_PU 微软公_NN 司资_NN 深副_VA 总裁_VA 。_PU
+
+许云基_NN ：_PU 1947_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 原子_NN 核物_NN 理学家_NN ，_PU 与_P 戴运轨_NN 和_CC 太田_NN 赖_VV 常等_JJ 人_NN 一同于_VV 台大_AD 重建_VV 荒_CD 胜文_NN 策团队_NN 当年_AD 在_P 台大_NR 制作_NN 、_PU 曾_AD 完成_VV 世界_NN 第二_OD 次_M 人工_NN 撞击_VV 原子核_NN 实验_VV 的_DEC ，_PU 并_CC 成_VV 功於_NN 1948_CD 年_M 完成_VV 了_AS 中华民_NN 国暨战_NN 后_LC 全_P 亚洲_NN 首次_AD 人工_NN 撞击_VV 原子核_NN 实验_NN 。_PU 1962_CD 年成_VV 为_VC 台大_NR 物理_NN 系_NN 的_DEG 系_NN 主任_NN 。_PU
+
+邓启福_NN ：_PU 1956_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 曾_AD 任_VV 国立_NN 交通_NN 大学_NN 校长_NN 。_PU 美国_NR 密西根_NN 大学_NN 博士_NN ，_PU 1966_CD 年_M 曾_AD 於_P 贝尔_NN 实验室_NN 进行_VV 微波_NN 领域_NN 研究_NN 。_PU
+
+郭南宏_NN ：_PU 1958_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 曾_AD 任_VV 国立_NN 交通_NN 大学_NN 校长_NN 、_PU 国立_VV 高_JJ 雄工_NN 专_AD 校长_VA 、_PU 长庚_NN 大学_AD 校长_NN 、_PU 交通_NN 部部_NN 长_VA 及_CC 行政院_NN 国家_NN 科学_NN 委员_NN 会_VV 主任_JJ 委员_NN 等_ETC 职_NN 。_PU 美国_NR 西北_NN 大学_NN 电机_NN 工程_NN 所_MSP 博士_VV 。_PU
+
+刘兆汉_NN ：_PU 1960_CD 年_M 电机_NN 系_NN 毕业_NN ）_PU 前_JJ 国立_NN 中_LC 央大学_VV 校长_NN ，_PU 中央_JJ 研究院_NN 副院_NN 长_VA 。_PU 1965_NN 年_VC 美国_NR 布朗_NN 大学_CD 电机_NN 博士_NN 。_PU 曾_AD 执教_VV 于_P 美国_NR 伊利_NN 诺_AD 大学_AD 电机_NN 系_NN 。_PU
+
+李家_NN 同_NN ：_PU 1961_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 前国_NR 立暨_NR 南大_NR 学校_NN 长_VA ，_PU 知名_NN 作家_VA ，_PU 柏克_NN 莱加_VV 州_NN 大学_NN 电机_NN 及_CC 计算机_NN 系_NN 博士_NN 。_PU
+
+游本_NN 中_LC ：_PU 1972_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 伊利_NN 诺_AD 大_VA 学香_NN 槟分校_NN 资讯_NN 工程_NN 博士_NN 。_PU 中央_JJ 研究院_NN 资讯_NN 科学_NN 研究_NN 所_MSP 特_AD 聘_VV 研究员_NN 兼_CC 任所_AD 长_VA 。_PU 曾_AD 任_VV 美国_NR 明尼苏_NR 达_VV 大学_AD 双_CD 城分校_NN 资讯_NN 工程_NN 学系_VV 教授_NN 及_CC 系_NN 主任_NN 。_PU
+
+李嗣涔_NN ：_PU 1974_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹福_NN 大学_NN 电机_NN 硕士_NN 及_CC 博士_NN 。_PU 前国_NR 立台湾_NN 大学_NN 校长_NN 。_PU 国际_NN 电机_NN 电子_NN 工程_NN 师学_NN 会会士_NN （_PU IEEEFellow_NN ）_PU 。_PU
+
+许炳坚_NN ：_PU 1978_CD 年_M 电机_NN 系第_NN 1_CD 名_M 、_PU 七_OD 次_M 书卷奖_NN 毕业_NN ，_PU 美国_NR 加州_NN 柏克_NN 莱_NN 大学_NN 电机_NN 硕士_NN 及_CC 博士_NN 。_PU 曾_AD 任教_VV 于_P 美国_NR 南加州_NN 大学_NN 电机_NN 系_NN ，_PU 并_CC 担任_VV 电物_NN 芯片_NN 研究_VV 所_MSP 副_VV 主任_NN 、_PU 主任_NN ，_PU 超大型_JJ 积体_NN 电路_NN (_PU VLSI_NN )_PU 信号_NN 处理_NN 实验室_NN 主任_NN 。_PU 曾_AD 任_VV 国际_NN 电机_NN 电子_NN 工程_NN 师学会_NN 电路_NN 与_P 系统_NN 学术_VV 会_VV 资深总_NN 裁_VA ，_PU IEEE_NN 超大型_JJ 积体_NN 电路_NN 系统_NN 期刊_NN 总编辑_NN ，_PU 国立_VV 台湾_JJ 大学_NN 电机_NN 工程_NN 研究_VV 所_MSP 荣_VV 誉顾问_NN ，_PU 国立_NN 交通_NN 大学_NN 荣誉_NN 讲座_NN 教授_VV ，_PU 国立_VV 交通_NN 大学_NN (_PU 院长级_NN )_PU 校务_NN 策略_AD 顾问_VV ，_PU 中研_JJ 院资讯_NN 所_MSP 客_VV 座教授_NN ，_PU 跨国_NR 公司_NN 新_VV 思_VV 科技_NN （_PU Synopsys_NN ）_PU 研发_VV 处长_VV ，_PU 台湾_VV 积体_NN 电路_NN 制造_VV 公司_NN (_PU TSMC_NN )_PU 设计_VV 暨_P 技术_NN 平台_NN 专案_AD 处长_VV 。_PU 1996_CD 年_M 国际_NN 电机_NN 电子_NN 工程_NN 师学_NN 会会士_NN （_PU IEEEFellow_NN ）_PU 。_PU
+
+张瑞雄_NN ：_PU 1980_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 现任_JJ 国_NN 立台_NN 北商业_NN 大学_NN 校长_NN 。_PU
+
+吴诚文_NN ：_PU 1981_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 加州_NN 大学_NN 圣塔_NN 芭_NN 芭_AD 拉_VV 分校_NN 电机_NN 电脑_NN 博士_NN 。_PU 1971_CD 年_M 巨人_NN 队_NN 少_AD 棒_JJ 国手_NN ，_PU 赢得_VV 威廉波_NN 特世界_NN 少_AD 棒_VA 赛冠军_NN 。_PU 留美返_VV 国任_NN 教于_VV 清华_NN 大学_NN 电机_NN 系_NN ，_PU 曾_AD 兼_P 电机_NN 系_NN 主任_NN 、_PU 电机_NN 资讯_NN 学_VV 院院_NN 长_VA 、_PU 清华_NN 大学_AD 副校_NN 长_VA 。_PU 曾_AD 获_VV IEEEFellow_NN 、_PU 电机_NN 电子_NN 工程_NN 师学_NN 会电机_NN 工程_NN 奖章_NN
+
+陈光祯_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 马里_NN 兰大_AD 学_VV 电机_NN 工程_NN 硕士_NN 、_PU 博士_NN 。_PU 集耀_NN 通讯_NN 创办人_NN 暨_CC 总经理_AD 、_PU 台湾_NN 大学_NN 电机_NN 系_NN 暨_CC 电信_NN 工程_NN 所_MSP 教授_VV 。_PU
+
+张正尚_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 哥伦_NN 比_P 亚_NOI 大学_CD 博士_NN 。_PU 清华_NN 大学_NN 特聘_NN 讲座_NN 教授_NN （_PU IEEEfellow_NN ）_PU 。_PU
+
+郑光廷_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 圣塔_NN 芭_NN 芭_AD 拉_VV 分校_NN 电机_NN 工程学_NN 系教授_NN ，_PU 曾_AD 任_VV 系_NN 主任_NN （_PU IEEEfellow_NN ）_PU 。_PU
+
+吴明强_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 柏克_NN 莱分校_NN 电机_NN 工程学_NN 系教授_NN ，_PU 传感_NN 与_P 制动器_NN 中心_NN 主任_NN （_PU IEEEfellow_NN ）_PU 。_PU
+
+刘国瑞_NR ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 马里_NN 兰大_AD 学_VV 电机_NN 工程_NN 学系_VV 教授_NN （_PU IEEEfellow_NN ）_PU 。_PU
+
+林清富_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 康乃尔_NN 大学_NN 硕士_NN 、_PU 博士_NN 。_PU 曾_AD 任_VV 国立_NN 台湾_NR 大学_NN 光电_NN 所_MSP 所长_AD （_PU IEEE_NN &_NN S_OD P_M IEfellow_NN ）_PU 。_PU
+
+苏顺_NN 丰_VA ：_PU 1983_NN 年电机_NN 系_NN 毕业_NN ，_PU 美国_NR 普渡_JJ 大学_NN 电机_NN 硕士_NN 、_PU 博士_NN ，_PU 现任_JJ 台湾_NN 科技_NN 大学_NN 电机_NN 工程_NN 系_NN 教授_NN （_PU IEEE_NN &_NN IETfellow_NN ）_PU 。_PU
+
+张耀文_NN ：_PU 1988_CD 年资_NN 讯系_NN 毕业_NN ，_PU 美国_NR 德州_NN 大学_NN 奥斯_NN 汀分校_NN 资讯_NN 硕士_NN 、_PU 博士_NN ，_PU 现任_JJ 国立_NN 台湾_NR 大学_NN 电机_NN 工程_NN 学系_VV 特_AD 聘_VV 教授_NN 兼_CC 电机_NN 资讯_NN 学_VV 院院_NN 长_VA ,_PU 曾_AD 任_VV 台湾_NN 大学_NN 副教_NN 务长_VV 、_PU 电机_NN 资讯_NN 学_VV 院副_NN 院长_NN 、_PU 电子_NN 所_MSP 所长_AD ,_PU 首位_NN 非_AD 欧美_VA 的_DEC IEEECEDA_NN (_PU 电子_NN 设计_NN 自动_AD 化)学_VV 会候_NN 任_VV 总裁_NN 和_CC 策略_JJ 委员_NN 会_VV 主席_JJ ,_PU 曾任_JJ IEEECEDA_NN 会议_NN 副总裁_NN 和_CC 技术_NN 活动_JJ 副总裁_NN （_PU IEEEfellow_NN ）_PU ,_PU 至_CC 达_VV 科技_NN (_PU MAXEDA_NN )_PU 共同_JJ 创办人_NN 。_PU
+
+洪士灏_NN ：_PU 1989_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 密西根_NN 大学_NN 电脑_NN 科学_NN 及_CC 工程_NN 学_VV 硕士_NN 、_PU 博士_NN 。_PU 曾_AD 任_VV 美国_NR 升阳_NN 电脑_NN 公司_NN ，_PU 专长_AD 计算机_NN 架构_NN 与_CC 平行_JJ 处理_NN 、_PU 计算机_NN 效能_NN 评估_VV 与_CC 最_AD 优化_VV 、_PU 电子_NN 商务_NN 系统_NN 及_CC 云端_NN 运算_NN 、_PU 嵌入式_NN 系统_NN 设计_NN 、_PU 网路_NN 资讯_NN 安全_NN 。_PU 现任_JJ 国立_NN 台湾_NR 大学_NN 资讯_NN 工程_NN 系_NN 暨_CC 网路_NN 及_CC 多媒体_NN 研究_VV 所_MSP 副_VV 教授_NN 。_PU
+
+陆永祥_NN ：_PU 1992_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹佛_NN 大学_NN 电机_NN 博士_NN 。_PU 现任_JJ 美国_NN 普度_NN 大学_NN 电机_NN 计算机_NN 工程_NN 学_VV 教授_NN ，_PU IEEE_NN 多媒体_NN 通信_NN 技术_NN 委员会_NN 系统_NN 组主席_NN 。_PU Perceive_NN ,_PU Inc_NN ._PU 共同_JJ 创办人_NN 。_PU
+
+林守德_NN ：_PU 1996_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 南加州_NN 大学_NN 资讯_NN 科学_NN 博士_NN 。_PU 国立_JJ 台湾_NN 大学_NN 资讯_NN 工程_NN 学系_AD 教授_VV ，_PU 专_AD 长机器_NN 学习_VV 、_PU 资料_NN 探勘_NN 和_CC 资讯_NN 理论_NN 。_PU
+
+叶_CS 丙成_VV ：_PU 1998_CD 年电_NN 信所_NN 毕业_NN ，_PU 美国_NR 密西根_NN 大学_NN 博士_NN 。_PU 台大_NR 电机_NN 系_NN 教授_NN 、_PU 台大_NR MOOC_NN 计画_NN 执行_VV 长_VA ，_PU 积极_AD 投入_VV 「_PU 翻转_VV 教学_NN 」_PU ，_PU 提倡_NN 创新_VV 教育_NN 方式_NN 。_PU BoniOInc_NN ._PU 共同_JJ 创办人_NN ，_PU PagamoTaiwan_NN 创办人_NN 。_PU
+
+林轩田_NN ：_PU 2001_CD 年资_NN 工系_NN 毕业_NN ，_PU 美国_NR 加州理_NN 工学_NN 院电脑_NN 科学_NN 博士_NN 。_PU 专_AD 长机器_NN 学习_VV 、_PU 资料_NN 探勘_NN 和_CC 资讯_NN 理论_VV 。_PU 著有_VV 《_PU LearningfromData_NN :_PU AShortCourse_NN 》_PU 。_PU 现任_JJ 台湾_NN 大学_NN 资讯_NN 工程_NN 学系_VV 副教授_NN 、_PU Appier_NN 沛星_NN 公司_NN 首席_AD 资料_NN 科学家_NN 。_PU
+
+李宏毅_NN ：_PU 2008_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 国立_VV 台湾_JJ 大学_NN 电信_NN 工程_NN 博士_NN 。_PU 曾_AD 任_VV 中央_NN 研究院_NN 资讯_NN 科技_NN 创新_VV 研究_NN 中心_NN 博士_VV 后_JJ 研究_NN ，_PU 美国_NR 麻省理_NN 工学院_NN ComputerScienceandArtificialIntelligenceLaboratory_NN (_PU CSAIL_NN )_PU 访问_NN 科学家_NN 。_PU 现任_JJ 国立_NN 台湾_NR 大学_NN 电机_NN 工程_NN 学系_VV 助理_NN 教授_NN ，_PU 专_AD 长机器_NN 学习_VV 、_PU 深度_NN 学习_VV 、_PU 语音_NN 辨识_NN 、_PU 语意_NN 理解_VV 。_PU 。_PU
+
+张_NN 系国_NR ：_PU 1965_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 柏克_NN 莱大学_AD 硕士_NN 及_CC 博士_NN 。_PU 著名_NR 中文_NR 科幻_NN 小说_NN 作家_VV ，_PU 代表_VV 作有_VV 《_PU 皮牧_NN 师正_NN 传_NN 》_PU 、_PU 《_PU 棋王_NN 》_PU 、_PU 《_PU 昨日_NN 之_DEG 怒_NN 》_PU 、_PU 《_PU 星云_NN 组曲_NN 》_PU 、_PU 《_PU 夜曲_NN 》_PU 等_ETC 。_PU 现任_JJ 美国_NR 匹兹堡_NN 大学_NN 电脑_NN 科学_NN 系教授_NN 。_PU
+
+郭坤仁_NN ：_PU 1974_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 笔名_NN 凌耿_NN 。_PU 文化大_NN 革命_VV 时_LC 就_AD 读于_VV 厦门_NN 第八_OD 中学_NN ，_PU 成为_VV 红_JJ 卫兵_NN 。_PU 1968年_NT 7月_NT 19日_NT 与_P 兄长_JJ 郭坤_NN 中_LC 从_P 厦门_NN 游到_VV 金门_NN 大_JJ 胆岛_NN ，_PU 成为_VV 当时_NT 最_AD 年轻_VA 的_DEC 反共_JJ 义士_NN 。_PU 台大_NR 毕业_NN 后_LC 攻读_VV 辛辛_NN 那_DT 堤_NN 大学_NN 电脑_NN 工程_NN 学_VV 博士_NN 。_PU 曾_AD 担任_VV 升_VV 阳远东_NN 事务_NN 副总裁_NN 、_PU 开办_VV 服务器_NN 公司_NN ，_PU 现_AD 退休_VV 居住_VV 於_P 美国_NR 加州_NN 硅谷_NN 。_PU 著作_VV 文_NN 革纪_NN 实长_AD 篇英文_NN 小说_NN 《_PU 天雠──_JJ 一_CD 个_M 中国_JJ 青年_NN 的_DEC 自述_NN 》_PU 。_PU 2016_NN 年重_JJ 新将_JJ 把书_NN 以_P 中文_NN 出版_VV ，_PU 并_CC 更_AD 名为_VV 《_PU 从前_NT 从前_NT 有_VE 个_M 红_JJ 卫兵_NN 》_PU 。_PU
+
+叶李华_NN ：_PU 1984_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 加州_NN 大学_NN 柏克_NN 莱分校_NN 理论_NN 物理_NN 博士_NN 。_PU 科幻_NN 作家_VV ，_PU 曾_AD 获_VV 中国_NR 时报_NN 张_NN 系_VC 国科幻_NN 小_JJ 说奖_NN 首_VV 奖_NN 、_PU 吴大_NR 猷科_NN 学普_NN 及著_AD 作_VV 奖银籤_NN 奖_NN 。_PU 曾_AD 任_VV 交通_NN 大学_NN 科幻_NN 研究_NN 中心_NN 主任_AD ，_PU 并_CC 任教_VV 于_P 台湾_NN 大学_CD 、_PU 国立台_NN 湾师_NN 范大学_NN 、_PU 清华_NN 大学_AD 与_P 政治_NN 大学_VA 。_PU
+
+王建闵_NN ：_PU 2002_CD 年资_NN 工系_NN 毕业_NN ，_PU 笔名_NN 宠物_NN 先生_VA ，_PU 推理_NN 小说_NN 作家_NN 及_CC 评论家_NN 。_PU 曾_AD 获得_VV 第一_OD 届_M 岛田_NN 庄司_NN 推理_NN 小_JJ 说奖_NN 首_VV 奖_NN 。_PU
+
+林文仁_NN ：_PU 1953_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 曾_AD 任_VV 台湾_NN 日光灯_NN 公司_NN 董事_NN 长_VA 。_PU 退休_VV 后_LC ，_PU 创办_VV 袖珍博_NN 物馆_NN 。_PU
+
+杜俊元_NN ：_PU 1960_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 曾_AD 任_VV 美国_NR IBM_NN 华_AD 生_VV 半导体_NN 实验室_NN 。_PU 华泰_NN 电子_NN 共同_AD 创办_VV 人_NN 暨_CC 董事_NN 长_VA 、_PU 硅统科_NN 技股_NN 份有_VV 限公_JJ 司创_JJ 办人_NN 。_PU
+
+胡定华_NN ：_PU 1963_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 密苏_NN 里_LC 大学_NN 电机_NN 工程_NN 博士_NN ，_PU 旺_AD 宏科_NN 技董_NN 事长_NN 。_PU 曾_AD 任工_DT 研院_NN 副院_NN 长_VA 、_PU 美国_NR Ｈ＆Ｑ_NN 投资_NN 的_DEC 汉鼎_NN 创业_NN 投资_NN 总经理_AD ，_PU 曾_AD 任全_DT 智科_NN 技公_NN 司董_NN 事长_NN 、_PU 冠华_NR 科技_NN 公司_NN 董事_NN 长_VA 、_PU 美国_NN AetasTechnologyInc_NN ._PU 董事_NN 长_VA 、_PU 智威科_NN 技公司_NN 董事_NN 长_VA 、_PU 建邦_NN 顾问_NN 公司_NN 董事_NN 长_VA 、_PU 合勤_VA 科技_NR 公司_NN 董事_NN 长_VA 、_PU 美商_NN 汉鼎_NR 公司_NN 总经理_AD ，_PU 推动_VV 建立_VV 台湾_NR 第一_OD 家民_NN 营积体_NN 电路_NN 公司_NN ，_PU 联华_NN 电子_NN 公司_NN （_PU UMC_NN ）_PU 。_PU
+
+洪敏弘_NR ：_PU 1964_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 密西_NR 根州_NN 立大学_VV 电机_NN 工程_NN 硕士_NN 与_CC 博士_NN 。_PU 现任_JJ 台湾松_NN 下电器_NN 公司_NN 董事_NN 长_VA ，_PU 建弘_NN 集团_NN 总裁_NN 。_PU 曾_AD 任台_NN 大电机_NN 系_NN 客座_NN 副_VA 教授_VV 。_PU
+
+陈世卿_NN ：_PU 1966_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 伊利_NN 诺_NN 大学_NN 电机_NN 博士_NN 。_PU 与_P 美国_NR 高速_JJ 电脑_NN （_PU SuperComputer_NR ）_PU 奇才_NR ，_PU 共同_AD 设计_VV 出_VV 人_NN 类史_NN 上_LC 最_AD 快速_VA 的_DEC 电脑_NN 。_PU 1987_CD 年_M 秋创_JJ 办SSI_NN （_PU ）_PU 公司_NN 。_PU 1991_CD 年_M 美国_JJ 国家_NN 工程_NN 院院士_NN 。_PU
+
+刘兆凯_NN ：_PU 1967_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 伊利_NN 诺_AD 大_VA 学香_NN 槟分校_NN 电机_NN 工程_NN 博士_NN 。_PU 现任_JJ 东元_NN 电机_NN 董事_NN 长_VA 。_PU 为_VC 中央_JJ 研究院_NN 副院_NN 长刘_NR 兆汉_NN 及_CC 前任_JJ 行政_NN 院院_NN 长刘_AD 兆玄_VV 的_DEC 弟弟_NN 。_PU 年轻_VV 时_LC 曾_AD 与_P 哥哥兆_NN 藜_NN 、_PU 兆玄_NN 以_P 共用_JJ 笔名_NN 「_PU 上官鼎_NN 」_PU 从_P 事武侠_NN 小说_VV 的_DEC 写作_NN 。_PU
+
+蒋尚义_NN ：_PU 1968_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 普林_NN 斯_DT 顿_M 大学_NN 电机_NN 硕士_NN 与_CC 美国史_NN 丹福_NN 大学_NN 电机_NN 博士_NN 。_PU 曾_AD 任_VV ITT_NN 公司_NN 、_PU 美商德_NN 州仪器_NN 公司_NN 、_PU 美商_NN 惠普_NN 公司_NN 等_ETC 半导体_NN 公司_NN ，_PU 返台_NN 后_LC 曾_AD 任_VV 台积_NN 公司_NN 研究_VV 发展_NN 资深_NN 副总_NN 经理_VA 、_PU 执行_VV 副总_NN 经理_AD 暨_CC 共同_JJ 营运_NN 长_NN 等_ETC 职_NN 。_PU 曾_AD 获_VV 美国_NR 商业_NN 周刊_NN 杂志_NN （_PU BusinessWeek_NN ）_PU 遴选_VV 为_VC 2001年_NN 「_PU 亚洲_NN 之_DEC 星_NN 」_PU （_PU StarsofAsia_NN ）_PU 最_AD 重要_VA 的_DEC 五十_OD 位_M 创新者_NN 之_DEG 一，2002_CD 年_M 获选_VV 国际_NN 电机_NN 电子_NN 工程_NN 师学会_NN （_PU IEEE_NN ）_PU F_CD ellow_M
+
+史钦泰_NN ：_PU 1968_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹福_NN 大学_NN 管理_NN 科学_NN 硕士_NN 及_CC 普林_NN 斯_DT 顿_M 大学_NN 电机_NN 博士_NN 。_PU 曾_AD 任_VV 美国_NR 公司_NN 资深_NN 工程师_NN 、_PU 工研_NN 院院_NN 长_VA 、_PU 行政_NN 院科_NN 技顾问_NN 、_PU 台湾_NN 半导体_NN 协会_NN 会长_VV 、_PU 中国_JJ 电机_NN 工程_NN 学会_VV 会长_VV 等_ETC 职务_NN 。_PU
+
+曹兴诚_NN ：_PU 1969_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 联华_NN 电子_NN 前董_NN 事长_NN ，_PU 曾_AD 任工_DT 研院_NN 电子_NN 所_MSP 副所长_AD ，_PU 与_P 台积电_NN 的_DEG 董事_NN 长张_AD 忠谋_VV 被_SB 称为_VV 台湾_NN 半导体_NN 双_CD 雄_VA
+
+段行建_NN ：_PU 1969_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹福_NN 大学_NN 电机_NN 博士_NN ，_PU 群创_NN 光电_NN 董事_NN 长_VA 暨_CC 执行_VV 长_VA
+
+林百_OD 里_LC ：_PU 1970_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 广达_AD 电脑_NN 董事_NN 长_VA 。_PU 研究_NN 所_MSP 时_VV 与_P 同_PN 学_VV 温世仁_NN 共同_AD 设计_VV 出_VV 台湾_NN 第一_OD 部_M 电脑_NN ，_PU 1988_CD 年_M 与_P 梁次_NN 震_NN 等_ETC 人创_NN 办广_VV 达_VV 电脑_NN 。_PU
+
+温世仁_NN ：_PU 1970_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 已故_AD 英_VV 业_NN 达_VV 集团_NN 副_JJ 董事_NN 长_VA 。_PU 历任_AD 三_CD 爱_VV 电子_NN 厂长_NN 、_PU 金宝_NN 电子_NN 总经_NN 理_NN ，_PU 曾_AD 获_VV 中国_NR 青年_NN 救_VV 国团_NN 青年_NN 奖章_NN 。_PU 2003_CD 年_M 创作_VV 长篇_NN 武侠_VV 小说_NN 《_PU 秦_NN 时_LC 明月_NN 》_PU 。_PU
+
+高民环_NN ：_PU 1971_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 田纳西_NN 大学_NN 电机_NN 硕士_NN 及_CC 博士_NN 。_PU 台湾国_NN 际航_NN 电公司_NN （_PU G_CD armin_M ）_PU 创办人_NN 及_CC 董事_NN 长_VA ，_PU 全球_AD GPS_NR 霸主_NN ，_PU 2007_CD 及_CC 2008_CD 连续_VV 两_CD 年_M PND_NN 全球_JJ 销量_NN 第一_OD ，_PU 於_P 2008_CD 年登_NN 上_LC 《_PU 富_AD 比_P 世_NN 》_PU 全_DT 美_NN 前_LC 400_CD 大富豪_AD 排行_VV 榜_NN 。_PU
+
+李森田_NN ：_PU 1971_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 创办_VV 华宇_NN 集团_NN ，_PU 由_P 研发_NN 及_CC 生产_NN 制造膝_NN 上_LC 型_NN 电脑_NN 产品_NN 之_DEG 创始_JJ 公司_NN ，_PU 2001_CD 年_M 名列_NN 《_PU 商业_NN 周刊_NN 》_PU 百_CD 大_JJ 科技_NN 富豪_AD 排行_VV 榜第_NN 十六_CD 名_M 。_PU 2004_CD 年捐_NN 赠台_NN 大_JJ 资讯_NN 工程_NN 学系_JJ 新建_JJ 大楼_NN 「_PU 德_NN 田馆_NN 」_PU 。_PU
+
+蔡明介_NN ：_PU 1971_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 辛辛_NN 纳提_VV 大学_NN 硕士_NN 。_PU 联发_VV 科技_NN 公司_NN 董事_NN 长_VA 。_PU 曾任_NN 工业_NN 技术_NN 研究院_NN 电子_NN 所_MSP 研发_VV 经理_P 、_PU 联华_NN 电子_NN 第二_OD 事业群_NN 总经_AD 理_VV 。_PU
+
+吴聪庆_NN ：_PU 1973_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 宾州_NN 大学_NN 电机_NN 工程_NN 学系_VV 博士_NN ，_PU 爱特_VV 美尔_NR 公司_NN （_PU Atmel_NN ）_PU 共同_JJ 创办人_NN ，_PU 董事_NN ，_PU 资深_VV 副总裁_NN
+
+施崇棠_NR ：_PU 1974_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 华硕_NN 电脑_NN 董事_NN 长_VA 。_PU
+
+李焜耀_NN ：_PU 1974_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 明基友_NN 达_VV 集团_NN 董事_NN 长_VA ，_PU 2002_NN 年自_VV 创_VV BenQ_NN 品牌_NN 。_PU
+
+卢超群_NN ：_PU 1975_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 大学_NN 全_AD 系_VC 第一_OD 名_M 毕业_NN ，_PU 美国_NR 史丹佛_NN 大学_NN 电机_NN 硕士_NN 、_PU 博士_NN 。_PU 钰创科_NN 技创_NN 办人_NN 暨_CC 董事_NN 长_VA ，_PU 研发_VV 全_DT 世界_NN 最_AD 快_VA 的_DEC DRAM_NN 及_CC SOC_NN 技术_NN 。_PU 曾_AD 任_VV 美国_NR IBM_NN 公司_NN 研究_NN 中心_NN 经理_VV 、_PU 美国_NR IBM_NN 公司_NN 科技_NN 产品_NN 总部_NN 经理_VV 。_PU 当选_VV 美国_NR 国家_NN 工程_NN 学_VV 院院士_NN （_PU 1999_CD ）_PU 及_CC IEEEFellow_NN ，_PU 并_CC 获得_VV 中华民_NN 国行政_NN 院科_NN 技杰_NN 出荣_NN 誉奖_NN 以及_CC IEEEsolid_NN -_PU statecircuitsaward_NN （_PU 1998_CD ）_PU 。_PU
+
+刘德_NR 音_ETC ：_PU 1976_NN 年电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 柏克_NN 莱分校_NN 电机_NN 暨_CC 电脑_NN 资讯_NN 硕士_NN 及_CC 博士_NN 。_PU 台积_NN 电总_NN 经理_NN 暨_CC 共同_AD 执行_VV 长_VA 。_PU 曾_AD 任职_NN 於_P 美国_NR 纽泽西_NN 州_NN AT_NN &_NN T_NN 贝尔_NN 实验室_NN 高速_JJ 电子_NN 研究_NN 实验室_NN 研究_NN 经理_VV 、_PU 英特_AD 尔制_VV 程集_NN 成_VV 经理_NN 。_PU
+
+汤宇方_NN ：_PU 1977_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 伊利_NN 诺_AD 大学_AD 博士_NN ，_PU 曾_AD 任_VV IBM_NN 、_PU DEC_NN 等_ETC 电脑_NN 公司_NN ，_PU 民生_VV 科技_NN 共同_AD 创办_VV 人_NN 。_PU
+
+林榗栓_NR ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 发明_NN 倚天_NN 中_LC 文_NN 输入法_NN 与_CC 倚天_NN 中文_NN 系统_NN ，_PU 倚_CD 天_M 资讯_NN 创办人_NN 暨_CC 前_JJ 董事_NN 长_VA ，_PU 四十_CD 岁_M 前_LC 决定_AD 退休_VV ，_PU 隐居_VV 美国_JJ 硅谷_NN 。_PU
+
+吴春发_NR ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 液晶_NN 显示器_NN 北美_NN 销售量_NN 第一_OD 大_JJ 厂瑞_NN 轩科_NN 技创_NN 办人_NN 。_PU
+
+李慈雄_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹福_NN 大学_NN 博士_NN ，_PU 斯_DT 米克_NN 集团_NN 总裁_VA 、_PU 上海_NN 斯_DT 米克_NN 建筑_VV 陶瓷_NN 股份_NN 有限_VA 公司_NN 董事_NN 长_VA 。_PU
+
+王永耀_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU CMOSIC_NN 设计_NN 供应_VV 大厂_CD 十_CD 速_M 科技_NN 创办人_NN 、_PU 总_JJ 经理_NN 。_PU
+
+廖敏雄_NR ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 华硕_NN 共同_AD 创办_VV 人_NN 。_PU
+
+郭_NN 阁_NN 时_LC ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 钰纬_NN 公司_NN 创办人_NN 。_PU
+
+陈孟松_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 纽约_NR 视讯_NN 软体_NN 公司_NN InfoValue_NN 创办人_NN 。_PU
+
+周宏泰_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 投创_NN 公司_NN IncubeNet_NN 创办人_NN 暨_CC 执行_VV 长_VA 。_PU
+
+许伟展_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 伊利_NN 诺_NN 大学_NN 物理_NN 博士_NN 。_PU 曾_AD 任美_DT 国德_NN 州仪器_NN 、_PU 贝尔_NN 实验室_NN 、_PU S3_NN 等_ETC 公司_NN 。_PU 在_P S3_NN 时_LC 是_VC 发展_NN 系列_NN 产品_NN 的_DEG 主要_JJ 成员_NN 之一_LC 。_PU ICEnsemble_NN 公司_NN 创办人_NN ，_PU 开发_VV 音效_NN 芯片_NN Envy_NN 24_CD ，_PU 2000_CD 年_M 将_BA 公司_NN 出售_VV 予威_NN 盛_VA 。_PU
+
+卓桐华_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 现任_JJ 英业_NN 达董_NN 事长_NN （_PU 2017_CD ）_PU 。_PU
+
+李国祥_NR ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 台湾资_NN 生堂_NN 董事_NN 长_VA 。_PU
+
+徐英士_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 南加_VV 州_NN 大学_NN 博士_NN ，_PU 华邦_NN 电子_NN 副总_NN 经理_VV 、_PU 2010_NN 年_NN 带领_VV 新_JJ 唐科技_NN 上市_VV ，_PU 现任_JJ 副董_NN 事长_NN 。_PU
+
+李志华_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 明基_NN 电通策_NN 略长_VV 。_PU
+
+连存德_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州理_NN 工学_NN 院电机_NN 博士_NN ,_PU 美国_NR IDT_NN 公司_NN 技术_NN 长_VA 。_PU
+
+陈文琦_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州理_NN 工学_NN 院电脑_NN 科学_NN 硕士_NN ，_PU 威盛_VV 电子_NN 共同_AD 创办_VV 人_JJ 、_PU 总_JJ 经理_NN 兼_CC 执行_VV 长_VA 。_PU
+
+林子牧_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州理_NN 工学_NN 院电机_NN 硕士_NN 、_PU 博士_NN ，_PU 威盛_VV 电子_NN 共同_AD 创办_VV 人_NN 暨_CC 副总_NN 经理_VV 。_PU
+
+林茂昌_NN ：_PU 1978_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 新汉_JJ 公司_NN 创办人_NN 暨_CC 董事_NN 长_VA 。_PU
+
+陈丕宏_NN ：_PU 1980_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 柏克_NN 莱加_VV 州_NN 大学_NN 计算机_NN 科学_NN 博士_NN 学位_NN 。_PU 1989_CD 年_M 创立_VV 赢家_NN 科技_NN 公司_NN （_PU GainTechn_JJ ology_NN ）_PU ，_PU 1992_NN 年该_JJ 公司_NN 被_VV Sybase_NR 以_P 一亿_CD 美金_NN 并购_AD ，_PU 并_CC 担任_VV Sybase_NR 公司_NN 多媒体_NN 技术_NN 部副_NN 总裁_NN 。_PU 1993_CD 年_M ，_PU 创立_VV 美商_NR 宏道_NN 资讯_NN （_PU ）_PU ，_PU 1996_NN 年_NN 宏道_NN 资讯_NN 在_P 美国_NR 纳斯_NR 达克_NN 证券_VV 市场_NN 上市_LC ，_PU 1999年_NT 12月_NT WorldJournal_NN 列为_VV 20_CD 世纪_NN 最_AD 重要_VA 的_DEC 100_CD 位_M 华裔_NN 美人_VA 之一_VA 。_PU 2005年_NT 出任_VV 新浪_JJ 公司_NN 的_DEC 董事_NN 。_PU
+
+欧_CS 阳明_NN ：_PU 1981_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 北_NN 卡罗_NN 来_MSP 纳_VV 大学_NN 教堂_NN 山_NN 分校_NN 电脑_NN 科学_NN 博士_NN ，_PU 曾_AD 任_VV 美国_NR 贝尔_NN 实验室_NN ，_PU 返国_NR 任教_VV 于_P 台大_NR 资讯_NN 工程_NN 系_NN 。_PU 曾_AD 任_VV 电机_NN 资讯_NN 学_VV 院副_NN 院长_VV ，_PU 现_AD 为_P 网路_NN 与_P 多媒体_NN 研究_NN 所_MSP 及_VV 资工_NN 系_NN 教授_VV 。_PU 研究_NN 专_AD 长_VA 为_VC 电脑_NN 图_NN 学_ETC 、_PU 虚拟_JJ 实境_NN (_PU VirtualReality_NN )_NN ，_PU 为_P 国际_NN 上_LC VR_NN 领域_NN 研究_VV 先驱_NT 。_PU 1995_CD 年_M 与_P 资工_NN 系_VC 同_DT 事黄肇_NN 雄_VA 、_PU 吴家麟_NN 、_PU 陈文_NN 进_VV 在_P 国科会_NN (_PU 现_AD 为_VC 科_NN 技部_NN )_PU 产学_NN 合作_NN 计画_NN 架构_NN 下_LC 研发_VV 出_VV 视讯_NN 压缩_VV 软体_NN ─_PU 第一_OD 代_M 「_PU PowerDVD_NN 」_PU 的_DEG 原型_NN ，_PU 并_CC 衍生_VV 出_VV 台湾_NN 最_AD 成功_VV 的_DEC 软体_NN 公司_NN 之一_LC 的_DEC 讯连_JJ 科技_NN 。_PU
+
+黄肇雄_NR ：_PU 1981_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 洛杉矶_NN 分校_NN 电脑_NN 博士_NN ，_PU 讯连_NR 科技_NN 公司_NN 董事_NN 长_VA 。_PU 曾_AD 於_P 台大_NR 资工_NN 系_NN 任教_VV ，_PU 1991年_NT 与_P 另_DT 两_CD 位资_NN 工系_NN 教授_NN 共同_AD 建立_VV 台湾_NR 大学_NN 通讯_NN 及_CC 多媒体_NN 实验室_NN ，_PU 1996_CD 年_M 创立_VV 讯连_NR 科技_NR 公司_NN ，_PU 2006_CD 年_M 方辞_NN 去资_VV 工_NN 系_NN 教职_NN 。_PU
+
+王文汉_NN ：_PU 1981_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 英特尔_AD 公司_NN 副总裁_NN 暨_CC 英特_AD 尔实验室_AD 执行_VV 总监_NN ，_PU 曾_AD 荣获_NN ACMSIGMETRICS_NN （_PU 国际_NN 计算机_NN 性_NN 能绩_NN 效会议_NN ）_PU 最_AD 佳论_JJ 文奖_NN 、_PU ACM_NN /_PU IEEEISCA_NN （_PU 国际_NN 计算_NN 机架_NN 构会_VV 议_VV ）_PU 历年_NT 最佳_JJ 论文奖_NN 、_PU 最_AD 具_VV 影响_VV 力论_NN 文奖_NN 及_CC 国际_NN 电机_NN 电子_NN 协会_NN 会士_VV （_PU IEEEFellow_NN ）_PU 等_ETC 殊荣_JJ 。_PU 英特_JJ 尔於_NN 2015_CD 年授_NN 与_P 荣誉资_NN 深_VA 院士_VA 。_PU
+
+范丰民_NN ：_PU 1982_CD 年_M 电机_NN 所_MSP 毕业_VV ，_PU 美国_NR 光谱_NN 电子_NN 股份_NN 有_VE 限公_JJ 司创_JJ 办人_NN 暨_CC 总经_AD 理_VV 。_PU
+
+洪胜富_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 普林_NN 斯_DT 顿_M 大学_NN 电机_NN 博士_NN ，_PU 工研_VV 院电光_NN 所_MSP 副所长_AD ，_PU 清华_NN 大学_AD 光电_NN 所_MSP 与_P 电子_NN 所_MSP 合_VV 聘教授_NN 。_PU
+
+徐世昌_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 华硕_NN 共同_AD 创办_VV 人_NN 、_PU 华擎_NN 董事_NN 长_VA 。_PU
+
+叶嗣_NN 平_VA ：_PU 1983_NN 年电机_NN 系_NN 毕业_NN ，_PU 华硕_NN 副总_NN 经理_VV 。_PU
+
+杨瑞祥_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 耶鲁_NN 大学_NN 计算机_NN 科学_NN 博士_NN ，_PU 圆刚_JJ 科技_NN 总_JJ 经理_NN 。_PU
+
+刘军廷_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 普林_NN 斯_DT 顿_M 大学_NN 电机_NN 工程_NN 博士_NN 。_PU 工研院_NN 副院_NN 长_VA ，_PU 曾_AD 任_VV 友达_NN 科技_NN 副总_NN 经理_VA 、_PU 美国_NR 贝尔_NN 实验室_NN 部门_NN 经理_VV 。_PU
+
+赖瑾_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 威盛_VV 电子_NN 副总_NN 经理_VV 。_PU
+
+蔡熊光_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 元太科_NN 技执_NN 行长_NN 。_PU
+
+王_NN 奉_P 民_NN ：_PU 1985_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 现任_AD 美国_NR 安霸_NN 公司_NN （_PU ）_PU 董事_NN 长_VA 及_CC 执行_VV 长_VA ，_PU 其_PN 公司_NN 在_VV 2014_CD 年_M 和_CC 2015_CD 年_M 获得_VV 「_PU 最_AD 受_VV 尊敬_NN 的_DEC 新兴_NN 上_LC 市半_VV 导体_NN 公司_NN （_PU MostRespectedEmergingPublicSemiconductorCompany_NR ）_PU 」_PU 。_PU
+
+高_CS 健荣_VV ：_PU 1986年_NT 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 俄亥_NN 俄州_NN 立大学_VV 电机_NN 博士_NN 。_PU 启碁_NN 科技_NN 共同_AD 创办_VV 人_NN 暨_CC 总_JJ 经理_NN 。_PU
+
+王冠三：1986_NN 年电机_NN 系_NN 毕业_NN ，_PU 美国_NR 马里_NN 兰大_AD 学_VV 电机_NN 硕士_NN 和_CC 博士_NN ，_PU 现任_AD 美国_NR 微软_JJ 研究院_NN 首席_AD 研究员_NN 暨_CC 学术_NN 合作_VV 总经理_AD 。_PU 专长_NN 网路_NN 规模_NN 机器_NN 阅读_NN 、_PU 智慧_NN 推理_NN 、_PU 智慧_NN 分析_NN 和_CC 使用者_NN 行为_VV 模拟_NN 等_ETC 领域_NN 。_PU
+
+王泽明_NN ：_PU 1987_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 鸿海_NN 集团_NN 董事_NN 长特助_AD ，_PU 前_JJ 昱晶_NN 能源_NN 副总_NN 。_PU
+
+梁维仁_NN ：_PU 1992_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 卡内基_NN 美隆_JJ 大学_NN 财务_NN 数学_NN 硕士_NN 、_PU MBA_NN 硕士_NN 。_PU 元大证_NN 券香_NN 港区_NN 总经理_AD 、_PU 花旗环_NN 裁判_JJ 员券_NN 台湾区_NN 总经_AD 理_VV 。_PU
+
+黄钟_JJ 扬_NN ：_PU 1992_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 圣塔_NN 芭_NN 芭_AD 拉_VV 分校_NN 电机_NN 与_CC 电脑_NN 工程_NN 博士_NN 。_PU 优_NN 拓_VV 资讯_NN （_PU Yoctol_NN ）_PU 共同_AD 创办_VV 人_NN ，_PU 现任_JJ 国立_NN 台湾_NR 大学_NN 电机_NN 系_NN 暨_CC 电子_NN 所_MSP 教授_VV 。_PU
+
+董本洪_NN ：_PU 1992_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 密西根_NN 大学_NN 工业_NN 工程_NN 硕士_NN ，_PU 曾_AD 担任_VV 百_CD 事_NN 可_VV 乐大_DT 中华_NN 区_NN 市场_NN 副总裁_NN ，_PU 现任_AD 阿里_NR 巴巴_NN 集团_NN 首席_AD 市场官_NN 。_PU
+
+璩又明_NN ：_PU 1993_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美盛_NR 医电_NN 创办人_NN 兼_CC 总经理_AD ，_PU 曾_AD 任联_VV 发_VV 科_NN 设计_NN 技术_NN 处长_NN 。_PU
+
+徐瑞廷_NN ：_PU 1995_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU BCG_NN 波士顿_NN 顾问_VV 公司_NN 董事_NN 总经理_AD 。_PU 史丹佛_NN 大学_NN 电子_NN 工程_NN 学_VV 硕士_NN ，_PU 圣塔克_NN 拉拉_VV 大学_NN MBA_NN 。_PU 曾_AD 任职_NN 美商_NN DEC_NN 。_PU
+
+王_CS 英明_NN ：_PU 1995_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 德州_NN 大学_AD 奥斯_VA 丁_DEV 分校_VV 电机_NN 电脑_NN 硕士_NN ，_PU 加州_VV 圣塔克_NN 拉拉_VV 大学_NN MBA_NN 。_PU 曾_AD 任麦_DT 肯锡_NN 公司_NN 顾问_NN ，_PU 返国_NR 任联_VV 发_VV 科技_NN 投资_NN 并_CC 购部_VV 门主管_NN ，_PU 与_P 朋友_NN 合伙_VA 创业_VV 至今_AD 。_PU
+
+吴汉章_NN ：_PU 1996_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 华硕_NN 云端_NN 总经_AD 理_VV 。_PU
+
+杜奕瑾_NN ：_PU 1997_CD 年资_NN 工系_NN 毕业_NN ，_PU BBS_NN 站批_NN 踢踢_VV 的_DEC 创站_NN 站长_NN ，_PU 为_P 微软_JJ 公司_NN 人工_NN 智慧_NN （_PU AI_NN ）_PU 部门_NN 亚太区_NN 研究_NN 总监_NN ，_PU 台湾_NN AI_NN 实验室_NN 创办人_NN 。_PU
+
+张心望_NN ：_PU 1999_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹佛_NN 大学_NN 电机_NN 硕士_NN 毕业_NN ，_PU 在_P 硅谷_NN 创业_NN 几_CD 年后_AD 回台_NN 创业_NN ，_PU 曾_AD 任_VV 威望_VV 国际_NN 总经理_AD ，_PU 现任_NT 乐声_NN 影城_NN 董事_NN 长_VA 、_PU 车库_NN 娱乐_NN 创办人_NN 。_PU
+
+龚律全_NN ：_PU 2001_CD 年资_NN 工系_NN 毕业_NN ，_PU 酷_AD 音_NN 输入法_NN 原作者_NN 。_PU
+
+陈康本_NR ：_PU 2001_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 酷_AD 音_NN 输入法_NN 原作者_NN 。_PU
+
+宋云轩_NN ：_PU 2002_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹佛_NN 大学_NN 电机_NN 博士_NN 。_PU 美国_NR GoogleAI_NN 自然_JJ 语言_NN 处理_NN 资深_VV 研究员_NN 。_PU
+
+高_JJ 嘉良_NN ：_PU 2003_CD 年资_NN 工系_NN 毕业_NN ，_PU 台湾_NN 的_DEC 自由_JJ 软体_NN 程式_NN 设计师_NN ，_PU 一_CD 以_P Subversion_NN 为_VC 版本_JJ 控制_NN 系统_NN SVK_NR 之_DEC 创始者_NN 。_PU Xcin_NN 输入法_NN 框架_NN 的_DEC 前开_JJ 发者_NN 以及_CC ChewingOSX_NN /_PU 酷_NN 音_NN 输入_NN 法作者_NN 。_PU 曾_AD 与_P 唐凤_NN 等_ETC 人_NN 共同_AD 创办_VV 了_AS 艺立协_NN ，_PU 发展_NN 台湾_NN 开源_NN 社群_NN 。_PU 曾_AD 与_P RT_NN 开发者_NN JesseVincent_NN 共同_AD 经营_VV BestPractical_NN 公司_NN 。_PU
+
+赖以_VV 威_NN ：_PU 2004_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 数感_NN 实验室_NN 共同_AD 创办_VV 人_NN ，_PU 师大_NN 电机_NN 系_NN 助理_NN 教授_NN 。_PU
+
+汤孟翰_NN ：_PU 2006_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 永_AD 鑫能_NN 源股份_NN 有限_VA 公司_NN 共同_AD 创办_VV 人_NN 暨_CC 董事_NN 长_VA
+
+高_JJ 奕豪_NN ：_PU 2006_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹佛_NN 大学_NN 电机_NN 博士_NN 。_PU 现_BA 投身_NN 计量_VV 金融_NN ，_PU 在_P Investments_NR 担任_VV QuantitativeResearcher_NN 。_PU
+
+周仁海_NN ：_PU 2006_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 卡内基_NN 美隆_JJ 大学_NN 电脑_NN 科学_NN 硕士_NN ，_PU 台湾人_NN 工智_NN 能_VV 医疗_VV 影像_NR 公司_NN Deep_NR 01_NN 共同_AD 创办_VV 人_NN 及_CC 执行_NN 长_VA ，_PU 专长_AD 脑部_NN 影像_VV 判读_NN 系统_NN ，_PU 曾_AD 任哈_DT 佛医_NN 学院_VV 教学_NN 医院_NN （_PU MGH_NN ）_PU 访问_VV 学者_NN 。_PU
+
+谢沛伦_NN ：_PU 2007_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 哥伦_NN 比_P 亚_NOI 大学_NN 电机_NN 硕士_NN 。_PU AmbidioInc_NN ._PU 共同_JJ 创办人_NN 。_PU
+
+林启维_NN ：_PU 2008_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 洛杉矶_NN 分校_NN 电机_NN 硕士_NN ，_PU 绵羊犬_NN 艺术_NN 有_VE 限公_JJ 司创_JJ 办人_NN 暨_CC 执行_VV 长_VA 。_PU
+
+郑恒之_NN ：_PU 2008_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 卡内基_NN 美隆_JJ 大学_NN 电脑_NN 科学_NN 硕士_NN 、_PU 博士_NN ，_PU G_CD oo_M gle总_NR 公司_NN 技术_NN 总监_NN 经理_PU 暨_CC 主任_NN 工程师_NN 。_PU
+
+赵式隆_NN ：_PU 2008_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 台湾_NN 硅谷_NN 创业_NN 家协_NN 会理_NN 事长_NN ，_PU Zuvio_NN 创办人_NN 。_PU
+
+陈泰元_NN ：_PU 2011_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 曾_AD 任台_VV 、_PU 日_NN 最_AD 大_JJ 直播_NN 平台_NN 17_CD 直播_VE 共同_JJ 创办人_NN 暨_CC 技术_NN 长_VA ，_PU 先后_AD 创办_VV 了_AS 全球首_JJ 个_M 零_CD 手_NN 续费_AD Crypto_NN 交易所_NN 、_PU 目前_NT 位居_NN 全球_AD 前_VV 二十_CD 大_VA 的_DEC COBINHOOD_NN ，_PU 以及_CC 以_P Blocklattice_NN （_PU 区块网_NN ）_PU 架构_NN 底层_NN 设计_NN 、_PU 高度_NN 可_VV 扩容_VV 的_DEC 公链_NN DEXON_NN 。_PU
+
+温宗宪_NN ：_PU 2011_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 英国_NR 剑桥_NN 大学_NN 电机_NN 工程_NN 博士_NN ，_PU 英国_JJ 新创_NN PolyAI_NN 共同_JJ 创办人_NN 及_CC 技术_NN 长_VA ，_PU 曾_AD 任_VV GoogleBrain_NN 实_AD 习生_VV ，_PU IPSoftAmelia_NN 研发_VV 顾问_NN 。_PU
+
+苏培_NN 豪_VA ：_PU 2011_NN 年电机_NN 系_NN 毕业_NN ，_PU 英国_NR 剑桥_NN 大学_NN 电机_NN 工程_NN 博士_NN ，_PU 英国_JJ 新创_NN PolyAI_NN 共同_JJ 创办人_NN 及_CC 首席_NN 科学家_NN ，_PU 曾_AD 任_VV FacebookAIResearch_NN 实_AD 习生_VV 。_PU
+
+王易如_NN ：_PU 2012_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 史丹佛_NN 大学_NN 电机_NN 硕士_NN 。_PU 美国_NR 硅谷_NN 行动_VV 贝果_NN MoBagel_NN 共同_JJ 创办人_NN 及_CC 营运_NN 长_VA 。_PU
+
+李昀樵_NN ：_PU 2012_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 17_CD 直播_JJ 资深_NN 产品_NN 科技_NN 副总裁_NN 。_PU
+
+洪任谕_NN ：_PU 2016_CD 年_M 资工_NN 所_MSP 毕业_VV ，_PU 台湾自_AD 由_P 软体_NN 开发者_NN ，_PU 是_VC 软体_NN PCMan_NN 的_DEC 最初_JJ 开发者_NN 之_DEG 一_CD 。_PU 原_JJ 为_VC 内_JJ 科医师_NN ，_PU 现_AD 为_VC Appier_NN 工程师_NN 。_PU
+
+吴泓霖_NN ：_PU 2018_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU Android_NN 知名_NN 刷机_NN 程式_NN Magisk_NN 开发者_NN (_PU topjohnwu_NN )_NN ，_PU 目前_NT 就_AD 读于_VV 美国_NR 密西根_NN 大学_NN 电脑_NN 科学_NN 硕士_NN ，_PU 曾_AD 於_P Apple_NN 及_CC IBM_NN 担任_VV 实_AD 习生_VV 。_PU
+
+张克彥_NN ：_PU 1966_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 加拿_VV 大_JJ 英属_NN 哥伦_NN 比_P 亚_NOI 大学_CD 博士_NN ，_PU 加拿_VV 大_JJ 联邦_NN 政府_NN 历来_AD 位阶_VV 最_AD 高_VA 的_DEC 台湾人_NN ，_PU 曾_AD 任_VV 加拿_VV 大_JJ 传统_JJ 文化部_NN 贸易_NN 投资_NN 局长_NN 、_PU 加拿_VV 大外_JJ 交部_NN 国际_NN 开发_VV 署北_NN 非_AD 及_CC 中东_NN 事务_NN 局长_NN 、_PU 加拿_VV 大原_NN 住民_NN 及_CC 北方_NN 领土_NN 事务_NN 部土_NN 地_DEC 索求_NN 和_CC 自治_NN 执行_VV 局长_NN 、_PU 加拿_VV 大工_JJ 业部_NN 国际业_NN 务发_VV 展局_NN 副局_NN 长_VA 、_PU 加拿_VV 大通_JJ 讯部_NN 贸易政_NN 策处_NN 长_NN 等_ETC 职_NN 。_PU 并_CC 在_P 1996_CD 年_M APEC_NN 亚太_AD 经合_VV 会_VV 电信_NN 暨_CC 资讯_NN 工作_VV 小组_JJ 会议_NN ，_PU 担任_VV 加_VV 欧_NN 电讯_NN 共同委_AD 员会_VV 主席_VV 。_PU
+
+杨世缄_NN ：_PU 1967_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 西北_NN 大学_NN 电机_NN 硕士_NN 与_CC 博士_NN 。_PU 曾_AD 任行_VV 政院_NN 政务_NN 委员_NN 、_PU 行政_NN 院科_NN 技顾_NN 问组召_NN 集人_VV 、_PU 经_P 济部_NN 次长_NN 、_PU 经_P 济部_NN 工业_NN 局局_NN 长_VA 、_PU 科学_NN 工业_NN 园区_NN 管理局_NN 副局_NN 长_VA 。_PU
+
+潘国濂_NR ：_PU 1970_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 英属_NN 香港_NN 立法局_NN 议员_NN ，_PU 自由_P 党前_NT 副主席_NN 、_PU 曾_AD 任_VV 慧峰_NN 集团_NN （_PU 今_BA 国艺_NN 控股_VV ）_PU 主席_VV 、_PU 中电_NN 的_DEC 第一_OD 位_M 华人_NN 总经理_AD 、_PU 九龙塘区_NN 议员_NN 。_PU 曾_AD 任土_VA 地_DEV 发展_VV 公司_NN 主席_NN 、_PU 地产代理监管局主席_PU 、_PU 英国_NR 特许_NN 工程师_NN 、_PU 英国_NN 电机_NN 工程_NN 师学_NN 会资_NN 深会_AD 员及_VV 香港_NN 工程_NN 师学_NN 会资_NN 深_AD 会员_VV 。_PU 2000_CD 年_M 获委任_NN 为_VC 太平_JJ 绅士_NN 。_PU 2009_CD 年_M 获颁_VV 授铜_NN 紫荊星章_NN 。_PU
+
+张_CS 进福_VV ：_PU 1970年_NT 电机_NN 系_NN 毕业_NN ，_PU 柏克_NN 莱加_VV 州_NN 大学_NN 电机_NN 工程_NN 及_CC 资讯_NN 科学_NN 系_NN 博士_NN ，_PU 行政院_NN 政务_NN 委员_NN 、_PU 工业_NN 技术_NN 研究院_NN 董事_NN 长_VA 、_PU 台湾省_NN 政府_NN 主席_NN 。_PU 国际_NN 电机_NN 电子_NN 工程_NN 师学_NN 会会士_NN （_PU IEEEFellow_NN ）_PU 。_PU 曾_AD 兼_P 任台_NN 大电机_NN 系_NN 主任_NN 兼_CC 所_MSP 长_VV 、_PU 教育_NN 部科_NN 技顾_NN 问室_NN 主任_VA 、_PU 国立_NN 中_LC 央大学_VV 教授_NN 兼_CC 教务_NN 长_VA 、_PU 行政院_NN 国家_NN 科学_NN 委员_NN 会_VV 副_JJ 主任_NN 委员_NN 、_PU 国立暨南国际大学_PU 校长_NN 、_PU 元智_NN 大学_NN 第四_OD 任_M 校长_NN 、_PU 财团_NN 法人_NN 资讯_NN 工业_NN 策进_NN 会_VV 董事_AD 长_VA 。_PU
+
+吴静雄_NN ：_PU 1970_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 康乃尔_NN 大学_NN 电机_NN 博士_NN 。_PU 前任_NN 中_LC 华民_NN 国行_VV 政院_NN 飞航_AD 安全_VA 委员_CC 会_VV 主任_JJ 委员_NN 、_PU 财团_NN 法人_NN 资讯_NN 工业_NN 策进_NN 会_VV 董事_AD 长_VA 、_PU 台大_NR 副校_NN 长_VA ，_PU 现任_JJ 国立_NN 台湾_NR 大学_NN 电机_NN 工程_NN 学系_VV 教授_NN 。_PU 曾_AD 任_VV 国科_NN 会_VV 工程_NN 技术_NN 发展_NN 处_NN 处长_VV 、_PU 电机_NN 电子_NN 工程_NN 师学_NN 会台_NN 北分_NN 会_VV 会长_VV 、_PU 台大_AD 研究_VV 发展_NN 委员_NN 会_VV 主任_JJ 委员_NN 。_PU
+
+陈添枝_NN ：_PU 1975_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 宾州_NN 州立_NN 大学_NN 经_VV 济学_NN 博士_NN 。_PU 曾_AD 任_VV 美国_NR 密西西_NN 比_P 大学_AD 助理_VV 教授_VV 、_PU 台湾_NN 大学_NN 经济_NN 系教授_NN 、_PU 中华_NR 经济_NN 研究_NN 院院_NN 长_VA 。_PU 前任_NN 行_VV 政院_NN 政务_NN 委员_NN 兼任_AD 国家_NN 发展_NN 委员_NN 会_VV 主任_JJ 委员_NN 。_PU
+
+吴聪敏_NN ：_PU 1975_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 罗彻_NN 斯_AD 特_AD 大学经_AD 济学_VV 博士_NN ，_PU 现任_AD 中华_NR 民国_NR 中央_NN 银行_VV 理事_NN 、_PU 国立_JJ 台湾_NN 大学_NN 经济_NN 系_NN 教授_NN 。_PU
+
+徐爵民_NN ：_PU 1977_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 柏克_NN 莱_NN 大学_NN 电机_NN 工程_NN 与_CC 电脑_NN 科学_NN 系_NN 博士_NN 。_PU 中华_NR 民国科_NN 技部_NN 部长_NN 。_PU 曾_AD 任_VV 工业_NN 技术_NN 研究_NN 院电子_NN 工业_NN 研究_NN 所所_AD 长_VA 、_PU 工研_NN 院院_NN 长_VA 等_ETC 职务_NN 。_PU 任教_VV 于_P 国立_NN 清华大学_AD ，_PU 曾_AD 任_VV 电机_NN 资讯_NN 学_VV 院院_NN 长_VA 与_CC 台湾_NN 联合_VV 大学_NN 系统_NN 副_JJ 校长_NN 。_PU
+
+吴瑞北_NN ：_PU 1979_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 前任_JJ 财团_NN 法人_NN 资讯_NN 工业_NN 策进_NN 会_VV 执行_VV 长_VA ，_PU 台湾_NN 大学_NN 电机_NN 工程_NN 学系_VV 特_AD 聘_VV 教授_NN ，_PU 曾_AD 获_VV IEEEfellow_NN 。_PU
+
+周景扬_NN ：_PU 1979_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 伊利_NN 诺伊_NN 大学_NN 厄巴纳_NN -_PU 香槟_NN 分校_NN 电脑_NN 科学_NN 系硕士_NN 及_CC 博士_NN 。_PU 现任_JJ 国立_NN 中_LC 央大学_VV 校长_NN ，_PU 曾_AD 任中_DT 华民_NN 国行_VV 政院_NN 国家_NN 科学_NN 委员_NN 会_VV 副主_JJ 任委员_NN 、_PU 国立_VV 交通_NN 大学_NN 电子_NN 工程_NN 学系_AD 教授_VV ，_PU 美国_NR 电机_NN 电子_NN 工程_NN 师学_NN 会会士_NN 、_PU 美国_NR 贝尔_NN 实验室_NN 研究员_NN 。_PU
+
+陈铭宪_NN ：_PU 1982_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 密西根_NN 大学_NN 安那堡_NN 分校_NN 电机_NN 资讯_NN 工程_NN 系_NN 博士_NN 。_PU 曾_AD 任_VV 资讯_NN 工业_NN 策进_NN 会_VV 执行_VV 长_VA 。_PU 曾_AD 获_VV ACMFellow_NN 和_CC IEEEFellow_NN 、_PU 教育部_NN 学_VV 术奖_NN 、_PU 国科_NN 会_VV 杰出_VV 研究奖_NN 、_PU 东_NN 元奖_NN 、_PU 潘文渊_NN 研究_VV 杰出_NN 奖_NN 、_PU 中华民_NN 国资_NN 讯学_NN 会资_NN 讯荣誉_NN 奖章_NN 、_PU 李国_NN 鼎穿石_NN 研究奖_NN 等_ETC 奖项_NN 。_PU 现任_NN 中央_NN 研究院_NN 资讯_NN 科技_NN 创新_VV 研究_NN 中心_NN 特_AD 聘_VV 研究员_NN 兼_CC 主任_NN 、_PU 国立_JJ 台湾_NN 大学_NN 电机_NN 系_NN 特聘_NN 教授_NN 及_CC 中兴_JJ 大学_NN 讲座_NN 教授_VV 、_PU 国立_VV 台湾_JJ 大学_NN 电机_NN 资讯_NN 学_VV 院院_NN 长_VA 。_PU
+
+钟嘉德_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 南加_JJ 大_JJ 硕士_NN 、_PU 博士_NN ，_PU 台湾_NN 大学_NN 电机_NN 工程_NN 学系_VV 特_AD 聘_VV 教授_NN ，_PU 行政_NN 院科_NN 技顾_NN 问室_NN 副_AD 执行_VV 秘书_NN ，_PU 台湾_NN WiMAX_NN &_NN WLAN_NN 产业_NN 交流_NN 会会_NN 长_VA ，_PU 曾_AD 获_VV IEEEfellow_NN 。_PU
+
+李_AD 大_VA 嵩_SP ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 普渡_JJ 大学_NN 电机_NN 博士_NN 。_PU 国家_NN 通讯_NN 传播_VV 委员会_NN （_PU N_CD CC_M ）_PU 委员_NN ，_PU 交通_NN 大学_NN 电机_NN 工程_NN 学系_VV 教授_NN 。_PU
+
+蔡志宏_NN ：_PU 1983_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 美国_NR 加州_NN 大学_NN 洛杉矶_NN 分校_NN 电机_NN 工程_NN 博士_NN 。_PU 行政_NN 院科_NN 技顾_NN 问室_NN 顾问_VV ，_PU 中_LC 华电_NN 信独_NN 立董事_AD ，_PU 台湾_NN 大学_NN 电机_NN 工程_NN 学系_VV 专_AD 任_VV 教授_NN 。_PU
+
+蔡堆_NN ：_PU 1987_CD 年_M 电机_NN 所_MSP 毕业_VV ，_PU 交通_JJ 部部_NN 长_VA 、_PU 行政_NN 院公_NN 共_AD 工程_NN 委员_NN 会_VV 副主委_VV 、_PU 交通_JJ 部民_NN 用航_NN 空局_JJ 局长_NN 。_PU
+
+郑文灿_NN ：_PU 1987_CD 年_M 电机_NN 系肄_NN 业转_NN 系_VC 至_P 社会系_NN ，_PU 台大_NR 国家_NN 发展_NN 研究_NN 所_MSP 硕士_VV ，_PU 曾_AD 任行_VV 政院_NN 新闻_JJ 局局_NN 长_VA 、_PU 行政院_NN 发言人_NN 、_PU 海基会_NN 副秘_VV 书长_NN 、_PU 民进党_NN 中_LC 常委_VA 、_PU 民进党_NN 中_LC 执委_VV 、_PU 民进_VV 党文_NN 宣部_NN 主任_NN 、_PU 桃园县_NN 议员_NN 和_CC 野百_JJ 合学_NN 运决_VV 策小_NN 组召_NN 集人_VV 。_PU 现任_JJ 桃园_NN 市市_NN 长_VA 。_PU
+
+林宗_NN 男_VA ：_PU 1989_NN 年电机_NN 系_NN 毕业_NN ，_PU 美国_NR 普林_NN 斯_DT 顿_M 大学_NN 电机_NN 工程_NN 学系_VV 的_DEC 硕士_NN 及_CC 博士_NN 。_PU 财团_NN 法人_NN 资讯_NN 工业_NN 策进_NN 会_VV 资_NN 安科_NN 技研_NN 究所所长_VV 、_PU 消费_NN 者文_NN 教基金_NN 会_VV 副_JJ 祕书_NN 长_VA ，_PU 国立_VV 台湾_NR 大学_NN 电机_NN 工程_NN 学系_VV 教授_NN 。_PU
+
+范鸿轩_NN ：_PU 1969_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 演员_NN ，_PU 在_P 电视剧_NN 《_PU 包青天_NN 》_PU 中饰_JJ 演公_NN 孙策_NR 而_MSP 成_VV 名_NN 。_PU
+
+林婉容_NN ：_PU 1986_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 福音_NN 诗歌_NN 创作_VV 歌手_NN ，_PU 1999年_NT 成立_VV 「_PU 小羊_JJ 诗歌_NN 」_PU 网站_VV 并_CC 出版_VV 首_NOI 张_M 福音诗_NN 歌集_NN 《_PU 鼓舞_NN 》_PU 。_PU
+
+余函弥_NN ：_PU 2008_CD 年资_NN 工系_NN 毕业_NN ，_PU 台大_P 五_CD 姬_M ，_PU 演员_NN 、_PU 歌手_NN 。_PU
+
+熊信宽_NN ：_PU 2013_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 饶舌_NN 歌手_NN ，_PU 第6_OD 届_M 金音_NN 创作奖_NN 5_CD 项_M 提名_NN ，_PU 并_CC 夺得_VV 最佳_JJ 嘻哈_NN 专辑_VA 、_PU 最佳_JJ 嘻哈_NN 单曲_VA 、_PU 最佳_JJ 新人_NN 等_ETC 三_CD 项_M 大奖_NN 。_PU 第27_OD 届_M 金曲奖_NN 提名_NN 最_AD 佳_JJ 国语_NN 专辑_AD 奖_DEV 与_P 最佳_JJ 新人奖_NN 。_PU
+
+庄子肇_NN ：_PU 2002_CD 年_M 电机_NN 系_NN 毕业_NN ，_PU 垒球_NN 国手_NN ，_PU 曾_AD 入选_VV 亚洲_NN 男子_NN 垒球锦_NN 标赛_NN 中_LC 华代_AD 表队_VV ，_PU 现任_JJ 国立_NN 中_LC 山大_VV 学_VV 电机_NN 系_NN 副教授_NN ，_PU 研究_NN 领域_NN 磁共振_NN 造_VV 影_NN 技术_NN ，_PU 医学_NN 影像_NN 处理_VV 。_PU
+
+
+

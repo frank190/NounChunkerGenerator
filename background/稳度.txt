@@ -1,0 +1,11 @@
+﻿稳度_NN
+
+稳度_NN 是_VC 一_CD 处于_VV 稳定_VA 平衡_NN 状态_NN 的_DEC 物体_NN ，_PU 其_PN 倾倒_VV 的_DEC 难_AD 易_JJ 程度_NN （_PU 即_AD 物体_NN 的_DEC 稳定_NN 程度_NN ）_PU 。_PU
+
+物体_NN （_PU 可能_NN ）_PU 绕_VV 着_AS 翻倒_NN 的_DEG 底部_NN 边缘点_NN （_PU 线_NN ）_PU 叫_VV 翻转点_NN （_PU 线_NN ）_PU ，_PU 过物体_NN 重心_VV 的_DEC 重垂线_NN 与_P 水平_NN 支持面_NN （_PU 倾斜_VV 支持面_NN 在_P 过翻_NT 转点_NN 的_DEC 水_NN 平面_NN 上_LC 的_DEG 投影面_NN ）_PU 的_DEC 交点_NN 称做_VV 重_AD 稳_VV 心_NN ，_PU 重_AD 稳_VA 心到_NN 翻转点_NN （_PU 线_NN ）_PU 的_DEG 距离_NN 叫_VV 翻转_VV 半径_NN 。_PU 稳度_NN 与_CC 重心_NN 的_DEC 高度_NN 及_CC 翻转_VV 半径_NN 的_DEG 大小_NN 有关_VA ，_PU 重心_NN 越_AD 低_VA ，_PU 翻转_VV 半径_NN 越_AD 大_VA ，_PU 稳度_NN 越_AD 大_VA ，_PU 对_P 一般物体_NN 而_MSP 言_VV ，_PU 在_P 重心_NN 高度_NN 一定_VA 、_PU 支面_NN 大小_AD 一定_VV 时_LC ，_PU 向_P 不同_JJ 方向_NN 翻倒_VV 的_DEC 难_AD 易_JJ 程度_NN 不同_VA ，_PU 稳度_NN 具有_VV 方向性_NN 。_PU
+
+物体_NN 所_MSP 受_VV 重力_NN 的_DEC 作用点_NN 在_P 重心_NN ，_PU 只要_CS 中_LC 垂线_NN （_PU 重力_NN 作用线_NN ）_PU 不_AD 超出_VV 物体_NN 的_DEC 支持面_NN ，_PU 物体_NN 就_AD 不_AD 会_VV 翻倒_VV 。_PU
+
+考虑_VV 到_VV 稳度_NN 与_CC 重心_NN 高度_NN 和_CC 翻转_VV 半径_NN 有关_VV ，_PU 以_P 物体_NN 向_P 某_DT 方向_NN 翻倒_VV 的_DEC 最大_JJ 倾斜角_NN 的_DEG 正切函_NN 数值_NN 来_MSP 定量_VV 描述_JJ 物体_NN 稳度_NN ，_PU 用_P η_NN 表示_VV 物体_NN 稳度_NN ，_PU r_NN 表示_VV 翻转_VV 半径_NN ，_PU h_NN 表示_VV 重心_NN 高度_NN ，_PU 则_AD η_NN =_VV r_NN ／_PU h_NN ，_PU 稳度η_NN 与_CC 翻转_VV 半径_NN r_NN 成_VV 正比_NN ，_PU 与_P 重心_NN 高度_NN h_NN 成_VV 反比_NN ，_PU
+
+

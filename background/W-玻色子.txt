@@ -1,0 +1,8 @@
+﻿W_VV -_PU 玻色子_NN
+
+W_OD -_PU 玻色子_NN （_PU W_NN -_PU boson_NN ）_PU 是_VC 种_M 向_P 量_NN 玻色子_NN ，_PU 分W_VV 、_PU W两_NN 类_NN ，_PU 互为_JJ 反粒子_NN ，_PU 是_VC 弱_JJ 相互_AD 作用_VV ：_PU formula_NR （_PU 其中_NN 每_DT 边_M 总电荷_NN Q_NN =_PU 1_CD ，_PU lepton_NN 数_CD N_CD =_NN 0_CD ，_PU baryon_NN 数_NN B_NN =_VV 0_CD ）_PU 的_DEG 中介_NN 。_PU
+
+1979年_NT 颁发_VV 给_P  阿_NN 卜杜勒_NN ·_PU 萨拉姆_NN 和_CC 1984_NN 年_NN  _P CarloRubbia_NN 的_DEG 诺贝尔物_NN 理学_NN 奖都_NN 指向_NN W_NN -_PU 玻色子_NN 的_DEG 发现_NN 。_PU
+
+
+

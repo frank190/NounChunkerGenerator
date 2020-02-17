@@ -1,0 +1,18 @@
+﻿功率_NN 模块_NN
+
+功率_NN 模块_NN （_PU powermodule_NN ）_PU 可以_VV 将_BA 各_DT 个_M 电力_NN 电子_NN 学元件_NN （_PU 多半_CD 是_VC ）_PU 放_VV 在_P 同_DT 一_CD 封装_NN 中_LC 。_PU 其中_NN 的_DEG 功率_NN 半导体_NN （_PU 称为_VV 裸晶_NN ）_PU 会_VV 用_P 銲接_NN 或是_CC 烧结_VV 的_DEC 方式_NN 固定_VV 在_P 乘载_NN 功率_NN 半导体_NN 的_DEG 上_LC ，_PU 依_P 需要_VV 提供_VV 热接触_NN 、_PU 电气_NN 导通_NN 或_CC 是_VC 绝缘_JJ 。_PU 分立_JJ 功率_NN 半导体_NN 多半_CD 是_VC TO_NN -_PU 247_CD 或_CC 的_DEC 塑胶_NN 包装_VV ，_PU 相较_AD 起来_VV ，_PU 功率_NN 模块_NN 的_DEG 功率_NN 密度_NN 较_AD 高_VA ，_PU 而且_CC 在_P 许多_CD 领域_NN 中_LC 比_P 分立_NN 元件_NN 要_VV 可靠_VA 。_PU
+有些_DT 功率_NN 模块_NN 中_LC 会_VV 包括_VV 单一_JJ 的_DEG 功率_NN 元件_NN （_PU 例如_AD MOSFET_NN 、_PU IGBT_NN 、_PU BJT_NN 、_PU 晶闸管_NN 、_PU GTO_NN 、_PU JET_NN ）_PU 或_CC 是_VC 二极管_NN ，_PU 不过_AD 大_VA 多数_VA 的_DEC 功率_NN 模块_NN 中_LC 会_VV 包括_VV 多_CD 个_M 互相_AD 连接_VV 的_DEC 裸晶_NN ，_PU 以_MSP 形成_VV 特定_JJ 的_DEG 电路_NN ，_PU 这_DT 个_M 称为_VV 拓朴_VV 。_PU 功率_NN 模块_NN 中_LC 也_AD 可能_VV 包括_VV 其他_DT 的_DEG 元件_NN ，_PU 例如_AD 减小_VV 切换_NN 电压_NN 超调_VV 的_DEC 陶瓷_NN 电容_NN ，_PU 或是_CC 监控_JJ 基板_NN 温度_NN 的_DEG 温度_NN 传感器_NN 。_PU 常见_JJ 的_DEG 模块_NN 拓_VV 朴有_VV ：_PU
+有关_JJ 功率_NN 模块_NN 和_CC 其他_NN 电路_NN 系统_NN 的_DEC 连接_NN ，_PU 最_AD 传统_VA 的_DEC 是_VC 用_P 螺丝_NN 锁固_VV 的_DEC 接触_NN ，_PU 此外_AD ，_PU 也_AD 有_VE 用_VV 插针_NN 触点_NN （_PU 焊_VV 在_P 印刷_NN 电路板_NN 上_LC ）_PU 、_PU 压入式_JJ 触点_NN 压到_NN 电路板_NN 上_LC （_PU 电路板_NN 的_DEC ）_PU 、_PU 内在_NR 提供_VV 对_P 电路板_NN 压力_NN 的_DEC 弹簧_NN 触点_NN 、_PU 或_CC 是_VC 利用_VV 纯压力_NN 接触_VV ，_PU 让_VV 两_CD 块_M 耐_VV 腐蚀_NN 表面_NN 区域_NN 接合_VV 在_P 一起_NN 。_PU
+压入式_JJ 触点_NN 有_VE 高_JJ 可靠度_NN ，_PU 而且_CC 容易_AD 组装_VV ，_PU 不_AD 用_VV 焊接_VV ，_PU 相较於_AD 压入_VV 式_NN 触点_NN ，_PU 弹簧_NN 触点_NN 的_DEC 好处_NN 是_VC 容易_AD 从_P 电路板_NN 上_LC 拆下_VV ，_PU 而且_CC 是_VC 非_JJ 破坏性_JJ 的_DEG 拆下_NN ，_PU 可以_VV 拆换_VV 数次_NN （_PU 例如_AD 模块_NN 的_DEG 检测_NN 或是_CC 更换_VV ）_PU 。_PU 压入式_JJ 触点_NN 及_CC 弹簧_NN 触点_NN 的_DEC 缺点_NN 都_AD 是_VC 因为_P 其_PN 电气_NN 接触_NN 面积_NN 小_VA ，_PU 电流_NN 额定_NN 也_AD 比较_VV 小_VA ，_PU 因此_AD 有些_DT 模块_NN 可能_VV 会_VV 将_BA 多_CD 个_M 压入式_JJ 触点_NN 或_CC 弹簧_NN 触点_NN 并联_VV ，_PU 以_MSP 加大_VV 电流_NN 。_PU
+
+目前_NT 功率_NN 模块_NN 的_DEG 技术_NN 发展_NN 趋势_NN 是_VC 降低_VV 成本_NN ，_PU 提昇_VV 功率_NN 密度_NN 、_PU 提昇_NN 可靠度_NN 以及_CC 减少_VV 杂散_NN 元件_NN 的_DEG 影响_NN 。_PU 杂散_NN 元件_NN 是_VC 在_P 电路_NN 之间_LC 不_AD 想要_VV 的_DEC 电容_NN （_PU 杂_AD 散_VV 电容_NN ）_PU 或是_CC 导_VV 线_NN 之间_LC 不_AD 想要_VV 的_DEC 电感_NN （_PU 杂散_NN 电感_NN ）_PU 。_PU 若_CS 运用_VV 在_P 逆变器_NN 上_LC ，_PU 这些_DT 可能_NN 会_VV 造成_VV 电磁_NN 辐射_NN （_PU EMR_NN ）_PU 。_PU 另_DT 一_CD 个_M 杂散_NN 元件_NN 的_DEC 缺点_NN 是_VC 对_P 切换_NN 特性_NN 的_DEG 影响_NN ，_PU 而且_CC 会_VV 加大_VV 切换_NN 损失_NN 。_PU 因此_AD ，_PU 制造_VV 商会_NN 设法_VV 减少_VV 杂散_NN 元件_NN ，_PU 并且_CC 维持_VV 低_JJ 成本_NN ，_PU 而且_CC 和_CC 其_PN 他_PN 厂商_NN 的_DEC 元件_NN 保持_VV 高度_NN 的_DEG 相容性_NN ，_PU 以_MSP 便成_VV 为替_P 代料源_NN
+更_AD 进一步_JJ 功率_NN 模块_NN 最_AD 优化_VV 的_DEC 主题_NN 是_VC 从_P 热源_NN （_PU 裸晶_NN ）_PU 到_VV 散热片_NN 之间_LC 的_DEG 散热_NN 途径_NN 。_PU 热_AD 需要_VV 通过_P 许多_CD 不同_VA 的_DEC 材质_NN ，_PU 例如_AD 焊锡_NN 、_PU 导热_NN 绝缘_NN 基板_NN 、_PU 基板_NN 、_PU 散热膏_NN 以及_CC 散_VV 热片_NN 本体_NN ，_PU 最后_AD 才传_VV 到像_VV 是_VC 空气_NN 、_PU 或_CC 是_VC 水_NN 或_CC 油_NN 等_ETC 液态_NN 介质_NN 中_LC 。_PU 新一代_JJ 的_DEG 碳化硅_NN 功率_NN 电晶体_NN 其_PN 功率_NN 密度_NN 更_AD 大_VA ，_PU 因此_AD 对_P 热传_NN 的_DEG 需求_NN 也_AD 会_VV 更大_VV 。_PU
+
+功率_NN 模块_NN 可以_VV 用_VV 在_P 功率_NN 转换_NN 的_DEC 设备_NN 中_LC ，_PU 例如_AD 变频器_NN 、_PU 嵌入式_JJ 电机_NN 驱动器_NN 、_PU 不_AD 间断_NN 电源_NN 、_PU 直流_NN -_PU 交流_NN 电源_NN 供应_NN 及_CC 焊接机_NN 电源_NN 。_PU
+
+功率_NN 模块_NN 也_AD 用_VV 在_P 可_VV 再_AD 生能_VV 源_NN （_PU 风力_NN 发动机_NN 、_PU 太阳_NN 能_VV 发电_VV ）_PU 中_LC 的_DEG 逆变器_NN 中_LC ，_PU 或是_CC 电动车_NN （_PU EV_NN ）_PU 的_DEG 动力_NN 来源_LC 。_PU
+
+第一_OD 个_M 绝缘_NN 的_DEC 功率_NN 模块_NN 是_VC 由_P 在_P 1975_CD 年_M 导入_VV 市场_NN （_PU SEMIPACK_NR ）_PU 。_PU
+
+
+

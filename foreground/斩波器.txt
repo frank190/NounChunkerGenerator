@@ -1,0 +1,10 @@
+﻿_CS 斩波器_NN
+
+斩波器_NN （_PU ）_PU ，_PU 又称_JJ 斩波_NN 电路_NN ，_PU 是_VC 一_CD 种_M 转换_NN 电能_NN 的_DEC 电力_NN 电子_NN 电路_NN ，_PU 根据_P 电能_NN 的_DEG 形式_NN 可_VV 分为_VV 直流_JJ 斩波器_NN 和_CC 交流_NN 斩波器_NN ，_PU 其中_NN 直流_NN 斩波器_NN 是_VC 最_AD 常见_VA 的_DEC 类型_NN 。_PU
+
+直流_JJ 斩波器_NN 是_VC 一_CD 种_M 直流_NN 对_P 直流_NN 的_DEC 转换器_NN （_PU DC_NN /_PU DCconverter）_PU ，_PU 能够_VV 将_BA 电压值_NN 固定_VV 的_DEC 直流_NN 电_NN ，_PU 转换_VV 为_VC 电压_NN 值_NN 可_VV 变_VV 的_DEC 直流_JJ 电源_NN 。_PU 直流_JJ 斩波器_NN 通常_AD 连接_VV 在_P 恒定_JJ 直流_NN 电源_NN 和_CC 负载_NN 电路_NN 之间_LC ，_PU 通过_P 周期性_NN 地_DEV 快速_AD 开通_VV 、_PU 关断_NN ，_PU 把_BA 输入_VV 电压_NN 斩成_VV 一_CD 系列_M 的_DEG 脉冲_NN 电压_NN ，_PU 改变_VV 脉冲列_NN 的_DEG 脉冲_NN 宽度_NN 或_CC 频率_NN 可以_VV 调节_VV 输出_NN 电压_NN 的_DEG 平均值_NN ，_PU 用以_VV 改变_VV 加到_VV 负载_NN 电路_NN 上_LC 的_DEC 直流_JJ 电压_NN ，_PU 这_DT 种_M 装置_NN 也_AD 叫_VV 直_AD 流_VV 断续器_NN ，_PU 其_PN 基本_NN 作用_NN 是_VC 直_BA 流电_NN 的_DEG 调压_NN ，_PU 可_VV 用于_VV 直流_JJ 电动机_NN 的_DEG 速度_NN 控制_VV 、_PU 交换式_JJ 电源_NN 供应_NN 等_ETC 方面_NN 。_PU 主要_AD 包括_VV 6_CD 种_M 基本_JJ 斩波_NN 电路_NN ：_PU 降压_NN 斩波_NN 电路_NN 、_PU 升压_NN 斩波_NN 电路_NN 、_PU 升_VV 降压_NN 斩波_NN 电路_NN 、_PU Cuk_NN 斩波_NN 电路_NN 、_PU Sepic_NN 斩波_NN 电路_NN 和_CC Zeta_NN 斩波_NN 电路_NN 。_PU
+
+交流_NN 斩波器_NN 的_DEG 基本_JJ 调压_NN 原理_NN 和_CC 直流_NN 斩波器_NN 相同_VA ，_PU 但_CC 输入_NN 电压_NN 和_CC 负载_NN 电压_NN 均_AD 为_VC 交流_NN 电_NN ，_PU 是_VC 一_CD 种_M 交流_NN 对_P 交流_NN 的_DEC 转换器_NN （_PU AC_NN /_PU ACconverter_NN ）_PU ，_PU 仅仅_AD 将_BA 交流_NN 电压_NN 正_AD 负_VV 半_CD 周_M 分别_AD 当作_VV 一_CD 个_M 暂_AD 短_VA 的_DEC 直流_NN 电压源_NN ，_PU 但_CC 由于_P 其_PN 斩波_NN 功能_NN 是_VC 双方向性_JJ 的_DEG ，_PU 直流_JJ 斩波_NN 电路_NN 中_LC 常用_VV 的_DEC 续流_NN 二极管_NN 在_P 这里_PN 也_AD 不_AD 能_VV 采用_VV ，_PU 续_AD 流_VV 作用_NN 也_AD 要_VV 靠_P 具有_VV 双向_JJ 导通_NN 与_CC 关断_NN 的_DEC 交流_NN 电子_NN 开关_NN 来_MSP 实现_VV 。_PU 因此_AD 交流_VV 斩波_NN 调压_VV 比_P 直流_NN 斩波_NN 调压_VV 复杂_VA ，_PU 故_AD 应用_AD 受到_VV 限制_NN 。_PU
+
+
+

@@ -1,0 +1,11 @@
+﻿平滑_Err
+
+在_P 统计学_NN 和_CC 图像_NN 处理_NN 中_LC ，_PU 通过_P 建立_VV 近似_JJ 函数_NN 尝试_NN 抓住_VV 数据_NN 中_LC 的_DEG 主要_JJ 模式_NN ，_PU 去除_VV 噪音_NN 、_PU 结构_NN 细节_NN 或_CC 瞬_NN 时_LC 现象_NN ，_PU 来_MSP 平滑_VV 一_CD 个_M 数据集_NN 。_PU 在_P 平滑_NN 过程_NN 中_LC ，_PU 信号_NN 数据点_NN 被_SB 修改_VV ，_PU 由_P 噪音_NN 产生_VV 的_DEC 单独_NN 数据点_NN 被_SB 降低_VV ，_PU 低于_VV 毗邻_NN 数据点_NN 的_DEG 点_NN 被_SB 提升_VV ，_PU 从而_AD 得到_VV 一_CD 个_M 更_AD 平滑_VA 的_DEC 信号_NN 。_PU 平滑_NN 可以_VV 两_CD 种_M 重要_JJ 形式_NN 用于_VV 数据_NN 分析_NN ：_PU 一_CD 、_PU 若_CS 平滑_VA 的_DEC 假设_NN 是_VC 合理_VA 的_DEC ，_PU 可以_VV 从_P 数据_NN 中_LC 获得_VV 更_AD 多_JJ 信息_NN ；_PU 二_CD 、_PU 提供_VV 灵活_VA 而且_CC 稳健_VA 的_DEC 分析_NN 。_PU 有_VE 许多_CD 不同_VA 的_DEC 算法_NN 可_VV 用于_VV 平滑_VV 。_PU 数据_NN 平_AD 滑_VV 通常_AD 通过_P 最_AD 简单_VA 的_DEC 密度_NN 估计_VV 或_CC 直_BA 方图_NN 完成_VV 。_PU
+
+在_P 平滑值_NN 可_VV 写为_VV 观测_NN 值线性_NN 变换_NN 的_DEC 情况_NN 下_LC ，_PU 平滑_JJ 操作称_NN 为_VC 线性_JJ 平滑_NN 。_PU 表示_VV 先后_NT 的_DEG 矩阵_NN 称为_VV 平滑_JJ 矩阵_NN 或_CC 帽子_NN 矩阵_NN 。_PU
+
+最_AD 常用_VV 的_DEC 一_CD 种_M 算法_NN 是_VC “_PU 移动_JJ 平均_NN ”_PU ，_PU 通常_AD 被_SB 用于_VV 在_P 重复_VV 的_DEC 统计_NN 调查_VV 中_LC 捕获_VV 重要_JJ 趋势_NN 。_PU 在_P 图像_NN 处理_NN 和_CC 计算机_NN 视觉_NN 中_LC ，_PU 平滑_NN 被_SB 用于_VV 尺度_NN 空间_NN 的_DEC 表示_VV 。_PU 最_AD 简单_VA 的_DEC 平滑_JJ 算法_NN 是_VC “_PU 直角_NN 平_NN 滑_NN ”_PU 或_CC “_PU 无_VE 加权_NN 滑动_VV 平均_JJ 平滑_NN ”_PU 。_PU 此_DT 方法_NN 用_P m_CD 个_M 邻接点_NN 的_DEG 平均值_NN 替换_VV 信号_NN 中_LC 的_DEG 每_DT 个_M 点_NN ，_PU m_NN 是_VC 称为_VV “_PU 平滑_JJ 宽度_NN ”_PU 的_DEG 正整数_NN ，_PU 通常_AD 是_VC 奇数_NN 。_PU 三角_NN 平_NN 滑_VV 类似_JJ 直角_NN 平滑_VA ，_PU 但_AD 实现_VV 了_AS 加权_NN 平滑_NN 函数_NN 。_PU
+
+部分_NN 平滑_VA 和_CC 过滤类_NN 型有_VV ：_PU
+
+

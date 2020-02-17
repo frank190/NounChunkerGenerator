@@ -1,0 +1,14 @@
+﻿_NN 等_ETC 效矩_NN 形带_VV 宽_VA
+
+等效_JJ 矩形带_NN 宽_VA （_PU EquivalentRectangularBan_JJ dwidth_NN ，_PU 简称_VV ERB_NN ）_PU 是_VC 一_CD 种_M 心理_NN 声学_NN 的_DEG 度量_NN 方法_NN 。_PU 它_PN 提供_VV 了_AS 一_CD 个_M 近_AD 似于_VV 人耳_NN 听觉_VV 的_DEC 对_P 带宽_VV 的_DEC 过滤_NN 方法_NN 。_PU 这_DT 个_M 方法_NN 使用_VV 了_AS 矩形_JJ 频带_NN 通_VV 滤波器_NN 的_DEG 一_CD 个_M 理想_JJ 化但_NN 方便_VA 的_DEC 简化_JJ 模型_NN 。_PU
+
+对于_P 中等_JJ 的_DEG 声强_NN 和_CC 年轻_VV 的_DEC 听者_NN ，_PU 人_NN 的_DEG 听觉_NN 过滤器_NN 的_DEG 带宽_DT 可以_VV 通过_P 以下_JJ 的_DEG 多项式_JJ 方程式_JJ 近似_NN ：_PU
+
+其_PN 中 _NN "_PU f_NN  _NN "_PU 为_VC 过滤器_NN 的_DEG 中心_NN 频率_NN （_PU kHz_NN ）_PU ，_PU ERB_NN (_NN "_PU f_NN "_PU )_NN 为_VC 过滤器_NN 的_DEC 带宽_JJ （_PU H_OD z_M ）_PU 。_PU 这_DT 个_M 近似_NN 是_VC 基于_P 一些_CD 出版_VV 的_DEC 同时_AD 掩蔽_VV 实验_NN 的_DEG 结果_NN 。_PU 这_DT 个_M 近似_JJ 对于_P 从_P 0_CD ._PU 1_CD 到_CC 6_CD ._PU 5_CD kHz_M 的_DEG 范围_NN 是_VC 有效_VA 的_DEC 。_PU
+
+上述_JJ 近似_AD 在_P 1983_CD 年_M 由_P Moore_NN 和_CC Glasberg_NN 提出_VV ，_PU 它们_PN 也_AD 在_P 1990_CD 年_M 发表_VV 了_AS 另_DT 一_CD （_PU 线性_JJ ）_PU 近似_JJ ：_PU
+
+其中_NN "_PU f_NN "_PU  _NN 的_DEG 单位_NN 是_VC kHz_NN ，_PU ERB_NN (_NN "_PU f_NN "_PU )_NN 的_DEG 单位_NN 是_VC Hz_NN 。_PU 这_DT 个_M 近似_AD 适用于_VV 中等_JJ 的_DEG 声音_NN 水平_NN ，_PU "_PU f_NR "_PU  _AD 在_P 0_CD ._PU 1_CD 和_CC 10_CD  _M kHz_NN 之间_LC 的_DEC 条件_NN 下_LC 。_PU
+
+
+

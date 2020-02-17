@@ -1,0 +1,5 @@
+﻿吸水性_NN
+
+吸水性_NN 是_VC 指_VV 某些_DT 化学_NN 物质_NN 能_VV 吸收_VV 水分_NN 的_DEG 性质_NN ，_PU 属于_VV 物质_NN 的_DEC 物理_NN 性质_NN 。_PU 常见_VA 的_DEC 具有_VV 吸水性_NN 的_DEC 物质_NN 有_VE 甘油_NN 、_PU 浓硫酸_NN 、_PU 硫酸铜_NN 、_PU 五氧化二磷_NN 等_ETC 。_PU 一般_JJ 人们_NN 认为_VV 有机物_NN 的_DEG 吸水性_NN 与_P 其_PN 结构_NN 中_LC 羟_NN 基_NN 数目_NN 有关_P ，_PU 并_CC 已_AD 经据_P 此_PN 制造_VV 出_VV 有机_JJ 吸水_NN 材料_NN ，_PU 例如_AD 婴儿_NN 尿布_NN 中_LC 的_DEG 高_JJ 吸水性_NN 树脂_NN 。_PU
+
+

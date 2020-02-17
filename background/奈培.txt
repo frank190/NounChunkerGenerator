@@ -1,0 +1,5 @@
+﻿奈培_NN
+
+奈培_NN （_PU 英文_NN ：_PU neper_NN ，_PU 符号_NN ：_PU N_CD p_M ）_PU 是_VC 量度_NN 两_CD 个_M 相同_JJ 单位_NN 之_DEG 数量_NN 比例_VV 的_DEC 单位_NN ，_PU 以_P 发明_NN 对数_PN 的_DEG 苏格_NN 兰数_NN 学家约_AD 翰_VA ·_PU 纳_VV 皮尔_NN 命名_NN 。_PU 与_P 相同_JJ 性质_NN 的_DEC 分贝_NN （_PU dB_NN ）_PU 一样_VA ，_PU 这_DT 个_M 单位_NN 并_CC 非正式_JJ 的_DEG 国际_NN 单位_NN ，_PU 但_CC 可_VV 用于_VV 国际_NN 单位制_NN 上_LC 。_PU
+
+

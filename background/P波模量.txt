@@ -1,0 +1,12 @@
+﻿_OD P_OD 波_M 模量_NN
+
+在_P 线性_JJ 弹性_JJ 力学_NN 中_LC ，_PU P波_NN 模量_NN formula_NN
+
+其_PN 定义_NN 为_VC 单轴_JJ 应变_NN 下_LC 轴向_JJ 应力_NN 与_CC 轴向_NN 应变_VV 的_DEC 比_NN ：_PU
+而_AD 其他_DT 所有_DT 的_DEG 应变_NN formula_NN
+
+上式_JJ 等价_NN 於_P
+其中_NN formula_NN
+
+
+

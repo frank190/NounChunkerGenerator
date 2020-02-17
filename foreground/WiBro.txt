@@ -1,0 +1,16 @@
+﻿_CD WiBro_NN
+
+WiBro_NN （_PU 全称_VV 为_VC WirelessBroadband_NN ，_PU 韩语_NN 原文_NN 为_VC ：_PU 와이브로_NN ）_PU 是_VC 由_P 韩国_NN 电子_NN 通信_NN 研究院_NN 发展_VV 的_DEC 一_CD 个_M 无线_JJ 宽带_NN 网际_NN 网路_NN 的_DEC 技术_NN ，_PU 在_P 2002年_NT 2月_NT 。_PU 韩国_NR 政府_NN 在_P 2_CD ._PU 3_CD GHz_M 的_DEG 频带_NN 中_LC 保留_VV 了_AS 100_CD MHz_NR 的_DEC 频宽_NR 。_PU 在_P 2004_CD 年_M 的_DEG 稍后_AD ，_PU 韩国_NR 的_DEC TTA_NR （_PU TelecommunicationsTechnologyAssociation_NR ）_PU 将_BA WiBro_NN 第一_OD 阶段_NN 予以_VV 标準化_NN 。_PU
+
+WiBro_NN 基地台_NN （_PU BaseStation_NN ，_PU 也_AD 称_VV ：_PU 基站_NN ）_PU 提供_VV 了_AS 30_CD Mbps_NN —_PU 50_CD Mbps_NN 的_DEC 资料_NN 流_VV 速度_NN 并_CC 可_VV 涵盖_VV 1_CD 公里_NN —_PU 5_CD 公里_VV 的_DEC 距离_NN 内_LC 移动式_JJ 的_DEG 网际_NN 网路_NN 需求_VV 使用_VV 。_PU
+
+2005_CD 年_M APECSummit_NN 在_P 釜山_NN 会议_NN 的_DEC 实际_JJ 测试_NN 中_LC ，_PU 可_VV 用_VV 的_DEC 距离_NN 与_CC 频宽_NN 比_P 上述_JJ 的_DEG 数字_NN 都_AD 还_AD 要_VV 略_AD 小_VA 一些_CD 。_PU 这_DT 项_M 技术_NN 并且_CC 包含_VV 了_AS 频宽管_NN 理_NN 、_PU 流量_NN 控管_NN （_PU QualityofService_NN ，_PU QoS_NN ）_PU 的_DEC 机制_NN ，_PU 使得_VV WiBro_NN 得以_VV 可靠_VA 的_DEC 传送影_NN 像_P 流_NN 等_ETC 资讯_NN 。_PU
+
+当_P WiBro_NN 精準_VV 的_DEC 定义_VV 了_AS 他_PN 的_DEG 需求_NN -_PU -_PU 自频谱_NN 的_DEG 使用_VV 到_VV 设备_NN 的_DEG 设计_NN ，_PU WiMAX_NN 却_AD 将_BA 他_PN 大多数_CD 的_DEG 需求_NN 留给_VV 设备_NN 制造_VV 商去_NN 定义_VV ，_PU 从而_AD 确保_VV 了_AS 这些_DT 设计_NN 的_DEC 互通性_NN 、_PU 相容性_NN 。_PU
+
+
+
+
+
+
+

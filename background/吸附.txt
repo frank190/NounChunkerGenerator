@@ -1,0 +1,12 @@
+﻿吸附_NN
+
+吸附_NN 是_VC 指_VV 某_DT 种_M 气体_NN ，_PU 液体_NN 或者_CC 被_SB 溶解_VV 的_DEC 固体_NN 的_DEC 原子_NN ，_PU 离子_NN 或者_CC 分子_NN 附着_VV 在_P 某_DT 表面_NN 上_LC 。_PU 这_DT 一_CD 过程_NN 使得_VV 表面_NN 上_LC 产生_VV 由_P 吸附物_NN 构成_VV 的_DEC 膜_NN 。_PU 吸附_NN 不同于_VV 吸收_NN ，_PU 吸收_VV 是_VC 指_VV 作为_VV 吸附物_NN 的_DEG 液体_NN 浸入_VV 或者_CC 溶解_VV 于_P 另_DT 一_CD 液体_NN 或_CC 固体_NN 中_LC 的_DEC 过程_NN 。_PU 吸附_VV 仅_AD 限于_VV 固体_NN 表面_NN ，_PU 而_CC 吸收_VV 同时_AD 作用于_VV 表面_NN 和_CC 内部_NN 。_PU
+
+吸附_NN 也_AD 属于_VV 一_CD 种_M 传质_NN 过程_NN ，_PU 物质_NN 内部_NN 的_DEG 分子_NN 和_CC 周围_NN 分子_NN 有_VE 互相_AD 吸引_VV 的_DEC 引力_NN ，_PU 但_CC 物质_NN 表面_NN 的_DEC 分子_NN ，_PU 其中_NN 相对_AD 物质_NN 外部_NN 的_DEG 作用力_NN 没有_VV 充分_AD 发挥_VV ，_PU 所以_AD 液体_NN 或_CC 固体_NN 物质_NN 的_DEC 表面_NN 可以_VV 吸附_VV 其他_DT 的_DEG 液体_NN 或_CC 气体_NN ，_PU 尤其_AD 是_VC 表面_NN 面积_NN 很_AD 大_VA 的_DEC 情况_NN 下_LC ，_PU 这_DT 种_M 吸附力_NN 能_VV 产生_VV 很_AD 大_VA 的_DEC 作用_NN ，_PU 所以_AD 工业_NN 上_LC 经常_AD 利用_VV 大_JJ 面积_NN 的_DEC 物质_NN 进行_VV 吸附_NN ，_PU 如_P 活性炭_NN 、_PU 水膜_NN 等_ETC 。_PU 吸附_NN 过程_NN 有_VE 两_CD 种_M 情况_NN ：_PU
+
+
+还_AD 有_VE 一_CD 种_M 可以_VV 进行_VV 连续_AD 操作_VV 的_DEC 分子_NN 筛_NN ，_PU 物料_NN 连续_AD 进入_VV 填充床_NN ，_PU 分子_NN 筛_NN 可以_VV 只_AD 吸附_VV 固定_JJ 体积_NN 的_DEC 分子_NN ，_PU 再_AD 释放_VV ，_PU 而_CC 将_BA 体积_NN 过_AD 大_VA 的_DEC 分子_NN 拦住_VV ，_PU 石油气_NN 和_CC 天然气_JJ 的_DEG 分离_NN 经常_AD 采用_VV 这_DT 种_M 方式_NN 。_PU
+
+吸附_NN 作用_NN 是_VC 催化_VV 、_PU 脱色_VV 、_PU 脱臭_NN 、_PU 防毒_NN 等_ETC 工业_NN 应用_NN 中_LC 必_AD 不_AD 可_VV 少_VA 的_DEC 单元_NN 操作_NN 。_PU
+
+

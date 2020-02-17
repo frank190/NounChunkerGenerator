@@ -1,0 +1,60 @@
+﻿科恩_NN 系列_NN 分布_NN
+
+科恩_NN 系列_NN 分布_NN （_PU Cohen_NN '_PU sclassdistribution_NN ）_PU 於_P 1966_CD 年_M 由_P L.Cohen_NN 首次_AD 提出_VV ，_PU 且_CC 其_PN 使用_VV 双线性_JJ 转换_NN 亦_AD 是_VC 此_DT 种_M 转换_NN 形式_NN 中_LC 最_AD 通用_VV 的_DEC 一_CD 种_M 。_PU 在_P 几_CD 种_M 常见_VA 的_DEC 时_LC 频_VV 分布_NN 中_LC ，_PU Cohen_NN '_PU sclass_NN 分布_NN 是_VC 最_AD 强大_VA 的_DEC 转换_NN 之一_LC 。_PU 随着_P 近几_NT 年来_VV 时_LC 频_VV 分析_NN 发展_VV ，_PU 应用_NN 也_AD 越来越_AD 多元_VA 。_PU Cohen_NN '_PU sclass_NN 分布_NN 和_CC 短时距傅_JJ 立叶_NN 变换_VV 比_P 较_AD 起来_VV 有_VE 较_AD 高_VA 的_DEC 清晰度_NN ，_PU 但_CC 也_AD 相对_VV 的_DEC 有_VE 交叉项_NN (_PU cross_NN -_PU term)_NN 的_DEG 问题_NN ，_PU 不过_CC 可_VV 选择_VV 适当_VA 的_DEC 遮罩_NN 函数_NN (_PU maskfunction_NN )_PU 来_MSP 将_BA 交叉项_NN 的_DEC 问题_NN 降到_VV 最_AD 低_VA 。_PU
+
+模糊_NN 函数_NN 的_DEC 定义_NN 为_VC ：_PU
+
+我们_PN 来看_VV 一下_JJ formula_NN 对于_P 模糊_NN 函数_NN 的_DEG 影响_NN
+
+(_PU 1_CD )_PU 假设_JJ formula_NN 是_VC 一_CD 个_M 高斯_JJ 函数_NN :_PU formula_NN 其中_NN formula_NN
+
+那么_AD 我们_PN 可以_VV 得到_VV formula_NN 代入_NN 模糊_NN 函数_NN formula_NN 中_LC ：_PU
+
+(_PU 2_CD )_PU 假设_JJ formula_NN 是_VC 一_CD 个_M 经过_VV shifting_NN 和_CC modulation_NN 的_DEC 高斯_JJ 函数_NN :_PU
+
+那么_AD 我们_PN 可以_VV 得到_VV formula_NN 代入_NN 模糊_NN 函数_NN formula_NN 中_LC ：_PU
+
+我们_PN 可以_VV 看到_VV formula_NN
+
+因此_AD 我们_PN 可以_VV 得出_VV timeshiftingformula_NN 和_CC modulationformula_NN 并_AD 不_AD 会_VV 影响_VV formula_NN
+
+积分_NT 后_LC ，_PU formula_NN
+
+所以_AD formula_NN 在_P formula_NN 的_DEG 地方_NN 会_VV 有_VE 最_AD 大_VA 的_DEC formula_NN
+
+上述_JJ 所_MSP 列_VV 出来_VV 的_DEC 是_VC 当_P formula_NN 只有_VV 一_CD 项_M 而已_LC (_PU onetermonly_NN )_PU ，_PU 如果_CS formula_NN 有_VE 两_CD 项_M 以上_LC 的_DEG 元素_NN 构成_VV (_PU morethantwoterms_NN )_PU ,_PU formula_NN (_PU cross_NN -_PU term)_NN 的_DEG 问题_NN 存在_VV 。_PU
+
+假设_VV formula_NN ,_PU 其中_NN
+
+将_BA formula_NN 代入_NN 模糊_NN 函数_NN formula_NN 中_LC ：_PU
+
+(_PU 1_CD )_PU formula_NN
+
+(_PU 2_CD )_PU formula_NN
+
+因此_AD ，_PU 我们_PN 目前_NT 得到_VV formula_NN (_PU auto_NN -_PU terms)_NN 和_CC formula_NN (_PU cross_NN -_PU terms_NN )_PU 的_DEG 公式_NN ，_PU 我们_PN 再_AD 仔细_VA 的_DEC 分析_NN auto_NN -_PU terms_NN 和_CC cross_NN -_PU terms_NN 分_NN 別_LC 发生_VV 最_AD 大_JJ 值_NN 的_DEG 位置_NN 。_PU
+
+首先_AD ，_PU 先_AD 看_VV Auto_NN -_PU terms_NN ：_PU
+而_AD Cross_NN -_PU terms_NN ：_PU
+换句话说_AD ，_PU 如果_CS 我们_PN 绘制_VV 一_CD 个_M x轴_NN 为_VC formulay_NN 轴_NN 为_VC formula_NN 的_DEG 座标图_NN ，_PU Auto_NN -_PU terms_NN 发生_VV 在_P 原点_NN formula_NN 的_DEC 位置_NN ，_PU 而_CC Cross_NN -_PU terms_NN 则_AD 是_VC 以_P 原点_NN 为_VC 对称_PN 中心_NN ，_PU 在_P 第一_OD 象_M 限_NN 和_CC 第三_OD 象_M 限_VV 的_DEC 位置_NN ，_PU
+
+这_PN 也_AD 是_VC 为_VV 什么_AD 可以_VV 透过_VV 一_CD 个_M 低_JJ 通函数_NN 来_MSP 滤除_VV 噪声_NN ，_PU 把_BA 主_JJ 成分_NN A_CD u_CC to_CD -_PU terms_NN 分离_VV 出来_VV ，_PU 避免_VV 交叉项_NN 的_DEC 问题_NN 。_PU
+
+维格_NN 纳_NN 分布_VV 是_VC 由_P 尤金_NN ·_PU 维格_NN 纳_VV 於_P 1932_CD 年_M 提出_VV 的_DEC 新_JJ 的_DEG 时_JJ 频分析_NN 方法_NN ，_PU 对于_P 非_AD 稳态_VA 的_DEC 讯号_NN 有_VE 不_AD 错_VA 的_DEC 表现_NN 。_PU
+
+相较於_AD 傅立_VV 叶_NN 转换_NN 或_CC 是_VC 短_JJ 时距_NN 傅立_VV 叶_NN 转换_NN ，_PU 维格_NN 纳_NN 分布_VV 能_VV 有_VE 比_NN 较_AD 好_VA 的_DEC 解析_NN 能力_NN 。_PU
+
+维格_NN 纳_NN 分布_VV 的_DEC 定义_NN 为_VC :_PU
+
+如果_CS 我们_PN 假设_VV formula_NN 是_VC 一_CD 个_M 具有_VV 弦波_NN 特性_NN 的_DEC 讯号_NN ,_PU formula_NN
+
+那么_AD 将_BA 此_DT formula_NN 代入_VV 维格_NN 纳_NN 分布_VV 中_LC ，_PU
+
+所以_AD 当_P formula_NN 时_LC ，_PU formula_NN 在_P formula_NN 的_DEG 地方_NN 会_VV 有_VE 最_AD 大值_NN 。_PU
+
+换句话说_AD ，_PU 当_P formulamodulationformula_NR 或是_CC 有_VE timeshiftingformula_NN 的_DEC 情况_NN 发生_VV 时_LC ，_PU 会_VV 影响_VV 维格_NN 纳_NN 分布_VV (_PU WignerDistributionFunction_NN )_PU 最_AD 大值_NN formula_NN 的_DEC 位置_NN
+
+然而_AD ，_PU 对于_P 科恩_NN 系列_NN 分布_NN (_PU Cohen_NN '_PU sclassdistribution_NN )_PU 而_MSP 言_VV ，_PU timeshiftingformula_NN 和_CC modulationformula_NN 并_AD 不_AD 会_VV 影响_VV formula_NN
+
+
+

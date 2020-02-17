@@ -1,0 +1,38 @@
+﻿随机_NN 程序_NN 的_DEC 时频_NN 分析_NN
+
+随_P 机程序_NN （_PU randomprocess_NN ）_PU 代表_VV 一_CD 讯号_NN x_NN (_PU t_NN )_PU 在_P 任意_JJ 时间点_NN 的_DEG 值_NN 皆_AD 可_VV 视为_VV 一_CD 随_M 机变量_NN （_PU randomvariable_NN ）_PU ，_PU 我们_PN 无法_AD 知道_VV 一_CD 随_M 机程序_NN 随_P 时间_NN 变化_VV 的_DEC 精确_JJ 数值_NN ，_PU 只_AD 能_VV 借由_VV 他_PN 的_DEG 期望值_NN （_PU mean_NN ）_PU 和_CC 自_P 相关_JJ 函数_NN （_PU autocorrelation_NN ）_PU 来_MSP 了解_VV 它_PN 的_DEG 形态_NN 。_PU
+
+若_CS 一_CD 随_P 机程序_NN 的_DEG 期望值_NN 为_VC 定值_NN （_PU m_CD ）_PU 且_CC 自_P 相关_JJ 函数_NN 只_AD 和_P 时间_NN 差_NN （_PU τ_NN =_NOI |_NOI t2_NN -_PU t1_NN |_NN ）_PU 有关_P 和_CC 绝对_JJ 时间_NN （_PU t_NN ）_PU 无关_AD ，_PU 如下_CS 表示_VV
+
+formula_NN
+
+formula_NN
+
+则_AD 工程_NN 上_LC 定义_VV 此_DT 随_P 机程序_NN 为_VC 广义_VA 的_DEC 稳态_JJ （_PU widesencestationary,_JJ WSS_NN ）_PU 随_P 机程序_NN 。_PU
+
+时频_JJ 分析_NN 为_VC 一_CD 种_M 可以_VV 观测_VV 目标_NN 讯号_NN 任意_AD 时间_NN 的_DEC 频谱_NN 分布_VV 的_DEC 工具_NN ，_PU 其中_NN 一_CD 种_M 分析_NN 方法_NN 为_VC 韦格_NN 纳_NN 分布_VV 。_PU
+
+formula_NN
+
+由于_P 韦格_NN 纳_NN 分布_VV 是_VC 利用_VV 自_P 相关_JJ 函数_NN 来_MSP 取得_VV 时_LC 频_VV 分析_NN ，_PU 若_CS 目标_NN 讯号_NN 为_VC 一_CD 广义_NN 的_DEC 稳态_NN 随_P 机程序_NN 时_LC ，_PU 其_PN 时频图_NN 的_DEG 期望值_NN 刚好_AD 可以_VV 利用_VV 到_VV
+
+formula_NN
+
+最后_AD 得到_VV 结果_NN 为_VC 该_DT 广义_NN 的_DEC 稳态_NN 随_P 机程序_NN 的_DEC 能量_NN 密度_NN 频谱_NN （_PU powerdensityspectrum_NN ,_PU PDS_NN ）_PU
+
+推导_VV 如_P 下_NN
+
+formula_NN
+
+这_PN 结果_AD 在_P 时频图_NN 上_LC 的_DEG 显示_NN 就_AD 是_VC 能_VV 量密_JJ 度频谱_NN 的_DEG 值_NN 不_AD 会_VV 随着_P 时间_NN 轴_NN 有_VE 所改_DT 变_VV 。_PU
+
+另_DT 一_CD 种_M 常用_VV 的_DEC 时频_NN 分析_NN 工具_NN 就_AD 是_VC 模稜_NN 函数_NN （_PU ambiguityfunction_NN ）_PU ，_PU 和_CC 韦格_NN 纳_NN 分布_VV 的_DEC 差_NN 別_NN 在于_P 韦_CD 格_M 纳分布_NN 是_VC 对_P τ做傅_NN 立_VV 叶_NN 转换_VV ，_PU 而_CC 模稜_NN 函数_NN 是_VC 对_P t_NN 做_VV 傅立_JJ 叶_NN 转换_NN 。_PU
+
+广义_VA 的_DEC 稳态_JJ 随机_NN 程序_NN 的_DEG 模稜_NN 函数_NN 会_VV 变成_VV 只有_AD 在_P η_NN =_AD 0_CD 的_DEC 时候_NN 才_AD 会_VV 有_VE 值_NN ，_PU 其_PN 余皆_NN 为_VC 零_CD 。_PU
+
+推导_VV 如_P 下_NN
+
+formula_NN
+
+
+

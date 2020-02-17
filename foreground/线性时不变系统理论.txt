@@ -1,0 +1,164 @@
+﻿线性_NN 时_LC 不_AD 变系_VV 统理_NN 论_NN
+
+线性_JJ 非_JJ 时变_NN 系_NN 统理_NN 论俗称_NN 系统_NN 理论_VA ，_PU 源自_VV 应用_NN 数学_NN ，_PU 直接_AD 在_P 核磁_NN 共_AD 振频谱学_VV 、_PU 地震学_NN 、_PU 电路_NN 、_PU 信号_NN 处理_NN 和_CC 控制_VV 理论_NN 等_ETC 技术_NN 领域_NN 运用_VV 。_PU 它_PN 研究_VV 的_DEC 是_VC 线性_JJ 、_PU 非时变_JJ 系统_NN 对_P 任意_JJ 输入_NN 信号_NN 的_DEG 响应_NN 。_PU 虽然_CS 这些_DT 系统_NN 的_DEG 轨迹_NN 通常_AD 会_VV 随_P 时间_NN 变化_NN （_PU 例如_AD 声学_NN 波形_NN ）_PU 来_MSP 测量_VV 和_CC 跟踪_VV ，_PU 但是_AD 应用_VV 到_VV 图像_NN 处理_NN 和_CC 场论_NN 时_LC ，_PU 系统_NN 在_P 空间_NN 维度_NN 上_LC 也_AD 有_VE 轨迹_NN 。_PU 因此_AD ，_PU 这些_DT 系统_NN 也_AD 被_SB 称为_VV "_PU 线性_JJ 非_JJ 时变_NN 平移_NN "_PU ，_PU 在_P 最_AD 一般_JJ 的_DEG 范围_NN 理论_AD 给出_VV 此_DT 理论_NN 。_PU 在_P 离散_NN （_PU 即_AD 采样_VV ）_PU 系统_NN 中_LC 对应_VV 的_DEC 术语_NN 是_VC "_PU 线性_JJ 非_JJ 时变_NN 平移_NN 系统_NN "_PU 。_PU 由_P 电阻_NN 、_PU 电容_NN 、_PU 电感_NN 组成_VV 的_DEC 电路_NN 是_VC LTI_NN 系统_NN 的_DEG 一_CD 个_M 很_AD 好_VA 的_DEC 例子_NN 。_PU
+
+顾_OD 名_M 思义_NN ，_PU 线性_JJ 非_JJ 时变_NN 系统_NN 必须_VV 同时_AD 满足_VV 线性_NN 和_CC 非_AD 时_LC 变性_VV ：_PU
+
+
+
+LTI_NN 系统_NN 的_DEG 理论_NN 的_DEC 基本_JJ 结论_NN 是_VC 任何_DT LTI_NN 系统_NN 都_AD 可以_VV 完全_AD 用_P 一_CD 个_M 单一_JJ 方程_NN 来_MSP 表示_VV ，_PU 称为_VV 系统_NN 的_DEG 冲激_NN 响应_NN 。_PU 系统_NN 的_DEG 输出_NN 可以_VV 简单_AD 表示_VV 为_VC 输入_NN 信号_NN 与_P 系统_NN 的_DEG 冲激_NN 响应_VV 的_DEC 卷积_NN 。_PU 这_DT 种_M 分析_NN 方法_NN 通常_AD 称为_VV "_PU 时_NN 域_LC "_PU 观点_NN 。_PU 相同_VA 的_DEC 结果_NN 对于_P 离散_VV 时间_NN 线性_JJ 移位_NN 不变_NN 系统_NN 也_AD 成立_VV ，_PU 其中_NN 信号_NN 为_VC 离散_VV 时间_NN 取样_NN 信号_NN ，_PU 并且_CC 卷积_NN 对_P 序列_NN 定义_NN 。_PU
+
+同理_AD ，_PU 任何_DT LTI_NN 系统_NN 的_DEG 特征_NN 可_VV 由_P "_PU 频域_NN "_PU 的_DEG 系统_NN 传递_VV 函数_NN 刻画_NN ，_PU 它_PN 是_VC 系统_NN 冲激_VV 响应_VV 的_DEC 拉普_NN 拉_VV 斯_DT 变换_NN （_PU 在_P 离散_VV 时间_NN 系统_NN 的_DEC 情况_NN 下_LC 为_VC Z_NN 变换_NN ）_PU 。_PU 由于_P 这些_DT 变换_NN 的_DEC 性质_NN ，_PU 该_DT 系统_NN 在_P 频域_NN 的_DEG 输出_NN 是_VC 传递_VV 函数_NN 与_CC 输入_VV 的_DEC 变换_NN 的_DEC 乘积_NN 。_PU 换_VV 句话说_NN ，_PU 时域_NN 中_LC 的_DEG 卷积_NN 相当于_VV 频域_NN 中_LC 的_DEG 乘法_NN 。_PU
+
+对于_P 所有_DT 的_DEG LTI_NN 系统_NN 中_LC ，_PU 本_DT 征_NN 函数_NN 和_CC 所_MSP 用_VV 变换_NN 的_DEC 基_NN 函数_NN ，_PU 是_VC 复_LB 指数_NN 函数_NN 。_PU 这_PN 即_AD 是_VC 说_VV ，_PU 如果_CS 一_CD 个_M 系统_NN 的_DEG 输入_NN 是_VC 复波形_JJ formula_NN __NN 21_CD ，_PU 复_AD 振幅_NN 为_VC formula_NN __NN 22_CD ，_PU 复频率_NN 为_VC formula_NN __NN 23_CD ，_PU 输出_VV 将_BA 是_VC 输入_VV 的_DEC 复常_JJ 数倍_NN ，_PU 表示_VV 为_VC 新复_JJ 振幅_NN formula_NN __NN 24_CD 的_DEC 式子_NN formula_NN __NN 25_CD 。_PU 比_AD 值_VV formula_NN __NN 26_CD 是_VC 频率_NN formula_NN
+
+因为_AD 是_VC 正弦_VA 的_DEC 复_JJ 指数_NN 与_CC 复共_JJ 轭频率_NN 的_DEG 总和_NN ，_PU 如果_CS 输入_VV 到_VV 该_DT 系统_NN 是_VC 一_CD 个_M 正弦波_NN ，_PU 则_AD 系统_NN 的_DEG 输出_NN 也_AD 将_AD 是_VC 一_CD 个_M 正弦波_NN ，_PU 或许_CC 具有_VV 不同_JJ 振幅_NN 和_CC 不同_JJ 相位_NN 的_DEC ，_PU 但_AD 总是_AD 在_P 相同_VA 的_DEC 频率_NN 达到_VV 稳定_NN 状态_NN 。_PU LTI_NN 系统_NN 不_AD 能_VV 产生_VV 频率_NN 成分_NN 中_LC 没有_VV 的_DEC 输入_NN 。_PU
+
+LTI_NN 系统_NN 理论_AD 善于_VV 描述_VV 了_AS 许多_CD 重要_VA 的_DEC 系统_NN 。_PU 至少_AD 相对于_P 时间_NN 变化_VV 的_DEC 和_CC /_PU 或_CC 非_JJ 线性_JJ 的_DEG 情况_NN 下_LC 最_AD LTI_NN 系统_NN 被_SB 认为_VV 是_VC “_PU 容易_NN ”_PU 来_MSP 分析_VV 。_PU 任何_AD 可以_VV 被_SB 模拟_VV 为_VC 常系_JJ 数线性_NN 齐_AD 次_VV 微分_NN 方程_NN 系统_NN 是_VC LTI_NN 系统_NN 。_PU 这_DT 类_M 系统_NN 的_DEG 实例_NN 是_VC 电路_NN 由_P 电阻器_NN R_NN ，_PU 电感L_NN 和_CC 电容器_NN C_NN （_PU RLC_NN 电路_NN ）_PU 的_DEC 。_PU 理想_VA 的_DEC 弹簧_NN -_PU 质量_NN -_PU 阻尼_NN 系统_NN 也_AD 是_VC LTI_NN 系统_NN ，_PU 并且_CC 在_P 数学_NN 上_LC 是_VC 等_ETC 效_NN 的_DEC RLC_NN 电路_NN 。_PU
+
+LTI_NN 系统_NN 概念_AD 都_AD 是_VC 连续_JJ 时间_NN 和_CC 离散_NN 时间_NN （_PU 线性_JJ 移位_NN 不_AD 变_VV ）_PU 的_DEC 情况_NN 下_LC 相似_VA 。_PU 在_P 图像_NN 处理_NN 中_LC ，_PU 时间_NN 变量_NN 被_SB 替换_VV 为_VC 2空_JJ 间变量_NN ，_PU 时间_NN 不_AD 变性_JJ 的_DEG 概念_NN 被_SB 替换_VV 为_VC 二维移_NN 不变性_NN 。_PU 当_P 分析_NN 滤波器_NN 组s_NN 和_CC MIMO_NN 系统_NN 中_LC ，_PU 常常_AD 是_VC 有用_AD 考虑_VV 的_DEC 信号_NN 矢量_NN 。_PU
+
+线性_NN 系统_NN 不_AD 是时_AD 不_AD 变_VV 可以_VV 用_P 其他_DT 方法_NN 来_MSP 解决_VV ，_PU 如_P 格林_NN 函数_NN 方法_NN 。_PU 同样_VA 的_DEC 方法_NN 时_LC ，_PU 必须_VV 使用_VV 问题_NN 的_DEC 初始_JJ 条件_NN 是_VC 不_AD 为_VC 空_VA 。_PU
+
+输入_NN 信号_NN 为_VC x(t_CD )_PU ，_PU 输出_NN 信号_NN 为_VC y_NN (_PU t_NN )_PU 的_DEG 线性_JJ 时不变_NN 系统_NN 的_DEG 行为_NN 可以_VV 用_VV 卷积_NN 积分_AD 描述_VV ：_PU
+
+其中_NN formula_NN __NN 28_CD 为_VC 当_P 输入_NN 信号_NN formula_NN __NN 29_CD 时_LC 系统_NN 的_DEG 冲激_NN 响应_VV 。_PU 因此_AD formula_NN __NN 30_CD 与_P 输入_NN 函数_NN formula_NN __NN 31_CD 的_DEG 加权_NN 平_VA 均_AD 成_VV 正比_VA 。_PU 权重_NN 函数_NN 为_VC formula_NN __NN 32_CD ，_PU 就_AD 是_VC 平移_VV 了_AS formula_NN __NN 33_CD 的_DEC 量_NN 。_PU 随着_P formula_NN __NN 34_CD 改变_NN ，_PU 权重_NN 函数_NN 会_VV 突_AD 出_VV 输入_VV 函数_NN 的_DEG 不同_JJ 部分_NN 。_PU 当_P 对_P 所有_DT 非_NN 负_VV formula_NN __NN 35_CD ，_PU formula_NN __NN 36_CD 均_AD 为_VC 零_CD 时_LC ，_PU formula_NN __NN 30_CD 只_AD 由_P 时间_NN formula_NN __NN 34_CD 之前_LC 的_DEG formula_NN
+
+要_VV 理解_VV 为_VC 何_DT LTI_NN 系统_NN 的_DEG 输出_NN 可以_VV 用_VV 卷积_NN 产生_VV ，_PU 就_AD 令_VV 记号_NN formula_NN __NN 40_CD 表示_VV 变量_NN formula_NN __NN 41_CD 和_CC 常量_CD formula_NN __NN 35_CD 的_DEC 函数_NN formula_NN __NN 43_CD 。_PU 用_P 简洁_NN 的_DEG 记号_NN formula_NN __NN 44_CD 表示_VV formula_NN __NN 45_CD 。_PU 那么_AD 就_AD 会_VV 有_VE 一_CD 个_M 从_P 输入_NN 函数_NN formula_NN __NN 46_CD 转换_VV 到_VV formula_NN
+
+其中_NN formula_NN __NN 49_CD 为_VC 对_P 时间_NN formula_NN __NN 34_CD 的_DEG 变换_NN 算子_NN 。_PU 在_P 典型_NN 的_DEC 系统_NN 中_LC ，_PU formula_NN __NN 30_CD 很_AD 大_JJ 程度_NN 上_LC 取决于_VV formula_NN __NN 34_CD 临近_VV 时间_NN 的_DEG formula_NN __NN 39_CD 的_DEC 值_NN 。_PU 除非_P 变换_VV 本身_PN 随着_P formula_NN
+
+对_P 一_CD 个_M 线性_NN 系统_NN ，_PU formula_NN
+
+而时_NT 不_AD 变_VV 系统_NN 的_DEG 要求_NN 是_VC ：_PU
+
+在_P 这_DT 种_M 记号_NN 下_LC ，_PU 我们_PN 可以_VV 把_BA 冲激_JJ 响应_NN 写成_VV formula_NN
+
+同样_AD ：_PU
+
+将_BA 此_DT 结果_NN 代入_VV 卷积_NN 积分_NN ：_PU
+
+该_DT 形式_NN 为_VC formula_NN __NN 5_CD 8_CD 且_CC formula_NN
+那么_AD 允许_VV 这_DT 个_M 延拓_NN ：_PU
+
+综上所述_AD ，_PU 输入_VV 函数_NN formula_NN
+
+上述_JJ 数学_NN 运算_NN 可以_VV 用_P 一_CD 个_M 简单_VA 的_DEC 图形_NN 模拟_NN 。_PU
+
+本_DT 征函_NN 数_NN 是_VC 算子_NN 输出_NN 为_VC 经过_P 放缩_VV 的_DEC 相同_JJ 函数_NN 的_DEC 函数_NN 。_PU 即_AD ，_PU
+其中_NN "_PU f_NN "_PU 是_VC 本_DT 征函_NN 数而_NN formula_NN
+
+指数_NN 函数_NN formula_NN __NN 64_CD （_PU 其中_NN formula_NN __NN 65_CD ）_PU 是_VC 线性_JJ 时_NN 不_AD 变_VV 算子_NN 的_DEC 本征_NN 函数_NN 。_PU 可以_VV 用_P 一_CD 个_M 简单_VA 的_DEC 证明_NN 来_MSP 说明_VV 这_DT 个_M 概念_NN 。_PU 假设_VV 输入_VV 是_VC formula_NN __NN 66_CD 。_PU 系统_NN 冲激_VV 响应_NN formula_NN
+
+由_P 卷积_NN 的_DEC 交换_NN 性质_NN ，_PU 上_DT 式_NN 等价_VV 于_P
+
+其中_NN 标量_NN
+只_AD 与_P 参数_NN "_PU s_NN "_PU 有关_P 。_PU
+
+因此_AD ，_PU 系统_NN 的_DEG 响应_NN 是_VC 一_CD 个_M 缩放_VV 的_DEC 输入_NN 。_PU 特别_AD 地_DEV ，_PU 对_P 任意_JJ Iformula_NN __NN 65_CD ，_PU 系统_NN 输出_VV 为_VC 输入_VV formula_NN __NN 21_CD 和_CC 常量_NN formula_NN __NN 73_CD 的_DEG 乘积_NN 。_PU 因此_AD ，_PU formula_NN __NN 64_CD 是_VC LTI_NN 系统_NN 的_DEC 本_DT 征_NN 函数_NN ，_PU 对应_VV 的_DEC 特征_NN 向_P 量_NN 为_VC formula_NN
+
+也_AD 可以_VV 用_VV 复_BA 指数_NN 直接_AD 导出_VV LTI_NN 系统_NN 的_DEC 本_DT 征_NN 函数_NN 。_PU
+
+我们_PN 令_VV formula_NN __NN 76_CD 为_VC 某_DT 复_NN 指数_NN ，_PU formula_NN
+
+对_P 常数_NN formula_NN __NN 78_CD 由_P 线性_JJ 得_NN formula_NN
+
+由_P formula_NN __NN 80_CD 的_DEC 时_LC 不_AD 变性_VV 有_VE formula_NN
+
+所以_AD formula_NN __NN 82_CD 。_PU 令_VV formula_NN
+
+即_AD 复_P 指数_NN formula_NN
+
+本_DT 征函_NN 数_NN 的_DEG 指数_NN 函数_NN 性质_NN 对_P 分析_NN 和_CC 了解_VV LTI_NN 系统_NN 都_AD 是_VC 很_AD 有用_JJ 处_NN 的_DEG 。_PU 拉普拉斯_JJ 变换_NN
+
+就_AD 是_VC 从_P 冲激_NN 响应_NN 得到_VV 特征_NN 值_NN 的_DEC 方法_NN 。_PU 纯正_JJ 弦_NN （_PU 即_AD 形式_NN 为_VC formula_NN __NN 87_CD 的_DEG 指数_NN 函数_NN ，_PU 其中_NN formula_NN __NN 88_CD ，_PU formula_NN __NN 89_CD ）_PU 尤其_AD 要_VV 关注_VV 。_PU 通常_AD 称_VV 这些_DT 为_VC 复_BA 指数_NN ，_PU 即_AD 使_VV 参数_NN 为_VC 纯_JJ 虚数_NN 。_PU 傅里_NN 叶_NN 变换_VV formula_NN __NN 90_CD 给出_VV 了_AS 纯复_JJ 正弦_NN 的_DEC 特征_NN 值_NN 。_PU formula_NN __NN 73_CD 与_CC formula_NN
+
+拉普拉_VV 斯_DT 变换_NN 通常_AD 用于_VV 单边_NN 信号_NN 的_DEC 背景_NN 下_LC ，_PU 即_AD "_PU t_NN "_PU 小于_VV 某_DT 个_M 值_NN 时_LC 信号_NN 的_DEC 所有_DT 值_NN 为_VC 零_CD 。_PU 通常_AD ，_PU “_PU 起_VV 始_AD 时间_NN ”_PU 设置_VV 为_VC 零_OD ，_PU 为_VC 方便_VA 起见_VA ，_PU 不_AD 失_VV 一般性_AD ，_PU 变换_NN 都_AD 从_P 零_CD 到_CC 无_VE 穷积_NN 分_NN （_PU 上述_JJ 变换_NN 的_DEC 下_NN 限_VV 为_VC 负无穷_JJ 的_DEG 积分_NN 称作_VV 双边_JJ 拉普_NN 拉_VV 斯_DT 变换_NN ）_PU 。_PU
+
+傅_NN 里_LC 叶_LB 变换_NN 是_VC 用来_VV 分析_VV 系统_NN 处理_VV 无_VE 穷限_NN 信号_NN 的_SP ，_PU 如_P 调制_VV 的_DEC 正弦_NN 信号_NN ，_PU 即使_CS 它_PN 不_AD 能_VV 直接_AD 应用_VV 在_P 非_NN 的_DEG 输入_NN 与_CC 输出_NN 信号_NN 上_LC 。_PU 拉_VV 普拉_NR 斯_DT 变换_NN 实际_AD 在_P 这些_DT 信号_NN 初_LC 始时_NT 间之_NT 前全_NN 为_VC 零_CD 的_DEC 信号_NN 可以_VV 直接_AD 使用_VV ，_PU 即便_AD 他们_PN 不_AD 是_VC 平方_AD 可积_VV 的_DEC ，_PU 比如_AD 平稳_NN 系统_NN 。_PU 傅_CD 里叶_NN 变换_VV 通常_AD 通过_P 维纳_VV －_PU 辛_BA 钦定理_NN 用_VV 在_P 无_VE 穷_NN 信号_NN 光谱_NN 上_LC ，_PU 即使_CS 在_P 信号_NN 的_DEC 傅里_NN 叶_AD 变换_VV 不_AD 存在_VV 的_DEC 时候_NN 。_PU
+
+由于_P 这_DT 两_CD 种_M 变换_NN 的_DEC 卷积_NN 性质_NN ，_PU 在_P 变换_NN 存在_VV 的_DEC 条件_NN 下_LC ，_PU 能够_VV 给出_VV 系统_NN 输出_VV 的_DEC 卷积_NN 可以_VV 转换_VV 为_VC 变换域_NN 的_DEG 乘积_NN
+
+计算_VV 变换_NN 、_PU 乘积_NN 和_CC 反_VV 变换_NN 不仅_CC 比_P 原始_VA 的_DEC 卷积_NN 容易_VA ，_PU 而且_CC 还_AD 能_VV 从_P 系统_NN 响应_VV 了_AS 解系统_NN 的_DEG 行为_NN 。_PU 可以_VV 观察_VV 系统_NN 函数_NN |_NN "_PU H_NN "_PU (_NN "_PU s_NN "_PU )_PU |_NN 的_DEG 模来_NN 看出_VV 输入_VV formula_NN
+
+
+
+因果性_JJ 和_NN 稳定性_NN 是_VC 描述_NN 系统_NN 的_DEG 两_CD 个_M 重要_JJ 性质_NN 。_PU 如_P 果独_NN 立变量_NN 是_VC 时间_NN ，_PU 那么_AD 因_P 果性_NN 是_VC 必须_VV 的_DEC ，_PU 但_CC 并_AD 不_AD 是_VC 所有_DT 系统_NN 的_DEC 独立_JJ 变量_NN 都_AD 是_VC 时间_NN 。_PU 例如_AD ，_PU 一_CD 个_M 处理_NN 静止_VV 图像_NN 的_DEC 系统_NN 不_AD 需要_VV 具备_VV 因_P 果性_NN 。_PU 非_AD 因_P 果_NN 系统_NN 可以_VV 建立_VV ，_PU 并_CC 可以_VV 在_P 许多_CD 情况_NN 下_LC 发挥_VV 作用_NN 。_PU 即使_CS 是_VC 非_JJ 实数_NN 系统_NN 也_AD 可以_VV 构建_VV ，_PU 并且_CC 在_P 很多_CD 场合_NN 也_AD 是_VC 非常_AD 有用_VA 的_DEC 。_PU
+
+如果_CS 系统_NN 输出_VV 只_AD 与_P 当前_NT 以及_CC 过去_VV 的_DEC 输入_NN 有关_VA ，_PU 那么_AD 该_DT 系统_NN 就_AD 是_VC 因_P 果_NN 系统_NN 。_PU 因_P 果性_NN 的_DEC 充分_JJ 必要_JJ 条件_NN 是_VC
+
+其中_NN formula_NN
+
+如果_CS 系统_NN 对_P 每_DT 个_M 有_VE 界_NN 输入_VV 来说_JJ 输出_NN 都_AD 是_VC 有_VE 界_NN 的_SP ，_PU 那么_AD 系统_NN 就_AD 是_VC 有_VE 界_NN 输入_VV 有_VE 界_NN 输出_NN 稳定_VA 的_DEC （_PU BIBO_NN 稳定_VA ）_PU ，_PU 用_P 数学_NN 方法_NN 表示_VV 就_AD 是_VC 如果_CS 每_DT 个_M 输入_VV 满足_NN
+
+就_AD 会_VV 导致_VV 输出_VV 满足_NN
+
+（_PU 也就是说_AD formula_NN __NN 17_CD 的_DEG 是_VC 有_VE 界_NN 的_DEG 意味_NN 着_VV formula_NN __NN 18_CD 的_DEG 最_AD 大_JJ 绝对值_NN 也_AD 是_VC 有_VE 界_NN 的_SP ）_PU ，_PU 那么_AD 系统_NN 就_AD 是_VC 稳定_VA 的_DEC 。_PU 系统_NN 稳定_VA 的_DEC 充分_JJ 必要_JJ 条件_NN 是_VC 冲_VV 激_JJ 响应_NN formula_NN
+
+在_P 频域_NN 中_LC ，_PU 收_VV 敛域_NN 必须_VV 包含_VV 虚轴_NN formula_NN
+
+作为_P 一_CD 个_M 例子_NN ，_PU 冲激_NN 响应_NN 等于_VV Sinc_NN 函数_NN 的_DEG 理想_NN 低_AD 通_VV 滤波器_NN 不_AD 是_VC BIBO_NN 稳定_VA 的_DEC ，_PU 因为_P Sinc_NN 函数_NN 不_AD 具有_VV 有限_VA 的_DEC L_NN 范数_NN 。_PU 因此_AD ，_PU 对于_P 一些_CD 有_VE 界_NN 输入_NN ，_PU 理想_NN 低_AD 通_VV 滤波器_NN 的_DEG 输出_NN 是_VC 无_VE 界_NN 的_DEG 。_PU 特别_AD 地_DEV ，_PU 若_CS 对_P formula_NN __NN 114_CD 的_DEG 输入_NN 为_VC 零_CD ，_PU 并且_CC 在_P formula_NN
+
+几乎_AD 所有_DT 的_DEG 连续_JJ 时间_NN 系统_NN 都_AD 能_VV 找到_VV 与_P 之_PN 对应_VV 的_DEC 离散_NN 时间_NN 系统_NN 。_PU
+
+在_P 许多_CD 情况_NN 下_LC ，_PU 离散_VV 时间_NN （_PU DT_CD ）_PU 系统_NN 实际上_AD 是_VC 较_AD 大_VA 的_DEC 连续_JJ 时间_NN （_PU CT_NN ）_PU 系统_NN 的_DEG 一_CD 部分_NN 。_PU 例如_AD ，_PU 数字_NN 录音_NN 系统_NN 记录_NN 模拟_NN 声音_NN 、_PU 数字化_NN 、_PU 或_CC 许对_VV 数字_NN 信号_NN 进行_VV 处理_NN 、_PU 然后_AD 重_AD 放_VV 模拟_NN 信号_NN 。_PU
+
+正式_JJ 场合_NN 下_LC 所_MSP 研究_VV 的_DEC 离散_NN 时间_NN 信号_NN 几乎_AD 总是_AD 连续_VV 时间_NN 信号_NN 的_DEC 均匀_AD 采样_VV 。_PU 如果_CS formula_NN __NN 17_CD 是_VC 一_CD 个_M 连续_JJ 时间_NN 信号_NN ，_PU 那么_AD 模数_NN 转换器_NN 将_BA 把_BA 它_PN 转换_VV 成_VV 离散_NN 时间_NN 信号_NN formula_NN
+其中_NN "_PU T_NN "_PU 是_VC 采样_NN 周期_NN 。_PU 为了_P 保证_VV 离散_NN 信号_NN 能够_VV 忠实_AD 地_DEV 表示_VV 输入_NN 信号_NN ，_PU 非常_AD 重要_VA 的_DEC 一点_NN 就_AD 是_VC 需要_VV 限制_VV 输入_NN 信号_NN 的_DEG 频率_NN 范围_NN 。_PU 根据_P 采样_NN 定理_VV ，_PU 离散_VV 时间_NN 信号_NN 所_MSP 包括_VV 的_DEC 最_AD 大_JJ 频率_NN 范围_NN 是_VC formula_NN
+
+我们_PN 从_P 一_CD 个_M 冲激_NN 响应_VV 是_VC 二维_JJ 函数_NN 的_DEG 时变_NN 系统_NN 开始_VV 来_MSP 看看_VV 时_LC 不_AD 变_VV 这_DT 个_M 条件_NN 是_VC 如何_AD 将_BA 系统_NN 降到_VV 一_CD 维_M 的_DEG 。_PU 例如_AD ，_PU 假设_JJ 输入_NN 信号_NN 是_VC formula_NN __NN 117_CD ，_PU 其中_NN n_NN 是_VC 整数_AD ，_PU 即_AD formula_NN __NN 121_CD 。_PU 线性_JJ 算子_NN formulaset_NN 来说_LC 合适_VA 的_DEC 算子_NN 是_VC 一_CD 个_M 二维_NN 函数_NN
+
+由于_P formula_NN __NN 122_CD 是_VC 一_CD 个_M 线性_JJ 算子_NN ，_PU 系统_NN 在_P 输入_NN 信号_NN formula_NN
+
+如果_CS 线性_JJ 算子_NN formula_NN
+
+如果_CS 取_VV
+
+那么_AD
+
+为了_P 简化_VV 通常_AD 我们_PN 丢弃_VV formula_NN
+
+这样_AD ，_PU 卷积_NN 和_CC 表示_VV 一_CD 个_M 线性_NN 时_LC 不_AD 变_VV 系统_NN 在_P 任意_AD 输入_VV 函数_NN 上_LC 所_MSP 起_VV 的_DEC 作用_NN ，_PU 对于_P 类似_VA 的_DEC 有_VE 限维_NN 参数_NN ，_PU 参见_VV 轮换_NN 矩阵_NN
+
+如果_CS 我们_PN 给_P 系统_NN 输入_VV 一_CD 个_M 离散δ_NN 函数_NN ，_PU 由于_P δ函_NN 数_NN 是_VC 一_CD 个_M 理想_VA 的_DEC 脉冲_NN ，_PU 所以_AD 系统_NN 的_DEG 线性_JJ 时_NN 不_AD 变_VV 变换_NN 就_AD 是_VC 冲_VV 激_P 响应_NN 。_PU 我们_PN 用_P 下式_NN 表示_VV ：_PU
+
+（_PU 通过_P δ函数_NN 的_DEG sifting_NN 特性_NN ）_PU 。_PU
+
+注意_NN
+
+这样_JJ formula_NN
+
+这_DT 个_M 冲激_JJ 响应_NN 可以_VV 按照_P 下面_NN 的_DEC 方法_NN 用于_VV 得到_VV "_PU 任意_VV "_PU 输入_NN 信号_NN 的_DEG 响应_NN 。_PU 再次_AD 应用_VV formula_NN
+
+输入_VV 经过_P 系统_NN 变换_NN ，_PU
+
+系统_NN 的_DEG 所有_DT 信息_NN 都_AD 包含_VV 在_P 冲激_NN 响应_VV formula_NN
+
+一_CD 个_M 简单_VA 的_DEC 线性_NN 时_LC 不_AD 变_VV 算子_NN 的_DEG 实例_NN 是_VC 延_VV 时_LC 算子_NN formula_NN
+
+导数_NN 取_VV Z_NN 变换_NN ，_PU 就_AD 变成_VV 一_CD 个_M 简单_VA 的_DEC 与_P Z_NN 相_CC 乘_NN ：_PU
+
+差分_NT 的_DEG Z_NN 变幻_NN 如此_AD 简单_VA 也_CC 在_P 一定_JJ 程度_NN 上_LC 表明_VV 了_AS Z_NN 变换_NN 的_DEC 用途_NN 。_PU
+
+另外_AD 一_CD 个_M 简单_VA 的_DEC 线性_JJ 时_NN 不_AD 变_VV 算子_NN 是_VC 平均_JJ 算子_NN
+
+由于_P 和_CC 是_VC 线性_NN 的_DEC 所_MSP 以_VV 它_PN 也_AD 是_VC 线性_JJ 的_DEG ：_PU
+
+它_PN 也_AD 是时_AD 不_AD 变的_VV ：_PU
+
+因果性_JJ 和_NN 稳定性_NN 是_VC 系统_NN 的_DEG 重要_JJ 特性_NN 。_PU 与_P 连续_JJ 时间_NN 系统_NN 不同_VA ，_PU 我们_PN 可以_VV 实现_VV 非_AD 因果_VV 的_DEC 离散_NN 时间_NN 系统_NN 。_PU 通过_P 在_P 系统_NN 中_LC 加入_VV 延_VV 时_LC 就_AD 很_AD 容易_AD 将_BA 非_AD 因果_CS 有_VE 限冲_NN 激_NN 响应_NN 系统_NN 变成_VV 因果_NN 系统_NN 。_PU 甚至_AD 可以_VV 构建_VV 非_VC 因果_JJ 的_DEG 无限_JJ 冲激_NN 响应_NN 系统_NN （_PU 参见_VV VaidyanathanandChen_NN ,_PU 1995_CD ）_PU 。_PU 我们_PN 也_AD 可以_VV 构建_VV 不_AD 稳定_VA 的_DEC 系统_NN ，_PU 这_DT 种_M 系统_NN 在_P 很多_CD 场合_NN 都_AD 很_AD 有用_VA ，_PU 甚至_AD 也_AD 可以_VV 构建_VV 在_P 很多_CD 情况_NN 下_LC 非常_AD 有用_VA 的_DEC non_NN -_PU real_NN 系统_NN 。_PU
+
+如果_CS 系统_NN 的_DEG 输出_NN 只_AD 与_P 当前_NT 以及_CC 过去_VV 的_DEC 输入_NN 有关_P ，_PU 那么_AD 系统_NN 就_AD 是_VC 因_P 果_NN 系统_NN 。_PU 因_P 果性_NN 的_DEC 必要_JJ 且_CC 充分_JJ 条件_NN 是_VC
+
+其中_NN formula_NN
+
+如果_CS 离散_NN 系统_NN 每_DT 个_M 有界_JJ 的_DEG 输入_NN ，_PU 输出_NN 都_AD 是_VC 有_VE 界_NN 的_DEG 那么_DT 系统_NN 就_AD 是_VC 有_VE 界_NN 输入_VV 输出_NN 稳定_VA （_PU BIBO_NN 稳定_VA ）_PU 。_PU 用_P 数学_NN 方法_NN 表示_VV 就_AD 是_VC
+
+并且_CC
+
+（_PU 也就是说_AD formula_NN __NN 117_CD 和_CC formula_NN __NN 165_CD 的_DEG 最_AD 大_JJ 绝对值_NN 都_AD 是_VC 有限_VA 的_DEC ）_PU ，_PU 那么_AD 系统_NN 就_AD 是_VC 稳定_VA 的_DEC 。_PU 必要_JJ 且_CC 充分_JJ 条件_NN 就_AD 是_VC 冲激_NN 响应_VV formula_NN
+
+在_P 频域_NN 中_LC ，_PU 收_VV 敛域_NN 必须_VV 包含_VV 单位圆_NN formula_NN
+
+
+

@@ -1,0 +1,100 @@
+﻿升压_NN 变换器_NN
+
+升压_NN 变换器_NN 也_AD 称为_VV boost_NN 变换器_NN 或_CC 升压_NN 斩波器_NN ，_PU 是_VC 可以_VV 提昇_VV 电压_NN 的_DEG DC_NN -_PU DC_NN 转换器_NN ，_PU 其_PN 输出_NN （_PU 负载_NN ）_PU 电压_NN 会_VV 比_P 输入_NN （_PU 电源_NN ）_PU 电压要_NN 高_VA 。_PU 升压_NN 变换器_NN 是_VC 属于_VV 至少_AD 有_VE 二_CD 个_M 半导体_NN 元件_NN （_PU 一_CD 个_M 二极体_NN 及_CC 一_CD 个_M 电晶体_NN ）_PU 及_CC 至少_AD 一_CD 个_M 储能_NN 元件_NN （_PU 电感器_NN ）_PU 的_DEG 开关_NN 电源_NN 。_PU 为了_P 降低_VV 电压_NN 涟波_NN ，_PU 会_VV 在_P 输入端_NN 及_CC 输出端_NN 加装_VV 用_P 电容器_NN 制作_NN （_PU 有时_AD 也_AD 会_VV 配合_VV 电感器_NN ）_PU 的_DEG 滤波器_NN 。_PU
+
+升压_NN 变换器_NN 的_DEG 电源_NN 可以_VV 用_P 任何_DT 适合_VV 的_DEC 直流_JJ 电源_NN ，_PU 例如_AD 电池_NN 、_PU 太阳_NN 能板_NN 、_PU 整_DT 流子_NN 或是_CC 直流_JJ 发电机_NN 等_ETC 。_PU DC_NN -_PU DC_NN 转换器_NN 可以_VV 将_BA 某_DT 个_M 电压_NN 的_DEC 直流_JJ 电转换_NN 为_VC 不同_JJ 电压_NN 的_DEC 直流_NN 电_NN 。_PU 升压_NN 变换器_NN 是_VC 会_VV 提高_VV 电压_NN 的_DEG DC_NN -_PU DC_NN 转换器_NN ，_PU 其_PN 输出_NN 电压会_NN 较_AD 输入_VV 电压_NN 要_AD 高_VA 。_PU 不_AD 过_VV 因为_P 功率_NN （_PU formula_NN
+
+开关_NN 电源_NN 为了_P 要有_VV 高_JJ 效率_NN ，_PU 其_PN 开关_NN 需要_VV 快速_VA 的_DEV 打开_VV 及_CC 关闭_VV ，_PU 而且_CC 损失_NN 要低_VV 。_PU 1950_CD 年代_NN 商用_VV 半导体_NN 开关_NN 的_DEG 发明_NN 对_P 开关_NN 电源_NN 非常_AD 重要_VA ，_PU 因此_AD 像_P 升压_NN 变换器_NN 之_DEG 类_NN 的_DEG 开关_NN 电源_NN 才_AD 得以_VV 进行_VV 。_PU 主要_VA 的_DEC DC_NN -_PU DC_NN 转换器_NN 技术_NN 是_VC 在_P 1960_CD 年代初期_M ，_PU 可以_VV 购得_VV 半导体_NN 开关_NN 时_LC 发展_VV 的_DEC 。_PU 航天_NN 产业_NN 需要_VV 体积_NN 小_VA 、_PU 轻量化_NN 而且_CC 高_JJ 效率_NN 的_DEC 电源_NN 转换器_NN ，_PU 因此_AD 开关_VV 电源_NN 快速_AD 发展_VV 。_PU
+
+像_P 开关_NN 电源_NN 之类_LC 的_DEG 切换式_NN 系统_NN 在_P 设计_NN 上_LC 是_VC 一_CD 大_JJ 挑战_NN ，_PU 因为_P 其_PN 型态_NN 和_CC 开关_NN 何时_AD 导通_VV 、_PU 何时_NT 断路_NN 有关_VV 。_PU 加利_NN 福尼_NN 亚理_NN 工学院_NN 的_DEC 在_P 1977_CD 年_M 出版_VV 了_AS 现今_NT 使用_VV 的_DEC DC_NN -_PU DC_NN 转换器_NN 模型_NN 。_PU Middlebrook_NN 将_BA 每_DT 一_CD 个_M 开关_NN 状庇_NN 下_LC 的_DEG 电流_NN 组态_NN 用_P 一_CD 种_M 叫做_NN 状态_NN 空间_NN 平均_AD （_PU state_NN -_PU spaceaveraging_NN ）_PU 的_DEC 方式_NN 加以_VV 平均_NN 。_PU 因此_AD 将_BA 二_CD 个_M （_PU 开关_NN 导通_VV 时_LC 、_PU 开关_NN 断路_NN 时_LC ）_PU 不同_VA 的_DEC 系统_NN 方程式_NN 变成_VV 一_CD 个_M 。_PU 新_VA 的_DEC 模型_NN 带来_VV 有_VE 见_VV 地_NN 的_DEC 设计_NN 方程_NN ，_PU 也_AD 带动_VV 了_AS 开关_NN 电源_NN 的_DEC 成长_NN 。_PU
+
+电池_NN 供电_NN 的_DEC 系统_NN 一般_AD 会_VV 将_BA 电池_NN 串联_VV 来_MSP 提较_VV 高_VA 的_DEC 电压_NN ，_PU 不过_AD 在_P 许多_CD 高_JJ 电压_NN 的_DEG 应用_NN 中_LC ，_PU 因为_P 空间_NN 限制_VV ，_PU 无法_AD 用_P 足够_VV 多_CD 个_M 的_DEG 电池_NN 串联_VV 到_VV 所_MSP 需_VV 的_DEC 电压_NN 。_PU 升压_NN 变换器_NN 可以_VV 提昇_VV 电压_NN ，_PU 减少_VV 所_MSP 需_VV 的_DEC 电池_NN 数量_NN 。_PU 像_P 电动车_NN 及_CC 照明_NN 系统_NN 就_AD 是_VC 利用_VV 电池_NN 再_AD 配合_VV 升压_NN 变换器_NN 供电_VV 的_DEC 系统_NN 。_PU
+
+NHW20_CD 的_DEG 丰田_NN 普锐斯_NR 混合_VV 动力车_NN 使用_VV 500V_CD 的_DEG 电动机_NN ，_PU 若_CS 没有_VE 升压_NN 变换器_NN ，_PU 需要_VV 使用_VV 将_BA 近_AD 417_CD 个_M 电池_NN 来_MSP 驱动_VV 电动机_NN ，_PU 不过_CC 丰田_AD 普锐斯_NR 只用_VV 了_AS 168_CD 个_M 电池_NN ，_PU 再_AD 利用_VV 升压_NN 变换器_NN 将_BA 电池_NN 总电压_NN 从_P 202V_CD 提昇_VV 到_VV 500V_CD 。_PU 升压_NN 变换器_NN 也_AD 可以_VV 用来_VV 作_VV 一些_CD 较_AD 小型_JJ 设备_NN 的_DEG 供电_NN ，_PU 例如_AD 可携式_JJ 照明_NN 系统_NN ，_PU 像_P 白光_NN LED_NN 一般_AD 需要_VV 3_CD ._PU 3V_NN 才_AD 能_VV 发光_VV ，_PU 配合_VV 升压_NN 变换器_NN 可以_VV 用_P 硷式_NN 电池_NN 提供_VV 的_DEC 1.5_CD V_CD 电压_NN ，_PU 升压_VV 后_LC 再_AD 供电_VV 。_PU
+
+有_VE 一_CD 种_M 称为_VV 的_DEC 电路_NN 就_AD 是_VC 利用_VV 未_AD 稳压_VV 的_DEC 升压_NN 变换器_NN 作为_P 增压_VV 的_DEC 机制_NN 。_PU 此_DT 电路_NN 架构_NN 用_VV 在_P 低_JJ 电压_NN 的_DEG 电池_NN 应用_NN 中_LC ，_PU 目的_NN 在于_VV 利用_VV 升压_NN 变换器_NN 来_MSP 取得_VV 电池_NN 中_LC 残余_VV 的_DEC 电力_NN 。_PU 当_P 电池_NN 几乎_AD 没电_VV 时_LC ，_PU 因为_P 电压_NN 不够_VV ，_PU 无法_AD 驱动_VV 一般_JJ 负载_NN ，_PU 此时_NT 电池_NN 的_DEG 残余_NN 电力_NN 就_AD 浪费_VV 了_AS 。_PU
+
+升压_NN 变换器_NN 的_DEG 基本_JJ 原理_NN 就_AD 是_VC 利用_VV 电抗器_NN 在_P 电流_NN 变化_NN 时_LC 会_VV 产生_VV 或_CC 消除_VV 磁场_NN ，_PU 来_MSP 抵抗_VV 电流_NN 的_DEG 变化_NN 。_PU
+在_P 升压_NN 变换器_NN 中_LC ，_PU 输出_NN 电压_NN 恒_AD 大于_VV 输入_VV 电压_NN ，_PU 图_NN 1_CD 为_VC 其_PN 线路图_NN 。_PU
+
+(_PU a_NN )_PU 当_P 开关_NN 导通_VV 时_LC (_PU S_NN -_PU ON)_NN ，_PU 电流_NN 以_MSP 顺时针_AD 的_DEG 方向_NN 经过_VV 电感器_NN ，_PU 电感器_NN 开始_VV 产生_VV 磁场_NN 来_MSP 储存_VV 能量_VV ，_PU 电感器_NN 的_DEG 左侧_NN 为_VC 正极_NN 。_PU
+
+(b_NOI )_PU 当_P 开关_NN 开路_NN 时_LC (_PU S_NN -_PU OFF_NN )_NN ，_PU 因为_P 其_PN 阻抗_NN 较_AD 大_VA ，_PU 电流_NN 会_VV 下降_VV ，_PU 之前_AD 产生_VV 的_DEC 磁场_NN 会_VV 慢慢_AD 减少_VV ，_PU 设法_AD 提供_VV 负载_VV 的_DEC 电流_NN 。_PU 电感器_NN 的_DEG 极性_JJ 会_VV 倒转_JJ （_PU 左侧_NN 变为_VV 为_VC 负极_NN ）_PU 。_PU 因此_AD 二_CD 个_M 电压源_NN 会_VV 叠加_VV ，_PU 经过_VV 二极体_NN 来_VV 为_VC 电容器_NN 充电_VV 。_PU
+
+若_CS 开关_VV 切换_NN 的_DEC 够快_NN ，_PU 电感器_NN 在_P 二_CD 次_M 的_DEG 充电_NN 之间_LC ，_PU 不_AD 会_VV 完全_AD 放电_VV 到_VV 零电压_NN ，_PU 若_CS 开关_NN 开路_NN 时_LC (_PU S_NN -_PU OFF_NN )_PU ，_PU 负载_NN 会_VV 持续_VV 接收_VV 到_VV 比_P 输入_NN 电压_NN 要_VV 大_VA 的_DEC 电压_NN 。_PU 此时_NT 和_CC 负载_VV 并_CC 联_VV 的_DEC 电容器_NN 也_AD 同时_AD 充电_VV ，_PU 若_CS 开关_NN 导通_VV 时_LC (_PU S_NN -_PU ON)_NN ，_PU 二极体_NN 逆向_VV 偏_AD 压_VV 无法_AD 导通_VV ，_PU 此时_NT 就_AD 由_P 电容器_NN 来_MSP 提供_VV 负载_NN 电源_NN 。_PU 而且_CC 二极体_NN 也_AD 避免_VV 电容器_NN 透过_P 导通_VV 的_DEC 开关_NN 来_MSP 放电_VV 。_PU 当然_AD 开关_NN 需要_VV 很_AD 快_VA 的_DEC 再_AD 开路_VV ，_PU 以免_AD 电容器_NN 放电_NN 过_AD 多_VA 。_PU
+
+升压_NN 变换器_NN 的_DEG 基本_JJ 原理_NN 包括_VV 二_CD 个_M 不同_VA 的_DEC 状态_NN （_PU 参考_VV 图_NN 2_CD ）_PU ：_PU
+
+升压_NN 变换器_NN 的_DEG 连续_JJ 模式_NN 是_VC 指_VV 在_P 运作_VV 时_LC 电感器_NN 电流_NN （_PU formula_NN
+输出_NN 电压_NN 可以_VV 用以_VV 下方_NN 计算_VV ，_PU 假设_VV 使用_VV 的_DEC 是_VC 理想_JJ 元件_NN ，_PU 在_P 稳态_NN 下_LC 操作_NN ：_PU
+
+在_P On_NN 状态_NN 时_LC ，_PU 开关_NN S_NN 导通_NN ，_PU 使_VV 电感器_NN 两_CD 端_NN 的_DEG 电压_NN 即_AD 为_VC 输入_VV 电压_NN ，_PU 使_VV 电感器_NN 的_DEG 电流_NN （_PU formula_NN
+
+formula_NN
+
+在_P On_NN 状态_NN 的_DEC 最后_AD ，_PU 电流_NN 的_DEC 总增_JJ 加量_NN 为_VC ：_PU
+
+formula_NN
+
+D_NN 为_VC 占空比_NN ，_PU 代表_VV 开关_NN 导通_VV 时间_NN 相对_AD 导通_VV 周期_NN T_NN 的_DEG 比例_NN ，_PU 因此_AD D_NN 的_DEG 范围_NN 在_P 0_OD （_PU S_OD 完全_AD 不_AD 导_VV 通_VV ）_PU 到_VV 1_CD （_PU S_NN 完全_AD 导通_VV ）_PU 之间_LC 。_PU
+
+在_P Off_NN 状态_NN 时_LC ，_PU 开关_NN S_NN 开路_NN ，_PU 电抗器_NN 的_DEG 电流_NN 会_VV 流到_VV 负载端_NN ，_PU 若_CS 假设_VV 二极体_NN 的_DEC 压降_NN 为_VC 0_CD ，_PU 电容器_NN 的_DEG 容值_NN 够_AD 大_VA ，_PU 使_VV 输出_NN 电压_NN 可以_VV 维持_VV 定值_VV ，_PU 则_AD I_NN 的_DEG 变化_NN 为_VC ：_PU
+
+formula_NN
+
+因此_AD 在_P Off_NN 状态_NN 电流_NN 的_DEG 变化_NN 为_VC ：_PU
+
+formula_NN
+
+因为_P 假设_JJ 升压_NN 变换器_NN 是_VC 运作_VV 在_P 稳_NN 态_NN 下_LC ，_PU 各_DT 元件_NN 储能_VV 会_VV 在_P 切换_NN 周期_NN 中_LC 变化_VV ，_PU 但_AD 在_P 切换_NN 周期_NN 的_DEG 开始_NN 及_CC 最后_AD ，_PU 各_DT 元件_NN 的_DEG 储能_NN 会_VV 相同_VA ，_PU 电感器_NN 的_DEG 储能_NN 为_VC ：_PU
+
+formula_NN
+
+因此_AD ，_PU 电感器_NN 的_DEG 电流_NN 在_P 切换_NN 周期_NN 一_CD 开始_VV 及_CC 结束_VV 时_LC 需_VV 相等_VV ，_PU 因此_AD 总_JJ 电流_NN 变化_NN 为_VC 零_CD ：_PU
+
+formula_NN
+
+将_BA formula_NN __NN 10_CD 及_CC formula_NN
+
+formula_NN
+
+可以_VV 写成_VV ：_PU
+formula_NN
+
+上式_JJ 可以_VV 看出_VV 输出_NN 电压_NN 恒_AD 大于_VV 输入_VV 电压_NN （_PU 因为_P 占空比_NN 是_VC 在_P 0_CD 到_CC 1_CD 之间_LC ）_PU ，_PU 而且_CC 会_VV 随_P D_NN 而_MSP 增加_VV ，_PU 若_CS D_NN 接近_VV 1_CD 时_LC ，_PU 转换_VV 比例_PN 理论_VA 上_LC 会_VV 趋近_VV 无限_AD 大_VA
+
+改写_VV 上述_JJ 公式_NN 可得_VV ：_PU
+
+formula_NN
+
+若_CS 电流_NN 涟波_NN 太_AD 大_VA ，_PU 电感器_NN 的_DEG 电流_NN 可能_VV 在_P 切换_NN 周期_NN 结束_VV 前_LC 就_AD 已_AD 降到_VV 零_CD 。_PU 这_DT 一般_AD 会_VV 出现_VV 在_P 轻载_VA 的_DEC 情形_NN 下_LC ，_PU 在_P 图_NN 4_CD 中_LC ，_PU 在_P 切换_NN 周期_NN 最后_AD 会_VV 有_VE 一_CD 段_M 时间_NN 的_DEC 电感器_NN 电流_NN 为_VC 0_CD 。_PU 虽然_CS 看似_VV 轻微_VA ，_PU 不过这_AD 影响_VV 会_VV 对_P 输出_NN 电压_NN 的_DEC 方程_NN 有_VE 很_AD 大_VA 的_DEC 影响_NN 。_PU 可以_VV 用以_VV 下方_NN 计算_VV ：_PU
+
+若_CS 在_P 周期_NN 开始_VV 时_LC ，_PU 电感器_NN 电流_NN 为_VC 零_CD ，_PU 其_PN 最_AD 大值_NN 为_VC formula_NN __NN 15_CD （_PU 在_P formula_NN
+
+formula_NN
+
+在_P off_NN 期间_NN ，_PU 在_P formula_NN
+
+formula_NN
+
+利用_VV 上述_JJ 二式_NN 可得_VV ：_PU
+
+formula_NN
+
+负载_NN 电流_NN I_NN 等于_VV 平均_JJ 二极体_NN 电流_NN 。_PU 如_P 图_NN 4_CD 所_MSP 见_VV ，_PU 二极体_NN 电流_NN 等于_VV 在_P off_NN 期间_NN 的_DEG 电感器_NN 电流_NN ，_PU 因此_AD 输出_VV 电流_NN 如下_VV ：_PU
+
+formula_NN
+
+将_BA I_NN 及_CC δ改_NN 为_VC 其他_DT 算式_NN ，_PU 可得_VV ：_PU
+
+formula_NN
+
+因此_AD ，_PU 输出_NN 电压_NN 增益_VV 为_VC ：_PU
+
+formula_NN
+
+上式_JJ 比_NOI 连续_JJ 模式_NN 下_LC 的_DEG 输出_NN 电压_NN 要_VV 复_AD 杂多_VV 了_AS ，_PU 而且_CC 输出_NN 电压_NN 增_VV 益_NN 不_AD 止_VV 和_P 占空_NN 比_P 有关_P ，_PU 也_AD 和_P 电感器_NN 感值_NN （_PU L_NN ）_PU 、_PU 输入_NN 电压_NN （_PU V_NN ）_PU 、_PU 切换_NN 周期_NN （_PU T_NN ）_PU 及_CC 输出_NN 电流_NN （_PU I_NN ）_PU 。_PU
+
+
+
+

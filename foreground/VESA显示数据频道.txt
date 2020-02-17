@@ -1,0 +1,11 @@
+﻿_CD VESA_NN 显示_NN 数据_NN 频道_NN
+
+VESADisplayDataChannel_NN (_PU VESA_NN 显示_NN 数据_NN 频道_NN ，_PU 简称_VV VESADDC_NN )_NN ，_PU 是_VC VESA_NN 为了_P 显示器_NN 提供_VV 即_AD 插_VV 即_AD 用_VV 的_DEC 功能_NN 而_MSP 制定_VV 的_DEC 标准_NN 。_PU
+
+显示_NN 设备_NN 数据_NN 可以_VV 通过_P VGA_NN ，_PU DVI_NN ，_PU HDMI_NR 端子_NN 向_P 显示卡_NN 提供_VV 显示器_NN 生产_NN 厂家_NN ，_PU 型号_NN ，_PU 分辨率_NN 等_ETC 各_DT 种_M 固有_JJ 信息_NN 。_PU
+
+信号_NN 线分_NN 为_VC 数据线_NN ，_PU 时钟_NN 同_DT 步线_NN 和_CC 接地线_NN 3_CD 种_M 类型_NN 。_PU
+
+信号_NN 格式_NN 为_VC EDID_NN (_PU ExtendedDisplayIdentificationData_NN )_NN 。_PU
+
+

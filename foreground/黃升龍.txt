@@ -1,0 +1,9 @@
+﻿黄升龙_NN
+
+黄升龙_NN 出生_VV 于_P 中华民_NN 国_NN ，_PU 1986_CD 年_M 毕业_NN 於_P 国立_NN 台湾_NR 大学_NN 电机_NN 系_NN ，_PU 1988_CD 年_M 出国_JJ 深造_NN ，_PU 於_P 1993_CD 年_M 取得_VV 美国_NR Maryland_NN 大学_NN 电机_NN 工程_NN 博士_NN 学位_NN 后_LC ，_PU 回到_VV 台湾_NN 贡献_VV 所_MSP 学_VV ，_PU 进行_VV 学术_NN 研究_NN 。_PU
+
+黄_CS 教授_VV 的_DEC 专长_NN 为_VC 雷射_NN 及_CC 非线性_JJ 光学_NN ，_PU 主要_JJ 研究_NN 方向_NN 为_VC 雷射_NN 及_CC 非线性_JJ 晶体_NN 在_P 光_AD 通讯_VV 、_PU 生医_NN 光电_NN 等_ETC 领域_NN 之_DEG 应用_NN 。_PU 具体而_AD 言有_VV 以下_JJ 三_CD 大_JJ 主轴_NN ：_PU
+
+
+
+

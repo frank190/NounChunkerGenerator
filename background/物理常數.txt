@@ -1,0 +1,11 @@
+﻿物理_NN 常数_NN
+
+物理_NN 常数_NN ，_PU 或_CC 称_VV 物理_NN 定数_NN 、_PU 物理_NN 常量_NN 或_CC 自然_JJ 常数_NN ，_PU 指_VV 的_DEC 是_VC 物理学_NN 中_LC 数值_NN 固定_VV 不_AD 变_VV 的_DEC 物理量_NN 。_PU 它_PN 与_P 数学_NN 常数_NN 不同_VA ，_PU 数学_NN 常数_NN 指_VV 的_DEC 是_VC 一_CD 个_M 在_P 数值_NN 上_LC 固定_VV 不_AD 变_VV 的_DEC 值_NN ，_PU 但是_CC 这_DT 个_M 值_NN 不_AD 一定_AD 与_P 物理_NN 测量_VV 有关_P 。_PU
+
+物理_NN 常数_NN 有_VE 很_AD 多_VA ，_PU 其中_NN 比较_AD 著名_VA 的_DEC 有_VE 真空_NN 光速_NN 、_PU 普朗克_NN 常数_NN 、_PU 万_CD 有_VE 引力_NN 常数_NN 、_PU 玻尔_NN 兹曼_NN 常数_NN 及_CC 阿伏_NN 伽德罗_NN 常数_NN 。_PU 它们_PN 被_SB 假设_VV 在_P 宇宙_NN 中_LC 任何_DT 地方_NN 和_CC 任何_DT 时刻_NN 都_AD 相同_VA 。_PU 物理_NN 常数_NN 的_DEC 物理_NN 意义_VV 有_VE 很多_CD 表述_JJ 形式_NN ，_PU 普朗克_NR 长度_NN 表征_NN 基本物理_NN 长度_NN ，_PU 真空_NN 光速_NN 是_VC 宇宙_NN 中_LC 最_AD 大_VA 的_DEC 速度_NN ，_PU 精细_JJ 结构_NN 常数_NN 则_AD 表征_VV 了_AS 电子_NN 和_CC 光子_NN 之间_LC 的_DEG 相互_JJ 作用_NN ，_PU 是_VC 一_CD 个_M 无量_AD 纲量_NN 。_PU
+
+从_P 1937_CD 年_M 开始_NN ，_PU 狄拉克_NN 等_ETC 物理_NN 学家_NN 开始_VV 意识_VV 到_VV 物理_NN 常数_NN 有_VE 可能_VV 随着_P 宇宙_NN 年龄_VV 的_DEC 增长_NN 而_MSP 发生_VV 变化_NN ，_PU 但_CC 时至_AD 今日_NT 还_AD 没有_VE 明确_VA 的_DEC 实验证_NN 据_AD 能够_VV 证明_VV 狄_CD 拉克_NN 提出_VV 的_DEC 这_DT 种_M 可能性_NN 。_PU 但_CC 科学_NN 家们_NN 已经_AD 探测_VV 到_VV 了_AS 一些_CD 物理量_NN 可能_VV 每_DT 年_M 都_AD 依_P 极_AD 小_VA 的_DEC 量_NN 发生_VV 变化_NN ，_PU 并_CC 划定_VV 了_AS 这_DT 种_M 变化_NN 幅度_NN 可能_VV 的_DEC 上限_NN (_PU 万_CD 有_VE 引力_NN 常数_NN 变化_VV 的_DEC 量_NN 大约_AD 是_VC 一年_NT 10_CD ；_PU 精细_JJ 结构_NN 常数_NN 变化_VV 的_DEC 量_NN 大约_AD 是_VC 一_CD 年_M 10)_CD 。_PU
+
+以下_NN 是_VC 部分_NN 物理_NN 常数_NN 的_DEG 列表_NN ：_PU
+
+

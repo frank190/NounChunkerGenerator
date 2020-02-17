@@ -1,0 +1,11 @@
+﻿折_NN 射率_NN 列表_NN
+
+作为_P 物质_NN 的_DEC 特征_NN 之一_LC ，_PU 不同_VA 的_DEC 物质_NN 具有_VV 不同_VA 的_DEC 折射率_NN ，_PU 且_CC 折射率_NN 与_CC 光_NN 的_DEG 频率_NN 有关_P 。_PU 标准_JJ 折射率_NN 是_VC 指_VV 光_NN 波长_NN 为_VC 589_CD 纳米_NN （_PU 即_AD 钠_VV 原子_NN 光谱_NN 中_LC 的_DEG 双_CD 黄线_NN ）_PU 条件_NN 下_LC 测量_AD 得到_VV 的_DEC 折射率_NN 。_PU
+
+折射率_NN 亦_AD 与_P 温度_NN 、_PU 压强_NN 或_CC 应力_NN 、_PU 物质_NN 组成_VV （_PU 例如_AD 杂质_NN 含量_NN ）_PU 等_ETC 有_VE 较_AD 弱_VA 的_DEC 关联_NN 。_PU 对于_P 大_JJ 多数_NN 物质_NN 来说_LC ，_PU 通常_JJ 情况_NN 下_LC 这些_DT 因素_NN 导致_VV 的_DEC 折射率_NN 变化_NN 在_P 1%_CD 或_CC 更_AD 低_VA 的_DEC 数量级_NN 。_PU 然而_AD ，_PU 若_CS 对_P 精度_NN 有所_AD 要求_VV ，_PU 就_AD 有_VE 必要_CS 引用_VV 折射率_NN 的_DEG 测量_NN 来源_NN 。_PU
+
+一般_AD 来说_VV ，_PU 折射率_NN 是_VC 复数_CD ，_PU 即_AD 包含_VV 实数_NN 和_CC 虚数_NN 部分_NN ，_PU 其中_NN 虚数_NN 部分_NN 表征_NN 物质_NN 对_P 特定_JJ 波长_NN 的_DEC 光_NN 的_DEG 吸收_NN 强度_NN ，_PU 因此_AD 虚_VA 数_CD 部_M 分有_VV 时_LC 也_AD 被_SB 称为_VV 消光_NN 系数_NN formula_NN
+
+
+
+

@@ -1,0 +1,6 @@
+﻿_NN 完全_AD 非_AD 弹性_JJ 碰撞_NN
+
+在_P 经_P 典力_NN 学里_VV ，_PU 两_CD 个_M 物体_NN 在_P 碰撞_VV 时_LC ，_PU 若_CS 碰撞_VV 后_LC 两_CD 个_M 物体_NN 黏贴_VV 在_P 一起_NN ，_PU 没有_VE 任何_DT 弹跳_NN 运动_NN ，_PU 则_AD 为_VC 完全_AD 非_AD 弹性_JJ 碰撞_NN 。_PU 完全_AD 非_AD 弹性_JJ 碰撞_NN 的_DEG 恢复_NN 系数_NN 为_VC 0_CD ，_PU 损失_NN 的_DEC 系统_NN 总_JJ 动能_AD 最多_VV 。_PU
+
+
+

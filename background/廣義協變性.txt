@@ -1,0 +1,10 @@
+﻿广义_NN 协变性_NN
+
+理论物_NN 理学_NN 中_LC ，_PU 广义_JJ 协变性_NN （_PU 又_AD 称为_VV 微分_NN 同_DT 胚_NN 协变性_NN 、_PU 广义_NN 不变性_NN ）_PU 为_VC 物理_NN 定律_NN 的_DEG 形式_NN 在_P 任意_NN 微分座_NN 标转_VV 换下_AD 保持_VV 不_AD 变_VV 。_PU 其_PN 精神_NN 在于_VV 座标_VV 并_CC 非先验_AD 地_DEV 存在_VV 于_P 自然_PN 中_LC ，_PU 而_CC 是_VC 人们_NN 欲_VV 描述_VV 自然_AD 所_MSP 伴随_VV 的_DEC 人工_NN 产物_NN ；_PU 也_AD 因此_AD 不_AD 应_VV 在_P 基本_JJ 物理_NN 定律_NN 中_LC 具有_VV 实质_NN 物理_NN 意义_NN 。_PU
+
+以_P 广义_JJ 协变性_NN 表示_VV 的_DEC 物理_NN 定律_NN ，_PU 在_P 所有_DT 座标系_NN 中_LC 皆_AD 应_VV 保持_VV 相同_VA 的_DEC 数学_NN 形式_NN 。_PU 欲_AD 达成_VV 此_DT 目标_NN ，_PU 通常_AD 会_VV 以_P 张量场_NN 来_MSP 描述_VV 物理量_NN 。_PU 古典_NN 电磁学_NN （_PU 非_AD 量子_NN 的_DEC ）_PU 为_VC 其中_NN 一_CD 项_M 例子_NN 。_PU 阿尔伯_NR 特_ETC ·_PU 爱因_VV 斯_DT 坦_CD 在_P 1905_CD 年_M 提出_VV 的_DEC 狭义_NN 相_AD 对论_VV 以及_CC 1915_CD 年_M 提出_VV 的_DEC 广义_NN 相对_AD 论皆_VV 采用_VV 广义_JJ 协变性_JJ 原则_NN ；_PU 然而_AD 前者_VV 的_DEC 例子_NN 侷限_NN 在_P 平直_JJ 时空_NN 的_DEC 惯性_JJ 参考系_NN ，_PU 为_VC 全域_DT 的_DEG 劳仑_NN 兹_JJ 协变性_NN 。_PU 后者_NN 则_AD 推广_VV 为_VC 局域_NN 的_DEG 劳仑_NN 兹_JJ 协变性_NN ，_PU 以_P 适用_VV 所有_DT 参考_NN 系_NN ，_PU 并_CC 能_VV 解释_VV 加速_VV 运动_NN 与_P 重力_NN 现象_NN 。_PU
+
+古典统_NN 一_CD 场论_NN 的_DEG 大_JJ 部分_NN 工作_VV 著_AS 墨_NN 於_P 将_BA 广义_NN 相对_AD 论推_VV 广_VA 至_VV 涵盖_NN 电磁学_NN 等_ETC 物理_NN 现象_NN ，_PU 其_PN 推论_NN 基础_NN 亦_AD 即_AD 广义_JJ 协变性_NN 。_PU
+
+
+

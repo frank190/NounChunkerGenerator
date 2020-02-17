@@ -1,0 +1,25 @@
+﻿_JJ 表面_NN 科学_NN
+
+表面_NN 科学_NN （_PU ）_PU 主要_AD 研究_VV 的_DEC 是_VC 发生_VV 在_P 两_CD 种_M 相_NN 的_DEG （_PU 例如_AD 固_AD -_PU 液界面_NN 、_PU 固_AD -_PU 气界面_NN 、_PU 固_AD -_PU 真空_NN 界面_NN 和_CC 液_NN -_PU 气_NN 界面_NN ）_PU 上_LC 的_DEG 物理_NN 和_CC 化学_NN 现象_NN ，_PU 其_PN 子_NN 领域_NN 包括_VV 表面_NN 化学_NN 和_CC 表面_NN 物理_NN 。_PU 表面_NN 科学_VV 的_DEC 相关_JJ 实际_JJ 应用_NN 常_AD 被_SB 称为_VV 表面_NN 工程_NN （_PU ）_PU ，_PU 其中_NN 的_DEG 概念_JJ 包括_VV 多_CD 相_M 催化_VV 、_PU 半导体_NN 器件_NN 制造_NN 、_PU 燃料_NN 电池_NN 、_PU 自_P 组装_NN 单_JJ 分子_NN 膜_NN 、_PU 黏合剂_NN 等_ETC 。_PU 表面_NN 科学_NN 和_CC 密切_NN 相关_CC ；_PU
+
+表面_NN 化学_NN 领域_NN 开始_VV 于_P 由_P 保罗_NN ·_PU 萨巴捷_NN （_PU PaulSabatier_NN ）_PU 在_P 氢化_NN 上_LC 开创_VV 的_DEC 多_CD 相_AD 催化_VV 和_CC 弗里茨_VV ·_PU 哈_NN 伯_OD （_PU FritzHaber_NN ）_PU 对_P 哈柏法_NN 的_DEG 开发_NN 。_PU 欧文_NN ·_PU 朗缪尔_NN （_PU IrvingLangmuir_NN ）_PU 也_AD 是_VC 这_DT 个_M 领域_NN 的_DEC 创始人_NN 之_DEG 一_NN ，_PU 表面_NN 科学_VV 的_DEC 科学_NN 杂志_NN 《_PU 朗缪尔_NN (_PU 期刊_NN )_PU 》_PU （_PU 《_PU Langmuir_NN 》_PU ）_PU 以_P 他_PN 的_DEG 名字_NN 命名_NN 。_PU 用于_VV 模拟_VV 单_JJ 层_NN 吸附_VV ，_PU 其中_NN 所有_DT 表面吸_NN 附位点_NN 对_P 吸附物_NN 种_M 具有_VV 相同_VA 的_DEC 亲和力_NN 。_PU 格哈德_NN ·_PU 埃特尔_NN （_PU Gerha_JJ rdErtl_NR ）_PU 在_P 1974_CD 年_M 首次_AD 描述_VV 了_AS 使用_VV 称为_VV 低能_NN 电子_NN 衍射_NN （_PU LEED_NN ）_PU 的_DEC 新_JJ 技术_NN 在_P 钯_DT 表面_NN 上_LC 吸附氢_VV 。_PU 随后_AD 是_VC 对_P 铂_NN ，_PU 镍_NN ，_PU 和_CC 铁_NN 的_DEG 类似_NN 研究_NN 。_PU 表面_NN 科学_NN 方面_NN 的_DEC 最新_JJ 发展_NN 包括_VV 2007_CD 年_M 诺贝_JJ 尔化学_NN 奖得_NN 主格_NN 哈_VV 德_NN ·_PU 埃_NN 特_AD 尔_VV 在_P 表面_NN 化学_NN 领域_NN 的_DEG 进步_VV ，_PU 特别_AD 是_VC 他_PN 对_P 一_CD 氧化碳_NN 分子_NN 和_CC 铂表面_NN 之间_LC 相互_AD 作用_VV 的_DEC 研究_NN 。_PU
+
+表面_NN 化学_NN 可以_VV 粗略_AD 地_DEV 定义_VV 为_VC 在_P 界面_NN 处_NN 化学_NN 反应_NN 的_DEC 研究_NN 。_PU 它_PN 与_P 表面_NN 工程_NN 密切_NN 相关_VV ，_PU 其_PN 目的_NN 在于_VV 通过_P 引入_VV 选择_VV 的_DEC 元素_NN 或_CC 官能团_NN 来_MSP 改变_VV 表面_NN 的_DEG 化学_NN 组成_NN ，_PU 所_MSP 述_VV 元素_NN 或_CC 官能_NN 团_VV 在_P 表面_NN 或_CC 界面_NN 的_DEC 性质_NN 中_LC 产生_VV 各_DT 种_M 期望_NN 的_DEC 效果_NN 或_CC 改进_NN 。_PU 表面_NN 科学_NN 对_P 多_PN 相_AD 催化_VV ，_PU 电化学_NN 和_CC 地球_NN 化学_NN 领域_NN 特别_AD 重要_VV 。_PU
+
+表面物_NN 理学_NN 可以_VV 粗略_AD 地_DEV 定义_VV 为_VC 在_P 界面_NN 处_NN 发生_VV 的_DEC 物理_NN 变化_VV 的_DEC 研究_NN 。_PU 它_PN 与_P 表面_NN 化学_NN 重叠_NN 。_PU 通过_P 表面_NN 物理_NN 研究_VV 的_DEC 一_CD 些事物_NN 包括_VV 表面_NN 状态_NN ，_PU ，_PU ，_PU 表面_NN 声子_NN 和_CC 电浆子_NN （_PU Plasmon_NN ）_PU ，_PU 外延_NN 和_CC 表面_NN 增强_VV 拉曼_NN 散射_VV ，_PU 电子_NN 的_DEG 发射_NN 和_CC 隧穿_NN ，_PU 自_P 旋电_NN 子学_NN 和_CC 纳米_NN 结构_NN 在_P 表面_NN 上_LC 的_DEG 自_NN 组装_NN 。_PU 在_P 由_P 纳米级_NN 尺度_NN 上_LC 的_DEG 几何_DT 约束_AD 限定_VV 的_DEC （_PU Confinedliquid_NN ）_PU 中_LC ，_PU 大多_CD 数分子_NN 感测_VV 到_VV 一些_CD 表面_NN 效应_NN ，_PU 这_PN 可能_VV 导致_VV 物理_NN 性质_NN 严重_AD 偏离_VV 本体_NN 液体_NN （_PU Bulkliquid_NN ）_PU 的_DEG 物理_NN 性质_NN 。_PU
+
+表面_NN 的_DEC 研究_NN 和_CC 分析_NN 涉及_VV 物理_NN 的_DEG 和_CC 化学_NN 的_DEC 分析_NN 技术_NN 。_PU
+
+几_CD 种_M 现代_NN 方法_NN 探测_VV 暴露_VV 于_P 真空_NN 的_DEG 最_AD 上面_NN 1_CD -_PU 10_CD nm_NN 的_DEC 表面_NN 。_PU 这些_DT 包括_VV X_NN 射线_NN 光电子_NN 能谱法_NN ，_PU 俄歇_NN 电子_NN 能谱法_NN ，_PU 低_AD 能_VV 电子_NN 衍射法_NN （_PU LEED_NN ）_PU ，_PU 电子_NN 能量_NN 损_NN 失谱_NN 法_NN ，_PU 法_NN ，_PU 离子_NN 散射谱_NN 法_NN ，_PU 二_CD 次_M 离子_NN 质_NN 谱_VV 法_NN ，_PU 法_NN ，_PU 以及_CC 其_PN 他_PN 。_PU 许多_CD 这些_DT 技术_NN 需要_VV 真_AD 空_VA ，_PU 因为_P 它们_PN 依赖于_VV 从_P 所_MSP 研究_VV 的_DEC 表面_NN 发射_VV 的_DEC 电子_NN 或_CC 离子_NN 的_DEG 检测_NN 。_PU
+
+纯_JJ 光学_NN 技术_NN 可_VV 用于_VV 在_P 各_DT 种_M 条件_NN 下_LC 研究_VV 界面_NN 。_PU
+
+X射线_NN 散射_NN 和_CC 光谱_NN 技术_NN 也_AD 用于_VV 表征_NN 表面_NN 和_CC 界面_NN 。_PU
+
+X射线_NN 光电子_NN 能谱学_NN （_PU XPS_NN ）_PU 是_VC 用于_VV 测量_NN 表面_NN 物质_NN 的_DEC 化学_NN 状态_NN 和_CC 用于_VV 检测_VV 表面_NN 污染_VV 的_DEC 存在_VV 的_DEC 标准_NN 工具_NN 。_PU
+
+现代_NN 物理_NN 分析_NN 方法_NN 包括_VV 扫描_NN 隧道_NN 显微镜_NN （_PU S_CD TM_M ）_PU 和_CC 从_P 其_PN 衍生_VV 的_DEC 一_CD 系列_NN 方法_NN ，_PU 包括_VV 原子_NN 力显_NN 微镜_NN （_PU AFM_NN ）_PU 。_PU
+
+
+
+

@@ -1,0 +1,12 @@
+﻿测_NN 角仪_NN
+
+测角仪_NN 是_VC 一_CD 种_M 用于_VV 测量_NN 角度_NN 或_CC 将_BA 物体_NN 进行_VV 精确_JJ 角度_NN 旋转_VV 的_DEC 仪器_NN 。_PU “_PU 测_VV 角术_NN ”_PU 的_DEG 英文_NN 单词_AD “_PU goniometry_NN ”_PU 来自_VV 两_CD 个_M 希腊_NN 语词根_NN ——_PU "_PU gonia_NN "_PU 意_NN 为_VC “_PU 角度_NN ”_PU ；_PU "_PU metron_NN "_PU 意_NN 为_VC 测量_NN 。_PU
+
+针对_AD 不同_VA 的_DEC 应用_NN 背景_NN ，_PU 人们_NN 设计_VV 了_AS 多_CD 种_M 不同_JJ 类型_NN 的_DEG 测角仪_NN 。_PU
+
+接触角_NN 测量仪_NN 由_P 美国_NR 海军_NN 研究_NN 实验室_NN （_PU ）_PU 的_DEG 威廉_NN ·_PU 济_VV 斯_DT 曼_NN （_PU WilliamZisman_NN ）_PU 博士_NN 发明_NN ，_PU 由_P 莱姆_NN -_PU 哈特_NR 公司_NN （_PU ram_NN é_NN -_PU hartinstrumentco_NN ._PU ）_PU 于_P 1960_CD 年代_NN 试_VV 制成_VV 功_NN 。_PU 目前_NN ，_PU 人们_NN 不仅_AD 可以_VV 生产_VV 基于_P 济_NN 斯_DT 曼_NN 博士_NN 设计_VV 思想_VV 的_DEC 手动_JJ 接触角_NN 仪_NN ，_PU 还_AD 开发_VV 出_VV 了_AS 各_DT 种_M 利用_VV 摄像机_NN 和_CC 软件_NN 控制_VV 的_DEC 全_DT 自动_JJ 测角仪_NN ，_PU 测量_NN 领域_NN 也_AD 不仅_AD 局限于_VV 测量_JJ 液体_NN 接触角_NN 和_CC 表面能_NN ，_PU 还_AD 括展_VV 到_VV 表面_NN 张力_NN 的_DEC 悬滴法_NN （_PU pendantdrop_NN ）_PU 和_CC 躺滴法_NN （_PU sessiledrop_NN ）_PU 测量_VV 等等_JJ 其他_DT 技术_NN 中_LC 。_PU 手动_JJ 接触角_NN 仪_AD 需要_VV 操作员_NN 从_P 显微镜_NN 目镜_NN 中_LC 观察_VV 测量_NN 。_PU 新一代_JJ 测角_NN 仪_NN 则_AD 可_VV 利用_VV 摄像机_NN 和_CC 计算机_NN 软件_NN 自动_AD 获取_VV 和_CC 分析_VV 液滴_NN 形状_NN 。_PU
+
+晶体_NN 学_VV 测角_NN 仪_NN 用于_VV 测量_VV 晶体_NN 中晶_NN 面间_NN 的_DEC 夹角_NN 。_PU 在_P X_NN 射线_NN 衍射_NN 测量_NN 中_LC ，_PU 测角_NN 仪_NN 用于_VV 精确_AD 旋转_VV 试样_NN 。_PU 测角_NN 仪_NN 还_AD 被_SB 应用_VV 到_VV 诸如_AD 人体_NN 关节_NN 运动_NN （_PU ）_PU 和_CC 液滴_NN 与_CC 平坦基体_NN 的_DEC 接触角_NN 测量_VV 中_LC 。_PU
+
+
+

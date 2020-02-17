@@ -1,0 +1,44 @@
+﻿_CS 调变_VV 在_P 时_LC 频_VV 分析_NN 的_DEG 应用_NN
+
+调变_VV 的_DEC 功用_NN 在于_VV 将_BA 讯号_NN 移动_VV 至_CC 未_AD 使用_VV 的_DEC 频带_NN 做_VV 传输_VV 使用_VV ，_PU 然而_AD 当_P 讯号_NN 在_P 传递_VV 时_LC 通常_AD 不_AD 会_VV 在_P 每_DT 一_CD 个_M 时间_NN 点都_AD 把_BA 频宽_VV 完全_AD 占据_VV ，_PU 造成_VV 某些_DT 时间点_NN 频宽_VV 使用_NN 上_LC 的_DEG 浪费_NN 。_PU 运用_VV 时频_NN 分析_NN 可以_VV 了_AS 解任_VV 一_CD 时间点_NN 的_DEG 讯号_NN 对于_P 频宽_VV 使用_VV 的_DEC 情形_NN ，_PU 故_AD 可以_VV 在_P 一些_CD 未_AD 使用_VV 的_DEC 时间_NN 频带_VV 加入_VV 新_VA 的_DEC 传输_NN 讯号_NN ，_PU 使_VV 得频_NN 宽_NN 资源_NN 的_DEG 运用_NN 更加_AD 完整_VA 。_PU
+
+用于_VV 了解_VV 一_CD 讯号_NN 的_DEG 频谱_NN 随着_P 时间_NN 的_DEG 变化_NN 情形_NN ，_PU 常_AD 用_VV 的_DEC 方法_NN 有_VE 短时_JJ 距傅_NN 立叶_VV 变换_NN （_PU ST_CD FT_M ）_PU 、_PU 韦格_NN 纳_NN 分布_VV （_PU WDF_NN ）_PU 、_PU 加_VV 伯_NN 转换_NN 等_ETC 。_PU 例如_AD 有_VE 一_CD 讯号_NN x_NN (_PU t_NN )_PU 在_P 0_CD ~_PU 10_CD 秒_M 等于_VV cos_NN (_PU 2_CD *_PU pi_NN *_PU t_NN )_PU ，_PU 在_P 10_CD ~_PU 20_CD 秒_M 等于_VV cos_NN (_PU 6_CD *_PU pi_NN *_PU t_NN )_PU ，_PU 在_P 20_CD ~_PU 30_CD 秒_M 等于_VV cos_NN (_PU 4_CD *_PU pi_NN *_PU t_NN )_PU ，_PU 则_AD 时_LC 频_VV 分析_NN 的_DEG 结果_NN 如_P 图_NN 。_PU （_PU 此_DT 为_VC 方波_NN 短_JJ 时_NN 距_VV 傅_NN 立_VV 叶转换_NN （_PU rec_NN -_PU STFT_NN ）_PU 的_DEG 结果_NN ）_PU
+
+即将_CS 频谱图_NN 进行_VV 平移_NN ，_PU 又_AD 分为_VV 沿着_P 时间轴_NN 和_CC 沿着_P 频率轴_NN 的_DEG 移动_NN
+沿着_P 时间轴_NN 移动_VV 时_LC ，_PU 时频图_NN 的_DEG 值_NN 会_VV 多_CD 一_CD 个_M 相_NN 位_LC ，_PU 但_CC 并_AD 不_AD 影响_VV 大小_NN 。_PU <_PU br_NN >_PU
+短时_NT 距傅_NN 立叶_VV 变换_NN 、_PU 加_VV 伯_NN 转换_NN ：_PU
+韦格_NN 纳_NN 分布_VV ：_PU
+
+沿着_P 频率轴_NN 移动_VV 时_LC ，_PU 讯号_NN 会_VV 多_P 一_CD 个_M 相位_NN 。_PU <_PU br_NN >_PU
+短时_NT 距傅_NN 立叶_VV 变换_NN 、_PU 加_VV 伯_NN 转换_NN ：_PU
+韦格_NN 纳_NN 分布_VV ：_PU
+
+将_BA 时频_NN 图_NN 沿着_P 时间轴_NN 和_CC 频率_NN 轴分別_NN 放大_VV (_PU a_NN >_PU 1_CD )_PU 或_CC 缩小_NN (_PU a_NN <_PU 1_CD )_PU 、_PU 缩小_VV 或_CC 放大_VV 。_PU <_PU br_NN >_PU
+短时_NT 距傅_NN 立叶_VV 变换_NN 、_PU 加_VV 伯_NN 转换_NN ：_PU
+韦格_NN 纳_NN 分布_VV ：_PU
+
+将_BA 时频_NN 图_NN 沿着_P 时间轴_NN 或_CC 频率_NN 轴_NN 做线性_NN 位移_NN 。_PU
+乘_VV 以_P 线性_JJ 调频会_NN 产生_VV 频率_NN 的_DEG 线性_JJ 轴位移_NN 。_PU <_PU br_NN >_PU
+短时_NT 距傅_NN 立叶_VV 变换_NN 、_PU 加_VV 伯_NN 转换_NN ：_PU
+韦格_NN 纳_NN 分布_VV ：_PU
+和_P 线性_NN 调频_VV 做_VV 卷积_NN 会_VV 产生_VV 时间轴_NN 的_DEG 线性_JJ 位移_NN 。_PU <_PU br_NN >_PU
+短时_NT 距傅_NN 立叶_VV 变换_NN 、_PU 加_VV 伯_NN 转换_NN ：_PU
+韦格_NN 纳_NN 分布_VV ：_PU
+
+将_BA 时频图_NN 对着_P 原点_NN 旋转_NN 。_PU
+
+就_AD 是_VC 分数傅_NN 立_VV 叶_NN 转换_NN
+
+若_CS formula_NN __NN 12_CD 则_AD 此_DT 分数傅_NN 立_VV 叶_NN 转换_VV 会_VV 与_P 傅立_NN 叶_NN 转换_NN 相_NN 等_ETC ，_PU 即_AD 一_CD 信号_NN 做_VV 傅立_JJ 叶_NN 转换_NN 可_VV 顺时_AD 钟旋转_VV formula_NN
+若_CS formula_NN
+短时_NT 距傅_NN 立叶_VV 变换_NN ：_PU
+加_NN 伯_NN 转换_NN ：_PU
+韦格_NN 纳_NN 分布_VV ：_PU
+
+若_CS 有_VE 一_CD 已_AD 知_VV 的_DEC 频率_NN 为_VC 线性_JJ 变化_NN 的_DEC 信号_NN
+要_VV 将_BA 其_PN 摊平成_VV 一_CD 个_M 水平_VA 且_CC 整齐_VA 的_DEC 信号_NN ，_PU 则_AD 可_VV 做以_VV 下_LC 修剪_VV 。_PU <_PU br_NN >_PU
+短时_NT 距傅_NN 立叶_VV 变换_NN 、_PU 加_VV 伯_NN 转换_NN ：_PU
+韦格_NN 纳_NN 分布_VV ：_PU
+
+
+

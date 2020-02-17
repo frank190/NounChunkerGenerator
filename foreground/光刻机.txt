@@ -1,0 +1,13 @@
+﻿光_NN 刻机_NN
+
+曝光机_NN （_PU ）_PU 是_VC 制造_VV 微机_NN 电_NN 、_PU 光电_NN 、_PU 二极体_NN 大_JJ 规模_NN 集成_JJ 电路_NN 的_DEG 关键_NN 设备_NN 。_PU 可以_VV 分为_VV 两_CD 种_M ，_PU 分别_AD 是_VC 模板_NN 与_CC 图样_NN 大小_AD 一致_VA 的_DEC contactaligner_NN ，_PU 曝光_VV 时_JJ 模板_NN 紧贴_AD 晶圆_VV ；_PU 以及_CC 利用_VV 类似_JJ 投影机_NN 原理_NN 的_DEG stepper_NN ，_PU 获得_VV 比_JJ 模板_NN 更_AD 小_VA 的_DEC 曝光_NN 图_NN 样_NN 。_PU
+
+生产_NN 集成_NN 电路_NN 的_DEG 简要_JJ 步骤_NN ：_PU
+其中_NN 曝光机_NN 就_AD 是_VC 利用_VV 紫外线_NN 通过_P 模版_NN 去除_VV 晶圆_JJ 表面_NN 的_DEC 保护膜_NN 的_DEG 设备_NN 。_PU
+
+一_CD 片_M 晶圆_NN 可以_VV 制作_VV 数十_CD 个_M 集成_JJ 电路_NN ，_PU 根据_P 模版_NN 曝光机_NN 分为_VV 两_CD 种_M ：_PU
+其中_NN 模版_NN 随_P 曝光机_NN 移动_VV 的_DEC 方式_NN ，_PU 模版_NN 相_AD 对曝_VV 光机_NN 中心_NN 位置_NN 不_AD 变_VV ，_PU 始终_AD 利用_VV 聚焦镜头_NN 中心_NN 部分_NN 能_VV 得到_VV 更_AD 高_VA 的_DEC 精度_NN 。_PU 成为_VV 目前_NT 的_DEG 主流_NN 。_PU
+
+曝光机_NN 是_VC 生产_VV 大_JJ 规模_NN 集成_JJ 电路_NN 的_DEG 核心_NN 设备_NN ，_PU 制造_NN 和_CC 维护_NN 需要_VV 高度_NN 的_DEC 光学_NN 和_CC 电子_NN 工业_NN 基础_NN ，_PU 世界_NN 上_LC 只_AD 有_VE 少数_CD 厂家_NN 掌握_VV 。_PU 因此_AD 曝光机_NN 价格_NN 昂贵_VA ，_PU 通常_AD 在_P 3千万_CD 至_CC 5亿_CD 美元_NN 。_PU
+
+

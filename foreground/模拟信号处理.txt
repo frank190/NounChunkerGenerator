@@ -1,0 +1,26 @@
+﻿模拟_NN 信号_NN 处理_NN
+
+模拟_NN 信号_NN 处理_NN （_PU ）_PU 是_VC 指_VV 对_P 连续_JJ 模拟_NN 信号_NN 采用_VV 模拟_JJ 处理_NN （_PU 与_CC 通过_P 数字_NN 处理_NN 进行_VV 信号_NN 处理_VV 的_DEC 离散_NN 数字_NN 信号_NN 处理_NN 相对_P ）_PU 的_DEC 方法_NN 的_DEC 任何_DT 信号_NN 处理_NN 过程_NN 。_PU “_PU 模拟_NN ”_PU 意味_NN 着_VV 数学_NN 上_LC 是_VC 值_VV 域_NN 连续_VV 的_DEC 。_PU 这_AD 与_P 使用_NN 一_CD 系_NN 列离_VV 散_VV 量_NN 来_MSP 表示_VV 信号_NN 的_DEC “_PU 数位_NN ”_PU 不同_VA 。_PU 模拟值_NN 通常_AD 表示_VV 为_VC 电子_NN 设备_NN 中_LC 的_DEG 电压_NN 、_PU 电流_NN 或_CC 器件_NN 周围_NN 的_DEG 电荷_NN 。_PU 影响_VV 这_DT 种_M 物理量_NN 的_DEG 误差_NN 或_CC 噪声_NN ，_PU 都_AD 将_BA 表示_VV 为_VC 对应_VV 的_DEC 信号_NN 的_DEC 误差_NN 和_CC 噪声_NN 。_PU
+
+模拟_NN 信号_NN 处理_NN 的_DEC 例子_NN 包括_VV 扬声器_NN 分频器_NN ，_PU 音响_NN 上_LC 的_DEC “_PU 低音_NR ”_PU 、_PU “_PU 高音_NN ”_PU 和_CC “_PU 音量_NN ”_PU 控制_NN ，_PU 和_CC 电视_NN 上_LC 的_DEC “_PU 色调_NN ”_PU 控制_NN 。_PU 常见_VA 的_DEC 模拟_JJ 处理_NN 元件_NN 包括_VV 电容器_NN 、_PU 电阻器_NN 、_PU 电感器_NN 和_CC 晶体_NN 管_NN 。_PU
+
+系统_NN 行为_VV 的_DEC 数学_NN 模型_NN 在_P 时域_NN 表示_VV 为_VC "_PU h_NN "_PU ("t")_PU ，_PU 在_P 频域_NN 表示_VV 为_VC "_PU H_NN "_PU ("s")_PU ，_PU 其中_NN "_PU s_NN "_PU 是_VC "_PU s_NN "_PU =_NN "_PU a_NN "_PU +i"b"_PU （_PU 或_CC 者用_NN "_PU s_NN "_PU =_NN "_PU a_NN "_PU +j"b"_PU 表示_VV ，_PU 由于_P 电流_NN 用_P 变量_NN "_PU i"_NN 表示_VV ，_PU 电气_NN 工程_NN 师用_NN j_NN 表示_VV 复数_NN 单位_NN ）_PU 形式_NN 的_DEC 复数_NN 。_PU 输入_NN 信号_NN 通常_AD 表示_VV 为_VC "_PU x_NN "_PU ("t")或"X"("s")_PU ，_PU 而_CC 输出_VV 线号_NN 通常_AD 为_VC "_PU y_NN "_PU ("t")或"Y"("s")_PU 。_PU
+
+卷积_NN 是_VC 信号_NN 处理_NN 中_LC 的_DEG 基本_JJ 概念_NN 。_PU 将_BA 输入_NN 信号_NN 与_P 系统_NN 函数_NN 卷积_NN ，_PU 可以_VV 得到_VV 输出_NN 信号_NN 。_PU 卷积_NN 运算_NN 由_P *_PU 表示_VV 。_PU 卷积_NN 的_DEC 定义_NN ：_PU
+这_PN 就_AD 是_VC 卷积积_NN 分_VA ，_PU 用于_VV 求_VV 信号_NN 和_CC 系统_NN 的_DEG 卷积_NN ；_PU 通常_AD a_NN =_NN -_PU ∞_NN ，_PU b_NN =_NN +_VV ∞_NN 。_PU
+
+傅_NN 里_LC 叶_LB 变换_NN 是_VC 将_BA 时域_NN 中_LC 的_DEG 信号_NN 或_CC 系统_NN 变换_VV 为_VC 频域_NN 函数_NN ，_PU 但_CC 它_PN 仅_AD 适用_VV 于_P 某些_DT 特定_JJ 函数_NN 。_PU 系统_NN 或_CC 信号_NN 可以_VV 通过_P 傅里叶_NN 变换_NN 进行_VV 变换_NN 的_DEC 约束_NN 条件_NN 是_VC ：_PU
+傅_NN 里_LC 叶_LB 变换_NN 的_DEC 积分_NN ：_PU
+通常_AD 傅里叶变换_VV 积分_NN 不_AD 用于_VV 确定_VV 变换_NN ；_PU 相反_VA ，_PU 会_VV 使用_VV 变换_VV 表_VV 来_MSP 求_VV 信号_NN 或_CC 系统_NN 的_DEG 傅里_NN 叶_NN 变换_NN 。_PU 傅_NN 里_LC 叶逆_NN 变换_NN 将_BA 频域_NN 信号_NN 转变_VV 为_VC 时域_NN ：_PU
+可以_VV 转换_VV 的_DEC 每_DT 个_M 信号_NN 或_CC 系统_NN 都_AD 具有_VV 唯一_JJ 的_DEG 傅_NN 立叶_NN 变换_NN 。_PU 每_DT 个_M 频率_NN 信号_NN 只_AD 有_VE 一_CD 个_M 时间_NN 信号_NN ，_PU 反之_AD 亦然_VV 。_PU
+
+拉普拉_VV 斯_DT 变换_NN 是_VC 傅_NR 里_NN 叶_AD 变换_VV 的_DEC 推广_NN 。_PU 它_PN 允许_VV 任何_DT 系统_NN 或_CC 信号_NN 的_DEG 变换_NN ，_PU 因为_P 它_PN 是_VC 变换_VV 到_VV 复_AD 平面_JJ 而不_NN 是_VC 像_P 傅_NN 里_LC 叶_NOI 变换_VV 一_CD 样_M 变换_VV 到_VV j_NN "_PU ω_NN "_PU 线_NN 。_PU 主要_AD 区别_VV 在于_VV 拉_NN 普拉_NN 斯_AD 变换_VV 有_VE 一_CD 个_M 变换_NN 有效_VA 的_DEC 收敛域_NN 。_PU 这_DT 意味_NN 着_AD 频域_VV 的_DEC 信号_NN 可能_VV 有_VE 一_CD 个_M 以上_JJ 时间_NN 信号_NN ；_PU 正_AD 确_JJ 时间_NN 信号_NN 由_P 收敛_VV 域_NN 决定_NN 。_PU 如果_CS 收敛区_NN 包括_VV j"ω"轴_NN ，_PU 则_AD j_NN "_PU ω_NN "_PU 可以_VV 代入_VV "_PU s_NN "_PU 的_DEG 拉普_NN 拉_VV 斯_DT 变换_NN ，_PU 并且_CC 与_P 傅里叶_NN 变换_VV 相同_VA 。_PU 拉普拉_VV 斯_DT 变换_NN 为_VC ：_PU
+如果_CS "_PU X_NN "_PU ("s")_PU 的_DEG 所有_DT 奇点_NN 在_P 复_AD 平面_JJ 的_DEG 左半_NN 部分_NN 中_LC ，_PU 则_AD 拉_VV 普拉_NN 斯_AD 逆_VV 变换_NN 为_VC ：_PU
+
+波德_NN 图是_NN 系统_NN 的_DEG 幅度_NN 关于_P 频率_NN 和_CC 相位_NN 关于_P 频率_NN 的_DEC 曲线图_NN 。_PU 幅度轴_NN 单位_NN 为_VC 分贝_NN （_PU dB_NN ）_PU 。_PU 相位轴_NN 的_DEC 单位_NN 为_VC 角度_NN 或_CC 弧度_NN 。_PU 频率轴_NN 使用_VV 对数_NN 尺度_NN 。_PU 这_DT 很_AD 有用_VA ，_PU 因为_AD 对于_P 正弦波_JJ 输入_NN ，_PU 输出_VV 为_VC 输入_VV 乘以_VV 该_DT 频率_NN 下_LC 幅度_NN 的_DEC 值_NN 并_CC 偏移_VV 该_DT 频率_NN 下_LC 的_DEG 相位值_NN 。_PU
+
+这_PN 是_VC 大_JJ 多数人_NN 所_MSP 熟悉_VV 的_DEC 域_NN 。_PU 时域_NN 图像_NN 显示_NN 信号_NN 关于_VV 时间_NN 的_DEG 变化_NN 。_PU
+
+频域图_NN 像_P 显示_NN 信号_NN 在_P 其_PN 存在_VV 的_DEC 每_DT 一_CD 频率_NN 上_LC 的_DEG 相移_NN 或_CC 幅度_NN 。_PU 这些_DT 图像_NN 可以_VV 通过_P 取_VV 时间_NN 信号_NN 的_DEC 傅里叶_NN 变换_NN 以及_CC 波德图_NN 。_PU
+
+

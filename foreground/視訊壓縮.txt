@@ -1,0 +1,25 @@
+﻿视讯_NN 压缩_NN
+
+视讯_NN 压缩_NN （_PU ）_PU 是_VC 指_VV 运用_VV 资料_NN 压缩_NN 技术_NN 将_BA 数位_NN 视讯_NN 资料_NN 中_LC 的_DEG 冗_NN 余_NN 资讯_NN 去除_VV ，_PU 降低_VV 表示_VV 原始_JJ 视讯_NN 所_MSP 需_VV 的_DEC 资料量_NN ，_PU 以便_AD 视讯_VV 资料_NN 的_DEC 传输_NN 与_CC 储存_NN 。_PU 实际上_AD ，_PU 原始_JJ 视讯_NN 资料_NN 的_DEC 资料量_NN 往往_AD 过大_VV ，_PU 例如_AD 未经_NT 压缩_VV 的_DEC 电视_NN 品质_NN 视讯_NN 资料_NN 的_DEC 位元率_NN 高_AD 达_VV 216_CD Mbps_M ，_PU 绝_AD 大多数_CD 的_DEG 应用_NN 无法_AD 处理_VV 如_P 此_PN 庞大_VA 的_DEC 资料_NN 量_NN ，_PU 因此_AD 视讯_VV 压缩_NN 是_VC 必要_VA 的_DEC 。_PU 目前_NT 最_AD 新_VA 的_DEC 视讯_NN 编码_NN 标準_NN 为_VC ITU_NN -_PU T_NN 视讯_NN 编码_NN 专家组_NN （_PU VCEG_NN ）_PU 和_CC ISO_NN ／_PU IEC_NN 动态图_NN 像_P 专家组_NT （_PU MPEG_NN ）_PU 联合_VV 组成_VV 的_DEC 联合_JJ 视讯组_NN （_PU JVT_NN ，_PU JointVideoTeam_NN ）_PU 所_MSP 提出_VV 的_DEC H_NN ._PU 264_CD /_PU AVC_NN 。_PU
+
+视讯_NN 压缩_NN 通常_AD 包含_VV 了_AS 一_CD 组_M 编码器_NN 和_CC 解码器_NN 。_PU 编码器_NN 将_BA 原始_VA 的_DEC 视讯_NN 资料_NN 转换_VV 成_VV 压缩_VV 后_LC 的_DEG 形式_NN ，_PU 以便_AD 进行_VV 传输_NN 与_CC 储存_NN 。_PU 解码器_NN 则_AD 是_VC 将_BA 压缩_VV 后_LC 的_DEG 形式_NN 转换_VV 回_VV 视讯_NN 资料_NN 的_DEC 表示_VV 。_PU 一_CD 组_M 成对_VV 的_DEC 编码器_NN 与_P 解码器_NN 通常_AD 被_SB 合称_VV 为_VC 编_VV 解码器_NN （_PU CODEC_NN 、_PU enCOder_NN /_PU ）_PU 。_PU
+
+资料_NN 压缩_NN 是_VC 透过_P 去除_VV 资料_NN 中_LC 的_DEG 冗余_NN 资讯_NN 而_MSP 达成_VV 。_PU 就_AD 视讯_NN 资料_NN 而言_LC ，_PU 资料_NN 中_LC 的_DEG 冗余_NN 资讯_NN 可以_VV 分成_VV 四_CD 类_M ：_PU
+
+右_JJ 上_JJ 图_NN 为_VC 一_CD 个_M 典型_VA 的_DEC 视讯_NN 编码器_NN 。_PU 在_P 进行_VV 当前_NN 信号_NN 编码_NN 时_LC ，_PU 编码器_NN 首先_AD 会_VV 产生_VV 对_P 当前_NN 信号_NN 做_VV 预测_VV 的_DEC 信号_NN ，_PU 称作_VV 预测_NN 信号_NN （_PU predictedsignal_NN ）_PU ，_PU 预测_VV 的_DEC 方式_NN 可以_VV 是_VC 时间_NN 上_LC 的_DEG 预测_NN （_PU ）_PU ，_PU 亦即_AD 使用_VV 先_AD 前帧_VV 的_DEC 信号_NN 做_VV 预测_VV ，_PU 或是_CC 空间_NN 上_LC 的_DEG 预测_NN （_PU intraprediction_NN ）_PU ，_PU 亦_AD 即_AD 使用_VV 同_DT 一_CD 张帧_NN 之中_LC 相邻_VV 像_VV 素_NN 的_DEC 信号_NN 做_VV 预测_VV 。_PU 得到_VV 预测_NN 信号_NN 后_LC ，_PU 编码器_NN 会_VV 将_BA 当前_NN 信号_NN 与_P 预测_NN 信号_NN 相_AD 减得_VV 到_VV 残余_NN 信号_NN （_PU residualsignal_NN ）_PU ，_PU 并_CC 只_AD 对_P 残余_NN 信号_NN 进行_VV 编码_NN ，_PU 如此_AD 一来_VA ，_PU 可以_VV 去除_VV 一_CD 部份_NN 时间_NN 上_LC 或是_CC 空间_NN 上_LC 的_DEC 冗余_NN 资讯_NN 。_PU 接着_VV ，_PU 编码器_NN 并_AD 不_AD 会_VV 直接_AD 对_P 残余_NN 信号_NN 进行_VV 编码_NN ，_PU 而是_CC 先_AD 将_BA 残余_NN 信号_NN 经过_P 变换_NN （_PU 通常_AD 为_VC 离散_PN 余弦_NN 变换_NN ）_PU 然后_AD 量化_VV 以_MSP 进一步_AD 去除_VV 空间_NN 上_LC 和_P 感知_NN 上_LC 的_DEG 冗_NN 余_NN 资讯_NN 。_PU 量化_VV 后_LC 得到_VV 的_DEC 量化_NN 系数_NN 会_VV 再_AD 透过_VV 熵_NN 编码_NN ，_PU 去除_VV 统计_NN 上_LC 的_DEG 冗余_NN 资讯_NN 。_PU
+
+在_P 解码端_NN ，_PU 透过_AD 类似_VA 的_DEC 相反_JJ 操作_NN ，_PU 可以_VV 得到_VV 重建_VA 的_DEC 视讯_NN 资料_NN 。_PU
+
+衡量_NN 视讯_NN 压缩_NN 技术_NN 的_DEG 优劣_NN ，_PU 可以_VV 从_P 运算_NN 复杂_VA 度_M 和_CC 压缩_NN 品质_NN 两_CD 方面_NN 来_MSP 看_VV 。_PU 就_AD 运算_VV 复杂度而言_AD ，_PU 理想_VA 的_DEC 编码器_NN 运算_NN 复杂_VA 度_M 越_AD 低_VA 越_AD 好_VA 。_PU 而_CC 就_AD 压缩_VV 品质_NN 而言_LC ，_PU 必须_VV 同时_AD 考虑_VV 压缩_VV 后_LC 视讯_NN 的_DEC 位元率_NN 和_CC 失真_NN 程度_NN 。_PU 压缩_VV 后_LC 的_DEG 位元率_NN 和_CC 失真_NN 程度_NN 皆_AD 为_VC 越_AD 低_VA 越_AD 好_VA ，_PU 两_CD 者_NN 之间_LC 存在_VV 一_CD 个_M 折衷_NN （_PU ）_PU 关系_VV ，_PU 理想_VA 的_DEC 编码器_NN 旨_VV 在_P 追求_NN 能够_VV 提供_VV 位元率_NN 和_CC 失真_NN 程度_NN 间_LC 的_DEG 最佳_JJ 折衷关_NN 系_NN 。_PU
+
+一般_JJ 情况_NN 下_LC ，_PU 编码器_NN 的_DEG 运算_NN 复杂_VA 度_M 和_CC 压缩_NN 品质_NN 之间_LC 也_AD 存在_VV 一_CD 个_M 折衷关_NN 系_NN ，_PU 根据_P 应用_NN 的_DEC 不同_JJ 而_CC 有所_JJ 抉择_NN 。_PU 例如_AD 当_P 应用_NN 为_VC 视讯_NN 资料_NN 的_DEG 储存_NN 时_LC ，_PU 可以_VV 选择_VV 运算_NN 复杂_VA 度_M 和_CC 压缩_NN 品质_NN 较_AD 高_VA 的_DEC 设计_NN 。_PU 而_MSP 当_P 应用_NN 为_VC 视讯_NN 会_VV 议_NN 或_CC 是_VC 手机_NN 视讯_NN 通话_NN ，_PU 受限_VV 於_P 即时_NT （_PU 实时_NT ）_PU 通讯_VV 的_DEC 要求_NN 或是_CC 有限_VA 的_DEC 运算_NN 资源_NN ，_PU 可能_VV 会_VV 选择_VV 运算_NN 复杂_VA 度_M 和_CC 压缩_NN 品质_NN 较_AD 低_VA 的_DEC 设计_NN 。_PU
+
+由于_P 编码_NN 后_LC 的_DEG 影像_JJ 品质_NN 最终_AD 是_VC 由_P 人眼_NN 所_MSP 判断_VV 的_DEC ，_PU 在_P 衡量_NN 失真_NN 程度_NN 时_LC ，_PU 应_VV 使用_VV 与_P 人类_NN 视觉_NN 感知_NN 相符_VV 的_DEC 影像_JJ 品质_NN 衡量_NN 标準_NN 。_PU 然而_AD ，_PU 传统_NN 所_MSP 使用_VV 的_DEC 衡量_NN 标準_NN 像_AD 是_VC 峰值_NN 信噪_NN 比_NN 和_CC 人类_NN 视觉_NN 感知_NN 不_AD 全然_AD 相关_VV 。_PU 近几年_NT 已_AD 有_VE 基_NN 於_P 人类_NN 视觉_NN 感知_VV 的_DEC 影像_JJ 品质_NN 衡量_NN 标準_NN 被_SB 提出_VV ，_PU 例如_AD 结构_NN 相似_VA 性_DEC 指标_NN （_PU 结构_NN 相似_VA 性_DEC index_NN ，_PU S_CC S_P I_NN M_OD index）_PU 与_P 视觉_NN 资讯_NN 忠诚_NN （_PU v_CC isualinformationfidelity_NR ，_PU VIF_NN ）_PU ，_PU 并且_CC 在_P 编码器_NN 的_DEG 设计_NN 中_LC 被_SB 使用_VV ，_PU 进一步_AD 提昇_VV 了_AS 压缩_VV 后_LC 的_DEG 影像_NN 品质_NN 。_PU
+
+视讯_NN 编码_NN 标準_NN 主要_AD 是_VC 由_P ITU_NN -_PU T_NN 与_P ISO_NN ／_PU IEC_NN 两_CD 大_JJ 组织_NN 制定_VV 而_MSP 成_VV ，_PU 其_PN 发展_NN 如下_AD 表_VV 所_MSP 示_VV 。_PU
+
+不同_JJ 视讯_NN 编码_NN 标準_NN 之间_LC 的_DEG 性能_NN 比较_AD 可以_VV 在_P 文献_NN 中_LC 找到_VV 。_PU
+
+
+
+

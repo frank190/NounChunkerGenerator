@@ -1,0 +1,6 @@
+﻿可关断_VV 晶闸管_NN
+
+可_VV 关断_VV 晶闸管_NN （_PU 英文_NN ：_PU G_CD ateTurn_NN -_PU Offthyristor_NN ，_PU 缩写_VV ：_PU GTO_NN ）_PU ，_PU 乃_VC 大_JJ 功率_NN 半导体_NN 器件_NN ，_PU 属于_VV 晶闸管_NN 的_DEC 一_CD 种_M ，_PU 当_P 控制_VV 极_AD 加_VV 正_BA 脉冲_NN 时_LC 晶闸管_NN 导通_VV ；_PU 当_P 控制极_NN G_CD 加负_VV 脉冲_NN 时晶_NN 闸管_NN 关断_VV 。_PU 可以_VV 作为_P VVVF_NN 牵引_VV 逆变器_NN 中_LC 的_DEG 主要_JJ 开关_NN 元件_NN ，_PU 用于_VV 控制_VV 供_VV 铁路_NN 机车_NN 使用_VV 的_DEC 交流_NN 牵引_NN 电动机_NN 。_PU
+
+
+

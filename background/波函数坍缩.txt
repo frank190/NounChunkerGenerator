@@ -1,0 +1,8 @@
+﻿波_NN 函数_NN 坍缩_NN
+
+波函_NN 数坍缩_NN （_PU wavefunctioncollapse_NN ）_PU 指_VV 的_DEC 是_VC 某些_DT 量子_NN 力学_NN 体系_NN 与_CC 外界_NN 发生_VV 某些_DT 作用_NN 后_LC 波_P 函数_NN 发生_VV 突变_AD ，_PU 变为_VV 其中_NN 一_CD 个_M 本_DT 征态_NN 或_CC 有_VE 限个_NN 具有_VV 相同_JJ 本征值_NN 的_DEC 本_DT 征态_NN 的_DEG 线性_JJ 组合_NN 的_DEC 现象_NN 。_PU 波函_NN 数_NN 坍缩_NN 可以_VV 用来_VV 解释_VV 为_VC 何在_JJ 单次_NN 测量_NN 中_LC 被_SB 测定_VV 的_DEC 物理量_NN 的_DEG 值_NN 是_VC 确定_VV 的_DEC ，_PU 尽管_CS 多次_AD 测量_VV 中_LC 每_DT 次_M 测量值_NN 可_VV 能都_VV 不同_VA 。_PU
+
+在_P 某_DT 一_CD 些量子_NN 物理_NN 理论_NN 中_LC ，_PU 波函数_NN 的_DEG 坍缩_NN 是_VC 量子_NN 系统_NN 遵守_JJ 量子_NN 定律_NN 的_DEC 两_CD 种_M 方法_NN 之一_LC 。_PU 波函_NN 数坍缩_NN 的_DEC 真实性_NN 并_CC 没有_VE 被_SB 完全_AD 地_DEV 确定_VV ；_PU 科学家_NN 一直_AD 在_P 争论_NN ，_PU 波函_NN 数坍缩_NN 是_VC 这_DT 个_M 世界_NN 的_DEC 自然_JJ 现象_NN 之一_LC ，_PU 还_AD 是_VC 仅_AD 是_VC 属于_VV 某_DT 个_M 现象_NN 的_DEG 一_CD 部_M 份_NN ，_PU 比如_P 量子_NN 去_VV 相干_VV 的_DEC 附属_NN 现象_NN 。_PU 近年_NT 来_LC ，_PU 量子_NN 去_VV 相干_JJ 已_NN 和_CC 波函_NN 数坍缩_NN 一起_AD 成为_VV 众量子_NN 物理_NN 学家_NN 极力_NN 研究_NN 的_DEC 理论_NN 之一_LC 。_PU
+
+
+

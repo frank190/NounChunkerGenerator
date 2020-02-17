@@ -1,0 +1,7 @@
+﻿网路_NN 监控_VV 摄影机_NN
+
+网路_NN 监控_VV 摄影机_NN （_PU IPCamera_NN /_PU NetworkCamera_NN ）_PU 是_VC 目前_NT 常见_VA 的_DEC 影像监_NN 控摄_VV 影机_NN 。_PU 有_VE 別_NN 於_P 闭路_NN 电视_NN 、_PU 类比_NN 监控_VV 摄影机_NN （_PU CCTV_NN ）_PU ，_PU 网路_NN 监控_VV 摄影机_NN 是_VC 以_P 电脑_NN 做为_VV 平台_NN 并_CC 利用_VV 网路_NN 做为_VV 传输_JJ 架构_NN ,_PU 传输监控_VV 影像_NN 与_P 声音_NN ,_PU 目前_NT 网路_NN 监控_VV 摄影机_NN 可_VV 透过_VV 储存_NN 装置_NN 与_CC 监控管_NN 理软体_NN 的_DEG 搭配_NN 创造出_VV 多_CD 种_M 应用_NN 方案_NN 。_PU
+
+
+
+

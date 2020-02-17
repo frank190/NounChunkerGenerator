@@ -1,0 +1,7 @@
+﻿电子_NN 振荡_NN
+
+电子_NN 振荡_NN 是_VC 在_P 电路_NN 中_LC 出现_VV 的_DEC 电压_NN 或_CC 电流_NN 周期性_NN 反覆_VV 变化_NN ，_PU 造成_VV 周期性_NN 的_DEC 波形_NN 。_PU 电子_NN 振荡_NN 的_DEG 频率_NN 单位_NN 是_VC 赫_NN 兹_VA ，_PU 是_VC 每_DT 秒_M 的_DEG 周期_NN 数_NN 。_PU
+
+电子_NN 振荡_NN 可能_VV 会_VV 以_P 电流_NN 变化_NN 的_DEG 形式_NN 出现_VV ，_PU 也_CC 可能_VV 会_VV 以_P 电压_NN 变化_NN 的_DEG 形式_NN 出现_VV 。_PU 依_P 将_BA 波形_NN 相_AD 对_P 时间_NN 绘图_VV ，_PU 可能_VV 是_VC 正弦_JJ 曲线_NN 或是_CC 其他_DT 形状_NN 的_DEC 曲线_NN 。_PU 电子_NN 振荡_NN 可能_VV 是_VC 刻意_JJ 产生_NN （_PU 如_P 电子_NN 振荡器_NN ）_PU ，_PU 也_CC 可_VV 能_VV 是_VC 因为_P 将_BA 设备_NN 输出_VV 不_AD 小心_JJ 接回_NN 输入_VV ，_PU 意外_AD 产生_VV 的_DEC 正_JJ 回馈_NN 。_PU 后者_NN 也_AD 可能_VV 是_VC 回_VV 授_NN 放大器_NN （_PU 例如_AD 运算_VV 放大器_NN ）_PU 的_DEG 相位_NN 裕度_NN 或是_CC 增益_JJ 裕度_NN 不_AD 足_VA 所_MSP 造成_VV 。_PU 后者_VV 的_DEC 振荡_NN 会_VV 干扰_VV 放大器_NN 原有_VV 的_DEC 功能_NN ，_PU 或是_CC 使_VV 其_PN 效果_NN 变差_VV 。_PU 电子_NN 振荡_NN 也_AD 可能_VV 因为_P 寄生_JJ 元件_NN 所_MSP 造成_VV 的_DEC ，_PU 称为_VV 杂散_NN 振荡_NN 。_PU
+
+

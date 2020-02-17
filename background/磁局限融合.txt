@@ -1,0 +1,7 @@
+﻿磁局_NN 限融合_NN
+
+磁局_NN 限融合_NN （_PU ）_PU ，_PU 利用_VV 磁场_NN 与_CC 高热_JJ 电浆_NN 来_MSP 引发_VV 核_NN 融合_NN 反应_VV 的_DEC 技术_NN 。_PU 聚变反_NN 应合_VV 并轻_VV 的_DEC 原子核_NN ，_PU 例如_AD 氢_NN ，_PU 以_MSP 形成_VV 更_AD 重_VA 的_DEC 原子核_NN ，_PU 如_P 氦_NN 。_PU 磁局_NN 限_VV 融合_VV 的_DEC 作法_NN 是_VC ，_PU 先_AD 加热_VV 燃料_NN ，_PU 使_VV 它_PN 成为_VV 电浆_NN （_PU Plasma_NN ）_PU 形态_NN ，_PU 再_AD 利用_VV 磁场_NN ，_PU 拘束住_VV 高_JJ 热电浆_NN 中_LC 的_DEG 带_VV 电粒_NN 子_NN ，_PU 使_VV 它_PN 进行_VV 螺线_NN 运动_NN ，_PU 进一步_AD 加热_VV 电浆_NN ，_PU 直到_VV 产生_VV 核_NN 融合_NN 反应_NN 。_PU
+
+磁_NN 约束_AD 是_VC 聚变_VV 能_VV 研究_VV 的_DEC 两_CD 大_JJ 分支_NN 之一_LC ，_PU 另_DT 一_CD 个_M 分支_NN 是_VC 惯性_JJ 约束_NN 聚变_VV 。_PU 它_PN 发展_VV 的_DEC 程度_NN 比_P 惯性_JJ 局限_NN 融合_VV 还_AD 好_VA ，_PU 并且_CC 通常_AD 被_SB 认为_VV 更_AD 有_VE 前途_NN 用于_VV 能源_NN 生产_NN 。_PU 但_AD 是_VC 随着_P 尺寸_NN 增加_VV ，_PU 产生_VV 不_AD 稳定_VA 的_DEC 状况_NN 也_AD 比较_VV 严重_VA 。_PU 目前_NT 可以_VV 使用_VV 托_VV 卡_NN 马克_NN （_PU tokamak_NN ）_PU 技术_NN 来_MSP 达成_VV 磁局_NN 限_VV 融合_VV 。_PU 2007年_NT 在_P 法国_NR 开始_VV 一_CD 个_M 500_CD -_PU MW_NN 的_DEG 发热_JJ 聚变_NN 工厂_NN 国际_NN 热核_NN 聚变_NN 实验_NN 反应堆_NN （_PU ITER_NN ）_PU 的_DEG 建设_NN 。_PU
+
+

@@ -1,0 +1,7 @@
+﻿_NN 中_LC 频_VV
+
+中频_NN （_PU ，_PU ）_PU ，_PU 频段_NN 由_P 300_CD kHz_NN 到_VV 3000_CD kHz_NN ，_PU 多数_CD 作_VV AM_NN 电台_NN 。_PU
+比_NN 中_LC 频_VV 略_AD 低_VA 的_DEC 是_VC 低频_NN （_PU LF_NN ）_PU ，_PU 比_NN 中_LC 频_VV 略_AD 高_VA 的_DEC 是_VC 高频_NN （_PU HF_CD ）_PU 。_PU
+在_P 日间_NN 时_LC ，_PU 传送_VV 距离_NN 较_AD 短_VA ；_PU 但_AD 是到_VV 了_AS 夜间_NN 时间_NN 可以_VV 利用_VV 电离层_NN 反射_NN 信号_NN ，_PU 可以_VV 作_VV 远_JJ 距离_NN 传信_NN 。_PU 但是_AD 较_AD 容易_VA 和_CC 其他_DT 电台_NN 的_DEC 信号_NN 混杂_VV 一起_AD ，_PU 影响_VV 接收_VV 。_PU
+
+

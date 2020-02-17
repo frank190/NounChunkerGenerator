@@ -1,0 +1,10 @@
+﻿撞击_NN 参数_NN
+
+在_P 物理学_NN 的_DEG 散射_NN 问题_NN 里_LC ，_PU 撞击_NN 参数_NN （_PU b_NN ）_PU 的_DEC 定义_NN 为_VC 一_CD 个_M 拋射体_NN 的_DEC 速度_NN 向量_AD 与_P 标靶物_NN 体质心_NN 的_DEC 垂直_JJ 距离_NN ，_PU 而_CC 当_P 中标_NN 靶_NN 的_DEG 中心_NN U_NN (_PU r_NN )_PU 是_VC 由_P 一_CD 个_M 正_AD 在_P 接近_VV 的_DEC 拋射体_NN 所_MSP 做成_VV 。_PU 在_P 核子_NN 物理学_NN 和_CC 经典_NN 力学_NN 里_LC ，_PU 时常_AD 会_VV 遇到_VV 这_DT 术语_NN 。_PU
+
+撞击_NN 参数_NN 和_CC 散射角_NN formula_NN
+当_NN 中_LC 的_DEG formula_NN __NN 3_CD 是_VC 当_P 拋射体_NN 与_CC 标靶_NN 的_DEC 距离_NN 十分_AD 远_VA 时_LC 是_VC 速度_NN ，_PU 而_CC formula_NN
+
+
+
+

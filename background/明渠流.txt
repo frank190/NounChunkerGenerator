@@ -1,0 +1,6 @@
+﻿明_VV 渠流_NN
+
+明_AD 渠流_NN 是_VC 水力学_NN 的_DEC 分支_NN ，_PU 是_VC 液体_NN 在_P 管道_NN 或_CC 水路_NN 中_LC 的_DEG 流动_NN ，_PU 而且_CC 液体_NN 存在_VV 自由_P 表面_NN ，_PU 若_CS 是_VC 液体_NN 在_P 管道_NN 中_LC ，_PU 无自_AD 由_P 表面_NN 的_DEC 流动_NN ，_PU 则_AD 称为_VV 管流_NN 。_PU
+
+
+

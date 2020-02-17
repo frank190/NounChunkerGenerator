@@ -1,0 +1,6 @@
+﻿蒸汽_NN 爆炸_NN
+
+蒸汽_VV 爆炸_NN 是_VC 指_VV 水_NN 剧烈_VA 的_DEC 沸腾_NN 或是_CC 闪_VV 蒸_NN 成_VV 蒸汽_NN 的_DEC 现象_NN ，_PU 可_VV 能_VV 是_VC 因为_P 水_NN 本身_PN 的_DEG 过热_NN 、_PU 被_LB 其_PN 中细_JJ 微的_JJ 细屑_NN 快速_VA 的_DEC 加热_NN 、_PU 或_CC 是_VC 因为_P 和_CC 熔化_VV 的_DEC 金属_NN 反应_VV 而_CC 升温_VV （_PU 例如_AD 堆芯_NN 熔毁_VV 后_LC ，_PU 核_NN 反应堆_NN 中_LC 熔化_VV 的_DEC 燃料_NN 棒_VA 和_CC 冷却水_NN 产生_VV 的_DEC 燃料_NN -_PU 冷却剂_NN 相互_AD 作用_VV ）_PU 。_PU 若_CS 压力_NN 容器_NN （_PU 例如_AD 压水_NN 反应堆_NN ）_PU 运作_VV 在_P 超过_VV 气压_NN ，_PU 也_CC 可能_VV 会_VV 产生_VV 蒸汽_NN 爆炸_VV 的_DEC 情形_NN 。_PU 水_NN 由_P 液体_NN 变成_VV 气体_NN 的_DEG 速度_NN 非常_AD 快_VA ，_PU 其_PN 体积_NN 剧烈_VA 地_DEC 膨胀_NN 。_PU 蒸汽_NN 爆炸_VV 时_LC ，_PU 若_CS 没有_VE 容器_NN 的_DEG 限制_NN ，_PU 爆炸_VV 会_VV 将_BA 蒸汽_NN 、_PU 沸腾_NN 的_DEC 热水_NN 、_PU 加热_VV 的_DEC 物质_NN 往_P 各_DT 个_M 方向_NN 散播_VV ，_PU 因此_AD 有_VE 可能_NN 造成_VV 烫伤_NN 或是_CC 灼伤_VV 。_PU
+
+
+

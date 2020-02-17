@@ -1,0 +1,10 @@
+﻿无线_NN 电掩星_NN
+
+无_VE 线电_NN 掩星_NN （_PU RO_NN ，_PU Radiooccultation_NN )_PU 是_VC 一_CD 种_M 测量_NN 行星_NN 大气层_NN 物理_NN 属性_NN 的_DEC 遥感_NN 技术_NN 。_PU 它_PN 依靠_AD 检测_VV 穿越_VV 过_AS 行星_NN 大气层_NN ，_PU 也就_AD 是_VC 大气层_NN 掩蔽_VV 的_DEC 无_VE 线电_NN 信号_NN 变化_NN 。_PU 当_P 电磁波_NN 辐射_NN 穿过_VV 大气层_NN 时_LC 会_VV 被_SB 折射_VV ，_PU 折射_NN 的_DEG 大小_NN 取决_VV 於_P 正常_JJ 路径_NN 的_DEG 折射_NN 梯度_NN ，_PU 也_AD 就_AD 是_VC 折射率_NN 梯度_NN 取决_VV 於_P 密度_NN 梯度_NN 。_PU 当_P 辐射_NN 经_P 历_PN 漫长_VV 的_DEC 大气_NN 边缘_NN 路径_NN 时_LC ，_PU 影响_VV 的_DEC 效果_NN 最为_AD 明显_VV 。_PU 当_P 无_VE 线电_NN 频率_NN 的_DEG 弯曲_NN 总量_NN 不_AD 能_VV 直接_AD 测量_VV 时_LC ，_PU 可以_VV 反过来_AD 使用_VV 都_AD 卜勒_NR 频移_NN 信号_NN 计算_NN 和_CC 测量弯_NN 曲度_NN ，_PU 给出_VV 发射器_NN 和_CC 接收器_NN 的_DEG 几何_JJ 关系_NN 。_PU 弯曲_VV 的_DEC 总量_NN 可以_VV 通过_P 使用_VV 阿贝耳_NR 转换_NN 公式_NN ，_PU 导出_VV 相关_JJ 的_DEG 折射率_NN 与_CC 角度_NN 。_PU 将_BA 无_VE 线电_NN 掩星_NN 技术_NN 的_DEC 资料_NN 应用_VV 在_P 气象_NN 学_NN 上_LC ，_PU 可以_VV 推导_VV 出_VV 中性_JJ 大气层_NN （_PU 在_P 电离层_NN 之下_LC ）_PU 的_DEG 温度_NN 、_PU 压力_NN 和_CC 水蒸_NN 汽_VV 的_DEC 含量_NN 的_DEG 资讯_NN 。_PU
+
+目前_NT 的_DEG 任务_NN 包括_VV ：_PU
+
+过去_VV 的_DEC 任务_NN 参见_NN 。_PU
+
+
+

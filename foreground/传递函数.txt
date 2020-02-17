@@ -1,0 +1,65 @@
+﻿_CS 传递_VV 函数_NN
+
+在_P 工程_NN 中_LC ，_PU 传递_VV 函数_NN （_PU 也称_NN 系统_NN 函数_NN 、_PU 转移_VV 函数_NN 或_CC 网络_NN 函数_NN ，_PU 画出_VV 的_DEC 曲线_NN 叫做_NN 传递_VV 曲线_NN ）_PU 是_VC 用来_VV 拟合_VV 或_CC 描述_VV 黑箱_NN 模型_NN （_PU 系统_NN ）_PU 的_DEG 输入_NN 与_CC 输出_NN 之间_LC 关系_VV 的_DEC 数学_NN 表示_VV 。_PU
+
+通常_AD 它_PN 是_VC 零_CD 初始_JJ 条件_NN 和_CC 零平_JJ 衡点_NN 下_LC ，_PU 以_P 空间_NN 或_CC 时间_NN 频率_NN 为_VC 变量_NN 表示_VV 的_DEC 线性_NN 时_LC 不_AD 变_VV 系统_NN （_PU LTI_NN ）_PU 的_DEG 输入_NN 与_CC 输出_NN 之间_LC 的_DEG 关系_NN 。_PU 然而_CC 一些_CD 资料_NN 来源_NN 中用_NN “_PU 传递_VV 函数_NN ”_PU 直接_AD 表示_VV 某些物_NN 理量_NN 输入_VV 输出_VV 的_DEC 特性_NN ，_PU （_PU 例如_AD 二端口_NN 网络_NN 中_LC 的_DEG 输出_NN 电压_NN 作为_VV 输入_NN 电压_NN 的_DEG 一_CD 个_M 函数_NN ）_PU 而_CC 不_AD 使用_VV 变换_VV 到_VV S_NN 平面_NN 上_LC 的_DEG 结果_NN 。_PU
+
+传递_VV 函数_NN 通常_AD 用于_VV 分析_VV 诸如_AD 单_BA 输入_NN 、_PU 单_AD 输出_VV 的_DEC 滤波器_NN 系统_NN 中_LC ，_PU 主要_AD 用_VV 在_P 信号_NN 处理_NN 、_PU 通_VV 信理_NN 论_NN 、_PU 控制_VV 理论_NN 。_PU 这_DT 个_M 术语_NN 经常_AD 专门_AD 用于_VV 如_P 本_DT 文_NN 所_MSP 述_VV 的_DEC 线性_JJ 时不变_NN 系统_NN （_PU LTI_NN ）_PU 。_PU 实际_NN 系统_NN 基本_AD 都_AD 有_VE 非_JJ 线性_JJ 的_DEG 输入_NN 输出_NN 特性_NN ，_PU 但是_CC 许多_CD 系统_NN 在_P 标称_NN 参数_NN 范围_NN 内_LC 的_DEG 运行_NN 状态_NN 非常_AD 接近于_VV 线性_JJ ，_PU 所以_AD 实际_JJ 应用_NN 中_LC 完全_AD 可以_VV 应_VV 用线_NN 性_NN 时_LC 不变_NN 系_NN 统理_NN 论_NN 表示_VV 其_PN 输入_VV 输出_NN 行为_VV 。_PU
+
+简单_JJ 说明_NN 一下_AD ，_PU 下面_NN 的_DEG 描述_NN 都_AD 是_VC 以_P 复数_NN formula_NN 为_VC 变量_NN 的_DEC 。_PU 在_P 许多_CD 应用_NN 中_LC ，_PU 足以_AD 限定_VV formula_NN (_PU 于_P 是_VC formulaformula_NN
+
+那么_AD ，_PU 对于_P 最_AD 简单_VA 的_DEC 连续_JJ 时间_NN 输入_NN 信号_NN formula_NN __NN 5_CD 和_CC 输出_NN 信号_NN formula_NN __NN 6_CD 来说_LC ，_PU 传递_VV 函数_NN formulaformula_NN 与_CC 输出_NN 信号_NN 的_DEC 拉普_NN 拉_VV 斯_DT 变换_NN formula_NN 之间_LC 的_DEG 线性_JJ 映射关_NN 系_NN ：_PU
+
+或者_CC
+
+在_P 离散_VV 时间_NN 系统_NN 中_LC ，_PU 应用_NN Z_NN 变换_NN ，_PU 传递_VV 函数_NN 可以_VV 类似_VA 地_DEV 表示_VV 成_VV
+这常常_AD 被_SB 称为_VV 脉冲_NN 传递_NN 函数_NN 。_PU
+
+考虑_VV 一_CD 个_M 常系_JJ 数线性_NN 微分_NN 方程_NN
+
+其中_NN "_PU u_NN "_PU 和_CC "_PU r_NN "_PU 是_VC "_PU t_NN "_PU 的_DEG 适当_VA 的_DEC 光滑_NN 函数_NN 。_PU "_PU L_NN "_PU 是_VC 相关_JJ 函数_NN 空间_NN 上_LC 定义_VV 的_DEC ，_PU 将_BA "_PU u_NN "_PU 变换_NN 为_VC "_PU r_NN "_PU 的_DEG 算子_NN 。_PU 这_DT 种_M 方程_NN 可以_VV 用于_VV 以_P 强迫_NN 函数_NN "_PU r_NN "_PU 为_VC 变量_NN 约束_AD 输出_VV 函数_NN "_PU u_NN "_PU 。_PU 传递_VV 函数_NN 写成_VV 算子_NN formula_NN "_PU L_NN "_PU 的_DEC 右_JJ 逆_NN ，_PU 因为_P formula_NN
+
+这_DT 个_M 常系_NN 数齐次_NN 微分_NN 方程_NN formula_NN __NN 16_CD 的_DEG 解_NN 可以_VV 通过_P 尝试_VV formula_NN
+
+在_P 输入_VV 函数_NN "_PU r_NN "_PU 的_DEG 形式_NN 也_AD 为_VC formula_NN __NN 19_CD 的_DEC 时候_NN ，_PU 非_AD 齐_AD 次_VA 的_DEC 情形_NN 也_AD 可以_VV 很_AD 容易_VA 的_DEV 解决_VV 。_PU 在_P 那_DT 种_M 情况_NN 下_LC ，_PU 通过_P 代入_VV formula_NN __NN 20_CD 就_AD 可以_VV 发现_VV formula_NN
+
+把_BA 那_DT 当作_NN "_PU 传递_VV 函数_NN "_PU 的_DEC 定义_NN 需要_VV 注意_VV 区分_NN 实_CD 数_CD 和_CC 复数_CD 的_DEG 差异_NN 。_PU 这_AD 是_VC 受到_VV "_PU abs(H(s_M )_PU )_NN "_PU 表示_VV 增益_NN ，_PU 而_MSP 用_VV "_PU -_PU atan_NN (_PU H_NN (_PU s_NN )_PU )_NN "_PU 表示_VV 相位滞_NN 后惯例_NN 的_DEG 影响_NN 。_PU 传递_VV 函数_NN 的_DEC 其他_DT 定义_NN 还_AD 有_VE 例如_AD formula_NN
+
+设普_NN 通线_NN 性_NN 非_VC 时_LC 变_VV 系统_NN 的_DEG 输入_NN 为_VC formula_NN ，_PU 输出_VV 为_VC formula_NN ，_PU 并且_CC formula_NN 和_CC formula_NN 的_DEG 拉普_NN 拉_VV 斯_DT 变换_NN 为_VC
+
+那么_AD 输出_VV 与_P 输入_NN 之间_LC 通过_P 传递_VV 函数_NN formula_NN 发_VV 生关_NN 系_NN
+
+并且_AD 传递_VV 函数_NN 为_VC
+
+在_P 信号_NN 分析_NN 与_CC 处理_NN 中_LC ，_PU 通常_AD 感_VV 兴趣_VV 的_DEC 系统_NN 的_DEG 频率_NN 响应_NN ，_PU 这时_NT 候经常_AD 使用_VV 频响_NN 函数_NN 来_MSP 表示_VV 系统_NN 对于_P 不同_JJ 频率_NN 谐波_NN 的_DEG 响应_NN 特征_NN 。_PU 频响_NN 函数_NN 通常_AD 用傅_VV 里_DT 叶_NN 变换_NN 表示_VV ，_PU 傅_NN 里_LC 叶_LB 变换_NN 是_VC formula_NN 的_DEG 双边拉_NN 普拉_JJ 斯_NN 变换_NN 的_DEC 一_CD 个_M 特例_NN 。_PU 频响_NN 函数_NN 实际_NN 上_LC 是_VC 线性_NN 系统_NN 的_DEG 稳态_NN 响应_NN 分量_NN ，_PU 只有_AD 再加_VV 上_JJ 瞬态_NN 响应_NN 分量_NN ，_PU 才_AD 构成_VV 系统_NN 的_DEC 全_DT 响应_NN ，_PU 即_AD 系统_NN 的_DEG 传递_NN 函数_NN 。_PU
+
+当_P 一_CD 个_M 振幅_NN 为_VC formulaformula_NN 以及_CC 相位_NN 为_VC formula_NN 的_DEG 谐波_NN 信号_NN
+
+输入_VV 到线性_NN 时_LC 不_AD 变_VV 系统_NN 的_DEC 时候_NN ，_PU 那么_AD 对应_VV 的_DEC 输出_NN 为_VC ：_PU
+
+注意_NN ，_PU 在_P 线性_NN 时_LC 不_AD 变_VV 系统_NN 中_LC ，_PU 谐波_NN 信号_NN 输入_VV 频率_NN formula_NN 没有_VV 发生_VV 变化_NN ，_PU 只有_VV 三角_NN 函数_NN 的_DEG 振幅_NN 和_CC 相位_NN 经过_P 系统_NN 发生_VV 了_AS 改变_NN 。_PU 相位_NN 延迟_NN （_PU 也就是_AD 传递_VV 函数_NN 引起_VV 的_DEC 与_P 频率_NN 相关_VV 的_DEC 正弦_NN 曲线_NN 延迟_NN ）_PU 为_VC ：_PU
+
+群延迟_NN （_PU 也就是_AD 传递_VV 函数_NN 引起_VV 的_DEC 与_P 频率_NN 相关_VV 的_DEC 正弦_NN 曲线_NN 包络线_NN 延迟_VV ）_PU 通过_P 计算_NN 相位_JJ 延迟_NN 对于_P 角_NN 频率_NN formula_NN 的_DEC 导数_NN 得到_VV ，_PU
+
+频率_NN 响应_VV formula_NN 可_VV 分解_VV 为_VC 幅频_NN 响应_VV formula_NN __NN 46_CD 或_CC 增_NN 益_NN formula_NN __NN 47_CD 以及_CC 相频_JJ 响应_NN formula_NN
+
+并_AD 可_VV 由_P 此_DT 绘出_NN 系统_NN 的_DEG 幅频_NN 特性_NN 曲线_NN 与_CC 相频_JJ 特性_NN 曲线_NN ，_PU 总称波_NN 特_AD 图_VA 。_PU
+
+频率_NN 响应_NN 也_AD 可以_VV 按_P 其_PN 实部_NN 与_CC 虚部_NN 分解_VV 表示_VV 为_VC ：_PU
+并_AD 由_P 此_DT 绘出_NN 系统_NN 频率_NN 响应_VV 的_DEC 奈奎_NN 斯_DT 特_NN 曲线_NN 。_PU
+
+不管_CS 是_VC 使用_VV 拉_VV 普_NN 拉_VV 斯_DT 变换_NN 还_AD 是_VC 傅立叶_NN 变换_NN ，_PU 它们_PN 都_AD 将_BA 时间_NN 域上_NN 系统_NN 响应_VV 的_DEC 卷积_NN 运算_NN 转化_VV 为_VC 对应_VV 的_DEC 复数域_NN 或_CC 频域_NN 上_LC 的_DEC 代数_NN （_PU 频率_NN 相_NN 乘_NN ，_PU 相位_NN 相_NN 加_ETC ）_PU 运算_NN ，_PU 并且_CC 可以_VV 直观_VV 的_DEC 揭示出_NN 系统_NN 对于_P 信号_NN 频率_NN 的_DEG 作用_NN 。_PU
+
+在_P 控制_NN 工程_NN 和_CC 控制_VV 理论_NN 中_LC ，_PU 传递_VV 函数_NN 是_VC 从_P 拉普_NN 拉_VV 斯_DT 变换_NN 推导_VV 出来_VV 的_DEC 。_PU 传递_VV 函数_NN 是_VC 经典_P 控制_NN 工程_NN 中_LC 的_DEG 一_CD 个_M 主要_JJ 工具_NN ，_PU 但是_AD ，_PU 在_P 分析_NN 多_CD 输入_VV 多_CD 输出_NN （_PU MIMO_NN ）_PU 系统_NN 的_DEC 时候_NN 它_PN 就_AD 显得_VV 很_AD 笨拙_VV 了_AS ，_PU 在_P 分析_VV 这样_PN 的_DEG 系统_NN 的_DEC 时候_NN 大_JJ 部分_CD 被状_JJ 态_NN 空间_NN 表示_VV 所_MSP 代替_VV 。_PU 尽管_CS 这样_AD ，_PU 经常_AD 也_AD 可以_VV 从_P 任意_DT 的_DEG 线性_NN 系统_NN 得到_VV 传递_VV 矩阵_NN 用于_VV 分析_VV 它_PN 的_DEG 动态_NN 及_CC 其它_DT 特性_NN ：_PU 传递_VV 矩阵_NN 中_LC 的_DEG 每_DT 个_M 元素_NN 都_AD 是_VC 与_P 特定_JJ 输入_NN 和_CC 特性_NN 输出_NN 相关_VV 的_DEC 一_CD 个_M 传递_NN 函数_NN 。_PU
+
+在_P 光学_NN 中_LC 调制_VV 传递_NN 函数_NN 描述_VV 的_DEC 是_VC 光学_NN 系统_NN 传递_VV 对_VV 比度_NN 的_DEC 能力_NN 。_PU
+
+例如_AD ，_PU 如果_CS 一_CD 系列_NN 的_DEG 黑白_JJ 交替条_NN 纹以_VV 一_CD 个_M 特定_JJ 的_DEG 空间_NN 频率_NN 画_NN 出来_VV ，_PU 那么_AD 当_P 观察_VV 这些_DT 条纹_NN 的_DEC 时候_NN ，_PU 图_NN 像_P 质量_NN 可能_VV 发生_VV 退化_NN 。_PU 白色_JJ 的_DEG 条纹_NN 看起_VV 来_MSP 变暗_VV 了_AS ，_PU 而_CC 黑色_JJ 的_DEG 条纹_NN 看起_VV 来_MSP 变亮_VV 了_AS 。_PU
+
+在_P 特定_JJ 空间_NN 频率_NN 的_DEG 调制_NN 传递_NN 函数_NN 定义_NN 为_VC ：_PU
+
+其中_NN 调制_NN (_PU M_NN )_PU ,_PU 是_VC 根据_P 下式_NN 从_P 图像_NN 或者_CC 光源_NN 亮度_NN 中_LC 导_VV 出来_VV 的_SP ：_PU
+
+许多_CD 非线性_JJ 成分_NN （_PU 如_P 张弛_NN 振荡器_NN ）_PU 就_AD 不_AD 存在_VV 传递_NN 函数_NN ，_PU 但_CC 可以_VV 用_P 描述_JJ 函数_NN 来_MSP 近似_VV 。_PU
+
+

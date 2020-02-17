@@ -1,0 +1,6 @@
+﻿事件_NN (_PU 粒子物_NN 理学_NN )_PU
+
+在_P 粒子_NN 物理_NN 学里_NN ，_PU 事件_NN 是_VC 指_VV 两_CD 个_M 粒子_NN 在_P 极_AD 短_VA 的_DEC 时间_NN 内_LC 互相_AD 交互_VV 作用_NN 。_PU 对_P 粒子_NN 物理_NN 学家_NN 来说_LC ，_PU 事件_NN 是_VC 一_CD 个_M 很_AD 重要_VA 的_DEC 观念_NN ，_PU 像是_CC 粒子_NN 加速器_NN 就_AD 是_VC 在_P 寻找_VV 一些_CD 不_AD 寻常_VA 的_DEC 事件_NN ：_PU 当_P 粒子_NN 加速器_NN 让粒子_NN 相_AD 撞时_VV ，_PU 会_VV 产生_VV 几亿_OD 次_M 事件_NN ，_PU 这些_DT 事件_NN 大_JJ 部分_CD 的_DEC 是_VC 一些_CD 很_AD 寻常_VA 的_DEC 事件_NN ，_PU 而_CC 粒子_NN 加速器_NN 的_DEG 电脑_NN 软件_NN 会_VV 自动_AD 过滤掉_VV 大_JJ 部分_NN 的_DEC 事件_NN ，_PU 留下_VV 几_CD 百件_NN 比较_VV 特殊_VA 的_DEC 事件_NN ，_PU 这些_DT 事件_NN 就_AD 有_VE 可能_VV 隐藏_VV 着_AS 一些_JJ 新粒子_NN 的_DEG 讯息_NN （_PU 像_P 希_VV 格_M 斯_DT 玻色子_NN ）_PU 。_PU
+
+
+

@@ -1,0 +1,32 @@
+﻿_NN 音频_NN 信号_NN 处理_NN
+
+音频_NN 讯号_NN 处理_NN ，_PU 又_AD 称_VV 音讯_NN 处理_NN ，_PU 音乐_NN 讯号_NN 处理_NN 等_ETC ，_PU 可以_VV 用来_VV 调整_VV 音乐_NN 讯号_NN 的_DEG 震幅_NN 、_PU 频率_NN 、_PU 波形_NN 等_ETC 资讯_NN 。_PU
+
+利用_VV 一些_CD 简单_VA 的_DEV 加减_VV 乘除_VV ，_PU 升降频_NN ，_PU 及_CC 窗_NN 函数_NN (_PU windowfunction_NN )_NN ，_PU 就_AD 可以_VV 做出_VV 各式_PN 的_DEG 声音_NN 讯号_NN ，_PU 创造_VV 属于_VV 自己_VV 的_DEC 电子_NN 音乐_NN 。_PU
+
+甚至_AD 透过_VV 一些_CD 讯号_NN 处理_NN 的_DEC 技巧_NN ，_PU 可以_VV 从_P 声音_NN 讯号_NN 取得_VV 背后_NN 所_MSP 代表_VV 的_DEC 频率_NN 高低_VA ，_PU 做_VV 更_AD 进一步_JJ 的_DEG 分析_NN 与_CC 应用_NN 。_PU
+
+
+
+
+
+1_CD ._PU 音量_NN 控制_NN ：_PU 音量_NN 是_VC 一_CD 种_M 相对_JJ 讯号_NN ，_PU 在_P 讯号_NN 中_LC 代表_VV 得_VV 是_VC 振幅_NN ，_PU 其_PN 计算_NN 方式_NN 是_VC 将_BA 范围_NN 内_LC 的_DEG 讯号_NN 取_VV 平方_JJ 相加_VV ，_PU 在_P 以_P 10_CD 为_VC 底取_NN log_NN ，_PU 单位_NN 是_VC 分贝_NN （_PU dB_NN ）_PU 如下_VV 公式_NN ：_PU
+
+但是_AD ，_PU 在_P 对_P 人_NN 耳来_VV 说_VV ，_PU 音量_NN 是_VC 一_CD 种_M 主观_VA 的_DEC 感受_NN ，_PU 根据_P 佛莱彻_NN 森_NN 曲线_NN （_PU F_CD l_M etcher_NN -_PU MunsonCurve_NN ）_PU ，_PU 在_P 不同_JJ 频率_NN 之下_LC ，_PU 人_NN 耳_AD 要_VV 听到_VV 声音_NN 的_DEC 话_NN ，_PU 对_P 音量_NN 有_VE 一_CD 个_M 最_AD 低_JJ 要求_NN ，_PU 如下_VV 图_NN 所_MSP 示_VV 。_PU 反过来说_AD ，_PU 虽然_CS 声音_NN 讯号_NN 的_DEG 振幅_NN 相同_VA ，_PU 但是_CC 因为_P 频率_NN 高_VA 低_VA 不_AD 同_VA ，_PU 对_P 人_NN 耳_VV 的_DEC 感受_NN 大小_NN 也_AD 会_VV 不_AD 同_VA ，_PU 相同_JJ 声音_NN 强度_NN ，_PU 耳朵_NN 对_P 低_VA 频_VV 的_DEC 感受度_NN 较_AD 差_VA ，_PU 对_P 3000_CD Hz_M 左右_LC 的_DEC 声音_NN 感受度_NN 最_AD 高_VA ，_PU 越_AD 往_P 高频_NN 又_AD 会_VV 慢慢_AD 降低_VV 。_PU 调整_VV 音量_NN 最_AD 简单_VA 的_DEC 方式_NN 就_AD 是_VC 用_P 加_VV 减法_VV ，_PU 首先_AD 把_BA 要_VV 处理_VV 的_DEC 范围_NN 框_NN 出来_VV ，_PU 接着_AD 计算_VV 出_VV 振幅_NN 大小_NN ，_PU 最后_AD 再_AD 减掉_VV 想要_VV 减少_VV 的_DEC 振幅_NN 强度_NN ，_PU 就_AD 可以_VV 降低_VV 音量_NN ，_PU 反之_AD 用_P 加法_NN 就_AD 可以_VV 增强_VV 区域_NN 的_DEC 音量_NN 。_PU
+
+2_CD ._PU 音频_NN 控制_NN ：_PU 音频_NN 是_VC 声音_NN 讯号_NN 处理_NN 的_DEC 核心_NN 部分_NN ，_PU 最_AD 常用_VA 的_DEC 简单_JJ 处理_NN 方式_NN 是_VC 增频_NN 和_CC 降频_NN 。_PU 音频代_NN 表得_VV 是_VC 讯号_NN 的_DEG 音高_NN ，_PU 中音_NN D_NN o_NN 的_DEG 频率_NN 约_AD 在_P 262_CD Hz_M ，_PU 在_P 音乐_NN 中_LC ，_PU 有_VE C（Do_NN ）_PU ，_PU #C_NN （_PU #_PU Do_NN ,_PU ♭_CD Re_NN ）_PU ，_PU D_NN （_PU Re_NN ）_PU ，_PU #D_NN （_PU #_NN Re_NN ,_PU ♭_CD Mi_NR ）_PU ，_PU E_NN （_PU Mi_NN ,_PU ♭_CD F_CD a_NN ）_PU ，_PU F_CD （_PU Fa_M ）_PU ，_PU #F_JJ （_PU #Fa,♭_JJ Sol_NN ）_PU ，_PU G_CD （_PU Sol_M ）_PU ，_PU #G_JJ （_PU #Sol,♭_JJ La_NN ）_PU ，_PU A（La_NN ）_PU ，_PU #A_JJ （_PU #La,♭S_JJ i_NN ）_PU ，_PU B_NN （_PU Si_M ）_PU ，_PU 12_CD 个_M 特定_JJ 的_DEG 音阶_NN ，_PU 每_DT 差_NN 12_CD 个_M 音阶_NN ，_PU 频率_NN 会_VV 变为_VV 原来_JJ 的_DEG 两_CD 倍_M ，_PU 其_PN 频率_NN 设定_NN 是_VC 以_P 440_CD Hz_M 为_VC 标準_NN 音频_NN ，_PU 做_VV 进一步_AD 数学_VV 推算_NN ，_PU 其_PN 频率_NN 为_VC 440_CD 乘上_VV 2_CD 的_DEG n_CD /_PU 12_CD 次_M 方_NN ，_PU 其中_NN n_NN 是_VC 上_JJ 面_NN 列出_VV 的_DEC 第几_OD 个_M 音阶_NN 。_PU 音频_NN 的_DEC 处理_NN 最_AD 常用_VV 的_DEC 是_VC 升频_NN 和_CC 降频_NN ，_PU 先_AD 选出_VV 想要_JJ 处理_NN 的_DEC 区域_NN ，_PU 接着_AD 做升_VV 降频_VV 的_DEC 动作_NN ，_PU 这_DT 其_PN 中_LC 必须_VV 要_VV 注意_NR 奈奎_NN 斯_AD 特_AD 理论_VA ，_PU 避免_VV 讯号_NN 失真_VV 。_PU
+
+frequency_NN =_PU 2_CD *_PU 440_CD
+
+3_CD ._PU 频率_NN 分析_NN ：_PU 透过_P 离散傅_NN 立_VV 叶_NN 转换_NN （_PU DiscreteFourierTransfor_NR m_ETC ）_PU ，_PU 通常_AD 简称_VV 为_VC DFT_NN ，_PU 可以_VV 将_BA 一_CD 段_M 声音_NN 讯号_NN 转换_VV 成_VV 其_PN 各_DT 个_M 频率_NN 的_DEG 正弦波_NN 分量_NN ，_PU 方便_AD 做_VV 更_AD 进一步_JJ 的_DEG 分析_NN 、_PU 运算_NN 。_PU 下_DT 图_NN 是_VC 将_BA 频率_NN 为_VC 440_CD Hz_M 的_DEG 正弦波_NN 讯号_NN ，_PU 借由_VV MATLABfunction_NN :_PU fft_NN ，_PU 可以_VV 得到_VV 讯号_NN 组成_VV 频率_NN 的_DEG 分量_NN ，_PU 从_P 图_NN 上_LC 可以_VV 看到_VV 在_P 440_CD Hz_M 的_DEG 地方_NN 有_VE 特_AD 別_AD 大_VA 的_DEC 值_NN 。_PU
+
+4_CD ._PU 音色_NN ：_PU 每_DT 一_CD 组_M 声音_NN 讯号_NN 的_DEC 波形_NN 都_AD 不_AD 一样_VA ，_PU 其_PN 物理_NN 意义_NN 是_VC 音色_NR ，_PU 因此_AD 如果_CS 改变_VV 波形_JJ 的_DEG 变化_NN ，_PU 就_AD 可以_VV 产生_VV 出音色_NN 类似_VA 的_DEC 声音_NN ，_PU 处理_NN 波形_NN 最_AD 简单_VA 的_DEC 方法_NN 就_AD 是_VC 用_P 窗函数_NN (_PU windowfunction_NN )_PU ，_PU 利用_VV 既_CC 有_VE 或_CC 自制_VV 的_DEC 窗_NN 函数_NN ，_PU 将_BA 讯号_NN 做_VV 简单_VA 的_DEC convolution_NN 就_AD 可以_VV 改变_VV 讯号_NN 的_DEC 波形_NN ，_PU 创造出_VV 不同_VA 的_DEC 音色_NN 。_PU
+
+5_CD ._PU 倍频_NN ：_PU 通常_JJ 音乐_NN 的_DEC 讯号_NN 不_AD 是_VC 单一_JJ 频率_NN 的_DEG 讯号_NN ，_PU 而_CC 是_VC 由_P 基_NN 频_VV ，_PU 以及_CC 其_PN 泛音_NN (_PU 基频_NN 的_DEC 整数倍_NN ，_PU 倍频_NN )_PU 所_MSP 组成_VV ，_PU 因此_AD 若_CS 自制_VV 电子_NN 音乐_NN 时_LC ，_PU 必须_VV 注意_JJ 倍频_NN 对_P 声音_NN 饱和度_NN 产生_VV 的_DEC 影响_NN 。_PU 下图_NN 将_BA 音乐_NN 讯号_NN 经过_P 频率_NN 分析_NN 后_LC ，_PU 可以_VV 看到_VV 除了_P 在_P formula_NN __NN 2_CD 左_JJ 右_JJ 的_DEG 基频_NN 外_LC ，_PU 在_P formula_NN __PU 3_CD 、_PU formula_NN
+
+6_CD ._PU 端点_NN 侦测_NN ：_PU 端点_NN 侦测_VV 的_DEC 目的_NN 是_VC 使_VV 讯号_NN 处理_NN 的_DEG 范围_NN 更_AD 精确_VA ，_PU 方法_NN 很_AD 简单_VA ，_PU 只要_CS 设定_VV 一_CD 个_M 音量_NN 阈值_NN ，_PU 若_CS 讯号_NN 小于_VV 阈值_NN ，_PU 则_AD 将_BA 其_PN 视为_VV 没_JJ 讯号_NN ，_PU 但是_CC 若_CS 噪声_NN 过_AD 高_VA ，_PU 则_AD 会_VV 产生_VV 误差_NN 。_PU
+
+
+http_NN :_PU //_PU djj_NN ._PU ee_NN ._PU ntu_NN ._PU edu_NN ._PU tw_NN /_PU ADSP7_NN ._PU pdf_NN
+
+

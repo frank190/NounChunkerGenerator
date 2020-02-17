@@ -1,0 +1,7 @@
+﻿极_NN 高频_NN
+
+极_AD 高频_VA （_PU ,_PU EHF_NN ）_PU 是_VC 指波_NN 长短_VV 于_P 超高频_NN (_PU SHF)_NN 的_DEG 电磁波_NN ，_PU 波长_NN 由_P 1mm_CD 到_CC 10_CD mm_M ，_PU 又_CC 称毫_VV 米波_NN 。_PU
+
+毫米_JJ 波所_NN 对应_VV 的_DEC 频率_NN 范围_NN 是_VC 30_CD ~_PU 300_CD GHz_M 。_PU 主要_AD 应用于_VV 气象_NN 雷达_NN 、_PU 空间_NN 通信_NN 、_PU 射电_NN 天文_NN 等_ETC 方面_NN 。_PU 也_AD 可能_VV 会_VV 被_SB 用于_VV 第五_OD 代_M 移动_JJ 通信_NN 系统_NN （_PU 5G_CD ）_PU 。_PU
+
+

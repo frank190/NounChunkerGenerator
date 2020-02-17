@@ -1,0 +1,9 @@
+﻿波_NN 前_LC 速度_NN
+
+物理学_NN 中_LC ，_PU 波前_NN 速度_NN （_PU Frontvelocity_NR ）_PU 是_VC 一_CD 脉冲_NN 大于_VV 零值_NN 的_DEC 第一_OD 个_M 陡坡_NN 其_PN 前行_VV 之_DEC 速度_NN 。_PU
+
+在_P 数学_NN 中_LC ，_PU 波前_NN 速度_NN 则_AD 用于_VV 双曲型_JJ 偏_JJ 微分_NN 方程_NN 的_DEC 解_NN ，_PU 描述_JJ 传递波_NN 前_LC 之_DEG 速度_NN 。_PU
+
+
+
+

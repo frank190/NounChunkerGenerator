@@ -1,0 +1,6 @@
+﻿物理_NN 变化_NN
+
+物理_NN 变化_NN 与_CC 化学_NN 变化_NN （_PU 化学_NN 反应_NN ）_PU 相对_VV ，_PU 指_VV 的_DEC 是_VC 不_AD 涉及_VV 物质_NN 原子_NN 重组_VV 的_DEC 变化_NN 。_PU 物理_NN 变化_VV 的_DEC 过程_NN 中_LC ，_PU 原有_JJ 的_DEG 分子_NN 并_AD 未_AD 分解_VV ，_PU 也_AD 没有_VV 新_VA 的_DEC 分子_NN 产生_VV 。_PU 只_AD 是_VC 分子_NN 间_LC 的_DEG 距离_NN 改变_VV 了_AS 。_PU 如_P 冰_NN 融化_VV 成_VV 液态_NN 水_NN 时_LC ，_PU 水_NN 分子_NN 间_LC 的_DEG 位置_NN 由_P 不_AD 能_VV 移动_VV 而_MSP 变成_VV 可以_VV 在_P 容器_NN 内_LC 移动_VV ，_PU 而且_CC 分子_NN 间_LC 的_DEG 距离_NN 改变_VV 了_AS ，_PU 但_AD 是_VC 水分子_NN 本身_PN 并_AD 没有_VV 被_SB 破坏_VV 。_PU
+
+
+

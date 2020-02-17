@@ -1,0 +1,12 @@
+﻿推迟_NN 时间_NN
+
+在_P 电动_JJ 力学_NN 里_LC ，_PU 由于_P 电磁波_NN 传播_VV 於_P 真空_NN 的_DEC 速度_NN 是_VC 有限_VA 的_DEC ，_PU 观测者_NN 侦测_VV 到_VV 电磁波_NN 的_DEG 时间_NN ，_PU 会_VV 不同于_VV 这_DT 电磁波_NN 发射_VV 的_DEC 时间_NN ，_PU 称为_VV 推迟_NN 时间_NN 。_PU
+
+从_P 马克_NN 士威_NN 方程组_NN ，_PU 可以_VV 推导_VV 出_VV 电磁波_NN 传播_VV 於_P 自_P 由_P 空间_NN 的_DEC 速度_NN 是_VC 光速_NN formula_NN 。_PU 由于_P 光速_NN 是_VC 有限_VA 的_DEC ，_PU 在_P 时间_NN formula_NN 发射_VV 出来_VV 的_DEC 光子_NN ，_PU 需要_VV 经过_VV 一些_CD 时间_NN ，_PU 才_AD 能_VV 移动_VV 到_VV 距离_NN 为_VC formula_NN 的_DEC 观测者_NN 。_PU 所以_AD ，_PU 观测者_NN 侦测_VV 到_VV 这_DT 光子_NN 的_DEC 时间_NN formula_NN ，_PU 遵守_VV 公式_NN
+
+因此_AD ，_PU 可以_VV 定义_VV 推迟_NN 时间_NN 为_VC
+
+推迟_NN 时间_NN 的_DEG 概念_NN 意味_VV 着_AS 电磁波_NN 的_DEC 传播_NN 不_AD 是_VC 瞬_NN 时_LC 的_DEG 。_PU 电磁波_NN 从_P 发射_NN 位置_NN 传播_VV 到_VV 终点_NN 位置_NN ，_PU 需要_VV 一_CD 段_M 传播_NN 期间_NN ，_PU 称为_VV 时间_NN 延迟_VV 。_PU 与_CC 日常_AD 生活_VV 的_DEC 速度_NN 来_MSP 比_VV ，_PU 电磁波_NN 传播_VV 的_DEC 速度_NN 相当_AD 快_VA 。_PU 因此_AD ，_PU 对于_P 小_JJ 尺寸_NN 系统_NN ，_PU 这时_NT 间_LC 延迟_VV ，_PU 通常_AD 很_AD 难_AD 被_SB 注意_VV 到_VV 。_PU 例如_AD ，_PU 从_P 开启_VV 电灯_NN 泡到_VV 这_DT 电灯_NN 泡_VV 的_DEC 光波_NN 抵达_VV 到_VV 观测者_NN 的_DEG 双_CD 眼_NN ，_PU 所_MSP 经过_VV 的_DEC 时间_NN 延迟_VV ，_PU 只有_AD 几_VV 亿分之一_CD 秒_M 。_PU 但是_AD ，_PU 对于_P 大_JJ 尺寸_NN 系统_NN ，_PU 像_P 太阳_NT 照射_VV 阳光_VV 到_VV 地球_NN ，_PU 时间_NN 延迟_VV 大约_AD 为_VC 8_CD 分钟_M ，_PU 比较_AD 能够_VV 被_SB 观测_VV 到_VV 。_PU
+
+
+

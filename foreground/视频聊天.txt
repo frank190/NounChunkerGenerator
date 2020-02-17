@@ -1,0 +1,14 @@
+﻿视频_NN 聊天_NN
+
+视频_NN 聊天_NN （_PU ）_PU -_PU {zh_NN -_PU cn_NN :_PU 简称_JJ 视聊_NN ，_PU ;_PU zh_NN -_PU tw_NN :_PU ，_PU ;zh_NN -_PU hk_NN :_PU ，_PU ;_PU }_AD -_PU 又_AD 称_VV 电视_NN 会议_NN 、_PU 电视_NN 电话_NN 会议_NN ，_PU 是_VC 一_CD 种_M 为_P 两_CD 地_M 或_CC 多_CD 地_M 的_DEG 用户_NN 之间_LC 提供_VV 语音_NN 和_CC 画面_NN 双_CD 向实_VV 时_LC 传送_VV 的_DEC 视听_NN 会_VV 话型_JJ 会议_NN 。_PU 大型_JJ 视讯_NN 会议_NN 系统_NN 在_P 现代_JJ 的_DEG 军事_NN 、_PU 政府_NN 、_PU 商贸_NN 、_PU 医疗_NN 等_ETC 部门_NN 和_CC 行业_NN 领域_NN 有_VE 广泛_VA 的_DEC 应用_NN 。_PU
+
+硬件_NN 视讯_NN 会议_NN 需要_VV 专门_VV 的_DEC 摄影_NN 设备_NN ，_PU 编码_NN 解码_NN 仪器_NN ，_PU 专线_NN 和_CC 专门_NN 会议室_NN 来_MSP 连接_VV 几_CD 个_M 固定_JJ 部门_NN ，_PU 投资_NN 至少_AD 几_VV 百万_CD 元_M 乃至上_AD 千万_CD 元人_NN 民币_VV ；_PU 后期_NN 设施_VV 的_DEC 更新维_JJ 护费_NN 用_P 高昂_VA ，_PU 且_CC 需要_VV 专人_AD 进行_VV 维护_NN ，_PU 占用_VV 了_AS 企业_NN 大量_CD 的_DEG 资金_NN 和_CC 人力_NN 资源_NN 。_PU 这_DT 对_P 中小型_JJ 企业_NN 而_MSP 言是_VV 一_CD 个_M 难以_AD 跨越_VV 的_DEC 门槛_NN 。_PU 另外_AD ，_PU 基于_P 硬件_NN 的_DEG 视讯_NN 会_VV 议_NN 只_AD 能_VV 在_P 固定_VV 的_DEC 几_CD 个_M 会议室_NN 地点_CD 进行_VV ，_PU 灵活性_NN 和_CC 拓展性_NN 差_VA ，_PU 面对_AD 突发_VV 状况_NN 往往_AD 束手_VV 无_VE 策_NN 。_PU
+
+软体_NN 视讯_NN 会议_NN 系统_NN 相比_VV 硬件_NN 视讯_NN 会议_NN 系统_NN 费用_VV 较_AD 低_VA ，_PU 同时_AD 在_P 一定_JJ 程度_NN 上_LC 克服_VV 了_AS 硬件_NN 视讯_NN 会议_NN 系统_NN 灵活性_NN 和_CC 拓展_NN 性_NN 差_VA 的_DEC 问题_NN 。_PU 但_CC 软件_NN 视讯_NN 会议_VV 本身_PN 同样_AD 存在_VV 一些_CD 无法_AD 忽视_VV 的_DEC 问题_NN ：_PU 多数_CD 的_DEG 视讯_NN 会议_NN 软件_NN 是_VC C_NN /_PU S_NN 架构_NN ，_PU 即_AD 桌面_NN 客户端_NN 软件_NN +_NOI 服务器_NN 端_NN 软件_NN 。_PU 正常_JJ 运行_NN 前_LC ，_PU 需要_VV 先_AD 配置_VV 网络_NN 和_CC 服务器_NN ，_PU 下载_VV 并_CC 安装_VV 客户端_NN 。_PU 在_P 此_DT 过程_NN 中_LC 若_CS 出现_VV 异常_JJ 情况_NN ，_PU 重装_VV 软件_NN 也_AD 是_VC 比较_AD 麻烦_VA 的_DEC 事情_NN ；_PU 另外_DT 一_CD 种_M 软件_NN 是_VC B_NN /_PU S_NN 架构_NN ，_PU 解决_VV 了_AS 桌面_NN 客户端_NN 存在_VV 的_DEC 一些_CD 问题_NN ，_PU 用户_NN 可_VV 直接_AD 在_P 网页_NN 浏览器_NN 上_LC 进行_VV 视频_NN 会议_VV 。_PU 但_AD 由于_P 采用_VV 普通_JJ 流媒体_NN 传输_NN 技术_NN ，_PU 这些_DT 产品_NN 必须_VV 利用_VV 浏览器_NN 下载_NN ActiveX_NN 的_DEC 控件_NN ，_PU 而_CC 由于_P 恶意_NN 网站_NN 通常_AD 会_VV 利用_VV ActiveX_NN 控件_NN 自动_AD 安装_VV 病毒_NN 或_CC 后门_NN ，_PU 所以_AD 使用_VV 此_DT 控件_NN 的_DEG 页面_NN 大多_AD 会_VV 被_LB 浏览器_NN 拦截_NN ，_PU 从而_AD 导致_VV 这_DT 类_M 视讯_NN 会议_NN 可能_VV 在_P 产品_NN 的_DEG 兼容性_JJ 和_CC 适用性_JJ 方面_NN 存在_VV 问题_NN 。_PU
+这_DT 类_M 程式_NN 包含_VV ：_PU YahooMessenger_NN 、_PU AOLInstantMessenger_NR （_PU AIM_NN ）_PU 、_PU WindowsLive_JJ Messenger_NN 、_PU Skype_NN 、_PU iChat_NN 、_PU Paltalk_NN （_PU 目前_NT 改名_NN 为_VC PaltalkScene_NN ）_PU 、_PU Ekiga_NN 、_PU Stickam_NN 、_PU Tokbox_NN 、_PU Camfrog_NN 和_CC meetcam_NN 等_ETC 。_PU
+
+
+
+
+
+

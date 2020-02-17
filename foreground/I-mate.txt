@@ -1,0 +1,15 @@
+﻿_NN I_NN -_PU mate_NN
+
+i_NN -_PU mate_NN （_PU 阿拉_NN 伯文_NN ：_PU ）_PU ，_PU 即原_JJ CarrierDevices_NN 公司_NN ，_PU 成立_VV 于_P 2001年_NT 1月_NT ，_PU 是_VC 一_CD 家_M WindowsMobile_NN 智慧_NN 型_NN 手机_NN 生产商_NN ，_PU Microsoft_NN 的_DEC 金牌_NN 认证_VV 合作_JJ 伙伴_NN 。_PU 公司_NN 总部_NN 位于_VV 阿拉伯_NN 联合_VV 大_JJ 公国_NR 的_DEC 杜拜_NR ，_PU 在澳_NR 大利亚_NR ，_PU 意大_NR 利_ETC ，_PU 英国_NR ，_PU 南非_NR 和_CC 美国_NR 设有_VV 分公司_NN ，_PU 2005年_NT 9月_NT 公司_NN 重组_VV ，_PU 之后_AD 组建_VV 于_P 苏格兰_NN 的_DEC 母公司_NN i_NN -_PU mateplc_NN 在_P 英国_NR 伦敦证_NN 券交_NN 易所_AD AIMMarket_NR 上市_NN 。_PU
+
+i_NN -_PU mate_NN 产品_NN 为_VC 贴牌_NN 生产_NN ，_PU 主要_AD 分为_VV 两_CD 大_JJ 系列_NN Ultimate_NN ，_PU JAMA_NN ，_PU 早期_AD 由_P 台湾_NN 的_DEG 宏达_NN 电_NN 与_P 英业_NN 达_VV 代工_AD ，_PU 目前_NT 由_P 台湾华_NN 冠_AD 通讯_VV ，_PU 诚实科技_AD 与_P 德信_NN 无线_JJ 三_CD 家_M 企业_NN 代工_VV 。_PU
+
+华冠_NN 通讯_NN 与_CC 诚实_JJ 科技_NN 代工_VV 的_DEC Ultimate_NN 系列_NN ：_PU
+
+德信_NN 无_VE 线代_NN 工_NN 的_DEG JAMA_NN 系列_NN ：_PU
+
+宏达_NN 电代工_NN 的_DEC 早期_NN 著名_NT 产品_NN ：_PU
+
+
+
+

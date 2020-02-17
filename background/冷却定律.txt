@@ -1,0 +1,27 @@
+﻿冷却定_VV 律_NN
+
+牛顿_JJ 冷却_NN 定律_NN 是_VC 由_P 英国物_NN 理学_NN 家艾_NN 萨_NOI 克_M •牛顿_NN 爵士_NN (_PU 1642_CD -_PU 1727_CD )_PU 所_MSP 提出_VV 的_DEC 一_CD 个_M 经验性_NN 的_DEC 关系_NN 。_PU 其_PN 论述_JJ 一_CD 个_M 物体_NN 所_MSP 损失_VV 的_DEC 热_NN 的_DEG 速率_NN 与_CC 物体_NN 和_CC 其_PN 周围_NN 环境_NN 间_LC 的_DEG 温度_NN 差_NN 是_VC 成_VV 比_P 例_NN 的_SP 。_PU
+
+一_CD 个_M 物体_NN 和_CC 其_PN 周围_NN 处_NN 於_P 一_CD 个_M 不同_VA 的_DEC 温度_NN 下_LC 的话_VV ，_PU 最终_AD 这_DT 个_M 物体_NN 会_VV 和_CC 其_PN 周围_NN 达成_VV 一_CD 个_M 相同_VA 的_DEC 温度_NN 。_PU 一_CD 个_M 比_AD 较_AD 热_VA 的_DEC 物体_NN 将_AD 会_VV 冷却_VV ，_PU 因为_P 它_PN 使_VV 其_PN 周围_NN 变温暖_NN 。_PU 一_CD 个_M 比_NN 较_AD 冷_VA 的_DEC 物体_NN 会_VV 因为_P 其_PN 周围_NN 的_DEC 高温_NN 而_CC 温度_NN 上升_VV 。_PU 当_P 我们_PN 在_P 考虑_VV 一_CD 个_M 物体_NN 冷却_VV 有_VE 多_AD 快_VA 时_LC ，_PU 我们_PN 会_VV 说_VV 他_PN 冷却_VA 的_DEC 速率_NN 是_VC －_PU "_PU 单位_JJ 时间_NN 内_LC ，_PU 有_VE 多少_VA 的_DEC 温度_NN 改变_VV 了_AS "_PU 。_PU
+
+一_CD 个_M 物体_NN 的_DEC 冷却_JJ 速率_NN 是_VC 依据_P 物体_NN 比_P 其_PN 周围_NN 温度_NN 高上_VV 了_AS 多少_VV 而_MSP 做_VV 改变_NN 。_PU 一_CD 个_M 放_VV 在_P 冰箱_NN 里_LC 的_DEG 热苹果_NN 派_VV 在_P 每_DT 分钟_M 的_DEG 温度_NN 变化_NN 会_VV 比_P 放_VV 在_P 厨房_NN 里_LC 的_DEG 还_AD 来_VV 的_DEC 多_CD 。_PU 当_P 苹果_NN 派_VV 在_P 冰箱_NN 里_LC 冷却_VV 的_DEC 时候_NN ，_PU 苹果派_NN 和_CC 其_PN 周围_NN 的_DEG 温度_NN 差_NN 是_VC 比_P 较_AD 大_VA 的_DEC 。_PU
+
+一_CD 个_M 较周_NN 围热_VV 的_DEC 物体_NN 温度_NN 为_VC T_NN ,_PU 忽略_JJ 表面积_NN 以及_CC 外部_NN 介质_NN 性质_NN 和_CC 温度_NN 的_DEG 变化_NN ._PU 它_PN 的_DEG 冷却_JJ 速率_NN (_PU dT_NN /_PU dt)_NN 与_P 该_DT 物体_NN 的_DEC 温度_NN 与_CC 周围_NN 环境_NN 的_DEC 温度_NN C_NN 的_DEG 差_NN (_PU T_NN -_PU C_NN )_PU 成_VV 正比_NN ._PU
+
+即_AD dT_NN /_PU dt_NN =_NN -_PU k(T-C)._PU 其中_NN ,_PU t_NN 为_VC 时间_NN ,_PU k_NN 为_VC 一_CD 个_M 常数_NN ._PU
+
+计算_NN 方法_NN 是_VC :_PU 　_NN
+对_P dT_NN /_PU dt_NN =_NN -_PU k_NN *_PU (T-C)_NN 进行_VV 积分_NN ,_PU 得_NN
+ln(T-C)_NN =_NN -_PU kt_NN +_PU B_NN (_PU B_NN 为_VC 积分_NN 常数_CD )_PU
+(_PU T_NN -_PU C_NN )_PU =_VV e_NN ^_NN (_PU -_PU kt_NN +_PU B_NN )_PU 公式_NN 1_CD
+设_VV t_NN =_PU 0_CD ,_PU 也就_AD 是_VC 物体_NN 的_DEC 初温_NN ,_PU 上述_JJ 公式_NN 1_CD 变成_VV
+(T0_NOI -_PU C_NN )_PU =e^B_Err
+然后_AD 代入_VV 公式_NN 1_CD 得_NN
+T_NN =_P C_NN +_NOI (_PU T0-C)_NN *_PU e_NN ^_NN -_PU kt_NN
+算出_VV B_NN 与_CC k_NN ,_PU 代入_VV t_NN 的_DEC 值_NN ,_PU 就_AD 可以_VV 算出_VV 某_DT 个_M 时间_NN 物体_NN 的_DEC 温度_NN ._PU
+
+冷却_AD 定律_VV 推导_VV 出来_VV ,_PU 在_P 忽略_JJ 表面积_NN 以及_CC 外部_NN 介质_NN 性质_NN 和_CC 温度_NN 的_DEG 变化_NN ,_PU 物体_NN 温度_NN 变化_NN 是_VC 越来_AD 越慢_VV 的_DEC ._PU
+
+牛顿冷却_AD 定律_VV 揭示_VV 了_AS 任何_DT 物体_NN 冷却_VV 共同_JJ 遵守_NN 的_DEG 数学_NN 规律_NN ，_PU 并且_CC 在_P 提出_VV 后_LC 应用_VV 于_P 各_DT 学科_NN 研究_VV 直到_VV 至今_AD 。_PU 但是_AD 在_P 实际_NT 生活_NN 中_LC ，_PU 不断_AD 有_VE 人_NN 发现_VV ，_PU 某些_DT 情况_NN 下_LC ，_PU 物体_NN 冷却_AD 速率_VV 并非_AD 只_AD 和_P 外部_NN 与_P 物体_NN 的_DEC 温差_NN 有关_VV 。_PU 比如_AD 有_VE 人_NN 观察_VV 到_VV ，_PU 两_CD 杯_M 除了_P 温度_NN 分別_NN 是_VC 100_CD ℃_M 和_CC 70_CD ℃_M 其他_DT 各_DT 种_M 状态_NN 都_AD 相同_VA 的_DEC 水_NN ，_PU 放到_VV 冰箱_NN 里_LC ，_PU 居然_AD 是_VC 100_CD ℃_M 的_DEC 水先_NN 结冰_VV 。_PU 这_DT 种_M 现象_NN 被_SB 称为_VV 彭巴_NN 现象_NN 。_PU
+
+

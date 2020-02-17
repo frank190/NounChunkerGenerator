@@ -1,0 +1,13 @@
+﻿谐波_NN
+
+谐波_NN 是_VC 一_CD 个_M 数学_NN 或_CC 物理_NN 学概念_VV ，_PU 是_VC 指_VV 周期_NN 函数_NN 或_CC 周期性_NN 的_DEC 波形_NN 中_LC 能_VV 用_P 常数_NN 、_PU 与_P 原函数_NN 的_DEG 最_AD 小_JJ 正周期_NN 相同_VA 的_DEC 正弦_NN 函数_NN 和_CC 余弦_NN 函数_NN 的_DEG 线性_JJ 组合_NN 表达_VV 的_DEC 部分_NN 。_PU
+
+一般_JJ 周期_NN 性波_NN 形_NN 不_AD 是_VC 完美_VA 的_DEC 正弦_NN 函数_NN 或_CC 余弦_NN 函数_NN ，_PU 也就是_AD 说波形_JJ 存在_JJ 畸变_NN ，_PU 因此_AD 根据_P 傅立_JJ 叶级_NN 数_NN 的_DEG 原理_NN ，_PU 周期_NN 函数_NN 都_AD 可以_VV 展开_VV 为_VC 常数_NN 与_P 一_CD 组_M 具有_VV 共同_JJ 周期_NN 的_DEG 正弦_NN 函数_NN 和_CC 余弦_NN 函数_NN 之_DEG 和_CC 。_PU
+其_PN 展_NN 开式_NN 中_LC ，_PU 常数_NN 表达_VV 的_DEC 部分_NN 称为_VV 直流_JJ 分量_NN ，_PU 最_AD 小_JJ 正周期_NN 等于_VV 原函数_NN 的_DEG 周期_NN 的_DEC 部分_NN 称为_VV 基波_NN 或_CC 一次_JJ 谐波_NN ，_PU 最_AD 小_JJ 正周期_NN 的_DEG 若干_CD 倍_M 等于_VV 原函数_NN 的_DEG 周期_NN 的_DEC 部分_NN 称为_VV 高次_JJ 谐波_NN 。_PU
+因此_AD 高次_JJ 谐波_NN 的_DEG 频率_NN 必然_AD 也_AD 等于_VV 基波_NN 的_DEC 频率_NN 的_DEG 若干_CD 倍_M ，_PU 基_NN 波频率_NN 3_CD 倍_M 的_DEG 波称_NN 为_VC 三_CD 次_M 谐波_NN ，_PU 基_NN 波频率_NN 5_CD 倍_M 的_DEG 波称_NN 为_VC 五_CD 次_M 谐波_NN ，_PU 以_P 此_PN 类推_VV 。_PU 不_AD 管_VV 几_CD 次_M 谐波_NN ，_PU 他们_PN 都_AD 是_VC 正_AD 弦波_VA 。_PU
+
+泛音_NN 其实_AD 就_AD 是_VC 物理学_NN 上_LC 的_DEG 谐波_NN ，_PU 但_CC 次数_NN 的_DEC 定义_NN 稍_AD 许有_VV 些不同_NN ，_PU 基波_NN 频率_NN 2_CD 倍_M 的_DEG 音频_NN 称之_VV 为_VC 一次_JJ 泛音_NN ，_PU 基波_NN 频率_NN 3_CD 倍_M 的_DEG 音频称_NN 之_DEG 为_VC 二_CD 次_M 泛音_NN ，_PU 以_P 此_PN 类推_VV 。_PU
+
+
+
+

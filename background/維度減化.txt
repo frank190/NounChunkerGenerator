@@ -1,0 +1,12 @@
+﻿维度_NN 减化_VV
+
+维度_NN 减化_VV （_PU ）_PU 是_VC 紧化_VV 理论_NN 中_LC 紧_AD 致化_VV 的_DEC 维度_NN 的_DEG 大小_NN 变为_VV 零时_NT 的_DEG 临界_NN 情况_NN 。_PU 在_P 物理学_NN 中_LC ，_PU 通过_P 将_BA 所有_DT 的_DEG 场独_NN 立存_VV 在于_VV 额外_NN 维度_NN D_NN 中_LC ，_PU 时空_NN 维数_NN D_NN 的_DEG 理论_NN 能够_VV 被_SB 较少_AD 数量_NN 的_DEG 额外_NN 维度_NN D_NN 重新_AD 定义_VV 。_PU
+
+例如_AD ，_PU 考虑_VV 一_CD 个_M 周期性_NN 的_DEC 紧凑_NN 的_DEG 维度_NN 的_DEG L_NN 时_LC 期_NN 。_PU 让_NN "_PU x_NN "_PU 成为_VV 沿着_P 这_DT 条_M 维度_NN 的_DEG 坐标_NN 。_PU 任何_DT 场_M formula_NN 可以_VV 被_SB 描述_VV 为_VC 以下_JJ 单元_NN 的_DEG 总和_NN ：_PU
+
+"_PU A_NN "_PU 作为_P 一_CD 个_M 常数_NN 。_PU 根据_P 量子_NN 力学_NN ，_PU 这_DT 一_CD 单元_NN 具有_VV 沿着_P "_PU x_NN "_PU 轴_NN 的_DEG 动量_NN "_PU nh_NN "_PU /"L"_PU ，_PU 在_P 那里_PN "_PU h_NN "_PU 是_VC 普朗克_NR 常数_NN 。_PU 因此_AD ，_PU 当_P L_NN 达到_VV 0_CD 时_LC ，_PU 这_DT 个_M 动量_NN 达到_VV 了_AS 无限_AD 大_VA ，_PU 能量_NN 也_AD 一样_VA ，_PU 除非_VV "_PU n_NN "_PU  = _NN 0_CD 。_PU 然而_AD "_PU n_NN "_PU  = _NN 0_CD 提供_VV 了_AS 一_CD 个_M 关于_VV "_PU x_NN "_PU 恒定_JJ 的_DEG 场_NN 。_PU 因此_AD 在_P 这_DT 个场_NN 的_DEG 限制_NN 下_LC ，_PU 并_CC 在_P 有限_VA 的_DEC 能量_NN 下_LC ，_PU formula_NN 将_AD 不_AD 依赖于_VV "_PU x_NN "_PU 。_PU
+
+这_DT 种_M 说法_NN 进行_VV 了_AS 概括_NN 。_PU 紧凑_VV 的_DEC 维度_NN 对_P 所有_DT 场_NN 施加_VV 了_AS 特定_JJ 的_DEG 边界_NN 条件_NN ，_PU 例如_AD 在_P 周期性_NN 维度_NN 的_DEC 情况_NN 下_LC 的_DEG 周期_NN 性_NN 边界_NN 条件_NN ，_PU 并且_CC 在_P 其他_DT 情况_NN 下_LC 通常_AD 为_VC 诺伊曼_NN 边界_NN 条件_NN 或_CC 狄利_NN 克雷_NN 边界_NN 条件_NN 。_PU 现在_NT 假设_VV 紧凑_VA 的_DEC 维度_NN 的_DEG 尺度_NN 是_VC "_PU L_NN "_PU ；_PU 那么_AD 沿_P 这_DT 个_M 维度_NN 的_DEG 梯度_NN 的_DEC 可能_NN 的_DEC 特征_NN 值_NN 是_VC 1_CD /_PU "_PU L_OD "_PU 的_DEG 整数_NN 或_CC 半_CD 整数_NN 倍_NN （_PU 取决于_VV 精确_VA 的_DEC 边界_NN 条件_NN ）_PU 。_PU 在_P 量子_NN 力学_NN 中_LC ，_PU 这_DT 个_M 特征_NN 值_NN 是_VC 场_VV 的_DEC 动_VV 量_NN ，_PU 因此_AD 与_P 其_PN 能量_NN 有关_VA 。_PU 当_P "_PU L_NN "_PU  _NN →_PU  _NN 0_CD 时_LC ，_PU 除_P 零_CD 之外_LC 的_DEG 所有_DT 特征_NN 值都_VV 到_VV 无_VE 穷_AD 大_VA ，_PU 而_AD 能_VV 量也_AD 是_VC 如此_PN 。_PU 因此_AD ，_PU 在_P 这_DT 个_M 极限_JJ 情况_NN 下_LC ，_PU 在_P 有限_NT 能量_VV 的_DEC 情况_NN 下_LC ，_PU 零_CD 是_VC 唯一_JJ 可能_NN 的_DEC 沿着_P 紧凑_AD 尺寸_NN 的_DEC 梯度_NN 下_LC 的_DEG 特征_NN 值_NN ，_PU 这_PN 意味_VV 着_AS 没有_VE 任何_DT 东西_NN 依赖于_VV 这_DT 个_M 维度_NN 。_PU
+
+
+

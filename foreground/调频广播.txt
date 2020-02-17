@@ -1,0 +1,11 @@
+﻿_CS 调频_VV 广播_VA
+
+调频_VV 广播_NN （_PU ，_PU 常_AD 缩写_VV 为_VC FM_NN 广播_VA ）_PU 是_VC 一_CD 种_M 以_P 频率_NN 调制_NN 技术_NN 来_MSP 传送_VV 高_JJ 保真_NN 声音_NN 的_DEG 无线_NN 电广播_NN 技术_NN ，_PU 由_P 爱德温_NN ·_PU 霍华_NN ·_PU 阿姆斯_NR 壮_ETC （_PU EdwinHowardArmstrong_NR ）_PU 发明_NN 。_PU
+
+世界_NN 各_DT 国_NN 的_DEG FM_NN 广播_JJ 频带_NN 均_AD 位于_VV 无_VE 线电_NN 频谱_NN 中_LC 的_DEG 甚高_JJ 频（VHF_NN ）_PU 部分_NN ，_PU 一般_AD 在_P 87_CD ._PU 5_CD 至_CC 108_CD ._PU 0百万_CD 赫_M 之间_LC 。_PU 但_AD 亦_AD 有_VE 些_CD 国家_NN 使用_VV 其他_DT 频率_NN ：_PU
+
+调频_VV 广播_JJ 电台_NN 的_DEG 频率_NN 一般_AD 会_VV 设定_VV 为_VC 100千_NN 赫_NN 的_DEC 倍数_NN 。_PU 在_P 大部分_CD 美洲_NN 和_CC 加勒_NN 比_P 海_NN 国家_NN ，_PU 只_AD 使用_VV 单数_NN 的_DEC 倍数_NN 。_PU 在_P 欧洲部_NN 分地区_NN 、_PU 格陵兰_NN 和_CC 非洲_AD ，_PU 则_AD 只_AD 使用_VV 双_CD 数_CD 倍数_NN 。_PU 在_P 意大_NN 利_NN ，_PU 则_AD 不_AD 使用_VV 100千_CD 赫_CD 的_DEG 倍数_NN ，_PU 而_CC 使用_VV 50千_CD 赫_CD 的_DEG 倍数_NN 。_PU 除_P 此_PN 以外_LC ，_PU 世界_NN 各_DT 处_NN 还_AD 使用_VV 其他_DT 标準_NN ，_PU 包括_VV 0_CD ._PU 001_CD 、_PU 0_CD ._PU 01_CD 、_PU 0_CD ._PU 03_CD 、_PU 0_CD ._PU 074_CD 、_PU 0.5_NN 和_CC 0_CD ._PU 3_CD 兆赫_NN 的_DEC 倍数_NN 等_ETC ，_PU 不_AD 一而_AD 足_VA 。_PU 即_AD 使_VV 技术_NN 上_LC 容许_VV 如此_AD 接近_VV 的_DEC 频率_NN 区隔_NN ，_PU 但_AD 为了_P 减低_VV 频道_NN 互相_AD 干扰_VV ，_PU 位处_NN 相近_VV 的_DEC 电台_NN 发射站_NN 一般_AD 会_VV 区隔_VV 最_AD 少_VA 0.5_CD 兆赫_NN 的_DEG 发射_NN 频率_NN 。_PU 这样_PN 的_DEG 好处_NN 是_VC 把_BA 两_CD 个_M 相邻_JJ 发射站_NN 的_DEC 区隔扩_NN 大_VA ，_PU 把_BA 中间_NN 的_DEG 频率_NN 留给_VV 较_AD 远_VA 的_DEC 发射站_NN 。_PU 当_P 这_DT 个_M 较_AD 远_VA 的_DEC 发射站_NN 的_DEC 电波_NN 到达_VV 该_DT 处_NN 时_LC ，_PU 已_AD 遭_VV 衰减_VV ，_PU 以_MSP 减低_VV 干扰_VV 的_DEC 机会_NN 。_PU
+
+频率_NN 调制_NN 是_VC 一_CD 种_M 利用_VV 改变_VV 载_VV 波_NN 的_DEC 频率_NN 来_MSP 传送_VV 资讯_NN 的_DEG 调制_NN 方法_NN ，_PU 而_CC 幅度_NN 调制_VV （_PU AM_NN ，_PU amplitudemodulation_NN ）_PU 则_AD 透过_AD 改变_VV 载_VV 波幅度_NN 来_MSP 传送_VV 资讯_NN 。_PU 在_P 模拟_NN 广播_VA 的_DEC 应用_NN 中_LC ，_PU 载_VV 波_NN 於_P 某_DT 一_CD 时间_NN 点_NN 的_DEG 频率_NN 与_P 其_PN 输入_VV 讯号_NN 的_DEG 值_NN 为_VC 正比例_NN 关系_VV ，_PU 这_DT 种_M 调制_VV 的_DEC 模式_NN 常用于_VV 广播_JJ 技术_NN 之中_LC 。_PU
+
+

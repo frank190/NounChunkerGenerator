@@ -1,0 +1,8 @@
+﻿数字_NN 高清_JJ 互动_NN 接口_NN
+
+数字_NN 高清_NN 互动_JJ 接口_NN （_PU 英文_NN 全称_AD ：_PU DigitalInterfaceforVideoandAudio_NN ，_PU 缩写_VV 为_VC DIVA_NN 或_CC DiiVA_NN ）_PU 是_VC 一_CD 个_M 发送_VV 压缩_NN 与_CC 未_AD 压缩_VV 数字流_NN 的_DEC 双向_JJ 音频_NN /_PU 视频_NN 接口_NN 提议_NN 。_PU 它_PN 由_P 位于_VV 广州_NN 和_CC 加利_NN 福尼_NN 亚州_NN 森尼_NR 韦尔_NN 的_DEC 寰宇芯连_NN （_PU Synerchip_NN ）_PU 有限_JJ 公司_NN 开发_VV 。_PU
+
+DIVA_NR 支持_NN 13_CD ._PU 5Gbit/s_PU 的_DEG 下_JJ 行流_NN 数据_NN 速率_NN （_PU 从_P 源到_NN 显示器_NN ）_PU ，_PU 这_PN 可_VV 支持_VV 高于_VV 1080p_CD 分辨率_NN 的_DEG 色彩_NN 深度_NN 。_PU DIVA_NN 还_AD 支持_VV 一_CD 个_M 2.25Gbit_NN /_PU s_NN 的_DEG 双向_JJ 数据_NN 通信_NN 信道_NN ，_PU 其_PN 可以_VV 携带_VV 多_CD 个子_NN 信道_NN （_PU 音频_NN 、_PU 控制_NN 、_PU 压缩_VV 的_DEC 视频_NN 等_ETC ）_PU 。_PU 这_DT 使_VV DIVA_NN 具有_VV 18_CD Gbit_M /_PU s_NN 的_DEG 原始_JJ 数据_NN 双_CD 向_P 数据_NN 速率_NN ，_PU 或者_CC 可_VV 利用_VV 的_DEC 14_CD ._PU 4G_CD bit_M /_PU s_NN 双向_JJ 数据_NN 速率_NN （_PU 因为_P 8_CD b_M /_PU 10b_CD 编码_NN ）_PU 。_PU DIVA_NN 在_P 2008_CD 年_M 的_DEG 中国_NN 数字_NN 生活_NN 论坛_NN 和_CC 展示会_NN 上_LC 使用_VV 单条_JJ CAT6A_NN 线缆_NN 进行_VV 了_AS 展示_VV 。_PU DIVA_JJ 推广组_NN 由_P 长虹_VA 、_PU 海尔_NN 、_PU 海信_NN 、_PU 康佳_NN 、_PU 熊猫_NN 、_PU 创维_NN 、_PU SVA_NN 、_PU TCL_NN 集团_NN 和_CC Synerchip_NN 构成_VV 。_PU DIVA_VV 推广_NN 组_VV 在_P 2008_CD 年_M 2_CD 月时_NN 希望_VV 在_P 2008_CD 年年_NN 底前_NT 完成_VV D_CD IVA_M 规范_NN ，_PU 并_CC 在_P 2009_CD 年_M 或_CC 2010_CD 年_M 发布_NN DIVA_NR 芯片_NN 。_PU
+
+
+

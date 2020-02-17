@@ -1,0 +1,14 @@
+﻿同_JJ 位素_NN
+
+同_DT 位素_NN （_PU ）_PU 是_VC 某_DT 种_M 特定_JJ 化学_NN 元素_NN 之下_LC 的_DEG 不同_JJ 种类_NN ，_PU 同_DT 一_CD 种_M 元素_NN 下_LC 的_DEG 所有_DT 同位素_NN 都_AD 具有_VV 相同_JJ 质子_NN 数目_NN ，_PU 但_CC 中子_NN 数目_NN 不同_VA 。_PU 这些_DT 同位_NN 素_AD 在_P 化学_NN 元素_NN 周期_NN 表_NN 中_LC 占有_VV 同_DT 一_CD 个_M 位置_NN ，_PU 因此_AD 得名_VV 。_PU
+
+例如_AD 氢_NN 元素_NN 中_LC 氘_NN 和_CC 氚_NN ，_PU 它们_PN 原子核_NN 中_LC 都_AD 有_VE 1_CD 个_M 质子_NN ，_PU 但是_CC 它们_PN 的_DEG 原子核_NN 中_LC 分別_VV 有_VE 0_CD 个_M 中子_NN 、_PU 1_CD 个_M 中子_NN 及_CC 2_CD 个_M 中子_NN ，_PU 所以_AD 它们_PN 互为_JJ 同位素_NN
+
+弗雷德_NN 里克_NN ·_PU 索迪_NN 借由_VV 衰变链_NN 分析_NN ，_PU 在_P 1912_CD 年_M 证实_JJ 同位_NN 素_AD 存在_VV 。_PU
+
+约_AD 瑟夫_VV ·_PU 汤姆_NN 孙_VV 在_P 1913_CD 年_M 首次_AD 发现_VV 稳定元_NN 素同_JJ 位素_NN 的_DEC 证据_NN 。_PU 弗朗_NR 西斯_NN ·_PU 阿_CS 斯_DT 顿_M 通过_P 实验_NN ，_PU 证明_VV 了_AS 氖_NN 的_DEG 两_CD 种_M 同位素_NN 的_DEG 存在_NN 。_PU
+
+可_VV 用于_VV 部分_NN 身体_NN 结构_NN 的_DEG 检验_NN ，_PU 及_CC 检测_VV 历史_NN 物品_NN 的_DEC 历史_NN 年分_NN 。_PU
+
+
+

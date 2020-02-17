@@ -1,0 +1,16 @@
+﻿_NN 可_VV 适性_JJ 视讯_NN 编码_NN
+
+可适性_JJ 视讯_NN 编码_NN （_PU ScalableVideoCoding_NN ,_PU SVC_NN ）_PU 是_VC 传统_NN H_NN ._PU 264_CD /_PU MPEG_NN -_PU 4_CD AVC_NN 编码_NN 的_DEG 延伸_NN ，_PU 可_VV 提升_VV 更_AD 大_VA 的_DEC 编码_NN 弹性_NN ，_PU 并_CC 具有_VV 时间_NN 可_VV 适性_JJ （_PU TemporalScalability_NN ）_PU 、_PU 空间_NN 可_VV 适性_JJ （_PU SpatialScalability_NN ）_PU 及_CC 讯_NN 杂比_NN 可_VV 适性_JJ （_PU SNRScalability_NN ）_PU 三_CD 大_JJ 特性_NN ，_PU 使_VV 视讯_NN 传输_VV 更_AD 能_VV 适应_VV 在_VV 异质_NN 的_DEC 网路_NN 频宽_VV 。_PU
+
+SVC_CD 的_DEG 目标_NN 在于_VV 标_VV 準_DER 化_AD 已_AD 使_VV 编码_NN 的_DEC 高品质_NN 的_DEG 影像码_NN 流_VV ，_PU 可以_VV 独立_VV 拆_VV 分成_VV 一_CD 个_M 或_CC 多_CD 个_M 子位_NN 元流_NN （_PU subsetbitstream_NN ）_PU 进行_VV 解码_NN ，_PU 可以_VV 自己_AD 用_P 一_CD 个_M 复杂_VA 和_CC 重建_NN 质量_NN 达到_VV 类似_VA 的_DEC 利用_VV 现有_JJ 的_DEG H_NN ._PU 264_CD /_PU MPEG_NN -_PU 4_CD AVC_NN 的_DEG 设计_NN 与_P 相同_JJ 数量_NN 的_DEG 数据_NN 码流_NN 中_LC 的_DEG 一_CD 个_M 子集_NN 。_PU
+
+一_CD 个_M 子位_NN 元流_NN （_PU subsetbitstream_NN ）_PU 可以_VV 代表_VV 一_CD 个_M 空间_NN 或_CC 时间_NN 分辨率_NN 较_AD 低_VA 或_CC 品质_NN 较_AD 差_VA 的_DEC 的_DEG 视讯_NN 信号_NN （_PU 每_DT 个_M 单独_NN 或_CC 组合_NN ）_PU 相比_VV 。_PU
+
+
+空间_NN 可_VV 适性_JJ 与_NN 品质_NN 可适性_NN 的_DEC 综合_JJ 应用_NN 可以_VV 参考_VV JPEG2000_NN 影像_VV 压缩_NN 。_PU JPEG2000_CD 从_P 递进性_NN （_PU Progressive_NN ）_PU 与_CC 可适性_NN （_PU Scaling_NR ）_PU 两_CD 个_M 角度_NN 来_MSP 看待_VV ：_PU
+
+
+
+
+
+

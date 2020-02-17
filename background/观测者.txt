@@ -1,0 +1,9 @@
+﻿观_VV 测_VV 者_NN
+
+观测者_NN （_PU 英文_NN ：_PU Observer_NN ）_PU 。_PU 是_VC 物理学_NN 中_LC ，_PU 理_NN 想化_VV 的_DEC （_PU 通常_AD 是_VC 假想_VV 的_DEC ）_PU 测量_NN 相关_NN 物理_NN 性质_NN 的_DEC 人_NN 或_CC 仪器_NN 。_PU
+
+在_P 相对_JJ 论_NN 中_LC ，_PU 观测者_NN 有_VE 特别_VA 的_DEC 意义_NN ，_PU 由于_P 信息_NN 的_DEC 传播_NN 是_VC 有_VE 速度_NN 的_DEC ，_PU 那么_AD 某_DT 一_CD 时刻_NN 能够_VV 影响_VV 到_VV 一_CD 个_M 观测者_NN 的_DEC 事件_NN 是_VC 有_VE 一定_JJ 范围_NN 的_DEC ，_PU 此时_AD 观测_VV 者_NN 能_VV 影响_VV 到_VV 的_DEC 事件_NN 也_AD 是_VC 有_VE 一定_JJ 范围_NN 的_SP ，_PU 这_DT 个_M 范围_NN 称为_VV 光_NN 锥_OD 。_PU 对于_P 此时_NT 的_DEG 观测者_NN 来说_LC ，_PU 光_AD 锥_NN 之外_LC 的_DEG 宇宙_NN 是_VC 没有_VE 意义_NN 的_SP 。_PU
+
+在_P 狭义_NN 相对_AD 论_NN 中_LC 观测者_NN 更多_AD 是_VC 指惯性_JJ 参考系_NN 。_PU 有时_AD 也_AD 会_VV 指代任_VV 意非惯性_JJ 参考系_NN ；_PU 特殊_JJ 情况_NN 下_LC ，_PU 匀_VV 加速_VV 参照系_NN （_PU Rindlerframe_NN ）_PU 有时_AD 称为_VV 「_PU 加速_VV 观测者_NN 」_PU 。_PU 与_P 此_PN 同时_AD 惯性_VV 参考_NN 系_NN 也_AD 许会_VV 称为_VV 「_PU 惯性_JJ 观测者_NN 」_PU 来_MSP 避免_VV 混淆_VV 。_PU 注意_VV 这_DT 种_M 用法_NN 扩展_VV 了_AS 「_PU 观测者_NN 」_PU 的_DEG 本_DT 意_NN 。_PU 参考_NN 系_NN 固有_VV 的_DEC 非_JJ 局部_NN 构造_VV ，_PU 覆盖_VV 整_DT 个_M 时空_NN 或者_CC 重要_JJ 部分_NN ；_PU 因此_AD 说观_VV 测_VV 者_NN （_PU 在_P 狭义_NN 相对_AD 论_NN 中_LC ）_PU 有_VE 具体_JJ 位置_NN 是_VC 毫无_AD 意义_VV 的_DEC 。_PU 同样_AD ，_PU 惯性_JJ 观测者_NN 不_AD 可_VV 再_AD 进行_VV 加速_NN ，_PU 加速_VV 观测者_NN 也_AD 不_AD 可_VV 停止_VV 加速_NN 。_PU
+
+

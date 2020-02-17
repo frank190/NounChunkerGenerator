@@ -1,0 +1,14 @@
+﻿_NN 被_SB 测_VV 器件_NN
+
+被_SB 测_VV 器件_NN （_PU ，_PU ）_PU 或_CC 被_SB 测_VV 装置_NN ，_PU 又_AD 称_VV 在_P 测单元_NN 或_CC 被_SB 测_VV 部件_NN （_PU unitundertest_NN ，_PU UUT_NN ）_PU ，_PU 常_AD 用于_VV 表示_VV 正_BA 处_NN 於_P 测试_VV 阶段_NN 的_DEG 工业_NN 产品_NN 。_PU
+
+在_P 半导体_NN 测试_NN 中_LC ，_PU DUT_NN 表示_VV 晶圆_NN 或_CC 最终_JJ 封装_NN 部件_NN 上_LC 的_DEG 特定_JJ 管芯_NN 小片_NN 。_PU 利用_VV 连接_NN 系统_NN 将_BA 封装_NN 部件_NN 连接_VV 到_VV 手动_JJ 或_CC 自动_JJ 测试_NN 设备_NN （_PU ATE_NN ）_PU ，_PU ATE_NN 会_VV 为_P 其_PN 施加_VV 电源_NN ，_PU 提供_VV 模拟_NN 信号_NN ，_PU 然后_AD 测量_VV 和_CC 估计_VV 器件_NN 得到_VV 的_DEC 输出_NN ，_PU 以_P 这_DT 种_M 方式_NN 测定_VV 特定_JJ 被测器件_NN 的_DEG 好坏_NN 。_PU
+
+对於_AD 晶圆_VV 来_MSP 说_VV ，_PU 使用者_NN 需要_VV 将_BA ATE_NN 用_P 一_CD 组_M 显_VV 微针_NN 连接_VV 到_VV 一_CD 个_M 个_M 独立_VA 的_DEC DUT_NN （_PU 晶圆_NN 小片_NN ）_PU 。_PU 若晶_NN 圆已_NN 被_SB 切割_VV 成_VV 小片_NN 并_CC 封装_NN ，_PU 我们_PN 可以_VV 用_P ZIF_NN 插座_NN （_PU 零_CD 插_M 拔力_NN 插座_NN ）_PU 将_BA ATE_NN 连接_VV 到_VV DUT_NN （_PU 管壳_NR ）_PU 上_LC 。_PU
+
+更_AD 多_VA 的_DEC 情况_NN 下_LC ，_PU DUT_NN 用于_VV 表示_VV 任何_DT 被_SB 测_VV 电子_NN 装置_NN 。_PU 例如_AD ，_PU 装配线_NN 下线_NN 的_DEC 手机_NN 中_LC 的_DEG 每_DT 一_CD 芯片_NN 都_AD 会_VV 被_SB 测试_VV ，_PU 而_CC 手机_NN 整_AD 机会_VV 以_P 同样_VA 的_DEC 方式_NN 进行_VV 最终_JJ 的_DEG 测试_NN ，_PU 这里_PN 的_DEG 每_DT 一_CD 部_M 手机_NN 都_AD 可以_VV 被_SB 称作_VV DUT_NN 。_PU
+
+DUT_CD 常_AD 以_P 测试_VV 针_NN 组成_VV 的_DEC 针床_NN 测_VV 试台_NN 连接_VV 到_VV ATE_NN 。_PU
+
+
+

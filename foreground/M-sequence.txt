@@ -1,0 +1,6 @@
+﻿_NN M_NN -_PU sequence_NN
+
+M_OD -_PU sequence_NN （_PU 、_PU 、_PU 最_AD 大_JJ 长度_NN 序列_NN ）_PU 是_VC 在_P 基本_JJ 的_DEG 通讯_NN 电路_NN 设计_NN 中_LC ，_PU 所_MSP 经常_AD 被_SB 利用_VV 到_VV 的_DEC 一_CD 个_M 虚拟_JJ 随机_NN 数位_NN 讯号_NN PseudoRandomSequence_NN ，_PU 其_PN 主要_JJ 的_DEG 方式_NN 是_VC 利用_VV 第一_OD 位_M 与_CC 其他_DT 位_M 暂存器_NN 的_DEG 输出值_NN 做_VV ex_NN -_PU or_NN 来_MSP 设计_VV 其_PN 第一_OD 位_M 暂存器_NN 的_DEG 输入值_NN 。_PU
+
+
+

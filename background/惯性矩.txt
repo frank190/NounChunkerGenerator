@@ -1,0 +1,7 @@
+﻿惯性矩_NN
+
+惯性矩_NN 可以_VV 指_VV ：_PU
+截面_NN 的_DEG 面积_NN 为_VC "_PU A_NN "_PU ，_PU 则_AD
+分别_AD 表示_VV 截面_NN 对坐_NN 标轴_NN "_PU x_CD "_PU 与_CC "_PU y_NN "_PU 的_DEG 惯性_NN 矩_NN ，_PU 第一_OD 式_NN 中_LC 的_DEG "_PU y_NN "_PU 和_CC 第二_OD 式_NN 中_LC 的_DEG "_PU x_CD "_PU 分别_AD 表示_VV 面积_NN 微元_NN d_NN "_PU A_NN "_PU 到_NN "_PU x_NN "_PU 和_CC 到_VV "_PU y_NN "_PU 轴_NN 的_DEG 垂直_JJ 距离_NN 。_PU
+
+

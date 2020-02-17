@@ -1,0 +1,6 @@
+﻿虚_VV 拟仪器_NN
+
+根据_P 概_AD 念创_VV 建者_NN 美国_NR 国家_NN 仪器_NN 公司_NN （_PU NationalInst_JJ ruments_NR ）_PU 的_DEC 定义_NN ，_PU 虚拟_JJ 仪器_NN （_PU ）_PU 技术_NN 就_AD 是_VC 利用_VV 高_JJ 性能_NN 的_DEC 模块_NN 化_NN 硬件_NN ，_PU 结合_VV 高效_JJ 灵活_NN 的_DEC 软件_NN 来_MSP 完成_VV 各_DT 种_M 测试_NN 、_PU 测量_NN 和_CC 自动化_NN 的_DEC 应用_NN 。_PU 灵活_VA 高效_VA 的_DEC 软件_NN 能_VV 帮助_VV 您_PN 创建_VV 完全自_AD 定义_VV 的_DEC 用户_NN 界面_NN ，_PU 模块化_NN 的_DEC 硬件_NN 能_VV 方便_VA 地_DEV 提供_VV 全_DT 方位_NN 的_DEG 系统_NN 集成_VV ，_PU 标准_VV 的_DEC 软硬件_NN 平台_NN 能_VV 满足_VV 对_P 同步_PN 和_CC 定时_AD 应用_VV 的_DEC 需求_NN 。_PU 只有_AD 同时_AD 拥有_VV 高效_JJ 的_DEG 软件_NN 、_PU 模块化_NN I_NN /_PU O_NN 硬件_NN 和_CC 用于_VV 集成_VV 的_DEC 软_JJ 硬件_NN 平台_NN 这_DT 三_CD 大_JJ 组成_NN 部分_NN ，_PU 才_AD 能_VV 充分_AD 发挥_VV 虚拟_JJ 仪器_NN 技术_NN 性能_NN 高_VA 、_PU 扩展性_NN 强_VA 、_PU 开发_VV 时间_NN 少_VA ，_PU 以及_CC 出色_VV 的_DEC 集成_JJ 这_DT 四_CD 大_JJ 优势_NN 。_PU
+
+
+

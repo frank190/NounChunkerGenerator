@@ -1,0 +1,11 @@
+﻿_CD 底数_NN (_PU 物理学_NN )_PU
+
+物理学_NN 中_LC ，_PU 底数_NN （_PU ，_PU 符号_NN 为_VC "_PU B"′；"B_NN "_PU 这_DT 个_M 字母_NN 也_AD 代表_VV 美丽_VA （_PU ）_PU ）_PU 为_VC 味量_NN 子数_NN 之一_LC ，_PU 反映_VV 了_AS 一_CD 粒子_NN 中_LC 底夸克_NN （_PU "_PU n_NN "_PU ）_PU 与_CC 反底夸克_NN （_PU "_PU n_NN "_PU ）_PU 之间_LC 的_DEG 数量_NN 差异_NN ：_PU
+
+按常规_AD ，_PU 底夸克_NN 具有_VV 底数−_NN 1_CD ，_PU 而_CC 反_VV 底夸克_NN 则_AD 有_VE 底数+_NN 1_CD 。_PU 此_DT 正_CD 负号_NN 常规_JJ 的_DEG 起源_NN 是_VC 保持_VV 夸克_NN 味荷_NN （_PU 味量_NN 子数_NN ）_PU 的_DEG 正负号_NN 与_CC 电荷_NN （_PU 符号_NN "_PU Q_NN "_PU ）_PU 的_DEG 正_JJ 负号_NN 形式_NN 相同_VA 。_PU 在_P 此_DT 情形_NN 下_LC ，_PU Q_DT  _NN =_VV  −_NN 。_PU
+
+如同_CS 其他_DT 与_P 味_NN 相关_VV 的_DEC 量子_NN 数_NN ，_PU 底数_NN 在_P 强_NN 作用_NN 跟_P 电磁_NN 作用_NN 下_LC 守恒_VV ，_PU 但_CC 在_P 弱_NN 作用_NN 下_LC 则_AD 不_AD 守恒_VV 。_PU 在_P 第一_OD 阶弱_NN 作用_NN 反应_NN 中_LC ，_PU formula_NN
+
+实际_JJ 使用_NN 上_LC ，_PU 物理_NN 学家_NN 较少_AD 使用_VV 「_PU 底数_NN 」_PU 这_DT 一_CD 名词_NN ，_PU 而_CC 较_AD 常用_VA 「_PU 底夸克_NN 数量_NN 」_PU 与_CC 「_PU 反_VV 底_NN 夸_VV 克数量_NN 」_PU 来_MSP 描述_VV 物理_NN 系统_NN 。_PU
+
+

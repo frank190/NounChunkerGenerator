@@ -1,0 +1,8 @@
+﻿Noi_VV selet_NR
+
+N_CD oi_M selet_NR 是_VC 一_CD 群_M 具有_VV 类似_JJ 噪声_NN 性质_NN 的_DEC 函数_NN 。_PU Noiselet_NN 和_CC 小波_NN （_PU wavelet_NN ）_PU 的_DEG 关系_NN 就_AD 如_P 同_DT 傅_CD 立叶_NN 级数_NN 的_DEG 和_CC 时域_NN 信号_NN 的_DEC 关系_NN ，_PU 如果_CS 一_CD 个_M 信号_NN 在_P 小_JJ 波域_NN 具有_VV 紧致性_AD ，_PU 则_AD 此_DT 信号_NN 可以_VV 在_P noiselet_NN 域_NN 展开_NN 。_PU
+
+在_P 压缩_NN 感知_NN 中_LC ，_PU Noiselet_M 可以_VV 用来_VV 重建_VV 在_P 小_JJ 波域_NN 具有_VV 紧致性_JJ 的_DEG 信号_NN ，_PU 例如_AD ，_PU 在_P noiselet_NN 域_NN 取得_VV MRI_NN 的_DEC 资料_NN ，_PU 再_AD 利用_VV 压缩_NN 感知_VV ，_PU 可以_VV 由_P 欠_VV 采样_VV （_PU undersampled_VV ）_PU 的_DEC 资料_NN 重_AD 建出_VV 影像_NN 。_PU
+
+
+

@@ -1,0 +1,11 @@
+﻿纯量势_NN
+
+纯量势_NN 或_CC 称_VV 纯量位_NN ，_PU 在_P 向_P 量_NN 分析_NN 与_CC 物理学_NN 中_LC 是_VC 一_CD 个_M 基本_JJ 概念_NN （_PU 形容_NN 词_NN 「_PU 纯量_NN 」_PU 常_AD 被_SB 省略_VV ，_PU 只要_CS 不_AD 会_VV 与_P 向_P 量_NN 势_AD 发生_VV 混淆_NN ）_PU 。_PU 给定_VV 一向_JJ 量场_NN F_NN ，_PU 其_PN 纯量势_NN "_PU V_NN "_PU 为_VC 一_CD 纯量场_NN ；_PU 对_P 此_DT 纯量_CD 场取_NN 负值_NN 梯度_NN 则_AD 得到_VV F_CD ：_PU
+
+相反_AD 过来_VV ，_PU 给定_VV 一_CD 函数_NN "_PU V_NN "_PU ，_PU 这_DT 个_M 式子_NN 定义_VV 了_AS 一_CD 个_M 向_P 量场_NN F_NN ，_PU 其_PN 纯量势_NN 为_VC "_PU V_NN "_PU 。_PU 纯量势_NN 也_AD 常常_AD 标记_VV 为_VC 希腊_NN 字母_NN "_PU Φ_NN "_PU ，_PU 比如_AD 在_P 电动_NN 力学_NN 的_DEC 场合_NN 。_PU
+
+纯量势_NN 的_DEG 物理_NN 意义_NN 和_CC 场_NN 的_DEG 类型_NN 有关_VA 。_PU 对_P 一流体_NN 或_CC 气体_NN 流_VV 的_DEC 向量_CD 场_M ，_PU 定义_NN 纯量势_NN 暗示_VV 了_AS 任_DT 一_CD 点_M 的_DEG 流向_NN 与_CC 该_DT 点_NN 纯_JJ 量_NN 势_NN 的_DEG 最_AD 陡降_NN 方向_NN 相同_VA ，_PU 而_CC 对于_P 力场_NN ，_PU 在_P 一_CD 点_M 的_DEG 加速度_NN 也_AD 是_VC 一样_VA 的_DEC 情况_NN 。_PU 力场_NN 的_DEC 纯量_JJ 势跟力场_NN 的_DEG 势能_NN （_PU 或_CC 称位能_NN ）_PU 密切_VV 相关_NT 。_PU
+
+不_AD 是_VC 每_DT 个_M 向量场_NN 都_AD 有_VE 一_CD 纯量势_NN ；_PU 有_VE 纯量势_NN 的_DEG 向量_JJ 场称_NN 作_VV 是_VC 保守_VV 向_P 量_NN 场_NN ，_PU 相应_JJ 於_NN 物理学_NN 中_LC 保守_VV 力_NN 的_DEC 称呼_NN 。_PU 在_P 各_DT 种_M 速度场_NN 中_LC ，_PU 任何_DT 的_DEG 层_NN 状场_NN （_PU lamellarfield_NN ）_PU 皆_AD 有_VE 一_CD 纯量势_NN ，_PU 而_CC 一_CD 螺线_NN 向_P 量场_NN 可_VV 有_VE 纯量势_NN 的_DEC 情况_NN 只_AD 发生_VV 在_P 拉普_NN 拉_CC 斯_DT 场_M （_PU Laplacianfield_NN ）_PU 。_PU
+
+

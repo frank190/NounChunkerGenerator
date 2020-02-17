@@ -1,0 +1,9 @@
+﻿_CS 离散_VV 时间_NN 信号_NN
+
+离散_VV 时间_NN 信号_NN 的_DEC （_PU 时间_NN ）_PU 自_P 变量_NN 仅_AD 在_P 离散_NN 时_LC 刻有_VV 定义_NN 。_PU 大多数_CD 离散_NN 时间_NN 信号_NN 是_VC 由_P 对_P 连续_JJ 时间_NN 信号_NN 采样_NN 得到_VV 的_DEC 。_PU 取值_NN 上_LC 可以_VV 仍然_AD 取_VV 连续_NN 值_NN 。_PU
+
+信号_NN 可以_VV 以_P 时间_NN 序列_NN 表示_VV 。_PU 对于_P 一_CD 维_M 信号_NN ，_PU 以_P 两_CD 个_M 向_P 量_NN 方式_NN 表示_VV ，_PU 例如_AD
+更_AD 高维_VA 的_DEC 信号_NN 也_AD 可以_VV 用_P 多维_JJ 向量_NN 表示_VV 。_PU
+
+
+

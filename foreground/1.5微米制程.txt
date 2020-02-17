@@ -1,0 +1,6 @@
+﻿_NN 1.5_CD 微米_NN 制程_NN
+
+1_CD ._PU 5_CD  µ_NN m_NN 制程_NN 是_VC 半导体_NN 制造_NN 制程_NN 的_DEC 一_CD 个_M 水平_NN ，_PU 大约_AD 于_P 1982_CD 年左_NN 右_NN 达成_VV 。_PU 这_DT 个_M 是_VC 由_P 当时_NT 的_DEG 领先_JJ 半导体_NN 公司_NN 如_P 英特尔_NN 和_CC IBM_NN 所_MSP 完成_VV 。_PU
+
+
+

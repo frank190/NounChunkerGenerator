@@ -1,0 +1,163 @@
+﻿降压_NN 变换器_NN
+
+降压_NN 变换器_NN （_PU BuckConverter_NN ，_PU 又_AD 称为_VV Buck_NN 变换器_NN ）_PU ，_PU 又_AD 称为_VV 降压_NN 斩波器_NN （_PU BuckChopper_NN ）_PU ，_PU 是_VC 会_VV 降低_VV 电压_NN 的_DEC 直流_NN -_PU 直流_JJ 转换器_NN ，_PU 输出_NN （_PU 负载_NN ）_PU 端_NN 的_DEG 电压_NN 会_VV 比_P 输入_NN （_PU 电源_NN ）_PU 端要_NN 低_VA ，_PU 但_AD 其_PN 输出_VV 电流_NN 会_VV 大于_VV 输入_VV 电流_NN 。_PU 降压_NN 变换器_NN 是_VC 开关_NN 电源_NN ，_PU 一般_AD 至少_AD 会_VV 有_VE 二_CD 个_M 半导体_NN 元件_NN （_PU 二极体_NN 及_CC 电晶体_NN ，_PU 不过_CC 新型_VA 的_DEC 降压_NN 变换器_NN 可能_VV 会_VV 用_P 电晶体_NN 配合_VV 同步_JJ 整流_NN 代替_VV 二极体_NN ）_PU 及_CC 至少_AD 一_CD 个_M 储能_NN 元件_NN （_PU 电容器_NN 、_PU 电感器_NN 或_CC 是_VC 二者_NN 都_AD 有_VE ）_PU 。_PU 一般_AD 也_AD 会_VV 在_P 输出端_NN 及_CC 输入端_NN 加上_VV 以_P 电容器_NN 为主_VV 的_DEC 滤波器_NN （_PU 有时_AD 也_AD 会_VV 配合_VV 电感器_NN ）_PU 以_MSP 降低_VV 电压涟_NN 波_NN 。_PU
+
+像_P 降压_NN 变换器_NN 之_DEG 类_NN 的_DEG 开关_NN 电源_NN 其_PN 效率_NN 会_VV 比_P 线性_JJ 电压_NN 调节器_NN 要好_VV ，_PU 线性_JJ 稳压器_NN 的_DEG 电路_NN 较_AD 简单_VA ，_PU 可以_VV 降低_VV 电压_NN ，_PU 且_CC 其_PN 输出_NN 电压_NN 的_DEG 涟波_NN 会_VV 比_P 降压_NN 变换器_NN 要_VV 小_VA 很_AD 多_VA ，_PU 但_AD 不_AD 要_VV 的_DEC 能量_NN 会_VV 以_P 热_VA 的_DEC 方式_NN 释放_VV ，_PU 而且_CC 不_AD 能_VV 提高_VV 电流_NN 。_PU
+
+降压_NN 变换器_NN 的_DEG 效率_NN 一般_AD 会_VV 高过_VV 90%_CD ，_PU 因此常_AD 用来_VV 将_BA 电脑_NN 中_LC 的_DEG 主_JJ 电源_NN （_PU 多半_CD 是_VC 12V_CD ）_PU 降压_VV 到_VV USB_NN 、_PU DRAM_NN 及_CC CPU_NN 需要_VV 的_DEC 电源_NN （_PU 1_CD ._PU 8V_NN 或_CC 更_AD 低_VA ）_PU 。_PU
+
+降压_NN 变换器_NN 的_DEG 动作_NN 原理_NN 是_VC 其_PN 电感器_NN 上_LC 的_DEG 电流_NN 由_P 二_CD 个_M 开关_NN （_PU 多半_CD 是_VC 电晶体_NN 及_CC 二极体_NN ）_PU 控制_NN 。_PU 理想_JJ 降压_NN 变换器_NN 会_VV 假设_VV 其_PN 所有_DT 的_DEG 元件_NN 都_AD 是_VC 理想_VA 的_DEC 。_PU 其_PN 开关_NN 及_CC 二极体_NN 没有_VV 压降_VV ，_PU 不_AD 导通_VV 时_LC 不_AD 会_VV 有_VE 漏_VV 电流_NN ，_PU 且_CC 电感器_NN 没有_VV 等效_JJ 的_DEG 串连_JJ 电阻_NN 。_PU 而且_CC 在_P 同_DT 一_CD 周期_NN 内_LC ，_PU 假设_VV 输入_NN 电压_NN 及_CC 输出_NN 电压_NN 都_AD 不_AD 会_VV 变化_VV （_PU 因此_AD 假设_VV 输出_NN 电容_NN 为_VC 无限_AD 大_VA ）_PU 。_PU
+
+降压_NN 变换器_NN 的_DEG 概念_NN 可_VV 用_P 电感器_NN 的_DEG 电压_NN 及_CC 电流_NN 之间_LC 的_DEG 关系_NN 来_MSP 描述_VV 。_PU
+
+一_CD 开始_VV 开关_NN 不_AD 导通_VV ，_PU 电路_NN 的_DEG 电流_NN 为_VC 零_CD 。_PU 当_P 开关_NN 初_LC 次_M 导通_NN 时_LC ，_PU 其_PN 电流_NN 会_VV 增加_VV ，_PU 电抗器_NN 两_CD 端_NN 也_AD 会_VV 因为_P 电流_NN 的_DEG 增加_VV 而_MSP 产生_VV 电压_NN ，_PU 抵抗_VV 电流_NN 的_DEG 增加_NN 。_PU 此_DT 电压_NN 会_VV 抵消_VV 部份_NN 电源端_NN 的_DEG 电压_NN ，_PU 因此_AD 负载_NN 端_NN 的_DEG 电压_NN 会_VV 较_AD 电源_NN 端_NN 要_VV 低_VA 。_PU 随着_P 时间_NN 增加_VV ，_PU 电流_NN 的_DEG 变化率_NN 变小_VV ，_PU 因此_AD 电感器_NN 的_DEG 端电压_NN 也_AD 变小_VV ，_PU 使_VV 负载端_NN 的_DEG 电压_NN 慢慢_AD 上_VV 昇_NN ，_PU 此时_NT 电感器_NN 中_LC 会_VV 以_P 磁场_NN 方式_NN 储存_VV 能量_NN 。_PU
+
+若_CS 再_AD 使_VV 开关_NN 不_AD 导通_VV ，_PU 电源端_NN 的_DEG 电压_NN 和_CC 电路_NN 分离_VV ，_PU 因此_AD 电流_NN 会_VV 下降_VV 。_PU 由于_P 电流_NN 下降_VV ，_PU 电感器_NN 两_CD 端_NN 也_AD 会_VV 产生_VV 电压_NN ，_PU 抵消_VV 电流_NN 的_DEG 下降_NN ，_PU 此时_NT 电感器_NN 可_VV 视为_VV 一_CD 电压源_NN 。_PU 而_CC 在_P 进行_VV 储能_NN 和_CC 释能_NN 转换_VV 时_LC ，_PU 电感_NN 的_DEG 正负极_NN 会_VV 发生_VV 变化_NN 。_PU 电感器_NN 利用_VV 磁场_NN 中_LC 储存_VV 的_DEC 能量_NN 使_VV 电流_NN 流到_VV 负载端_NN 。_PU 此时_NT 是_VC 由_P 电感器_NN 提供_VV 电能给_NN 电路_NN 中_LC 的_DEG 其他_DT 元件_NN 。_PU 若_CS 在_P 电感器_NN 的_DEG 电放完_NN 之前_LC ，_PU 开关_VV 又_AD 再_AD 度导通_VV ，_PU 负载_NN 端_NN 的_DEG 电压_NN 就_AD 会_VV 恒大于_VV 零_CD 。_PU
+
+若_CS 降压_VV 变换器_NN 在_P 工作_NN 期间_NN ，_PU 其_PN 电感_NN 电流_NN formulamode_NN ）_PU 下_LC ，_PU 此_DT 模式_NN 下_LC 的_DEG 运作_NN 原理_NN 如_P 图_NN 4_CD 所_MSP 述_VV ：_PU
+
+储存_VV 在_P 电感_NN 上_LC 的_DEC 能量_NN 为_VC
+
+因此_AD 在_P 开关_NN 导通_NN 时_LC ，_PU formula_NN __NN 1_CD 增加_VV ，_PU 电感_NN 能_VV 量_NN 也_AD 会_VV 增加_VV ，_PU 在_P 开关_NN 断路_NN 时_LC ，_PU formula_NN
+
+formula_NN
+
+其中_NN formula_NN __NN 10_CD 在_P 导通_NN 期间_NN 等于_VV formula_NN __NN 11_CD ，_PU 在_P 断路_NN 期间_NN 等于_VV formula_NN
+其中_NN formula_NN
+
+相对_VV 的_DEC ，_PU 在_P 开关_NN 断路_NN 期间_NN ，_PU 电流_NN 的_DEG 变化_NN 为_VC ：_PU
+
+若_CS 假设_VV 变换器_NN 是_VC 在_P 稳态_NN 下_LC 运作_VV ，_PU 在_P 每_DT 一_CD 个_M 切换_NN 周期_NN T_NN 结束_VV 时_LC ，_PU 每_DT 个_M 元件_NN 的_DEC 能量_NN 都_AD 和_CC 切换_NN 周期_NN T_NN 开始_VV 时_LC 相同_VA 。_PU 因此_AD 表示_VV formula_NN __NN 1_CD 在_P formula_NN __NN 17_CD 时_NN 和_CC formula_NN
+
+因此_AD 可以_VV 得到_VV 下式_NN ：_PU
+
+上式_JJ 也_CC 可以_VV 用_P 图形_NN 的_DEC 方式_NN 解释_VV 。_PU 在_P 图_NN 4_CD 中_LC ，_PU formula_NN __NN 20_CD 和_CC 黄色_JJ 的_DEG 面积_NN 成比_NN 例_NN ，_PU 而_CC formula_NN
+
+再_AD 配合_VV formula_NN __NN 22_CD 及_CC formula_NN
+
+可以_VV 得到_VV
+
+根据_P 此_DT 式_NN ，_PU 可以_VV 看出_VV 在_P 固定_JJ 输入_NN 电压_NN 下_LC ，_PU 输出_NN 电压_NN 和_CC 佔空比_NN 之间_LC 有_VE 线性_NN 的_DEC 关系_NN ，_PU 而_CC formula_NN __NN 14_CD 是_VC formula_NN __NN 26_CD 和_CC 周期_NN formula_NN __NN 27_CD 之间_LC 的_DEG 比例_NN ，_PU formula_NN __NN 14_CD 不_AD 可能_VV 大于_VV 1_CD ，_PU 因此_AD formula_NN
+
+因此_AD 假如_AD 要_VV 将_BA 12V_NN 的_DEG 输入_NN 电压_NN 降压_VV 到_VV 3V_NN （_PU 输入_NN 电压_NN 的_DEG 四分之一_CD ）_PU ，_PU 在_P 理想_NN 电路_NN 下_LC ，_PU 其_PN 占空_NN 比_NN 为_VC 25%_CD 。_PU
+
+有时_AD 负载_VV 的_DEC 电流_NN 太_AD 小_VA ，_PU 因此_AD 在_P 切换_NN 周期_NN 中_LC ，_PU 电感_NN 的_DEC 电流_NN 有时_AD 会_VV 下降_VV 到_VV 0_CD ，_PU 此_DT 情形_NN 称为_VV 不_AD 连续_JJ 模式_NN （_PU discontinuousmode_NN ）_PU ，_PU 和_CC 连续_JJ 模式_NN 之间_LC 的_DEG 差异_NN 就_AD 是_VC 电感会_NN 放电_VV 直到_JJ 零电流_NN 为止_LC 。_PU 不过_P 上述_JJ 的_DEG 式子_NN 会_VV 有些_DT 变化_NN 。_PU
+
+以下仍_AD 考虑_VV 稳_JJ 态_NN 下_LC 的_DEG 情形_NN ，_PU 也_AD 就_AD 是_VC 在_P 周期_NN 开始_NN 和_CC 周期_NN 结束_VV 时_LC ，_PU 电感_NN 的_DEC 能量_NN 相_NN 等_ETC （_PU 在_P 此_DT 条件_NN 下_LC ，_PU 会_VV 是_VC 零_CD ）_PU 。_PU 电感_NN 的_DEC 能量_NN 相_NN 等_ETC 可以_VV 推得_VV 电感_NN 电压_NN V_NN 的_DEG 平均值_NN 为_VC 零_CD ，_PU 也就是_AD 黄色_JJ 区域_NN 和_CC 橘色_NN 区域_NN 的_DEG 面积_NN 相_NN 等_ETC ，_PU 因此_AD 可得_VV ：_PU
+
+其中_NN 的_DEG δ_NN 为_VC 电感_NN 电流_NN 下降_VV 时间_NN 相对_VV 周期_NN 的_DEG 比值_NN ：_PU
+
+因为_AD 送到_VV 负载_VV 的_DEC 电流_NN formula_NN
+
+其中_NN formula_NN
+
+电感_NN 电流_NN 在_P 切换_NN 周期_NN 开始_VV 时_LC 为_VC 0_CD ，_PU 在_P 开关_NN 导通_VV 时_LC 上_LC 昇到_VV I_NN ，_PU 因此_AD I_NN 等于_VV ：_PU
+
+替代_VV 前_DT 一_CD 式_NN 中_LC 的_DEG I_NN ，_PU 可_VV 得_VV ：_PU
+
+再_AD 将_AD δ用_VV 输入_NN 电压_NN V_NN 、_PU 输出_NN 电压V_NN 及_CC 占空_NN 比_P D_NN 来_MSP 表示_VV ，_PU 可得_VV ：_PU
+
+此_DT 式_NN 可以_VV 改写_VV 为_VC ：_PU
+
+在_P 连续_JJ 模式_NN 下_LC ，_PU 输出_NN 电压_NN 等于_VV 占空_NN 比_P 乘以_VV 输入_VV 电压_NN 。_PU 但_CC 在_P 不_AD 连续_VV 模式_NN 下_LC ，_PU 输出_NN 电压_NN 的_DEC 公式_JJ 复杂_JJ 多_CD 了_M ，_PU 除了_P 和_CC 输入_VV 电压_NN V_NN 和_CC 占空_NN 比_P D_NN 有_VE 关外_P ，_PU 也_AD 和_P 电感_NN 值_VV L_NN 、_PU 切换_NN 周期_NN T_NN 和_CC 输出_NN 电流_NN I_NN 有关_P 。_PU
+
+降压_VV 转换器_NN 在_P 负载_NN 电流_NN 较_AD 小_VA 时_LC ，_PU 会_VV 运作_VV 在_P 不_AD 连续_JJ 模式_NN ，_PU 负载_NN 电流_NN 较_AD 大_VA 时_LC 会_VV 运作_VV 在_P 连续_JJ 模式_NN 。_PU 当_P 切换_NN 周期_NN 结束_NN 时_LC ，_PU 电感_NN 电流_NN 恰好_AD 减少_VV 到_VV 零_CD 电流_NN ，_PU 此时_NT 即_AD 为_VC 连续_JJ 模式_NN 和_CC 不_AD 连续_JJ 模式_NN 的_DEG 边界_NN 。_PU 参考_VV 图_NN 5_CD 的_DEG 标示_NN ，_PU 就_AD 会_VV 是_VC ：_PU
+
+因此_AD ，_PU 在_P 连续_JJ 模式_NN 和_CC 不_AD 连续_JJ 模式_NN 边界_NN 时_LC 的_DEG 输出_NN 电流_NN （_PU 等于_VV 电感_NN 电流_NN 平均值_NN ）_PU 为_VC ：_PU
+
+替代_P I_NN 可得_VV ：_PU
+
+在_P 这_DT 二_CD 个_M 模式_NN 的_DEG 边界_NN ，_PU 输出_NN 电压会_NN 同时_AD 符合_VV 连续_JJ 模式_NN 和_CC 不_AD 连续_JJ 模式_NN 下_LC 的_DEG 公式_NN ，_PU 在_P 连续_NN 模式_NN 下_LC 的_DEG 输出_NN 电压_NN 为_VC
+
+因此_AD I_NN 可以_VV 写成_VV 下式_NN ：_PU
+
+以下_NN 定义_VV 二_CD 个_M 正规化_NN 变量_NN ：_PU
+
+配合_VV 上述_JJ 变量_NN ，_PU 可得_VV ：_PU
+
+连续_JJ 模式_NN 和_CC 不_AD 连续_JJ 模式_NN 边界_NN 的_DEC 电流值_NN 为_VC ：_PU
+
+因此_AD ，_PU 分隔_VV 连续_JJ 模式_NN 和_CC 不_AD 连续_JJ 模式_NN 的_DEC 曲线_NN 为_VC ：_PU
+
+此_DT 曲线_NN 也_AD 标示_VV 在_P 图_NN 6_CD 中_LC ，_PU 由_P 图_NN 中_LC 可以_VV 看出_VV 在_P 连续_JJ 模式_NN 下_LC ，_PU 输出_NN 电压_NN 只_AD 和_P 输入_NN 电压_NN 和_CC 占空_NN 比_P 有关_P ，_PU 而_CC 在_P 不_AD 连续_JJ 模式_NN 下_LC 的_DEG 关系_NN 就_AD 相当_AD 复杂_VV 了_AS 。_PU 以_P 控制_NN 观点_NN 来_MSP 看_VV ，_PU 降压_VV 变换器_NN 最好_AD 可以_VV 控制_VV 在_P 连续_JJ 模式_NN 下_LC 。_PU
+
+上述_JJ 的_DEG 推导_NN 都_AD 假设_VV 是_VC 理想_NN 电路_NN 下_LC 的_DEG 情形_NN ：_PU
+
+上述_JJ 假设_NN 都_AD 和_P 实际_JJ 情形_NN 不合_AD ，_PU 这些_DT 元件_NN 或_CC 电路_NN 上_LC 的_DEG 不理_NN 想情_NN 形会_VV 在_P 变换器_NN 运作_NN 时_LC 有_VE 负面_NN 的_DEG 影响_NN 。_PU
+
+输出_NN 电压_NN 涟波_NN 是_VC 指_VV 输出_NN 电压_NN 在_P 开关_NN 导通_NN 期间_NN 上升_VV ，_PU 在_P 开关_NN 断路_NN 时_LC 下降_VV 的_DEC 现象_NN 。_PU 造成_VV 输出_NN 电压涟_NN 波_NN 的_DEG 原因_NN 主要_AD 包括_VV 换频率_NN 、_PU 输出_NN 电容_NN 、_PU 电感_NN 、_PU 负载_NN 及_CC 电路_NN 中_LC 限制_VV 电流_NN 的_DEC 元件_NN 。_PU 若_CS 考虑_VV 最_AD 基本_JJ 的_DEG 现象_NN ，_PU 输出_NN 电压_NN 涟波_NN 是_VC 因为_P 输出_NN 电容_NN 充电_VV 及_CC 放电_NN 造成_VV 的_DEC ：_PU
+
+在_P 开关_NN 断路_NN 时_LC ，_PU 上式_JJ 的_DEG 电流_NN 为_VC 负载_NN 电流_NN ，_PU 开关_NN 导通_VV 时_LC ，_PU 上_JJ 式_NN 的_DEG 电流_NN 为_VC 电源_NN 电流_NN 及_CC 负载_NN 电流_NN 之间_LC 的_DEG 差值_NN 。_PU 时间_NN 区间_NN dT_NN 是_VC 由_P 占空比_NN （_PU dutycycle_NN ）_PU 和_CC 切换_NN 频率_NN 决定_VV 的_DEC 。_PU
+
+开关_NN 导通_NN 时_LC ：_PU
+
+开关_NN 断路_NN 时_LC ：_PU
+
+以_P 量化_VV 的_DEC 角度_NN 来_MSP 看_VV ，_PU 若_CS 输出_VV 电容器_NN 或是_CC 切换_VV 频率_NN 增加_VV ，_PU 电压涟_NN 波_VV 就_AD 会_VV 下降_VV 。_PU 输出_NN 电压_NN 涟波_NN 是_VC 电源_NN 供应器_NN 的_DEC 典型_JJ 设计_NN 规格_VA 之一_VA ，_PU 会_VV 因_P 许多_CD 因素而_AD 影响_VV 其_PN 要求_NN 的_DEC 数值_NN 。_PU 输出_NN 电容器_NN 选用_VV 一_CD 般会_M 受_VV 成本_NN 、_PU 体积_NN 以及_CC 不同_JJ 电容器_NN 的_DEG 不理_NN 想特性_NN 而_MSP 影响_VV 。_PU 切换_VV 频率_NN 选择_NN 一般_AD 会_VV 依_P 效率_NN 的_DEG 要求_NN 而_MSP 决定_VV ，_PU 一般_AD 切换_VV 频率_NN 越_AD 高_VA ，_PU 效率_NN 越_AD 低_VA ，_PU 而且_CC 越_AD 可能_VV 有_VE 电磁_NN 干扰_NN （_PU EMI_NN ）_PU 的_DEC 问题_NN 。_PU
+
+输出_NN 电压_NN 涟波_NN 是_VC 切换式_JJ 电流_NN 供应器_NN （_PU SMPS_NR ）_PU 的_DEC 一_CD 大_JJ 缺点_NN ，_PU 也_AD 是_VC 评量_VV SMPS_NN 性能_NN 的_DEC 重要_JJ 指标_NN 。_PU
+
+同步_AD 降压_VV 变换器_NN 也_AD 是_VC 降压_VV 变换器_NN 的_DEC 一_CD 种_M ，_PU 但_AD 没有_VE 二极体_NN D_NN ，_PU 取_VV 而_CC 代之_VV 的_DEC 是_VC 第二_OD 个_M 开关_NN S_NN 。_PU 在_P 原来_JJ 的_DEG 降压_NN 变换器_NN 中_LC ，_PU 二极体_NN 只有_AD 在_P 开关_NN 开路_NN 时_LC 才_AD 是_VC 顺_VV 向_P 偏压_NN ，_PU 因此_AD 代替_VV 二极体_NN 的_DEG 开关_NN S_NN 需_VV 有_VE 类似_JJ 特性_NN 。_PU 在_P 开关_NN S_NN 导通_NN 时_LC ，_PU 开关_NN S_NN 开路_NN ，_PU 在_P 开关_NN S_NN 开路_NN 时_LC ，_PU 开关_NN S_NN 导通_NN 。_PU 二_CD 个_M 开关_NN 不_AD 会_VV 同时_AD 导通_VV 。_PU 此_DT 架构_NN 会_VV 提昇_VV 效率_NN ，_PU 但_CC 也_AD 是_VC 增加_VV 成本_NN ，_PU 因此_AD 需要_VV 在_P 这_DT 两_CD 者_NN 之类_LC 有所取_AD 舍_VV 。_PU
+
+在_P 标準_NN 的_DEC 降压_NN 变换器_NN 中_LC ，_PU 二极体_NN D_NN 是_VC 续流_JJ 二极管_NN ，_PU 在_P 开关_NN 断路_NN 后_LC 一_CD 小段_NN 时间_NN 就_AD 会_VV 因为_VV 二极体_NN 二端_NN 电压_NN 的_DEG 上昇_NN 而_MSP 自行_VV 导通_NN 。_PU 二极体_NN 压降_NN 产生_VV 的_DEC 功率_NN 损失_NN 为_VC
+
+其中_NN ：_PU
+
+若_CS 将_BA 二极体_NN D_NN 用_P 开关_NN S_NN 代替_VV ，_PU 一般_AD 就_AD 会_VV 选择_VV 低_JJ 损失_NN 的_DEG 开关_NN ，_PU 因此_AD 就_AD 可以_VV 提昇_VV 变换器_NN 的_DEG 效率_NN 。_PU 例如_AD "_PU R_NN "_PU 很_AD 低_VA 的_DEC MOSFET_NN 就_AD 可以_VV 用作_VV 为_VV 开关_NN "_PU S_NN "_PU ，_PU 开关_NN "_PU S_NN "_PU 功率_NN 损失_NN 为_VC
+
+上述_JJ 二_CD 种_M 情形_NN 下_LC 的_DEG 损失_NN 都_AD 很_AD 明显_VA 和_CC 占空_NN 比_P D_NN 有关_LC ，_PU 且_CC 飞轮_NN 二极体_NN 和_CC 整流_NN 开关_NN （_PU 也_AD 称为_VV 下方_NN 开关_NN ）_PU 都_AD 和_P 开关_NN "_PU S_NN "_PU 断路_NN 时间_NN 佔_NN 的_DEG 比例_NN （_PU 1_CD -_PU D_CD ）_PU 成_VV 正比_NN 。_PU 因此_AD ，_PU 若_CS 系统_NN 设计_VV 在_P 占空_NN 比较_VV 低_VA 的_DEC 条件_NN 下_LC 运作_VV ，_PU 飞轮_NN 二极体_NN 或是_CC 整_DT 流_VV 开关_NN 的_DEG 损失_NN 会_VV 较_AD 大_VA ，_PU 此时_NT 若_VV 考虑_VV 使用_VV 同_DT 步_M 整流_NN 的_DEC 架构_NN ，_PU 在_P 效率_NN 的_DEG 改善_NN 也_AD 会_VV 比较_VV 明显_VA 。_PU
+
+若_CS 没有_VE 实际_JJ 的_DEG 数据_NN ，_PU 读者_NN 很_AD 难_AD 了解_VV 同_DT 步_M 整流_NN 的_DEC 好处_NN 在_P 哪里_PN 。_PU 考虑_VV 一_CD 个_M 电源_NN 供应器_NN ，_PU 输入_VV 5_CD V_M ，_PU 输出_NN 3_CD ._PU 3V_CD ，_PU 额定_JJ 电流_NN 10A_CD 。_PU 此时_CD 的_DEG 占空_NN 比_NN 为_VC 66%_CD ，_PU 二极体_NN 导通_VV 的_DEC 比率_NN 为_VC 34%_CD 。_PU 若_CS 使用_VV 顺_VV 向_P 导通压_NN 降为_VV 0_CD ._PU 7_CD  _M V_NN 的_DEG 传统_NN 二极体_NN ，_PU 其_PN 导通_NN 功率_NN 损失_NN 为_VC 2_CD ._PU 38_CD  W_M ，_PU 若_CS 选用_VV 一_CD 颗_M R_NN 为_VC 0_CD ._PU 015_CD  Ω_NN 的_DEC MOSFET_NN ，_PU 其_PN 导通_NN 功率_NN 损失_NN 就_AD 减到_VV 0_CD ._PU 51_CD  W_M 。_PU 因此_AD 可以_VV 提昇_VV 效率_NN ，_PU 也_AD 减少_VV 了_AS 电源_NN 供应器_NN 的_DEG 发热_NN 。_PU
+
+另_DT 一_CD 个_M 同步_JJ 整流_NN 变换器_NN 的_DEG 好处_NN 是_VC 它_PN 在_P 本_DT 质上_NN 是_VC 双向_VA 的_DEC ，_PU 因此_AD 也_AD 允许_VV 功率_NN 由_P 输出端_NN 流到_VV 输入端_NN ，_PU 适用于_VV 需要_VV 再生_AD 制动_VV 的_DEC 场合_NN 。_PU 若_CS 功率_NN 反向_AD 流动_VV ，_PU 其_PN 运作_NN 方式_NN 会_VV 比较_VV 像_P 升压_NN 变换器_NN 。_PU
+
+同步整流_AD 变换器_NN 有_VE 优点_NN ，_PU 不过_AD 也_AD 有_VE 其_PN 缺点_NN 。_PU 下方_NN 开关_VV 一般_AD 会_VV 比_P 飞轮_NN 二极体_NN 要贵_VV ，_PU 而且_CC 因为_P 需要_VV 有_VE 二_CD 组_M 输出_VV ，_PU 而且_CC 是_VC 互补式_JJ （_PU 一_CD 个_M 导通_NN ，_PU 另_DT 一_CD 个_M 断路_NN ）_PU 的_DEG 开关_NN 驱动_NN 电路_NN ，_PU 其_PN 复杂性_NN 就_AD 提高_VV 很_AD 多_VA 。_PU
+
+同步整流_AD 变换器_NN 的_DEC 驱动器_NN 需要_VV 避免_VV 上_JJ 下_JJ 二_CD 个_M 开关_NN 同时_AD 导通_VV ，_PU 这_DT 种_M 故障_NN 称为_VV 直通_JJ （_PU shootthrough_NN ）_PU ，_PU 这_PN 会让_VV 输入_VV 电压_NN 的_DEG 二_CD 端_NN 直接_AD 短路_VV ，_PU 产生_VV 大_JJ 电流_NN 。_PU 最_AD 简单_VA 的_DEC 避免_NN 方法_NN 是_VC 让_VV 开关_NN S_NN 先_AD 断路_VV ，_PU 等待_VV 一_CD 小段_M 时间_NN ，_PU 再_AD 将_BA S_CD 导通_NN 。_PU 不过_CC 这_DT 段_M 时间_NN 要_VV 够_AD 长_VA ，_PU 可以_VV 确保_VV 开关_NN S_NN 和_CC S_NN 不_AD 会_VV 同时_AD 导通_VV ，_PU 这_DT 个_M 就_AD 会_VV 产生_VV 额外_JJ 的_DEG 损失_NN 。_PU 另_DT 一_CD 个_M 作法_NN 是_VC 非_JJ 重叠式_JJ （_PU non_NN -_PU overlap_NN ）_PU 保护_VV ，_PU 就_AD 是_VC 在_P 开关_NN S_NN 、_PU S_NN 和_CC L_NN 在_P 电路_NN 上_LC 相_AD 连接_VV 的_DEC 部份_NN 根据_P 侦测_VV 到_VV 的_DEC 电压_NN 判断_VV 其_PN 状态_NN ，_PU 若_CS 电压_NN 高于_VV 或_CC 低于_VV 一_CD 定值_NN ，_PU 就_AD 启动_VV 时间_NN 延迟_VV 的_DEC 机制_NN 。_PU
+
+多相_JJ 降压_NN 变换器_NN 是_VC 在_P 输入_NN 和_CC 负载_NN 之间_LC 有_VE 多_CD 个_M 基本_JJ 的_DEG 降压_NN 变换器_NN 并联_VV 而_MSP 成_VV 。_PU 在_P 切换_NN 周期_NN 内_LC ，_PU 各_DT 相_NN 的_DEG 降压_NN 变换器_NN 会_VV 在_P 不同_VA 的_DEC 时间_NN 导通_NN 及_CC 关闭_NN ，_PU 各_DT 相_NN 的_DEG 降压_NN 变换器_NN 多半_CD 都_AD 会_VV 用到_VV 同步_AD 整流_VV 的_DEC 技术_NN 。_PU
+
+因为_P 各_DT 相_NN 切换_VV 的_DEC 时间_NN 错开_VV ，_PU n_NN 相_NN 降压_NN 变换器_NN 对_P 负载_NN 的_DEG 反应_NN 速度_NN 会_VV 是_VC 基本_JJ 降压_NN 变换器_NN 的_DEG n_CD 倍_M ，_PU 但_AD 又_AD 不_AD 会_VV 有_VE n_CD 倍_M 切换_NN 频率_NN 会_VV 产生_VV 的_DEC 切换_NN 损失_NN ，_PU 因此_AD 可以_VV 针对_P 快速_AD 变化_VV 的_DEC 负载_NN （_PU 例如_AD 现在_NT 的_DEG CPU_NN ）_PU 调整_VV 占_VV 空比_NN 。_PU
+
+降压_NN 变换器_NN 在_P 切换_NN 涟波_NN 上_LC 也_AD 会_VV 有_VE 明显_VA 的_DEC 下降_NN ，_PU 一_CD 方式_NN 是_VC 因为_P 输出端_NN 看到_VV 的_DEC 等效_JJ 切换_NN 频率_NN （_PU 切换_NN 频率_NN 的_DEG n_OD 倍_M ）_PU 提高_VV ，_PU 而且_CC 假如_AD 占空比_VV 的_DEC n_NN 倍_NN 恰好_AD 是_VC 整数_PN ，_PU 其_PN 切换涟_NN 波会_NN 变为_VV 0_CD 。_PU 在_P 某_DT 几_CD 相_NN 电感_NN 电流_NN 的_DEG 增加量_NN 恰_AD 好_VA 和_CC 另外_DT 几_CD 相_M 电感_NN 电流_NN 的_DEG 下_JJ 降量_NN 抵消_NN ，_PU 因此_AD 没有_VE 切换涟波_NN 。_PU
+
+另_DT 一_CD 个_M 好处_NN 是_VC 在_P n_NN 相_NN 降压_NN 变换器_NN 中_LC ，_PU 负载_NN 电流_NN 由_P n_CD 个_M 降压_NN 变换器_NN 分开_AD 处理_VV ，_PU 这_PN 也_AD 表示_VV 开关_NN 的_DEG 热_NN 可以_VV 分散_VV 在_VV 较_AD 大_VA 的_DEC 区域_NN ，_PU 散热_VV 会_VV 比_DER 较_AD 方便_VA 。_PU
+
+此_DT 电路_NN 架构_NN 已_AD 用_VV 在_P 电脑_NN 的_DEC 主_JJ 机板_NN 中_LC ，_PU 将_BA 开关_NN 电源_NN 提供_VV 的_DEC 12_CD  _CD V_NN 电压_NN 转换_VV 到_VV 较_AD 低_VA （_PU 例如_AD 1V_CD ）_PU ，_PU 符合_VV CPU_NN 需求_VV 的_DEC 电压_NN 。_PU 现在_NT 的_DEG CPU_NN 功率_NN 需求_NN 可能_VV 会_VV 超过_VV 200_CD W_M ，_PU 功率_NN 变化_NN 非常_AD 的_DEV 快_VA ，_PU 而且_CC 涟波_NN 电压需_NN 小于_VV 10_CD mV_NN 。_PU 典型_JJ 主机板_NN 的_DEG 电源_NN 会_VV 用_P 三_CD 相_NN 或_CC 四_CD 相_NN 的_DEG 降压_NN 变换器_NN 。_PU
+
+多相_JJ 降压_NN 变换器_NN 隐含_VV 的_DEC 主要_JJ 问题_NN 是_VC 如何_DT 确保_VV 各_DT 相_NN 的_DEG 电流_NN 是_VC 平衡_JJ 分配_NN 的_DEC 。_PU 电流_NN 的_DEG 平衡_NN 可以_VV 用_P 几_CD 个_M 方式_NN 达到_VV 。_PU 可以_VV 用_VV 「_PU 无_VE 损失_NN 」_PU （_PU losslessly_NN ）_PU 的_DEC 方式量_NN 测_VV 各_DT 相_NN 电流_NN ，_PU 方式_NN 是_VC 量_JJ 测_NN 各_DT 相_NN 电感器_NN 或_CC 是_VC 下_JJ 方开关_NN （_PU 整_AD 流_VV 开关_NN ）_PU 的_DEG 跨压_NN （_PU 在_P 下方_NN 开关_NN 导通_VV 时_LC ）_PU 。_PU 此_DT 方式_NN 称为_VV 「_PU 无_VE 损失_NN 」_PU 的_DEG 原因_NN 是_VC 它_PN 主要_AD 是_VC 靠_P 电感器_NN 的_DEG 串联_NN 杂_AD 散_VV 电阻_NN （_PU 或_CC 是_VC 下方_NN 开关_NN 的_DEG 导通_NN 电阻_NN ）_PU ，_PU 不_AD 需_VV 额外_AD 加入_VV 电阻_NN 。_PU 各_DT 一_CD 个_M 方式_NN 是_VC 在_P 电路_NN 中_LC 串联_VV 电阻_NN ，_PU 量_NN 测_VV 跨压_NN ，_PU 此_DT 方式_NN 更_AD 準确_VA ，_PU 也_AD 比较_AD 容易_AD 调整_VV ，_PU 不过_AD 在_P 体积_NN 、_PU 效率_NN 及_CC 成本_NN 上_LC 都_AD 比较_VV 不利_VA 。_PU
+
+电流_NN 也_AD 可以_VV 由_P 输入侧_NN 来_MSP 量测_VV ，_PU 可以_VV 透过_P 各_DT 相_NN 的_DEG 上方_NN 开关_NN 进行_VV 「_PU 无_VE 损失_NN 」_PU 量_NN 测_VV ，_PU 也_AD 可以_VV 在_P 输入端_NN 直接_AD 串联_VV 一_CD 个_M 电阻量_NN 测_VV 。_PU 后者_NN 的_DEG 挑战性_NN 较_AD 高_VA ，_PU 因为_P 切换_NN 损失_NN 不_AD 容易_AD 滤掉_VV ，_PU 但_CC 价值_NN 会_VV 比_P 各_DT 相_NN 加_VV 一_CD 个_M 电阻_NN 要_VV 便宜_VA 。_PU
+
+导通_JJ 损失_NN （_PU 和_CC 负载_VV 有关_P ）_PU ：_PU
+
+切换_NN 损失_NN ：_PU
+
+降压_NN 变换器_NN 可以_VV 用来_VV 作_VV 阻抗_NN 匹配_NN ，_PU 以_MSP 符合_VV 最_AD 大_JJ 功率_NN 传输_NN 定理_NN 。_PU 像_P 光伏_NN 系统_NN 中_LC 用_VV 的_DEC 最_AD 大_JJ 功率_NN 点追踪_NN （_PU MPPT_NN ）_PU 就_AD 可_VV 配合_VV 降压_NN 变换器_NN 。_PU
+
+根据_P 电功率_NN 的_DEG 公式_NN ：_PU :_PU
+
+其中_NN
+
+根据_P 欧姆_NN 定律_NN ：_PU
+
+其中_NN
+
+用_P 这些_DT 式子_NN 取代_NN 功率_NN 公式_NN 中_LC 的_DEG I_NN 及_CC I_NN 可得_VV ：_PU
+
+假设_JJ 降压_NN 变换器_NN 在_P 连续_JJ 模式_NN 下_LC （_PU I_NN >_PU 0_CD ）_PU ：_PU A_NN
+
+其中_NN ：_PU
+
+将_BA 此_DT 式_NN 代入_VV 前式_JJ 的_DEG V_NN 中_LC ，_PU 可得_VV ：_PU
+
+可以_VV 简化_VV 为_VC ：_PU
+
+最后_AD 可得_VV ：_PU
+
+因此_AD 可以_VV 透过_AD 调整_VV 占空比_NN 来_MSP 调整_VV 阻抗_NN 。_PU 这_AD 可以_VV 用_VV 在_P 一些_CD 阻抗_NN 需要_VV 动态_AD 调整_VV 的_DEC 应用_NN 中_LC 。_PU
+
+
+
+
+

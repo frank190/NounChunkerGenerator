@@ -1,0 +1,7 @@
+﻿动态_NN 范围_NN
+
+动态_NN 范围_NN （_PU ）_PU 是_VC 可_VV 变化_VV 信号_NN （_PU 例如_AD 声音_NN 或_CC 光_NN ）_PU 最_AD 大值_NN 和_CC 最_AD 小值_NN 的_DEC 比值_NN 。_PU 也_AD 可以_VV 用以_VV 10_CD 为_VC 底_NN 的_DEC 对数_NN （_PU 分贝_NR ）_PU 或_CC 以_P 2_CD 为_VC 底_NN 的_DEC 对数_NN 表示_VV 。_PU
+
+
+
+

@@ -1,0 +1,6 @@
+﻿_NN 正_AD 能_VV 量定_VV 理_NN
+
+在_P 广义_NT 相对_AD 论里_VV ，_PU 正_AD 能量_AD 定理_VV （_PU 在_P 微分_NN 几_CD 何里常_AD 被_SB 称为_VV 正质量_NN 猜想_NN ）_PU 被_SB 表述_VV 为_VC ：_PU 假设_VV 主_JJ 能量_NN 条件_NN 即_NN 的_DEG 质量_NN 为_VC 非_AD 负_VV ，_PU 而且_CC 仅_AD 在_P 闵_NN 可_VV 夫_NN 斯_DT 基_NN 时空_NN 里_LC 质量_NN 为_VC 零_CD 。_PU 在_P 渐进_NT 边界_NN 条件_NN 下_LC 这_DT 个_M 定理_NN 是_VC 数量_NN 曲率_NN ，_PU 相当于_VV 几何_JJ 刚度_NN 的_DEC 表述_NN 。_PU
+1979_CD 年理_NN 查德_NN ·_PU 舍恩_NN 和_CC 丘成桐_NN 使用_VV 变分法_NN 完成_VV 这_DT 个_M 定理_NN 对于_P ADM_NN 质量_NN 的_DEG 原始_JJ 证明_NN 。_PU 1981_CD 年_M 爱_VV 德华_NN ·_PU 威滕_NN 受超_VV 重力_NN 环境_NN 下_LC 的_DEG 正能量_NN 定理_AD 启发_VV ，_PU 采用_VV 旋量_NN 给出_VV 一_CD 个_M 简化_VV 的_DEC 证明_NN 。_PU 和_CC 等_ETC 给出_VV 这_DT 个_M 定理_NN 在_P Bondi_NN 质量_NN 的_DEG 扩展_NN 。_PU 和_CC 史蒂芬_NN ·_PU 霍金_NN 等_ETC 把_BA 这_DT 个_M 定理_NN 扩展_VV 到_VV 渐进_JJ 反德西_NN 特_CC 空间_NN 和_CC 爱因_VV 斯坦_PN -_PU 麦克_NN 斯_DT 韦理论_NN 。_PU
+
+

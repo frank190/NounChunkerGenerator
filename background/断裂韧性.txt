@@ -1,0 +1,6 @@
+﻿断_VV 裂韧性_NN
+
+断裂_NN 韧性_NN （_PU F_CD ra_M cturetoughness_NR ）_PU 反映_VV 了_AS 结构_NN 阻止_VV 宏观_JJ 裂纹_NN 失稳_VV 扩展_NN 能力_NN ，_PU 是_VC 结构_NN 抵抗裂_NN 纹脆性_NN 扩展_NN 的_DEC 参数_NN 。_PU 它_PN 和_CC 材料_NN 本身_PN 特性_NN 、_PU 结构_NN 几何_VA 形状_NN 以及_CC 裂纹_NN 形状_NN 相关_VV 的_DEC 参数_NN 。_PU 一般_AD 用于_VV 表征_VV 断裂_NN 韧性_NN 的_DEC 参数_NN 有_VE 积分_NN J_NN 、_PU 应力_NN 强度_NN 因子_P K_NN 的_DEG 临界_NN 值_NN 。_PU 断裂_NN 韧性_AD 用于_VV 大型_JJ 的_DEG 结构_NN （_PU 如_P ：_PU 船体_NN ）_PU 的_DEG 断裂_NN 事件_NN 研究_NN 。_PU 大型_JJ 结构_NN 往往_AD 在_P 很_AD 低_JJ 强度_NN 的_DEC 情况_NN 下_LC 发生_VV 断裂_NN 。_PU 为了_P 解决_VV 这_DT 个_M 问题_NN ，_PU 发明_VV 了_AS 表征_NN 脆性_NN 断裂_VV 的_DEC 应力_NN 强度_NN 因子_P K_NN 。_PU 后_LC 又_AD 发展_VV 出_VV 了_AS J_CD 积分_NN 。_PU 进而_AD 产生_VV 了_AS T_NN 参数_NN 、_PU Q_NN 参数_NN 等_ETC 表征_NN 应力_NN 场非_NN 标准_JJ 特性_NN 差_VA 的_DEC 参数_NN 。_PU
+K_NN =_P Y_NN σ√_NN (_PU π_NN a_NN )_PU
+
+

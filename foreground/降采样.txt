@@ -1,0 +1,47 @@
+﻿降_NN 采样_VV
+
+在_P 数位_NN 信号_NN 处理_NN 领域_NN 中_LC ，_PU 降_VV 采样_VV ，_PU 又_AD 作_VV 减采集_NN ,_PU 是_VC 一_CD 种_M 多速率_NN 数位_NN 讯号_NN 处理_NN 的_DEC 技术_NN 或是_CC 降低_VV 信号_NN 采样率_NN 的_DEC 过程_NN ，_PU 通常_AD 用于_VV 降低_VV 数据_NN 传输_NN 速率_NN 或者_CC 数据_NN 大小_NN 。_PU
+跟_P 插值_NN 互补_VV ，_PU 插值_NN 是_VC 用来_VV 增加_VV 取_VV 样频率_NN 。_PU 降_VV 采样_VV 的_DEC 过程_NN 中_LC 会_VV 运用_VV 滤波器_NN 降低_VV 混叠_NN 造成_VV 的_DEC 失真_NN ，_PU 因为_AD 降采_VV 样_DER 会_VV 有_VE 混叠_VV 的_DEC 情形_NN 发生_VV ，_PU 系统_NN 中_LC 具有_VV 降采_VV 样功_NN 能_VV 的_DEC 部分_NN 称为_VV 降频器_NN 。_PU
+
+降采_VV 样因子_NN （_PU 常用_AD 表示_VV 符号_NN 为_VC ＂_PU M_NN ＂_PU ）_PU 一般_AD 是_VC 大于_VV １_CD 的_DEG 整数_NN 或_CC 有_VE 理数_NN 。_PU 这_DT 个_M 因子_NN 表达_NN 采样_NN 周期_NN 变成_VV 原来_JJ 的_DEG M_OD 倍_M ，_PU 或者_CC 等价_NN 表示_VV 采样率_NN 变成_VV 原来_JJ 的_DEG 1/M_CD 倍_M 。_PU
+采样率_NN 的_DEG 降低会_NN 造成_VV 频谱_NN 的_DEG 压缩_NN ，_PU 因此_AD 需要_VV 利用_VV 滤波器_NN 确保_VV 在_P 较_AD 低_VA 的_DEC 采样_NN 频率_NN 下_LC 不_AD 发生_VV 混叠_VV ，_PU 确保_VV 奈奎式_JJ 采样_NN 定理_NN 依旧_AD 成立_VV 。_PU
+
+降采_VV 样降_NN 低_JJ 数据_NN 传输_NN 速率_NN ，_PU 降采_VV 样因子_NN （_PU 速度_NN 降低_VV 的_DEC 倍率_NN M_NN ）_PU 通常_AD 为_VC 整数_NN 或是_CC 大于_VV 一_CD 的_DEC 分数_NN ，_PU 这_DT 个_M 数字_NN 为_VC 取样_VV 周期_NN 的_DEC 倍数_NN 或是_CC 取_VV 样频率_NN 的_DEC 因数_NN 。_PU
+举例_NN 来_MSP 说_VV 一_CD 个_M 取样率_NN 为_VC 44_CD ,_PU 100_CD 赫兹_NN 的_DEG 16_CD 位_M 元_NN 数位_NN 音乐_NN 讯号_NN 若_CS 被_SB 降采_VV 样到_NN 22_CD ,_PU 050_CD 赫兹_NN ，_PU 此时_NT 降采_VV 样因子_NN 等于_VV 2_CD ，_PU 位元率_NN 同时_AD 降低_VV 了_AS 一半_CD ，_PU 假设_VV 降_VV 采样_VV 后_LC 每_DT 个_M 取样_NN 长度_NN 依旧_AD 为_VC 16_CD 位元_NN ，_PU 则位_NN 元率_NN 从_P 1_CD ,_PU 411_CD ,_PU 200_CD 位元_NN /_PU 秒_NN （_PU 44100_CD (_PU 样本_NR )_PU ×16_CD (_PU bit_NN /_PU 样本_NN )_PU ×_PU 2_CD (_PU 声道_NN )_PU ）_PU 降低_VV 至_P 705_CD ,_PU 600_CD 位_M 元秒_NN 。_PU
+
+降采_VV 样整_JJ 数M倍_NN 的_DEC 过程_NN 可以_VV 被_SB 分解_VV 成_VV 两_CD 个_M 部分_NN ：_PU
+
+若_CS 仅少_VV 了_AS 第一_OD 个_M 步骤_NN ，_PU 讯号_NN 的_DEC 高频_JJ 成分_NN 会_VV 在_P 降低_VV 采样_NN 速率_NN 的_DEC 过程_NN 中_LC 被_SB 混入_VV 低频_JJ 讯号_NN 中_LC ，_PU 这样_PN 的_DEG 失真_JJ 效应_NN 我们_PN 称为_VV 混叠_VV ，_PU 因此_AD 第一_OD 个_M 步骤_NN 是_VC 为了_P 降低_VV 混叠_JJ 影响_VV 至_CC 可以_VV 接受_VV 的_DEC 程度_NN ，_PU 降采_VV 样_NN 中_LC 的_DEG 滤波器_NN 称为_VV 反混_JJ 叠滤波器_NN ，_PU 下面_NN 讨论_VV 如何_AD 设计_VV 反_VV 混叠_JJ 滤波器_NN 。_PU
+
+若_CS 用_P 无限_JJ 脉冲_NN 响应_VV 的_DEC 方法_NN 设计_VV 反_VV 混叠_JJ 滤波器_NN ，_PU 则_AD 滤波_NN 的_DEC 过程_NN 需要_VV 在_P 降低_VV 采样_NN 速率_NN 前_LC 从_P 输出端_NN 回传_VV 资讯_NN 到_VV 输入端_NN ，_PU 若_CS 用_VV 有限_JJ 脉冲_NN 响应_VV 的_DEC 方法_NN 设计_VV 反_VV 混叠_JJ 滤波器_NN ，_PU 滤波_NN 的_DEC 过程_NN 较为_AD 简单_VA 因为_P 我们_PN 只_AD 需要_VV 考虑_VV 间隔_NN 为_VC M_NN 的_DEC 采样点_NN ，_PU 滤波_NN 的_DEC 过程_NN 表示_VV 成_VV ：_PU
+
+序列_NN h_NN [_PU •_NN ]_PU 是_VC 数位_NN 滤波器_NN 的_DEG 脉冲_NN 响应_NN 、_PU K_NN 是_VC 它_PN 的_DEG 长度_NN ，_PU 序列_NN x_NN [_PU •_NN ]_PU 为_VC 要_VV 被_SB 降采_VV 样_NN 的_DEG 原始_JJ 讯号_NN 的_DEG 取样点_NN ，_PU 一般来说_AD 在_P 算出_VV y_NN [_PU n_NN ]_PU 后_NN 计算_NN y_NN [_PU n_NN +_PU 1_CD ]_PU 最_AD 简单_VA 的_DEC 方法_NN 是_VC 让_VV x_NN [_PU •_NN ]_PU 的_DEG 索引_NN 增加_VV M_NN 然后_AD 重新_AD 计算_VV 卷积_NN ，_PU 在_P 大部分_CD 的_DEC 情况_NN 下_LC M_NN =_VV 2_CD ，_PU h_NN [_PU •_NN ]_PU 可以_VV 被_SB 设计_VV 成_VV 半频带_NN 滤波器_NN ，_PU 序列_NN h_NN [_PU k]_NN 中_LC 将近_VV 一半_CD 的_DEC 系数_NN 为_VC 0_CD ，_PU 因此_AD 卷积_NN 的_DEG 计算_NN 过程_NN 会_VV 被_SB 大大_AD 简化_VV 。_PU
+
+每_AD 隔_P M_CD 个_M 取样点_NN 取样_JJ 脉冲_NN 响应_NN 的_DEC 系数_NN 成为_VV 一_CD 个_M 次序列_NN ，_PU 总共_AD 有_VE M_CD 个_M 降_VV 采样_VV 的_DEC 脉冲_NN 响应次_NN 序列_NN ，_PU 内积_NN 的_DEG 结果_NN 是_VC 每_DT 个_M 次序列_NN ．_PU 跟_P 对应_VV 的_DEC 取样点_NN x_NN [_PU •_NN ]_PU 内积_NN 的_DEG 总和_NN 。_PU
+此外_AD ,_PU 由于_P 采样_NN 周期_NN 变成_VV M倍_NN ，_PU 每_DT 个_M 降采样_NN 后_LC 的_DEG 次序_NN 列会_VV 独立_VV 在_P 每_DT 个_M 内积_NN 中_LC ，_PU 数列_NN x_NN [_PU •_NN ]_PU 的_DEG 采样点_NN 只_AD 会_VV 出现_VV 在_P 一_CD 组_M 内积_NN 之中_LC 而_CC 不_AD 会_VV 出现_VV 在_P 其他_DT 组_NN 的_DEG 内积_NN 里_LC ，_PU 因此_AD 可以_VV 用_P M_NN 组有_VV 限长度_NN 频率_NN 响应_NN 数位_NN 滤波器_NN 同时_AD 多工_VA 地_DEV 算出_VV M_CD 组_M 内积_NN ，_PU M_CD 组_M 输出值_NN 最后_AD 平行_VV 加总_VV 。_PU 这_DT 个_M 观点_NN 提供_VV 不同_VA 的_DEC 硬体_NN 实作_NN 方法_NN ，_PU 很_AD 可能_VV 适合_VV 多_NN 处理器_NN 的_DEG 架构_NN 。_PU
+换句话说_AD ，_PU 输入_VV 的_DEC 串流_NN 经过_P 分工_VV 并_CC 送去_VV M_CD 组_M 滤波器_NN 并_CC 将_BA 输出_VV 加总_VV ，_PU 上述_JJ 的_DEG 架构_NN 称为_VV 多_CD 项位_NN 滤波器_NN 。_PU
+
+我们_PN 可以_VV 从_P 图_NN 一_CD 的_DEG 三_CD 组_M 波型_NN 中_LC 了解_VV 为_VC 何降_JJ 采样_NN 的_DEC 过程_NN 需要_VV 反_VV 混叠_JJ 滤波器_NN ，_PU 注意_VV 三_CD 组_M 波型_NN 图_NN 除了_P 横轴_NN 的_DEC 单位_NN 不_AD 同以_AD 外其_VV 余皆_NN 相同_VA 。_PU
+每_DT 一_CD 组_M 波形图_NN 的_DEG 第一_OD 张_M 图_NN 是_VC 取_VV 样讯号_NN x_NN (_PU t_NN )_PU ，_PU 经过_P 傅_NN 立_VV 叶_NN 转换_NN 得到_VV 的_DEC 周期性_NN 频谱_VV ，_PU X(f_M )_PU ；_PU 第二_OD 章_M 图_NN 为_VC 取_VV 样讯号_NN x_NN (_PU t_NN )_PU 以_P 1_CD /_PU 3_CD 倍_M 采样_VV 速率_NN 降取_VV 样后_AD 经过_P 傅_NN 立_VV 叶_NN 转换_NN 得到_VV 的_DEC 周期_NN 性频谱_NN 。_PU
+对于_P 这_DT 三_CD 组_M 波型_NN ，_PU 混_VV 叠_DER 不_AD 发生_VV 的_DEC 条件_NN 同_NN 为_VC ：_PU formulaT_NN 为_VC 采样_VV 的_DEC 时间_NN 间_LC 格_SP ，_PU 1_CD /_PU T_NN 为_VC 采样_NN 速率_NN ，_PU 1_CD /_PU 2T_CD 为_VC 奈奎氏_NN 取样_JJ 频率_NN ，_PU 反混_VV 叠_NOI 滤波器_NN 借由_VV 设计_NN 截止_VV 频率_NN 小于_VV 1_CD /_PU M_CD 倍_M 的_DEG 奈奎氏_NN 取_VV 样频_NN 率确_AD 保混_VV 叠_DER 不_AD 会_VV 发生_VV 。_PU
+
+最_AD 上面_NN 那_DT 组_M 图片_NN 的_DEG 上面_NN 那_DT 张_M 图_NN 的_DEG 横轴_NN 代表_VV 离散_VV 时间_NN 傅_NN 立_VV 叶_NN 转换_VV ，_PU 也就_AD 是_VC X_NN (_PU f_NN )_PU 的_DEG 傅立叶_NN 级数_NN 表示_VV 方式_NN ：_PU
+
+T_NN 的_DEG 单位_NN 为_VC 秒_NN ，_PU f_NN 的_DEG 单位_NN 为_VC 赫兹_NN 。_PU 将_BA MT_NN 取代_VV 公式_NN 中_LC 的_DEG T_NN 我们_PN 可以_VV 得到_VV 以_P 1_OD /_PU M_OD 倍_M 速率_NN 采样_VV 后_LC 的_DEG 数列_NN 的_DEG 离散_NN 时间_NN 傅_NN 立_VV 叶_NN 转换_VV ，_PU x_NN [_PU nM_NN ]_PU :_PU
+
+这_DT 个_M 周期性_NN 的_DEC 讯号_NN 以_P 较_AD 低_JJ 速率_NN 采样_VV 过后_AD ，_PU 频率_NN 跟_P 振幅_NN 都_AD 被_SB 降低_VV 了_AS 1/M_CD 倍_M ，_PU 如同_P 图_NN 一_OD 的_DEG 第二_OD 张_M 图_NN 所_MSP 示_VV ，_PU 当_P X_NN (_PU f_NN )_PU 与_P 附近_NN 的_DEC 波型_NN 重叠_VV ，_PU 混叠_VV 将_AD 会_VV 发生_VV ，_PU 反混_VV 叠_NOI 滤波器_NN 的_DEC 目的_NN 就_AD 是_VC 在于_P 确_AD 保降_VV 采样_VV 后_JJ 周期_NN 降低_VV 但_CC 不_AD 会_VV 发生_VV 波型_NN 重叠_VV ，_PU 也就是_AD 混叠_VV 。_PU
+
+中间_CS 那_DT 组_M 图频率_NN f_NN 的_DEG 单位_NN 改为_VV 标準化_NN 频率_NN ，_PU 这时_NT 周期_NN 为_VC 1_CD 而_CC 0.5_CD 的_DEG 位置_NN 对应_VV 到_VV 奈奎氏_NN 取_VV 样频率_NN ，_PU 一般_AD 反混_VV 叠_NOI 滤波器_NN 的_DEG 设计_NN 会以_VV 图形_NN 的_DEG 频率_NN 单位_NN 为_VC 标準_NN ，_PU 因此_AD 截止_VV 频率_NN 也_AD 要_VV 改_VV 由_P 以_P 标_VV 準化_VV 频率_NN 作为_P 单位_NN ，_PU 此时_NT 截止_VV 频率_NN formula_NN 被_SB 标_VV 準化_VV 为_VC formula_NN  _NN 这_DT 个值_NN 的_DEC 单位_NN 为_VC （_PU 秒／取样_M ）_PU *_PU （_PU 周期_NN 数_NN ／_PU 秒_NN ）_PU ＝_PU 周期数_NN ／_PU 取样_VV 。_PU
+
+最_AD 下面_NN 那_DT 组_M 图形_NN 为_VC 原本_JJ 数列_NN 以及_CC 以_P 低速率_NN 取样_VV 后_LC 数列_NN 的_DEG Ｚ_NN 转换_NN ，_PU 受到_VV 复数_NN 变量_NN formula_NN 的_DEG 限制_NN ，_PU x_NN [_PU n_NN ]_PU 的_DEG 数列_NN 的_DEG 形式_NN 为_VC 傅立叶_NN 级数_NN ，_PU 与_P 比较_NN ，_PU 我们_PN 推论_VV ：_PU
+
+这_DT 个_M 方程式_NN 描述_VV 了_AS 图一_NN 中_LC 第五_OD 张_M 图_NN ，_PU 同理_AD ，_PU 第六_OD 章_M 图_NN 为_VC ：_PU
+
+令_VV M_NN /_PU L_NN 代表_NN 降采_VV 样因子_NN ，_PU M_NN ,_PU L_NN 都_AD 是_VC 整数_NN ，_PU M>L_NR ，_PU 分数倍_NN 降采_VV 样_DER 可以_VV 被_SB 分解_VV 成_VV 两_CD 个_M 步骤_NN
+
+
+升采_VV 样需_NN 要低_VV 通_VV 滤波器_NN 过滤资_NN 料数率_NN 增加_VV 的_DEC 讯号_NN ，_PU 降采_VV 样需_NN 要低_VV 通_VV 滤波器_NN 过滤_NN 输入_VV 讯号_NN ，_PU 因此_AD 这_DT 两_CD 个_M 滤波_NN 过程_NN 可以_VV 被_SB 和_CC 而_AD 为_VC 一_CD ，_PU 借由_P 用_P 单_AD 一_CD 个_M 低_JJ 通滤波器_NN 取代_VV ，_PU 此_PN 单一_JJ 低_JJ 通滤波器_NN 的_DEG 截止_NN 频率_NN 为_VC 两_CD 者_NN 低_JJ 通滤波器_NN 的_DEC 低者_NN 。_PU 当_P M>L,_NN 反混_VV 叠_NOI 滤波器_NN 的_DEG 截止_NN 频率 _NN formula_NN
+
+
+
+

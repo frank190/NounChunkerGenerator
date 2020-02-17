@@ -1,0 +1,8 @@
+﻿电影_NN 放映机_NN
+
+电影_NN 放映机_NN 是_VC 一_CD 台_M 光学_NN 及_CC 力学_NN 的_DEC 电影_NN 放映_NN 设备_NN ，_PU 负责_NN 把_BA 映像_VV 投影_VV 至_VV 放映幕_NN （_PU ）_PU 上_LC 。_PU
+
+电影_NN 放映机_NN 由_P 灯箱_NN 、_PU 光学_NN 系统_NN 、_PU 传动_JJ 输片_NN 装置_NN 和_CC 供_NN 、_PU 收片盒_NN 等_ETC 构成_VV ；_PU 影片_NN 在_P 放映机_NN 上_LC 运行_VV ，_PU 每_DT 格_M 画面_NN 经过_P 片窗_VV 时_LC 作_VV 瞬间_NN 停留_VV ，_PU 在_P 灯箱_NN 光束_NN 的_DEC 透射_NN 下_LC ，_PU 影像_VV 通过_P 放映_NN 镜头_NN ，_PU 放大地_AD 投映_VV 到_VV 银幕_NN 上_LC ；_PU 由于_P 人眼_NN 的_DEC 视觉_NN 暂_AD 留_VV 作用_NN ，_PU 画面_NN 的_DEG 迅速_JJ 变换_NN ，_PU 使_VV 观众_NN 获得_VV 活动_VV 的_DEC 视觉_NN 效果_NN 。_PU 除_P 声音_NN 及_CC 照明_NN 外_LC ，_PU 其余_PN 均_AD 与_P 摄影_NN 机_NN 大同_AD 小异_VV 。_PU
+
+
+

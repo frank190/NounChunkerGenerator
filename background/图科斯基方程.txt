@@ -1,0 +1,7 @@
+﻿图科_NN 斯_DT 基_NN 方程_NN
+
+图科_NN 斯_DT 基_NN 方程_NN （_PU 英文_NN ：_PU ）_PU 是_VC 康奈尔_NN 大学_NN 的_DEG 索尔_NN ·_PU 图科_NN 斯_DT 基_NN （_PU ）_PU 于_P 二十_CD 世纪_NN 七十_CD 年代_M 创立_VV 的_DEC 克尔度_NN 规_NN 下_LC 的_DEG 广义_NN 相对_AD 论引_VV 力场_NN 方程_NN 。_PU 方程_NN 的_DEC 基本_JJ 思想_NN 是_VC 在_P 克尔几_NR 何_DT 的_DEC 框架_NN 下_LC 应用_VV 微扰_NN 数值_NN 求解_VV 爱_VV 因_P 斯_DT 坦场_NN 方程_NN ，_PU 其_PN 适用_NN 范围_NN 包括_VV 各_DT 种_M 微扰场_NN ：_PU
+
+其中_NN 叫做_VV 自_VV 旋权重_NN （_PU ）_PU ，_PU 是_VC 一_CD 个_M 与_P 微扰场_NN 的_DEC 自旋有关_JJ 的_DEG 量_NN ，_PU 在_P 引力场_NN 的_DEC 微扰_NN 下_LC formula_NN
+
+

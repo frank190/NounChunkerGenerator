@@ -1,0 +1,25 @@
+﻿分_NN 辨率_NN
+
+分辨率_NN （_PU 英语_NN ：_PU Imageresolution_NN ）_PU 泛指量_NN 测_NN 或_CC 显示_NN 系统_NN 对_P 细节_NN 的_DEG 分辨_NN 能力_NN 。_PU 此_DT 概念_NN 可以_VV 用_VV 时间_NN 、_PU 空间_NN 等_ETC 领域_NN 的_DEG 量测_NN 。_PU 日常_JJ 用语_NN 中_LC 之_DEG 分辨率_NN 多_AD 用于_VV 影像_VV 的_DEC 清晰度_NN 。_PU 分辨率_NN 越_AD 高_VA 代表_NN 影像_VV 品质_NN 越_AD 好_VA ，_PU 越_AD 能_VV 表现_VV 出_VV 更_AD 多_VA 的_DEC 细节_NN ；_PU 但_CC 相对_VV 的_DEC ，_PU 因为_P 纪录_NN 的_DEC 资讯_NN 越_AD 多_VA ，_PU 文件_NN 也_AD 就_AD 会_VV 越_AD 大_VA 。_PU 个_M 人_NN 电脑_NN 里_LC 的_DEG 影像_NN ，_PU 可以_VV 使用_VV 视频_NN 处理_NN 软体_NN （_PU 例如_AD AdobePhotoshop_NN 、_PU PhotoImpact_NN ）_PU 调整_VV 大小_NN 、_PU 编辑_NN 相_AD 片等_VV 。_PU
+
+
+
+描述_JJ 分辨率_NN 的_DEC 单位_NN 有_VE ：_PU dpi_NN （_PU 点每_JJ 英寸_NN ）_PU 、_PU lpi_NN （_PU 线每_JJ 英寸_NN ）_PU 和_CC ppi_NN （_PU 每_DT 英寸_NN 像素_NN ）_PU 。_PU 但_CC 只_AD 有_VE lpi_NN 是_VC 描述_JJ 光学_NN 分辨率_NN 的_DEG 尺度_NN 的_DEC 。_PU 虽然_JJ dpi_NN 和_CC ppi_NN 也_AD 属于_VV 分辨率_NN 范畴_NN 内_LC 的_DEG 单位_NN ，_PU 但是_CC 他们_PN 的_DEG 含义_NN 与_CC lpi_NN 不_AD 同_VA 。_PU 而且_CC lpi_NN 与_CC dpi_NN 无法_AD 换算_VV ，_PU 只_AD 能_VV 凭_P 经验_NN 估算_NN 。_PU
+
+另外_AD ，_PU ppi_NN 和_CC dpi_NN 经常_AD 都_AD 会_VV 出现_VV 混_VV 用_P 现象_NN 。_PU 但_AD 是_VC 他们_PN 所_MSP 用_VV 的_DEC 领域_NN 也_AD 存在_VV 区别_NN 。_PU 从_P 技术_NN 角度_NN 说_VV ，_PU “_PU 像素_NN ”_PU 只_AD 存在_VV 于_P 电脑_NN 显示_NN 领域_NN ，_PU 而_CC “_PU 点_NN ”_PU 只_AD 出现_VV 于_P 打印_NN 或_CC 印刷_NN 领域_NN 。_PU
+
+ppi_NN 和_CC lpi_NN 可以_VV 换算_VV ，_PU lpi_NN 等于_VV ppi_NN 的_DEG 一半_CD ，_PU 但是_AD 取决于_VV 取样_JJ 定理_NN 。_PU
+
+用以_VV 描述_VV 影像_NR 细节_NN 分辨_NN 能力_NN ，_PU 同样_AD 适用于_VV 数位_NN 影像_NN 、_PU 胶卷影_NN 像_NN 、_PU 及_CC 其他_DT 类型_JJ 影像_NN 。_PU 常用_NN '_PU 线_BA 每_DT 毫米_M '_PU 、_PU '_PU 线_NN 每_DT 英寸_NN '_PU 等_ETC 来_MSP 衡量_VV 。_PU
+
+通常_AD ，_PU 「_PU 分辨率_NN 」_PU 被_SB 表示_VV 成_VV 每_DT 一_CD 个_M 方向_NN 上_LC 的_DEC 像素_NN 数量_NN ，_PU 比如_AD 640_CD x480_NN 等_ETC 。_PU 而_CC 在_P 某些_DT 情况_NN 下_LC ，_PU 它_PN 也_AD 可以_VV 同时_AD 表示_VV 成_VV 「_PU 每_DT 英寸_NN 像素_NN 」_PU （_PU pixelsperinch_NN ，_PU ppi_NN ）_PU 以及_CC 图形_NN 的_DEG 宽度_NN 和_CC 高度_NN 。_PU 比如_AD 72_CD ppi_M ，_PU 和_CC 8x6_CD 英寸_NN 。_PU
+
+与_P 影像_JJ 分辨率_NN 似_VA ，_PU 惟着_AD 重光_VV 学透镜_NN 重_DEC 效果_NN 。_PU 常用_JJ OpticalTransferFunction_NN （_PU OTF_NN ）_PU ，_PU ModulationTransferFunction_NR （_PU MTF_NN ）_PU 来_MSP 衡量_VV 。_PU
+
+对_P 电脑_NN 显示器_NN 等_ETC ，_PU 分辨率_NN 是_VC 用_P 像素_NN 数目_NN 衡量_NN ；_PU 对_P 数位_NN 文件_NN 印刷_NN ，_PU 分辨率_NN 是_VC 通常_AD 用_P 每_DT 英寸_NN 所_MSP 含_VV 点_NN 或_CC 像素_NN 〔_PU dpi_NN 〕_PU 来_MSP 衡量_VV 。_PU
+
+像素_NN 数目_NN 大_VA 的_DEC 数位_NN 相机_VA ，_PU 较_AD 能够_VV 输出_VV 高分_NN 辨率_NN 的_DEC 图像_NN 。_PU 相机_JJ 制造商_NN 多数_CD 使用_VV 像素_NN 数目代_NN 表_NN 分辨率_NN 。_PU
+
+
+
+

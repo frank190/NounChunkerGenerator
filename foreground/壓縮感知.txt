@@ -1,0 +1,207 @@
+﻿压缩_NN 感知_NN
+
+压缩_VV 感知_NN （_PU Compressedsensing_NN ）_PU ，_PU 也_AD 被_SB 称为_VV 压缩_NN 采样_VV （_PU Compressivesampling_NN ）_PU 或_CC 稀_JJ 疏采_JJ 样（Sparsesampling_NN ）_PU ，_PU 是_VC 一_CD 种_M 寻找_NN 线性_NN 系统_NN 的_DEG 稀_NN 疏解_VV 的_DEC 技术_NN 。_PU 压缩_NN 感知_VV 被_SB 应用_VV 于_P 电子_NN 工程_NN 尤其_AD 是_VC 信号_NN 处理_NN 中_LC ，_PU 用于_VV 获取_VV 和_CC 重构_NN 稀_NN 疏_NN 或_CC 可_VV 压缩_VV 的_DEC 信号_NN 。_PU 这_DT 个_M 方法_NN 利用_VV 讯号_NN 稀_AD 疏_VA 的_DEC 特性_NN ，_PU 相较於_AD 奈奎_VV 斯_DT 特理论_NN ，_PU 得以_VV 从_P 较_AD 少_VA 的_DEC 测量_NN 值_NN 还原_CC 出_VV 原来_JJ 整_DT 个_M 欲_NN 得知_VV 的_DEC 讯号_NN 。_PU 核磁_NN 共振就_AD 是_VC 一_CD 个_M 可能_VV 使用_VV 此_DT 方法_NN 的_DEG 应用_NN 。_PU 这_DT 一_CD 方法_NN 至少_AD 已经_AD 存在_VV 了_AS 四十_CD 年_M ，_PU 由于_P D_CD a_M v_CC idDonoho_VV 、_PU EmmanuelCand_NN è_NN s_NN 和_CC 陶哲轩_NN 的_DEG 工作_NN ，_PU 最近_AD 这_DT 个_M 领域_NN 有_VE 了_AS 长足_VA 的_DEC 发展_NN 。_PU 近几年_NT ，_PU 为了_P 因应_VV 即_AD 将_BA 来临_VV 的_DEC 第五_OD 代_M 移动_JJ 通信_NN 系统_NN ，_PU 压缩_VV 感知_NN 技术_NN 也_AD 被_SB 大量_AD 应用_VV 在_P 无线_AD 通讯_VV 系统_NN 之中_LC ，_PU 获得_VV 了_AS 大量_CD 的_DEG 关注_NN 以及_CC 研究_NN 。_PU
+
+信号_NN 处理_NN 领域_NN 中_LC 的_DEG 一_CD 个_M 常见_JJ 问题_NN 就_AD 是_VC 从_P 一_CD 系列_NN 的_DEG 采样_NN 中_LC 重建_VV 原本_JJ 的_DEG 信号_NN 。_PU 一般而言_AD ，_PU 未_AD 被_SB 采样_VV 的_DEC 部分_NN 信号_NN ，_PU 是_VC 不_AD 可能_VV 重建_VV 出来_VV 的_DEC 。_PU 然而_AD 通过_P 借助_VV 对于_P 信号_NN （_PU 性质_NR ）_PU 的_DEC 预先_VV 了解_VV 或_CC 合理_VA 假设_VV ，_PU 完美_AD 地_DEV 通过_VV 一_CD 系列_M 采样_VV 重建_AD 原_BA 信号_NN 就_AD 成为_VV 了_AS 可能_VV 。_PU 随着_AD 科学_VA 的_DEC 发展_VV ，_PU 数学_NN 家们_NN 逐步_AD 增进_VV 了_AS 如何_CS 作_VV 出合_VV 理_NN 假设_VA 的_DEC 能力_NN ，_PU 并_CC 慢慢_VV 了解_VV 到_VV 在_P 何_DT 种_M 情况_NN 下_LC 可_VV 将_BA 这些_DT 假设_NN 一_CD 般化_VV 、_PU 推广化_NN 。_PU
+
+信号_NN 处理_NN 领域_NN 中_LC 的_DEG 一_CD 次_M 较早_VA 的_DEC 突破_NN 是_VC 奈奎_VV 斯_DT 特_AD 采样_VA 定理_VA 的_DEC 提出_VV 。_PU 这_DT 一_CD 定理_NN 证明_VV 了_AS 若_CS 信号_NN 的_DEC 最高_JJ 频率_NN 小于_VV 采样_JJ 频率_NN 的_DEG 一半_CD ，_PU 便_AD 可_VV 完美_AD 地_DEV 从_P 采样_NN 结果_NN 中_LC 恢复_VV 原本_JJ 信号_NN ，_PU 因此_AD 定义_VV 了_AS 采样_NN 定理_VV 取_VV 样频率_NN 的_DEG 下_NN 限_VV 。_PU 这_DT 种_M 数据_NN 获取_NN 模式_NN 先_AD 采样_VV 再_AD 压缩_VV ，_PU 需要_VV 大量_CD 的_DEG 时间_NN 压缩_NN 和_CC 空间_NN 存储_VV 数据_NN ，_PU 这_PN 限制_VV 了_AS 高速_JJ 信号_NN 处理_VV 的_DEC 发展_NN ，_PU 也_AD 给_VV 硬件_NN 的_DEC 实时处_JJ 理_NN 带来_VV 了_AS 极_AD 大_VA 的_DEC 挑战_NN 。_PU
+
+在_P 2004_CD 年左_NN 右_NN ，_PU EmmanuelCand_NN è_NN s_NN 、_PU 陶哲轩_NN 和_CC DavidDonoho_NN 证明_VV 了_AS 在_P 已_AD 知_VV 信号_NN 稀疏性_JJ 的_DEG 情况_NN 下_LC ，_PU 可能_VV 凭借_VV 较_AD 采样_JJ 定理_NN 所_MSP 规定_VV 更_AD 少_VA 的_DEC 采样_NN 数重_NN 建原_NN 信号_NN ，_PU 这_DT 一_CD 理论_NN 也_AD 是_VC 压缩_VV 感知_VV 的_DEC 基石_NN 。_PU
+
+一般_AD 来说_VV ，_PU 一_CD 个_M 常见_JJ 的_DEG 线性_NN 系统_NN 问题_NN ，_PU 有_VE "_PU m_NN "_PU 个_M 方程式_NN ,_PU "_PU n"_CD 个_M 未_AD 知数_VV ，_PU 可以_VV 被_SB 定义_VV 如下_VV ：_PU
+
+formula_NN __NN 1_CD 其中_NN formula_NN
+
+在_P 通讯_NN 系统_NN 之中_LC ，_PU "_PU y"_NN 是_VC 被_SB 收到_VV 的_DEC 讯号_NN ，_PU 而_CC "_PU s_NR "_PU 则_AD 是_VC 要_VV 被_SB 重建_VV 的_DEC 讯号_NN ，_PU 一般来_AD 说会_VV 有_VE 以下_JJ 两_CD 种_M 情况_NN ：_PU
+
+1_CD ._PU formula_NN
+
+formula_NN __NN 4_CD 其中_NN formula_NN
+
+2_CD ._PU formula_NN
+
+但是_AD ，_PU 如果_CS 这_DT 个_M 欠定线性_NN 系统_NN 只_AD 有_VE 唯_AD 一_CD 一_CD 个_M 稀_AD 疏解_VV ，_PU 那么_AD 我们_PN 可以_VV 利用_VV 压缩_NN 感知_VV 理论_NN 和_CC 方法_NN 来_MSP 寻找_VV 这_DT 个_M 解_NN 。_PU 值得_VV 注意_NN 的_DEC 是_VC ，_PU 并_CC 不_AD 是_VC 所有_DT 欠定_JJ 线性_NN 方程组_NN 都_AD 具有_VV 稀_AD 疏解_VV 。_PU
+
+举例_NN 来说_LC ，_PU formula_NN __NN 7_CD 是_VC 一_CD 个_M 欠_VV 定线性_NN 系统_NN ，_PU 我们_PN 会_VV 有_VE 无限_JJ 多_CD 个_M 解_NN 可以_VV 满足_VV 这_DT 个_M 方程式_NN ，_PU 然而_AD 当_P 我们_PN 加入_VV 稀疏性_NN 的_DEG 特性_NN 之后_LC ，_PU 也就是说_AD formula_NN __NN 8_CD 之间_LC 只有_VV 一_CD 个_M 有_VE 值_NN ，_PU 另外_DT 一_CD 个_M 必定_VV 为_VC 0_CD ，_PU 我们_PN 就_AD 可以_VV 很_AD 轻易_VA 地_DEV 得到_VV 这_DT 个_M 欠定线性_NN 系统_NN 的_DEG 解_NN 为_VC formula_NN __NN 9_CD 或_CC 是_VC formula_NN
+
+从_P 下图_PN 我们_PN 可以_VV 轻易_VA 地_DEV 了解_VV ，_PU 当解_VV 具有_VV 稀_JJ 疏_NN 的_DEG 特性_NN 时_LC ，_PU 就_AD 可以_VV 从_P 欠定_JJ 线性_NN 系统_NN 有_VE 无_VE 限多_NN 组解_VV 的_DEC 情况_NN 变成_VV 可以_VV 利用_VV 最_AD 小平_JJ 方法_NN 找_VV 出解_VV 的_DEC 情况_NN 。_PU
+
+一_CD 个_M 向_P 量_NN 的_DEG 稀疏性_NN 可以_VV 被_SB 定义_VV 如下_VV ：_PU
+
+formula_NN
+
+也就是_AD 计算_VV 一_CD 个_M 向_P 量_NN 之中_LC 非_AD 零_CD 的_DEC 个数_NN ，_PU 举例_NN 来_MSP 说_VV ，_PU 如果_CS formula_NN __NN 12_CD ，_PU formula_NN
+
+formula_NN
+
+希望_VV 能_VV 在_P 非_AD 零_CD 个_M 数_NN 越_AD 少_VA 的_DEC 情况_NN 之下_LC ，_PU 找到_VV 最_AD 有_VE 可能_VV 的_DEC 解_NN 。_PU 然而_AD 在_P 实际_PN 中_LC ，_PU 最_AD 优化_VV L0_NN 范数_NN 是_VC 一_CD 个_M NP_NN 难_NN 的_DEC 问题_NN ，_PU 需要_VV 穷_JJ 举_NN s_NN 中_LC 非_AD 零_CD 值_NN 的_DEG 所有_DT 排列_NN 可能_VV ，_PU 因而_AD 无法_AD 求解_VV 。_PU 通常_AD 采取_VV 的_DEC 手段_NN 是_VC 对_P L1_NN 范数_NN 进行_VV 最优化_JJ 求解_NN ，_PU 优化_VV 目标_NN 则_AD 变为_VV ：_PU
+
+formula_NN
+
+或是_AD 使用_VV 匹配_JJ 追踪_NN 系列_NN 算法_NN 、_PU 迭代_NN 阈值法_NN 以及_CC 专门_JJ 处理_NN 二维图_NN 像_P 问题_NN 的_DEG 最_AD 小_JJ 全_DT 变_CD 分法_NN 等_ETC 求得次_NN 最_AD 优解_VV 的_DEC 算法_NN 进行_VV 计算_NN 。_PU
+
+有限_VA 等_ETC 距性质_NN (_PU RIP_NN )_PU 是_VC 压缩_NN 还原_CC 演_VV 算法_NN 中_LC 常常_AD 可以_VV 看见_VV 的_DEC 名词_NN ，_PU 主要_AD 可以_VV 被_SB 用来_VV 分析_VV 还原演_AD 算法_VV 的_DEC 表现_VV 好坏_VA 。_PU 其_PN 定义_NN 如下_VV ：_PU
+
+formula_NN
+
+其中_NN 的_DEG formula_NN __NN 17_CD 代_M 表传_VV 感矩阵_NN ，_PU formula_NN
+
+formula_NN
+
+因此_AD 整_DT 个_M 式子_NN 可以_VV 视为_P 信号_NN formula_NN __NN 20_CD 跟_P 传感_NN 矩阵_NN formula_NN __NN 17_CD 的_DEG 相似_JJ 程度_NN ，_PU 也就是_AD 做完_VV 转换_VV 后_LC 的_DEG 能量_NN ，_PU 要_VV 被_LB RIP_NN 限_VV 制住_VV ，_PU 而_CC RIP_NN 要求_NN formula_NN
+
+在_P 理论_NN 上_LC ，_PU 为了_P 确保_VV 信号_NN 重建_VV 的_DEC 准确度_NN ，_PU 需要_VV 令_VV 所_MSP 采用_VV 的_DEC 取样_NN 矩阵_NN 各_DT 行列_NN 之间_LC 相干性_JJ （_PU coherence_NN ）_PU 尽量_AD 地_DEV 低_VA ，_PU 且_CC 须_VV 矩阵_NN 元素_NN （_PU element_NN ）_PU 取值_VV 随机性_JJ 尽量_NN 地_AD 高_VA 。_PU
+
+相干性_JJ (coherence_NN )_PU 可以_VV 简单_AD 定义_VV 如下_VV ：_PU
+
+formula_NN
+
+也就是_AD 取样_JJ 矩阵_NN 任_VV 两_CD 个_M 相异_VV 的_DEC 行做_NN 内积_NN 后_LC ，_PU 取_VV 绝对_AD 值所_VV 产生_VV 的_DEC 最_AD 大_JJ 值_NN ，_PU 可以_VV 用来_VV 衡量_NN 信号_NN 重建_VV 的_DEC 準确度_NN 。_PU
+
+而_AD 目前_NT 对于_P 采样_JJ 矩阵_NN formula_NN
+formula_NN
+除了_P 上述_JJ 的_DEG 可能_NN ，_PU 现在_NT 也_AD 已经_AD 证实_VV 任何_DT 一_CD 个_M sub_NN -_PU gaussian_NN 的_DEG 分布_NN ，_PU 都_AD 可以_VV 成为_VV 一_CD 个_M 很_AD 好_VA 的_DEC 测量_NN 矩阵_NN ，_PU 也就是说_AD 具有_VV 很_AD 好_VA 的_DEC 还原_NN 效果_NN 。_PU
+
+而_AD 上述_JJ 矩阵_NN 之所_LC 以常_AD 被_SB 拿来_VV 使用_VV ，_PU 主要_AD 是_VC 因为_P 皆_AD 已经_AD 被_SB 验证_VV 具有_VV 高_JJ 机率_NN 性_NN 满足_VV 有_VE 限等距性_NN 质_VA ，_PU 也就是_AD 相干性_JJ 非常_AD 低_VA ，_PU 因此_AD 使用_VV 此_DT 方式_NN 进行_VV 讯号_NN 取样_VV 后_LC ，_PU 仍_AD 可_VV 确保_VV 在_P 信号_NN 具有_VV 足够_JJ 稀疏性_NN 的_DEC 前提_NN 下_LC 得到_VV 较_AD 佳_VA 的_DEC 压缩_NN 感知_VV 重建_NN 效果_NN 。_PU
+
+且_AD 当_P 使用_VV 上述_JJ 矩阵_NN 时_LC ，_PU 只要_JJ 讯号_NN x_NN 的_DEG 非_AD 零_CD 数目_NN 成_VV 下列_NN 关系_VV ，_PU 可以_VV 确保_VV 讯号倍_NN 被_SB 完美_VV 还_AD 原_VA 。_PU formula_NN
+
+但是_AD 在_P 上述_JJ 矩阵_NN 时_LC ，_PU 所_MSP 需要_VV 的_DEC 数据存_NN 储量_NN 过于_VV 庞大_AD ——_PU 每_DT 个_M 矩阵_NN 元素_NN 都_AD 要_VV 单独_AD 记录_VV ，_PU 且_CC 数据_NN 类型_NN 一般_AD 为_VC 浮点数_NN ——_PU 这就_AD 促进_VV 了_AS 简化_JJ 取样_NN 矩阵_NN 的_DEC 研究_NN ；_PU 目前_NT 被_SB 提出_VV 的_DEC 简化_NN 取样_NN 矩阵_NN 主要_AD 包括_VV 两_CD 种_M ：_PU 结构_NN 简化_VV 采样_NN 矩阵_NN 与_CC 数值_NN 简化_VV 采样_NN 矩阵_NN 。_PU
+
+目前_NT 较_AD 常_AD 被_SB 使用_VV 的_DEC 两_CD 种_M 结构_NN 简化_VV 采样_NN 矩阵_NN 为_VC 循环_NN 矩阵_NN 与_CC 常_AD 对_P 角矩阵_NN
+
+循环_NN 矩阵_NN 的_DEG 形式_NN 为_VC 下式_NN ：_PU
+
+formula_NN
+
+常_AD 对_P 角矩阵_NN 的_DEG 形式_NN 为_VC 下式_NN ：_PU
+
+formula_NN
+
+其中_NN formula_NN
+
+可以_VV 发现_VV 到_VV ，_PU 若_CS 采用_VV 循环_NN 矩阵_NN 作为_P 测量_NN 矩阵_NN 的话_LC ，_PU 我们_PN 只_AD 需要_VV 存取_VV 一_CD 列_M 的_DEG 矩阵_NN 元素_NN ；_PU 相反_VA 地_DEV ，_PU 若_CS 使用_VV 常_AD 对_P 角矩阵_NN ，_PU 除了_P 第一_OD 列_M 的_DEG 矩阵_NN 元素_NN 外_LC ，_PU 需要_VV 额外_AD 储存_VV 第一_OD 行_M 的_DEG 矩阵_NN 元素_NN 。_PU
+
+但是_AD 经过_P 实验_NN 发现_VV ，_PU 常_AD 对_P 角矩阵_NN 的_DEG 相干_JJ 性_NN 是_VC 低于_P 循环_NN 矩阵_NN 的_SP ，_PU 因此_AD 使用者_NN 可以_VV 依据_P 自己_PN 的_DEG 使用_NN 环境_NN ，_PU 来_MSP 找到_VV 一_CD 个_M 平衡点_NN 。_PU
+
+采用_VV 这_DT 两_CD 种_M 矩阵_NN 进行_VV 压缩_NN 感知_VV 取样_VA 时_LC ，_PU 可以_VV 大幅_AD 降低_VV 储存_NN 成本_NN ，_PU 也_AD 为_P 此_PN 算法_VV 的_DEC 前端_NN 传感器_NN 大幅_AD 降低_VV 实现_VV 门槛_NN 。_PU
+
+数值_NN 简化_NN 采样_NN 矩阵_NN 普遍_NN 将_BA 原有_JJ 的_DEG 、_PU 按照_P 高斯_JJ 分布_NN 随机_AD 取值_VV 的_DEC 采样_NN 矩阵_NN 元素_NN 以_P 数值_NN 上_LC 更为_AD 简单_VA 的_DEC 元素_NN 取代_VV ，_PU 但_AD 在_P 分布_VV 上_LC 维持_VV 矩阵_NN 元素_NN 的_DEG 分布_NN 随_P 机性_NN ——_PU 即_AD 缩减_VV 了_AS 储存_VV 浮点_NN 数_CD 这_DT 一_CD 方面_NN 的_DEG 成本_NN 。_PU
+
+一_CD 种_M 较为_JJ 基本_NN 的_DEG 数值_NN 简化_VV 采样_NN 矩阵_NN 是_VC 0_CD -_PU 1伯_CD 努利_NN 矩阵_NN ，_PU 其中_NN 的_DEG 元素_NN 仅_AD 有_VE 0_CD 和_CC 1两_CD 种_M ，_PU 分布_VV 模式_NN 为_VC 相同_VA 独立_VA 的_DEC 伯_NN 努_CC 利_NN 分布_NN （_PU identicalindependentBernoullidistribution_NN ）_PU 。_PU
+
+对于_P 每_DT 一_CD 个_M 矩阵_NN 元素_NN ，_PU 该_DT 分布_NN 的_DEG 概率_NN 质量_NN 函数_NN formulaformula_NN
+
+压缩_NN 感知_VV 利用_VV 了_AS 很多_CD 信号_NN 中_LC 所_MSP 存在_VV 的_DEC 冗余_NN （_PU 换言之_AD ，_PU 这些_DT 信号_NN 并_AD 非_AD 完全_AD 是_VC 噪声_NN ）_PU 。_PU 具体_JJ 而言_NN ，_PU 很多_CD 信号_NN 都_AD 是_VC “_PU 稀疏_NR ”_PU 的_DEC ；_PU 在_P 适当_VA 的_DEC 表示域_NN 中_LC ，_PU 它们_PN 的_DEG 很多_NN 系数_NN 都_AD 是_VC 等于_VV 或_CC 约_AD 等于_VV 零_CD 。_PU
+
+在_P 信号_NN 获取_VV 阶段_NN ，_PU 压缩_NN 感知_VV 在_P 信号_NN 并_AD 不_AD 稀疏_VA 的_DEC 域对_NN 信号_NN 进行_VV 线性_JJ 测量_NN 。_PU
+
+为了_P 从_P 线性_JJ 测量_NN 中_LC 重_AD 构出_VV 原来_VA 的_DEC 信号_NN ，_PU 压缩_VV 感知_NN 求解_VV 一_CD 个_M 称为_VV L1_NN -_PU 范数_NN 正_AD 则_AD 化_VA 的_DEC 最_AD 小_JJ 二_CD 乘_NN 问题_NN 。_PU 从_P 理论_NN 上_LC 可以_VV 证明_VV ，_PU 在_P 某些_DT 条件_NN 下_LC ，_PU 这_DT 个_M 正则化_NN 最_AD 小_VA 二_CD 乘_VV 问题_NN 的_DEC 解正_NN 是_VC 原_JJ 欠定线性_NN 系统_NN 的_DEG 稀_JJ 疏解_NN 。_PU
+
+基追踪_NN （_PU basispursuit_NN ）_PU 是_VC 一_CD 种_M 信号_NN 重建_NN 演算法_NN ，_PU 被_SB 广泛_VA 地_DEV 用于_VV 压缩_VV 感知_NN 领域_NN ，_PU 属于_VV 数学_NN 最_AD 优化_VV 问题_NN 的_DEC 范畴_NN ，_PU 形式_NN 为_VC formula_NN
+
+其中_NN s_NN 是_VC n×_NN 1_CD 向_P 量_NN ，_PU 表示_VV 输出_NN （_PU 信号_NN ）_PU ，_PU "_PU y_NN "_PU 是_VC m_CD ×_PU 1_CD 的_DEG 测量_NN 向_VV 量_NN ，_PU "_PU H_NN "_PU 是_VC "_PU m_NN "_PU ×_NN n_NN 的_DEC “_PU 转换_NN 矩阵_NN ”_PU 或_CC 称作_VV “_PU 测量_VV 矩阵_NN ”_PU ，_PU 其中_NN "_PU M_NN "_PU  _NN <_PU  _NN "_PU N_CD "_PU 。_PU
+
+基追踪_NN 常_AD 在_P 需要_VV 完美_AD 满足_VV 欠定_JJ 线性_NN 方程组_NN 系统_NN 中_LC formula_NN
+
+若_CS 应用_VV 情景_NN 允许_VV 降低_VV 对_P 完美_NN 恢复_VV 的_DEC 要求_NN ，_PU 以_MSP 换取_VV 更加_AD 稀疏_VV 的_DEC 解_NN "_PU s_NN "_PU ，_PU 降噪基_NN 追踪_NN （_PU basispursuitdenoising_NN ）_PU 更为_AD 适用_VV 。_PU
+
+匹配_JJ 追踪_NN （_PU Matchingpursuit_NN ）_PU 是_VC 一_CD 种_M 稀_JJ 疏_NN 近似_AD 运算_VV ，_PU 旨在_AD 找到_VV 多维_JJ 数据_NN 在_P 某_DT 个_M 超完_JJ 备字典_NN （_PU dictionary_NN ）_PU formula_NN __NN 37_CD 上_LC 映射_VV 的_DEC “_PU 最佳_JJ 匹配_NN ”_PU 。_PU 其_PN 基本_JJ 的_DEG 概念_NN 就_AD 是_VC 要_VV 用来自_VV formula_NN __NN 37_CD 的_DEC 函数组_NN formula_NN __NN 39_CD （_PU 称为_P 基元_NN ，_PU 或_CC atom_NN ）_PU 的_DEG 加权_NN 和_CC 来_MSP 表示_VV 希尔_NN 伯_NN 特_CC 空间_NN formula_NN __NN 40_CD 上_LC 的_DEC 信号_NN formula_NN
+
+formula_NN
+
+其中_NN formula_NN __NN 43_CD 表示_VV 被_SB 选取_VV 基元_NN 的_DEC 序数_NN ，_PU formula_NN
+
+相较_AD 而言_VV ，_PU 以_P 傅里叶_NN 级数_NN 表示_VV 的_DEC 信号_NN 来说_LC ，_PU 字典_NN 是_VC 构建_VV 于_P 正弦基_NN 函数_NN 之上_LC 的_DEC 。_PU 信号_NN 处理_NN 领域_NN 中_LC 傅_DEG 里_DT 叶_NN 分析_VV 的_DEC 主要_JJ 缺点_NN 就_AD 在于_VV 它_PN 只_AD 能_VV 提取_VV 出_VV 信号_NN 中_LC 常存_VV 的_DEC 特征_NN ，_PU 而_CC 不_AD 能_VV 适应_VV 当前_NT 的_DEG 分析_NN 目标_NN 信号_NN formula_NN
+若_CS 采用_VV 一_CD 组_M 极端_NN 保险_NN 、_PU 带有_VV 大量_NN 冗余_VV 的_DEC 字典_NN ，_PU 我们_PN 就_AD 能够_VV 找到_VV 可以_VV 完美_VV 匹配_NN 信号_NN 的_DEC formula_NN
+
+正_AD 交匹_NN 配追踪_NN (_PU OrthogonalMatchingPursuit_NN )_PU 是_VC 匹配_NN 追踪_NN 的_DEC 特殊_JJ 形式_NN ，_PU 正_AD 交匹_NN 配追踪_NN 的_DEC 算法_NN 与_CC 匹配_JJ 追踪_NN 相同_VA ，_PU 但是_AD 正_AD 交_VV 匹配_VV 追踪_NN 不_AD 会_VV 重复_VV 使用_VV 同_DT 一_CD 个_M 基元_NN 来_MSP 进行_VV 匹配_NN ，_PU 因此_AD 会_VV 比_P 匹配_JJ 追踪_NN 更快_AD 收敛_VV 。_PU
+
+迭代_JJ 阈值_NN 算法_NN (_PU IterativeShrinkage-ThresholdingAlgorithm)_PU 是_VC 上述_JJ 基_NN 於_P 贪婪_NN 演_VV 算法_NN (_PU GreedyAlgorithm)_NN 之_DEG 匹配_JJ 追踪_NN 与_CC 正交匹_NN 配追踪_NN 的_DEC 替代_NN 算法_NN ，_PU 迭代_JJ 算法_NN 主要_AD 是_VC 透过_P 不断_VV 的_DEC 投影_NN 和_CC 取阈值_NN 来_MSP 进行_VV 收敛_NN ，_PU 而_CC 他_PN 在_P 每_DT 次_M 迭代_NN 中_LC ，_PU 都_AD 还_AD 可以_VV 进行_VV 其他_DT 优化例_NN 如_P :_PU Wigener_NN 滤波_NN ，_PU 不仅_AD 可以_VV 降低_VV 运算_NN 复杂_VA 度_SP ，_PU 也_AD 可以_VV 提高_VV 还原_NN 品质_NN 。_PU
+
+正_AD 交匹_NN 配追踪_NN 是_VC 一_CD 个_M 用来_VV 解决_VV 压缩_NN 感知_VV 问题_NN 的_DEC 演算法_NN ，_PU 在_P 一定_JJ 的_DEG 复杂度_NN 之下_LC 有_VE 不_AD 错_VA 的_DEV 表现_VV ，_PU 他_PN 背后_AD 最_AD 主要_VA 的_DEC 想法_NN 是_VC 源自_VV 於_P 贪婪_NN 演_VV 算法_NN (_PU GreedyAlgorithm_NN )_PU ，_PU 以下_JJ 将_BA 逐步_JJ 解说_NN 。_PU
+
+首先_AD 这_DT 个_M 问题_NN 被_SB 定义_VV 为_VC ：_PU y_NN =_NN Ax_NN ，_PU 目标_NN 是_VC 要_VV 借由_VV 已_AD 知_VV 的_DEC y向量_NN 、_PU A_NN 矩阵_NN ，_PU 来_MSP 还原_VV x向量_NN ，_PU 他_PN 会_VV 利用_VV 叠代_NN 的_DEC 方式_NN ，_PU 逐步_NN 找出_VV x向量_NN 当_NN 中_LC 最_AD 有_VE 可能_NN 是_VC 非_AD 零_CD 的_DEC 位置_NN 。_PU
+
+一开始_AD 会_VV 有_VE 一_CD 个_M 空_JJ 集合_NN formula_NN __NN 47_CD ，_PU 以及_CC 剩余_VV 的_DEC 部分_NN formula_NN __NN 48_CD ，_PU 每_DT 次_M 叠代_NN 都_AD 会_VV 从_P formula_NN __NN 49_CD 找出_VV 一_CD 个_M A_NN 矩阵_NN 投影_VV 到_VV 剩余_NN formula_NN __NN 50_CD 有_VE 最_AD 大值_VA 的_DEC 位置_NN ，_PU 把_BA 这_DT 个_M 位置_NN 加到_VV formula_NN __NN 51_CD 之中_LC ，_PU 并_CC 从_P formula_NN __NN 52_CD 当中_LC 移除_VV ，_PU 最后_AD 再_AD 更新_AD 剩余_VV formulaOrthogonalMatchingPursuit_NR ,_PU ROMP_NN ）_PU 算法_NN 对于_P 所有_DT 满足_VV 约束_PN 等_ETC 距性_NN 条件_NN 的_DEC 矩阵_NN 和_CC 所有_DT 稀疏_NN 信号_NN 进行_VV 重构_NN 。_PU 之后_LC ，_PU 引入_VV 回溯_NN 思想_VV 的_DEC 压缩_NN 采样_VV 匹配_JJ 追踪_NN （_PU CompressiveSamplingMatchingPursuit_NR ,_PU CoSaMP_NN ）_PU 算法_NN 被_SB 提出_VV 。_PU
+
+在_P 实际_JJ 应用_NN 中_LC ，_PU 稀疏_NN 信号_NN 非_AD 零_CD 元素_NN 个数_NN K_NN 往往_AD 是_VC 未知_VA 的_DEC ，_PU 而_CC 上述_JJ 的_DEG 匹配_JJ 追踪_NN 算法_NN 都_AD 是_VC 建立_VV 在_P 稀疏度_NN K_NN 已_AD 知_VV 的_DEC 基础_NN 上_LC ，_PU 因此_AD 出现_VV 了_AS 对_P K_NN 自_MSP 适应_VV 的_DEC 稀_JJ 疏_NN 自_P 适应_JJ 匹配_NN 追踪_NN （_PU Sparsi_JJ tyAdaptiveMatchingPursuit_NN ,_PU SAMP_NN ）_PU 算法_NN ，_PU 它_PN 通过_P 固定_JJ 步长_NN 来_MSP 逐步_AD 逼近_VV 进行_VV 重建_NN ，_PU 可以_VV 在_P 稀疏度_NN K_NN 未_AD 知_VV 的_DEC 情况_NN 下_LC 获得_VV 较_AD 好_VA 的_DEC 重建_NN 效果_NN 。_PU
+
+迭代_JJ 阈值_NN 算法_NN 是_VC 从_P RelaxationMethod_NN 启发_VV 而_MSP 来_VV ，_PU RelaxationMethod_NN 是_VC 用于_VV 解决_VV 具有_VV 稀疏性_NN 的_DEG 线性_NN 系统_NN 。_PU
+
+在_P 迭_JJ 代阈值_NN 算法_NN 中_LC ，_PU 问题_NN 一样_AD 是_VC 被_SB 定义_VV 为_VC ：_PU formula_NN __NN 54_CD 而_CC 在_P 此_DT 算法_NN 中_LC ，_PU 每_DT 一_CD 次_M 的_DEG 迭代_NN 主要_AD 分成_VV 两_CD 部分_NN ：_PU 1_CD 、_PU 寻找_VV 新_VA 的_DEC 解_VV formula_NN __NN 55_CD 。_PU 2_CD 、_PU 更_AD 新残值_NN formula_NN
+
+第一_OD 阶段_NN ，_PU 主要_AD 是_VC 利用_VV 投影_NN 的_DEC 方式_NN 找到_VV 更_AD 新_VA 的_DEC 向_P 量_NN 方向_NN ，_PU 再_AD 透过_VV 取阈值_NN 的_DEC 方式_NN 来_MSP 进行_VV 优化_NN 。_PU formula_NN __NN 57_CD 而_CC formulaparameter_NN ，_PU 且_CC formula_NN
+
+而_AD formulafunction_NR )_ETC ，_PU 主要_AD 就_AD 是_VC 为了_P 使_VV 迭代_VV 的_DEC 过程_NN 中_LC ，_PU 逐渐_AD 逼近_VV 具有_VV 稀疏性_NN 性质_NN 的_DEC 解_NN ，_PU 而_CC 目前_NT 主要_AD 有_VE 两_CD 大_JJ 类取_NN 阈值_NN 的_DEC 方式_NN ：_PU 硬阈值_NN 函数_NN (_PU H_CD ardThresholdingFunction_VV )_PU 与_P 软阈值_NN 函数_NN (_PU S_CD oftThresholdingFunction_M )_PU 。_PU
+
+硬阈值_NN 函数_NN 就_AD 是_VC 将_BA 小于_VV 阈值_NN (_PU thr)_NN 的_DEG 解_NN ，_PU 一_CD 律通_AD 通过_P 滤成_NN 0_CD 。_PU formula_NN __NN 61_CD 而_CC 软阈值_NN 函数_NN 则_AD 是_VC 使用_VV 较为_AD 平滑_VV 的_DEC 方式_NN ，_PU 将_AD 值_VV 逼近于_VV 稀疏性_JJ 的_DEG 解_VV formula_NN __NN 62_CD ，_PU 而_CC formula_NN __NN 63_CD 是_VC 而_CC 第二_OD 阶段_NN ，_PU 则_AD 是_VC 利用_VV 新_JJ 算_VV 出来_VV 的_DEC formula_NN __NN 55_CD 来_MSP 进行_VV 残差_NN 更新_VV 。_PU formula_NN
+
+而_AD 此_DT 算法_NN 是_VC Landweberiteration_NN 的_DEG 变形_NN ，_PU 若_CS 我们_PN 没有_VV 加入_VV 阈值_NN 函数_NN 的话_LC ，_PU 就_AD 会_VV 收敛_VV 到_VV formula_NN
+
+压缩_NN 感知_VV 还原_NN 演算法_NN 包括_VV 整_DT 个_M 压缩_NN 感知_NN 都_AD 是_VC 建立_VV 在_P 信号_NN 有_VE 稀疏_JJ 性_NN 上_LC ，_PU 但是_AD 并_AD 不_AD 是_VC 所有_DT 的_DEG 信号_NN 都_AD 天然_AD 具有_VV 稀疏性_NN ，_PU 例_NN :_PU 声音_NN 。_PU 那么_AD 是否_AD 不_AD 具有_VV 稀疏性_NN 的_DEC 信号_NN 就_AD 不_AD 能_VV 使用_VV 压缩_NN 感知呢_NN ？_PU 答案_NN 为_VC 并_CC 不_AD 是_VC ，_PU 天然_AD 不_AD 具有_VV 稀疏性_JJ 的_DEG 信号_NN 还_AD 是_VC 能够_VV 使用_VV 压缩_NN 感知_VV ，_PU 只_AD 需要_VV 把_BA 该_DT 信号_NN 投影_VV 到_VV 其他_DT 空间_NN ，_PU 其他_DT 该_DT 信号_NN 有_VE 稀疏性_JJ 的_DEG 空间_NN 下_LC ，_PU 压缩_NN 感知_VV 就_AD 可_VV 直接_AD 使用_VV 在_P 该_DT 投影_NN 空间_NN 上_LC 。_PU 可以_VV 被_SB 定义_VV 如下_VV ：_PU
+
+formula_NN
+
+s_CD :_PU 要_VV 被_SB 重建_VV 的_DEC 讯号_NN (_PU 原_JJ 信号_NN )_PU ；_PU ψ_CD :_PU 投影_NN 矩阵_VV ，_PU 把_BA 非_AD 稀疏性_JJ 信号_NN 投影_VV 到_VV 稀疏性_NN 空间_NN ；_PU z_CD :_PU 非_AD 零_CD 项_M 远小于_VV 零_CD 项_M
+
+故_AD 原_JJ 压缩_NN 感知_VV 公式_NN 定义_VV 也_AD 随之_AD 改变_VV ：_PU
+
+formula_NN
+
+所以_AD 可以_VV 把_BA formula_NN
+
+至於_AD formula_NN ,_PU 离散_NN 小波_NN 变换_NN (_PU DWT_NN )_PU ，_PU 字典_NN 学习_VV (_PU Dictio_VV naryLearning)_NR 等_ETC 。_PU
+
+利用_VV 信号_NN 经过_P 这_DT 两_CD 种_M 变换_NN 后_LC 都_AD 会_VV 有_VE 稀疏性_NN 的_DEG 特性_NN ，_PU 把_BA 这_DT 两_CD 种_M 变换_NN 变成_VV 矩阵_NN 形式_NN ，_PU 让_VV 信号_NN 直接_AD 投影_VV 到_VV 具有_VV 稀疏性_JJ 的_DEG 空间_NN 上_LC 。_PU
+
+好_VA 处_NN
+
+
+坏处_NR
+
+
+顾_OD 名_M 思义_NN 即_AD 把_BA formula_NN __NN 70_CD 当作_P 一_CD 本_DT 要_VV 学习_VV 的_DEC 字典_NN ，_PU 不断的_AD 利用_VV 该_DT 信号_NN 和_CC 还原_JJ 演算法_NN 后_LC 的_DEG 结果_NN 做_VV 字典_NN 的_DEC 更_AD 新_VA ，_PU 直到_VV 找到_VV 一_CD 个_M formula_NN
+
+字典_NN 学习_VV 的_DEC 流程_NN ：_PU
+
+
+字典_NN 学习_VV 的_DEC 演算法_NN 有_VE 很多_VA ，_PU 较为_AD 常用_VV 的_DEC 有_VE Methodofoptimaldirections_NN (_PU MOD_NN )_NN 。_PU
+
+好_VA 处_NN
+
+
+坏处_NR
+
+
+压缩_NN 感知_VV 与_CC 包括_VV 欠定_NN 系统_NN 、_PU 群验_NN 、_PU 稀疏_NN 编码_VV 、_PU 复_AD 用_P 、_PU 稀疏_NR 采样_VV 等_ETC 。_PU 在_P 成像_VV 科技_NR 领域_NN ，_PU 亦_AD 有_VE 许多_CD 技术_NN 如_P （_PU 编码孔_NN 与_P 计算_NN 摄影学_VV ）_PU 与_CC 压缩_NN 感知_VV 相关_JJ 。_PU 亦_AD 有_VE 许多_CD 在_P 不同_JJ 技术_NN 完成度_NN 下_LC 将_BA 压缩感知_VV 实现_VV 的_DEC 案例_NN 。_PU
+
+压缩_VV 感知_NN 技术_NN 被_SB 用于_VV 手机_NN 摄像头_NN 传感器_NN 设计_NN 中_LC 。_PU 这_DT 一_CD 技术_NN 使得_VV 在_P 获取_VV 图像_NN 时_LC 所_MSP 耗费_VV 的_DEC 能量_NN 大大_AD 降低_VV ，_PU 可_VV 达_VV 原先_AD 耗费_VV 的_DEC 15_CD 分之_M 一_CD ——_PU 当然_AD ，_PU 需要_VV 引入_VV 复杂_VA 的_DEC 解压_NN 算法_VV ；_PU 这_DT 一_CD 运算_NN 可能_VV 会_VV 需要_VV 脱_VV 机_NN 状态_NN 下_LC 的_DEG 预先_AD 安装_VV 、_PU 设置_VV 。_PU
+
+压缩_NN 感知_VV 亦_AD 被_SB 用于_VV 实现_VV 单_AD 像_P 素_AD 摄影_VV 。_PU 贝尔_NN 实验室_NN 运用_VV 了_AS 这_DT 一_CD 技术_NN ，_PU 用_P 无镜片_NN 单_CC 像素_NN 相机_VV 在_P 栅格_NN 中_LC 随机_AD 选取_VV 的_DEC 孔隙_NN 处_NN 拍照_VV ，_PU 以_MSP 达到_VV 成像_NN 效果_NN 。_PU 随着_AD 拍照_VV 次数_NN 的_DEG 逐渐_NN 增多_VV ，_PU 照片_AD 质量_NN 也_AD 会_VV 逐步_AD 提高_VV ；_PU 一般来说_AD ，_PU 这_DT 种_M 技术_NN 较之_AD 传统_VA 的_DEC 摄影_NN 成像_VV 技术_NN 仅仅_AD 需要_VV 一_CD 小_JJ 部分_NN 的_DEG 数据_NN 占用_VV 量_NN ，_PU 且_CC 能_VV 完全_AD 避免_VV 与_P 镜片_NN 或_CC 聚焦_NN 相关_JJ 的_DEG 故障_NN 或_CC 失常_VV ；_PU 参见_VV 。_PU
+
+压缩_NN 感知_VV 可_VV 被_SB 用于_VV 增加_VV 通过_P 单幅_JJ 全息图_NN 中_LC 所_MSP 能_VV 得到_VV 的_DEC 立体_JJ 像素_NN 的_DEG 数量_NN 改进_VV 全息_PN 摄影_VV 技术_NN 中_LC 的_DEG 图_NN 像重_CC 建_VV 问题_NN 。_PU 在_P 光学_NN 全息图_NN 或_CC 毫米波全_AD 息图采_VV 样率_NN 不足_VA 的_DEC 情况_NN 下_LC ，_PU 这_DT 一_CD 技术_NN 也_AD 能够_VV 被_SB 用于_VV 图像_VV 检索_VV 以_MSP 作出_VV 改善_VV 。_PU
+
+压缩_NN 感知_VV 目前_NT 被_SB 用于_VV 面部_NN 识别_VV 应用_NN 之中_LC ，_PU 参见_VV EngineersTestHighlyAccurateFaceRecognition_NN 。_PU
+
+压缩_VV 感知_NN 也_AD 被_SB 应用_VV 在_P 医疗_NN 影像_NN 上_LC ，_PU 特別_NN 是_VC 核磁_NN 共振_AD 成像_VV (_PU MagneticResonanceImaging_NN ,_PU MRI_NN )_PU ，_PU 具有_VV 稀_JJ 疏_NN 的_DEG 特性_NN ，_PU 因此_AD 能_VV 使用_VV 压缩_NN 感知_VV 的_DEC 技术_NN 。_PU 在_P 过去核_NN 磁共振_NN 成像_VV 会_VV 因为_P 物理学_NN 、_PU 生理学_NN 上_LC 的_DEG 限制_NN ，_PU 而_CC 有_VE 扫描_NN 时间_NN 较_AD 长_VA 的_DEC 问题_NN ，_PU 如今_AD 压缩_VV 感知_VV 利用_VV 核磁_NN 共_AD 振成_VV 像_P 具有_VV 的_DEC 稀疏_JJ 特性_NN ，_PU 来_MSP 改善_VV 成_VV 像品质_NN 以及_CC 降低_VV 所_MSP 需_VV 要量_NN 测_VV 数量_NN ，_PU 能_VV 有效_AD 缩短_VV 核_JJ 磁共振_NN 的_DEC 扫描_NN 时间_NN ，_PU 近期_AD 相关_VV 的_DEC 压缩_NN 感知_VV 演_VV 算法_NN 也_AD 被_SB 广为_AD 讨论_VV ，_PU 可以_VV 参见_VV 、_PU 与_CC ，_PU 其中_NN 涉及_VV 的_DEC 重建_NN 方法_NN 包括_VV ISTA_NN 、_PU FISTA_NN 、_PU SISTA_NN 等_ETC 。_PU
+
+一般来说_AD 地_DEV 震成_VV 像_VV 既_CC 不_AD 稀_VV 疏_NN ，_PU 也_CC 不_AD 可_VV 压缩_VV ，_PU 具有_VV 高_JJ 维度_NN 、_PU 大_JJ 面积_NN 的_DEG 特性_NN ，_PU 因此_AD 会_VV 耗费_VV 大量_CD 的_DEG 量_NN 测_VV 以及_CC 运算_NN 时间_NN ，_PU 所以_AD 希望_VV 能_VV 降低_VV 取样_NN 的_DEC 次数_NN ，_PU 同时_AD 能_VV 保有_VV 原本_JJ 的_DEG 品质_NN 。_PU 因此_AD 有_VE 人_NN 利用_VV 压缩_NN 感知_NN 技术_NN 将_BA 取样_VA 以及_CC 编码_NN 同时_AD 进行_VV ，_PU 来_MSP 达到_VV 降低_VV 维度_NN 的_DEC 目的_NN ，_PU 最后_AD 再_AD 透过_VV 压缩_NN 感知_VV 的_DEC 还原_NN 演算法_NN 进行_VV 还原_NN ，_PU 可以_VV 参考_VV 。_PU
+
+在_P 通讯_NN 系统_NN 当_NN 中_LC 会_VV 遇到_VV 高频_NN 宽_VA 的_DEC 问题_NN ，_PU 因此_AD 会_VV 需要_VV 较_AD 高_VA 的_DEC 取样_NN 频率_NN ，_PU 然而_CC 其_PN 中_LC 的_DEG 信号_NN 可_VV 能_VV 含有_VV 的_DEC 资讯_NN 是_VC 远小于_VV 频宽_VA 的_DEC ，_PU 因此_AD 就_AD 会_VV 浪费_VV 软_VA 、_PU 硬体_NN 的_DEC 资源_NN 来_MSP 进行_VV 取样_NN 。_PU 所以_AD 有_VE 人_NN 提出_VV 用_P 类比_NN 信息_NN 转换_NN (_PU Analog_NN -_PU to_NN -_PU InformationConverter_NN ,_PU AIC_NN )_PU 取代_VV 类比_JJ 数位_NN 转换_NN (_PU Analog_NN -_PU to_NN -_PU DigitalConverter_NN ,_PU ADC_NN )_PU ，_PU 利用_VV 随_P 机解调_NN (_PU RandomDemodulation_NN )_PU 的_DEG 方式_NN ，_PU 来_MSP 降低_VV 所_MSP 需_VV 要_VV 的_DEC 取样_VA 次数_NN ，_PU 对于_P 在_P 时频_NN 上_LC 有_VE 稀_NN 疏_NN 特性_NN 、_PU 宽带_NN 的_DEC 信号_NN 特_AD 別_AD 适合_VV ，_PU 可以_VV 参考_VV 。_PU
+
+压缩_NN 感知_VV 在_P 被_SB 用于_VV 旨在_VV 利于_VV 网络_NN 管理_NN 的_DEC 网络_NN 诊断_NN 应用_NN 中_LC 时_LC 带来_VV 了_AS 极佳_JJ 成效_NN 。_PU 对_P 网络_NN 延_NN 时_LC 的_DEG 估计_NN 和_CC 网络_NN 拥塞_NN 的_DEG 探知_NN 均_AD 可_VV 被_SB 归纳_VV 、_PU 建模_VV 为_VC 非定性_JJ 的_DEG 线性_JJ 方程组_NN 系统_NN ，_PU 其中_NN 的_DEG 参数_NN 矩阵_NN 正_AD 是_VC 所_MSP 分析_VV 网络_NN 的_DEC 路_NN 由_P 选择_NN 矩阵_NN 。_PU 此外_AD ，_PU 在_P 互联网_NN 情景_NN 中_LC ，_PU 网络路_NN 由_P 矩阵_NN 常常_AD 能够_VV 满足_VV 压缩_NN 感知_NN 技术_NN 所_MSP 要求_VV 的_DEC 几_CD 个_M 基本_AD 要素_NN ：_PU 低_CD 相关_NN 性_NN 、_PU 稀疏性_NN 及_CC （_PU 可能_VV 的_DEC ）_PU R_NN ._PU I.P_NN 条件_NN ，_PU 请_VV 参见_VV 。_PU
+
+目前_NT ，_PU 基于_P 压缩_VV 感知_NN 技术_NN 的_DEC 商用_JJ 短_JJ 红外_NN 相机_JJ 已_AD 被_SB 推出_VV 。_PU 这些_DT 相机_NN 的_DEC 光敏度_JJ 大_JJ 约从_NN 0_CD ._PU 9_CD µ_M m_NN 到_VV 1.7_CD µm_M ，_PU 在_P 上述_JJ 波段_NN 上_LC ，_PU 人类_NN 的_DEG 肉眼_NN 是_VC 无效_VA 的_DEC 。_PU
+
+随着_P 通讯_NN 要求_NN 的_DEC 频宽_NN 越来越_AD 大_VA ，_PU 因此_AD 可用_VV 的_DEC 频带_NN 从_P 微波_NN (_PU Microwave_NN )_PU 转到_VV 毫米波_M (_PU mmWave_NN )_PU 的_DEG 频段_NN ，_PU 虽然_CS 可用_VV 的_DEC 频宽_NN 增加_VV ，_PU 然而_AD 会_VV 受到_VV 更_AD 严重_VA 的_DEC 通道_NN 衰减_VV ，_PU 所以_AD 波束成型_VV 的_DEC 技术_NN 被_SB 提出_VV ，_PU 结合_VV 天线_NN 阵列_NN 来_MSP 对抗_VV 通道_NN 衰减_VV 的_DEC 效应_NN 。_PU 然而_CC 大量_CD 的_DEG 天线_NN 阵列_NN 会_VV 使得_VV 做_VV 通道_NN 估测_VV 的_DEC 复杂度_NN 上升_VV ，_PU 传统_JJ 的_DEG 做法_NN 是_VC 使用_VV 最_AD 小平_JJ 方法_NN (_PU LeastSquare_NN ,_PU LS)_NN 来_MSP 进行_VV 通道_NN 估测_VV ，_PU 不过_AD 有_VE 人_NN 发现_VV 通道_NN 具有_VV 稀_JJ 疏_NN 的_DEG 特性_NN ，_PU 因此_AD 提出_VV 了_AS 利用_VV 压缩_NN 感知_VV 的_DEC 技术_NN ，_PU 进行_VV 压缩_NN 通道_NN 估测_NN (_PU CompressedChannelEstimation_NN ,_PU CCS_NN )_NN ，_PU 相_AD 较_AD 最_AD 小平_VA 方法_NN ，_PU 不仅_AD 复杂_VA 度_DEV 降低_VV ，_PU 还_AD 能_VV 达到_VV 更_AD 低_VA 的_DEC 错误率_NN 以及_CC 延迟性_NN 。_PU
+
+利用_VV 压缩_NN 感知_VV 理论_NN 可以_VV 恢复_VV 出_VV 稀疏_NN 信号_NN 的_DEG 特性_NN ，_PU 压缩_NN 感知_VV 理论_NN 被_SB 广泛_AD 应用于_VV 波达_NN 方向_NN 估计_VV (_PU Direction_VV ofArrival_NR ,_PU DOA_NR )_NN 中_LC 。_PU 基于_P 压缩_VV 感知_VV 的_DEC 波达_NN 方向_NN 估计_VV 中_LC 将_BA 信号_NN 源矩阵_NN 看作_VV 是_VC 一_CD 个_M 稀疏_NN 矩阵_NN ，_PU 在_P 已_AD 知采_VV 样矩阵_NN 和_CC 阵列_NN 流形_NN 矩阵_NN 为_VC 前提_NN 下_LC ，_PU 对_P 稀疏_NN 信号_NN 源矩阵_NN 进行_VV 重构_NN 以_MSP 获得_VV 被_SB 测量_VV 信号源_NN 的_DEG 波达_NN 方向_NN 。_PU 使用_VV 这_DT 种_M 方法_NN ，_PU 不仅_AD 避免_VV 了_AS 传统_JJ 波达_NN 方向_NN 估计_VV 中_LC 需要_VV 计算_VV 复杂_JJ 协方_NN 差_VA 矩阵_VA 的_DEC 步骤_NN ，_PU 同时_AD 还_AD 对_P 空间_NN 中_LC 的_DEG 相干_JJ 信号_NN 源_NN 有着_P 很_AD 好_VA 的_DEC 性能_NN 。_PU
+
+在_P 物联网_NN 的_DEG 情境_NN 之下_LC ，_PU 装置_NN 的_DEG 数量_NN 会_VV 大幅_AD 增加_VV ，_PU 然而_AD 因为_P 资源_NN 有限_VA ，_PU 所以_AD 用来_VV 辨_VV 別_NN 装置_NN 的_DEC 展频码_NN (_PU m_CD )_PU 会少于_VV 装置_NN 的_DEG 数量_NN (_PU n_NN )_PU ，_PU 因此_AD 会_VV 使得_VV 整_DT 个_M 系统_NN 变成_VV 欠定_VV 的_DEC 线性_NN 系统_NN ，_PU 然而_AD 这些_DT 装置_NN 大_JJ 部分_CD 的_DEC 时候_NN 都_AD 是_VC 处_NN 於_P 休息_NN 、_PU 监测_VV 的_DEC 状态_NN ，_PU 并_CC 不_AD 会_VV 一直_AD 传送_VV 讯息_NN 给_VV 基地台_NN ，_PU 因此_AD 就_AD 有_VE 了_AS 稀_JJ 疏_NN 的_DEG 性质_NN ，_PU 利用_VV 压缩_NN 感知_VV 的_DEC 技术_NN 就_AD 能_VV 分辨_VV 出_VV 处_NN 於_P 活动_JJ 状态_NN 的_DEC 装置_NN ，_PU 并_CC 解出_VV 其_PN 所_MSP 传送_VV 的_DEC 讯号_NN 。_PU
+
+压缩_NN 感知_VV 演_VV 算法_NN 天生_VV 就_AD 具有_VV 加密_VV 的_DEC 性质_NN ，_PU 因为_P 要_VV 重建_VV 原本_JJ 信号_NN 的话_LC ，_PU 必须_VV 要_VV 知道_NN 采样_VV 矩阵_NN 才_AD 能_VV 进重建_VV 。_PU 因此_AD 现今_NT 也_AD 有_VE 许多_CD 加密_VV 的_DEC 研究_NN 关注_NN 於_P 压缩_NN 感知_VV 演_VV 算法_NN ，_PU 因为_P 虚拟_JJ 乱数_NN 传感_NN 矩阵_NN (_PU Pseudo_NN -_PU randomSensingMatrix_NN )_PU 可以_VV 被_SB 视为_VV 一_CD 组_M 加密_VV 后_LC 的_DEG 钥匙_NN ，_PU 能_VV 对_P 信号_NN 进行_VV 压缩_NN 并_CC 同时_AD 加密_VV ，_PU 而_CC 不_AD 需要_VV 额外_VV 的_DEC 运算_NN ，_PU 可以_VV 参考_VV 。_PU
+
+
+
+

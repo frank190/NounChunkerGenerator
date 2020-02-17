@@ -1,0 +1,5 @@
+﻿_CD 反射率_NN
+
+反射率_NN （_PU 或_CC ）_PU 是_VC 在_P 一_CD 个_M 界面_NN 反射_NN 中_LC ，_PU 反射波_NN 与_CC 入射波_NN 功率_NN 的_DEG 比值_NN 。_PU 与_CC 之_PN 相_AD 对应_VV 的_DEC 概念_NN 是_VC 反射_NN 系数_NN ，_PU 定义_VV 为_VC 电磁_NN 波入_NN 射量_NN 与_CC 反射量_NN 的_DEG 比值_NN 。_PU
+
+

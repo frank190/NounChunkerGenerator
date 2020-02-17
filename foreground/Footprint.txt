@@ -1,0 +1,10 @@
+﻿Footprint_Err
+
+footprint_NN 是_VC 印刷_NN 电路板_NN 上_LC 针对_VV 表面_NN 安装_VV 技术_NN （_PU SMT_CD ）_PU 元件_NN 的_DEC 配置_NN ，_PU 或是_CC 通孔_NN 插装_NN 技术_NN 的_DEG 通孔_NN 配置_NN ，_PU 目的_NN 是_VC 让_VV 电气_NN 元件_NN 及_CC 积体_NN 电路_NN 可以_VV 固定_VV 在_P 印刷_NN 电路板_NN 上_LC ，_PU 且_CC 可以_VV 和_P 电路_NN 的_DEG 其他_DT 部份_NN 相_AD 连接_VV 。_PU 电路板_NN 上_LC 的_DEG footprint_NN 需要_NN 和_CC 元件_NN 的_DEG 引脚_NN 一致_VA 。_PU
+
+元件_NN 制造商_NN 一般_AD 会_VV 对_P 一_CD 个_M 产品_NN 生产_NN 许多_NN 和_CC 其他_DT 竞品_NN 针脚_NN 兼容_VA 的_DEC 型号_NN ，_PU 让方_NN 便_AD 更换_VV 零件_NN ，_PU 不_AD 需要_VV 修改_VV 印刷_NN 电路板_NN 上_LC 的_DEG footprints_NN 。_PU 这_AD 对_P 系统_NN 集成者_NN 降低_VV 成本_NN 很_AD 有_VE 帮助_NN ，_PU 尤其_AD 是_VC 针脚_NN 很_AD 密集_VA 的_DEC 球栅_NN 阵列_NN 封装_NN （_PU BGA_NN ）_PU 元件_NN ，_PU 其中_NN 的_DEG 銲点_NN 可能_VV 会_VV 连接_VV 到_VV 印刷_NN 电路板_NN 上_LC 的_DEG 其他_DT 层_NN 。_PU
+
+许多_CD 元件_NN 制造商_NN （_PU 像_AD 是_VC 德州_NN 仪器_NN 及_CC CUI_NN ）_PU 也_AD 会_VV 提供_VV 其_PN 元件_NN 的_DEG footprint_NN 资料_NN 。_PU footprint_NN 的_DEC 来源_NN 也_AD 包括_VV 第三_OD 方厂商_NN ，_PU 例如_AD SnapEDA_NN 。_PU
+
+
+

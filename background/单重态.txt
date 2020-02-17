@@ -1,0 +1,5 @@
+﻿单重_NN 态_NN
+
+单重_JJ 态_NN （_PU 英语_NN ：_PU Singletstat_NR e_ETC ）_PU ，_PU 也称_JJ 单线态_NN ，_PU 指_VV 的_DEC 是_VC 自_P 旋多_CD 重性_NN 为_VC 1_CD 的_DEG 分子_NN 。_PU 单_AD 重态_JJ 分子_NN 的_DEC 能级_NN 在_P 磁场_NN 中_LC 不_AD 裂分_M ，_PU 在_P 光谱_NN 中_LC 只_AD 能_VV 看到_VV 一_CD 条_M 能_VV 级线_NN 。_PU 绝_AD 大多数_CD 分子_NN 的_DEG 基态_NN 是_VC 单重_JJ 态_NN 。_PU
+
+

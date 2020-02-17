@@ -1,0 +1,5 @@
+﻿扭量_NN 理论_NN
+
+扭量_NN 理论_NN 是_VC 由_P 英国_NN 数学家_NN 、_PU 物理_NN 学家_NN 罗杰_NN ·_PU 彭罗_NN 斯_AD 开创_VV 的_DEC 一_CD 门_NN 主要_AD 用于_VV 解决_VV 广义_NN 相_AD 对论_VV 和_P 量子_NN 力学_NN 结合_NN 的_DEC 数学_NN 工具_NN 。_PU 与_P 回圈_NN 量子_NN 重力理_NN 论有_VV 着_AS 紧密_VA 的_DEC 关系_NN 而_MSP 不同于_VV 超弦_JJ 理论_NN 。_PU
+
+

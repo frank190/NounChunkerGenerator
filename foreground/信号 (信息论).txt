@@ -1,0 +1,21 @@
+﻿_NN 信号_NN (_PU 信息论_NN )_PU
+
+在_P 通讯_NN 系统_NN 、_PU 信号_NN 处理_NN 或者_CC 电子_NN 工程_NN 等_ETC 技术_NN 领域_NN 中_LC ，_PU 信号_NN 是_VC “_PU 传递_VV 有关_P 一_CD 些_M 现象_NN 的_DEG 行为_JJ 或_CC 属性_JJ 的_DEG 信息_NN 的_DEC 函数_NN 。_PU ”_PU 在_P 现实_JJ 世界_NN 中_LC ，_PU 任何_DT 随_JJ 时间_NN 或者_CC 空间_NN 变化_VV 的_DEC 量_NN （_PU 如_P 影像_NN ）_PU 都_AD 是_VC 潜在_VV 的_DEC 信号_NN ，_PU 它们_PN 可能_VV 会_VV 提供_VV 一_CD 个_M 物理_NN 系统_NN 的_DEC 状态_NN 信息_NN ，_PU 或_CC 在_P 不同_JJ 观察者_NN 之间_LC 传达_VV 消息_NN 等_ETC 。_PU 《_PU IEEE_NN 信号_NN 处理_NN 汇刊_NN 》_PU 阐述_VV “_PU 信号_NN ”_PU 一_CD 词_NN 如下_VV ：_PU
+
+信号_NN 的_DEC 其他_DT 例子_NN 如_P 传递_NN 温度_NN 信息_NN 的_DEC 热电偶_NN 输出_VV ，_PU 传递_VV 酸度_NN 信息_NN 的_DEC pH_NN 计_NN 输出_VV 。_PU 一般来说_AD ，_PU 信号_NN 通常_AD 由_P 传感器_NN 提供_VV ，_PU 而且_CC 通常_AD 用_P 换能器_NN 将_AD 能_VV 量从_VV 原始_JJ 形式_NN 转换_VV 为_VC 其他_DT 形式_NN 。_PU 例如_AD ，_PU 麦克风_NN 的_DEC 声学_NN 信号_NN 转换_VV 为_VC 电压_NN 波形_NN ，_PU 而_CC 一_CD 个_M 扬声器_NN 做_VV 相反_VA 的_DEC 事情_NN 。_PU
+
+在_P 信息论_NN 中_LC ，_PU 信号_NN 是_VC 一_CD 种_M 信息流_NN 。_PU 我们_PN 感_VV 兴趣_VV 的_DEC 大_JJ 部分_NN 信号_NN 都_AD 可_VV 表述_VV 为_VC 时间_NN 或_CC 位置_NN 的_DEC 函数_NN 。_PU 任何_DT 携带_NN 信息_NN 的_DEC 物理量_NN 皆_AD 可以_VV 作为_P 信号_NN 。_PU 信号_NN 本身_PN 所_MSP 携带_VV 的_DEC 信息_NN 是_VC 我们_PN 的_DEG 目的_NN ，_PU 从中_AD 提取_VV 有_VE 需要_VV 有用_VV 的_DEC 信号_NN ，_PU 抑制_VV 干扰_NN 部分_NN 是_VC 信号_NN 处理_NN 的_DEC 目标_NN 。_PU
+
+按照_P 信号_NN 时间_NN 向_P 量_NN 的_DEG 不同_JJ ，_PU 可以_VV 分为_VV ：_PU 连续_JJ 时间_NN 信号_NN （_PU Continuous_NN -_PU Time_NN ）_PU 和_CC 离散_NN 时间_NN 信号_NN （_PU Discrete_NR -_PU Time_NN ）_PU 。_PU 连续_JJ 信号_NN 是_VC 时间_NN 的_DEG 连续_JJ 函数_NN ，_PU 而_CC 离散_NN 信号_NN 是_VC 时间_NN 的_DEG 离散_NN 函数_NN 。_PU
+
+所有_DT 维度_NN 上_LC 均_AD 连续_VV 的_DEC 信号_NN 是_VC 模拟_NN 信号_NN ，_PU 所有_DT 维度_NN 上_LC 均_AD 离散_VV 的_DEC 信号_NN 则_AD 是_VC 数字_NN 信号_NN 。_PU 数字_NN 信号_NN 是_VC 通过_P 对_P 模拟_NN 信号_NN 时间_NN 、_PU 幅度_NN 维度_NN 上_LC 离_P 散化_VV 产生_VV 的_DEC 。_PU
+
+
+见_VV 频域_NN 。_PU
+
+无论_AD 对于_P 连续_JJ 信号_NN 还_AD 是_VC 离散_NN 信号_NN ，_PU 分析_NN 信号_NN 的_DEC 频谱_NN 都_AD 是_VC 一_CD 种_M 非常_AD 有效_VA 的_DEC 方法_NN 。_PU 例如_AD 一_CD 个_M 信号_NN 通过_P 线性_JJ 时不变_NN 系统_NN ，_PU 则_AD 系统_NN 输出_VV 频谱_NN 即_AD 为_VC 信号_NN 频谱_NN 与_CC 系统_NN 频率_NN 响应_NN 之_DEC 积_NN 。_PU
+
+信号_NN 的_DEC 另_DT 一_CD 重要_JJ 特性_NN 便_AD 是_VC 熵_CD 。_PU
+
+
+

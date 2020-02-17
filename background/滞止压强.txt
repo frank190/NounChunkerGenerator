@@ -1,0 +1,7 @@
+﻿滞_NN 止压_NN 强_VA
+
+滞止压强_NN （_PU ）_PU 也_AD 被_SB 称为_VV 皮_NN 托压_NN 强_VA ，_PU 是_VC 流体_NN 力学_NN 术语_NN 。_PU 是_VC 指流体_NN 在_P 某_DT 一_CD 滞点_NN 处_NN 的_DEG 静压_NN 。_PU 在_P 滞点_NN 处_NN ，_PU 流体_NN 的_DEC 速度_NN 为_VC 零_CD ，_PU 且_CC 所有_DT 的_DEG 动能_NN 都_AD 转化_VV 为_VC 压力能_NN （_PU 等熵_JJ 条件_NN 下_LC ）_PU 。_PU 滞止压_NN 强等于_VV 自由_P 流静压_NN 和_CC 自由_JJ 流动压_NN 之_DEC 和_CC 。_PU 滞止压_NN 强有_VV 时又_NN 被_SB 称为_VV 皮_NN 托压_NN 强_VA ，_PU 因_P 其_PN 通常_AD 用_P 皮托管_NN 测量_VV 。_PU
+
+
+
+

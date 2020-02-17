@@ -1,0 +1,24 @@
+﻿模拟_NN 信号_NN
+
+模拟_NN 信号_NN （_PU ）_PU 是_VC 指_VV 在_P 时域_NN 上_LC 数学_NN 形式_NN 为_VC 连续_JJ 函数_NN 的_DEG 讯号_NN 。_PU 与_P 类比_NN 讯号_NN 对应_VV 的_DEC 是_VC 数位_NN 讯号_NN ，_PU 后者_NN 采取_VV 分立_VV 的_DEC 逻辑值_NN ，_PU 而_CC 前者_NN 可以_VV 取得_VV 连续值_NN 。_PU 类比_NN 讯号_NN 的_DEG 概念_NN 常常_AD 在_P 涉及_VV 电_NN 的_DEG 领域_NN 中_LC 被_SB 使用_VV ，_PU 不过经_AD 典力学_NN 、_PU 水力学_NN 、_PU 空气_NN 动力学_NN （_PU ）_PU 等学科_NN 有时_AD 也_AD 会_VV 使用_VV 类比_NN 讯号_NN 的_DEG 概念_NN 。_PU
+
+类比_P 讯号_NN 利用_VV 对象_NN 的_DEG 一些_CD 物理_NN 属性_NN 来_MSP 表达_VV 、_PU 传递_VV 信息_NN 。_PU 例如_AD ，_PU 非_JJ 液体_NN 气压_NN 表_VV 利用_VV 指针螺_NN 旋位置_NN 来_MSP 表达_VV 压力_NN 资讯_NN 。_PU 在_P 电学_NN 中_LC ，_PU 电压_NN 是_VC 类比_P 讯号_NN 最_AD 普遍_VA 的_DEC 物理_NN 媒介_NN ，_PU 除_P 此_PN 之外_LC ，_PU 频率_NN 、_PU 电流_NN 和_CC 电荷_NN 也_AD 可以_VV 被_SB 用来_VV 表达_VV 类比_NN 讯号_NN 。_PU
+
+任何_DT 的_DEG 资讯_NN 都_AD 可以_VV 用_VV 类比_NN 讯号_NN 来_MSP 表达_VV 。_PU 这里_PN 的_DEG 讯号_NN 常常_AD 指_VV 物理_NN 现象_NN 中_LC 被_SB 测量_VV 对_P 变化_NN 的_DEC 响应_NN ，_PU 例如_AD 声音_NN 、_PU 光_NN 、_PU 温度_NN 、_PU 位移_NN 、_PU 压力_NN ，_PU 这些_DT 物理量_NN 可以_VV 使用_VV 传感器_NN 测量_NN 。_PU 模拟_JJ 讯号_NN 中_LC ，_PU 不同_VA 的_DEC 时间点_NN 位置_NN 的_DEC 讯号_NN 值_NN 可以_VV 是_VC 连续_AD 变化_VV 的_DEC ；_PU 而_CC 对于_P 数位_NN 讯号_NN ，_PU 不同_JJ 时间点_NN 的_DEG 讯号_NN 值_NN 总是_AD 处_NN 於_P 预先_NN 设定_VV 的_DEC 离散_NN 点_NN ，_PU 因_P 此_PN 如果_CS 物理量_NN 的_DEG 真实值_NN 不_AD 能_VV 在_P 这些_DT 默认值_NN 中_LC 被_SB 找到_VV ，_PU 那么_AD 这时_NT 数位_NN 讯号_NN 就_AD 与_P 真实_AD 值存_VV 在_P 一定_JJ 的_DEG 偏差_NN 。_PU
+
+理论_NN 上_LC ，_PU 类比_NN 讯号_NN 的_DEG 分辨率_NN 趋近_VV 无穷_AD 大_VA 。_PU 不_AD 过_VV 在_P 实际_JJ 情况_NN 中_LC ，_PU 类比_NN 讯号_NN 的_DEG 分辨_NN 率常常_AD 会_VV 受_VV 噪声_NN 和_CC 讯号_NN 摆率_NN （_PU ）_PU 的_DEG 限制_NN 。_PU 因此_AD ，_PU 现实_NT 中_LC 的_DEG 类比_NN 讯号_NN 和_CC 数位_NN 讯号_NN 的_DEG 分辨率_NN 和_CC 频宽_NN 都_AD 有_VE 一定_JJ 的_DEG 限制_NN 。_PU 在_P 一些_CD 非常_AD 复杂_VA 的_DEC 类比_NN 系统_NN 中_LC ，_PU 诸如_AD 非线性_JJ 问题_NN 和_CC 噪声_NN 等_ETC 效应_NN 会_VV 降低_VV 类比_NN 讯号_NN 的_DEG 分辨率_NN ，_PU 以至_CC 於_P 此时_NT 它_PN 的_DEG 分辨率_NN 甚至_AD 低于_VV 特定_JJ 的_DEG 数位_NN 讯号_NN 系统_NN 。_PU 类似_VA 的_DEC ，_PU 当_P 数位_NN 系统_NN 变得_VV 复杂_VA 时_LC ，_PU 数位资_NN 料流_NN 里_LC 会_VV 产生_VV 错误_VA 。_PU 在_P 实际_JJ 的_DEG 系统_NN 中_LC ，_PU 往往_AD 需要_VV 综合_VV 应用_VV 两_CD 种_M 形式_NN 的_DEC 讯号_NN ，_PU 从而_AD 使_VV 的_DEC 系统_NN 获得_VV 最_AD 好_VA 的_DEC 工作_NN 性能_NN 。_PU
+
+模拟_NN 信号_NN 的_DEC 主要_JJ 优点_NN 是_VC 其_PN 精确_VA 的_DEC 分辨率_NN ，_PU 在_P 理想_NN 情况_NN 下_LC ，_PU 它_PN 具有_VV 无穷_AD 大_VA 的_DEC 分辨率_NN 。_PU 与_P 数字_NN 信号_NN 相比_VV ，_PU 模拟_NN 信号_NN 的_DEG 信息_NN 密度_NN 更_AD 高_VA 。_PU 由于_P 不_AD 存在_VV 量化_VV 误差_NN ，_PU 它_PN 可以_VV 对自_VV 然界_NN 物理_NN 量_NN 的_DEG 真实值_NN 进行_VV 尽可能_AD 逼近_VV 的_DEC 描述_NN 。_PU
+
+模拟_NN 信号_NN 的_DEC 另_DT 一_CD 个_M 优点_NN 是_VC ，_PU 当_P 达到_VV 相同_VA 的_DEC 效果_NN ，_PU 模拟_NN 信号_NN 处理_NN 比_P 数字_NN 信号_NN 处理_NN 更_AD 简单_VA 。_PU 模拟_NN 信号_NN 的_DEC 处理_NN 可以_VV 直接_AD 通过_P 模拟_NN 电路_NN 元件_NN （_PU 例如_AD 运算_VV 放大器_NN 等_ETC ）_PU 实现_VV ，_PU 而_CC 数字_NN 信号_NN 处理_VV 往往_AD 涉及_VV 复杂_VA 的_DEC 算法_NN ，_PU 甚至_AD 需要_VV 专门_VV 的_DEC 数字_NN 信号_NN 处理器_NN 。_PU
+
+类比_P 讯号_NN 的_DEG 主要_JJ 缺点_NN 是_VC 它_PN 总是_AD 受到_VV 噪声_NN （_PU 讯号_NN 中_LC 不_AD 希望_VV 得到_VV 的_DEC 随机_JJ 变化值_NN ）_PU 的_DEG 影响_NN 。_PU 讯号_NN 被_SB 多次_AD 复制_VV ，_PU 或_CC 进行_VV 长_JJ 距离_NN 传输_NN 之后_LC ，_PU 这些_DT 随机_NN 噪声_NN 的_DEG 影响_NN 可能_VV 会_VV 变得_VV 十分_AD 显著_VA 。_PU 在_P 电学_NN 里_LC ，_PU 使用_VV 接_VV 地_DEC 封锁_NN （_PU ）_PU 、_PU 线路_NN 良好_VA 接触_VV 、_PU 使用_VV 同_DT 轴_NN 电缆_NN 或_CC 双绞线_NN ，_PU 可以_VV 在_P 一定_JJ 程度_NN 上_LC 缓解_VV 这些_DT 负面_NN 效应_NN 。_PU
+
+噪声_NN 效应_NN 会_VV 使_VV 讯号_NN 产生_VV 失真_NN 。_PU 失真_VV 后_LC 的_DEG 类比_NN 讯号_NN 几乎_PN 不_AD 可能_VV 再次_AD 被_SB 还原_VV ，_PU 因为_P 对_P 所_MSP 需_VV 讯号_NN 的_DEG 放大_NN 会_VV 同时_AD 对_P 噪声_NN 讯号_NN 进行_VV 放大_NN 。_PU 如果_CS 噪声_NN 频率_NN 与_CC 所_MSP 需_VV 讯号_NN 的_DEG 频率_NN 差距_NN 较_AD 大_VA ，_PU 可以_VV 透过_P 引入_VV 电子_NN 滤波器_NN ，_PU 过滤掉_NN 特定_JJ 频率_NN 的_DEG 噪声_NN ，_PU 但是_CC 这_DT 一_CD 方案_NN 只_AD 能_VV 尽可能_AD 地_DEV 降低_VV 噪声_NN 的_DEG 影响_NN 。_PU 因此_AD ，_PU 在_P 噪声_NN 在_P 作用_NN 下_LC ，_PU 虽然_CS 类比_VV 讯号理_NN 论_NN 上_LC 具有_VV 无穷_AD 分辨率_NN ，_PU 但_CC 并_AD 不_AD 一定_JJ 比_NN 数位_NN 讯号_NN 更加_AD 精确_VA 。_PU
+
+尽管_CS 数位_NN 讯号_NN 处理_NN 演_VV 算法_NN 相对_AD 复杂_VA ，_PU 但是_CC 现有_JJ 的_DEG 数位_NN 讯号_NN 处理器_NN 可以_VV 快速_AD 地_DEV 完成_VV 这_DT 一_CD 项_M 任务_NN 。_PU 另外_AD ，_PU 电脑_NN 等_ETC 系统_NN 的_DEG 逐渐_NN 普及_VA ，_PU 使得_VV 数位_NN 讯号_NN 的_DEG 传播_NN 和_CC 处理_NN 都_AD 变得_VV 更加_AD 方便_VA 。_PU 诸如_AD 照相机_NN 等_ETC 设备_NN 都_AD 逐渐_AD 实现_VV 数位化_NN ，_PU 尽管_CS 它们_PN 最初_AD 必须_VV 以_P 类比_NN 讯号_NN 的_DEG 形式_NN 接收_VV 真实物_NN 理量_NN 的_DEG 资讯_NN ，_PU 最后_AD 都_AD 会_VV 透过_VV 类比_JJ 数位_NN 转换器_NN 转换_VV 为_VC 数位_NN 讯号_NN ，_PU 以_MSP 方便_VA 电脑_NN 进行_VV 处理_NN ，_PU 或_CC 透过_VV 网际_NN 网路_NN 进行_VV 传输_NN 。_PU
+
+利用_VV 信号_NN 的_DEG 调变_NN 技术_NN ，_PU 可以_VV 将_BA 信号_NN 转换_VV 成_VV 所_MSP 需要_VV 的_DEC 不同_JJ 性质_NN 的_DEC 模拟_NN 信号_NN 。_PU 例如_AD ，_PU 可以_VV 对_P 正_AD 弦载_VV 波_BA 进行_VV 调幅_NN 、_PU 调频_VV 来_MSP 达到_VV 特殊_VA 的_DEC 工作_NN 目的_NN 。_PU
+
+
+

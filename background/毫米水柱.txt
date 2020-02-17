@@ -1,0 +1,5 @@
+﻿毫米_NN 水柱_NN
+
+毫米_JJ 水柱_NN ，_PU 符号_NN mmWG_NN 、_PU mmWC_NN 、_PU mmHO_NN ，_PU 是_VC 一_CD 种_M 较为_AD 少见_VA 的_DEC 压强_JJ 单位_NN ，_PU 定义_NN 为_VC 标准_NN 重力_VV 加速度_NN 下_LC 4_CD ℃_M （_PU 水_NN 密度_NN 最_AD 大_VA ，_PU 约_AD 为_VC 999_CD ._PU 9720_CD kg/m_M ）_PU 时_LC 1_CD 毫米_M 高_JJ 水柱_NN 产生_VV 的_DEC 压强_NN ，_PU 约_AD 等于_VV 9_CD ._PU 80638_CD 帕_M 。_PU 但是_AD 计算_VV 时常_AD 采用_VV 水_NN 的_DEG 密度_NN 为_VC 1000_CD kg/m_M ，_PU 也就_AD 是_VC 1_CD 毫米_M 水柱_NN 等于_VV 9_CD ._PU 80665_CD 帕_NN 。_PU
+
+

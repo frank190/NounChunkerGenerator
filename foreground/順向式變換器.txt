@@ -1,0 +1,15 @@
+﻿顺_VV 向_P 式_NN 变换器_NN
+
+顺向式_JJ 变换器_NN （_PU forwardconverter_PU ）_PU 是_VC 一_CD 种_M 配合_VV 变压器_NN 的_DEG DC_NN -_PU DC_NN 转换器_NN ，_PU 输出_NN 电压_NN 可以_VV 高于_VV 或_CC 低于_VV 输入_VV 电压_NN （_PU 依_P 变压器_NN 匝数_NN 比_P 而_MSP 定_VV ）_PU ，_PU 也_CC 可以_VV 提供_VV 电源_NN 和_CC 负载_NN 之间_LC 的_DEG 电气_NN 隔离_VV 。_PU 若_CS 变压器_NN 有_VE 多组_JJ 二_CD 次_M 侧绕组_NN ，_PU 也_CC 可以_VV 同时_AD 提供_VV 多_CD 组_M 输出_NN 电压_NN ，_PU 有些_DT 高于_VV 输入_NN 电压_NN ，_PU 有些_DT 低于_VV 输入_VV 电压_NN 。_PU
+
+顺向式_JJ 变换器_NN 和_CC 返驰式_JJ 变换器_NN 都_AD 是_VC 有_VE 变压器_NN 的_DEG DC_NN -_PU DC_NN 转换器_NN ，_PU 两_CD 者_NN 的_DEG 电路_NN 看似_VV 相近_VV ，_PU 其_PN 实_AD 顺向式_JJ 变换器_NN 动作_NN 原理_NN 和_CC 返驰式_JJ 变换器_NN 不同_VA 。_PU 返驰式_JJ 变换器_NN 在_P 开关_NN 元件_NN 导通_VV 时_LC ，_PU 将_BA 能量_NN 储存_VV 在_P 变压器_NN 的_DEG 气隙_NN 中_LC ，_PU 将_BA 开关_NN 元件_NN 开路_NN 时_LC ，_PU 变压器_NN 提供_VV 能量_NN 给_VV 负载端_NN 。_PU 返驰式_JJ 变换器_NN 可以_VV 视为_VV 是_VC 二_CD 个_M 电感器_NN 共用_JJ 铁心_NN ，_PU 而且_CC 有_VE 端性_NN 相反_VV 的_DEC 绕组_NN 。_PU
+
+顺向式_JJ 变换器_NN 也_AD 有_VE 变压器_NN ，_PU 但是_CC 其_PN 绕组_JJ 的_DEG 极性_NN 相同_VA 、_PU 磁化_NN 电感_NN 较_AD 强_VA ，_PU 而且_CC 没有_VE 气隙_NN 。_PU 顺向式_JJ 变换器_NN 在_P 开关_NN 元件_NN 导通_VV 时_LC ，_PU 不_AD 会_VV 将_BA 能量_NN 储存_VV 在_P 变压器_NN 中_LC 。_PU 这里_PN 中_LC 的_DEG 变压器_NN 不_AD 像_P 电感_NN ，_PU 可以_VV 储存_VV 许多_CD 的_DEG 能量_NN 。_PU 在_P 开关_NN 元件_NN 导通_VV 时_LC ，_PU 能量_AD 会_VV 直接_VV 的_DEC 流到_NN 负载端_NN ，_PU 并且_CC 也_AD 在_P 电感器_NN 上_LC 储能_NN 。_PU 顺向式_JJ 变换器_NN 的_DEG 效率_NN 比_P 返驰式_JJ 变换器_NN 要高_VV ，_PU 但是_AD 也_AD 比_P 返驰式_JJ 变换器_NN 多_VV 了_AS 一_CD 个_M 电感器_NN 。_PU
+
+返驰式_JJ 变换器_NN 的_DEG 输出_NN 电压_NN 理论_NN 上_LC 是_VC 无限_AD 大_VA ，_PU 而_CC 顺向式_JJ 变换器_NN 的_DEG 最_AD 大_JJ 输出_NN 电压_NN 会_VV 受到_VV 变压器_NN 匝数_NN 比_P formula_NN
+
+其中_NN formula_NN
+
+顺向式_JJ 变换器_NN 常_AD 用来_VV 作_VV 100_CD 至_CC 200_CD 瓦特_VV 的_DEC 中型_JJ 电源_NN 供应器_NN 。_PU
+
+

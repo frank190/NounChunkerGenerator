@@ -1,0 +1,17 @@
+﻿_NN 非_AD 共价作_JJ 用力_NN 指数_NN
+
+非_AD 共价作_JJ 用力_NN 指数_NN 一般来说_AD 是_VC 根据_P 电子_NN 密度_NN (_PU ρ_CD )_PU 以及_CC 简化_VV 密度_NN 梯度_NN (_PU s_NN )_PU 来_MSP 使_VV 非_VC 共价作_JJ 用力_NN (_PU N_CD CI_M )_PU 具体化_VV 的_DEC 数值_NN 。_PU 由_P 实证_JJ 研究_NN 得知_VV 非_VC 共价作_JJ 用力_NN 在_P 低_JJ 电子_NN 密度_NN 下_LC 与_P 低_JJ 简化_NN 密度_NN 梯度_NN 区域_NN 相_AD 关联_VV 。_PU 量子_NN 化学_NN 中_LC ，_PU 非_AD 共价_AD 作用_VV 力_JJ 指数_NN 在_P 三维_NT 空间_NN 下_LC 可以_VV 被_SB 用来_VV 具体_JJ 化非_NN 共价_JJ 交互_NN 作用_NN 。_PU
+
+其具_NN 体化_NN 是_VC 借由_P 不同_JJ 著_NN 色深_NN 浅度_NN (_PU 强度_NN )_PU 来_MSP 表现_VV 简化_JJ 密度_NN 梯度_NN 的_DEC 等值_JJ 曲面_NN 。_PU 其_PN 深浅度_NN 通常_AD 透过_VV 电子_NN 密度_NN 以及_CC 各_DT 个_M 在_P 等值_JJ 曲面_NN 其_PN 海森_NN 电子_NN 密度_NN 的_DEC 第二_OD 特征_NN 值_NN (_PU λ_NN )_PU 来_MSP 量测_VV ，_PU 吸引_VV 或是_CC 排斥_VV 的_DEC 特性_NN 则_AD 由_P λ_PN 的_DEG 正_JJ 负号_NN 决定_VA 。_PU 因此_AD 可以_VV 直接_AD 在_P 三维_NN 空间_NN 中_LC 展现_VV 非_VC 共价作_JJ 用力_NN 以及_CC 其_PN 特性_NN ，_PU 如_P 氢键_NN 和_CC 空间位_NN 阻_NN 。_PU 基_NN 於_P 电子_NN 密度_NN 和_CC 导出_VV 的_DEC 纯量_CD 场_M ，_PU 非_AD 共价作_JJ 用力_NN 指数_NN 不_AD 会_VV 因_P 分子_NN 轨域_NN 的_DEG 转化_NN 而_MSP 改变_VV 。_PU 此外_AD ，_PU 一_CD 系统_NN 的_DEG 电子_NN 密度_NN 可以_VV 借由_VV X_NN 光_NN 绕射_NN 实验_NN 以及_CC 理论_PN 波_M 函数_NN 计算_VV 来_MSP 推算_VV 。_PU
+
+简化_JJ 密度_NN 梯度 _NN (_PU s_NN )_PU 为_VC 一_CD 电子_NN 密度_NN 的_DEG 纯量场_NN (_PU ρ_NN )_PU ，_PU 其_PN 可_VV 表示_VV 如_P 下_NN :_PU
+
+formula_NN
+
+在_P 密度_NN 泛函_NN 理论_NN 框架_NN 中_LC ，_PU 简化_JJ 密度_NN 梯度_NN 起源于_VV 广义_JJ 密度_NN 梯度_NN 近似_VA (_PU GGA_NN )_PU 的_DEC 交换_NN 泛函_NN ，_PU 最初_NT 的_DEG 定义_NN 为_VC :_PU
+
+formula_NN
+
+k_VV 在_P 此_PN 表示_VV 自由_P 电子_NN 气体_NN 的_DEG 费_NN 米动量_NN 。_PU
+
+

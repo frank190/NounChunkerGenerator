@@ -1,0 +1,11 @@
+﻿_CD BRST_NN 量子化_NN
+
+在_P 理论物_NN 理学_NN 中_LC ，_PU BRST_NN 量子化_NN 是_VC 指_VV 以_P 较_AD 严格_VA 的_DEC 数学_NN 方式_NN 、_PU 借由_VV 规范_NN 对_P 称性_JJ 以量子_NN 化场论_NN ，_PU 它_PN 以_P 卡洛_NN ·_PU 贝基_NN （_PU Becchi_NN ）_PU 、_PU 阿兰_NN ·_PU 鲁埃_NN （_PU Rouet_NN ）_PU 、_PU 雷蒙_NN ·_PU 斯_DT 托拉_NN （_PU Stora_NN ）_PU 和_CC 伊戈尔_NN ·_PU 秋京_NR （_PU Tyutin_NN ）_PU 的_DEC 首字母_NN 命名_NN 。_PU 在_P 早期_NN 量子_NN 场论_NN 中_LC ，_PU 特別_NN 是_VC 非阿贝_AD 尔量子_NN 场论_NN ，_PU 其中_NN 的_DEC 「_PU 鬼场_NN 」_PU 几乎_AD 都_AD 是_VC 以_P 重整化_NN 和_CC 反常_AD 抵消_VV 的_DEC 方式_NN 处理_NN 。_PU
+
+70_CD 年代_NN 中期_NN 推出_VV 的_DEC BRST_NN 超对_VV 称对_JJ 量子_NN 场论_NN 进行_VV 计算_NN 时_LC ，_PU 合理_AD 引入_VV 法捷_NN 耶_VV 夫_NN -_PU 波波夫_NN 鬼粒子_NN ，_PU 并_CC 从_P 物理_NN 渐_AD 近_VV 状态_NN 将_BA 其_PN 排除_VV 在_VV 外_NN 。_PU 至关_AD 重要_VA 的_DEC 是_VC ，_PU 路径_NN 积分_AD 得以_VV 防止_VV 引入_VV 可能_VV 破坏_VV 规_NN 范理_NN 论_NN 的_DEG 项目_NN 。_PU 直_AD 到_P 数十_OD 年_M 后_LC ，_PU 物理_NN 学家_AD 才_AD 以_P BRST_NN 替_P 代路_NN 径积分_NN 的_DEG 存在_NN 。_PU
+
+在_P 20_OD 世纪_NN 80_CD 年代_NN 末_LC ，_PU 当_P 量子_NN 场论_NN 得以_VV 解决_VV 低_JJ 维流_NN 形_NN 拓扑_NN 结构_NN 的_DEC 问题_NN ，_PU BRST_NN 量子_NN 化变_NN 得比_VV 在_P 利用_VV 以_P 反常_AD 抵消_VV 解决_VV 鬼场_NN 的_DEC 方法_NN 更_AD 有效_VA 。_PU 这_DT 种_M 修改_NN 原始_NN 作用_NN 量_NN ，_PU 添加_VV 进去_VV 一_CD 个_M 额外_NN 的_DEC 场_NN （_PU 鬼场_NN ）_PU 并_CC 打破_VV 规范_NN 对_P 称性_JJ 的_DEG 方法_NN ，_PU 即_AD 被_SB 称作_VV 「_PU 法捷_NN 耶_VV 夫_NN -_PU 波波夫_NN 方法_NN 」_PU 。_PU 至於_AD 规范_VV 不_AD 变性_JJ 和_CC BRST_NN 不变性_NN 之间_LC 的_DEG 关系_NN ，_PU 使得_VV 哈_JJ 密顿_NN 系统_NN 的_DEC 状态_NN 由_P 粒子_NN 的_DEC 规范量_NN 子_NN 化_NN 选择_NN 。_PU 此外_AD ，_PU 在_P 某些_DT 情况_NN 下_LC ，_PU 特別_NN 是_VC 重力_NN 和_CC 超引力_NN ，_PU BRST_NN 必须_VV 由_P 更_AD 一般_JJ 的_DEG 形式_NN ，_PU 例如_AD 以_P 巴塔林_NN -_PU 维尔_NN 可_VV 维_P 斯_DT 基代_NN 数_AD 取代_VV 。_PU
+
+
+
+
